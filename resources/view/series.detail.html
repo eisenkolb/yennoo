@@ -1,0 +1,326 @@
+<div id="media-header" class="show-for-medium-up">
+    <div class="media-banner overlay">
+        <div class="banner animated fadeIn" onready="relpaceimage" data-image="media.fanart" ng-show="media.fanart"></div>
+        <div class="gradient"></div>
+        <!--<div class="radial"></div>-->
+    </div>
+</div>
+
+<div class="large-12 columns">
+    <div id="media-description" class="small-12 large-offset-1 large-10 columns left">
+        <div class="large-12 columns">
+            <div class="columns">
+                <div class="show-for-medium-up">
+                    <div id="cover-cointainer" class="poster cover" style="background-image: url('/assets/img/media.cover.edges.png');">
+                        <img class="animated slideInUp width-280" src="/assets/img/media.cover.edges.png" onready="relpaceimage" data-image="media.poster" ng-if="media" />
+                    </div>
+                </div>
+            </div>
+
+            <div class="large-title row show-for-large-up column">
+                <div class="original large-11" ng-if="media.originaltitle != media.title">
+                    <div class="large-12 columns row">{{media.originaltitle}}</div>
+                </div>
+                <div class="title">
+                    <h1 class="left truncate truncate-85">{{media.title}}</h1>
+                    <small ng-if="media.year" class="year left">({{media.year}}</small>
+                </div>
+
+                <div class="summary row show-for-large-up">
+                    <ul class="inline-list large-12 columns">
+                        <li ng-if="media.premiered"><a ng-href="{{route.series}}/filter/year/{{(media.premiered).split('-')[0]}}">{{(media.premiered).split("-")[0]}}</a></li>
+                        <li ng-if="media.studio && media.studio.length"><a ng-href="{{route.series}}/filter/studio/{{media.studio[0].toLowerCase()}}">{{media.studio[0]}}</a></li>
+                        <li ng-if="media.episode"><a ng-href="{{route.series}}/filter/episode/{{media.episode}}">{{media.episode}} {{"PROPERTY.EPISODE" | translate}}</a></li>
+                        <li ng-if="media.genre" ng-repeat="genre in media.genre"><a ng-href="{{route.series}}/filter/genre/{{genre.toLowerCase()}}">{{genre}}</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="panel large-12 media-description">
+                <div class="large-12 large-offset-0 media-plot">
+                    <div class="fix-poster left show-for-medium-up"></div>
+                    <div class="poster cover show-for-small">
+                        <img class="animated slideInUp width-280" ng-if="media" data-image="media.poster" onready="relpaceimage" src="/assets/img/media.cover.edges.png" />
+                    </div>
+                    <p class="plot">{{media.plot}}</p>
+                </div>
+
+                <div class="large-12 large-offset-0" id="tabs">
+                    <ul class="large-block-grid-6 small-block-grid-6 tabs">
+                        <li class="tab-title show-for-medium-up begin"><a>&nbsp;</a></li>
+                        <li class="tab-title text-center active"><a href="#tab-seasons">{{"TVSHOW.SEASONS" | translate}}</a></li>
+                        <li class="tab-title text-center"><a href="#tab-overview">{{"TVSHOW.OVERVIEW" | translate}}</a></li>
+                        <li class="tab-title text-center"><a href="#tab-cast" ng-show="media.cast">{{"MOVIE.CAST" | translate}}</a></li>
+                        <li class="tab-title text-center"><a href="#tab-episodes" ng-show="episodes">+ {{"TVSHOW.ALL_EPISODES" | translate}}</a></li>
+                        <li class="tab-title show-for-medium-up end"><a>&nbsp;</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="panel large-12 media-description margin-bottom">
+                <div class="tabs-content" id="tabs-content">
+                    <div id="tab-seasons" class="content active">
+                        <h5>{{"TVSHOW.SEASONS" | translate}}</h5>
+                        <ul class="large-block-grid-5 medium-block-grid-3 small-block-grid-2 poster cover" ng-if="media">
+
+                            <li ng-repeat="season in seasons | orderBy: '+season' as filtered track by $index" ng-if="seasons">
+                                <div class="season">
+                                    <div class="action-area">
+                                        <div class="actions small-12 text-center">
+                                            <div class="row name">{{"MOVIE.WATCH_ON" | translate:"{'name': 'Kodi'}"}}</div>
+                                            <div class="row">&nbsp;</div>
+                                            <div class="row">&nbsp;</div>
+                                            <div class="row"><i class="fa fa-5x fa-play-circle play" ng-click="startSeasons(season, $event);" title="{{'GLOBAL.PLAY' | translate}}"></i></div>
+                                            <div class="row hide-for-small">&nbsp;</div>
+                                            <div class="row watched-status truncate truncate-85 hide-for-small">
+                                                <div ng-if="season.episode == season.watchedepisodes" class="watched"><i class="fa fa-thumbs-o-up"></i> {{"GLOBAL.WATCHED" | translate}}</div>
+                                                <div ng-if="season.episode != season.watchedepisodes" class="unwatched"><i class="fa fa-eye"></i> {{season.episode - season.watchedepisodes}} {{"GLOBAL.NOT_WATCHED" | translate}}</div>
+                                            </div>
+                                            <div class="row small-12 left">
+                                                <div class="small-8 column text-left hide-for-small episodes truncate truncate-85" ng-if="season.episode">
+                                                    {{season.episode}} {{"PROPERTY.EPISODE" | translate}}
+                                                </div>
+                                                <div class="small-3 column text-right queued">
+                                                    <i class="fa fa-file-text-o icon queue" ng-click="queueSeasons(season, $event);" title="{{'MOVIE.QUEUED' | translate}}"></i>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <img class="cover blur-image whitout-shadow" data-image="season.poster || unknown" src="/assets/img/media.cover.blank.gif" onready="relpaceimage" />
+                                    </div>
+
+                                    <a ng-href="{{route.series}}/{{tvshowid}}/{{(season.showtitle).toLowerCase()}}/season/{{season.season}}">
+                                        <img data-image="season.poster || unknown" onready="relpaceimage" src="/assets/img/media.cover.blank.gif" class="whitout-shadow select" />
+                                        <span class="season-label text-center">{{"TVSHOW.SEASON" | translate}} {{season.season}}</span>
+                                    </a>
+                                </div>
+                            </li>
+
+                        </ul>
+                    </div>
+
+                    <div id="tab-overview" class="content">
+                        <h5>{{"TVSHOW.OVERVIEW" | translate}}</h5>
+                        <table class="panel small-12 large-6 left text-inherit" ng-if="media">
+                            <tr ng-if="media.time && media.time.premiered && media.time.premiered.toLocaleFormat">
+                                <td>{{"PROPERTY.PREMIERED" | translate}}</td>
+                                <td>
+                                    <a ng-href="{{route.series}}/filter/premiered/{{media.premiered}}" title="{{(media.time.premiered).toLocaleFormat().split(' 01:00:00')[0]}}">{{media.time.premiered.toLocaleDateString()}}</a>
+                                </td>
+                            </tr>
+                            <tr ng-if="media.episode">
+                                <td>{{"PROPERTY.EPISODE" | translate}}</td>
+                                <td>
+                                    {{media.episode}}
+                                </td>
+                            </tr>
+                            <tr ng-if="media.tag && media.tag.length">
+                                <td>{{"PROPERTY.TAG" | translate}}</td>
+                                <td>
+                                    {{media.tag}}
+                                </td>
+                            </tr>
+                            <tr ng-if="media.studio">
+                                <td>{{"PROPERTY.STUDIO" | translate}}</td>
+                                <td>
+                                    <span ng-repeat="studio in media.studio track by $index"><a ng-href="{{route.series}}/filter/studio/{{studio.toLowerCase()}}">{{studio}}</a>{{$last ? null : ", "}}</span>
+                                </td>
+                            </tr>
+                            <tr ng-if="media.premiered">
+                                <td>{{"PROPERTY.YEAR" | translate}}</td>
+                                <td>
+                                    <a href="{{route.series}}/filter/year/{{(media.premiered).split('-')[0]}}">{{(media.premiered).split("-")[0]}}</a>
+                                </td>
+                            </tr>
+                            <tr ng-if="media.ratings && media.ratings.score">
+                                <td>{{"PROPERTY.RATING" | translate}}</td>
+                                <td>
+                                    <a ng-href="{{route.series}}/filter/rating/{{media.ratings.score}}">{{(media.ratings.score).toLocaleString()}} / 10</a>
+                                    <div class="votes-in-rating" ng-if="media.votes">
+                                        <a ng-href="{{route.series}}/filter/votes/{{media.votes}}">( {{media.votes}} {{"PROPERTY.VOTES" | translate}} )</a>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+
+                        <hr class="show-for-small" />
+
+                        <table class="panel small-12 large-6 right text-inherit" ng-if="media">
+                            <tr ng-if="media.genre">
+                                <td>{{"PROPERTY.GERNE" | translate}}</td>
+                                <td>
+                                    <span ng-repeat="genre in media.genre track by $index"><a ng-href="{{route.series}}/filter/genre/{{genre.toLowerCase()}}">{{genre}}</a>{{$last ? null : ", "}}</span>
+                                </td>
+                            </tr>
+                            <tr ng-if="media.mpaa">
+                                <td>{{"PROPERTY.MPAA" | translate}}</td>
+                                <td>
+                                    <a class="mpaa tv {{(media.mpaa).toLowerCase()}}" ng-href="{{route.series}}/filter/mpaa/{{(media.mpaa).toLowerCase()}}">
+                                        <span class="left label">{{(media.mpaa).split("-")[0].toUpperCase()}}</span>
+                                        <span class="left rating">{{(media.mpaa).split("-")[1].toUpperCase()}}</span>
+                                    </a>
+                                </td>
+                            </tr>
+                            <tr ng-if="media.imdbnumber">
+                                <td>{{"PROPERTY.IMDB" | translate}}</td>
+                                <td class="imdb"><a target="_blank" ng-href="http://www.imdb.com/title/{{media.imdbnumber}}/?{{media.label}}"><span class="truncate truncate-80">{{media.label}} ({{(media.premiered).split("-")[0]}})</span>
+                                    <div class="label radius">{{"PROPERTY.IMDB" | translate}}</div></a>
+                                </td>
+                            </tr>
+                            <tr ng-if="media.time && media.time.dateadded && media.time.dateadded.toLocaleFormat">
+                                <td>{{"PROPERTY.DATEADDED" | translate}}</td>
+                                <td>
+                                    <a href="{{route.series}}/filter/dateadded/{{media.dateadded.split(' ')[0]}}">{{media.time.dateadded.toLocaleFormat()}}</a>
+                                </td>
+                            </tr>
+                            <tr ng-if="media.time && media.time.lastplayed && media.time.lastplayed.toLocaleFormat">
+                                <td>{{"PROPERTY.LASTPLAYED" | translate}}</td>
+                                <td>
+                                    <a href="{{route.series}}/filter/lastplayed/{{media.lastplayed.split(' ')[0]}}">{{media.time.lastplayed.toLocaleFormat()}}</a>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+
+                    <div id="tab-cast" class="content" ng-init="castSize = 5">
+                        <h5>{{"MOVIE.CAST" | translate}}</h5>
+
+                        <div class="additional-button label radius">
+                            <span data-options="is_hover:true; hover_timeout:1000;" data-dropdown="cast-size" href="#">
+                                {{"MOVIE.DISPLAY" | translate}}: <b>{{castSize}}</b>
+                            </span>
+                            <ul data-dropdown-content="" class="cast-size f-dropdown" id="cast-size">
+                                <li><a ng-click="castSize = 2">2</a></li>
+                                <li><a ng-click="castSize = 3">3</a></li>
+                                <li><a ng-click="castSize = 4">4</a></li>
+                                <li><a ng-click="castSize = 5">5</a></li>
+                                <li><a ng-click="castSize = 6">6</a></li>
+                            </ul>
+                        </div>
+
+                        <ul class="small-block-grid-{{castSize}}">
+                            <li class="item" ng-repeat="cast in media.cast" ng-if="media.cast">
+                                <a ng-href="#/people/{{cast.name.toLowerCase()}}">
+                                    <img class="people th" src="/assets/img/thumbnail.blank.gif" onready="relpaceimage" data-image="cast.image || unknown" />
+                                </a>
+                                <div class="text-center">
+                                    <div class="small-12 people"><a ng-href="#/people/{{cast.name.toLowerCase()}}">{{cast.name}}</a></div>
+                                    <div class="small-12 role"><i class="fa fa-star"></i><a target="_blank" ng-href="http://www.imdb.com/find?s=ch&q={{cast.role}}">{{cast.role}}</a></div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div id="tab-episodes" class="content">
+                        <h5>{{"TVSHOW.ALL_EPISODES" | translate}}</h5>
+
+                        <ul class="accordion column row left" data-accordion="" ng-repeat="(index, season) in episodes track by $index" ng-if="episodes">
+
+                            <li class="accordion-navigation active">
+                                <a href="#season-{{index}} ">
+                                    <i class="fa" ng-class="{'fa-circle-thin': seasons[index].episode != seasons[index].watchedepisodes, 'fa-check-circle': seasons[index].episode == seasons[index].watchedepisodes}"></i>
+                                    <strong>{{"TVSHOW.SEASON" | translate}} {{index}}</strong>
+                                </a>
+                                <div id="season-{{index}}" class="content">
+                                    <ul class="row episodes" data-accordion="" ng-repeat="episode in season">
+
+                                        <li class="accordion-navigation episode">
+                                            <span class="number-list left">
+                                                {{(episode.label).split(".")[0].split("x")[1]}}
+                                            </span>
+                                            <a class="title" ng-href="#season-{{index}}-episode-{{episode.episode}}">
+                                                <span class="episode-watched" ng-if="episode.playcount"><i class="fa fa-check-circle"></i></span>
+                                                <span class="episode-number">{{(episode.label).split(" ")[0]}}</span>
+                                                <span class="episode-title">{{episode.title}}</span>
+                                                <span class="right row column show-for-medium-up">
+                                                    <div class="actions">
+                                                        <span class="radius label success right" ng-click="startEpisode(episode, $event);">{{"GLOBAL.PLAY" | translate}}</span>
+                                                        <span class="radius label warning right" ng-click="queueEpisode(episode, $event);">{{"MOVIE.QUEUED" | translate}}</span>
+                                                    </div>
+                                                </span>
+                                            </a>
+
+                                            <div id="season-{{index}}-episode-{{episode.episode}}" class="content">
+                                                <div class="row">
+                                                    <div class="small-12 medium-4 columns thumbnail">
+                                                        <img class="left" ng-src="{{episode.thumbnail}}" />
+                                                    </div>
+
+                                                    <div class="smal-12 medium-8 columns">
+                                                        <p>{{episode.plot || "{empty}"}}</p>
+                                                    </div>
+
+                                                    <div class="small-12 left details">
+                                                        <div class="right column show-for-small actions">
+                                                            <span class="label radius success right" ng-click="startEpisode(episode, $event);">{{"GLOBAL.PLAY" | translate}}</span>
+                                                            <span class="label radius warning right" ng-click="queueEpisode(episode, $event);">{{"MOVIE.QUEUED" | translate}}</span>
+                                                        </div>
+                                                        <ul class="inline-list row show-for-medium-up">
+                                                            <li ng-if="episode.director" class="label radius secondary">
+                                                                <div>
+                                                                    {{"PROPERTY.DIRECTOR" | translate}}:
+                                                                    <span ng-repeat="director in episode.director track by $index">
+                                                                        <a ng-href="{{route.series}}/filter/director/{{director.toLowerCase()}}">{{director}}</a>{{$last ? null : ", "}}</a>
+                                                                    <span>
+                                                                </div>
+                                                            </li>
+                                                            <li ng-if="episode.writer" class="radius secondary label">
+                                                                <div>
+                                                                    {{"PROPERTY.WRITER" | translate}}:
+                                                                    <span ng-repeat="writer in episode.writer track by $index">
+                                                                        <a ng-href="{{route.series}}/filter/writer/{{writer.toLowerCase()}}">{{writer}}</a>{{$last ? null : ", "}}</a>
+                                                                    </span>
+                                                                </div>
+                                                            </li>
+                                                            <li ng-if="episode.minutes" class="radius secondary label">
+                                                                <span>
+                                                                    {{"PROPERTY.RUNTIME" | translate}}:
+                                                                    <a ng-href="{{route.series}}/filter/runtime/{{episode.minutes}}">{{episode.minutes}} {{"PROPERTY.MINUTES" | translate}}</a>
+                                                                </span>
+                                                            </li>
+                                                            <li ng-if="episode.ratings && episode.ratings.score" class="radius secondary label">
+                                                                <span>
+                                                                    {{"PROPERTY.RATING" | translate}}:
+                                                                    <a ng-href="{{route.series}}/filter/rating/{{(episode.ratings.score).toLocaleString()}}">{{(episode.ratings.score).toLocaleString()}} / 10</a>
+                                                                </span>
+                                                            </li>
+                                                        </ul>
+
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+<div class="blur-fill-in" style="background-image: url(&quot;{{media.fanart}}&quot;);"></div>
+
+<script type="text/javascript">
+    (function(){
+        $(document).foundation("accordion", "reflow");
+        $("#media-description #tab-episodes").delegate(".accordion a", "click", function(event){
+            return(event.preventDefault());
+        });
+
+        // hidden action = menüs / boxen erst im einem bestimmten bereich anzeigen ...bessere bersicht
+        var tabs;
+        tabs = $("#media-description #tabs ul > li a");
+        tabs.active  = "active";
+        tabs.content = $("#tabs-content");
+        tabs.on("click", function(event){
+            tabs.parent().removeClass(tabs.active).find("a").filter(this).parent().addClass(tabs.active);
+            tabs.content.find("[class~='content']").removeClass(tabs.active).filter(event.target.hash).addClass(tabs.active);
+            event.preventDefault();
+        });
+    })(window);
+</script>

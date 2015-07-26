@@ -1,0 +1,89 @@
+<div class="page-margin">
+    <script type="text/ng-template" id="/pager.html">
+        <div ng-transclude class="transclude"></div>
+    </script>
+
+    <div ng-if="tvshows.length">
+        <div subheader="right/replace">
+            <ul class="button-group left radius">
+                <li><a href="" class="button minimal" ng-click="represent.tvshows = 'poster'"><i class="fa fa-th"></i></a></li>
+                <li><a href="" class="button minimal" ng-click="represent.tvshows = 'simply'"><i class="fa fa-list"></i></a></li>
+                <li><a href="" class="button minimal" ng-click="represent.tvshows = 'banner'"><i class="fa fa-align-justify"></i></a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div ng-if="tvshows.length === 0" data-alert class="alert-box info" style="margin: -10px 0 10px;">
+        <div translate="MESSAGE.EMPTY_MEDIA_LIST" translate-values="{type: '{{'SERIES' | translate}}'}"></div>
+        <a href="#" class="close">&times;</a>
+    </div>
+
+    <div id="media-listing" class="poster" pager="true" in="tvshows" out="media" ng-if="tvshows" style="height:auto;">
+
+        <!-- Presentation: List -->
+
+        <div ng-show="represent.tvshows == 'simply'">
+            <ul class="simply small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+                <li ng-repeat="(index, entry) in media track by $index | limitTo:limit">
+                    <a ng-href="{{route.series}}/{{entry.tvshowid}}/{{entry.label.toLowerCase()}}" style="display: block;" id="movie-{{entry.tvshowid}}">
+                        <img  class="cover" src="/assets/img/media.text.png">
+                        <span class="normal">{{entry.title}}</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Presentation: Banner -->
+
+        <ul ng-show="represent.tvshows == 'banner'" class="banner small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+            <li ng-repeat="(index, entry) in media track by $index| limitTo:limit" ng-if="entry">
+                <a ng-href="{{route.series}}/{{entry.tvshowid}}/{{entry.label.toLowerCase()}}" class="cover poster">
+                    <img class="cover centered" src="/assets/img/media.banner.png"
+                         media="banner" banner="entry.banner" imageonload="true">
+                </a>
+            </li>
+        </ul>
+
+        <!-- Presentation: Poster [default] -->
+
+        <div ng-show="represent.tvshows == 'poster' || represent.tvshows == null">
+            <div class="poster">
+                <a ng-repeat="(index, entry) in media track by $index| limitTo:limit" class="entry" id="movie-{{entry.tvshowid}}" ng-click="toggle($event);"
+                     ng-href="{{route.series}}/{{entry.tvshowid}}/{{entry.label.toLowerCase()}}" >
+                    <img class="cover centered" src="/assets/img/media.cover.frame.png"
+                         media="poster" poster="entry.poster" imageonload="true">
+                    <div class="title-movie text-center">
+                        <span class="normal">{{entry.title}}</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <!-- Switch for Presentations::end -->
+
+        <div class="large-12 column" ng-if="pagination.pages.length > 1">
+            <ul class="pagination row small-offset-3 large-7 large-offset-4" ng-if="pagination">
+                <li class="arrow unavailable">
+                    <a ng-href="{{pagination.path}}/page/1" style="background:#F1F1F1">
+                        <i class="fa fa-angle-double-left"></i> {{"GLOBAL.FIRST_PAGE" | translate}}
+                    </a>
+                </li>
+
+                <li ng-repeat="page in pagination.pages" ng-class="{'current': pagination.current == page}" >
+                    <a ng-href="{{pagination.path}}/page/{{page}}" style="background:#F1F1F1">{{page}}</a>
+                </li>
+
+                <li ng-if="pagination.upper < pagination.total" class="arrow">
+                    <a ng-href="{{pagination.path}}/page/{{ pagination.total}}" style="background:#F1F1F1">
+                        {{"GLOBAL.LAST_PAGE" | translate}} <i class="fa fa-angle-double-right"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="small-12 text-left column" ng-if="timer" ng-show="tvshows.shift || tvshows.length" style="opacity: 0.5; text-shadow: 1px 1px 0 #e6e4e4; font-size: 11px;">
+            {{"MESSAGE.FOUND_RESULTS" | translate:"{count: "+ tvshows.length +", seconds: '"+ timer.elapsed().getSeconds() +","+ timer.elapsed().getMilliseconds() +" '}"}}
+        </div>
+
+    </div>
+</div>

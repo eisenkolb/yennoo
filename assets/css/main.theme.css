@@ -1,0 +1,669 @@
+@charset "UTF-8";
+
+/*********************************************************************************/
+/*** Main:                                                                     ***/
+/*********************************************************************************/
+
+#main {
+    height: 100%;
+}
+
+#main #container {
+    display: block !important;
+    height: 100%;
+}
+
+#main #container {
+    background: #a4a4a4;
+    height: 104%;
+    overflow: scroll;
+    position: relative;
+    width: 101%;
+}
+
+#main #content {
+    position: relative;
+    margin-bottom: 140px;
+    padding-bottom: 200px;
+    top: 24px;
+    cursor: default;
+}
+
+#main #content .page-margin {
+    margin-top: 59px;
+}
+
+/*********************************************************************************/
+/*** Main: || Header:                                                          ***/
+/*********************************************************************************/
+
+#main #header {
+    position: fixed;
+    z-index: 3;
+    top: -1px;
+    height: 73px;
+    width: 100%;
+}
+
+#main #header .top {
+    background: #292929;
+    height: 32px;
+    position: absolute;
+    top: 0;
+    border-bottom: 1px solid #6f6f6f
+}
+
+#main #header .top .pagination li,
+#main #header .top .pagination li.current {
+    margin: 4px 0 0 -4px;
+    padding: 0;
+}
+
+#main #header .top .pagination li a {
+    padding: 0 0.525rem;
+    background: #484646;
+    margin: 0 3px;
+}
+
+#main #header .top .pagination li.current a {
+    background: #008cba;
+}
+
+#main #header .top .pagination li:hover a,
+#main #header .top .pagination li a:focus {
+    background: #e6e6e6;
+}
+
+/*********************************************************************************/
+/*** Main: || Header:Buttons:                                                  ***/
+/*********************************************************************************/
+
+#main #header .top .button,
+#main #header .top .button-group {
+    margin: 5px 0 0 4px;
+    float: left;
+}
+
+#main #header .top .button-group .button {
+    margin-left: 0;
+    margin-top: 0;
+}
+
+#main #header .top .button-group.radius > * .button {
+    border-left: 1px solid #545454;
+}
+
+#main #header .top .button-group.radius > *:first-child > .button {
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+}
+
+#main #header .top .button-group.radius > *:last-child > .button {
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+#main #header .top .button-group.radius > :first-child > *.button {
+    border-left: none;
+}
+
+/*********************************************************************************/
+/*** Main: || Header: || Navigation:                                           ***/
+/*********************************************************************************/
+
+#main #navigation {
+    background-color: rgba(21, 21, 21, 0.68) !important;
+    border-bottom: 1px solid rgba(247, 247, 247, 0.17);
+    top: 30px;
+    z-index: 7;
+}
+
+#main #navigation .top-bar-section ul li,
+#main #navigation .top-bar-section li:not(.has-form) a:not(.button) {
+    background-color: transparent !important;
+}
+
+#main #navigation .top-bar-section ul.dropdown li {
+    background-color: rgba(38, 35, 35, 0.74) !important
+}
+
+#main #navigation .top-bar-section li:not(.has-form) a:hover:not(.button) {
+    background-color: rgba(191, 120, 191, 0.15) !important;
+}
+
+#main #navigation ul.right > .divider {
+    border-color: #696969;
+    height: 40px;
+    margin-top: 2px;
+    opacity: .6;
+}
+
+/*********************************************************************************/
+/*** Main: || Header: || Breadcrumb:                                           ***/
+/*********************************************************************************/
+
+#main #breadcrumb {
+    background-color: transparent;
+    border: medium none;
+    display: inline-block;
+    float: left;
+    margin: 10px 0 0;
+}
+
+#main #breadcrumb > .current a,
+#main #breadcrumb > * a {
+    color: #bfbdbd;
+    font-size: 12px;
+}
+
+#main #breadcrumb > *::before {
+    color: #aaaaaa;
+    margin: 0 0.35rem;
+    position: relative;
+    top: 1px;
+}
+
+/*********************************************************************************/
+/*** Main: || Footer:                                                          ***/
+/*********************************************************************************/
+
+#main #footer {
+    background: #333333;
+    bottom: 0;
+    height: 40px;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+/*********************************************************************************/
+/*** Global: || Button:                                                        ***/
+/*********************************************************************************/
+
+#main .button-group.radius > *:first-child > .button {
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+}
+
+#main .button-group.radius > *:last-child > .button {
+    border-bottom-right-radius: 3px;
+    border-top-right-radius: 3px;
+}
+
+#main button.transparent, .button.transparent {
+    background-color: transparent;
+}
+
+#main button.transparent:hover, .button.transparent:hover {
+    opacity: .7;
+}
+
+#main .button.minimal {
+    font-size: 0.7875rem;
+    padding: 0.125rem 0.45rem 0.168rem;
+}
+
+/*********************************************************************************/
+/*** Global: || Common:                                                        ***/
+/*********************************************************************************/
+
+#main .truncate {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+#main .truncate-85 {
+    max-width: 85%;
+}
+
+#main .whitout-shadow {
+    box-shadow: none !important;
+    text-shadow: none !important;
+}
+
+#main .blur-fill-in {
+    filter: blur(89px);
+    height: 200%;
+    opacity: 0.7;
+    position: fixed;
+    top: 11px;
+    transform: scale(1.1);
+    width: 123%;
+    z-index: 0;
+    -webkit-filter: blur(100px);
+}
+
+#main .blur-image {
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+    opacity: 0.9;
+    position: relative;
+    width: 123%;
+    z-index: 0;
+}
+
+#main .margin-bottom {
+    margin-bottom: 140px;
+}
+
+#main .text-inherit, #main .text-inherit a {
+    color: inherit;
+}
+
+/*********************************************************************************/
+/*** Global: || Poster:                                                        ***/
+/*********************************************************************************/
+
+#main .cover.poster img {
+    background-color: #4d5255;
+    background-size: 100% 100%;
+    border: 1px solid #9d9999;
+    border-radius: 1px;
+    box-shadow: 1px 0 18px -2px #222222;
+    width: 100%;
+}
+
+#main .cover.poster img.width-280 {
+    width: 280px;
+}
+
+#main .cover.centered {
+    background-size: 100% 100%;
+}
+
+/*********************************************************************************/
+/*** Global: || MPAA:                                          (Rating System) ***/
+/*********************************************************************************/
+
+#main .mpaa {
+    background-color: #262626;
+    border: 1px solid #262626;
+    border-radius: 3px;
+    display: block;
+    height: 17px;
+    color: inherit;
+    width: 92px;
+}
+
+#main .mpaa .rating,
+#main .mpaa .label {
+    display: block;
+    font: bold 13px/14px arial;
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+    padding: 1px 0 0;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+#main .mpaa .rating {
+    background: #F2B322;
+    background-image: linear-gradient(#F2B322, #E7653E 100%);
+    border-radius: 0 1px 1px 0;
+    width: 56%;
+}
+
+#main .mpaa .label {
+    background-color: transparent;
+    color: #ffffff;
+    width: 44%;
+}
+
+#main .mpaa.white {
+    background-color: #ffffff;
+    border: 1px solid #9a9a9a;
+}
+
+#main .mpaa.white .label {
+    color: #333333;
+}
+
+#main .mpaa.white .rating {
+    color: #ffffff;
+}
+
+/*********************************************************************************/
+/*** Global: || MPAA:                                    (Film: United States) ***/
+/*********************************************************************************/
+
+#main .mpaa.rated .label {
+    font: 9px/13px arial;
+}
+
+#main .mpaa.g .rating,
+#main .mpaa.tv.tv-y .rating,
+#main .mpaa.tv.tv-y7 .rating,
+#main .mpaa.tv.tv-g .rating {
+    background-color: #3edd01;
+    background-image: linear-gradient(#51ef1f, #2ad344 100%);
+}
+
+#main .mpaa.pg .rating,
+#main .mpaa.tv.tv-pg .rating {
+    background-color: #ecfb00;
+    background-image: linear-gradient(#f7f521, #f1c22b 100%);
+}
+
+#main .mpaa.pg-13 .rating,
+#main .mpaa.tv.tv-14 .rating {
+    background-color: #1dc9f8;
+    background-image: linear-gradient(#35d8fc, #42a8c9 100%);
+}
+
+#main .mpaa.r .rating,
+#main .mpaa.tv.tv-ma .rating {
+    background-color: #fb0000;
+    background-image: linear-gradient(#fc1f1f, #ef0303 100%);
+}
+
+#main .mpaa.nc-17 .rating {
+    background-color: #959393;
+    background-image: linear-gradient(#c4c4c4, #959393 100%);
+}
+
+/*********************************************************************************/
+/*** Global: || MPAA:                                      (Tv: United States) ***/
+/*********************************************************************************/
+
+#main .mpaa.tv {
+    width: 60px;
+}
+
+#main .mpaa.tv .label,
+#main .mpaa.tv .rating {
+    width: 50%;
+}
+
+/*********************************************************************************/
+/*** Global: || MPAA:                                      (Tv: United States) ***/
+/*********************************************************************************/
+
+#main .imdb {
+    display: inline;
+}
+
+#main .imdb a {
+    position: relative;
+    top: 9px;
+}
+
+#main .imdb .label.radius {
+    top: -6px;
+    color: black;
+    padding: 4px;
+    background-image: linear-gradient(#e8e00d, #fbbf35 100%);
+    border: 1px solid #fca92d;
+    font: bolder 10px/4px sans-serif;
+    height: 14px;
+}
+
+/*********************************************************************************/
+/*** Global:UI: || Notify:                                                     ***/
+/*********************************************************************************/
+
+.notify {
+    background-color: #333;
+    border: 1px solid #000;
+    padding: 5px;
+    position: fixed;
+    color: #ffffff;
+    display: block;
+    opacity: 1;
+    overflow: visible;
+    right: 25px;
+    z-index: 999;
+    top: 119px;
+    width: 300px;
+    border-radius: 2px;
+    box-shadow: 0 1px 0 0 #c1c1c1;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.notify.success {
+    background-color: #45BB44;
+    border-color: #419F40;
+}
+
+.notify.info {
+    background-color: #31b0d5;
+    border-color: #269abc;
+}
+
+.notify.warning {
+    background-color: #ec971f;
+    border-color: #C67F16;
+}
+
+.notify.error {
+    background-color: #c9302c;
+    border-color: #ac2925;
+}
+
+.notify .title {
+    background-color: rgba(0, 0, 0, 0.26);
+    border: 1px solid rgba(255, 254, 254, 0.33);
+    border-radius: 4px;
+    font-weight: bold;
+    padding: 3px 0;
+    text-align: center;
+}
+
+.notify .body {
+    padding: 2px 0;
+}
+
+/*********************************************************************************/
+/*** Global: || Loading:Resources                                              ***/
+/*********************************************************************************/
+
+#loading-mask {
+    display: block;
+    height: 2px;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 14;
+}
+
+#loading-mask .bar {
+    background: #3a3a3a none repeat scroll 0 0;
+    height: 100%;
+    position: absolute;
+    transform-origin: 0 0 0;
+    width: 100%;
+}
+
+#loading-mask .bar.background,
+#loading-mask .bar.progress {
+    transition: all 1.6s linear 0s;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+#loading-mask .bar.progress {
+    background-color: transparent;
+    animation: 2s linear 0s normal none infinite progress-loading;
+    z-index: 4;
+}
+
+#loading-mask .bar.progress.done {
+    animation-iteration-count: 1
+}
+
+@keyframes progress-loading {
+    0% {
+        transform: translateX(0%) scaleX(0);
+        background-color: #46A6F4;
+    }
+    70% {
+        transform: translateX(0%) scaleX(0.5);
+        background-color: #ca09ff;
+    }
+    100% {
+        transform: translateX(0%) scaleX(1);
+    }
+}
+
+/*********************************************************************************/
+/*** Global: || Normalize                                                      ***/
+/*********************************************************************************/
+
+html {
+    font-family: sans-serif; /* 1 */
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+body {
+    margin: 0;
+}
+
+a:active,
+a:hover,
+img {
+    outline: 0;
+    border: 0;
+}
+
+b, strong {
+    font-weight: bold;
+}
+
+small {
+    font-size: 80%;
+}
+
+hr {
+    box-sizing: content-box;
+    height: 0;
+}
+
+button, input, optgroup, select, textarea {
+    color: inherit;
+    font: inherit;
+    margin: 0;
+}
+
+button {
+    overflow: visible;
+}
+
+button, select {
+    text-transform: none;
+}
+
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+
+button::-moz-focus-inner, input::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+input {
+    line-height: normal;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+td, th {
+    padding: 0;
+}
+
+/*********************************************************************************/
+/*** Global: || Animation:                                                     ***/
+/*********************************************************************************/
+
+#main .animated {
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+
+#main .animated.infinite {
+    animation-iteration-count: infinite;
+}
+
+#main .fadeIn {
+    animation-name: fadeIn;
+}
+
+#main .slideInUp {
+    animation-name: slideInUp;
+}
+
+#main .animated.flip {
+    backface-visibility: visible;
+    animation-name: flip;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@keyframes slideInUp {
+    0% {
+        -webkit-transform: translate3d(0, 100%, 0);
+        transform: translate3d(0, 100%, 0);
+        visibility: visible;
+    }
+
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+@keyframes flip {
+    0% {
+        -webkit-transform: perspective(400px) rotate3d(0, 1, 0, -360deg);
+        transform: perspective(400px) rotate3d(0, 1, 0, -360deg);
+        -webkit-animation-timing-function: ease-out;
+        animation-timing-function: ease-out;
+    }
+
+    40% {
+        -webkit-transform: perspective(400px) translate3d(0, 0, 150px) rotate3d(0, 1, 0, -190deg);
+        transform: perspective(400px) translate3d(0, 0, 150px) rotate3d(0, 1, 0, -190deg);
+        -webkit-animation-timing-function: ease-out;
+        animation-timing-function: ease-out;
+    }
+
+    50% {
+        -webkit-transform: perspective(400px) translate3d(0, 0, 150px) rotate3d(0, 1, 0, -170deg);
+        transform: perspective(400px) translate3d(0, 0, 150px) rotate3d(0, 1, 0, -170deg);
+        -webkit-animation-timing-function: ease-in;
+        animation-timing-function: ease-in;
+    }
+
+    80% {
+        -webkit-transform: perspective(400px) scale3d(.95, .95, .95);
+        transform: perspective(400px) scale3d(.95, .95, .95);
+        -webkit-animation-timing-function: ease-in;
+        animation-timing-function: ease-in;
+    }
+
+    100% {
+        -webkit-transform: perspective(400px);
+        transform: perspective(400px);
+        -webkit-animation-timing-function: ease-in;
+        animation-timing-function: ease-in;
+    }
+}

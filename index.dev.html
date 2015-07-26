@@ -1,0 +1,177 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>Yennoo</title>
+    <script type="text/javascript" src="assets/lib/websocket.js"></script>
+    <script type="text/javascript" src="assets/lib/json.js"></script>
+    <script type="text/javascript" src="assets/lib/jquery.js"></script>
+    <script type="text/javascript" src="assets/lib/angular.min.js"></script>
+    <script type="text/javascript" src="assets/lib/angular-translate.js"></script>
+    <script type="text/javascript" src="assets/lib/angular-route.min.js"></script>
+    <script type="text/javascript" src="assets/lib/foundation.min.js"></script>
+    <script type="text/javascript" src="assets/lib/uneXBMC.js"></script>
+    <script type="text/javascript" src="assets/lib/uneXBMC.util.js"></script>
+    <script type="text/javascript" src="assets/lib/uneXBMC.rpc.js"></script>
+    <link type="text/css" media="all" rel="stylesheet" href="assets/css/main.theme.css" />
+    <link type="text/css" media="all" rel="stylesheet" href="assets/css/main.pages.css" />
+    <link type="text/css" media="all" rel="stylesheet" href="assets/css/foundation.css" />
+    <link type="text/css" media="all" rel="stylesheet" href="assets/css/font-awesome.min.css" />
+    <link type="image/x-icon" rel="shortcut icon" href="/assets/icon/favicon.ico">
+</head>
+
+<div id="notifyTemplate" style="display:none;">
+    <div class="notify" style="display:none;">
+        <div class="title"></div>
+        <div class="body"></div>
+    </div>
+</div>
+
+<body class="antialiased hide-extras off-canvas-wrap" id="ng-app" ng-app="XBMC">
+
+    <div id="loading-mask">
+        <div class="bar progress running"></div>
+        <div class="bar background"></div>
+    </div>
+
+    <div id="main" class="inner-wrap" data-offcanvas>
+
+        <aside class="left-off-canvas-menu">
+            <ul class="off-canvas-list">
+                <li><label>{{"SOURCES" | translate}}</label></li>
+                <li><a href="#/sources">{{"VIDEO" | translate}}</a></li>
+            </ul>
+        </aside>
+
+        <a class="exit-off-canvas" href=""></a>
+
+        <section role="main" class="scroll-container inner-wrap" id="container">
+            <div id="header" ng-controller="NavigationCtrl">
+
+                <nav id="navigation" data-topbar="" class="top-bar">
+                    <div class="top-bar-filters">
+                        <ul id="breadcrumb" class="breadcrumbs" ng-if="breadcrumb">
+                            <li class="{{$last ? 'current' : null}}" ng-repeat="index in breadcrumb" ng-if="breadcrumb.length">
+                                <a ng-href="{{index.href && !$last ? index.href : ''}}">{{index.title | translate}}</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <section class="top-bar-section">
+                        <ul class="right">
+                            <li class="divider"></li>
+                            <li ng-repeat-start="(name, entry) in entries"
+                                ng-class="{'has-dropdown not-click': entry.subs}" id="head-{{name}}">
+                                <a ng-href="{{entry.href != false ? ('#/'+ name) : ''}}" ng-click="switch(entry, name, $event);">{{entry.label.toUpperCase() || "{ empty }" | translate}}</a>
+                                <ul class="dropdown" ng-if="entry.subs">
+                                    <li class="title back js-generated">
+                                        <h5><a href="javascript:void(0);">Back</a></h5>
+                                    </li>
+                                    <li ng-repeat="(subname, submenu) in entry.subs" id="head-{{name}}-{{subname}}">
+                                        <a ng-href="#/{{name}}/{{subname}}" ng-click="switch(entry, name, $event);">{{submenu.label || "{ empty }"}}</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="divider" ng-repeat-end="true"></li>
+                        </ul>
+                    </section>
+                </nav>
+
+                <div class="top medium-12 columns">
+                    <div class="left-off-canvas-toggle menu-icon show-for-small fa fa-align-justify left" style="color: #F5F5F5; margin: 10px 0 0 -9px; cursor: pointer;">
+                        &nbsp;Yennoo
+                    </div>
+                    <div class="group left"></div>
+                    <div class="right">
+                        <div ng-include="'/resources/view/settings.core.html'" style="display:inline;"></div>
+                        <div ng-include="'/resources/view/settings.develop.html'" style="display:inline;"></div>
+                    </div>
+
+                    <div class="right group"></div>
+                    <div class="right" style="margin:0 -3px 0 0;">
+                        <ul class="pagination right" ng-if="pagination && pagination.length">
+                            <li class="arrow unavailable"><a class="fa fa-angle-double-left" ng-href="{{pagination.path}}"></a></li>
+                            <li ng-repeat="page in pagination.pages" ng-class="{'current': pagination.current == page}" >
+                                <a ng-href="{{pagination.path}}/page/{{page}}">{{page}}</a>
+                            </li>
+                            <li ng-if="pagination.upper < pagination.total" class="arrow">
+                                <a ng-href="{{pagination.path}}/page/{{ pagination.total}}" class="fa fa-angle-double-right"></a>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="small-12" id="content" ng-controller="ContentCtrl" ng-view></div>
+        </section>
+
+        <div id="footer"></div>
+
+    </div>
+
+</body>
+
+<script type="text/javascript">
+
+    $(function($){
+        $(document).foundation();
+    });
+
+    window.uneXBMCextend = {
+        setting: {
+            clientId : Date.now(),
+            transport: {},
+            represent: {}
+        },
+        route: {
+            moviesIndex: ["#/movies", "MediaMovieIndexCtrl", "resources/view/movie.index.html"],
+            moviesPages: ["#/movies/page/:page", "MediaMoviePagesCtrl", "resources/view/movie.index.html"],
+            movieDetail: ["#/movies/:movieid/:title", "MediaMovieDetailCtrl", "resources/view/movie.detail.html"],
+            movieFilter: ["#/movies/filter/:filter/:value", "MediaMovieFilterCtrl", "resources/view/movie.index.html"],
+            collections: ["#/sets", "MediaMovieCollectionCtrl", "resources/view/movie.index.html"],
+            crowdPeople: ["#/people/:people", "CrowdPeopleDetailCtrl", "resources/view/crowd.index.html"],
+            musicsIndex: ["#/music", "MediaMusicIndexCtrl", "resources/view/music.index.html"],
+            artistIndex: ["#/artist", "MediaArtistIndexCtrl", "resources/view/music.artist.html"],
+            seriesIndex: ["#/series", "MediaSerieIndexCtrl", "resources/view/series.index.html"],
+            seriesPages: ["#/series/page/:page", "MediaSeriePagesCtrl", "resources/view/series.index.html"],
+            serieDetail: ["#/series/:tvshowid/:label", "MediaSerieDetailCtrl", "resources/view/series.detail.html"],
+            serieSeason: ["#/series/:tvshowid/:label/season/:seasonid", "MediaSerieSeasonCtrl", "resources/view/series.detail.season.html"],
+            serieFilter: ["#/series/filter/:filter/:value", "MediaSerieFilterCtrl", "resources/view/series.index.html"],
+            coreSetting: ["#/core", "CoreSettingCtrl", "resources/view/core.html"],
+            sourceIndex: ["#/sources/", "FileSourcesIndexCtrl", "resources/view/source.index.html"],
+            dashboard:   ["#/", "DashboardCtrl", "resources/view/dashboard.html"]
+        },
+        application: {
+            appname: "Yennoo",
+            version: "0.1.0"
+        },
+        languages: {
+            de_DE: {
+                name: "German",
+                keys: ["de", "de_DE", "de_CH"]},
+            en_US: {
+                name: "English",
+                keys: ["en_US", "en_UK"]}
+        },
+        navigation: {
+            movies: {label: "MOVIES"},
+            series: {"label": "SERIES"},
+            music : {label : "MUSIC"},
+            addons: {label: "ADDONS"},
+            tools : {
+                label: "TOOLS",
+                href : false,
+                subs : {
+                    video: {label: "Video Tools"},
+                    about: {label: "About"}
+                }
+            }
+        }
+    };
+</script>
+
+</html>

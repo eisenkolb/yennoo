@@ -1,0 +1,33 @@
+<a class="button radius minimal transparent right" data-dropdown="drop-settings"><i class="fa fa-gear"></i></a>
+<div id="drop-settings" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" aria-autoclose="false" tabindex="-1">
+<div>
+    <div class="tabs-content">
+        <div id="panela1" class="content active" aria-hidden="false" ng-controller="CoreSettingCtrl">
+            <form class="large-9 right">
+                <div class="row">
+                    <div class="large-12 columns">
+                        <label>{{"PROPERTY.LANGUAGE" | translate}}
+                            <select ng-model="languageUsed">
+                                <option ng-selected="{{lang == languageUsed}}"
+                                        ng-repeat="(lang, language) in languageNames"
+                                        value="{{lang}}">
+                                    {{language}}
+                                </option>
+                            </select>
+                        </label>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="large-12 columns">
+                        <a href="" class="button small info column" ng-click="openModalTransporter(true);">Transporter Einstellungen</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+</div>
+
+<div id="modal-main" class="reveal-modal small" data-reveal ng-controller="CoreSettingCtrl">
+    <div ng-include="'/resources/view/settings.transporter.html'"></div>
+</div>

@@ -1,0 +1,1030 @@
+@charset "UTF-8";
+
+/*********************************************************************************/
+/*** Media:Header: || Overlay:                                                 ***/
+/*********************************************************************************/
+
+#media-header,
+#media-header.media-header {
+    height: 355px;
+}
+
+#media-header .media-banner.overlay {
+    z-index: 1;
+}
+
+#media-header .media-banner.overlay {
+    background-color: #201f25;
+    background-image: url("/assets/img/overlay.background.png");
+    height: 355px;
+    position: absolute;
+    width: 100%;
+    border-bottom: 24px solid #f5ebf9;
+}
+
+#media-header .media-banner.overlay > .banner {
+    background-position: left 7%;
+    background-size: 100% auto;
+    height: 100%;
+    width: 100%;
+}
+
+#media-header .media-banner.overlay > .gradient {
+    background-image: radial-gradient(circle at 50% 35%, transparent 0%, rgba(0, 0, 0, 0.46));
+    height: 100%;
+    position: absolute;
+    top: 1px;
+    width: 100%;
+}
+
+/*********************************************************************************/
+/*** Media:Description:                                                        ***/
+/*********************************************************************************/
+
+#media-description {
+    z-index: 1;
+}
+
+#media-description .panel {
+    background-color: transparent;
+    background-image: url("/assets/img/blur.white.png");
+    border-radius: 0 0 3px 3px;
+    padding-bottom: 16px;
+    padding-top: 7px;
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Title:                                              ***/
+/*********************************************************************************/
+
+#media-description .large-title,
+#media-description .large-title h1 {
+    color: #ffffff;
+    text-shadow: 2px 3px 0 rgba(0, 0, 0, 0.26);
+}
+
+#media-description .large-title {
+    position: absolute;
+    margin-left: 300px;
+    top: -105px;
+    z-index: 99;
+}
+
+#media-description .large-title h1 {
+    font: bold 3.5em Tahoma;
+}
+
+#media-description .large-title small {
+    bottom: -13px;
+    color: #fbf8f8;
+    font: bold 22px Verdana;
+    left: 5px;
+    position: relative;
+}
+
+#media-description .large-title .original {
+    margin: -15px 0;
+    opacity: 0.6;
+    position: absolute;
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Title:Summary:                                      ***/
+/*********************************************************************************/
+
+#media-description .large-title .summary {
+    margin-left: -2px;
+    text-shadow: 1px 1px 0 #ffffff
+}
+
+#media-description .large-title .summary ul,
+#media-description .large-title .summary li {
+    margin: 0;
+}
+
+#media-description .large-title .summary li a {
+    border-right: 1px solid #C5C5C5;
+    font-size: 0.9em;
+    cursor: default;
+    color: #747474;
+    line-height: 22px;
+    margin: 3px 0 0;
+    padding: 0 5px;
+}
+
+#media-description .large-title .summary li:last-child a {
+    border-right: none;
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Cover:                                              ***/
+/*********************************************************************************/
+
+#media-description #cover-cointainer {
+    position: absolute;
+    top: -217px;
+    z-index: 1;
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Plot:                                               ***/
+/*********************************************************************************/
+
+#media-description .media-plot {
+    margin: 0;
+    text-shadow: 1px 1px 0 #e0e0e0;
+    min-height: 150px;
+}
+
+#media-description .media-plot .fix-poster {
+    background: transparent;
+    height: 159px;
+    width: 295px;
+}
+
+#media-description .media-plot .poster.cover.show-for-small {
+    position: relative;
+    top: -17px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+#media-description .media-plot .poster.cover.show-for-small img {
+    width: 102%
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Tabs:                                               ***/
+/*********************************************************************************/
+
+#media-description #tabs ul {
+    margin: 38px 0 0 -16px;
+}
+
+#media-description #tabs li.tab-title.begin,
+#media-description #tabs li.tab-title.end {
+    width: 5%;
+}
+
+#media-description #tabs li.tab-title.begin a,
+#media-description #tabs li.tab-title.end a {
+    cursor: default;
+}
+
+#media-description #tabs li.tab-title.begin {
+    background-color: transparent;
+    border-left: none;
+}
+
+#media-description #tabs li.tab-title {
+    padding: 0;
+}
+
+#media-description #tabs li.tab-title.begin a,
+#media-description #tabs li.tab-title.end a {
+    background-color: transparent;
+    display: block;
+}
+
+#media-description #tabs li.tab-title {
+    border-left: 3px solid #e8e3e3;
+}
+
+#media-description #tabs li.tab-title.begin a {
+    background-image: linear-gradient(to right, rgba(250, 250, 250, 0) 0%, #efefef 81%, #efefef 100%);
+    border-radius: 27px 0 0 27px;
+}
+
+#media-description #tabs li.tab-title.end a {
+    background-image: linear-gradient(to left, rgba(250, 250, 250, 0) 0%, #efefef 81%, #efefef 100%);
+    border-radius: 0 27px 27px 0;
+}
+
+#media-description #tabs .large-block-grid-6 li {
+    width: 22.45%;
+}
+
+@media only screen and (max-width: 40.0625em) {
+    #media-description #tabs .small-block-grid-6 li {
+        width: 103.4% !important;
+        border-bottom: 1px solid #BABABA;
+    }
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Tabs:Overview:                                      ***/
+/*********************************************************************************/
+
+#media-description #tab-overview table.panel {
+    background-color: transparent;
+    border: none;
+}
+
+#media-description #tab-overview table tr:nth-of-type(2n) {
+    background-color: #cfcfcf;
+}
+
+#media-description #tab-overview .votes-in-rating {
+    display: inline;
+    font: bold 0.8em arial;
+    text-transform: capitalize;
+    position: relative;
+    top: -1px;
+    margin: 0 0 0 3px;
+    opacity: 0.5;
+}
+
+#media-description #tab-overview a:not(.mpaa):hover {
+    color: #1d8ead;
+    text-shadow: 1px 1px 0 #fffefe;
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Tabs:Seasons:                                       ***/
+/*********************************************************************************/
+
+#media-description #tab-seasons .poster.cover img:hover {
+    opacity: .8;
+}
+
+#media-description #tab-seasons .poster.cover span {
+    display: block;
+    font-size: 18px;
+}
+
+#media-description #tab-seasons .season {
+    background-color: rgba(255, 255, 255, 0.63);
+    border: 4px solid #878282;
+    border-radius: 3px;
+}
+
+#media-description #tab-seasons .season .season-label {
+    color: #626262;
+    font-weight: bold;
+    text-shadow: 1px 1px 0 #ffffff;
+    background: #d3d1d1;
+    background: -webkit-linear-gradient(top, #f9f9f9 0%, #adadad 100%);
+    background: -o-linear-gradient(top, #f9f9f9 0%, #adadad 100%);
+    background: -ms-linear-gradient(top, #f9f9f9 0%, #adadad 100%);
+    background: linear-gradient(to bottom, #f9f9f9 0%, #adadad 100%);
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Tabs:Seasons: || Actions:                           ***/
+/*********************************************************************************/
+
+#media-description #tab-seasons .action-area {
+    position: relative;
+    width: 100%;
+}
+
+#media-description #tab-seasons .action-area div.actions {
+    position: absolute;
+    z-index: 1;
+}
+
+#media-description #tab-seasons .action-area img.cover.blur-image {
+    position: absolute;
+    opacity: 0;
+}
+
+#media-description #tab-seasons .season .action-area img.cover.blur-image:hover,
+#media-description #tab-seasons .season:hover .action-area img.cover.blur-image {
+    opacity: .8 !important;
+}
+
+#media-description #tab-seasons .season:hover a img {
+    background: #2b236c none repeat scroll 0 0 !important;
+}
+
+#media-description #tab-seasons .season .action-area {
+    opacity: 0;
+}
+
+#media-description #tab-seasons .season .poster.cover img.select {
+    background-image: url("/assets/img/media.cover.frame.png");
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Tabs:Seasons: || [:HOVER]:Action                    ***/
+/*********************************************************************************/
+
+#media-description #tab-seasons .season:hover .action-area {
+    opacity: 1;
+}
+
+#media-description #tab-seasons .season:hover .action-area .actions .play {
+    color: #d9f186;
+    text-shadow: 0 0 53px #17dd98;
+}
+
+#media-description #tab-seasons .season:hover .action-area .actions .play:hover {
+    color: #ffdd36;
+    text-shadow: 0 0 53px #d1dd17;
+    cursor: pointer;
+}
+
+#media-description #tab-seasons .season:hover .action-area .actions .episodes,
+#media-description #tab-seasons .season:hover .action-area .actions .queued {
+    background-color: rgba(98, 94, 94, 0.53);
+    border: 1px solid #676666;
+    border-radius: 0 10px 10px 0;
+    color: #c1b6b6;
+    margin: 0 2px;
+}
+
+#media-description #tab-seasons .season:hover .action-area .actions .episodes {
+    border-left: 1px solid transparent;
+}
+
+#media-description #tab-seasons .season:hover .action-area .actions .queued {
+    border-radius: 10px 0 0 10px;
+    border-right: none;
+}
+
+#media-description #tab-seasons .season:hover .action-area .actions .queued:hover {
+    background-image: linear-gradient(to bottom, #bf43ae 0%, #662776 100%);
+    cursor: pointer;
+}
+
+#media-description #tab-seasons .season:hover .action-area .actions .name {
+    background-color: rgba(237, 119, 249, 0.56);
+    border: 1px solid #838484;
+    border-bottom: none;
+    box-shadow: 0 36px 78px #e8008b;
+    color: #fffff8;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #3d003b;
+}
+
+#media-description #tab-seasons .season:hover .action-area .actions .queued {
+    border-radius: 10px 0 0 10px;
+    border-right: none;
+}
+
+#media-description #tab-seasons .season:hover .action-area .actions .watched-status .watched {
+    color: #00ffa6;
+    text-shadow: 1px 1px 5px #000000;
+    font-size: 17px;
+}
+
+#media-description #tab-seasons .season:hover .action-area .actions .watched-status .unwatched {
+    color: #f1f05e;
+    text-shadow: 1px 1px 2px #000000;
+    font-size: 17px;
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Tabs:Episodes:                                      ***/
+/*********************************************************************************/
+
+#media-description #tab-episodes ul.accordion, #tab-episodes ul.accordion ul.episodes {
+    padding: 0;
+}
+
+#media-description #tab-episodes ul.accordion > li.accordion-navigation > .content {
+    padding-top: 0;
+    padding-left: 61px;
+}
+
+#media-description #tab-episodes .episode .number-list {
+    color: #c8c8c8;
+    font: bold 24px arial;
+    left: -37px;
+    position: relative;
+    top: 16px;
+}
+
+#media-description #tab-episodes .episodes:nth-of-type(2n) > li .title {
+    background-color: #e6e6e6;
+}
+
+#media-description #tab-episodes .episodes:nth-of-type(2n) > li .title:hover {
+    background-color: #e4e4e4;
+}
+
+#tab-episodes .episodes > li .title .episode-number {
+    opacity: .4;
+}
+
+#media-description #tab-episodes .episode {
+    border-left: 1px solid #eae7e7;
+}
+
+#media-description #tab-episodes .episode li.label {
+    font-size: 13px;
+}
+
+#media-description #tab-episodes .episode .thumbnail {
+    font-size: 13px;
+}
+
+#media-description #tab-episodes .episode .details {
+    margin-top: 18px;
+    padding-top: 9px;
+    border-top: 1px solid #dad8d8;
+}
+
+#media-description #tab-episodes .episode .episode-watched {
+    position: absolute;
+    margin: 0 0 0 -18px;
+}
+
+#media-description #tab-episodes .episode .episode-watched i.fa-check-circle {
+    font-size: 16px;
+    opacity: .5;
+    color: #42a62d;
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Tabs:Episodes: || [:HOVER]:Action                   ***/
+/*********************************************************************************/
+
+#media-description #tab-episodes .episode .actions {
+    display: none;
+}
+
+#media-description #tab-episodes .episode:hover .actions {
+    display: block;
+}
+
+#media-description #tab-episodes .episode .title .actions span.label:hover {
+    display: block;
+}
+
+#media-description #tab-episodes .episode .title .actions span.label {
+    background-color: #adadad;
+}
+
+#media-description #tab-episodes .episode .title .actions .label.success:hover {
+    background-color: #43ac6a;
+    color: #ffffff;
+}
+
+#media-description #tab-episodes .episode .title .actions .label.warning {
+    margin-right: 7px;
+}
+
+#media-description #tab-episodes .episode .title .actions .label.warning:hover {
+    background-color: #f08a24;
+    color: #ffffff;
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Tabs:Cast:                                          ***/
+/*********************************************************************************/
+
+#media-description #tab-cast .additional-button {
+    cursor: pointer;
+    float: right;
+    margin: -44px 0 0;
+    position: relative;
+}
+
+#media-description #tab-cast .additional-button span {
+    font-size: 13px;
+}
+
+#media-description #tab-cast ul.cast-size {
+    width: 132px;
+}
+
+#media-description #tab-cast ul.cast-size li {
+    border-right: 1px solid #eedede;
+    float: left;
+}
+
+#media-description #tab-cast ul.cast-size li:last-child {
+    border-right: none;
+}
+
+#media-description #tab-cast ul.cast-size li a {
+    margin: 0 1px 0 0;
+}
+
+#media-description #tab-cast .item img.people {
+    background-position: -14px top;
+    background-size: 121% auto;
+}
+
+#media-description #tab-cast .role a {
+    color: #736d6d;
+    font: normal 16px arial;
+}
+
+#media-description #tab-cast .item .role i {
+    color: #ebb14e;
+    margin-right: 2px;
+}
+
+#media-description #tab-cast .item .people a {
+    color: #939090;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+/*********************************************************************************/
+/*** Media:Description: || Tabs: || Content:                                   ***/
+/*********************************************************************************/
+
+#media-description #tabs-content h5 {
+    border-bottom: 2px solid #e7e7e7;
+    padding-bottom: 6px;
+}
+
+/*********************************************************************************/
+/*** Music: || Item:                                                           ***/
+/*********************************************************************************/
+
+#music .item {
+    background: transparent none repeat scroll 0 0;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    float: left;
+    margin: 6px;
+    max-width: 160px;
+    min-width: 115px;
+    padding: 6px 9px 2px 6px;
+    width: 13%;
+}
+
+#music .item .label {
+    color: #454545;
+    cursor: default;
+    font: 16px arial;
+    text-align: center;
+    background-color: transparent;
+    width: 100%;
+    white-space: inherit;
+    padding: 0;
+}
+
+#music .item .label span {
+    background: transparent none repeat scroll 0 0;
+    border: 1px solid transparent;
+    box-shadow: none;
+    text-shadow: 1px 1px 0 #c1bfbf;
+    white-space: nowrap;
+    width: 100%;
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    text-overflow: ellipsis;
+}
+
+#music .item .label span.artist {
+    background: #a9a4a4 none repeat scroll 0 0;
+    border: 1px solid #7d7777;
+    border-radius: 5px;
+    box-shadow: 0 -1px 3px #c8c4c4;
+}
+
+#music .item .label span.label {
+    bottom: 5px;
+    font-size: 12px;
+    position: relative;
+    text-indent: 3px;
+}
+
+#music .item img.cover {
+    border: 1px solid #9d9999;
+    background-color: #363636;
+    border-radius: 6px;
+    box-shadow: 1px 0 18px -2px #222222;
+    position: relative;
+    background-size: 100% auto;
+    width: 100%;
+}
+
+/*********************************************************************************/
+/*** Music: || Item: || [:HOVER]                                               ***/
+/*********************************************************************************/
+
+#music .item .label span:hover {
+    min-width: 100%;
+    width: auto;
+    z-index: 1;
+}
+
+#music .item:hover, #music .item.open:hover {
+    background: #0d334a none repeat scroll 0 0;
+    box-shadow: 0 3px 22px #236d9a;
+}
+
+#music .item:hover .label span.artist {
+    border: 1px solid #4b4b4b;
+    border-radius: 5px 5px 0 0;
+    box-shadow: 0 0 7px #c8c4c4;
+    color: #292929;
+}
+
+#music .item:hover .label span.label {
+    border-radius: 0 0 5px 5px;
+    color: #cdcdcd;
+    text-shadow: none;
+}
+
+#music .item:hover > .label span {
+    border: 1px solid #5c5c5c;
+    box-shadow: 0 0 46px #06ff98;
+    opacity: 0.9;
+}
+
+/*********************************************************************************/
+/*** Music: || Songlist:                                                       ***/
+/*********************************************************************************/
+
+#music .songlist .header {
+    background: rgba(255, 255, 255, 0.23) linear-gradient(#ada8a8, #444544 124%);
+    border-bottom: 1px solid #ad9c9c;
+    color: #ffffff !important;
+    margin-bottom: 3px;
+    text-shadow: 1px 1px 0 #393939;
+    font-size: 15px;
+}
+
+#music .songlist li {
+    border-bottom: 1px solid #393939;
+    display: table;
+    width: 100%;
+    color: #ffffff;
+}
+
+#music .songlist li:focus, #music .songlist li:hover {
+    background: rgba(170, 165, 165, 0.39);
+}
+
+#music .songlist li div {
+    float: left;
+}
+
+#music .songlist li .icon {
+    background: rgba(0, 0, 0, 0) url("/assets/img/media.music.status.png") no-repeat scroll -3px top;
+    height: 15px;
+    margin: 0 0 0 3px;
+    width: 12px;
+}
+
+#music .songlist li .track {
+    margin: 0 6px 0 0;
+    opacity: 0.5;
+    text-align: right;
+    width: 6%;
+}
+
+#music .songlist li .title {
+    height: 16px;
+    overflow: hidden;
+    text-overflow: ellipsis !important;
+    width: 69%;
+    position: relative;
+    z-index: 1;
+}
+
+#music .songlist li .duration {
+    width: 17%;
+    text-align: right;
+}
+
+#music .songlist li .displayartist {
+    color: #8c8b8b;
+    font-style: italic;
+    margin-right: 14%;
+    position: absolute;
+    right: 0;
+    z-index: 0;
+}
+
+#music .songlist li:hover > .icon {
+    background-position: -3px -17px;
+}
+
+#music .songlist li a.no-tracks {
+    color: #fff;
+}
+
+#music .songlist li a.no-tracks i.fa {
+    font-size: 13px;
+    line-height: 19px;
+}
+
+/*********************************************************************************/
+/*** Music:Playing: || Item:                                                   ***/
+/*********************************************************************************/
+
+#music .item .isPlaying {
+    color: #ffe4e4;
+    font-size: 55px;
+    margin: 42px 0 0 48px;
+    opacity: 0.9;
+    position: absolute;
+    text-shadow: 0 0 58px #ffffff;
+    z-index: 1;
+}
+
+#music .songlist li.playing {
+    background-color: rgba(39, 115, 252, 0.61);
+}
+
+#music .songlist li.playing .icon {
+    background-position: -3px -17px;
+}
+
+#music .songlist li.playing:hover > .icon {
+    background-position: -3px -34px;
+    cursor: pointer;
+}
+
+/*********************************************************************************/
+/*** Music: || Songlist:(Alternative)                                          ***/
+/*********************************************************************************/
+
+#music .songlist .additional .action {
+    background-color: #414040;
+    border: 1px solid #706464;
+    border-radius: 2px;
+    display: inline-block;
+    line-height: 12px;
+    margin: 4px;
+    padding: 4px;
+}
+
+#music .songlist .additional .action:hover {
+    background-color: #2773fc;
+    border-color: #0095ff;
+}
+
+#music .songlist .additional .action .fa {
+    margin: 0 7px 0 0;
+    position: relative;
+    top: -1px;
+}
+
+/*********************************************************************************/
+/*** People: || Detail:                                                        ***/
+/*********************************************************************************/
+
+#people {
+    text-shadow: 0 0 4px #E0DCDC;
+}
+
+#people .poster img.people {
+    background-color: rgba(7, 7, 7, 0.55);
+    background-position: -14px top;
+    background-size: 121% auto;
+    border-color: #d7d7d7;
+    margin-top: 7px;
+}
+
+#people .filmography div.left a {
+    color: inherit;
+    font-weight: bold;
+}
+
+#people .filmography div.left small,
+#people .filmography div.left small a {
+    font: normal 13px/13px arial;
+}
+
+#people .filmography div.movie {
+    padding: 7px 0;
+}
+
+#people .poster img.people, #people .section, #people h1 {
+    box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
+}
+
+#people .poster .imdb-link {
+    margin: 8px 0 0;
+}
+
+#people .poster .imdb-link a {
+    color: black;
+}
+
+#people .poster .imdb-link a .label.radius {
+    top: -8px;
+}
+
+#people .section, #people h1 {
+    background-color: rgba(215, 215, 215, 0.73);
+    border-bottom: 2px solid #ffffff;
+    margin: 7px 0 0;
+    padding: 5px 7px;
+}
+
+#people .section > span {
+    background-color: rgba(0, 0, 0, 0.17);
+    display: block;
+    font: bold 17px arial;
+    margin: 0 0 4px;
+    padding: 3px;
+    width: 100%;
+}
+
+#people .section .tv-serie {
+    margin: 0;
+    height: 15px;
+    background-color: #707070;
+}
+
+#people .section .tv-serie span {
+    position: relative;
+    top: -2px;
+}
+
+#people .section ul.knownFor li a img {
+    border: 1px solid #717171;
+    border-radius: 2px;
+    box-shadow: 0 0 0 1px #5b5b5b;
+    height: 212px;
+    margin: 5px 0 0;
+}
+
+/*********************************************************************************/
+/*** Media:Listing: || [:HOVER]                                                ***/
+/*********************************************************************************/
+
+#media-listing .entry:hover > .cover {
+    box-shadow: 0 -16px 30px -19px #00EAF7;
+    border: 1px #2B757B solid;
+}
+
+#media-listing .entry:hover,
+#media-listing .entry.open:hover {
+    background: #0D334A;
+    box-shadow: 0 3px 22px #236D9A;
+}
+
+/*********************************************************************************/
+/*** Media:Listing: || Presentation:Banner:                                    ***/
+/*********************************************************************************/
+
+#media-listing .banner {
+    margin: 0.1rem;
+}
+
+#media-listing .banner li a {
+    background-color: #1f3e54;
+    display: block;
+}
+
+#media-listing .banner li a,
+#media-listing .banner li a img.cover {
+    border-radius: 3px;
+}
+
+#media-listing .banner li a img.cover {
+    background-image: linear-gradient(#A1C4C1, #6C7B87 100%);
+}
+
+#media-listing .banner li a img.cover:hover {
+    opacity: .7;
+}
+
+/*********************************************************************************/
+/*** Media:Listing: || Presentation:Poster:                                    ***/
+/*********************************************************************************/
+
+#media-listing .poster .entry {
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    float: left;
+    margin: 6px;
+    max-width: 160px;
+    min-width: 115px;
+    padding: 6px 9px 2px 6px;
+    width: 13%;
+}
+
+#media-listing .poster .entry:hover > .cover {
+    box-shadow: 0 -16px 30px -19px #00EAF7;
+    border: 1px #2B757B solid;
+}
+
+#media-listing .poster .entry:hover > .title-movie span {
+    border: 1px solid #5C5C5C;
+    box-shadow: 0 0 46px #06FF98;
+    opacity: .9;
+}
+
+#media-listing .poster .entry:hover {
+    background: #0D334A;
+    box-shadow: 0 3px 22px #236D9A;
+}
+
+#media-listing .poster .entry:hover > .title-movie span {
+    border: 1px solid #5C5C5C;
+    box-shadow: 0 0 46px #06FF98;
+    background: none;
+    opacity: .9;
+}
+
+#media-listing .poster .entry .cover {
+    border: 1px solid #9d9999;
+    border-radius: 6px;
+    box-shadow: 1px 0 18px -2px #222222;
+    position: relative;
+    width: 100%;
+}
+
+#media-listing .poster .entry .title-movie {
+    color: #454545;
+    cursor: default;
+    font: 16px arial;
+}
+
+#media-listing .poster .entry .title-movie span {
+    text-shadow: 1px 1px 0 #c1bfbf;
+    box-shadow: none;
+    border: 1px solid transparent;
+    background-color: transparent;
+    border-radius: 1px 1px 3px 3px;
+    display: inline-block;
+    overflow: hidden;
+    position: relative;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 100%;
+}
+
+#media-listing .poster .entry .title-movie span:hover {
+    min-width: 100%;
+    width: auto;
+}
+
+/*********************************************************************************/
+/*** Media:Listing: || Presentation:Simply:                                    ***/
+/*********************************************************************************/
+
+#media-listing .simply > li span {
+    color: #454545;
+    border: 1px solid transparent;
+    text-shadow: 1px 1px 0 #c1bfbf;
+}
+
+#media-listing .simply > li {
+    background-color: #b8b3b3;
+    border: 1px solid #8c8282;
+    border-radius: 5px;
+    box-shadow: 1px 1px 0 #b5b5b5;
+    padding: 0;
+    margin: 0 1% 8px;
+}
+
+#media-listing .simply.small-block-grid-2 > li {
+    list-style: none;
+    width: 46.6%;
+}
+
+#media-listing .simply > li:hover {
+    background-color: #d2c8c8;
+    border: 1px solid #6f6f6f;
+}
+
+#media-listing .simply > li:hover span {
+    text-shadow: 1px 1px 0 #dedede;
+}
+
+/*********************************************************************************/
+/*** Media:Collections:                                                        ***/
+/*********************************************************************************/
+
+#collections .set {
+    background-size: 100% auto;
+    background-position: left 22%;
+    border: 3px solid #ffffff;
+    border-radius: 4px;
+    height: 170px;
+}
+
+#collections .set .movies img {
+    border: 1px solid #ebebeb;
+    border-radius: 3px;
+    height: 150px;
+}
+
+#collections .set .movies,
+#collections .set .movies, #collections .set .movies li {
+    height: 100%;
+    margin: 3px 5px 0 7px;
+}
+
+#collections .set .left {
+    border-radius: 0 21px 21px 0;
+    color: #eaeaea;
+    font: bold 50px arial;
+    z-index: 2;
+    height: 45%;
+    padding: 6px 16px 0 4px;
+    position: relative;
+    text-shadow: 2px 2px 6px #010101;
+    top: 30%;
+    background-color: rgba(218, 218, 218, 0.38);
+}
+
+#collections .set .right {
+    position: relative;
+    z-index: 1;
+}

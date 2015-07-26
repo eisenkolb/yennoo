@@ -1,0 +1,65 @@
+<style type="text/css">
+    /*#container .simply > li span*/
+    #sources .simply > li span.file {
+        background-color: #aeaeae;
+        border: 1px solid #828282;
+        border-radius: 3px;
+        display: block;
+        font: 13px/9px Verdana;
+        margin: -1px 0 1% 1%;
+        padding: 1%;
+        overflow: hidden;
+        width: 98%;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+</style>
+
+
+<div class="page-margin column" id="sources">
+
+    <div data-alert class="alert-box info radius" ng-if="sources == 'empty' || directories == 'empty'">
+        {{"MESSAGE.EMPTY_DIRECTORY" | translate}}
+        <a href="#" class="close">&times;</a>
+    </div>
+
+    <ul class="simply small-block-grid-2 medium-block-grid-3 large-block-grid-4" ng-if="enums.shift">
+        <li ng-repeat="enum in enums">
+            <a ng-href="#/sources/{{enum}}" style="display: block;" id="enum-{{enum}}">
+                <img class="cover" src="./assets/img/media.text.png">
+                <span class="normal">{{enum.toUpperCase() || "{ empty }" | translate}}</span>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="simply small-block-grid-2 medium-block-grid-3 large-block-grid-4" ng-if="sources.shift">
+        <li ng-repeat="(label, source) in sources">
+            <a ng-href="#/sources/{{route.source}}/{{source.file}}" style="display: block;">
+                <img class="cover" src="./assets/img/media.text.png">
+                <span class="normal">{{source.label}}</span>
+                <span class="file" ng-if="source.file">{{source.file}}</span>
+            </a>
+        </li>
+    </ul>
+
+    <ul class="simply small-block-grid-2 medium-block-grid-3 large-block-grid-4" ng-if="directories.shift">
+        <li ng-repeat="(index, directory) in directories">
+            <a ng-href="#/sources/{{route.source}}/{{directory.file}}" style="display: block;" ng-if="directory.filetype == 'directory'">
+                &nbsp;<span class="fa" ng-class="{'fa-folder-o': directory.filetype == 'directory', 'fa-file-audio-o': directory.type == 'audio', 'fa-file-video-o': directory.type == 'video', 'fa-file-o': directory.filetype != 'directory'}"></span>
+                <span class="normal">{{directory.label}}</span>
+                <span class="file" ng-if="directory.file">{{directory.file}}</span>
+            </a>
+            <a style="display: block;" ng-if="directory.filetype != 'directory'">
+                &nbsp;<span class="fa" ng-class="{'fa-folder-o': directory.filetype == 'directory', 'fa-file-audio-o': directory.type == 'audio', 'fa-file-video-o': directory.type == 'video', 'fa-file-o': directory.filetype != 'directory'}"></span>
+                <span class="normal">{{directory.label}}</span>
+                <span class="file" ng-if="directory.file">{{directory.file}}</span>
+            </a>
+        </li>
+    </ul>
+
+    <div class="small-12 text-left" ng-if="timer" ng-show="sources.shift || directories.shift" style="opacity: 0.5; text-shadow: 1px 1px 0 #e6e4e4; font-size: 11px;">
+        <span ng-if="sources && sources.shift">{{sources.length}}</span>
+        <span ng-if="directories && directories.shift">{{directories.length}}</span>
+        Ergebnisse (in {{timer.elapsed().getSeconds()}},{{timer.elapsed().getMilliseconds()}} Seconds)
+    </div>
+</div>

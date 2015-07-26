@@ -1,0 +1,60 @@
+<div class="page-margin small-12 large-offset-1 large-10 columns" id="people" style="z-index:1;">
+    <div class="poster small-4 column">
+        <img class="people th" src="/assets/img/thumbnail.unknown.png"
+             media="people" people="people.image" imageonload="true">
+        <div class="small-12 row imdb imdb-link" ng-if="people">
+            <a target="_blank" ng-href="http://www.imdb.com/find?s=nm&q={{people.name}}">
+                <span class="truncate truncate-80">{{people.name}}</span>
+                <div class="label radius">{{"PROPERTY.IMDB" | translate}}</div>
+            </a>
+        </div>
+    </div>
+
+    <div class="small-8 column margin-bottom" ng-if="people">
+        <h1>{{people.name}}</h1>
+
+        <div class="section" ng-if="role.tvshows || role.movies">
+            <span>{{"PEOPLE.FILMOGRAPHY" | translate}}</span>
+            <div class="filmography small-12 row">
+                <div class="movie small-12 column" ng-repeat="tvshow in role.tvshows track by $index">
+                    <div class="left">
+                        <a ng-href="{{route.series}}/{{tvshow.tvshowid}}/{{tvshow.label.toLowerCase()}}">{{tvshow.label}}</a>
+                        <div class="label radius tv-serie"><span>(TV Series)</span></div>
+                        <small>( <a target="_blank" ng-href="http://www.imdb.com/find?s=ch&q={{tvshow.actor.role}}">{{tvshow.actor.role}}</a> )</small>
+                    </div>
+                    <div class="right" ng-if="tvshow.premiered">{{(tvshow.premiered).split("-")[0]}}</div>
+                </div>
+
+                <div class="movie small-12 column" ng-repeat="movie in role.movies track by $index">
+                    <div class="left">
+                        <a ng-href="{{route.movies}}/{{movie.movieid}}/{{movie.label.toLowerCase()}}">{{movie.label}}</a>
+                        <small>( <a target="_blank" ng-href="http://www.imdb.com/find?s=ch&q={{movie.actor.role}}">{{movie.actor.role}}</a> )</small>
+                    </div>
+                    <div class="right">{{movie.year}}</div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="section" ng-if="role.tvshows || role.movies">
+            <span>{{"PEOPLE.KNOWN_FOR" | translate}}</span>
+            <div>
+                <ul class="knownFor inline-list">
+                    <li ng-repeat="tvshow in role.tvshows track by $index" ng-if="$index < 8">
+                        <a id="tvshow-{{tvshow.tvshowid}}" ng-href="{{route.series}}/{{tvshow.tvshowid}}/{{tvshow.label.toLowerCase()}}">
+                            <img ng-src="{{tvshow.poster}}">
+                        </a>
+                    </li>
+                    <li ng-repeat="movie in role.movies track by $index" ng-if="$index < 8">
+                        <a id="movie-{{movie.movieid}}" ng-href="{{route.movies}}/{{movie.movieid}}/{{movie.label.toLowerCase()}}">
+                            <img ng-src="{{movie.poster}}">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<div class="blur-fill-in" style="background-image: url(&quot;{{people.fanart}}&quot;);"></div>
