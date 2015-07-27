@@ -1,6 +1,6 @@
-uneXBMC.register.controller("MediaSeriePagesCtrl"
+uneXBMC.register.controller("series.PagesCtrl"
 , ["$scope", "$routeParams", "$location", "MovieFactory"
-, function MediaSeriePagesCtrl($scope, $routeParams, $location, MovieFactory){
+, function($scope, $routeParams, $location, MovieFactory){
     $scope.page  = $routeParams.page || null;
     $scope.timer = new uneXBMC.util.Timer(true);
     $scope.route = {series: uneXBMC.route.seriesIndex[0]};

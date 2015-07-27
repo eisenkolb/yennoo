@@ -1,6 +1,6 @@
-uneXBMC.register.controller("CoreSettingCtrl"
+uneXBMC.register.controller("config.PrefsCtrl"
 , ["$scope", "$translate", "Locale", "Transporter"
-, function CoreSettingCtrl($scope, $translate, Locale, Transporter){
+, function($scope, $translate, Locale, Transporter){
 
     /**
      * Default Setting - Language

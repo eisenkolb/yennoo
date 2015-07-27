@@ -1,6 +1,6 @@
-uneXBMC.register.controller("FileSourcesIndexCtrl"
+uneXBMC.register.controller("source.FilesCtrl"
 , ["$scope", "$routeParams", "MovieFactory"
-, function FileSourcesIndexCtrl($scope, $routeParams, MovieFactory){
+, function($scope, $routeParams, MovieFactory){
     $scope.$root.breadcrumb = [{title: "SOURCES", href: uneXBMC.route.sourceIndex[0]}];
     $scope.sourceEnums      = ["video", "music", "pictures", "files", "programs"];
 

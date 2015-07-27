@@ -1,6 +1,6 @@
-uneXBMC.register.controller("MediaSerieIndexCtrl"
+uneXBMC.register.controller("series.IndexCtrl"
 , ["$scope", "$routeParams", "mediaLibrary", "MovieFactory"
-, function MediaSerieIndexCtrl($scope, $routeParams, mediaLibrary, MovieFactory){
+, function($scope, $routeParams, mediaLibrary, MovieFactory){
     $scope.timer = new uneXBMC.util.Timer(true);
     $scope.page  = $routeParams.page || null;
     $scope.route = {series: uneXBMC.route.seriesIndex[0]};

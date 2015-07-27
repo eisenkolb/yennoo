@@ -1,6 +1,6 @@
-uneXBMC.register.controller("MediaMusicIndexCtrl"
+uneXBMC.register.controller("musics.IndexCtrl"
 , ["$scope", "MovieFactory"
-, function MediaMusicIndexCtrl($scope, MovieFactory){
+, function($scope, MovieFactory){
     $scope.artistsSongs = {};
     $scope.loadingIndex = 1;
 

@@ -1,6 +1,6 @@
-uneXBMC.register.controller("CrowdPeopleDetailCtrl"
+uneXBMC.register.controller("people.DetailCtrl"
 , ["$scope", "$routeParams", "MovieFactory"
-, function CrowdPeopleDetailCtrl($scope, $routeParams, MovieFactory){
+, function($scope, $routeParams, MovieFactory){
     $scope.people = null;
     $scope.role   = {};
     $scope.actor  = $routeParams.people;

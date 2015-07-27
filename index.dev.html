@@ -6,16 +6,16 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Yennoo</title>
-    <script type="text/javascript" src="assets/lib/websocket.js"></script>
-    <script type="text/javascript" src="assets/lib/json.js"></script>
     <script type="text/javascript" src="assets/lib/jquery.js"></script>
-    <script type="text/javascript" src="assets/lib/angular.min.js"></script>
-    <script type="text/javascript" src="assets/lib/angular-translate.js"></script>
-    <script type="text/javascript" src="assets/lib/angular-route.min.js"></script>
     <script type="text/javascript" src="assets/lib/foundation.min.js"></script>
+    <script type="text/javascript" src="assets/lib/angular.min.js"></script>
+    <script type="text/javascript" src="assets/lib/angular-route.min.js"></script>
+    <script type="text/javascript" src="assets/lib/angular-translate.js"></script>
     <script type="text/javascript" src="assets/lib/uneXBMC.js"></script>
     <script type="text/javascript" src="assets/lib/uneXBMC.util.js"></script>
     <script type="text/javascript" src="assets/lib/uneXBMC.rpc.js"></script>
+    <script type="text/javascript" src="assets/lib/websocket.js"></script>
+    <script type="text/javascript" src="assets/lib/json.js"></script>
     <link type="text/css" media="all" rel="stylesheet" href="assets/css/main.theme.css" />
     <link type="text/css" media="all" rel="stylesheet" href="assets/css/main.pages.css" />
     <link type="text/css" media="all" rel="stylesheet" href="assets/css/foundation.css" />
@@ -33,7 +33,7 @@
 <body class="antialiased hide-extras off-canvas-wrap" id="ng-app" ng-app="XBMC">
 
     <div id="loading-mask">
-        <div class="bar progress running"></div>
+        <div class="bar progress done"></div>
         <div class="bar background"></div>
     </div>
 
@@ -86,8 +86,8 @@
                     </div>
                     <div class="group left"></div>
                     <div class="right">
-                        <div ng-include="'/resources/view/settings.core.html'" style="display:inline;"></div>
-                        <div ng-include="'/resources/view/settings.develop.html'" style="display:inline;"></div>
+                        <div ng-include="'/resources/view/config.prefs.html'" style="display:inline;"></div>
+                        <div ng-include="'/resources/view/config.develop.html'" style="display:inline;"></div>
                     </div>
 
                     <div class="right group"></div>
@@ -112,10 +112,10 @@
         <div id="footer"></div>
 
     </div>
-
 </body>
 
 <script type="text/javascript">
+    "use strict";
 
     $(function($){
         $(document).foundation();
@@ -128,22 +128,22 @@
             represent: {}
         },
         route: {
-            moviesIndex: ["#/movies", "MediaMovieIndexCtrl", "resources/view/movie.index.html"],
-            moviesPages: ["#/movies/page/:page", "MediaMoviePagesCtrl", "resources/view/movie.index.html"],
-            movieDetail: ["#/movies/:movieid/:title", "MediaMovieDetailCtrl", "resources/view/movie.detail.html"],
-            movieFilter: ["#/movies/filter/:filter/:value", "MediaMovieFilterCtrl", "resources/view/movie.index.html"],
-            collections: ["#/sets", "MediaMovieCollectionCtrl", "resources/view/movie.index.html"],
-            crowdPeople: ["#/people/:people", "CrowdPeopleDetailCtrl", "resources/view/crowd.index.html"],
-            musicsIndex: ["#/music", "MediaMusicIndexCtrl", "resources/view/music.index.html"],
-            artistIndex: ["#/artist", "MediaArtistIndexCtrl", "resources/view/music.artist.html"],
-            seriesIndex: ["#/series", "MediaSerieIndexCtrl", "resources/view/series.index.html"],
-            seriesPages: ["#/series/page/:page", "MediaSeriePagesCtrl", "resources/view/series.index.html"],
-            serieDetail: ["#/series/:tvshowid/:label", "MediaSerieDetailCtrl", "resources/view/series.detail.html"],
-            serieSeason: ["#/series/:tvshowid/:label/season/:seasonid", "MediaSerieSeasonCtrl", "resources/view/series.detail.season.html"],
-            serieFilter: ["#/series/filter/:filter/:value", "MediaSerieFilterCtrl", "resources/view/series.index.html"],
-            coreSetting: ["#/core", "CoreSettingCtrl", "resources/view/core.html"],
-            sourceIndex: ["#/sources/", "FileSourcesIndexCtrl", "resources/view/source.index.html"],
-            dashboard:   ["#/", "DashboardCtrl", "resources/view/dashboard.html"]
+            moviesIndex: ["#/movies", "movies.IndexCtrl", "resources/view/movies.index.html"],
+            moviesPages: ["#/movies/page/:page", "movies.PagesCtrl", "resources/view/movies.index.html"],
+            movieDetail: ["#/movies/:movieid/:title", "movies.DetailCtrl", "resources/view/movies.detail.html"],
+            movieFilter: ["#/movies/filter/:filter/:value", "movies.FilterCtrl", "resources/view/movies.index.html"],
+            collections: ["#/sets", "movies.CollectionCtrl", "resources/view/movies.index.html"],
+            crowdPeople: ["#/people/:people", "people.DetailCtrl", "resources/view/people.detail.html"],
+            musicsIndex: ["#/music", "musics.IndexCtrl", "resources/view/musics.index.html"],
+            artistIndex: ["#/music/artist", "musics.ArtistCtrl", "resources/view/musics.artist.html"],
+            seriesIndex: ["#/series", "series.IndexCtrl", "resources/view/series.index.html"],
+            seriesPages: ["#/series/page/:page", "series.PagesCtrl", "resources/view/series.index.html"],
+            serieDetail: ["#/series/:tvshowid/:label", "series.DetailCtrl", "resources/view/series.detail.html"],
+            serieSeason: ["#/series/:tvshowid/:label/season/:seasonid", "series.detail.SeasonCtrl", "resources/view/series.detail.season.html"],
+            serieFilter: ["#/series/filter/:filter/:value", "series.FilterCtrl", "resources/view/series.index.html"],
+            coreSetting: ["#/config/prefs", "config.PrefsCtrl", "resources/view/config.prefs.html"],
+            sourceIndex: ["#/sources/", "source.FilesCtrl", "resources/view/source.files.html"],
+            dashboard:   ["#/", "index.DashboardCtrl", "resources/view/index.dashboard.html"]
         },
         application: {
             appname: "Yennoo",
@@ -159,8 +159,8 @@
         },
         navigation: {
             movies: {label: "MOVIES"},
-            series: {"label": "SERIES"},
-            music : {label : "MUSIC"},
+            series: {label: "SERIES"},
+            music : {label: "MUSIC"},
             addons: {label: "ADDONS"},
             tools : {
                 label: "TOOLS",

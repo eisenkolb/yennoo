@@ -1028,3 +1028,11 @@
     position: relative;
     z-index: 1;
 }
+
+#collections .set .radial-gradient {
+    height: 100%;
+    position: relative;
+    width: 100%;
+    z-index: 0;
+    background-image: radial-gradient(circle at 51% 49%, transparent 0%, rgba(0, 0, 0, 0.73));
+}

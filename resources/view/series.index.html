@@ -25,7 +25,7 @@
         <div ng-show="represent.tvshows == 'simply'">
             <ul class="simply small-block-grid-2 medium-block-grid-3 large-block-grid-4">
                 <li ng-repeat="(index, entry) in media track by $index | limitTo:limit">
-                    <a ng-href="{{route.series}}/{{entry.tvshowid}}/{{entry.label.toLowerCase()}}" style="display: block;" id="movie-{{entry.tvshowid}}">
+                    <a ng-href="{{route.series}}/{{entry.tvshowid}}/{{entry.label.toLowerCase()}}" style="display: block;" id="serie-{{entry.tvshowid}}">
                         <img  class="cover" src="/assets/img/media.text.png">
                         <span class="normal">{{entry.title}}</span>
                     </a>
@@ -48,7 +48,7 @@
 
         <div ng-show="represent.tvshows == 'poster' || represent.tvshows == null">
             <div class="poster">
-                <a ng-repeat="(index, entry) in media track by $index| limitTo:limit" class="entry" id="movie-{{entry.tvshowid}}" ng-click="toggle($event);"
+                <a ng-repeat="(index, entry) in media track by $index| limitTo:limit" class="entry" id="serie-{{entry.tvshowid}}" ng-click="toggle($event);"
                      ng-href="{{route.series}}/{{entry.tvshowid}}/{{entry.label.toLowerCase()}}" >
                     <img class="cover centered" src="/assets/img/media.cover.frame.png"
                          media="poster" poster="entry.poster" imageonload="true">

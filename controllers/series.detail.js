@@ -1,6 +1,6 @@
-uneXBMC.register.controller("MediaSerieDetailCtrl"
+uneXBMC.register.controller("series.DetailCtrl"
 , ["$scope", "$routeParams", "mediaLibrary", "MovieFactory"
-, function MediaSerieDetailCtrl($scope, $routeParams, mediaLibrary, MovieFactory){
+, function($scope, $routeParams, mediaLibrary, MovieFactory){
     $scope.tvshowid = parseInt($routeParams.tvshowid);
     $scope.unknown  = uneXBMC.const.UNKNOWN_THUMBNAIL;
     $scope.route    = {series: uneXBMC.route.seriesIndex[0]};

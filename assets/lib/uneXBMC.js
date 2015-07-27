@@ -648,7 +648,7 @@
         this.SetLanguage = function(language)
         {
             this.language = this.GetLanguageKey(language);
-            console.info($translateProvider.use(this.GetLanguageKey(language)));
+            $translateProvider.use(this.GetLanguageKey(language));
 
             return(this);
         };
@@ -910,6 +910,7 @@
         $scope.$on("loading:resources:complete", function(event, data){
             angular.element("#loading-mask .bar.progress").addClass("done");
         });
+
         $scope.$on("loading:resources:start", function(event, data){
             angular.element("#loading-mask .bar.progress").removeClass("done");
         });

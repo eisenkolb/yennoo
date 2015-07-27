@@ -1,6 +1,6 @@
-uneXBMC.register.controller("MediaSerieSeasonCtrl"
+uneXBMC.register.controller("series.detail.SeasonCtrl"
 , ["$scope", "$routeParams", "mediaLibrary", "MovieFactory"
-, function MediaSerieSeasonCtrl($scope, $routeParams, mediaLibrary, MovieFactory){
+, function($scope, $routeParams, mediaLibrary, MovieFactory){
     $scope.tvshowid = parseInt($routeParams.tvshowid);
     $scope.seasonid = parseInt($routeParams.seasonid);
     $scope.headline = $routeParams.label;

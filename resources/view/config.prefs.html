@@ -2,7 +2,7 @@
 <div id="drop-settings" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" aria-autoclose="false" tabindex="-1">
 <div>
     <div class="tabs-content">
-        <div id="panela1" class="content active" aria-hidden="false" ng-controller="CoreSettingCtrl">
+        <div id="panela1" class="content active" aria-hidden="false" ng-controller="config.PrefsCtrl">
             <form class="large-9 right">
                 <div class="row">
                     <div class="large-12 columns">
@@ -28,6 +28,6 @@
 </div>
 </div>
 
-<div id="modal-main" class="reveal-modal small" data-reveal ng-controller="CoreSettingCtrl">
-    <div ng-include="'/resources/view/settings.transporter.html'"></div>
+<div id="modal-main" class="reveal-modal small" data-reveal ng-controller="config.PrefsCtrl">
+    <div ng-include="'/resources/view/config.transporter.html'"></div>
 </div>

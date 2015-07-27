@@ -1,6 +1,6 @@
-uneXBMC.register.controller("MediaSerieFilterCtrl"
+uneXBMC.register.controller("series.FilterCtrl"
 , ["$scope", "$routeParams", "$translate", "MovieFactory"
-, function MediaSerieFilterCtrl($scope, $routeParams, $translate, MovieFactory){
+, function($scope, $routeParams, $translate, MovieFactory){
     $scope.timer      = new uneXBMC.util.Timer(true);
     $scope.route = {series: uneXBMC.route.seriesIndex[0]};
     $scope.translate  = "PROPERTY."+ $routeParams.filter.toUpperCase();
@@ -45,7 +45,6 @@ uneXBMC.register.controller("MediaSerieFilterCtrl"
              */
             if (custom.userDefined && custom[filter] && custom[filter].call(null, data[index], values)){
                 result.push(data[index]);
-                console.log("MAAA", index);
             }
             else
             /**
