@@ -1,0 +1,107 @@
+<div class="page-margin">
+    <script type="text/ng-template" id="/pager.html">
+        <div ng-transclude class="transclude"></div>
+    </script>
+
+    <div>
+        <div subheader="right/replace">
+            <ul class="button-group left radius">
+                <li><a href="" class="button minimal" ng-click="represent.movies = 'poster'"><i class="fa fa-th"></i></a></li>
+                <li><a href="" class="button minimal" ng-click="represent.movies = 'simply'"><i class="fa fa-list"></i></a></li>
+                <li><a href="" class="button minimal" ng-click="represent.movies = 'banner'"><i class="fa fa-align-justify"></i></a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="large-12 columns" ng-if="collection" id="collections">
+        <div class="large-12 set" ng-repeat="set in collection" id="setid-{{set.setid}}" style="background-image: url('{{set.fanart}}');" ng-if="set.setid">
+            <div class="left" ng-if="set.label">{{set.label}}</div>
+            <div class="right" style="height:100%;">
+                <ul class="inline-list movies" ng-if="set.movies">
+                    <li ng-repeat="movie in set.movies">
+                        <a ng-href="{{route.movies}}/{{movie.movieid}}/{{movie.label.toLowerCase()}}" id="movie-{{movie.movieid}}">
+                            <img class="cover centered" src="/assets/img/media.cover.frame.png"
+                                 media="poster" poster="movie.poster" imageonload="true">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+            <div class="radial-gradient"></div>
+        </div>
+    </div>
+
+    <div id="media-listing" pager="true" in="movies" out="media" ng-if="movies" style="height:auto;">
+
+        <div ng-if="movies.length === 0" data-alert class="alert-box info" style="margin: -10px 0 10px;">
+            <div translate="MESSAGE.EMPTY_MEDIA_LIST" translate-values="{type: '{{'MOVIES' | translate}}'}"></div>
+            <a href="#" class="close">&times;</a>
+        </div>
+
+        <!-- Presentation: List -->
+
+        <div ng-show="represent.movies == 'simply'">
+            <ul class="simply small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+                <li ng-repeat="(index, entry) in media track by $index | limitTo:limit">
+                    <a ng-href="{{route.movies}}/{{entry.movieid}}/{{entry.label.toLowerCase()}}" style="display: block;" id="movie-{{entry.movieid}}">
+                        <img  class="cover" src="/assets/img/media.text.png">
+                        <span class="normal">{{entry.title}}</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <!-- Presentation: Banner -->
+
+        <ul ng-show="represent.movies == 'banner'" class="banner small-block-grid-1 medium-block-grid-2 large-block-grid-3">
+            <li ng-repeat="(index, entry) in media track by $index| limitTo:limit" ng-if="entry">
+                <a ng-href="{{route.movies}}/{{entry.movieid}}/{{entry.label.toLowerCase()}}" class="cover poster">
+                    <img class="cover centered" src="/assets/img/media.banner.png"
+                         media="banner" banner="entry.banner" imageonload="true">
+                </a>
+            </li>
+        </ul>
+
+        <!-- Presentation: Poster [default] -->
+
+        <div ng-show="represent.movies == 'poster' || represent.movies == null">
+            <div class="poster">
+                <a ng-repeat="(index, entry) in media track by $index| limitTo:limit" class="entry" id="movie-{{entry.movieid}}" ng-click="toggle($event);"
+                   ng-href="{{route.movies}}/{{entry.movieid}}/{{entry.label.toLowerCase()}}" >
+                    <img class="cover centered" src="/assets/img/media.cover.frame.png"
+                         media="poster" poster="entry.poster" imageonload="true">
+                    <div class="title-movie text-center">
+                        <span class="normal">{{entry.title}}</span>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+        <!-- Switch for Presentations::end -->
+
+        <div class="large-12 column" ng-if="pagination.pages.length > 1">
+            <ul class="pagination row small-offset-3 large-7 large-offset-4" ng-if="pagination">
+                <li class="arrow unavailable">
+                    <a ng-href="{{pagination.path}}/page/1" style="background:#F1F1F1">
+                        <i class="fa fa-angle-double-left"></i> {{"GLOBAL.FIRST_PAGE" | translate}}
+                    </a>
+                </li>
+
+                <li ng-repeat="page in pagination.pages" ng-class="{'current': pagination.current == page}" >
+                    <a ng-href="{{pagination.path}}/page/{{page}}" style="background:#F1F1F1">{{page}}</a>
+                </li>
+
+                <li ng-if="pagination.upper < pagination.total" class="arrow">
+                    <a ng-href="{{pagination.path}}/page/{{ pagination.total}}" style="background:#F1F1F1">
+                        {{"GLOBAL.LAST_PAGE" | translate}} <i class="fa fa-angle-double-right"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="small-12 text-left column" ng-if="timer" ng-show="movies.shift || movies.length" style="opacity: 0.5; text-shadow: 1px 1px 0 #e6e4e4; font-size: 11px;">
+            {{"MESSAGE.FOUND_RESULTS" | translate:"{count: "+ movies.length +", seconds: '"+ timer.elapsed().getSeconds() +","+ timer.elapsed().getMilliseconds() +" '}"}}
+        </div>
+
+    </div>
+
+</div>
