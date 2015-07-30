@@ -1,0 +1,24 @@
+<div class="page-margin" id="music-artists">
+
+    <ul class="small-block-grid-1 medium-block-grid-2 large-block-grid-1">
+        <li ng-repeat="(character, displayartists) in alphabet track by $index">
+            <ul class="alphabet character-{{character}}" id="character-{{character}}">
+                <div class="headline">
+                    <span>{{character}}</span>
+                    <a href="#character-panel-{{character}}" class="right">|</a>
+                </div>
+
+                <ul id="character-panel-{{character}}" class="small-block-grid-4 medium-block-grid-3 large-block-grid-10">
+                    <li id="artist-{{artistid}}" class="entry" ng-repeat="(name, artistid) in displayartists track by $index">
+                        <img class="cover centered" src="/assets/img/media.music.edges.png" onready="relpaceimage" data-image="artists[name][0].thumbnail">
+                        <div class="infos">
+                            <div class="artist">{{name || "Unknown"}}</div>
+                            <div class="album">{{artists[name].length}} Alben</div>
+                        </div>
+                    </li>
+                </ul>
+            </ul>
+        </li>
+    </ul>
+
+</div>
