@@ -178,6 +178,85 @@
 }
 
 /*********************************************************************************/
+/*** Main: || Settings:                                                        ***/
+/*********************************************************************************/
+
+#main #drop-settings {
+    left: auto !important;
+    padding: 16px;
+    position: fixed !important;
+    right: 1.5% !important;
+    top: 95px !important;
+    z-index: 5;
+    cursor: default;
+}
+
+#main #drop-settings .language {
+    border-color: transparent;
+    color: inherit;
+    font-size: 1rem;
+    margin: -7px -6px 0 !important;
+    padding: 0;
+}
+
+#main #drop-settings .language:hover {
+    border-color: #cccccc;
+    color: inherit;
+}
+
+#main #drop-settings .transporter .button.right {
+    opacity: 0;
+}
+
+#main #drop-settings .transporter .trigger:hover .button.right {
+    opacity: 1;
+}
+
+#main #drop-settings .section {
+    line-height: 35px;
+}
+
+#main #drop-settings hr {
+    margin: 4px 0;
+}
+
+#main #drop-settings .tabs-content .content {
+    padding: 14px;
+    background-color: #f9fbff;
+    border: 1px solid #3e3e3e;
+    border-radius: 3px;
+}
+
+/*********************************************************************************/
+/*** Main: || [:OVERLAY]Settings:                                              ***/
+/*********************************************************************************/
+
+#main.show-settings #content-overlay {
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+#main #drop-settings .content.active,
+#main.show-settings .tabs-content {
+    animation-name: flipInY;
+    animation-duration: 0.4s !important;
+    animation-fill-mode: both;
+}
+
+#main #content-overlay {
+    background-color: rgba(49, 29, 58, 0.8);
+    height: 100%;
+    left: 0;
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    transition: all 0.25s ease-out 0s;
+    visibility: hidden;
+    width: 100%;
+    z-index: 2;
+}
+
+/*********************************************************************************/
 /*** Global: || Button:                                                        ***/
 /*********************************************************************************/
 
@@ -251,6 +330,14 @@
 
 #main .text-inherit, #main .text-inherit a {
     color: inherit;
+}
+
+#main .text-gray {
+    color: #898989;
+}
+
+#main .transition {
+    transition: all 0.25s ease-out 0s;
 }
 
 /*********************************************************************************/
@@ -582,6 +669,10 @@ td, th {
     padding: 0;
 }
 
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+    display: none !important;
+}
+
 /*********************************************************************************/
 /*** Global: || Animation:                                                     ***/
 /*********************************************************************************/
@@ -595,17 +686,22 @@ td, th {
     animation-iteration-count: infinite;
 }
 
-#main .fadeIn {
+#main .animated.fadeIn {
     animation-name: fadeIn;
 }
 
-#main .slideInUp {
+#main .animated.slideInUp {
     animation-name: slideInUp;
 }
 
 #main .animated.flip {
     backface-visibility: visible;
     animation-name: flip;
+}
+
+#main .animated.flipInY {
+    backface-visibility: visible !important;
+    animation-name: flipInY;
 }
 
 @keyframes fadeIn {
@@ -665,5 +761,16 @@ td, th {
         transform: perspective(400px);
         -webkit-animation-timing-function: ease-in;
         animation-timing-function: ease-in;
+    }
+}
+
+@keyframes flipInY {
+    0% {
+        opacity: 0;
+        animation-timing-function: ease-in;
+        transform: perspective(2000px) rotate3d(0, 1, 0, 120deg);
+    }
+    100% {
+        transform: perspective(2000px);
     }
 }

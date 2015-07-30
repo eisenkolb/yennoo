@@ -1,9 +1,18 @@
-<a class="button radius minimal transparent label" data-dropdown="contentDrop11" data-options="align: left" style="height: 21px;line-height: 17px;">
+<a class="button radius minimal transparent label" data-dropdown="contentDropSetting" data-options="align:left" style="height: 21px;line-height: 17px;">
     <i class="fa fa-x2 fa-bug"></i>
 </a>
 
-<div class="f-dropdown medium f-open-dropdown" ng-controller="config.PrefsCtrl" id="contentDrop11">
+<div class="f-dropdown medium f-open-dropdown" ng-controller="test.viewSetting" id="contentDropSetting">
     <pre style="font-size:11px;overflow:hidden;">
 {{settings | json}}
     </pre>
 </div>
+
+<script type="text/javascript">
+uneXBMC.register.controller("test.viewSetting", ["$scope", function($scope){
+    setInterval(function(){
+        $scope.settings = uneXBMC.setting;
+        $scope.$apply();
+    }, 700);
+}]);
+</script>

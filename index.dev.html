@@ -53,7 +53,7 @@
 
                 <nav id="navigation" data-topbar="" class="top-bar">
                     <div class="top-bar-filters">
-                        <ul id="breadcrumb" class="breadcrumbs" ng-if="breadcrumb">
+                        <ul id="breadcrumb" class="breadcrumbs ng-cloak" ng-if="breadcrumb">
                             <li class="{{$last ? 'current' : null}}" ng-repeat="index in breadcrumb" ng-if="breadcrumb.length">
                                 <a ng-href="{{index.href && !$last ? index.href : ''}}">{{index.title | translate}}</a>
                             </li>
@@ -65,7 +65,7 @@
                             <li class="divider"></li>
                             <li ng-repeat-start="(name, entry) in entries"
                                 ng-class="{'has-dropdown not-click': entry.subs}" id="head-{{name}}">
-                                <a ng-href="{{entry.href != false ? ('#/'+ name) : ''}}" ng-click="switch(entry, name, $event);">{{entry.label.toUpperCase() || "{ empty }" | translate}}</a>
+                                <a ng-href="{{entry.href != false ? ('#/'+ name) : ''}}" class="ng-cloak" ng-click="switch(entry, name, $event);">{{entry.label.toUpperCase() || "{ empty }" | translate}}</a>
                                 <ul class="dropdown" ng-if="entry.subs">
                                     <li class="title back js-generated">
                                         <h5><a href="javascript:void(0);">Back</a></h5>
@@ -92,7 +92,7 @@
 
                     <div class="right group"></div>
                     <div class="right" style="margin:0 -3px 0 0;">
-                        <ul class="pagination right" ng-if="pagination && pagination.length">
+                        <ul class="pagination right ng-cloak" ng-if="pagination && pagination.length">
                             <li class="arrow unavailable"><a class="fa fa-angle-double-left" ng-href="{{pagination.path}}"></a></li>
                             <li ng-repeat="page in pagination.pages" ng-class="{'current': pagination.current == page}" >
                                 <a ng-href="{{pagination.path}}/page/{{page}}">{{page}}</a>
@@ -106,19 +106,28 @@
                 </div>
             </div>
 
-            <div class="small-12" id="content" ng-controller="ContentCtrl" ng-view></div>
+            <div id="content" class="small-12 ng-cloak" ng-controller="ContentCtrl" ng-view></div>
+            <div id="content-overlay" class="overlay"></div>
         </section>
 
         <div id="footer"></div>
 
     </div>
+    <a data-dropdown="foundation-fix" style="display:none;visibility:hidden;"></a>
 </body>
 
 <script type="text/javascript">
     "use strict";
 
     $(function($){
-        $(document).foundation();
+
+        /**
+         * Initialize Foundation
+         *
+         * Reflow: will make Foundation check the DOM for any elements and re-apply any listeners to them.
+         */
+
+        $(document).foundation("reflow");
     });
 
     window.uneXBMCextend = {

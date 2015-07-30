@@ -1,72 +1,69 @@
-<html>
-    <div ng-repeat="error in messages.errors track by $index" ng-if="messages.errors" data-alert="" class="alert-box alert radius" style="background-color: rgb(247, 66, 66);">
-        {{error}}
-        <a class="close">&times;</a>
+<h3>
+    <i class="fa fa-sitemap"></i>&nbsp;Transporter
+    <div class="small-6 right" id="button-save-transporter" style="display:none;">
+        <a ng-click="saveTransporter($event);" class="button radius tiny right success">{{"GLOBAL.SAVE" | translate}}</a>
     </div>
-    <div ng-repeat="warning in messages.warnings track by $index" ng-if="messages.warnings" data-alert="" class="alert-box warning radius">
-        {{warning}}
-        <a class="close">&times;</a>
-    </div>
-    <div ng-repeat="info in messages.infos track by $index" ng-if="messages.warnings" data-alert="" class="alert-box primary radius">
-        {{info}}
-        <a class="close">&times;</a>
-    </div>
+</h3>
+<hr>
 
-    <div class="large-12">
-        <a href="#" ng-click="extendModalTransporter($event);" id="extendModalTransporter" class="button primary radius small left info">{{"SETTING.CHANGE_SETTING" | translate}}</a>
-        <a aria-label="Close" onclick="$('#modal-main').foundation('reveal', 'close');" class="button radius small right info" ng-hide="messages.errors">{{"GLOBAL.CANCEL" | translate}}</a>
-        <a class="button radius small right info ng-binding" style="margin-right: 8px;" onclick="location.reload();"><i class="fa fa-repeat"></i></a>
-    </div>
+<div ng-repeat="error in messages.errors track by $index" ng-if="messages.errors" data-alert="" class="alert-box alert radius" style="background-color: rgb(247, 66, 66);">
+    {{error}}
+    <a class="close">&times;</a>
+</div>
+<div ng-repeat="warning in messages.warnings track by $index" ng-if="messages.warnings" data-alert="" class="alert-box warning radius">
+    {{warning}}
+    <a class="close">&times;</a>
+</div>
+<div ng-repeat="info in messages.infos track by $index" ng-if="messages.warnings" data-alert="" class="alert-box primary radius">
+    {{info}}
+    <a class="close">&times;</a>
+</div>
 
-    <div class="transporters" id="main-transporter" style="display:none;">
+<div class="large-12" id="modal-head-transporter">
+    <a href="#" ng-click="transporterSettingsExtend($event);" id="transporters-extended" class="button primary radius small left info">{{"SETTING.CHANGE_SETTING" | translate}}</a>
+    <a aria-label="Close" ng-click="overlaySettingsClose();" class="button radius small right info" ng-hide="messages.errors">{{"GLOBAL.CANCEL" | translate}}</a>
+    <a class="button radius small right info ng-binding" style="margin-right: 8px;" onclick="location.reload();"><i class="fa fa-repeat"></i></a>
+</div>
 
-        <pre>{{changed | json}}</pre>
+<div class="transporters" id="main-transporter" style="display:none;">
 
-        <div class="transporter row {{(name).toLowerCase()}} large-12" style="border-top: 3px solid red; padding: 13px 0;" ng-repeat="(name, transporter) in transporters.available track by $index" ng-if="transporters">
-            <div class="row" style="">
-                <div class="large-2 columns">
-                    <div class="switch small large-12" style="display: inline;">
-                        <input ng-if="transporters.current.method === name" type="radio" ng-click="formChangeTransporter(name, $event);" name="transporter" checked="1" id="transporter-{{(name).toLowerCase()}}">
-                        <input ng-if="transporters.current.method !== name" type="radio" ng-click="formChangeTransporter(name, $event);" name="transporter" id="transporter-{{(name).toLowerCase()}}">
-                        <label for="transporter-{{(name).toLowerCase()}}"></label>
-                    </div>
-                </div>
+    <pre style="border:1px #A5ECD6 solid;padding:4px;background-color:#EAFDE9;font-size:12px;">{{changed | json}}</pre>
 
-                <div class="large-10 columns">
-                    <h4 style="padding:0; margin: -2px 0;">{{name}}</h4>
+    <div class="transporter {{(name).toLowerCase()}} large-12" ng-repeat="(name, transporter) in transporters.available track by $index" ng-if="transporters">
+        <hr style="padding-bottom:11px;">
+        <div class="row">
+            <div class="large-2 columns">
+                <div class="switch small large-12" style="display:inline;">
+                    <input ng-if="transporters.current.method == name" type="radio" ng-click="formChangeTransporter(name, $event);" name="transporter" checked="1" id="transporter-{{(name).toLowerCase()}}">
+                    <input ng-if="transporters.current.method != name" type="radio" ng-click="formChangeTransporter(name, $event);" name="transporter" id="transporter-{{(name).toLowerCase()}}">
+                    <label for="transporter-{{(name).toLowerCase()}}"></label>
                 </div>
             </div>
 
-            <div class="row">
-                <div class="large-9 columns">
-                    <div class="row collapse prefix-radius">
-                        <div class="small-2 columns">
-                            <span class="prefix">{{"SETTING.HOST" | translate}}</span>
-                        </div>
-                        <div class="small-10 columns">
-                            <input type="text" placeholder="{{transporter.host}}" ng-model="changed.transport[name].host">
-                        </div>
-                    </div>
-                </div>
-
-                <div class="large-3 columns" style="padding-left:0;">
-                    <div class="row collapse postfix-radius">
-                        <div class="small-6 columns">
-                            <span class="prefix">{{"SETTING.PORT" | translate}}</span>
-                        </div>
-                        <div class="small-6 columns">
-                            <input type="text" placeholder="{{transporter.port}}" ng-model="changed.transport[name].port" ng-pattern="/^\d+$/">
-                        </div>
-                    </div>
-                </div>
-                {{transporter | json}}
+            <div class="large-10 columns">
+                <h4 style="padding:0;margin:-2px 0;">{{name}}</h4>
             </div>
         </div>
 
-        <div class="large-12">
-            <a onclick="$('#modal-main').foundation('reveal', 'close');" class="button primary radius small left info">{{"GLOBAL.CANCEL" | translate}}</a>
-            <a href="#" ng-click="saveTransporter($event);" class="button radius small right success">{{"GLOBAL.SAVE" | translate}}</a>
-        </div>
+        <div class="row">
+            <div class="large-9 columns">
+                <div class="row collapse prefix-radius">
+                    <div class="small-2 columns"><span class="prefix">{{"SETTING.HOST" | translate}}</span></div>
+                    <div class="small-10 columns">
+                        <input type="text" placeholder="{{transporter.host}}" ng-model="changed.transport[name].host">
+                    </div>
+                </div>
+            </div>
 
+            <div class="large-3 columns" style="padding-left:0;">
+                <div class="row collapse postfix-radius">
+                    <div class="small-6 columns"><span class="prefix">{{"SETTING.PORT" | translate}}</span></div>
+                    <div class="small-6 columns">
+                        <input type="text" placeholder="{{transporter.port}}" ng-model="changed.transport[name].port" ng-pattern="/^\d+$/">
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-</html>
+
+</div>

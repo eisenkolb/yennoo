@@ -1,13 +1,15 @@
 uneXBMC.register.controller("config.PrefsCtrl"
 , ["$scope", "$translate", "Locale", "Transporter"
 , function($scope, $translate, Locale, Transporter){
+    $scope.openTabName = null;
+    $scope.application = uneXBMC.application;
 
     /**
-     * Default Setting - Language
+     * Section: Language
      */
+
     $scope.languageUsed  = Locale.GetLanguage();
     $scope.languageNames = Locale.languageNames;
-
     $scope.displayNotify = function(message){
         uneXBMC.util.notify.new({
             type: uneXBMC.util.notify.types.INFO,
@@ -36,43 +38,61 @@ uneXBMC.register.controller("config.PrefsCtrl"
     });
 
     /**
-     * Transporter setting
+     * Section: Settings overlay
      */
 
-    $scope.$on("modal:transporter:open", function(event, data){
+    $scope.overlaySettingsOpen = function(extend)
+    {
+        if (extend && extend === true){
+            $scope.transporterSettingsExtend();
+        }
+
+        angular.element("#main").addClass("show-settings").find("#drop-settings").fadeIn(500);
+    };
+
+    $scope.overlaySettingsClose = function()
+    {
+        angular.element("#main").removeClass("show-settings").find("#drop-settings").fadeOut(200);
+    };
+
+    $scope.$on("overlay:settings:open", function(event, data){
         if (data) {
             $scope.messages = data || [];
             $scope.$apply();
         }
 
-        $scope.openModalTransporter()
+        $scope.openTabName = data && data.tabName || null;
+        $scope.overlaySettingsOpen()
     });
 
-    $scope.$on("modal:transporter:close", function(event, data){
-        $scope.hideModalTransporter()
+    $scope.$on("overlay:settings:close", function(event, data){
+        $scope.overlaySettingsClose()
     });
 
-    $scope.openModalTransporter = function(extend)
-    {
-        if (extend && extend === true){
-            $scope.extendModalTransporter({target: angular.element("#extendModalTransporter")[0]});
+    $scope.$on("overlay:settings:toggle", function(){
+        if (angular.element("#drop-settings").is(":visible")) {
+            return($scope.overlaySettingsClose());
         }
-        angular.element("#modal-main").foundation("reveal", "open");
-    };
-    $scope.hideModalTransporter = function()
-    {
-        angular.element("#modal-main").foundation("reveal", "close");
-    };
+
+        $scope.overlaySettingsOpen();
+
+    });
 
     /**
+     * Section: Transporter
+     *
      * Fetch the transporter infos
      */
 
-    $scope.extendModalTransporter = function(event)
+    $scope.transporterSettingsExtend = function(event)
     {
         angular.element("#main-transporter").show();
-        event.target.style.display = "none";
-        event.target.parentNode.style.display = "none";
+        angular.element("#modal-head-transporter").hide();
+        angular.element("#button-save-transporter").show();
+
+        if (event && event.preventDefault){
+            event.preventDefault();
+        }
     };
 
     $scope.saveTransporter = function(event)
@@ -82,11 +102,6 @@ uneXBMC.register.controller("config.PrefsCtrl"
             document.location.reload();
         });
 
-        event.preventDefault();
-    };
-
-    $scope.openTransporter = function(event)
-    {
         event.preventDefault();
     };
 
@@ -113,9 +128,4 @@ uneXBMC.register.controller("config.PrefsCtrl"
         $scope.transporters.available[name] = Transporter.Transporter(name).defaults;
         $scope.changed.transport[name] = uneXBMC.setting.transport && uneXBMC.setting.transport[name] || {};
     }
-
-    setInterval(function(){
-        $scope.settings = uneXBMC.setting;
-        $scope.$apply();
-    }, 200);
 }]);

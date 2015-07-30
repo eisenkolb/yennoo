@@ -474,10 +474,11 @@
 
                         var eventData = {};
                         if (error && error.code && error.code <= 1006){
-                            eventData.errors = ["Error: The endpoint has terminated the connection"];
+                            eventData.errors  = ["Error: The endpoint has terminated the connection"];
+                            eventData.tabName = "prefs-transporter";
                         }
 
-                        APIservice.DispatchEvent("modal:transporter:open", eventData);
+                        APIservice.DispatchEvent("overlay:settings:open", eventData);
                     };
 
                     socket.onmessage = function (event)

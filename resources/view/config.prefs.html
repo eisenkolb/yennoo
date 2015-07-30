@@ -1,33 +1,76 @@
-<a class="button radius minimal transparent right" data-dropdown="drop-settings"><i class="fa fa-gear"></i></a>
-<div id="drop-settings" data-dropdown-content class="f-dropdown content medium" aria-hidden="true" aria-autoclose="false" tabindex="-1">
-<div>
-    <div class="tabs-content">
-        <div id="panela1" class="content active" aria-hidden="false" ng-controller="config.PrefsCtrl">
-            <form class="large-9 right">
-                <div class="row">
-                    <div class="large-12 columns">
-                        <label>{{"PROPERTY.LANGUAGE" | translate}}
-                            <select ng-model="languageUsed">
-                                <option ng-selected="{{lang == languageUsed}}"
-                                        ng-repeat="(lang, language) in languageNames"
-                                        value="{{lang}}">
-                                    {{language}}
-                                </option>
-                            </select>
-                        </label>
-                    </div>
+<a class="button radius minimal transparent right" ng-click="$broadcast('overlay:settings:toggle')"><i class="fa fa-gear"></i></a>
+<div id="drop-settings" class="small-11 medium-9 large-5" style="display:none">
+    <div class="tabs-content" ng-controller="config.PrefsCtrl">
+        <div aria-hidden="false" class="content row" id="prefs-about" ng-class="{active: openTabName == 'prefs-about' || !openTabName}">
+            <h3><i class="fa fa-chain"></i>&nbsp;About</h3>
+            <hr>
+            <div class="row" ng-if="application.appname && application.version">
+                <div class="small-12 columns"><h4>{{application.appname}}</h4></div>
+                <div class="small-12 columns">Version {{application.version}}</div>
+                <div class="small-12 columns text-gray">Ajax based Webinterface for XBMC [JSON-RPC API v6]</div>
+            </div>
+            <hr>
+
+            <div class="row section">
+                <div class="small-3 columns">{{"PROPERTY.LANGUAGE" | translate}}</div>
+                <div class="small-8 columns">
+                    <select ng-model="languageUsed" class="language transition">
+                        <option ng-selected="{{lang == languageUsed}}"
+                                ng-repeat="(lang, language) in languageNames"
+                                value="{{lang}}">
+                            {{language}}
+                        </option>
+                    </select>
                 </div>
-                <div class="row">
-                    <div class="large-12 columns">
-                        <a href="" class="button small info column" ng-click="openModalTransporter(true);">Transporter Einstellungen</a>
-                    </div>
+            </div>
+
+            <div class="row section transporter">
+                <div class="small-3 columns">Transporter</div>
+                <div class="small-8 columns trigger" data-tab>
+                   {{transporters.current.method || "unknown"}}
+                    <span class="label right radius info secondary button transition"><a onclick="return false;" ng-click="transporterSettingsExtend();" href="#prefs-transporter" aria-controls="prefs-transporter">Transporter Einstellungen</a></span>
                 </div>
-            </form>
+            </div>
+            <div class="row section">
+                <div class="small-3 columns">Socket</div>
+                <div class="small-8 columns">
+                    {{changed.transport[transporters.current.method].host || transporters.available[transporters.current.method].host}}:{{changed.transport[transporters.current.method].port || transporters.available[transporters.current.method].port}}
+                </div>
+            </div>
+            <div class="row section">
+                <div data-tab class="small-8 columns">
+                    <span><a onclick="return false;" href="#prefs-more" aria-controls="prefs-more">More&nbsp;<i class="fa fa-angle-double-right"></i></a></span>
+                </div>
+            </div>
+        </div>
+
+        <div aria-hidden="true" class="content row" id="prefs-more" ng-class="{active: openTabName == 'prefs-more'}">
+            <h3><i class="fa fa-file-text-o"></i>&nbsp;More</h3>
+            <hr>
+            <p>.....</p>
+            <div class="row section">
+                <div data-tab class="small-8 columns">
+                    <span><a onclick="return false;" href="#prefs-about" aria-controls="prefs-about"><i class="fa fa-angle-double-left"></i>&nbsp;Back</a></span>
+                </div>
+            </div>
+        </div>
+
+        <div aria-hidden="true" class="content row" ng-class="{active: openTabName == 'prefs-transporter'}" id="prefs-transporter">
+            <div class="row">
+                <div ng-include="'/resources/view/config.transporter.html'" class="column"></div>
+            </div>
+            <div class="row section">
+                <div data-tab class="small-6 columns">
+                    <span><a onclick="return false;" href="#prefs-about" aria-controls="prefs-about"><i class="fa fa-angle-double-left"></i>&nbsp;Back</a></span>
+                </div>
+                <div data-tab class="small-6 columns text-right">
+                    <a ng-click="overlaySettingsClose();">{{"GLOBAL.CANCEL" | translate}}</i></a>
+                </div>
+            </div>
         </div>
     </div>
 </div>
-</div>
 
-<div id="modal-main" class="reveal-modal small" data-reveal ng-controller="config.PrefsCtrl">
-    <div ng-include="'/resources/view/config.transporter.html'"></div>
-</div>
+<script type="text/javascript">
+    $("#drop-settings").foundation();
+</script>
