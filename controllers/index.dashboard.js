@@ -3,7 +3,7 @@ uneXBMC.register.controller("index.DashboardCtrl"
 , function($scope, APIservice, Locale, $translate, MovieFactory, Transporter){
 
     /**
-     * Sets the breadcrumb trail for the current page
+     * Cleanup the breadcrumb
      */
-    $scope.$root.breadcrumb = [{title: "DASHBOARD"}];
+    $scope.$root.breadcrumb = [];
 }]);

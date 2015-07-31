@@ -761,6 +761,42 @@
 }
 
 /*********************************************************************************/
+/*** Music: || Artists:                                                        ***/
+/*********************************************************************************/
+
+#music-artists ul.alphabet .headline {
+    font-weight: bold;
+    margin-bottom: 11px;
+    padding-bottom: 0;
+    border-bottom: 2px solid #003f54;
+}
+
+#music-artists ul.alphabet .headline span {
+    text-transform: uppercase;
+}
+
+#music-artists ul.alphabet .entry {
+    border: 1px solid transparent;
+    margin: -1px;
+    padding: 8px 8px 0;
+}
+
+#music-artists ul.alphabet .entry:hover {
+    background-image: linear-gradient(#9f9f9f, #7b7b7b 107%);
+    border-color: #636363;
+    border-radius: 4px;
+    box-shadow: 0 -1px 0 #fffcfc;
+}
+
+#music-artists ul.alphabet img.cover {
+    border-radius: 2px;
+}
+
+#music-artists ul.alphabet .entry .infos .artist {
+    font-weight: bold;
+}
+
+/*********************************************************************************/
 /*** People: || Detail:                                                        ***/
 /*********************************************************************************/
 

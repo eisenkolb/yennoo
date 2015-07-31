@@ -174,7 +174,7 @@
     left: 0;
     position: fixed;
     width: 100%;
-    z-index: 999;
+    z-index: 3;
 }
 
 /*********************************************************************************/
@@ -254,6 +254,39 @@
     visibility: hidden;
     width: 100%;
     z-index: 2;
+}
+
+/*********************************************************************************/
+/*** Main: || Splashscreen:                                                    ***/
+/*********************************************************************************/
+
+#main #splashscreen {
+    cursor: default;
+    background-color: #373d49;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 4;
+}
+
+#main #splashscreen .center {
+    position: relative;
+    text-align: center;
+    top: 31%;
+}
+
+#main #splashscreen .name {
+    color: #eeeeee;
+    font: normal 97px Arial;
+    text-shadow: 3px 3px 0 #585858;
+    text-transform: uppercase;
+}
+
+#main #splashscreen p {
+    color: #c8c8c8;
+    font: 400 1.25rem "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 /*********************************************************************************/
