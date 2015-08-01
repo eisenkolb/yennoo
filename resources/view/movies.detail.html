@@ -1,1002 +1,338 @@
-<style type="text/css">
-
-    #movie-detail {margin-top:4px;display: inline-block}
-
-    #movie-detail #banner-wrap .title       {
-        margin-left: 233px;
-        position: absolute;
-        top: -99px;}
-    #movie-detail #banner-wrap .title h1    {
-        /*color: #ffffff;  font: bold 3.5em Tahoma;  text-shadow: 0 0 7px #585958;*/
-
-
-        font: bold 3.5em Tahoma;
-        /*height: 61px;*/
-        /*max-width: 88%;*/
-        /*overflow: hidden;*/
-        /*text-overflow: ellipsis;*/
-        /*/!*text-shadow: 0 0 7px #585958;*!/*/
-        /*white-space: nowrap;*/
-
-    }
-    #movie-detail #banner-wrap .title, #movie-detail #banner-wrap .title h1 {
-        text-shadow: 2px 3px 0 rgba(0, 0, 0, 0.26);
-        color: #ffffff;
-    }
-    #movie-detail #banner-wrap .title .year {
-        /*bottom: 23px;*/
-        /*color: #fbf8f8;*/
-        /*font-size: 0.4em;*/
-        /*margin-left: 10px;*/
-        /*position: relative;*/
-        bottom: -13px;
-        color: #fbf8f8;
-
-        font: bold 22px Verdana;
-        left: 5px;
-        /*opacity: 1;*/
-        position: relative;
-    }
-    #movie-detail #banner-wrap .original    {
-
-        opacity: 0.6;
-        position: absolute;
-        margin-left: 4px;
-    }
-    #movie-detail #banner-wrap .summary     {
-        margin-left: 245px;
-        position: absolute;
-        top: -22px;
-    }
-    #movie-detail #banner-wrap .summary ul {
-        margin: 0;
-    }
-    #movie-detail #banner-wrap .summary li {
-        margin: 0;
-    }
-    #movie-detail #banner-wrap .summary li a {
-        border-right:1px solid #C5C5C5;
-        font-size: 0.9em;
-        cursor: default;
-        color: #525252;
-        line-height: 17px;
-        margin: 3px 0 0;
-        padding: 0 5px;
-    }
-    #movie-detail #banner-wrap .summary li:last-child a {
-        border-right:none;
-    }
-
-    #movie-detail #banner-wrap .poster      {position: absolute; top: -239px; z-index: 1}
-    #movie-detail #banner-wrap .poster img  {
-        background-size: 100% 100%;
-
-        /*background-position: 1% -14px;*/
-        /*background-size: auto 105%;*/
-
-        /*background-position: left 58%;*/
-        /*background-size: 101% auto;*/
-        background-color: #4d5255;
-        width: 61%;  border: 1px solid #9d9999;  border-radius: 4px;  box-shadow: 1px 0 18px -2px #222222;}
-    #movie-detail #banner-wrap .spacer      {height:376px;}
-
-    #movie-detail #overlay-banner           {width: 100%; position: absolute; height: 355px;    background-color: #201f25;
-        background-image: url("/assets/img/overlay.background.png");}
-    #movie-detail #overlay-banner .banner   {width: 100%;background-size: 100% auto; background-position: left 7%; height: 100%;}
-    #movie-detail #overlay-banner .gradient {height: 100%; width: 100%; position: absolute; background-image: radial-gradient(circle at 50% 35% , transparent 0%, rgba(0, 0, 0, 0.46)); top: 1px;}
-    #movie-detail #overlay-banner .radial   {height: 100%; width: 100%; position: absolute; background-image: radial-gradient(circle, rgba(235, 201, 13, 0.1), transparent); top: 1px;}
-    #movie-detail #overlay-banner .spacer   {position: absolute; width: 101%; height:22px; clear: both;background-color: #f5ebf9}
-
-    #movie-detail #plot             {
-        /*background-color:#d0d0d0;*/
-        background-color: rgba(208, 208, 208, 0.88);
-        padding-top:7px;
-
-
-
-        padding-bottom: 16px;
-        border-radius: 0 0 3px 3px;
-
-
-    }
-    #movie-detail #plot em          {float: left;margin:80px 251px 0 0;}
-    /*#movie-detail #plot #watch-now  {*/
-        /*border: 1px solid #a2a2a2;*/
-        /*height: 50px;*/
-        /*padding: 0;*/
-    /*}*/
-    /*#movie-detail #plot #watch-now .left {}*/
-
-    /*#movie-detail #plot #watch-now .left .title {*/
-        /*border-left: 1px solid green;*/
-        /*border-radius: 4px;*/
-        /*float: right;*/
-        /*font-size: 2.6em;*/
-        /*height: 100%;*/
-        /*left: 5px;*/
-        /*margin: 0 0 -6px 5px;*/
-        /*padding: 11px 0 9px 8px;*/
-        /*position: relative;*/
-        /*top: 0;*/
-    /*}*/
-    /*#movie-detail #plot #watch-now .left .title,*/
-    /*#movie-detail #plot #watch-now{*/
-        /*background-image: linear-gradient(#cedbed, #82c3e6 100%);*/
-    /*}*/
-
-    /*#movie-detail #plot #watch-now .right {}*/
-    /*#movie-detail #plot #watch-now .rating{*/
-        /*/!*float: left; margin: -42px 0px 0px;*!/*/
-        /*background-image: linear-gradient(#cedbed, #82c3e6 100%);*/
-        /*/!*background-color: pink;*!/*/
-    /*}*/
-    /*#movie-detail #plot #watch-now .rating-score{*/
-        /*height: 41px; float: left; font-size: 3em; position: relative;*/
-    /*}*/
-
-
-
-    /*#movie-detail #plot #watch-now .group {}*/
-    /*#movie-detail #plot #watch-now .right .button-group {}*/
-    /*#movie-detail #plot #watch-now .right .button-group li{}*/
-    /*#movie-detail #plot #watch-now .right .button-group li a{*/
-        /*background-color: transparent;*/
-        /*border-color: #79b6d7;*/
-        /*margin: 1px 0 0;*/
-    /*}*/
-
-    #movie-detail #plot #tabs                       {
-        background-color: red;
-        background-image: linear-gradient(#ef6db7, #e084cd 100%);
-        border-radius: 2px 4px 0 0;
-        margin: 17px 0 0;
-    }
-    #movie-detail #plot #tabs li.tab-title          {}
-    #movie-detail #plot #tabs li.tab-title.active   {}
-    #movie-detail #plot #tabs li.tab-title a {
-        background-color: #c861a2;
-        border-radius: 3px 3px 0 0;
-        border-top: 2px solid transparent;
-        color: #eadde6;
-        font-size: 0.8em;
-        margin: 15px 0 -1px 8px;
-        padding: 4px 13px;
-    }
-    #movie-detail #plot #tabs li.tab-title:hover a {
-        background-color: #cf6eab;
-        border-top: 2px solid #cc2583;
-        color: #ffffff;
-    }
-    #movie-detail #plot #tabs li.tab-title.active a {
-        background-color: #f5ebf9 !important;
-        border-top: 2px solid #14ccf5;
-        box-shadow: 0 -4px 18px -9px #f9f9f9;
-        color: #7e7e7e;
-    }
-    #movie-detail #plot #tabs-content         {
-        background-color: #f5ebf9;
-        border: 1px solid #e084cd;
-        padding: 7px 7px 0;
-    }
-    #movie-detail #plot #tabs .tabs-content > div   {}
-    #movie-detail #plot #tabs                       {}
-
-
-    .mpaa   {
-        background-color: #262626;
-        border: 1px solid #262626;
-        border-radius: 3px;
-        display: inline-block;
-        height: 16px;
-        width: 92px;
-    }
-    .mpaa .label   {
-        background-color: transparent;
-        color: #ffffff;
-        font: normal 9px/9px arial;
-        overflow: hidden;
-        padding: 3px 0 0;
-        text-align: center;
-        text-transform: uppercase;
-        width: 44%;
-    }
-    .mpaa .rating  {
-        background: #F2B322;
-        background-image: linear-gradient(#F2B322, #E7653E 100%);
-        border-radius: 0 1px 1px 0;
-        display: block;
-        height: 100%;
-        font: bold 14px/14px arial;
-        text-align: center;
-        width: 56%;
-    }
-    .mpaa.white {
-        background-color: #ffffff;
-        border: 1px solid #9a9a9a;
-    }
-    .mpaa.white .label {
-        color: #333333;
-    }
-    .mpaa.white .rating {
-        color: #ffffff;
-    }
-
-    .mpaa.g .rating {
-        background-color: #3edd01;
-        background-image: linear-gradient(#51ef1f, #2ad344 100%);
-    }
-    .mpaa.pg .rating {
-        background-color: #ecfb00;
-        background-image: linear-gradient(#f7f521, #f1c22b 100%);
-    }
-    .mpaa.pg-13 .rating {
-        background-color: #1dc9f8;
-        background-image: linear-gradient(#35d8fc, #42a8c9 100%);
-    }
-    .mpaa.r .rating {
-        background-color: #fb0000;
-        background-image: linear-gradient(#fc1f1f, #ef0303 100%);
-    }
-    .mpaa.nc-17 .rating {
-        background-color: #959393;
-        background-image: linear-gradient(#c4c4c4, #959393 100%);
-    }
-
-
-
-
-
-
-    #movie-detail #tabs-content #detail             {border:1px solid #dddddd;margin-bottom: 9px;background-color: #ffffff;}
-    #movie-detail #tabs-content #detail table       {width: 100%;border:none;}
-
-    #movie-detail #tabs-content .additional-button  {
-        position:relative;
-        float:right;
-        margin:-38px 0 0;
-        background:rgba(13, 13, 13, 0.19);
-        box-shadow:0 1px 0 0 rgba(254, 254, 254, 0.82);
-    }
-
-    #movie-detail #plot #tabs #cast                 {}
-    #movie-detail #plot #tabs #cast li              {}
-    #movie-detail #plot #tabs #cast li img          {}
-    #movie-detail #plot #tabs #cast li .people a    {}
-    #movie-detail #plot #tabs #cast li .role i      {}
-    #movie-detail #plot #tabs #cast li .role a      {}
-
-    #movie-detail #plot #tabs #streams              {}
-
-    #movie-detail #side-content                             {
-        /*background-color:#d0d0d0;*/
-        padding-top:7px;
-    }
-    #movie-detail #side-content .toolbox                    {
-        background-image: linear-gradient(#f5ebf9, #d0d0d0 100%);
-        border: 1px solid #d0d0d0;
-        border-radius: 4px;
-        box-shadow: 0 -4px 18px -9px #954089;
-        padding: 5px;
-    }
-    #movie-detail #side-content .detail-widget              {
-        border-top: 1px solid #d6d6d6;
-        clear: both;
-        padding: 8px 0 0;
-    }
-    #movie-detail #side-content .detail-widget:first-child              {
-        border-top:none;
-        padding:0;
-    }
-    #movie-detail #side-content .detail-widget .left        {text-transform:capitalize;}
-    #movie-detail #side-content .detail-widget .right       {
-        list-style-type: none;
-        margin: 0;
-        padding: 0;
-    }
-    #movie-detail #side-content .detail-widget .right li    {
-        line-height: 1.5;
-        padding: 0 0 4px;
-        margin: -5px 0 1px;
-    }
-    /*#movie-detail #side-content .detail-widget .right li a  {*/
-        /*color: #1e64e3;*/
-    /*}*/
-
-    #movie-detail #side-content .detail-widget .right li a,
-    #movie-detail #side-content .detail-widget .left        {
-        font-size: 0.9em;
-        color: #757775;
-        text-shadow: 1px 1px 0 #ffffff;
-    }
-
-    /*#movie-detail #side-content .detail-widget:hover .right li a, #movie-detail #side-content .detail-widget:hover .left {*/
-        /*color: #4b95c2 !important;*/
-    /*}*/
-
-    #movie-detail #side-content .detail-widget:hover .right li a {
-        color: #298aff;
-    }
-
-
-    /*#movie-detail #side-content .detail-widget .right li a,*/
-    /*#movie-detail #side-content .detail-widget .left        {*/
-        /*font-size: 0.94em;*/
-    /*}*/
-
-    #movie-detail {}
-
-    #movie-detail #banner-wrap .head {
-        z-index: 2;
-    }
-
-
-    .truncate {
-        display: inline-block;
-        overflow: hidden;
-        text-overflow: ellipsis;
-        white-space: nowrap;
-    }
-    .truncate-85 {
-        max-width: 85%;
-    }
-
-    .truncate-80 {
-        max-width: 80%;
-    }
-
-
-
-
-
-    @media only screen and (max-width: 640px) {
-        #overlay-banner ,#banner-wrap {
-            display: none;
-        }
-        #movie-detail #plot em {
-            margin: 0;
-        }
-    }
-</style>
-<script>
-    $(document).foundation();
-</script>
-
-<div id="movie-detail" class="large-12">
-
-    <div data-reveal="" class="reveal-modal large" id="modal-trailer-youtube" style="border:8px solid #fcfcfc;padding:0;" aria-hidden="true">
-        <h2>Trailer: {{movie.title}}</h2>
-        <div class="flex-video" style="display: none;">
-            <iframe width="420" height="315" frameborder="0" allowfullscreen="" src="{{trailer}}"></iframe>
-        </div>
-        <a class="close-reveal-modal">&#215;</a>
-    </div>
-
-    <div id="overlay-banner">
-        <!--<div class="banner" style="background-image: url(&quot;{{movie.fanart}}&quot;);"></div>-->
-        <!--<img onloadcallback="relpaceimage" style="width:0" class="banner" ng-if="movie.fanart" ng-src="{{movie.fanart}}"></img>-->
-        <div class="banner animated fadeIn" onready="relpaceimage" data-image="movie.fanart" ng-if="movie"></div>
+<div id="media-header" class="show-for-medium-up">
+    <div class="media-banner overlay">
+        <div class="banner animated fadeIn" onready="relpaceimage" data-image="media.fanart" ng-show="media.fanart"></div>
         <div class="gradient"></div>
         <!--<div class="radial"></div>-->
-        <div class="spacer"></div>
     </div>
+</div>
 
-    <div id="banner-wrap">
-        <div class="spacer"></div>
-        <div class="head large-offset-1 large-11 columns">
-            <div class="title row show-for-large-up">
-                <div class="original" ng-if="movie.originaltitle != movie.title">
-                    <div class="large-12 columns">{{movie.originaltitle}}</div>
-                </div>
-                <div class="large-10 columns">
-                    <h1 class="left truncate truncate-85">{{movie.title}}</h1>
-                    <small class="year left" ng-if="movie.year">({{movie.year}})</small>
-                </div>
-            </div>
-
-            <div class="summary row show-for-large-up">
-                <ul class="inline-list large-12 columns">
-                    <li ng-if="movie.country"><a ng-href="#/movies/filter/country/{{movie.country[0].toLowerCase()}}">{{movie.country[0]}}</a></li>
-                    <li ng-if="movie.minutes"><a ng-href="#/movies/filter/minutes/{{movie.minutes}}">{{movie.minutes}} {{"PROPERTY.MINUTES" | translate}}</a></li>
-                    <li ng-if="movie.genre" ng-repeat="genre in movie.genre"><a ng-href="#/movies/filter/genre/{{genre.toLowerCase()}}">{{genre}}</a></li>
-                </ul>
-            </div>
-
-            <div class="poster show-for-medium-up">
-                <div id="cointainer-cover">
-                    <img id="cointainer-cover2" _style="visibility:hidden;" class__="animated--0 fadeInUp" src="./assets/img/media.cover.edges.png" onready="relpaceimage" data-image="movie.poster" ng-if="movie">
+<div id="media-detail" class="large-12 columns">
+    <div id="media-description" class="movie small-12 large-offset-1 large-10 columns left">
+        <div class="large-12 columns">
+            <div class="columns">
+                <div class="show-for-medium-up">
+                    <div id="cover-cointainer" class="poster cover" style="background-image: url('/assets/img/media.cover.edges.png');">
+                        <img class="animated slideInUp width-280" src="/assets/img/media.cover.edges.png" onready="relpaceimage" data-image="media.poster" ng-if="media" />
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
 
-        <div id="plot" class="small-12 large-offset-1 large-10 columns left">
-
-
-
-            <!--<div class="large-9 left show-for-small-only">-->
-                <!--<img style="width: 100%;" ng-src="{{movie.poster}}" ng-if="movie.poster">-->
-            <!--</div>-->
-
-            <div class="large-9 left">
-
-                <div class="show-for-small-only" style="left: -18px;
-    position: relative;
-    top: -8px;
-    width: 116%;">
-                    <a style="width: 100%;">
-                        <img ng-src="{{movie.poster}}" ng-if="movie.poster" style="width: 100%;">
-                    </a>
+            <!-- Media title in header / starts -->
+            <div class="large-title row show-for-large-up column">
+                <div class="original large-11" ng-if="media.originaltitle != media.title">
+                    <div class="large-12 columns row">{{media.originaltitle}}</div>
+                </div>
+                <div class="title">
+                    <h1 class="left truncate truncate-85">{{media.title}}</h1>
+                    <small ng-if="media.year" class="year left">({{media.year}})</small>
                 </div>
 
-                <p class="movie-plot"><em></em>{{movie.plot}}</p>
+                <!-- Media summary list / starts -->
+                <div class="summary row show-for-large-up">
+                    <ul class="inline-list large-12 columns">
+                        <li ng-if="media.country"><a ng-href="{{route.movies}}/filter/country/{{media.country[0].toLowerCase()}}">{{media.country[0]}}</a></li>
+                        <li ng-if="media.minutes"><a ng-href="{{route.movies}}/filter/minutes/{{media.minutes}}">{{media.minutes}} {{"PROPERTY.MINUTES" | translate}}</a></li>
+                        <li ng-if="media.genre" ng-repeat="genre in media.genre"><a ng-href="{{route.movies}}/filter/genre/{{genre.toLowerCase()}}">{{genre}}</a></li>
+                    </ul>
+                </div>
+                <!-- Media summary list /  ends  -->
+            </div>
+            <!-- Media title in header /  ends  -->
 
-                <!--
+            <!-- Media detail description / starts -->
+            <div class="media-description panel large-12 left">
+                <div class="media-plot large-9 row ng-cloak left">
+                    <!-- Media plot with poster / starts -->
+                    <div class="fix-poster left show-for-medium-up"></div>
+                    <div class="poster cover show-for-small">
+                        <img class="animated slideInUp width-280" ng-if="media" data-image="media.poster" onready="relpaceimage" src="/assets/img/media.cover.edges.png" style="margin-top:50px;" />
+                    </div>
+                    <p class="plot" ng-if="media.plot">{{media.plot}}</p>
+                    <!-- Media plot with poster /  ends  -->
 
-                <div class="block-entries large-12 row">
-                    <div class="entry rating large-6 left">
-                        <div class="text left">{{(movie.ratings.score).toLocaleString()}}{{(movie.ratings.score).toLocaleString().length == 1 ? ",0" : null}}</div>
-                        <div class="small-12">
-                            <div class="stars fa-2x">
-                                <div class="star-background">
-                                    <i class="fa fa-star" ng-repeat="index in [0,1,2,3,4]"></i>
+                    <!-- Media action list / starts -->
+                    <div id="block-entries" class="block-entries text-inherit large-12">
+                        <ul class="small-block small-block small-block-grid-2 large-block-grid-3 row">
+                            <li class="entry rating transition truncate truncate-80 large-4">
+                                <div class="text left show-for-medium-up" ng-if="media.ratings && media.ratings.score">
+                                    {{(media.ratings.score).toLocaleString()}}{{(media.ratings.score).toLocaleString().length == 1 ? ",0" : null}}
                                 </div>
-                                <div class="star-value">
-                                    <i class="fa fa-star star-{{index +1}} {{$last ? 'fa-star-half' : null}}" ng-repeat="index in movie.ratings.array"></i>
+                                <div class="small-12" ng-if="media.ratings && media.ratings.array">
+                                    <div class="stars fa-2x">
+                                        <div class="star-background">
+                                            <i class="fa fa-star" ng-repeat="index in [0,1,2,3,4]"></i>
+                                        </div>
+                                        <div class="star-value">
+                                            <i class="fa fa-star star-{{index +1}} {{$last ? 'fa-star-half' : null}}" ng-repeat="index in media.ratings.array"></i>
+                                        </div>
+                                    </div>
                                 </div>
-                            </div>
+                            </li>
+                            <li class="entry collection transition truncate truncate-80 large-4" ng-if="media.set && media.setid">
+                                <i class="icon fa fa-2x fa-bookmark-o"></i>
+                                <span class="text">
+                                    <a ng-href="#/sets?id={{media.setid}}&title={{media.set}}">{{"COLLECTION" | translate}} : {{media.set}}</a>
+                                </span>
+                            </li>
+                            <li class="entry watched transition large-4" ng-if="media.playcount >= 1 && media.resume.position === 0">
+                                <i class="icon fa fa-2x fa-check"></i>
+                                <span class="text">{{"MOVIE.VIEWED" | translate}}</span>
+                            </li>
+                            <li class="entry watched transition large-4" ng-if="media.resume.position >= 1">
+                                <i class="icon fa fa-2x fa-clock-o"></i>
+                                <span class="text">{{"MOVIE.STARTED" | translate}}</span>
+                            </li>
+                            <li class="entry watched transition large-4" ng-if="media.playcount === 0 && media.resume.position === 0">
+                                <i class="icon fa fa-2x fa-history"></i>
+                                <span class="text">{{"MOVIE.UNVIEWED" | translate}}</span>
+                            </li>
+                            <li class="entry download transition truncate truncate-80 large-4">
+                                <a ng-click="action.download(media);">
+                                    <i class="icon fa fa-2x fa-download"></i>
+                                    <span class="text">{{"MOVIE.DOWNLOAD" | translate}}</span>
+                                </a>
+                            </li>
+                            <li class="entry queue transition truncate truncate-80 large-4">
+                                <a ng-click="action.queue(media);">
+                                    <i class="icon fa fa-2x fa-file-text-o"></i>
+                                    <span class="text">{{"MOVIE.QUEUED" | translate}}</span>
+                                </a>
+                            </li>
+
+                            <li class="entry play transition truncate truncate-80 large-4">
+                                <a ng-click="action.start(media);">
+                                    <i class="icon fa fa-2x fa-desktop"></i>
+                                    <span class="text">{{"MOVIE.WATCH_ON" | translate:"{'name': 'Kodi'}"}}</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!-- Media action list /  ends  -->
+                </div>
+
+                <!-- Media side content (summary right) / starts -->
+                <div class="media-toolbox small-12 large-3 columns show-for-large-up ng-cloak right" ng-if="media">
+                    <div id="side-content">
+                        <div class="detail-widget small-12 row" ng-repeat="name in ['director','genre','studio','writer','mpaa','votes','year']" ng-if="!!media[name]">
+                            <span class="left small-5">{{"PROPERTY."+ name.toUpperCase() | translate}}</span>
+                            <ul class="right small-7">
+                                <li ng-if="!media[name].shift">
+                                    <a ng-href="{{route.movies}}/filter/{{name}}/{{media[name].toLowerCase ? media[name].toLowerCase() : media[name]}}">{{media[name]}}</a>
+                                </li>
+                                <div ng-if="media[name].shift">
+                                    <li ng-repeat="index in media[name] track by $index">
+                                        <a ng-href="{{route.movies}}/filter/{{name}}/{{index.toLowerCase ? index.toLowerCase() : index}}">{{index}}</a>
+                                    </li>
+                                </div>
+                            </ul>
+
                         </div>
                     </div>
-
-                    <div class="entry collection large-6 right" ng-if="movie.set && movie.setid">
-                        <i class="icon fa fa-2x fa-bookmark-o"></i>
-                        <span class="text">
-                            <a style="color:inherit;" ng-href="#/set/{{movie.setid}}/{{movie.set}}">Sammlung : {{movie.set}}</a>
-                        </span>
-                    </div>
                 </div>
-                -->
+                <!-- Media side content (summary right) /  ends  -->
 
-                <div class="block-entries large-12 row">
-                    <!--
-                    <div class="entry watched large-6 left" ng-if="movie.playcount >= 1 && movie.resume.position === 0">
-                        <i class="icon fa fa-2x fa-check"></i>
-                        <span class="text">Gesehen</span>
-                    </div>
-                    <div class="entry watched large-6 left" ng-if="movie.resume.position >= 1">
-                        <i class="icon fa fa-2x fa-clock-o"></i>
-                        <span class="text">Begonnen</span>
-                    </div>
-                    <div class="entry watched large-6 left" ng-if="movie.playcount === 0 &&  movie.resume.position === 0">
-                        <i class="icon fa fa-2x fa-history"></i>
-                        <span class="text">Ungesehen</span>
-                    </div>
-
-                    <div class="entry video large-6 right">
-                        <i class="icon fa fa-2x fa-play-circle-o"></i>
-                        <span class="action label radius">
-                            <i class="fa fa-file-text-o"></i>
-                            <span class="text">Warteschlange</span>
-                        </span>
-                         <span class="action label radius">
-                            <i class="fa fa-desktop"></i>
-                            <span class="text">Watch on Kodi</span>
-                         </span>
-                    </div>
-                    -->
-
-
-
-
-
-                   <style type="text/css">
-                       @media only screen {
-                           .small-block-grid-2 > li {
-                               margin-left: 2.2%;
-                               width: 46.8%;
-                           }
-                       }
-
-                       @media only screen and (min-width: 64.063em) {
-                           .small-block-grid-2 > li {
-                               margin-left: 1.5%;
-                               width: 31.333% !important;
-                           }
-                       }
-                   </style>
-
-                    <ul class="small-block small-block small-block-grid-2 large-block-grid-3 row">
-                        <li class="entry rating large-4">
-                            <div class="text left show-for-medium-up">{{(movie.ratings.score).toLocaleString()}}{{(movie.ratings.score).toLocaleString().length == 1 ? ",0" : null}}</div>
-                            <div class="small-12">
-                                <div class="stars fa-2x">
-                                    <div class="star-background">
-                                        <i class="fa fa-star" ng-repeat="index in [0,1,2,3,4]"></i>
-                                    </div>
-                                    <div class="star-value">
-                                        <i class="fa fa-star star-{{index +1}} {{$last ? 'fa-star-half' : null}}" ng-repeat="index in movie.ratings.array"></i>
-                                    </div>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="entry collection large-4" ng-if="movie.set && movie.setid">
-                            <i class="icon fa fa-2x fa-bookmark-o"></i>
-                            <span class="text">
-                                <a style="color:inherit;" ng-href="#/sets?id={{movie.setid}}&title={{movie.set}}">{{"COLLECTION" | translate}} : {{movie.set}}</a>
-                            </span>
-                        </li>
-                        <li class="entry watched large-4" ng-if="movie.playcount >= 1 && movie.resume.position === 0">
-                            <i class="icon fa fa-2x fa-check"></i>
-                            <span class="text">{{"MOVIE.VIEWED" | translate}}</span>
-                        </li>
-                        <li class="entry watched large-4" ng-if="movie.resume.position >= 1">
-                            <i class="icon fa fa-2x fa-clock-o"></i>
-                            <span class="text">{{"MOVIE.STARTED" | translate}}</span>
-                        </li>
-                        <li class="entry watched large-4" ng-if="movie.playcount === 0 &&  movie.resume.position === 0">
-                            <i class="icon fa fa-2x fa-history"></i>
-                            <span class="text">{{"MOVIE.UNVIEWED" | translate}}</span>
-                        </li>
-
-
-                        <li class="entry watched large-4">
-                            <i class="icon fa fa-2x fa-history"></i>
-                            <span class="text">{{"MOVIE.UNVIEWED" | translate}}</span>
-                        </li>
-                        <li class="entry watched large-4">
-                            <i class="icon fa fa-2x fa-history"></i>
-                            <span class="text">{{"MOVIE.UNVIEWED" | translate}}</span>
-                        </li>
-                        <li class="entry watched large-4">
-                            <i class="icon fa fa-2x fa-history"></i>
-                            <span class="text">{{"MOVIE.UNVIEWED" | translate}}</span>
-                        </li>
-                        <li class="entry watched large-4">
-                            <i class="icon fa fa-2x fa-history"></i>
-                            <span class="text">{{"MOVIE.UNVIEWED" | translate}}</span>
-                        </li>
-                        <li class="entry watched large-4">
-                            <i class="icon fa fa-2x fa-history"></i>
-                            <span class="text">{{"MOVIE.UNVIEWED" | translate}}</span>
-                        </li>
-
-
-                        <li class="entry download large-4">
-                            <i class="icon fa fa-2x fa-download"></i>
-                            <span class="text">{{"MOVIE.DOWNLOAD" | translate}}</span>
-                        </li>
-                        <li class="entry queue large-4">
-                            <i class="icon fa fa-2x fa-file-text-o"></i>
-                            <span class="text">{{"MOVIE.QUEUED" | translate}}</span>
-                        </li>
-
-                        <li class="entry play large-4">
-                            <i class="icon fa fa-2x fa-desktop"></i>
-                            <span class="text">{{"MOVIE.WATCH_ON" | translate:"{'name': 'Kodi'}"}}</span>
-                        </li>
-
-                    </ul>
-
-
-                </div>
-
-                <style>
-                    /*********************************************************************************/
-                    /*** Movie:Block-Entries: ***/
-                    /*********************************************************************************/
-                    .small-block {
-                        /*display: inline-block;*/
-                        height: 45px;
-                        margin: 15px 0 0;
-                    }
-                    /*********************************************************************************/
-                    /*** Movie:Block-Entries: || Entry: ***/
-                    /*********************************************************************************/
-                    .small-block li {
-                        border-radius: 4px;
-                        height: 100%;
-                        line-height: 10px;
-                        margin-bottom: 13px;
-                        padding: 0 0 0 8px;
-                        text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.46);
-                        background-color: #dddddd;
-                        border: 1px solid #8d9a8d;
-                        color: #9b9d9c;
-                    }
-
-                    .small-block .entry .icon {
-                        position: relative;
-                        margin-right: 7px;
-                        top: 6px;
-                    }
-
-                    /*********************************************************************************/
-                    /*** Movie:Block-Entries: || Entry:Stars: ***/
-                    /*********************************************************************************/
-                    .small-block .entry.rating {
-                        background-image: linear-gradient(#efdd6d, #f1edbb 100%);
-                        border-color: #a8ab36;
-                    }
-                    .small-block .entry.rating .text {
-                        color: #706d19;
-                        font: bold 25px Arial;
-                        margin: 8px 15px 0 0;
-                    }
-                    .small-block .entry.rating .stars {
-                        display: inline-block;
-                        height: 22px;
-                        margin: 0 0 1px -3px;
-                        position: relative;
-                        top: 2px;
-                        line-height: 10px;
-                    }
-                    .small-block .entry.rating .stars i {
-                        position: relative;
-                        top: 5px;
-                        width: 38px !important;
-                    }
-                    .small-block .entry.rating .stars .star-background i {
-                        color: #cdcaa0;
-                    }
-                    .small-block .entry.rating .stars .star-value {
-                        position: relative;
-                        top: -33px;
-                    }
-                    .small-block .entry.rating .stars .star-value i         {overflow: hidden;  }
-                    .small-block .entry.rating .stars .star-value .fa-star {
-                        color: #87832b;
-                    }
-                    /*********************************************************************************/
-                    /*** Movie:Block-Entries: || Entry:Collection: ***/
-                    /*********************************************************************************/
-                    .small-block .entry.collection {
-                        background-image: linear-gradient(#efb26d, #f5dda6 100%);
-                        border-color: #cc9536;
-                        color: #735416;
-                    }
-                    /*********************************************************************************/
-                    /*** Movie:Block-Entries: || Entry:Watched: ***/
-                    /*********************************************************************************/
-                    .small-block .entry.watched {
-                        background-image: linear-gradient(#84ef6d, #d3f4bc 100%);
-                        border-color: #27b125;
-                        color: #356d13;
-                    }
-                    /*********************************************************************************/
-                    /*** Movie:Block-Entries: || Entry:Download: ***/
-                    /*********************************************************************************/
-                    .small-block .entry.download {
-                        background-image: linear-gradient(#6dd3ef, #9cede9 100%);
-                        border-color: #36b3cf;
-                        color: #197088;
-                    }
-                    /*********************************************************************************/
-                    /*** Movie:Block-Entries: || Entry:Queue: ***/
-                    /*********************************************************************************/
-                    .small-block .entry.queue {
-                        background-image: linear-gradient(#6da4ef, #92d0f1 100%);
-                        border-color: #3f88e0;
-                        color: #1e548e;
-                    }
-
-                    /*********************************************************************************/
-                    /*** Movie:Block-Entries: || Entry:Play: ***/
-                    /*********************************************************************************/
-                    .small-block .entry.play {
-                        background-color: #a389e7;
-                        background-image: linear-gradient(#a389e7, #bcbef2 100%);
-                        border-color: #b368fc;
-                        color: #564385;
-                    }
-
-
-
-
-
-
-
-
-
-
-
-                </style>
-
-                <div class="small-12 left">
+                <!-- Media tab listing with content / starts -->
+                <div class="media-tabs small-12 ng-cloak left">
                     <ul id="tabs" class="tabs" ng-init="tab = 'detail'">
                         <li ng-class="{active: tab == 'detail' || tab == ''}" class="tab-title"><a ng-click="tab = 'detail'">{{"MOVIE.DETAIL" | translate}}</a></li>
                         <li ng-class="{active: tab == 'cast'}" class="tab-title"><a ng-click="tab = 'cast'">{{"MOVIE.CAST" | translate}}</a></li>
                         <li ng-class="{active: tab == 'streams'}" class="tab-title"><a ng-click="tab = 'streams'">{{"MOVIE.STREAMS" | translate}}</a></li>
                     </ul>
-                    <div id="tabs-content">
-                        <div class="row" ng-show="tab == 'detail'" id="detail">
-
-<!--<div class="mpaa g">-->
-    <!--<span class="left label">rated</span>-->
-    <!--<span class="left rating">G</span>-->
-<!--</div>-->
-<!--<div class="mpaa pg">-->
-    <!--<span class="left label">rated</span>-->
-    <!--<span class="left rating">PG</span>-->
-<!--</div>-->
-<!--<div class="mpaa pg-13">-->
-    <!--<span class="left label">rated</span>-->
-    <!--<span class="left rating">PG-13</span>-->
-<!--</div>-->
-<!--<div class="mpaa r">-->
-    <!--<span class="left label">rated</span>-->
-    <!--<span class="left rating">R</span>-->
-<!--</div>-->
-<!--<div class="mpaa nc-17">-->
-    <!--<span class="left label">rated</span>-->
-    <!--<span class="left rating">NC-17</span>-->
-<!--</div>-->
-
-<!--<br>-->
-
-<!--<div class="mpaa white g">-->
-    <!--<span class="left label">rated</span>-->
-    <!--<span class="left rating">G</span>-->
-<!--</div>-->
-<!--<div class="mpaa white pg">-->
-    <!--<span class="left label">rated</span>-->
-    <!--<span class="left rating">PG</span>-->
-<!--</div>-->
-<!--<div class="mpaa white pg-13">-->
-    <!--<span class="left label">rated</span>-->
-    <!--<span class="left rating">PG-13</span>-->
-<!--</div>-->
-<!--<div class="mpaa white r">-->
-    <!--<span class="left label">rated</span>-->
-    <!--<span class="left rating">R</span>-->
-<!--</div>-->
-<!--<div class="mpaa white nc-17">-->
-    <!--<span class="left label">rated</span>-->
-    <!--<span class="left rating">NC-17</span>-->
-<!--</div>-->
-
+                    <!-- Media tab content / starts -->
+                    <div id="tabs-content" class="column">
+                        <!-- Media tab content: detail / starts -->
+                        <div class="small-12 column text-inherit" ng-show="tab == 'detail'" id="tab-overview">
                             <div class="small-12 medium-6 large-6 left">
                                 <table>
-                                    <tr ng-if="movie.originaltitle">
+                                    <tr ng-if="media.originaltitle">
                                         <td>{{"PROPERTY.ORIGINALTITLE" | translate}}</td>
-                                        <td>{{movie.originaltitle}}</td>
+                                        <td>{{media.originaltitle}}</td>
                                     </tr>
-                                    <tr ng-if="movie.minutes">
+                                    <tr ng-if="media.minutes">
                                         <td>{{"PROPERTY.RUNTIME" | translate}}</td>
-                                        <td>{{movie.minutes}} {{"PROPERTY.MINUTES" | translate}}</td>
+                                        <td>
+                                            <a href="{{route.movies}}/filter/minutes/{{media.minutes}}">{{media.minutes}} {{"PROPERTY.MINUTES" | translate}}</a>
+                                        </td>
                                     </tr>
-                                    <tr ng-if="movie.youtube">
+                                    <tr ng-if="media.youtube">
                                         <td>{{"PROPERTY.TRAILER" | translate}}</td>
                                         <td>
-                                            <a ng-click="trustVideoSrc('youtube', movie.youtube);" data-reveal-id="modal-trailer-youtube" ng-href="https://youtu.be/{{movie.youtube}}" onclick="return false;">YouTube&nbsp;
-                                                <i class="fa fa-youtube-play" style="position:relative;font-size:17px;top:1px;color:#d51a1a;"></i></a>
+                                            <a ng-click="trustVideoSrc('youtube', media.youtube);" data-reveal-id="modal-trailer-youtube" ng-href="https://youtu.be/{{media.youtube}}" onclick="return false;">YouTube&nbsp;
+                                                <i class="fa fa-youtube-play play-youtube"></i>
+                                            </a>
                                         </td>
                                     </tr>
-                                    <tr ng-if="movie.streamdetails && movie.streamdetails.video.length && movie.streamdetails.video[0].width">
+                                    <tr ng-if="media.streamdetails && media.streamdetails.video.length && media.streamdetails.video[0].width">
                                         <td>{{"PROPERTY.RESOLUTION" | translate}}</td>
                                         <td>
-                                            {{movie.streamdetails.video[0].width}}x{{movie.streamdetails.video[0].height}}
+                                            {{media.streamdetails.video[0].width}}x{{media.streamdetails.video[0].height}}
                                         </td>
                                     </tr>
-                                    <tr ng-if="movie.ratings && movie.ratings.score">
+                                    <tr ng-if="media.ratings && media.ratings.score">
                                         <td>{{"PROPERTY.RATING" | translate}}</td>
-                                        <td>{{(movie.ratings.score).toLocaleString()}} / 10
-                                            <div ng-if="movie.votes" style="display: inline; font: bold 0.8em arial; text-transform: capitalize; position: relative; top: -1px; margin: 0px 0px 0px 3px; opacity: 0.5;">( {{movie.votes}} {{"PROPERTY.VOTES" | translate}} )</div>
+                                        <td>
+                                            <a ng-href="{{route.movies}}/filter/rating/{{media.ratings.score}}">{{(media.ratings.score).toLocaleString()}} / 10</a>
+                                            <div class="votes-in-rating" ng-if="media.votes">
+                                                <a ng-href="{{route.movies}}/filter/votes/{{media.votes}}">( {{media.votes}} {{"PROPERTY.VOTES" | translate}} )</a>
+                                            </div>
                                         </td>
                                     </tr>
-                                    <tr ng-if="movie.streamdetails && movie.streamdetails.subtitle.length">
-                                        <td>{{"PROPERTY.SUBTITLE" | translate}} <span style="font-variant:super;">({{movie.streamdetails.subtitle.length}})</span></td>
+                                    <tr ng-if="media.streamdetails && media.streamdetails.subtitle.length">
+                                        <td>{{"PROPERTY.SUBTITLE" | translate}} <span style="font-variant:super;">({{media.streamdetails.subtitle.length}})</span></td>
                                         <td>
-                                            <span ng-repeat="subtitle in movie.streamdetails.subtitle">{{subtitle.language}}{{$last ? null : ', '}}</span>
+                                            <span ng-repeat="subtitle in media.streamdetails.subtitle">{{subtitle.language}}{{$last ? null : ', '}}</span>
                                         </td>
                                     </tr>
                                 </table>
                             </div>
+
                             <div class="small-12 medium-6 large-6 left">
                                 <table>
-                                    <tr ng-repeat="name in ['tagline']" ng-if="movie[name]">
+                                    <tr ng-repeat="name in ['tagline']" ng-if="media[name]">
                                         <td>{{"PROPERTY."+ name.toUpperCase() | translate}}</td>
-                                        <td>{{movie[name]}}</td>
+                                        <td>{{media[name]}}</td>
                                     </tr>
-                                    <!--<tr ng-if="movie.duration && movie.duration.real">-->
-                                        <!--<td>duration</td>-->
-                                        <!--<td>{{movie.duration.real}} {{movie.duration.unit}}</td>-->
-                                    <!--</tr>-->
-                                    <tr ng-if="movie.duration && movie.duration.time">
+                                    <tr ng-if="media.duration && media.duration.time">
                                         <td>{{"PROPERTY.DURATION" | translate}}</td>
                                         <td>
-                                            <span ng-if="movie.duration.time.h">{{movie.duration.time.h}}h&nbsp;</span><span ng-if="movie.duration.time.m">{{movie.duration.time.m}}m&nbsp;</span><span ng-if="movie.duration.time.s">{{movie.duration.time.s}}s</span>
+                                            <span ng-if="media.duration.time.h">{{media.duration.time.h}}h&nbsp;</span>
+                                            <span ng-if="media.duration.time.m">{{media.duration.time.m}}m&nbsp;</span>
+                                            <span ng-if="media.duration.time.s">{{media.duration.time.s}}s</span>
                                         </td>
                                     </tr>
-                                    <tr ng-if="movie.mpaa">
-                                        <td>MPAA</td>
+                                    <tr ng-if="media.mpaa">
+                                        <td>{{"PROPERTY.MPAA" | translate}}</td>
                                         <td>
-                                            <div class="mpaa {{(movie.mpaa).toLowerCase()}}">
-                                                <span class="left label">rated</span>
-                                                <span class="left rating">{{(movie.mpaa).split(" ")[1]}}</span>
-                                            </div>
+                                            <a class="mpaa {{(media.mpaa).toLowerCase()}}" ng-href="{{route.movies}}/filter/mpaa/{{(media.mpaa).toLowerCase()}}">
+                                                <span class="left label">{{(media.mpaa).split(" ")[0].toUpperCase()}}</span>
+                                                <span class="left rating">{{(media.mpaa).split(" ")[1].toUpperCase()}}</span>
+                                            </a>
                                         </td>
                                     </tr>
-<!--<tr ng-if="movie.filename">-->
-<!--<td>filename</td>-->
-<!--<td>-->
-<!--<a href="{{movie.file}}">{{movie.filename}}</a>-->
-<!--</td>-->
-<!--</tr>-->
-
-                                    <tr ng-if="movie.imdbnumber">
-                                        <td>IMDb</td>
-                                        <td style="display: inline;"><a target="_blank" ng-href="http://www.imdb.com/title/{{movie.imdbnumber}}/?{{movie.originaltitle}}" style="position: relative; top: 9px;"><span class="truncate truncate-80">{{movie.originaltitle}} ({{movie.year}})</span>
-                                            <div class="label radius" style="top:-6px;color:black;padding:4px;background-image:linear-gradient(#e8e00d, #fbbf35 100%);border:1px solid #fca92d;font:bolder 10px/4px sans-serif;height:14px;">IMDb</div></a>
+                                    <tr ng-if="media.imdbnumber">
+                                        <td>{{"PROPERTY.IMDB" | translate}}</td>
+                                        <td class="imdb">
+                                            <a target="_blank" ng-href="http://www.imdb.com/title/{{media.imdbnumber}}/?{{media.label}}">
+                                                <span class="truncate truncate-80">{{media.originaltitle || media.title}} ({{media.year || "???"}})</span>
+                                                <div class="label radius">{{"PROPERTY.IMDB" | translate}}</div>
+                                            </a>
                                         </td>
                                     </tr>
-                                    <tr ng-if="movie.time && movie.time.dateadded && movie.time.dateadded.toLocaleFormat">
+                                    <tr ng-if="media.time && media.time.dateadded && media.time.dateadded.toLocaleFormat">
                                         <td>{{"PROPERTY.DATEADDED" | translate}}</td>
                                         <td>
-                                            <a href="#/movies/filter/dateadded/{{movie.dateadded.split(' ')[0]}}">{{movie.time.dateadded.toLocaleFormat()}}</a>
+                                            <a href="{{route.movies}}/filter/dateadded/{{media.dateadded.split(' ')[0]}}">{{media.time.dateadded.toLocaleFormat()}}</a>
                                         </td>
                                     </tr>
-                                    <tr ng-if="movie.time && movie.time.lastplayed && movie.time.lastplayed.toLocaleFormat">
+                                    <tr ng-if="media.time && media.time.lastplayed && media.time.lastplayed.toLocaleFormat">
                                         <td>{{"PROPERTY.LASTPLAYED" | translate}}</td>
                                         <td>
-                                            <a href="#/movies/filter/lastplayed/{{movie.lastplayed.split(' ')[0]}}">{{movie.time.lastplayed.toLocaleFormat()}}</a>
+                                            <a href="{{route.movies}}/filter/lastplayed/{{media.lastplayed.split(' ')[0]}}">{{media.time.lastplayed.toLocaleFormat()}}</a>
                                         </td>
                                     </tr>
                                 </table>
                             </div>
                         </div>
+                        <!-- Media tab content: detail /  ends  -->
 
-                        <div ng-show="tab == 'cast'" id="cast" ng-if="castSize = '5'">
-<style>
-    #cast ul.cast-size {
-        width: 132px;
-    }
-    #cast ul.cast-size li {
-        border-right: 1px solid #eedede;
-        float: left;
-    }
-    #cast ul.cast-size li:last-child{
-        border-right: none;
-    }
-    #cast ul.cast-size li a {
-        margin: 0 1px 0 0;
-    }
-
-    #cast .item img.people {
-        /*background-image: url("http://192.168.1.26:666/image/image://http%253a%252f%252fimage.tmdb.org%252ft%252fp%252foriginal%252fyXls3Na19WFTtQibdGoQauZvHzL.jpg/");*/
-        /*background-position: 44% top;*/
-        /*background-size: 115% 104%;*/
-        background-position: -14px top;
-        background-size: 121% auto;
-    }
-    .role a {
-        color: #736d6d;
-        font:normal 16px arial;
-    }
-    #cast .item .role i {
-        color: #ebb14e;
-        margin-right: 2px;
-    }
-    #cast .item .people a {
-        color: #939090;
-        font-size: 13px;
-        font-weight: bold;
-    }
-
-
-    #movie-detail #overlay-banner, #movie-detail #plot{
-        z-index: 1;
-    }
-
-
-    .blur-fill-in {
-        filter: blur(70px);
-        height: 100%;
-        position: fixed;
-        top: 295px;
-        transform: scale(1.4);
-        width: 100%;
-        z-index: 0;
-        opacity: .8;
-    }
-
-</style>
+                        <!-- Media tab content: cast / starts -->
+                        <div id="tab-cast" ng-show="tab == 'cast'" ng-if="castSize = 5">
                             <div class="additional-button label radius">
                                 <span data-options="is_hover:true; hover_timeout:1000;" data-dropdown="cast-size" href="#">
                                     {{"MOVIE.DISPLAY" | translate}}: <b>{{castSize}}</b>
                                 </span>
                                 <ul data-dropdown-content="" class="cast-size f-dropdown" id="cast-size">
-                                    <li><a ng-click="castSize = '2'">2</a></li>
-                                    <li><a ng-click="castSize = '3'">3</a></li>
-                                    <li><a ng-click="castSize = '4'">4</a></li>
-                                    <li><a ng-click="castSize = '5'">5</a></li>
-                                    <li><a ng-click="castSize = '6'">6</a></li>
+                                    <li><a ng-click="castSize = 2">2</a></li>
+                                    <li><a ng-click="castSize = 3">3</a></li>
+                                    <li><a ng-click="castSize = 4">4</a></li>
+                                    <li><a ng-click="castSize = 5">5</a></li>
+                                    <li><a ng-click="castSize = 6">6</a></li>
                                 </ul>
                             </div>
 
                             <ul class="small-block-grid-{{castSize}}">
-                                <li class="item" ng-repeat="cast in movie.cast" ng-if="movie.cast">
-                                    <img class="people th" src="/assets/img/thumbnail.blank.gif" onready="relpaceimage" data-image="cast.image ? cast.image : unknown" >
-
+                                <li class="item" ng-repeat="cast in media.cast" ng-if="media.cast && cast && cast.name">
+                                    <a ng-href="#/people/{{cast.name.toLowerCase()}}">
+                                        <img class="people th" src="/assets/img/thumbnail.blank.gif" onready="relpaceimage" data-image="cast.image || unknown" />
+                                    </a>
                                     <div class="text-center">
-                                        <div class="small-12 people"><a ng-href="#/people/{{cast.name.toLowerCase()}}">{{cast.name}}</a></div>
-                                        <div class="small-12 role"><i class="fa fa-star"></i><a target="_blank" ng-href="http://www.imdb.com/find?s=ch&q={{cast.role}}">{{cast.role}}</a></div>
+                                        <div class="small-12 people">
+                                            <a ng-href="#/people/{{cast.name.toLowerCase()}}">{{cast.name}}</a>
+                                        </div>
+                                        <div class="small-12 role">
+                                            <i class="fa fa-star"></i>
+                                            <a target="_blank" ng-href="http://www.imdb.com/find?s=ch&q={{cast.role}}">{{cast.role}}</a>
+                                        </div>
                                     </div>
                                 </li>
                             </ul>
                         </div>
+                        <!-- Media tab content: cast /  ends  -->
 
+                        <!-- Media tab content: streams detail / starts -->
                         <div ng-show="tab == 'streams'" id="streams">
-                            <table>
+                            <table class="column small-12">
                                 <thead>
-                                    <tr><th width="200">Video</th><th width="750">Wert</th></tr>
+                                    <tr>
+                                        <th width="20%">{{"VIDEO" | translate}}</th>
+                                        <th width="80%">{{"GLOBAL.VALUE" | translate}}</th>
+                                    </tr>
                                 </thead>
                                 <tbody>
-                                    <tr ng-if="movie.filename">
-                                        <td>{{"PROPERTY.FILE" | translate}}</td><td><a style="display:block;word-break:break-all;" ng-href="{{movie.file}}">{{movie.filename}}</a></td>
+                                    <tr ng-if="media.filename">
+                                        <td>{{"PROPERTY.FILE" | translate}}</td><td><a style="display:block;word-break:break-all;" ng-href="{{media.file}}">{{media.filename}}</a></td>
                                     </tr>
-                                    <!--<tr ng-if="movie.duration && movie.duration.time">-->
-                                        <!--<td>Duration</td><td><span ng-if="movie.duration.time.h">{{movie.duration.time.h}}h&nbsp;</span><span ng-if="movie.duration.time.m">{{movie.duration.time.m}}m&nbsp;</span><span ng-if="movie.duration.time.s">{{movie.duration.time.s}}s</span></td>-->
-                                    <!--</tr>-->
-                                    <tr ng-if="movie.duration && movie.duration.real">
-                                        <td>{{"PROPERTY.DURATION" | translate}}</td><td>{{movie.duration.real}} {{movie.duration.unit}}</td>
+                                    <tr ng-if="media.duration && media.duration.real">
+                                        <td>{{"PROPERTY.DURATION" | translate}}</td><td>{{media.duration.real}} {{media.duration.unit}}</td>
                                     </tr>
-                                    <tr ng-repeat="name in ['codec','height','width']" ng-if="movie.streamdetails.video[0][name]">
-                                        <td>{{"PROPERTY."+ name.toUpperCase() | translate}}</td><td>{{movie.streamdetails.video[0][name]}}</td>
+                                    <tr ng-repeat="name in ['codec','height','width']" ng-if="media.streamdetails.video[0][name]">
+                                        <td>{{"PROPERTY."+ name.toUpperCase() | translate}}</td><td>{{media.streamdetails.video[0][name]}}</td>
                                     </tr>
-                                    <tr ng-if="movie.streamdetails.subtitle.length">
+                                    <tr ng-if="media.streamdetails.subtitle.length">
                                         <td>{{"PROPERTY.SUBTITLE" | translate}}</td>
-                                        <td><span ng-repeat="subtitle in movie.streamdetails.subtitle track by $index">{{subtitle.language}}{{$last ? null : ', '}}</span></td>
+                                        <td><span ng-repeat="subtitle in media.streamdetails.subtitle track by $index">{{subtitle.language}}{{$last ? null : ', '}}</span></td>
                                     </tr>
                                 </tbody>
                             </table>
 
-                            <table ng-if="movie.streamdetails.audio.length > 0">
+                            <table ng-if="media.streamdetails.audio.length > 0" class="column small-12">
                                 <thead>
-                                <tr><th width="200">{{"AUDIO" | translate}}</th><th width="630">{{"PROPERTY.CODEC" | translate}}</th><th width="110">{{"PROPERTY.CHANNELS" | translate}}</th></tr>
+                                    <tr>
+                                        <th width="20%">{{"AUDIO" | translate}}</th>
+                                        <th width="75%">{{"PROPERTY.CODEC" | translate}}</th>
+                                        <th width="5%">{{"PROPERTY.CHANNELS" | translate}}</th>
+                                    </tr>
                                 </thead>
                                 <tbody>
-                                <tr ng-repeat="stream in movie.streamdetails.audio track by $index" ng-if="movie.streamdetails.audio">
-                                    <td ng-repeat="name in ['language','codec','channels']" ng-if="stream[name]">{{stream[name]}}</td>
-                                </tr>
+                                    <tr ng-repeat="stream in media.streamdetails.audio track by $index" ng-if="media.streamdetails.audio">
+                                        <td ng-repeat="name in ['language','codec','channels']" ng-if="stream[name]">{{stream[name]}}</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
+                        <!-- Media tab content: streams detail /  ends  -->
                     </div>
-
-                    <!--<div id="myElemen78t">Loading the player...</div>-->
-
-                    <!--<script type="text/javascript">-->
-                        <!--jwplayer("myElemen78t").setup({-->
-                            <!--file: "http://stream.flowplayer.org/coffee/640x480.webm",-->
-                            <!--image: "/uploads/myPoster.jpg"-->
-                        <!--});-->
-                    <!--</script>-->
-
+                    <!-- Media tab content /  ends  -->
                 </div>
-            </div>
-
-            <div id="side-content" class="small-12 large-3 columns right">
-                <div class="toolbox">
-                    <div class="detail-widget small-12 row" ng-repeat="name in ['director','genre','studio','writer','mpaa','votes','year']" ng-if="!!movie[name]">
-                        <span class="left small-5">{{"PROPERTY."+ name.toUpperCase() | translate}}</span>
-                        <ul class="right small-7">
-
-                            <li ng-if="!movie[name].shift">
-                                <a ng-href="#/movies/filter/{{name}}/{{movie[name].toLowerCase ? movie[name].toLowerCase() : movie[name]}}">{{movie[name]}}</a>
-                            </li>
-
-                            <div ng-if="movie[name].shift">
-                                <li ng-repeat="index in movie[name] track by $index">
-                                    <a ng-href="#/movies/filter/{{name}}/{{index.toLowerCase ? index.toLowerCase() : index}}">{{index}}</a>
-                                </li>
-                            </div>
-                        </ul>
-
-                    </div>
-                </div>
-            </div>
-
+                <!-- Media tab listing with content /  ends  -->
+            <!-- Media detail description /  ends  -->
+        </div>
     </div>
-
 </div>
 
-<div class="blur-fill-in" style="background-image: url(&quot;{{movie.fanart}}&quot;);"></div>
+<div data-reveal="" class="reveal-modal large" id="modal-trailer-youtube" aria-hidden="true">
+    <h2>{{media.title}}<small>&nbsp;/ {{"PROPERTY.TRAILER" | translate}}</small></h2>
+    <div class="flex-video" style="display:none;">
+        <iframe width="420" height="315" frameborder="0" allowfullscreen="" src="{{trailer}}"></iframe>
+    </div>
+    <div class="sources">Quelle: {{(trailer || "").toString().replace("http://", "").replace("www.", "").replace("//", "")}}</div>
+    <a class="close-reveal-modal">&#215;</a>
+</div>
+
+<div class="large-12 columns margin-bottom"></div>
+
+<div class="blur-fill-in" style="background-image: url(&quot;{{media.fanart}}&quot;);"></div>
+
+<script type="text/javascript">
+    $(document).foundation();
+</script>

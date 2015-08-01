@@ -177,6 +177,21 @@
     z-index: 3;
 }
 
+#main #footer .goto-top {
+    cursor: pointer;
+    font-size: 1.77em;
+    margin: -1px 5px 0 0;
+    opacity: 0;
+}
+
+#main #footer .goto-top:hover {
+    color: #7d7d7d;
+}
+
+#main #footer:hover .goto-top {
+    opacity: 1;
+}
+
 /*********************************************************************************/
 /*** Main: || Settings:                                                        ***/
 /*********************************************************************************/
@@ -327,6 +342,10 @@
     white-space: nowrap;
 }
 
+#main .truncate-80 {
+    max-width: 80%;
+}
+
 #main .truncate-85 {
     max-width: 85%;
 }
@@ -395,7 +414,7 @@
 }
 
 /*********************************************************************************/
-/*** Global: || MPAA:                                          (Rating System) ***/
+/*** Global: || Icon:MPAA:                                     (Rating System) ***/
 /*********************************************************************************/
 
 #main .mpaa {
@@ -447,7 +466,7 @@
 }
 
 /*********************************************************************************/
-/*** Global: || MPAA:                                    (Film: United States) ***/
+/*** Global: || Icon:MPAA:                               (Film: United States) ***/
 /*********************************************************************************/
 
 #main .mpaa.rated .label {
@@ -486,7 +505,7 @@
 }
 
 /*********************************************************************************/
-/*** Global: || MPAA:                                      (Tv: United States) ***/
+/*** Global: || Icon:MPAA:                                 (Tv: United States) ***/
 /*********************************************************************************/
 
 #main .mpaa.tv {
@@ -499,7 +518,7 @@
 }
 
 /*********************************************************************************/
-/*** Global: || MPAA:                                      (Tv: United States) ***/
+/*** Global: || Icon:MPAA:                                 (Tv: United States) ***/
 /*********************************************************************************/
 
 #main .imdb {
@@ -519,6 +538,49 @@
     border: 1px solid #fca92d;
     font: bolder 10px/4px sans-serif;
     height: 14px;
+}
+
+/*********************************************************************************/
+/*** Global: || Icon:Youtube:                                                  ***/
+/*********************************************************************************/
+
+#media-description i.play-youtube.fa-youtube-play {
+    position: relative;
+    font-size: 17px;
+    top: 1px;
+    color: #d51a1a;
+}
+
+/*********************************************************************************/
+/*** Global: || Modal: || Trailer:Youtube:                                     ***/
+/*********************************************************************************/
+
+#modal-trailer-youtube {
+    border: 8px solid #fcfcfc;
+    padding: 0;
+}
+
+#modal-trailer-youtube iframe {
+    background: #b3b3b3 url("/assets/img/loading.music.cover.gif") center center no-repeat;
+}
+
+#modal-trailer-youtube h2 {
+    background-color: #dddddd;
+    padding: 0 6px;
+}
+
+#modal-trailer-youtube h2 small {
+    color: #8e8e8e;
+}
+
+#modal-trailer-youtube .flex-video {
+    margin: 0 0 -1px;
+}
+
+#modal-trailer-youtube .sources {
+    padding: 2px 4px;
+    background-color: #81beb1;
+    border-radius: 0 0 3px 3px;
 }
 
 /*********************************************************************************/
