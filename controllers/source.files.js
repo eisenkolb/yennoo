@@ -1,31 +1,37 @@
 uneXBMC.register.controller("source.FilesCtrl"
 , ["$scope", "$routeParams", "MovieFactory"
 , function($scope, $routeParams, MovieFactory){
-    $scope.$root.breadcrumb = [{title: "SOURCES", href: uneXBMC.route.sourceIndex[0]}];
+    $scope.$root.breadcrumb = [{title: "SOURCES", href: "#/sources/list/enums"}];
     $scope.sourceEnums      = ["video", "music", "pictures", "files", "programs"];
 
-    if (uneXBMC.util.isType($routeParams.source, "undefined") === true)
+    /**
+     * Enumerate the types of sources
+     */
+    if ($routeParams.method === "list" && $routeParams.source === "enums")
     {
         $scope.enums = $scope.sourceEnums;
 
-        return;
+        return(false);
     }
-    else if ($scope.sourceEnums.indexOf($routeParams.source) >= 0 && !$routeParams.directory)
+    /**
+     * List the entries of selected 'source'
+     */
+    else if ($routeParams.method === "list" && $scope.sourceEnums.indexOf($routeParams.source) >= 0)
     {
         $scope.$root.breadcrumb.push({title: $routeParams.source.toUpperCase()});
         $scope.timer = new uneXBMC.util.Timer(true);
         $scope.route = $routeParams;
         MovieFactory.BuildRequest(function(data, $async)
         {
-            $scope.sources = data.sources || "empty";
+            $scope.lists = data.sources || "empty";
             $scope.timer.stop();
             $async.apply($scope);
         }, uneXBMC.rpc.methods.Files.GetSources($routeParams.source));
     }
-    else
+    else if ($scope.sourceEnums.indexOf($routeParams.method) >= 0)
     {
-        $scope.$root.breadcrumb.push({title: $routeParams.source, href: uneXBMC.route.sourceIndex[0]+ $routeParams.source});
-        $scope.$root.breadcrumb.push({title: $routeParams.directory});
+        $scope.$root.breadcrumb.push({title: $routeParams.method.toUpperCase(), href: "#/sources/list/"+ $routeParams.method});
+        $scope.$root.breadcrumb.push({title: $routeParams.source});
         $scope.timer = new uneXBMC.util.Timer(true);
         $scope.route = $routeParams;
 
@@ -37,8 +43,8 @@ uneXBMC.register.controller("source.FilesCtrl"
                     data.files[index].type = data.files[index].mimetype.split(/\//)[0];
             }
 
-            $scope.directories = data.files || "empty";
+            $scope.sources = data.files || "empty";
             $async.apply($scope);
-        },  uneXBMC.rpc.methods.Files.GetDirectory($routeParams.directory));
+        },  uneXBMC.rpc.methods.Files.GetDirectory($routeParams.source, $routeParams.method));
     }
 }]);

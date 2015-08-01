@@ -1309,6 +1309,64 @@
 }
 
 /*********************************************************************************/
+/*** Media:Listing:Sources || Presentation:Simply:                             ***/
+/*********************************************************************************/
+
+#media-listing.sources .list > li {
+    background-color: #b8b3b3;
+    border: 1px solid #8c8282;
+    border-radius: 5px;
+    box-shadow: 1px 1px 0 #b5b5b5;
+    margin: 0 1% 10px;
+    padding: 0;
+}
+
+#media-listing.sources .list > li span {
+    border: 1px solid transparent;
+    color: #454545;
+    text-shadow: 1px 1px 0 #c1bfbf;
+}
+
+#media-listing.sources .list > li span.file {
+    background-color: #aeaeae;
+    border: 1px solid #828282;
+    border-radius: 3px;
+    display: block;
+    font: 13px/9px Verdana;
+    margin: -1px 0 1% 1%;
+    padding: 1%;
+    overflow: hidden;
+    width: 98%;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+#media-listing.sources .list > li > a {
+    display: block;
+}
+
+#media-listing.sources .list > li:hover {
+    background-color: #d2c8c8;
+    border: 1px solid #6f6f6f;
+}
+
+#media-listing.sources .list > li:hover span {
+    text-shadow: 1px 1px 0 #dedede;
+}
+
+@media only screen and (max-width: 40.0em) {
+    #media-listing.sources .list.small-block-grid-1 > li {
+        width: 98%;
+    }
+}
+
+@media only screen and (min-width: 40.0625em) {
+    #media-listing.sources .list.medium-block-grid-2 > li {
+        width: 48%;
+    }
+}
+
+/*********************************************************************************/
 /*** Media:Collections:                                                        ***/
 /*********************************************************************************/
 

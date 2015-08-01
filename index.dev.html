@@ -49,7 +49,7 @@
         <aside class="left-off-canvas-menu">
             <ul class="off-canvas-list">
                 <li><label>{{"SOURCES" | translate}}</label></li>
-                <li><a href="#/sources">{{"VIDEO" | translate}}</a></li>
+                <li><a href="#/sources/list/enums">{{"VIDEO" | translate}}</a></li>
             </ul>
         </aside>
 
@@ -165,7 +165,7 @@
             serieSeason: ["#/series/:tvshowid/:label/season/:seasonid", "series.detail.SeasonCtrl", "resources/view/series.detail.season.html"],
             serieFilter: ["#/series/filter/:filter/:value", "series.FilterCtrl", "resources/view/series.index.html"],
             coreSetting: ["#/config/prefs", "config.PrefsCtrl", "resources/view/config.prefs.html"],
-            sourceIndex: ["#/sources/", "source.FilesCtrl", "resources/view/source.files.html"],
+            sourceIndex: ["#/sources/:method/:source", "source.FilesCtrl", "resources/view/source.files.html"],
             dashboard:   ["#/", "index.DashboardCtrl", "resources/view/index.dashboard.html"]
         },
         application: {

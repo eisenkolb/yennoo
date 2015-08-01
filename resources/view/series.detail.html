@@ -6,7 +6,7 @@
     </div>
 </div>
 
-<div class="large-12 columns">
+<div id="media-detail" class="large-12 columns">
     <div id="media-description" class="small-12 large-offset-1 large-10 columns left">
         <div class="large-12 columns">
             <div class="columns">
@@ -23,7 +23,7 @@
                 </div>
                 <div class="title">
                     <h1 class="left truncate truncate-85">{{media.title}}</h1>
-                    <small ng-if="media.year" class="year left">({{media.year}}</small>
+                    <small ng-if="media.year" class="year left">({{media.year}})</small>
                 </div>
 
                 <div class="summary row show-for-large-up">
@@ -57,7 +57,7 @@
                 </div>
             </div>
 
-            <div class="panel large-12 media-description margin-bottom">
+            <div class="panel large-12 media-description">
                 <div class="tabs-content" id="tabs-content">
                     <div id="tab-seasons" class="content active">
                         <h5>{{"TVSHOW.SEASONS" | translate}}</h5>
@@ -297,11 +297,11 @@
                     </div>
                 </div>
             </div>
-
         </div>
-
     </div>
 </div>
+
+<div class="large-12 columns margin-bottom"></div>
 
 <div class="blur-fill-in" style="background-image: url(&quot;{{media.fanart}}&quot;);"></div>
 
