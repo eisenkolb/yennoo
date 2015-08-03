@@ -1,16 +1,128 @@
 /**!
  * uneXBMC.util.js | XBMC Utility module
  */
-(function(window){
-    "use strict";
+(function(window, uneXBMC, undefined) {"use strict";
 
-    window.uneXBMC.util = {
+    /** @const **/ var OBJECT_TYPE    = "object";
+    /** @const **/ var STRING_TYPE    = "string";
+    /** @const **/ var UNDEFINED_TYPE = "undefined";
+    /** @const **/ var FUNCTION_TYPE  = "function";
+    /** @const **/ var BOOLEAN_TYPE   = "boolean";
+    /** @const **/ var OBJECT_CLASS   = "[object Object]";
+    /** @const **/ var ARRAY_CLASS    = "[object Array]";
 
+    /**
+     * @namespace
+     * @extends {uneXBMC}
+     */
+    uneXBMC.util = {
+
+        /**
+         * Checks if the `input` an given `type`
+         *
+         * @param  {*} input - Reference to check
+         * @param  {string} type - Custom type to compare the `input` value
+         * @return {boolean}
+         */
         isType: function(input, type)
         {
             return(typeof input === type);
         },
 
+        /**
+         * Checks if a reference is an `Object`
+         *
+         * @param  {*} input - Reference to check
+         * @return {boolean}
+         */
+        isObject: function(input)
+        {
+            return(this.isType(input, OBJECT_TYPE) && Object.toString && Object.prototype.toString.call(input) === OBJECT_CLASS);
+        },
+
+        /**
+         * Checks if a reference is an `Array`
+         *
+         * @param  {*} input - Reference to check
+         * @return {boolean}
+         */
+        isArray: function(input)
+        {
+            return(Array.isArray && Array.isArray(input) || Object.toString && Object.prototype.toString.call(input) === ARRAY_CLASS);
+        },
+
+        /**
+         * Checks if a reference is an `Boolean`
+         *
+         * @param  {*} input - Reference to check
+         * @return {boolean}
+         */
+        isBoolean: function(input)
+        {
+            return(this.isType(input, BOOLEAN_TYPE) === true);
+        },
+
+        /**
+         * Checks if a reference is a `Number`
+         *
+         * @param  {*} input - Reference to check
+         * @return {boolean}
+         */
+        isNumber: function(input)
+        {
+            return(this.isType(input, UNDEFINED_TYPE) || input == "" ? false : input && !!Number(input || null));
+        },
+
+        /**
+         * Checks if a reference is a `String`
+         *
+         * @param  {*} input - Reference to check
+         * @return {boolean}
+         */
+        isString: function(input)
+        {
+            return(this.isType(input, STRING_TYPE) === true);
+        },
+
+        /**
+         * Checks if a reference is a `Function`
+         *
+         * @param  {*} input - Reference to check
+         * @return {boolean}
+         */
+        isFunction: function(input)
+        {
+            return(this.isType(input, FUNCTION_TYPE) === true);
+        },
+
+        /**
+         * Checks if a reference is undefined
+         *
+         * @param  {*} input - Reference to check
+         * @return {boolean}
+         */
+        isUndefined: function(input)
+        {
+            return(this.isType(input, UNDEFINED_TYPE) === true && input +"" !== UNDEFINED_TYPE || input == null);
+        },
+
+        /**
+         * Checks if a reference is defined
+         *
+         * @param  {*} input - Reference to check
+         * @return {boolean}
+         */
+        isDefined: function(input)
+        {
+            return(this.isType(input, UNDEFINED_TYPE) === false);
+        },
+
+        /**
+         * @struct
+         * @constructor
+         * @param  {?boolean} start - Start the timer on construction
+         * @return {uneXBMC.util.Timer}
+         */
         Timer: function(start)
         {
             this.stats = {begin: null, end: null};
@@ -42,13 +154,18 @@
             return(this);
         },
 
+        /**
+         * Notification method
+         *
+         * @type object
+         */
         notify: {
             stack: {},
             style: {offset: {bottom: 10, begin: 87}},
             types: {SUCCESS: "success", INFO: "info", WARNING: "warning", ERROR: "error"},
             template: function(template)
             {
-                template = uneXBMC.util.isType(template, "undefined")
+                template = uneXBMC.util.isUndefined(template)
                          ? document.getElementById("notifyTemplate").innerHTML
                          : template;
                 template = angular.element(template);
@@ -59,12 +176,12 @@
             {
                 self = this;
                 self.id = "notify-" + Date.now();
-                self.element = window.uneXBMC.util.notify.template(options.template);
+                self.element = uneXBMC.util.notify.template(options.template);
                 self.element[0].id = self.id;
                 self.title = function(title){
                     self.element.find(".title").html(function()
                     {
-                        if (title === null){
+                        if (uneXBMC.util.isUndefined(title)){
                             self.element.find(".title").hide();
                         }
 
@@ -89,9 +206,9 @@
                 {
                     self.element.fadeIn(400);
 
-                    window.uneXBMC.util.notify.stack[self.id] = self;
+                    uneXBMC.util.notify.stack[self.id] = self;
 
-                    if (typeof options.time === "number"){
+                    if (uneXBMC.util.isNumber(options.time)){
                         setTimeout(function(){
                             self.destroy();
                         }, parseInt(options.time));
@@ -101,9 +218,9 @@
                 };
                 self.destroy = function(duration)
                 {
-                    var seconds = typeof duration === "undefined" ? 1000 : duration;
+                    var seconds = uneXBMC.util.isUndefined(duration) ? 1000 : duration;
                     var destroy = function(){
-                        delete(window.uneXBMC.util.notify.stack[self.id]);
+                        delete(uneXBMC.util.notify.stack[self.id]);
                         self.element.remove();
                     };
 
@@ -113,11 +230,11 @@
                     }, seconds, destroy);
 
                     /** reposition only the larger items **/
-                    for(var index in window.uneXBMC.util.notify.stack){
-                        var offset = window.uneXBMC.util.notify.stack[index].element[0].offsetTop - self.element[0].offsetHeight;
-                        if (offset > window.uneXBMC.util.notify.style.offset.begin && window.uneXBMC.util.notify.stack[index].element[0].offsetTop > self.element[0].offsetTop) {
-                            window.uneXBMC.util.notify.stack[index].element.animate({
-                                top: "-=" + (self.element[0].offsetHeight + window.uneXBMC.util.notify.style.offset.bottom) + "px"
+                    for(var index in uneXBMC.util.notify.stack){
+                        var offset = uneXBMC.util.notify.stack[index].element[0].offsetTop - self.element[0].offsetHeight;
+                        if (offset > uneXBMC.util.notify.style.offset.begin && uneXBMC.util.notify.stack[index].element[0].offsetTop > self.element[0].offsetTop) {
+                            uneXBMC.util.notify.stack[index].element.animate({
+                                top: "-=" + (self.element[0].offsetHeight + uneXBMC.util.notify.style.offset.bottom) + "px"
                             }, seconds + 200);
                         }
                     }
@@ -126,10 +243,10 @@
                 };
                 self.apply = function(target)
                 {
-                    this.offset = window.uneXBMC.util.notify.style.offset.begin;
-                    for ( var index in window.uneXBMC.util.notify.stack){
-                        this.offset += window.uneXBMC.util.notify.stack[index].element[0].offsetHeight;
-                        this.offset += window.uneXBMC.util.notify.style.offset.bottom;
+                    this.offset = uneXBMC.util.notify.style.offset.begin;
+                    for (var index in uneXBMC.util.notify.stack){
+                        this.offset += uneXBMC.util.notify.stack[index].element[0].offsetHeight;
+                        this.offset += uneXBMC.util.notify.style.offset.bottom;
                     }
 
                     self.element.click(self.click)
@@ -154,11 +271,11 @@
             },
             clear: function(duration)
             {
-                for (var index in window.uneXBMC.util.notify.stack){
-                    window.uneXBMC.util.notify.stack[index].destroy(duration);
+                for (var index in uneXBMC.util.notify.stack){
+                    uneXBMC.util.notify.stack[index].destroy(duration);
                     if (duration === "reset"){
-                        window.uneXBMC.util.notify.stack[index].element.remove();
-                        delete(window.uneXBMC.util.notify.stack[window.uneXBMC.util.notify.stack[index].id]);
+                        uneXBMC.util.notify.stack[index].element.remove();
+                        delete(uneXBMC.util.notify.stack[uneXBMC.util.notify.stack[index].id]);
                     }
                 }
 
@@ -170,6 +287,12 @@
             }
         },
 
+        /**
+         * Display communication error as a notification
+         *
+         * @param  {object} data - That contain the XBMC response object
+         * @return {uneXBMC.util.notify}
+         */
         communicationError: function(data)
         {
             var body = data.error.message;
@@ -194,6 +317,12 @@
             }).show());
         },
 
+        /**
+         * Display communication message as a notification
+         *
+         * @param  {object} data - That contain the XBMC response object
+         * @return {uneXBMC.util.notify}
+         */
         communicationMessage: function(data)
         {
             var head = data.params.sender.toUpperCase();
@@ -208,9 +337,10 @@
             }).show();
         },
 
+        /**
+         * Method that performs no operations
+         */
         noop: function(){}
     };
 
-    window.uneXBMC = uneXBMC;
-
-}(window));
+})(window, (/** @namespace uneXBMC **/ window.uneXBMC || {}));
