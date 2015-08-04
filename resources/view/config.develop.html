@@ -9,9 +9,9 @@
 </div>
 
 <script type="text/javascript">
-uneXBMC.register.controller("test.viewSetting", ["$scope", function($scope){
+Yennoo.register.controller("test.viewSetting", ["$scope", function($scope){
     setInterval(function(){
-        $scope.settings = uneXBMC.setting;
+        $scope.settings = Yennoo.setting;
         $scope.$apply();
     }, 700);
 }]);

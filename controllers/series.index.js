@@ -1,9 +1,9 @@
-uneXBMC.register.controller("series.IndexCtrl"
+Yennoo.register.controller("series.IndexCtrl"
 , ["$scope", "$routeParams", "mediaLibrary", "MovieFactory"
 , function($scope, $routeParams, mediaLibrary, MovieFactory){
-    $scope.timer = new uneXBMC.util.Timer(true);
+    $scope.timer = new Kodi.util.Timer(true);
     $scope.page  = $routeParams.page || null;
-    $scope.route = {series: uneXBMC.route.seriesIndex[0]};
+    $scope.route = {series: Yennoo.route.seriesIndex[0]};
 
     MovieFactory.GetTvShows(function(data, $async)
     {
@@ -15,5 +15,5 @@ uneXBMC.register.controller("series.IndexCtrl"
     /**
      * Sets the breadcrumb trail for the current page
      */
-    $scope.$root.breadcrumb = [{title: "SERIES", href: uneXBMC.route.seriesIndex[0]}];
+    $scope.$root.breadcrumb = [{title: "SERIES", href: Yennoo.route.seriesIndex[0]}];
 }]);

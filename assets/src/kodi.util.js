@@ -1,7 +1,14 @@
 /**!
- * uneXBMC.util.js | XBMC Utility module
+ * @fileOverview XBMC/Kodi Utility module
+ *
+ * @author  [Ronny Eisenkolb]{@link https://github.com/eisenkolb}
+ * @version 0.7.8
+ * @license Yennoo : Web Interface for XBMC/Kodi<br>
+ *          Copyright (c) 2015, Ronny Eisenkolb (@eisenkolb)<br>
+ *          License: [MIT License]{@link http://www.opensource.org/licenses/MIT}
  */
-(function(window, uneXBMC, undefined) {"use strict";
+(function(window, Kodi, undefined){
+    "use strict";
 
     /** @const **/ var OBJECT_TYPE    = "object";
     /** @const **/ var STRING_TYPE    = "string";
@@ -13,9 +20,9 @@
 
     /**
      * @namespace
-     * @extends {uneXBMC}
+     * @extends {Kodi}
      */
-    uneXBMC.util = {
+    Kodi.util = {
 
         /**
          * Checks if the `input` an given `type`
@@ -121,7 +128,7 @@
          * @struct
          * @constructor
          * @param  {?boolean} start - Start the timer on construction
-         * @return {uneXBMC.util.Timer}
+         * @return {Kodi.util.Timer}
          */
         Timer: function(start)
         {
@@ -165,7 +172,7 @@
             types: {SUCCESS: "success", INFO: "info", WARNING: "warning", ERROR: "error"},
             template: function(template)
             {
-                template = uneXBMC.util.isUndefined(template)
+                template = Kodi.util.isUndefined(template)
                          ? document.getElementById("notifyTemplate").innerHTML
                          : template;
                 template = angular.element(template);
@@ -176,12 +183,12 @@
             {
                 self = this;
                 self.id = "notify-" + Date.now();
-                self.element = uneXBMC.util.notify.template(options.template);
+                self.element = Kodi.util.notify.template(options.template);
                 self.element[0].id = self.id;
                 self.title = function(title){
                     self.element.find(".title").html(function()
                     {
-                        if (uneXBMC.util.isUndefined(title)){
+                        if (Kodi.util.isUndefined(title)){
                             self.element.find(".title").hide();
                         }
 
@@ -206,9 +213,9 @@
                 {
                     self.element.fadeIn(400);
 
-                    uneXBMC.util.notify.stack[self.id] = self;
+                    Kodi.util.notify.stack[self.id] = self;
 
-                    if (uneXBMC.util.isNumber(options.time)){
+                    if (Kodi.util.isNumber(options.time)){
                         setTimeout(function(){
                             self.destroy();
                         }, parseInt(options.time));
@@ -218,9 +225,9 @@
                 };
                 self.destroy = function(duration)
                 {
-                    var seconds = uneXBMC.util.isUndefined(duration) ? 1000 : duration;
+                    var seconds = Kodi.util.isUndefined(duration) ? 1000 : duration;
                     var destroy = function(){
-                        delete(uneXBMC.util.notify.stack[self.id]);
+                        delete(Kodi.util.notify.stack[self.id]);
                         self.element.remove();
                     };
 
@@ -230,11 +237,11 @@
                     }, seconds, destroy);
 
                     /** reposition only the larger items **/
-                    for(var index in uneXBMC.util.notify.stack){
-                        var offset = uneXBMC.util.notify.stack[index].element[0].offsetTop - self.element[0].offsetHeight;
-                        if (offset > uneXBMC.util.notify.style.offset.begin && uneXBMC.util.notify.stack[index].element[0].offsetTop > self.element[0].offsetTop) {
-                            uneXBMC.util.notify.stack[index].element.animate({
-                                top: "-=" + (self.element[0].offsetHeight + uneXBMC.util.notify.style.offset.bottom) + "px"
+                    for(var index in Kodi.util.notify.stack){
+                        var offset = Kodi.util.notify.stack[index].element[0].offsetTop - self.element[0].offsetHeight;
+                        if (offset > Kodi.util.notify.style.offset.begin && Kodi.util.notify.stack[index].element[0].offsetTop > self.element[0].offsetTop) {
+                            Kodi.util.notify.stack[index].element.animate({
+                                top: "-=" + (self.element[0].offsetHeight + Kodi.util.notify.style.offset.bottom) + "px"
                             }, seconds + 200);
                         }
                     }
@@ -243,10 +250,10 @@
                 };
                 self.apply = function(target)
                 {
-                    this.offset = uneXBMC.util.notify.style.offset.begin;
-                    for (var index in uneXBMC.util.notify.stack){
-                        this.offset += uneXBMC.util.notify.stack[index].element[0].offsetHeight;
-                        this.offset += uneXBMC.util.notify.style.offset.bottom;
+                    this.offset = Kodi.util.notify.style.offset.begin;
+                    for (var index in Kodi.util.notify.stack){
+                        this.offset += Kodi.util.notify.stack[index].element[0].offsetHeight;
+                        this.offset += Kodi.util.notify.style.offset.bottom;
                     }
 
                     self.element.click(self.click)
@@ -271,11 +278,11 @@
             },
             clear: function(duration)
             {
-                for (var index in uneXBMC.util.notify.stack){
-                    uneXBMC.util.notify.stack[index].destroy(duration);
+                for (var index in Kodi.util.notify.stack){
+                    Kodi.util.notify.stack[index].destroy(duration);
                     if (duration === "reset"){
-                        uneXBMC.util.notify.stack[index].element.remove();
-                        delete(uneXBMC.util.notify.stack[uneXBMC.util.notify.stack[index].id]);
+                        Kodi.util.notify.stack[index].element.remove();
+                        delete(Kodi.util.notify.stack[Kodi.util.notify.stack[index].id]);
                     }
                 }
 
@@ -291,7 +298,7 @@
          * Display communication error as a notification
          *
          * @param  {object} data - That contain the XBMC response object
-         * @return {uneXBMC.util.notify}
+         * @return {Kodi.util.notify}
          */
         communicationError: function(data)
         {
@@ -303,14 +310,14 @@
                 head = data.error.data.method+ ": " +body;
                 body = data.error.data.stack.message+ " on "+ data.error.data.stack.name;
 
-                if (JSON && uneXBMC.util.isType(JSON.stringify,"function") === true){
+                if (JSON && Kodi.util.isType(JSON.stringify,"function") === true){
                     body += "<br>Stack:<br><span style=\"white-space:pre;\">" +JSON.stringify(data.error.data.stack, "\n", 2)+ "</span>";
                     time = null;
                 }
             }
 
-            return(uneXBMC.util.notify["new"]({
-                type: uneXBMC.util.notify.types.ERROR,
+            return(Kodi.util.notify["new"]({
+                type: Kodi.util.notify.types.ERROR,
                 time: time,
                 head: head,
                 body: body
@@ -321,7 +328,7 @@
          * Display communication message as a notification
          *
          * @param  {object} data - That contain the XBMC response object
-         * @return {uneXBMC.util.notify}
+         * @return {Kodi.util.notify}
          */
         communicationMessage: function(data)
         {
@@ -330,7 +337,7 @@
                 head = data.params.sender.toUpperCase()+ " : ("+  data.params.data.item.type +" = "+ data.params.data.item.id +")";
             }
 
-            uneXBMC.util.notify["new"]({
+            Kodi.util.notify["new"]({
                 head: head,
                 time: 6000,
                 body: data.method
@@ -343,4 +350,6 @@
         noop: function(){}
     };
 
-})(window, (/** @namespace uneXBMC **/ window.uneXBMC || {}));
+    window.Kodi = Kodi;
+
+})(window, (window.Kodi || {}));

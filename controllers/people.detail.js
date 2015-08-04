@@ -1,10 +1,10 @@
-uneXBMC.register.controller("people.DetailCtrl"
+Yennoo.register.controller("people.DetailCtrl"
 , ["$scope", "$routeParams", "MovieFactory"
 , function($scope, $routeParams, MovieFactory){
     $scope.people = null;
     $scope.role   = {};
     $scope.actor  = $routeParams.people;
-    $scope.route    = {series: uneXBMC.route.seriesIndex[0], movies: uneXBMC.route.moviesIndex[0]};
+    $scope.route  = {series: Yennoo.route.seriesIndex[0], movies: Yennoo.route.moviesIndex[0]};
 
     /**
      * @todo list tv role of the artist
@@ -37,14 +37,14 @@ uneXBMC.register.controller("people.DetailCtrl"
 
     MovieFactory.GetMovies(function(data, $async)
     {
-        $scope.loadMatchedEntries(uneXBMC.const.TYPE_MOVIES, data, "movieid", function(){
+        $scope.loadMatchedEntries(Yennoo.const.TYPE_MOVIES, data, "movieid", function(){
             $async.apply($scope);
         });
     });
 
     MovieFactory.GetTvShows(function(data, $async)
     {
-        $scope.loadMatchedEntries(uneXBMC.const.TYPE_TVSHOWS, data, "tvshowid", function(){
+        $scope.loadMatchedEntries(Yennoo.const.TYPE_TVSHOWS, data, "tvshowid", function(){
             $async.apply($scope);
         });
     });

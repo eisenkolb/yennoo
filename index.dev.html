@@ -11,16 +11,27 @@
     <script type="text/javascript" src="assets/lib/angular.min.js"></script>
     <script type="text/javascript" src="assets/lib/angular-route.min.js"></script>
     <script type="text/javascript" src="assets/lib/angular-translate.js"></script>
-    <script type="text/javascript" src="assets/lib/uneXBMC.js"></script>
-    <script type="text/javascript" src="assets/lib/uneXBMC.util.js"></script>
-    <script type="text/javascript" src="assets/lib/uneXBMC.rpc.js"></script>
     <script type="text/javascript" src="assets/lib/websocket.js"></script>
     <script type="text/javascript" src="assets/lib/json.js"></script>
+    <script type="text/javascript" src="assets/src/kodi.js"></script>
+    <script type="text/javascript" src="assets/src/kodi.util.js"></script>
+    <script type="text/javascript" src="assets/src/kodi.rpc.js"></script>
+    <script type="text/javascript" src="components/kodi.Transporter.js"></script>
+    <script type="text/javascript" src="components/kodi.APIservice.js"></script>
+    <script type="text/javascript" src="components/kodi.Factory.js"></script>
+    <script type="text/javascript" src="components/kodi.Locale.js"></script>
+    <script type="text/javascript" src="components/kodi.Navigation.js"></script>
+    <script type="text/javascript" src="components/directives/imageonloadDirective.js"></script>
+    <script type="text/javascript" src="components/directives/pagerDirective.js"></script>
+    <script type="text/javascript" src="components/directives/subheaderDirective.js"></script>
+    <script type="text/javascript" src="components/directives/onreadyDirective.js"></script>
+    <script type="text/javascript" src="controllers/index.content.js"></script>
+    <script type="text/javascript" src="controllers/index.navigation.js"></script>
     <link type="text/css" media="all" rel="stylesheet" href="assets/css/main.theme.css" />
     <link type="text/css" media="all" rel="stylesheet" href="assets/css/main.pages.css" />
     <link type="text/css" media="all" rel="stylesheet" href="assets/css/foundation.css" />
     <link type="text/css" media="all" rel="stylesheet" href="assets/css/font-awesome.min.css" />
-    <link type="image/vnd.microsoft.icon" rel="shortcut icon" href="/assets/icon/favicon.ico">
+    <link type="image/vnd.microsoft.icon" rel="shortcut icon" href="/assets/icon/favicon.ico" />
 </head>
 
 <div id="notifyTemplate" style="display:none;">
@@ -30,7 +41,7 @@
     </div>
 </div>
 
-<body class="hide-extras off-canvas-wrap" id="ng-app" ng-app="XBMC">
+<body class="hide-extras off-canvas-wrap" id="ng-app">
 
     <div id="loading-mask">
         <div class="bar progress done"></div>
@@ -56,7 +67,7 @@
         <a class="exit-off-canvas" href=""></a>
 
         <section role="main" class="scroll-container inner-wrap" id="container">
-            <div id="header" ng-controller="NavigationCtrl">
+            <div id="header" ng-controller="index.NavigationCtrl">
 
                 <nav id="navigation" data-topbar="" class="top-bar">
                     <div class="top-bar-filters">
@@ -116,7 +127,7 @@
                 </div>
             </div>
 
-            <div id="content" class="small-12 ng-cloak" ng-controller="ContentCtrl" ng-view></div>
+            <div id="content" class="small-12 ng-cloak" ng-controller="index.ContentCtrl" ng-view></div>
             <div id="content-overlay" class="overlay"></div>
         </section>
 
@@ -133,18 +144,17 @@
 <script type="text/javascript">
     "use strict";
 
-    $(function($){
+    Yennoo.bootstrap(function(){
 
         /**
-         * Initialize Foundation
-         *
-         * Reflow: will make Foundation check the DOM for any elements and re-apply any listeners to them.
+         * Remove splashscreen when app was loaded
          */
-
-        $(document).foundation("reflow");
+        angular.element("#splashscreen").delay(700).fadeOut(300, function(){
+            angular.element(this).remove();
+        });
     });
 
-    window.uneXBMCextend = {
+    Yennoo.config = {
         setting: {
             clientId : Date.now(),
             transport: {},
@@ -196,13 +206,15 @@
         }
     };
 
-    /**
-     * Remove splashscreen when angular  is ready
-     */
-    angular.element(document).ready(function(){
-        angular.element(this).find("#splashscreen").delay(700).fadeOut(300, function(){
-            angular.element(this).remove();
-        });
+    angular.element(function($){
+
+        /**
+         * Initialize Foundation
+         *
+         * Reflow: will make Foundation check the DOM for any elements and re-apply any listeners to them.
+         */
+
+        $(document).foundation("reflow");
     });
 </script>
 

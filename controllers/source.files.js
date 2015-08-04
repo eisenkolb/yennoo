@@ -1,4 +1,4 @@
-uneXBMC.register.controller("source.FilesCtrl"
+Yennoo.register.controller("source.FilesCtrl"
 , ["$scope", "$routeParams", "MovieFactory"
 , function($scope, $routeParams, MovieFactory){
     $scope.$root.breadcrumb = [{title: "SOURCES", href: "#/sources/list/enums"}];
@@ -7,8 +7,7 @@ uneXBMC.register.controller("source.FilesCtrl"
     /**
      * Enumerate the types of sources
      */
-    if ($routeParams.method === "list" && $routeParams.source === "enums")
-    {
+    if ($routeParams.method === "list" && $routeParams.source === "enums") {
         $scope.enums = $scope.sourceEnums;
 
         return(false);
@@ -19,20 +18,20 @@ uneXBMC.register.controller("source.FilesCtrl"
     else if ($routeParams.method === "list" && $scope.sourceEnums.indexOf($routeParams.source) >= 0)
     {
         $scope.$root.breadcrumb.push({title: $routeParams.source.toUpperCase()});
-        $scope.timer = new uneXBMC.util.Timer(true);
+        $scope.timer = new Kodi.util.Timer(true);
         $scope.route = $routeParams;
         MovieFactory.BuildRequest(function(data, $async)
         {
             $scope.lists = data.sources || "empty";
             $scope.timer.stop();
             $async.apply($scope);
-        }, uneXBMC.rpc.methods.Files.GetSources($routeParams.source));
+        }, Kodi.rpc.methods.Files.GetSources($routeParams.source));
     }
     else if ($scope.sourceEnums.indexOf($routeParams.method) >= 0)
     {
         $scope.$root.breadcrumb.push({title: $routeParams.method.toUpperCase(), href: "#/sources/list/"+ $routeParams.method});
         $scope.$root.breadcrumb.push({title: $routeParams.source});
-        $scope.timer = new uneXBMC.util.Timer(true);
+        $scope.timer = new Kodi.util.Timer(true);
         $scope.route = $routeParams;
 
         MovieFactory.BuildRequest(function(data, $async)
@@ -45,6 +44,6 @@ uneXBMC.register.controller("source.FilesCtrl"
 
             $scope.sources = data.files || "empty";
             $async.apply($scope);
-        },  uneXBMC.rpc.methods.Files.GetDirectory($routeParams.source, $routeParams.method));
+        },  Kodi.rpc.methods.Files.GetDirectory($routeParams.source, $routeParams.method));
     }
 }]);

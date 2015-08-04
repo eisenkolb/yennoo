@@ -1,7 +1,7 @@
-uneXBMC.register.controller("movies.CollectionCtrl"
+Yennoo.register.controller("movies.CollectionCtrl"
 , ["$scope", "$routeParams", "MovieFactory"
 , function($scope, $routeParams, MovieFactory){
-    $scope.route = {movies: uneXBMC.route.moviesIndex[0]};
+    $scope.route = {movies: Yennoo.route.moviesIndex[0]};
 
     MovieFactory.GetMovies(function(data, $async)
     {
@@ -13,12 +13,12 @@ uneXBMC.register.controller("movies.CollectionCtrl"
     {
         $scope.setdetails = MovieFactory.helper.MapMediaResponse(data.sets);
         $async.apply($scope);
-    }, uneXBMC.rpc.methods.VideoLibrary.GetMovieSets());
+    }, Kodi.rpc.methods.VideoLibrary.GetMovieSets());
 
     $scope.$watchCollection("setdetails + movielist", function()
     {
-        if (uneXBMC.util.isType($scope.setdetails, "object") === false
-        || (uneXBMC.util.isType($scope.movielist,  "object")  === false)){
+        if (Kodi.util.isType($scope.setdetails, "object") === false
+        || (Kodi.util.isType($scope.movielist,  "object")  === false)){
             return(false);
         }
 
@@ -50,8 +50,8 @@ uneXBMC.register.controller("movies.CollectionCtrl"
      * Sets the breadcrumb trail for the current page
      */
     $scope.$root.breadcrumb = [
-        {title: "MOVIES", href: uneXBMC.route.moviesIndex[0]},
-        {title: "COLLECTION", href: uneXBMC.route.collections[0]}
+        {title: "MOVIES", href: Yennoo.route.moviesIndex[0]},
+        {title: "COLLECTION", href: Yennoo.route.collections[0]}
     ];
     if ($routeParams.title) $scope.$root.breadcrumb.push({title: $routeParams.title});
 }]);

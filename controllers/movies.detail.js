@@ -1,8 +1,8 @@
-uneXBMC.register.controller("movies.DetailCtrl"
+Yennoo.register.controller("movies.DetailCtrl"
 , ["$scope", "$sce", "$sceDelegate", "$routeParams", "MovieFactory"
 , function($scope, $sce, $sceDelegate, $routeParams, MovieFactory){
-    $scope.unknown = uneXBMC.const.UNKNOWN_THUMBNAIL;
-    $scope.route   = {movies: uneXBMC.route.moviesIndex[0]};
+    $scope.unknown = Yennoo.const.UNKNOWN_THUMBNAIL;
+    $scope.route   = {movies: Yennoo.route.moviesIndex[0]};
 
     /**
      * Open trailer by using SCE service context
@@ -41,10 +41,10 @@ uneXBMC.register.controller("movies.DetailCtrl"
      * @todo Implement movie action
      */
     $scope.action = {
-        queue    : uneXBMC.util.noop,
-        start    : uneXBMC.util.noop,
-        resume   : uneXBMC.util.noop,
-        download : uneXBMC.util.noop
+        queue    : Kodi.util.noop,
+        start    : Kodi.util.noop,
+        resume   : Kodi.util.noop,
+        download : Kodi.util.noop
     };
 
     /**
@@ -52,7 +52,7 @@ uneXBMC.register.controller("movies.DetailCtrl"
      */
     MovieFactory.GetMovies(function(data, $async)
     {
-        $scope.media = MovieFactory.getCache(uneXBMC.const.TYPE_MOVIES)[$routeParams.movieid];
+        $scope.media = MovieFactory.getCache(Yennoo.const.TYPE_MOVIES)[$routeParams.movieid];
         $async.apply($scope);
     });
 
@@ -60,7 +60,7 @@ uneXBMC.register.controller("movies.DetailCtrl"
      * Sets the breadcrumb for the current page
      */
     $scope.$root.breadcrumb = [
-        {title: "MOVIES", href: uneXBMC.route.moviesIndex[0]},
+        {title: "MOVIES", href: Yennoo.route.moviesIndex[0]},
         {title: $routeParams.title}
     ];
 }]);

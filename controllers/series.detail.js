@@ -1,20 +1,20 @@
-uneXBMC.register.controller("series.DetailCtrl"
+Yennoo.register.controller("series.DetailCtrl"
 , ["$scope", "$routeParams", "mediaLibrary", "MovieFactory"
 , function($scope, $routeParams, mediaLibrary, MovieFactory){
     $scope.tvshowid = parseInt($routeParams.tvshowid);
-    $scope.unknown  = uneXBMC.const.UNKNOWN_THUMBNAIL;
-    $scope.route    = {series: uneXBMC.route.seriesIndex[0]};
-    $scope.timer    = new uneXBMC.util.Timer(true);
+    $scope.unknown  = Yennoo.const.UNKNOWN_THUMBNAIL;
+    $scope.route    = {series: Yennoo.route.seriesIndex[0]};
+    $scope.timer    = new Kodi.util.Timer(true);
 
-    $scope.play = uneXBMC.util.noop;
+    $scope.play = Kodi.util.noop;
 
-    $scope.startSeasons = uneXBMC.util.noop;
+    $scope.startSeasons = Kodi.util.noop;
 
-    $scope.queueSeasons = uneXBMC.util.noop;
+    $scope.queueSeasons = Kodi.util.noop;
 
-    $scope.startEpisode = uneXBMC.util.noop;
+    $scope.startEpisode = Kodi.util.noop;
 
-    $scope.queueEpisode = uneXBMC.util.noop;
+    $scope.queueEpisode = Kodi.util.noop;
 
     $scope.relpaceimage = function(scope, element)
     {
@@ -58,17 +58,17 @@ uneXBMC.register.controller("series.DetailCtrl"
                     this.episodes = MovieFactory.helper.MapMediaResponse(data.episodes || {});
                     $scope.episodes[this.episodes[0].season] = this.episodes;
                     $async.apply($scope);
-                }, uneXBMC.rpc.methods.VideoLibrary.GetEpisodes($scope.tvshowid, seasons[index].season));
+                }, Kodi.rpc.methods.VideoLibrary.GetEpisodes($scope.tvshowid, seasons[index].season));
             }
-        }, uneXBMC.rpc.methods.VideoLibrary.GetSeasons($scope.tvshowid));
+        }, Kodi.rpc.methods.VideoLibrary.GetSeasons($scope.tvshowid));
 
-    }, uneXBMC.rpc.methods.VideoLibrary.GetTVShowDetails(parseInt($routeParams.tvshowid)));
+    }, Kodi.rpc.methods.VideoLibrary.GetTVShowDetails(parseInt($routeParams.tvshowid)));
 
     /**
      * Sets the breadcrumb trail for the current page
      */
     $scope.$root.breadcrumb = [
-        {title: "SERIES", href: uneXBMC.route.seriesIndex[0]},
+        {title: "SERIES", href: Yennoo.route.seriesIndex[0]},
         {title: $routeParams.label}
     ];
 }]);

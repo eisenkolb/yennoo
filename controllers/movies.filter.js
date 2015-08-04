@@ -1,9 +1,9 @@
-uneXBMC.register.controller("movies.FilterCtrl"
+Yennoo.register.controller("movies.FilterCtrl"
 , ["$scope", "$routeParams", "$translate", "MovieFactory"
 , function($scope, $routeParams, $translate, MovieFactory){
-    $scope.timer      = new uneXBMC.util.Timer(true);
-    $scope.translate  = "PROPERTY."+ $routeParams.filter.toUpperCase();
-    $scope.route      = {movies: uneXBMC.route.moviesIndex[0]};
+    $scope.timer     = new Kodi.util.Timer(true);
+    $scope.translate = "PROPERTY."+ $routeParams.filter.toUpperCase();
+    $scope.route     = {movies: Yennoo.route.moviesIndex[0]};
 
     $translate($scope.translate).then(function (translation){
         if ($scope.translate === translation) return false;
@@ -18,8 +18,8 @@ uneXBMC.register.controller("movies.FilterCtrl"
 
         for(var index in data){
             var regex = new RegExp(values, "i");
-            if (uneXBMC.util.isType(data[index][filter], "undefined") === false) {
-                if (!uneXBMC.util.isType(data[index][filter], "object")
+            if (Kodi.util.isType(data[index][filter], "undefined") === false){
+                if (!Kodi.util.isType(data[index][filter], "object")
                 && (data[index][filter] == values ||data[index][filter] !== null)
                 && (regex.test(data[index][filter].toString()))) {
                     movies.push(data[index]);
@@ -37,7 +37,7 @@ uneXBMC.register.controller("movies.FilterCtrl"
      * Sets the breadcrumb trail for the current page
      */
     $scope.$root.breadcrumb = [
-        {title: "MOVIES", href: uneXBMC.route.moviesIndex[0]},
+        {title: "MOVIES", href: Yennoo.route.moviesIndex[0]},
         {title: $routeParams.filter},
         {title: $routeParams.value}
     ];

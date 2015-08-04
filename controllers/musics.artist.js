@@ -1,4 +1,4 @@
-uneXBMC.register.controller("musics.ArtistCtrl", ["$scope", "MovieFactory", function($scope, MovieFactory){
+Yennoo.register.controller("musics.ArtistCtrl", ["$scope", "MovieFactory", function($scope, MovieFactory){
     $scope.tracks   = {};
     $scope.artists  = {};
     $scope.alphabet = {};
@@ -31,12 +31,12 @@ uneXBMC.register.controller("musics.ArtistCtrl", ["$scope", "MovieFactory", func
             $scope.tracks[album.albumid] = songs;
             $async.apply($scope);
 
-        }, uneXBMC.rpc.methods.AudioLibrary.GetSongs(null, null,null, {albumid: Number(album.albumid)}));
+        }, Kodi.rpc.methods.AudioLibrary.GetSongs(null, null,null, {albumid: Number(album.albumid)}));
 
     };
 
     $scope.openAlbumTracks = function(album){
-        if (album && album.albumid && $scope.tracks[album.albumid]) {
+        if (album && album.albumid && $scope.tracks[album.albumid]){
             return(true);
         }
 
@@ -97,7 +97,7 @@ uneXBMC.register.controller("musics.ArtistCtrl", ["$scope", "MovieFactory", func
                     done(image.src);
                 };
                 image.onerror = function(){
-                    done(uneXBMC.const.ALBUM_COVER_FRAME);
+                    done(Yennoo.const.ALBUM_COVER_FRAME);
                 };
             }
         });

@@ -1,8 +1,8 @@
-uneXBMC.register.controller("config.PrefsCtrl"
+Yennoo.register.controller("config.PrefsCtrl"
 , ["$scope", "$translate", "Locale", "Transporter"
 , function($scope, $translate, Locale, Transporter){
     $scope.openTabName = null;
-    $scope.application = uneXBMC.application;
+    $scope.application = Yennoo.application;
 
     /**
      * Section: Language
@@ -11,8 +11,8 @@ uneXBMC.register.controller("config.PrefsCtrl"
     $scope.languageUsed  = Locale.GetLanguage();
     $scope.languageNames = Locale.languageNames;
     $scope.displayNotify = function(message){
-        uneXBMC.util.notify.new({
-            type: uneXBMC.util.notify.types.INFO,
+        Kodi.util.notify.new({
+            type: Kodi.util.notify.types.INFO,
             time: 3000,
             body: message
         }).show();
@@ -22,8 +22,8 @@ uneXBMC.register.controller("config.PrefsCtrl"
     {
         if (Locale.GetLanguage() !== language && language){
             Locale.GetService().use(language).then(function(){
-                uneXBMC.setting.language = Locale.language = language;
-                uneXBMC.cookie.save(JSON.stringify(uneXBMC.setting));
+                Yennoo.setting.language = Locale.language = language;
+                Yennoo.cookie.save(JSON.stringify(Yennoo.setting));
 
                 $translate("SETTING.LANGUAGE_CHANGED", {language: $scope.languageNames[language]+ " ("+ language+ ")"}).then(function(translation){
                     $scope.displayNotify(translation);
@@ -56,7 +56,7 @@ uneXBMC.register.controller("config.PrefsCtrl"
     };
 
     $scope.$on("overlay:settings:open", function(event, data){
-        if (data) {
+        if (data){
             $scope.messages = data || [];
             $scope.$apply();
         }
@@ -70,12 +70,11 @@ uneXBMC.register.controller("config.PrefsCtrl"
     });
 
     $scope.$on("overlay:settings:toggle", function(){
-        if (angular.element("#drop-settings").is(":visible")) {
+        if (angular.element("#drop-settings").is(":visible")){
             return($scope.overlaySettingsClose());
         }
 
         $scope.overlaySettingsOpen();
-
     });
 
     /**
@@ -97,8 +96,8 @@ uneXBMC.register.controller("config.PrefsCtrl"
 
     $scope.saveTransporter = function(event)
     {
-        this.setting = angular.extend(uneXBMC.setting, $scope.changed);
-        uneXBMC.cookie.save(JSON.stringify(this.setting), function(){
+        this.setting = angular.extend(Yennoo.setting, $scope.changed);
+        Yennoo.cookie.save(JSON.stringify(this.setting), function(){
             document.location.reload();
         });
 
@@ -126,6 +125,6 @@ uneXBMC.register.controller("config.PrefsCtrl"
     for(var index = 0; index < available.length; index++){
         var name  = available[index];
         $scope.transporters.available[name] = Transporter.Transporter(name).defaults;
-        $scope.changed.transport[name] = uneXBMC.setting.transport && uneXBMC.setting.transport[name] || {};
+        $scope.changed.transport[name] = Yennoo.setting.transport && Yennoo.setting.transport[name] || {};
     }
 }]);

@@ -1,4 +1,4 @@
-uneXBMC.register.controller("musics.IndexCtrl"
+Yennoo.register.controller("musics.IndexCtrl"
 , ["$scope", "MovieFactory"
 , function($scope, MovieFactory){
     $scope.artistsSongs = {};
@@ -24,7 +24,7 @@ uneXBMC.register.controller("musics.IndexCtrl"
                     done(image.src);
                 };
                 image.onerror = function(){
-                    done(uneXBMC.const.ALBUM_COVER_FRAME);
+                    done(Yennoo.const.ALBUM_COVER_FRAME);
                 };
             }
         });
@@ -32,12 +32,12 @@ uneXBMC.register.controller("musics.IndexCtrl"
 
     $scope.startPlayback = function(item, callback)
     {
-        MovieFactory.BuildRequest(uneXBMC.util.noop, uneXBMC.rpc.methods.Playlist.Clear(0));
-        MovieFactory.BuildRequest(uneXBMC.util.noop, uneXBMC.rpc.methods.Playlist.Add(0, item));
-        MovieFactory.BuildRequest(uneXBMC.rpc.methods.Player.Open({playlistid: 0}));
+        MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.Playlist.Clear(0));
+        MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.Playlist.Add(0, item));
+        MovieFactory.BuildRequest(Kodi.rpc.methods.Player.Open({playlistid: 0}));
         MovieFactory.BuildRequest(function(data, $async){
             if (data && data === "OK") $async.apply($scope, callback);
-        }, uneXBMC.rpc.methods.Player.Open({playlistid: 0}));
+        }, Kodi.rpc.methods.Player.Open({playlistid: 0}));
     };
 
     $scope.openAlbum = function(album, queue)
@@ -76,7 +76,7 @@ uneXBMC.register.controller("musics.IndexCtrl"
             $scope.artistsSongs[album] = songs;
             $async.apply($scope);
 
-        }, uneXBMC.rpc.methods.AudioLibrary.GetSongs(null, null,null, {albumid: parseInt(album)}));
+        }, Kodi.rpc.methods.AudioLibrary.GetSongs(null, null,null, {albumid: parseInt(album)}));
     };
 
     MovieFactory.GetAlbums(function(data, $async)
@@ -88,5 +88,5 @@ uneXBMC.register.controller("musics.IndexCtrl"
     /**
      * Sets the breadcrumb trail for the current page
      */
-    $scope.$root.breadcrumb = [{title: "MUSIC", href: uneXBMC.route.musicsIndex[0]}];
+    $scope.$root.breadcrumb = [{title: "MUSIC", href: Yennoo.route.musicsIndex[0]}];
 }]);

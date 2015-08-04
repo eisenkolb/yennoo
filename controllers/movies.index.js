@@ -1,9 +1,9 @@
-uneXBMC.register.controller("movies.IndexCtrl"
+Yennoo.register.controller("movies.IndexCtrl"
 , ["$scope", "$routeParams", "MovieFactory"
 , function($scope, $routeParams,MovieFactory){
-    $scope.timer = new uneXBMC.util.Timer(true);
+    $scope.timer = new Kodi.util.Timer(true);
     $scope.page  = $routeParams.page || null;
-    $scope.route = {movies: uneXBMC.route.moviesIndex[0]};
+    $scope.route = {movies: Yennoo.route.moviesIndex[0]};
 
     MovieFactory.GetMovies(function(data, $async)
     {
@@ -15,5 +15,5 @@ uneXBMC.register.controller("movies.IndexCtrl"
     /**
      * Sets the breadcrumb trail for the current page
      */
-    $scope.$root.breadcrumb = [{title: "MOVIES", href: uneXBMC.route.moviesIndex[0]}];
+    $scope.$root.breadcrumb = [{title: "MOVIES", href: Yennoo.route.moviesIndex[0]}];
 }]);

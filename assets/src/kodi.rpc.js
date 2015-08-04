@@ -1,22 +1,29 @@
 /**!
- * uneXBMC.rpc.js | XBMC JSON-RPC API
+ * @fileOverview XBMC/Kodi JSON-RPC API Methods
+ *
+ * @author  [Ronny Eisenkolb]{@link https://github.com/eisenkolb}
+ * @version 1.1.2
+ * @license Yennoo : Web Interface for XBMC/Kodi<br>
+ *          Copyright (c) 2015, Ronny Eisenkolb (@eisenkolb)<br>
+ *          License: [MIT License]{@link http://www.opensource.org/licenses/MIT}
  */
-(function(window, uneXBMC) {"use strict";
+(function(window, Kodi){
+    "use strict";
 
     /**
      * @namespace
-     * @extends {uneXBMC}
+     * @extends {Kodi}
      */
-    uneXBMC.rpc = {};
+    Kodi.rpc = {};
 
     /**
      * JSON-RPC APIMethods
      *
      * @namespace
-     * @extends {uneXBMC.rpc}
+     * @extends {Kodi.rpc}
      * @version API Version 6
      */
-    uneXBMC.rpc.methods = {
+    Kodi.rpc.methods = {
 
         /**
          * Methods Addons
@@ -113,15 +120,15 @@
             /**
              * Retrieve all albums from specified artist or genre
              *
-             * @param  {array}  [properties=~Audio.Fields.Album[0]] {@link uneXBMC.rpc.methods.Audio.Fields.Album}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~Audio.Fields.Album[0]] {@link Kodi.rpc.methods.Audio.Fields.Album}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetAlbums: function(properties, limits, sort ){
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Audio.Fields.Album.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Audio.Fields.Album.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "AudioLibrary.GetAlbums",
@@ -132,17 +139,17 @@
             /**
              * Retrieve all songs from specified album, artist or genre
              *
-             * @param  {array}  [properties=~Audio.Fields.Song[0]] {@link uneXBMC.rpc.methods.Audio.Fields.Song}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~Audio.Fields.Song[0]] {@link Kodi.rpc.methods.Audio.Fields.Song}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @param  {object} [filter=null]
              * @return {object}
              */
             GetSongs: function(properties, limits, sort, filter){
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Audio.Fields.Song.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
-                this.filter     = uneXBMC.util.isObject(filter)    ? filter     : {};
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Audio.Fields.Song.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
+                this.filter     = Kodi.util.isObject(filter)    ? filter     : {};
 
                 return({
                     method: "AudioLibrary.GetSongs",
@@ -230,15 +237,15 @@
             /**
              * Get the sources of the media windows
              *
-             * @param  {string} [media=~Files.Media[0]] {@link uneXBMC.rpc.methods.Files.Media}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {string} [media=~Files.Media[0]] {@link Kodi.rpc.methods.Files.Media}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetSources: function(media, limits, sort){
-                this.media  = uneXBMC.util.isString(media)  ? media  : uneXBMC.rpc.methods.Media.enums[1];
-                this.limits = uneXBMC.util.isObject(limits) ? limits : uneXBMC.rpc.methods.List.Limits;
-                this.sort   = uneXBMC.util.isObject(sort)   ? sort   : uneXBMC.rpc.methods.List.Sort;
+                this.media  = Kodi.util.isString(media)  ? media  : Kodi.rpc.methods.Media.enums[1];
+                this.limits = Kodi.util.isObject(limits) ? limits : Kodi.rpc.methods.List.Limits;
+                this.sort   = Kodi.util.isObject(sort)   ? sort   : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "Files.GetSources",
@@ -250,13 +257,13 @@
              * Get the directories and files in the given directory
              *
              * @param  {string} directory
-             * @param  {string} [media=~Files.Media[]] {@link uneXBMC.rpc.methods.Files.Media}
+             * @param  {string} [media=~Files.Media[]] {@link Kodi.rpc.methods.Files.Media}
              * @param  {array}  [properties=[]]
              * @return {object}
              */
             GetDirectory: function(directory, media, properties){
-                this.media      = uneXBMC.util.isString(media)     ? media      : uneXBMC.rpc.methods.Media.enums[0];
-                this.properties = uneXBMC.util.isArray(properties) ? properties : ["title", "year", "set", "setid", "size", "mimetype"];
+                this.media      = Kodi.util.isString(media)     ? media      : Kodi.rpc.methods.Media.enums[0];
+                this.properties = Kodi.util.isArray(properties) ? properties : ["title", "year", "set", "setid", "size", "mimetype"];
 
                 return({
                     method: "Files.GetDirectory",
@@ -312,9 +319,9 @@
              * @return {object}
              */
             Introspect: function(getdescriptions, getmetadata, filterbytransport){
-                this.getdescriptions   = uneXBMC.util.isBoolean(getdescriptions)   ? getdescriptions   : true;
-                this.getmetadata       = uneXBMC.util.isBoolean(getmetadata)       ? getmetadata       : true;
-                this.filterbytransport = uneXBMC.util.isBoolean(filterbytransport) ? filterbytransport : true;
+                this.getdescriptions   = Kodi.util.isBoolean(getdescriptions)   ? getdescriptions   : true;
+                this.getmetadata       = Kodi.util.isBoolean(getmetadata)       ? getmetadata       : true;
+                this.filterbytransport = Kodi.util.isBoolean(filterbytransport) ? filterbytransport : true;
 
                 return({
                     method: "JSONRPC.Introspect",
@@ -448,11 +455,11 @@
              * Retrieves the currently played item
              *
              * @param  {number} playerid
-             * @param  {array}  [properties=~Player.Property.Value[]] {@link uneXBMC.rpc.methods.Player.Property.Value}
+             * @param  {array}  [properties=~Player.Property.Value[]] {@link Kodi.rpc.methods.Player.Property.Value}
              * @return {object}
              */
             GetItem: function(playerid, properties){
-                this.param = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.fieldsAll.enums;
+                this.param = Kodi.util.isArray(properties) ? properties : Kodi.rpc.fieldsAll.enums;
 
                 return({
                     method: "Player.GetItem",
@@ -464,11 +471,11 @@
              * Retrieves the values of the given properties
              *
              * @param  {number} playerid
-             * @param  {array}  [properties=~Player.Property.Value[]] {@link uneXBMC.rpc.methods.Player.Property.Value}
+             * @param  {array}  [properties=~Player.Property.Value[]] {@link Kodi.rpc.methods.Player.Property.Value}
              * @return {object}
              */
             GetProperties: function(playerid, properties){
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Player.Property.Value;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Player.Property.Value;
 
                 return({
                     method: "Player.GetProperties",
@@ -529,8 +536,8 @@
              * @return {object}
              */
             PlayPause: function(playerid, play){
-                this.playerid = uneXBMC.util.isNumber(playerid) ? playerid : parseInt(playerid);
-                this.play     = uneXBMC.util.isUndefined(play)  ? "toggle" : play;
+                this.playerid = Kodi.util.isNumber(playerid) ? playerid : parseInt(playerid);
+                this.play     = Kodi.util.isUndefined(play)  ? "toggle" : play;
 
                 return({
                     method: "Player.PlayPause",
@@ -546,7 +553,7 @@
              * @return {object}
              */
             Rotate: function(playerid, value){
-                this.value = uneXBMC.util.isString(value) ? value : "clockwise" ;
+                this.value = Kodi.util.isString(value) ? value : "clockwise" ;
 
                 return({
                     method: "Player.Rotate",
@@ -562,7 +569,7 @@
              * @return {object}
              */
             Seek: function(playerid, value){
-                this.playerid  = uneXBMC.util.isNumber(playerid) ? playerid : parseInt(playerid);
+                this.playerid = Kodi.util.isNumber(playerid) ? playerid : parseInt(playerid);
 
                 return({
                     method: "Player.Seek",
@@ -578,7 +585,7 @@
              * @return {object}
              */
             SetAudioStream: function(playerid, stream){
-                this.playerid  = uneXBMC.util.isNumber(playerid) ? playerid : parseInt(playerid);
+                this.playerid = Kodi.util.isNumber(playerid) ? playerid : parseInt(playerid);
 
                 return({
                     method: "Player.SetAudioStream",
@@ -594,8 +601,8 @@
              * @return {object}
              */
             SetPartymode: function(playerid, partymode){
-                this.playerid  = uneXBMC.util.isNumber(playerid)     ? playerid : parseInt(playerid);
-                this.partymode = uneXBMC.util.isUndefined(partymode) ? "toggle" : partymode;
+                this.playerid  = Kodi.util.isNumber(playerid)     ? playerid : parseInt(playerid);
+                this.partymode = Kodi.util.isUndefined(partymode) ? "toggle" : partymode;
 
                 return({
                     method: "Player.SetPartymode",
@@ -611,7 +618,7 @@
              * @return {object}
              */
             SetRepeat: function(playerid, repeat){
-                this.playerid = uneXBMC.util.isNumber(playerid) ? playerid : parseInt(playerid);
+                this.playerid = Kodi.util.isNumber(playerid) ? playerid : parseInt(playerid);
 
                 return({
                     method: "Player.SetRepeat",
@@ -627,8 +634,8 @@
              * @return {object}
              */
             SetShuffle: function(playerid, shuffle){
-                this.playerid = uneXBMC.util.isNumber(playerid)   ? playerid : parseInt(playerid);
-                this.shuffle  = uneXBMC.util.isUndefined(shuffle) ? "toggle" : shuffle;
+                this.playerid = Kodi.util.isNumber(playerid)   ? playerid : parseInt(playerid);
+                this.shuffle  = Kodi.util.isUndefined(shuffle) ? "toggle" : shuffle;
 
                 return({
                     method: "Player.SetShuffle",
@@ -644,7 +651,7 @@
              * @return {object}
              */
             SetSpeed: function(playerid, speed){
-                this.playerid = uneXBMC.util.isNumber(playerid) ? playerid : parseInt(playerid);
+                this.playerid = Kodi.util.isNumber(playerid) ? playerid : parseInt(playerid);
 
                 return({
                     method: "Player.SetSpeed",
@@ -661,8 +668,8 @@
              * @return {object}
              */
             SetSubtitle: function(playerid, subtitle, enable){
-                this.playerid = uneXBMC.util.isNumber(playerid) ? playerid : parseInt(playerid);
-                this.enable   = uneXBMC.util.isBoolean(enable)  ? enable   : true;
+                this.playerid = Kodi.util.isNumber(playerid) ? playerid : parseInt(playerid);
+                this.enable   = Kodi.util.isBoolean(enable)  ? enable   : true;
 
                 return({
                     method: "Player.SetSubtitle",
@@ -677,7 +684,7 @@
              * @return {object}
              */
             Stop: function(playerid){
-                this.playerid = uneXBMC.util.isNumber(playerid) ? playerid : parseInt(playerid);
+                this.playerid = Kodi.util.isNumber(playerid) ? playerid : parseInt(playerid);
 
                 return({
                     method: "Player.Stop",
@@ -693,7 +700,7 @@
              * @return {object}
              */
             Zoom: function(playerid, zoom){
-                this.playerid = uneXBMC.util.isNumber(playerid) ? playerid : parseInt(playerid);
+                this.playerid = Kodi.util.isNumber(playerid) ? playerid : parseInt(playerid);
 
                 return({
                     method: "Player.Zoom",
@@ -732,7 +739,7 @@
              * @return {object}
              */
             Add: function(playlistid, item){
-                this.playlistid  = uneXBMC.util.isNumber(playlistid) ? playlistid : parseInt(playlistid);
+                this.playlistid = Kodi.util.isNumber(playlistid) ? playlistid : parseInt(playlistid);
 
                 return({
                     method: "Playlist.Add",
@@ -747,7 +754,7 @@
              * @return {object}
              */
             Clear: function(playlistid){
-                this.playlistid  = uneXBMC.util.isNumber(playlistid) ? playlistid : parseInt(playlistid);
+                this.playlistid = Kodi.util.isNumber(playlistid) ? playlistid : parseInt(playlistid);
 
                 return({
                     method: "Playlist.Clear",
@@ -759,15 +766,15 @@
              * Get all items from playlist
              *
              * @param  {number} playlistid
-             * @param  {array}  [properties=~List.Fields.All[]] {@link uneXBMC.rpc.methods.List.Fields.All}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~List.Fields.All[]] {@link Kodi.rpc.methods.List.Fields.All}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetItems: function(playlistid, properties, limits, sort){
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.List.Fields.All.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.List.Fields.All.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "Playlist.GetItems",
@@ -789,12 +796,12 @@
              * Retrieves the values of the given properties
              *
              * @param  {number} playlistid
-             * @param  {array}  [properties=~Playlist.Property.Name[]] {@link uneXBMC.rpc.methods.Playlist.Property.Name}
+             * @param  {array}  [properties=~Playlist.Property.Name[]] {@link Kodi.rpc.methods.Playlist.Property.Name}
              * @return {object}
              */
             GetProperties: function(playlistid, properties){
-                this.playlistid = uneXBMC.util.isNumber(playlistid) ? playlistid : parseInt(playlistid);
-                this.properties = uneXBMC.util.isArray(properties)  ? properties : uneXBMC.rpc.methods.Playlist.Property.Name.enums[0];
+                this.playlistid = Kodi.util.isNumber(playlistid) ? playlistid : parseInt(playlistid);
+                this.properties = Kodi.util.isArray(properties)  ? properties : Kodi.rpc.methods.Playlist.Property.Name.enums[0];
 
                 return({
                     method: "Playlist.GetProperties",
@@ -916,12 +923,12 @@
              * Retrieve details about a specific tv show episode
              *
              * @param  {number} episodeid
-             * @param  {array} [properties=~Video.Fields.Episode[]] {@link uneXBMC.rpc.methods.Video.Fields.Episode}
+             * @param  {array} [properties=~Video.Fields.Episode[]] {@link Kodi.rpc.methods.Video.Fields.Episode}
              * @return {object}
              */
             GetEpisodeDetails: function(episodeid, properties){
-                this.episodeid  = uneXBMC.util.isNumber(episodeid) ? episodeid  : parseInt(episodeid);
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.Episode.enums;
+                this.episodeid  = Kodi.util.isNumber(episodeid) ? episodeid  : parseInt(episodeid);
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.Episode.enums;
 
                 return({
                     method: "VideoLibrary.GetEpisodeDetails",
@@ -934,17 +941,17 @@
              *
              * @param  {number} [tvshowid=-1]
              * @param  {number} [season=-1]
-             * @param  {array}  [properties=~Video.Fields.Episode[]] {@link uneXBMC.rpc.methods.Video.Fields.Episode}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~Video.Fields.Episode[]] {@link Kodi.rpc.methods.Video.Fields.Episode}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetEpisodes: function(tvshowid, season, properties, limits, sort){
-                this.tvshowid   = uneXBMC.util.isNumber(tvshowid)  ? tvshowid   : -1;
-                this.season     = uneXBMC.util.isNumber(season)    ? season     : 0;
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.Episode.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
+                this.tvshowid   = Kodi.util.isNumber(tvshowid)  ? tvshowid   : -1;
+                this.season     = Kodi.util.isNumber(season)    ? season     : 0;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.Episode.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "VideoLibrary.GetEpisodes",
@@ -956,15 +963,15 @@
              * Retrieve all genres
              *
              * @param  {string} type
-             * @param  {array}  [properties=~Library.Fields.Genre[]] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~Library.Fields.Genre[]] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetGenres: function(type, properties, limits, sort){
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Library.Fields.Genre.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Library.Fields.Genre.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "VideoLibrary.GetGenres",
@@ -976,12 +983,12 @@
              * Retrieve details about a specific movie
              *
              * @param  {number} movieid
-             * @param  {array}  [properties=~Video.Fields.Movie[]] {@link uneXBMC.rpc.methods.Video.Fields.Movie}
+             * @param  {array}  [properties=~Video.Fields.Movie[]] {@link Kodi.rpc.methods.Video.Fields.Movie}
              * @return {object}
              */
             GetMovieDetails: function(movieid, properties){
-                this.movieid    = uneXBMC.util.isNumber(movieid)   ? movieid    : parseInt(movieid);
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.Movie.enums;
+                this.movieid    = Kodi.util.isNumber(movieid)   ? movieid    : parseInt(movieid);
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.Movie.enums;
 
                 return({
                     method: "VideoLibrary.GetMovieDetails",
@@ -993,12 +1000,12 @@
              * Retrieve details about a specific movie set
              *
              * @param  {number} setid
-             * @param  {array}  [properties=~Video.Fields.MovieSet[]] {@link uneXBMC.rpc.methods.Video.Fields.MovieSet}
+             * @param  {array}  [properties=~Video.Fields.MovieSet[]] {@link Kodi.rpc.methods.Video.Fields.MovieSet}
              * @return {object}
              */
             GetMovieSetDetails: function(setid, properties){
-                this.setid      = uneXBMC.util.isNumber(setid)     ? setid      : parseInt(setid);
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.MovieSet.enums;
+                this.setid      = Kodi.util.isNumber(setid)     ? setid      : parseInt(setid);
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.MovieSet.enums;
 
                 return({
                     method: "VideoLibrary.GetMovieSetDetails",
@@ -1009,15 +1016,15 @@
             /**
              * Retrieve all movie sets
              *
-             * @param  {array}  [properties=~Video.Fields.MovieSet[]] {@link uneXBMC.rpc.methods.Video.Fields.MovieSet}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~Video.Fields.MovieSet[]] {@link Kodi.rpc.methods.Video.Fields.MovieSet}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetMovieSets: function(properties, limits, sort){
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.MovieSet.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.MovieSet.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "VideoLibrary.GetMovieSets",
@@ -1028,15 +1035,15 @@
             /**
              * Retrieve all movies
              *
-             * @param  {array}  [properties=~Video.Fields.Movie[]] {@link uneXBMC.rpc.methods.Video.Fields.Movie}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~Video.Fields.Movie[]] {@link Kodi.rpc.methods.Video.Fields.Movie}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetMovies: function(properties, limits, sort){
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.Movie.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.Movie.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "VideoLibrary.GetMovies",
@@ -1048,12 +1055,12 @@
              * Retrieve details about a specific music video
              *
              * @param  {number} musicvideoid
-             * @param  {array}  [properties=~Video.Fields.MusicVideo[]] {@link uneXBMC.rpc.methods.Video.Fields.MusicVideo}
+             * @param  {array}  [properties=~Video.Fields.MusicVideo[]] {@link Kodi.rpc.methods.Video.Fields.MusicVideo}
              * @return {object}
              */
             GetMusicVideoDetails: function(musicvideoid, properties){
-                this.musicvideoid = uneXBMC.util.isNumber(musicvideoid) ? musicvideoid : parseInt(musicvideoid);
-                this.properties   = uneXBMC.util.isArray(properties)    ? properties   : uneXBMC.rpc.methods.Video.Fields.MusicVideo.enums;
+                this.musicvideoid = Kodi.util.isNumber(musicvideoid) ? musicvideoid : parseInt(musicvideoid);
+                this.properties   = Kodi.util.isArray(properties)    ? properties   : Kodi.rpc.methods.Video.Fields.MusicVideo.enums;
 
                 return({
                     method: "VideoLibrary.GetMusicVideoDetails",
@@ -1064,15 +1071,15 @@
             /**
              * Retrieve all music videos
              *
-             * @param  {array}  [properties=~Video.Fields.MusicVideo[]] {@link uneXBMC.rpc.methods.Video.Fields.MusicVideo}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~Video.Fields.MusicVideo[]] {@link Kodi.rpc.methods.Video.Fields.MusicVideo}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetMusicVideos: function(properties, limits, sort){
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.MusicVideo.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.MusicVideo.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "VideoLibrary.GetMusicVideos",
@@ -1083,15 +1090,15 @@
             /**
              * Retrieve all recently added tv episodes
              *
-             * @param  {array}  [properties=~Video.Fields.Episode[]] {@link uneXBMC.rpc.methods.Video.Fields.Episode}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~Video.Fields.Episode[]] {@link Kodi.rpc.methods.Video.Fields.Episode}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetRecentlyAddedEpisodes: function(properties, limits, sort){
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.Episode.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.Episode.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "VideoLibrary.GetRecentlyAddedEpisodes",
@@ -1102,15 +1109,15 @@
             /**
              * Retrieve all recently added movies
              *
-             * @param  {array}  [properties=~Video.Fields.Movie[]] {@link uneXBMC.rpc.methods.Video.Fields.Movie}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~Video.Fields.Movie[]] {@link Kodi.rpc.methods.Video.Fields.Movie}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetRecentlyAddedMovies: function(properties, limits, sort){
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.Movie.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.Movie.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "VideoLibrary.GetRecentlyAddedMovies",
@@ -1121,15 +1128,15 @@
             /**
              * Retrieve all recently added music videos
              *
-             * @param  {array}  [properties=~Video.Fields.MusicVideo[]] {@link uneXBMC.rpc.methods.Video.Fields.MusicVideo}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~Video.Fields.MusicVideo[]] {@link Kodi.rpc.methods.Video.Fields.MusicVideo}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetRecentlyAddedMusicVideos: function(properties, limits, sort){
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.MusicVideo.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.MusicVideo.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "VideoLibrary.GetRecentlyAddedMusicVideos",
@@ -1141,16 +1148,16 @@
              * Retrieve all tv seasons
              *
              * @param  {number} tvshowid
-             * @param  {array}  [properties=~Video.Fields.Season[]] {@link uneXBMC.rpc.methods.Video.Fields.Season}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~Video.Fields.Season[]] {@link Kodi.rpc.methods.Video.Fields.Season}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetSeasons: function(tvshowid, properties, limits, sort){
-                this.tvshowid   = uneXBMC.util.isNumber(tvshowid)  ? tvshowid   : parseInt(tvshowid);
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.Season.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
+                this.tvshowid   = Kodi.util.isNumber(tvshowid)  ? tvshowid   : parseInt(tvshowid);
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.Season.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "VideoLibrary.GetSeasons",
@@ -1162,12 +1169,12 @@
              * Retrieve details about a specific tv show
              *
              * @param  {number} tvshowid
-             * @param  {array}  [properties=~Video.Fields.TVShow[]] {@link uneXBMC.rpc.methods.Video.Fields.TVShow}
+             * @param  {array}  [properties=~Video.Fields.TVShow[]] {@link Kodi.rpc.methods.Video.Fields.TVShow}
              * @return {object}
              */
             GetTVShowDetails: function(tvshowid, properties){
-                this.tvshowid   = uneXBMC.util.isNumber(tvshowid)  ? tvshowid   : parseInt(tvshowid);
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.TVShow.enums;
+                this.tvshowid   = Kodi.util.isNumber(tvshowid)  ? tvshowid   : parseInt(tvshowid);
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.TVShow.enums;
 
                 return({
                     method: "VideoLibrary.GetTVShowDetails",
@@ -1178,15 +1185,15 @@
             /**
              * Retrieve all tv shows
              *
-             * @param  {array}  [properties=~Video.Fields.TVShow[]] {@link uneXBMC.rpc.methods.Video.Fields.TVShow}
-             * @param  {object} [limits=~List.Limits] {@link uneXBMC.rpc.methods.List.Limits}
-             * @param  {object} [sort=~List.Sort] {@link uneXBMC.rpc.methods.List.Sort}
+             * @param  {array}  [properties=~Video.Fields.TVShow[]] {@link Kodi.rpc.methods.Video.Fields.TVShow}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
              */
             GetTVShows: function(properties, limits, sort){
-                this.properties = uneXBMC.util.isArray(properties) ? properties : uneXBMC.rpc.methods.Video.Fields.TVShow.enums;
-                this.limits     = uneXBMC.util.isObject(limits)    ? limits     : uneXBMC.rpc.methods.List.Limits;
-                this.sort       = uneXBMC.util.isObject(sort)      ? sort       : uneXBMC.rpc.methods.List.Sort;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.TVShow.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
 
                 return({
                     method: "VideoLibrary.GetTVShows",
@@ -1201,7 +1208,7 @@
              * @return {object}
              */
             Scan: function(directory){
-                this.directory = uneXBMC.util.isString(directory) ? directory : "";
+                this.directory = Kodi.util.isString(directory) ? directory : "";
 
                 return({
                     method: "VideoLibrary.Scan",
@@ -1220,4 +1227,4 @@
         }
     };
 
-})(window, (/** @namespace uneXBMC **/ window.uneXBMC || {}));
+})(window, (window.Kodi || {}));
