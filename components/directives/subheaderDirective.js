@@ -1,6 +1,7 @@
-angular.module("Kodi.Directive", []).directive("subheader", ["Navigation", "$location", "$filter", "$compile", function(Navigation, $location, $filter, $compile){return{
+angular.module("Kodi.Directive").directive("subheader", ["$compile", function($compile){return{
     restrict: "A",
-    controller: function($scope, $compile){
+    controller: function($scope, $compile)
+    {
         $scope.$compile = $compile;
         $scope.$watchCollection("represent", function(represent)
         {

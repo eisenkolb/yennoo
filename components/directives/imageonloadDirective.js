@@ -1,4 +1,4 @@
-angular.module("Kodi.Directive", []).directive("imageonload", function(){return{
+angular.module("Kodi.Directive").directive("imageonload", function(){return{
     restrict: "A",
     scope: {
         media: "@"

@@ -1,16 +1,11 @@
 <div class="page-margin">
-    <script type="text/ng-template" id="/pager.html">
-        <div ng-transclude class="transclude"></div>
-    </script>
 
-    <div ng-if="tvshows.length">
-        <div subheader="right/replace">
-            <ul class="button-group left radius">
-                <li><a href="" class="button minimal" ng-click="represent.tvshows = 'poster'"><i class="fa fa-th"></i></a></li>
-                <li><a href="" class="button minimal" ng-click="represent.tvshows = 'simply'"><i class="fa fa-list"></i></a></li>
-                <li><a href="" class="button minimal" ng-click="represent.tvshows = 'banner'"><i class="fa fa-align-justify"></i></a></li>
-            </ul>
-        </div>
+    <div subheader="right/replace" ng-if="tvshows.length" class="hide">
+        <ul class="button-group left radius">
+            <li><a href="" class="button minimal" ng-click="represent.tvshows = 'poster'"><i class="fa fa-th"></i></a></li>
+            <li><a href="" class="button minimal" ng-click="represent.tvshows = 'simply'"><i class="fa fa-list"></i></a></li>
+            <li><a href="" class="button minimal" ng-click="represent.tvshows = 'banner'"><i class="fa fa-align-justify"></i></a></li>
+        </ul>
     </div>
 
     <div ng-if="tvshows.length === 0" data-alert class="alert-box info" style="margin: -10px 0 10px;">

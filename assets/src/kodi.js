@@ -10,10 +10,11 @@
 (function(window, Yennoo){
     "use strict";
 
+    angular.module("Kodi.Directive", []);
     angular.module("Kodi.Transport", ["Kodi.APIservice", "Kodi.Transporter", "Kodi.Factory"])
            .value("mediaLibrary", {limits: {}});
-    angular.module("Kodi.UI",["Kodi.Navigation"]);
-    angular.module("Kodi.Dependencies",["ngRoute"]);
+    angular.module("Kodi.UI", ["Kodi.Navigation"]);
+    angular.module("Kodi.Dependencies", ["ngRoute", "Kodi.Directive"]);
     angular.module("Kodi.Core",["Kodi.Locale", "Kodi.Directive", "Kodi.Dependencies"]);
 
     Yennoo = angular.module("Yennoo", ["Kodi.Core", "Kodi.Transport", "Kodi.UI"]);
@@ -74,11 +75,10 @@
     });
 
     Yennoo.value("asyncApply",{
-        apply: function($scope, callback){
-            if ($scope.$root && $scope.$root.$$phase == "$apply"
-            || ($scope.$root && $scope.$root.$$phase == "$digest")){
-               (Kodi.util.isFunction(callback) ? callback : Kodi.util.noop)();
-            } else $scope.$apply(callback);
+        apply: function($scope, fn){
+            if ($scope.$root && $scope.$root.$$phase == "$apply" || $scope.$root && $scope.$root.$$phase == "$digest"){
+                ((fn && Kodi.util.isType(fn, "function")) ? fn : Kodi.util.noop)();
+            } else $scope.$apply(fn);
         }
     });
 

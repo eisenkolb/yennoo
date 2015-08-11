@@ -1,4 +1,4 @@
-angular.module("Kodi.Directive", []).directive("onready", function(){return{
+angular.module("Kodi.Directive").directive("onready", function(){return{
     restrict: "A",
     link: function(scope, element, attrs)
     {

@@ -1,4 +1,4 @@
-angular.module("Kodi.Directive", []).directive("pager", ["Navigation", "$location", "$filter", function(Navigation, $location, $filter){return {
+angular.module("Kodi.Directive").directive("pager", [function(){return {
     restrict: "EAC",
     transclude: true,
     scope: {
@@ -6,8 +6,7 @@ angular.module("Kodi.Directive", []).directive("pager", ["Navigation", "$locatio
         "in":  "=",
         "out": "@"
     },
-    templateUrl: "/pager.html",
-    controller: function($scope){},
+    template: "<div ng-transclude class=\"transclude\"></div>",
     link: function(scope, element, attrs)
     {
         var current = parseInt(scope.$parent.page || 1);
@@ -42,7 +41,7 @@ angular.module("Kodi.Directive", []).directive("pager", ["Navigation", "$locatio
             scope.$root.limit += scope.$root.limit;
         };
 
-        if (Kodi.util.isType(scope["in"], "undefined") === true || Kodi.util.isType(scope.out, "undefined") === true){
+        if (Kodi.util.isType(attrs.in, "undefined") === true || Kodi.util.isType(attrs.out, "undefined") === true){
             return(false);
         }
 
