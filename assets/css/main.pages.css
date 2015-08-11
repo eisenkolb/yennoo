@@ -1225,21 +1225,16 @@
 }
 
 #media-listing .poster .entry:hover > .title-movie span {
-    border: 1px solid #5C5C5C;
+    border: 1px solid #4b4b4b;
+    background-color: #a9a4a4;
+    border-radius: 5px;
     box-shadow: 0 0 46px #06FF98;
-    opacity: .9;
+    color: #292929;
 }
 
 #media-listing .poster .entry:hover {
     background: #0D334A;
     box-shadow: 0 3px 22px #236D9A;
-}
-
-#media-listing .poster .entry:hover > .title-movie span {
-    border: 1px solid #5C5C5C;
-    box-shadow: 0 0 46px #06FF98;
-    background: none;
-    opacity: .9;
 }
 
 #media-listing .poster .entry .cover {
