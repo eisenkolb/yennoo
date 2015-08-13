@@ -4,7 +4,7 @@
  * Free to use under the MIT license.
  * http://www.opensource.org/licenses/MIT
  */
-angular.module("Kodi.Playback", []).service("PlaybackService", function(MovieFactory){
+angular.module("Kodi.Playback", []).service("PlaybackService", function($http, MovieFactory){
 
     /**
      * Enum for playback types
@@ -131,5 +131,31 @@ angular.module("Kodi.Playback", []).service("PlaybackService", function(MovieFac
     this.openFolder = function(folder)
     {
         openEntry(TYPE.FOLDER, folder);
+    };
+
+    /**
+     * Open/Download a specific file
+     *
+     * @todo better implementation
+     * @param {string} file
+     */
+    this.downloadFile = function(file)
+    {
+        var origin = "//" +location.host + "/jsonrpc";
+        var method = angular.extend({
+                jsonrpc: "2.0",
+                id     : Date.now()
+            }
+            , Kodi.rpc.methods.Files.PrepareDownload(file)
+        );
+
+        $http.post(origin ,method, {headers: {
+            "Accept"      : "application/json",
+            "Content-Type": "application/json"
+        }}).then(function(response){
+            if (window.open && Kodi.util.isDefined(response.data.result) === true){
+                window.open(response.data.result.details.path);
+            }
+        });
     };
 });
