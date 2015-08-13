@@ -17,7 +17,7 @@
     angular.module("Kodi.Dependencies", ["ngRoute", "Kodi.Directive"]);
     angular.module("Kodi.Core",["Kodi.Locale", "Kodi.Directive", "Kodi.Dependencies"]);
 
-    Yennoo = angular.module("Yennoo", ["Kodi.Core", "Kodi.Transport", "Kodi.UI"]);
+    Yennoo = angular.module("Yennoo", ["Kodi.Core", "Kodi.Transport", "Kodi.UI", "Kodi.Playback"]);
     Yennoo.config(function($controllerProvider, $provide, $compileProvider, $filterProvider){
 
         /**
