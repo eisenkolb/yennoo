@@ -566,15 +566,16 @@
             /**
              * Start playback of either the playlist with the given ID, a slideshow with the pictures from the given directory or a single file or an item from the database.
              *
-             * @param  {*} item
-             * @param  {object} options
+             * @param  {object} item
+             * @param  {object} [options={}]
              * @return {object}
              */
             Open: function(item, options){
+                this.options = Kodi.util.isObject(options) ? options : {};
 
                 return({
                     method: "Player.Open",
-                    params: {item: item, options: options }
+                    params: {item: item, options: this.options}
                 });
             },
 
