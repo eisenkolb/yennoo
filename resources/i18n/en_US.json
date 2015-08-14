@@ -51,7 +51,9 @@
         "SAVE": "Save",
         "LAST_PAGE": "Last Page",
         "FIRST_PAGE": "First page",
-        "SAVING_ERROR": "Error occurred while saving"
+        "SAVING_ERROR": "Error occurred while saving",
+        "CONTINUE": "Continue",
+        "AT": "at"
     },
     "TVSHOW": {
         "SEASONS": "Seasons",

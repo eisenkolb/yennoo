@@ -11,7 +11,7 @@
     <!-- Presentation: Simply -->
 
     <ul class="small-block-grid-1 medium-block-grid-2" ng-show="represent.albums == 'simply'">
-        <li ng-repeat="album in albums | orderBy: '+displayartist'" ng-if="album.albumid">
+        <li ng-repeat="album in albums track by $index | orderBy: '+displayartist'" ng-if="album.albumid">
             <ul data-accordion="accordion-{{$index}}" class="accordion">
                 <li class="accordion-navigation">
                     <a href="#album-{{album.albumid}}" onclick="return false;"><strong>{{album.displayartist}}</strong> {{album.title}}</a>
@@ -24,7 +24,7 @@
                                         <li ng-if="artistsSongs[album.albumid] == null"><a class="text-center">{{"MESSAGE.LOADING" | translate}}</a></li>
                                         <li ng-if="artistsSongs[album.albumid] != null && artistsSongs[album.albumid].length == 0"><a class="text-center" style="color:#fff;"><i class="fa fa-warning" style="font-size: 13px; line-height: 19px;"></i>&nbsp;{{"MESSAGE.NO_TRACK_LIST" | translate}}</a></li>
 
-                                        <li ng-repeat="song in artistsSongs[album.albumid] track by $index" ng-click="openSong(song);" ng-if="artistsSongs[album.albumid].length"
+                                        <li ng-repeat="song in artistsSongs[album.albumid] track by $index" ng-click="action.openSong(song);" ng-if="artistsSongs[album.albumid].length"
                                             ng-class="{'playing': running.songid == song.songid}">
                                             <div class="icon"></div>
                                             <div class="track">{{song.track || $index +1}}</div>
@@ -34,10 +34,10 @@
                                         </li>
 
                                         <li class="additional" ng-if="artistsSongs[album.albumid].length">
-                                            <span class="action left" ng-click="openAlbum(album);">
+                                            <span class="action left" ng-click="action.start(album);">
                                                 <div class="fa fa-play-circle"></div>{{"MESSAGE.PLAY_EVERYTHING" | translate}}
                                             </span>
-                                            <span class="action right" ng-click="openAlbum(album, true);">
+                                            <span class="action right" ng-click="action.queue(album);">
                                                 <i class="fa fa-file-text-o"></i>{{"MOVIE.QUEUED" | translate}}
                                             </span>
                                         </li>
@@ -61,7 +61,7 @@
     <!-- Presentation: Poster -->
 
     <ul class="small-block-grid-1 medium-block-grid-2" ng-show="represent.albums == 'poster' || represent.albums == null">
-        <div ng-repeat="album in albums track by album.albumid" ng-if="album.albumid" class="item poster" id="album-{{album.albumid}}" data-id="{{album.albumid}}" style="background:transparent url('/assets/img/loading.music.cover.gif') no-repeat 50% 26%;">
+        <div ng-repeat="album in albums track by $index" ng-if="album.albumid" class="item poster" id="album-{{album.albumid}}" data-id="{{album.albumid}}" style="background:transparent url('/assets/img/loading.music.cover.gif') no-repeat 50% 26%;">
             <div ng-class="{'isPlaying fa fa-toggle-right animated infinite flip': running.albumid == album.albumid}"></div>
             <img class="cover" src="/assets/img/media.music.edges.png" onready="relpaceimage" data-image="album.thumbnail" style="opacity:.7;"
                  data-dropdown="drop-{{album.albumid}}" aria-controls="drop1" aria-expanded="false" ng-click="loadSonglist($event)">
@@ -78,7 +78,7 @@
                     </div>
                     <li ng-if="artistsSongs[album.albumid] == null"><a class="text-center">{{"MESSAGE.LOADING" | translate}}</a></li>
                     <li ng-if="artistsSongs[album.albumid] != null && artistsSongs[album.albumid].length == 0"><a class="no-tracks text-center"><i class="fa fa-warning"></i>&nbsp;{{"MESSAGE.NO_TRACK_LIST" | translate}}</a></li>
-                    <li ng-repeat="song in artistsSongs[album.albumid] track by $index" ng-click="openSong(song);" ng-if="artistsSongs[album.albumid].length"
+                    <li ng-repeat="song in artistsSongs[album.albumid] track by $index" ng-click="action.openSong(song);" ng-if="artistsSongs[album.albumid].length"
                         ng-class="{'playing': running.songid == song.songid}">
                         <div class="icon"></div>
                         <div class="track">{{song.track || $index +1}}</div>
@@ -87,10 +87,10 @@
                         <div class="displayartist">{{song.displayartist}}</div>
                     </li>
                     <li class="additional" ng-if="artistsSongs[album.albumid].length">
-                        <span class="action left" ng-click="openAlbum(album);">
+                        <span class="action left" ng-click="action.start(album);">
                             <div class="fa fa-play-circle"></div>{{"MESSAGE.PLAY_EVERYTHING" | translate}}
                         </span>
-                        <span class="action right" ng-click="openAlbum(album, true);">
+                        <span class="action right" ng-click="action.queue(album);">
                             <i class="fa fa-file-text-o"></i>{{"MOVIE.QUEUED" | translate}}
                         </span>
                     </li>

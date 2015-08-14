@@ -32,56 +32,124 @@ angular.module("Kodi.Playback", []).service("PlaybackService", function($http, M
     };
 
     /**
+     * Fetch the playlist id and returns the id by the given item type
+     *
+     * @param {object} item
+     * @param {function(number, object): void} callback
+     */
+    var fetchMatchingPlaybackId = function(item, callback){
+
+        /**
+         * Fetch all playlist entries
+         */
+
+        MovieFactory.BuildRequest(function(playlists){
+            var playlist = 0;
+            var itemType = (item[TYPE.ALBUM] || item[TYPE.SONG]) ? "audio" : item[TYPE.MOVIE] ? "video" : "picture";
+
+            /**
+             * Get playlist id by the given item type
+             */
+
+            for(var index = 0; index < (playlists || []).length; index++){
+                if (playlists[index].type === itemType){
+                    playlist = playlists[index].playlistid;
+                    break;
+                }
+            }
+
+            if (callback && Kodi.util.isFunction(callback) === true){
+                callback.apply(null, [playlist, item]);
+            }
+
+        }, Kodi.rpc.methods.Playlist.GetPlaylists());
+
+    };
+
+    /**
      * Adds item to the playlist
      *
-     * @todo implement functionality
-     * @type {Kodi.util.noop|function}
+     * @param {object|CreateItem} item
      */
-    var queueItem = Kodi.util.noop;
+    var queueItem = function(item){
+
+        /**
+         * Get playlist id by the given item type
+         */
+
+        fetchMatchingPlaybackId(item, function(playlist){
+
+            /**
+             * Add item to the specific playlist type
+             */
+
+            MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.Playlist.Add(playlist, item));
+        });
+    };
 
     /**
      * Start playback of a certain item
      *
      * @param {object|CreateItem} item
+     * @param {boolean} [resume=false]
      */
-    var startItem = function(item)
+    var startItem = function(item, resume)
     {
-        /**
-         * Clear the current playlist and add the new item
-         */
-        if (Kodi.util.isDefined((item[TYPE.ALBUM] || item[TYPE.MOVIE] || item[TYPE.SONG])) === true){
-            MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.Playlist.Clear(0));
-            MovieFactory.BuildRequest(function(){
+        if (Kodi.util.isDefined((item[TYPE.ALBUM] || item[TYPE.SONG])) === true){
+            fetchMatchingPlaybackId(item, function(playlist){
 
                 /**
-                 * Assign the created playlist id for playback
-                 *
-                 * @type {{playlistid: number}}
+                 * Clear the current playlist and add the new item
                  */
 
-                MovieFactory.BuildRequest(function(data){
-                    console.info(data);
-                }, Kodi.rpc.methods.Player.Open({playlistid: 0}, {}));
-            }, Kodi.rpc.methods.Playlist.Add(0, item));
+                MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.Playlist.Clear(playlist));
+                MovieFactory.BuildRequest(function(){
+
+                    /**
+                     * Assign the created playlist id and open it
+                     *
+                     * @type {{playlistid: number}}
+                     */
+
+                   MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.Player.Open({playlistid: playlist}));
+                }, Kodi.rpc.methods.Playlist.Add(playlist, item));
+            });
 
             return(true);
         }
 
-        MovieFactory.BuildRequest(function(data){
-            console.info(data);
-        }, Kodi.rpc.methods.Player.Open(item, {}));
+        MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.Player.Open(item, {resume: !!resume}));
     };
 
     /**
-     * Prepare the playback item of entry
+     * Prepare playback of entry
      *
-     * @param  {string} type
-     * @param  {object} item
+     * @param {string} type
+     * @param {object} item
+     * @param {boolean} [queue=false]
+     * @param {boolean} [resume=false]
      */
-    var openEntry = function(type, item)
+    var openEntry = function(type, item, queue, resume)
     {
-        return(startItem(new CreateItem(type, item)));
+        item = new CreateItem(type, item);
+
+        /**
+         * Put the item to the playlist queue
+         */
+        if (Kodi.util.isBoolean(queue) === true && queue === true){
+            return(queueItem(item));
+        }
+
+        /**
+         * Start the given item
+         */
+        startItem(item, resume);
     };
+
+    /**
+     * Public PlaybackService API
+     * --------------------------
+     */
 
     /**
      * Open a certain album
@@ -131,6 +199,36 @@ angular.module("Kodi.Playback", []).service("PlaybackService", function($http, M
     this.openFolder = function(folder)
     {
         openEntry(TYPE.FOLDER, folder);
+    };
+
+    /**
+     * Adds a certain movie into the queue
+     *
+     * @param {object} movie
+     */
+    this.queueMovie = function(movie)
+    {
+        openEntry(TYPE.MOVIE, movie, true);
+    };
+
+    /**
+     * Adds a certain album into the queue
+     *
+     * @param {object} album
+     */
+    this.queueAlbum = function(album)
+    {
+        openEntry(TYPE.ALBUM, album, true);
+    };
+
+    /**
+     * Resuming of a certain movie
+     *
+     * @param {object} movie
+     */
+    this.resumeMovie = function(movie)
+    {
+        openEntry(TYPE.MOVIE, movie, false, true);
     };
 
     /**
