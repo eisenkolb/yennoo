@@ -1,6 +1,6 @@
 Yennoo.register.controller("movies.DetailCtrl"
-, ["$scope", "$sce", "$sceDelegate", "$routeParams", "MovieFactory"
-, function($scope, $sce, $sceDelegate, $routeParams, MovieFactory){
+, ["$scope", "$sce", "$sceDelegate", "$routeParams", "$http", "MovieFactory", "PlaybackService"
+, function($scope, $sce, $sceDelegate, $routeParams, $http, MovieFactory, PlaybackService){
     $scope.unknown = Yennoo.const.UNKNOWN_THUMBNAIL;
     $scope.route   = {movies: Yennoo.route.moviesIndex[0]};
 
@@ -38,13 +38,13 @@ Yennoo.register.controller("movies.DetailCtrl"
     };
 
     /**
-     * @todo Implement movie action
+     * Playback handler
      */
     $scope.action = {
-        queue    : Kodi.util.noop,
-        start    : Kodi.util.noop,
-        resume   : Kodi.util.noop,
-        download : Kodi.util.noop
+        queue    : PlaybackService.queueMovie,
+        start    : PlaybackService.openMovie,
+        resume   : PlaybackService.resumeMovie,
+        download : PlaybackService.downloadFile
     };
 
     /**

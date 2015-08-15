@@ -105,7 +105,8 @@ angular.module("Kodi.Factory", []).factory("MovieFactory", function($rootScope, 
                     entry.time      = {
                           dateadded : (entry.dateadded  ? this.GetReadableDate(entry.dateadded) : null),
                           lastplayed: (entry.lastplayed ? this.GetReadableDate(entry.lastplayed) : null),
-                          premiered : (entry.premiered  ? this.GetReadableDate(entry.premiered) : null)};
+                          premiered : (entry.premiered  ? this.GetReadableDate(entry.premiered) : null),
+                          resume    : (entry.resume     ? this.SecondsToTime(entry.resume.position) : null)};
 
                     media[index]    = entry;
                 }

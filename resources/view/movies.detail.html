@@ -86,8 +86,8 @@
                                 <i class="icon fa fa-2x fa-history"></i>
                                 <span class="text">{{"MOVIE.UNVIEWED" | translate}}</span>
                             </li>
-                            <li class="entry download transition truncate truncate-80 large-4">
-                                <a ng-click="action.download(media);">
+                            <li class="entry download transition truncate truncate-80 large-4" ng-if="media.file">
+                                <a ng-click="action.download(media.file);">
                                     <i class="icon fa fa-2x fa-download"></i>
                                     <span class="text">{{"MOVIE.DOWNLOAD" | translate}}</span>
                                 </a>
@@ -105,6 +105,22 @@
                                     <span class="text">{{"MOVIE.WATCH_ON" | translate:"{'name': 'Kodi'}"}}</span>
                                 </a>
                             </li>
+
+                            <li class="entry queue transition truncate truncate-80 large-4" ng-if="media.resume">
+                                <a ng-click="action.resume(media);">
+                                    <i class="icon fa fa-2x fa-sign-out"></i>
+                                    <span class="text">
+                                        {{"GLOBAL.CONTINUE" | translate}}
+                                        <small style="font-size: 84%;" ng-if="media.time && media.time.resume && media.time.resume.time.s && media.time.resume.input !== 0" title="{{media.time.resume.short}}&nbsp;{{'PROPERTY.'+ media.time.resume.unit.toUpperCase() | translate}}">
+                                            {{"GLOBAL.AT" | translate}}
+                                            <span ng-if="media.time.resume.time.h">{{media.time.resume.real}}&nbsp;{{media.time.resume.unit}}</span>
+                                            <span ng-if="media.time.resume.time.m && !media.time.resume.time.h">{{media.time.resume.time.m}}&nbsp;{{"PROPERTY.MINUTES" | translate}}</span>
+                                            <span ng-if="media.time.resume.time.s && !media.time.resume.time.h && !media.time.resume.time.m">{{media.time.resume.time.s}}&nbsp;{{"PROPERTY.SECONDS" | translate}}</span>
+                                        </small>
+                                    </span>
+                                </a>
+                            </li>
+
                         </ul>
                     </div>
                     <!-- Media action list /  ends  -->

@@ -219,7 +219,7 @@
         },
 
         /**
-         * Methods Files [not yet implemented]
+         * Methods Files
          *
          * @namespace
          */
@@ -232,6 +232,22 @@
              */
             Media: {
                 enums: ["files", "video", "music", "pictures", "programs"]
+            },
+
+            /**
+             * Downloads the given file
+             *
+             * Support: Only via HTTP POST/GET
+             *
+             * @param  {string} path
+             * @return {object}
+             */
+            Download: function(path){
+
+                return({
+                    method: "Files.Download",
+                    params: {path: path}
+                });
             },
 
             /**
@@ -268,6 +284,40 @@
                 return({
                     method: "Files.GetDirectory",
                     params: {directory: directory, media: this.media, properties: this.properties}
+                });
+            },
+
+            /**
+             * Get details for a specific file
+             *
+             * @param  {string} file
+             * @param  {string} [media=~Files.Media[0]] {@link Kodi.rpc.methods.Files.Media}
+             * @param  {object} [properties=~Video.Fields.Movie] {@link Kodi.rpc.methods.Video.Fields.Movie}
+             * @return {object}
+             */
+            GetFileDetails: function(file, media, properties ){
+                this.media      = Kodi.util.isString(media)     ? media      : Kodi.rpc.methods.Files.Media.enums[0];
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Video.Fields.Movie.enums;
+
+                return({
+                    method: "Files.GetFileDetails",
+                    params: {file: file, media: this.media, properties: this.properties}
+                });
+            },
+
+            /**
+             * Provides a way to download a given file (e.g. providing an URL to the real file location)
+             *
+             * Support: Only via HTTP POST/GET
+             *
+             * @param  {string} path
+             * @return {object}
+             */
+            PrepareDownload: function(path){
+
+                return({
+                    method: "Files.PrepareDownload",
+                    params: {path: path}
                 });
             }
         },
@@ -516,15 +566,16 @@
             /**
              * Start playback of either the playlist with the given ID, a slideshow with the pictures from the given directory or a single file or an item from the database.
              *
-             * @param  {*} item
-             * @param  {object} options
+             * @param  {object} item
+             * @param  {object} [options={}]
              * @return {object}
              */
             Open: function(item, options){
+                this.options = Kodi.util.isObject(options) ? options : {};
 
                 return({
                     method: "Player.Open",
-                    params: {item: item, options: options }
+                    params: {item: item, options: this.options}
                 });
             },
 

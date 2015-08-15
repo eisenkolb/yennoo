@@ -31,16 +31,21 @@
     <!-- Source directories of type with content /  starts  -->
     <ul class="list small-block-grid-1 medium-block-grid-2" ng-if="sources && sources.shift">
         <li ng-repeat="(index, source) in sources">
-            <a class="truncate" ng-href="#/sources/{{route.method}}/{{source.file}}" ng-if="source.filetype == 'directory'">
-                &nbsp;<span class="fa" ng-class="{'fa-folder-o': source.filetype == 'directory', 'fa-file-audio-o': source.type == 'audio', 'fa-file-video-o': source.type == 'video', 'fa-file-image-o': source.type == 'image', 'fa-file-o': source.filetype != 'directory'}"></span>
-                <span class="normal">{{source.label}}</span>
-                <span class="file" ng-if="source.file">{{source.file}}</span>
+            <a class="truncate" ng-href="{{source.filetype == 'directory' ? '#/sources/' +route.method+ '/' +source.file : ''}}">
+                <div class="small-11 row left">
+                    &nbsp;<span class="fa" ng-class="{'fa-folder-o': source.filetype == 'directory', 'fa-file-audio-o': source.type == 'audio', 'fa-file-video-o': source.type == 'video', 'fa-file-image-o': source.type == 'image', 'fa-file-o': source.filetype != 'directory'}"></span>
+                    <span class="normal">{{source.label}}</span>
+                </div>
+                <span class="file" ng-if="source.file" data-dropdown="hover-{{$index}}" data-options="align:left">{{source.file}}</span>
             </a>
-            <a class="truncate" ng-if="source.filetype != 'directory'">
-                &nbsp;<span class="fa" ng-class="{'fa-folder-o': source.filetype == 'directory', 'fa-file-audio-o': source.type == 'audio', 'fa-file-video-o': source.type == 'video', 'fa-file-image-o': source.type == 'image', 'fa-file-o': source.filetype != 'directory'}"></span>
-                <span class="normal">{{source.label}}</span>
-                <span class="file" ng-if="source.file">{{source.file}}</span>
-            </a>
+
+            <!-- Context menu /  starts  -->
+            <ul id="hover-{{$index}}" class="tiny small medium f-dropdown" data-dropdown-content>
+                <li ng-if="source.filetype" ng-click="action.playback(source);"><a><i class="fa fa-1x fa-desktop"></i>&nbsp;{{"MOVIE.WATCH_ON" | translate:"{'name': 'Kodi'}"}}</a></li>
+                <li ng-if="source.filetype != 'directory'" ng-click="action.download(source.file);"><a><i class="fa fa-1x fa-download"></i>&nbsp;{{"MOVIE.DOWNLOAD" | translate}}: {{source.label}}</a></li>
+            </ul>
+            <!-- Context menu /  ends  -->
+
         </li>
     </ul>
     <!-- Source directories of type with content /  ends  -->

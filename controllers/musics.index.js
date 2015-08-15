@@ -1,6 +1,6 @@
 Yennoo.register.controller("musics.IndexCtrl"
-, ["$scope", "MovieFactory"
-, function($scope, MovieFactory){
+, ["$scope", "MovieFactory", "PlaybackService"
+, function($scope, MovieFactory, PlaybackService){
     $scope.artistsSongs = {};
     $scope.loadingIndex = 1;
 
@@ -30,32 +30,23 @@ Yennoo.register.controller("musics.IndexCtrl"
         });
     };
 
-    $scope.startPlayback = function(item, callback)
-    {
-        MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.Playlist.Clear(0));
-        MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.Playlist.Add(0, item));
-        MovieFactory.BuildRequest(Kodi.rpc.methods.Player.Open({playlistid: 0}));
-        MovieFactory.BuildRequest(function(data, $async){
-            if (data && data === "OK") $async.apply($scope, callback);
-        }, Kodi.rpc.methods.Player.Open({playlistid: 0}));
+    /**
+     * Playback handler
+     */
+    $scope.action = {
+        start    : PlaybackService.openAlbum,
+        queue    : PlaybackService.queueAlbum,
+        openSong : PlaybackService.openSong
     };
 
-    $scope.openAlbum = function(album, queue)
-    {
-        console.log("$scope.openAlbum", album, queue);
-        $scope.startPlayback({albumid: album.albumid}, function(){
-            $scope.running = {albumid: album.albumid, songid: null};
-        });
-    };
-
-    $scope.openSong = function(song)
-    {
-        console.log("$scope.openSong", song);
-        $scope.startPlayback({songid: song.songid}, function(){
-            $scope.running ={albumid: song.albumid, songid: song.songid};
-        });
-    };
-
+    /**
+     * Load a specific album songlist
+     *
+     * Trigger: Click on HTMLElement
+     *
+     * @param  {event|object} event
+     * @return {boolean}
+     */
     $scope.loadSonglist = function(event)
     {
         var target = event.target.getAttribute("data-dropdown");
@@ -79,6 +70,9 @@ Yennoo.register.controller("musics.IndexCtrl"
         }, Kodi.rpc.methods.AudioLibrary.GetSongs(null, null,null, {albumid: parseInt(album)}));
     };
 
+    /**
+     * Loads all albums and assign it to the view
+     */
     MovieFactory.GetAlbums(function(data, $async)
     {
         $scope.albums = data;
