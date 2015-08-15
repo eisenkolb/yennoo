@@ -1,6 +1,6 @@
 Yennoo.register.controller("source.FilesCtrl"
-, ["$scope", "$routeParams", "MovieFactory"
-, function($scope, $routeParams, MovieFactory){
+, ["$scope", "$routeParams", "MovieFactory", "PlaybackService"
+, function($scope, $routeParams, MovieFactory, PlaybackService){
     $scope.$root.breadcrumb = [{title: "SOURCES", href: "#/sources/list/enums"}];
     $scope.sourceEnums      = ["video", "music", "pictures", "files", "programs"];
 
@@ -46,4 +46,19 @@ Yennoo.register.controller("source.FilesCtrl"
             $async.apply($scope);
         },  Kodi.rpc.methods.Files.GetDirectory($routeParams.source, $routeParams.method));
     }
+
+    /**
+     * Playback handler
+     */
+    $scope.action = {
+        download : PlaybackService.downloadFile,
+        playback : function(source){
+            switch(source && source.filetype){
+                case "directory":
+                    PlaybackService.openFolder(source.file);
+                default:
+                    PlaybackService.openFile(source.file);
+            }
+        }
+    };
 }]);
