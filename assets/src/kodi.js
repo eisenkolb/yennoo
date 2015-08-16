@@ -50,6 +50,20 @@
         delete(Yennoo.config);
     });
 
+    /**
+     * Configure the registered transporters and their functionalities
+     */
+    Yennoo.config(function(TransporterProvider){
+        for(var name in Yennoo.transporter.transporters){
+            TransporterProvider.Register(name, Yennoo.transporter.transporters[name]);
+        }
+
+        delete(Yennoo.transporter);
+    });
+
+    /**
+     * Configure routes and initialize the interface for communicating with Kodi
+     */
     Yennoo.config(function(APIserviceProvider, TransporterProvider, LocaleProvider, $routeProvider){
         if (TransporterProvider.Initialize() === true){
             APIserviceProvider.SetTransport(TransporterProvider.Current());
@@ -97,6 +111,25 @@
         });
 
         return(this);
+    };
+
+    /**
+     * Export transporter model to register methods
+     *
+     * @type {{transporters: {}, register: function}}
+     */
+    Yennoo.transporter = {
+        transporters: {},
+
+        /**
+         * Register a transporter method
+         *
+         * @param {string} name
+         * @param {object} transporter
+         */
+        register: function(name, transporter){
+            this.transporters[name] = transporter;
+        }
     };
 
     /**
