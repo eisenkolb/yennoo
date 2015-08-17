@@ -125,6 +125,27 @@
         },
 
         /**
+         * Convert object to a array
+         *
+         * @param  {object} input
+         * @return {array|array<*>}
+         */
+        objectToArray: function(input)
+        {
+            var result = [];
+
+            if (this.isObject(input) === true){
+                for(var index in input){
+                    if(this.isDefined(input[index]) === true){
+                        result.push(input[index]);
+                    }
+                }
+            }
+
+            return(result);
+        },
+
+        /**
          * @struct
          * @constructor
          * @param  {?boolean} start - Start the timer on construction
