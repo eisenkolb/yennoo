@@ -74,6 +74,8 @@ angular.module("Kodi.Directive").directive("pager", ["$filter", "$translate", fu
          */
         scope.$watchCollection("$root.filter", function(){
             scope.createPager();
+            Yennoo.setting.filter = scope.$root.filter;
+            Yennoo.cookie.save(JSON.stringify(Yennoo.setting));
         });
     }
 }}]);

@@ -4,7 +4,7 @@ Yennoo.controller("index.NavigationCtrl", ["$scope", "Navigation", function($sco
             title    : "Title",
             year     : "Year",
             genre    : "Genre",
-            dateadded: "Date Added",
+            dateadded: "DateAdded",
             runtime  : "Runtime",
             rating   : "Rating",
             studio   : "Studio"
@@ -16,9 +16,9 @@ Yennoo.controller("index.NavigationCtrl", ["$scope", "Navigation", function($sco
      * @type {{limit: number, reverse: boolean, property: string}}
      */
     $scope.$root.filter = {
-        limit   : 8,
-        reverse : false,
-        property: ""
+        limit   : Yennoo.setting.filter.limit    || 8,
+        reverse : Yennoo.setting.filter.reverse  || false,
+        property: Yennoo.setting.filter.property || ""
     };
 
     /**
