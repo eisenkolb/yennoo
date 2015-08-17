@@ -79,7 +79,7 @@
                         <div id="content-filter" data-dropdown-content="" class="f-dropdown content large f-open-dropdown">
                             <ul class="title-area inline-list">
                                 <li><a><span class="fa fa-angle-double-down"></span></a></li>
-                                <li ng-repeat="(key, name) in filters"><a ng-click="filter.prop(key);">{{name}}</a></li>
+                                <li ng-repeat="(key, name) in filters"><a ng-click="filter.prop(key);">{{"PROPERTY."+ name.toUpperCase() | translate}}</a></li>
                             </ul>
                             <ul class="button-group left radius right">
                                 <li><a class="button success minimal" ng-click="filter.limit(20);">20</a></li>
