@@ -1249,6 +1249,7 @@
     color: #454545;
     cursor: default;
     font: 16px arial;
+    margin-top: -11px;
 }
 
 #media-listing .poster .entry .title-movie span {
@@ -1268,6 +1269,31 @@
 #media-listing .poster .entry .title-movie span:hover {
     min-width: 100%;
     width: auto;
+}
+
+#media-listing .poster .entry .title-movie .filter-name {
+    margin-left: 1px;
+    max-width: 90%;
+    padding: 0 4px;
+    font-size: 14px;
+    border-radius: 0 3px 0 3px;
+    background-color: rgba(45, 45, 45, 0.74);;
+    color: #939393;
+    text-shadow: 1px 1px #000000;
+    border: 1px #676F67 solid;
+    border-bottom: none;
+    border-left: none;
+}
+
+#media-listing .poster .entry .title-movie.filter {
+    position: relative;
+    bottom: 9px;
+    left: -9px;
+}
+
+#media-listing .poster .entry:hover > .filter-name span {
+    background-color: transparent !important;
+    border-color: transparent !important;
 }
 
 /*********************************************************************************/

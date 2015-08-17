@@ -1,0 +1,12 @@
+<div class="filter-name truncate" ng-if="$root.filter.property && $root.filter.property !== 'title'">
+    <div ng-if="$root.filter.property === 'runtime'" style="display:inline">
+        {{entry.minutes}} {{"PROPERTY.MINUTES" | translate}}
+    </div>
+    <div ng-if="$root.filter.property === 'rating'" style="display:inline">
+        {{(entry.rating).toLocaleString()}} / 10
+    </div>
+    <div ng-if="entry[$root.filter.property] && ['runtime','rating'].indexOf($root.filter.property) < 0" ng-init="NA = 'N/A'" style="display:inline">
+        {{"PROPERTY."+ $root.filter.property.toUpperCase() | translate}} :
+        {{entry[$root.filter.property].shift ? (entry[$root.filter.property][0] ? entry[$root.filter.property][0] : NA) : entry[$root.filter.property] ? entry[$root.filter.property] : NA}}
+    </div>
+</div>

@@ -8,7 +8,7 @@ Yennoo.register.controller("movies.IndexCtrl"
     MovieFactory.GetMovies(function(data, $async)
     {
         $scope.timer.stop();
-        $scope.movies = data;
+        $scope.movies = Kodi.util.objectToArray(data);
         $async.apply($scope);
     });
 
