@@ -62,6 +62,54 @@ Yennoo.controller("index.NavigationCtrl", ["$scope", "Navigation", function($sco
     };
 
     /**
+     * Saves the current navigation entry
+     *
+     * @param  {!object} entry
+     * @param  {!string} entry[].name
+     */
+    $scope.switch = function(entry)
+    {
+        entry.name = name;
+        Navigation.SetActive(entry);
+    };
+
+    /**
+     * Modify/Overwrite the entries of the dropdown filter menu
+     */
+    $scope.$on("$routeChangeSuccess", function(){
+        switch(Navigation.GetActive()) {
+
+            /**
+             * Set filter entries for series
+             */
+
+            case "series":
+                $scope.$root.filters = $scope.filters;
+                $scope.$root.filters["episode"] = "episode";
+                $scope.$root.filters["premiered"] = "premiered";
+                delete($scope.$root.filters["year"]);
+                delete($scope.$root.filters["runtime"]);
+            break;
+
+            /**
+             * Set filter entries for music
+             */
+
+            case "music":
+            break;
+
+            /**
+             * Set filter entries for movies (or default)
+             */
+
+            case "movies":
+            default:
+                $scope.$root.filters = $scope.filters;
+            break;
+        }
+    });
+
+    /**
      * Element of the loading mask
      *
      * @type {object|HTMLElement}
