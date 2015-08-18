@@ -1203,6 +1203,21 @@
     opacity: .7;
 }
 
+#media-listing .banner li .title-movie.filter {
+    margin: -27px -4px 0px;
+}
+
+#media-listing .banner li .title-movie.filter .filter-name {
+    display: inline;
+    background-color: rgba(29, 28, 28, 0.82);
+    padding: 0 5px;
+    border-radius: 2px;
+    height: 18px;
+    position: relative;
+    top: -2px;
+    border: 1px solid rgba(66, 66, 66, 0.74);
+}
+
 /*********************************************************************************/
 /*** Media:Listing: || Presentation:Poster:                                    ***/
 /*********************************************************************************/

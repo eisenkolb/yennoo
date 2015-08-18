@@ -43,7 +43,7 @@
                         <img  class="cover" src="/assets/img/media.text.png">
                         <span class="normal">{{entry.title}}</span>
 
-                        <!-- Show current filter /  ends  -->
+                        <!-- Show current filter / starts -->
                         <div class="title-movie filter text-left right" style="height:23px;margin-right:5px;">&nbsp;
                             <div ng-include="'/resources/view/shared/media.filter.html'" ng-if="$root.filter.property && $root.filter.property !== 'title'" style="display:inline;"></div>
                         </div>
@@ -74,11 +74,11 @@
                     <img class="cover centered" src="/assets/img/media.cover.frame.png"
                          media="poster" poster="entry.poster" imageonload="true">
 
-                    <!-- Show current filter /  ends  -->
+                    <!-- Show current filter / starts -->
                     <div class="title-movie filter text-left">&nbsp;
                         <div ng-include="'/resources/view/shared/media.filter.html'" ng-if="$root.filter.property && $root.filter.property !== 'title'" style="display:inline;"></div>
                     </div>
-                    <!-- Show current filter / starts -->
+                    <!-- Show current filter /  ends  -->
 
                     <div class="title-movie text-center">
                         <span class="normal">{{entry.title}}</span>
