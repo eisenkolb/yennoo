@@ -68,8 +68,8 @@
                                             <span class="episode-title">{{episode.title}}</span>
                                             <span class="right row column show-for-medium-up">
                                                 <div class="actions">
-                                                    <span class="radius label success right" ng-click="startEpisode(episode, $event);">{{"GLOBAL.PLAY" | translate}}</span>
-                                                    <span class="radius label warning right" ng-click="queueEpisode(episode, $event);">{{"MOVIE.QUEUED" | translate}}</span>
+                                                    <span class="radius label success right" ng-click="action.episode.start(episode);" onclick="return false">{{"GLOBAL.PLAY" | translate}}</span>
+                                                    <span class="radius label warning right" ng-click="action.episode.queue(episode);" onclick="return false">{{"MOVIE.QUEUED" | translate}}</span>
                                                 </div>
                                             </span>
                                         </a>
@@ -84,8 +84,8 @@
                                                 </div>
                                                 <div class="small-12 left details">
                                                     <div class="right column show-for-small actions">
-                                                        <span class="label radius success right" ng-click="startEpisode(episode, $event);">{{"GLOBAL.PLAY" | translate}}</span>
-                                                        <span class="label radius warning right" ng-click="queueEpisode(episode, $event);">{{"MOVIE.QUEUED" | translate}}</span>
+                                                        <span class="label radius success right" ng-click="action.episode.start(episode);" onclick="return false">{{"GLOBAL.PLAY" | translate}}</span>
+                                                        <span class="label radius warning right" ng-click="action.episode.queue(episode);" onclick="return false">{{"MOVIE.QUEUED" | translate}}</span>
                                                     </div>
                                                     <ul class="inline-list row show-for-medium-up">
                                                         <li ng-if="episode.director" class="label radius secondary">

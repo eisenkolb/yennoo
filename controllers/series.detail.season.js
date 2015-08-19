@@ -1,6 +1,6 @@
 Yennoo.register.controller("series.detail.SeasonCtrl"
-, ["$scope", "$routeParams", "mediaLibrary", "MovieFactory"
-, function($scope, $routeParams, mediaLibrary, MovieFactory){
+, ["$scope", "$routeParams", "PlaybackService", "MovieFactory"
+, function($scope, $routeParams, PlaybackService, MovieFactory){
     $scope.tvshowid = parseInt($routeParams.tvshowid);
     $scope.seasonid = parseInt($routeParams.seasonid);
     $scope.headline = $routeParams.label;
@@ -12,6 +12,16 @@ Yennoo.register.controller("series.detail.SeasonCtrl"
                                            .replace("/:seasonid", ""),
         tvshow: Yennoo.route.serieDetail[0].replace(":tvshowid", $scope.tvshowid)
                                            .replace(":label", $scope.headline)
+    };
+
+    /**
+     * Playback handler
+     */
+    $scope.action = {
+        episode: {
+            start: PlaybackService.openEpisode,
+            queue: PlaybackService.queueEpisode
+        }
     };
 
      /**
@@ -34,6 +44,9 @@ Yennoo.register.controller("series.detail.SeasonCtrl"
 
     }, Kodi.rpc.methods.VideoLibrary.GetSeasons($scope.tvshowid));
 
+    /**
+     * Retrieve all episodes of the season
+     */
     MovieFactory.BuildRequest(function(data, $async)
     {
         $scope.episodes = MovieFactory.helper.MapMediaResponse(data.episodes || {});

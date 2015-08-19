@@ -1,20 +1,20 @@
 Yennoo.register.controller("series.DetailCtrl"
-, ["$scope", "$routeParams", "mediaLibrary", "MovieFactory"
-, function($scope, $routeParams, mediaLibrary, MovieFactory){
+, ["$scope", "$routeParams", "PlaybackService", "MovieFactory"
+, function($scope, $routeParams, PlaybackService, MovieFactory){
     $scope.tvshowid = parseInt($routeParams.tvshowid);
     $scope.unknown  = Yennoo.const.UNKNOWN_THUMBNAIL;
     $scope.route    = {series: Yennoo.route.seriesIndex[0]};
     $scope.timer    = new Kodi.util.Timer(true);
 
-    $scope.play = Kodi.util.noop;
-
-    $scope.startSeasons = Kodi.util.noop;
-
-    $scope.queueSeasons = Kodi.util.noop;
-
-    $scope.startEpisode = Kodi.util.noop;
-
-    $scope.queueEpisode = Kodi.util.noop;
+    /**
+     * Playback handler
+     */
+    $scope.action = {
+        episode: {
+            start: PlaybackService.openEpisode,
+            queue: PlaybackService.queueEpisode
+        }
+    };
 
     $scope.relpaceimage = function(scope, element)
     {
