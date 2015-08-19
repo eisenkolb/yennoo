@@ -47,7 +47,7 @@ angular.module("Kodi.Navigation", []).factory("Navigation", function($rootScope)
         GetActive: function()
         {
             if (Kodi.util.isUndefined(this.active && this.active.name) === true){
-                return(location.hash.substr(2));
+                return(location.hash.split("/")[1]);
             }
 
             return(this.active);

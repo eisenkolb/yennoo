@@ -10,6 +10,7 @@ Yennoo.controller("index.NavigationCtrl", ["$scope", "Navigation", function($sco
             rating   : "Rating",
             studio   : "Studio"
     };
+    $scope.available = {};
 
     /**
      * Global filter object
@@ -84,11 +85,11 @@ Yennoo.controller("index.NavigationCtrl", ["$scope", "Navigation", function($sco
              */
 
             case "series":
-                $scope.$root.filters = $scope.filters;
-                $scope.$root.filters["episode"] = "episode";
-                $scope.$root.filters["premiered"] = "premiered";
-                delete($scope.$root.filters["year"]);
-                delete($scope.$root.filters["runtime"]);
+                angular.copy($scope.filters, $scope.available);
+                $scope.available["episode"] = "episode";
+                $scope.available["premiered"] = "premiered";
+                delete($scope.available["year"]);
+                delete($scope.available["runtime"]);
             break;
 
             /**
@@ -96,15 +97,20 @@ Yennoo.controller("index.NavigationCtrl", ["$scope", "Navigation", function($sco
              */
 
             case "music":
+                angular.copy($scope.filters, $scope.available);
+                $scope.available["displayartist"] = "artist";
+                delete($scope.available["runtime"]);
+                delete($scope.available["rating"]);
+                delete($scope.available["studio"]);
+                delete($scope.available["dateadded"]);
             break;
 
             /**
              * Set filter entries for movies (or default)
              */
 
-            case "movies":
             default:
-                $scope.$root.filters = $scope.filters;
+                angular.copy($scope.filters, $scope.available);
             break;
         }
     });

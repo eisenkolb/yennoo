@@ -58,13 +58,60 @@
         </li>
     </ul>
 
+    <!-- Presentation: Banner -->
+
+    <div id="media-listing" ng-show="represent.albums == 'banner'">
+        <ul class="simply small-block-grid-2 medium-block-grid-3 large-block-grid-4">
+            <li ng-repeat="entry in media track by $index" ng-if="entry.albumid">
+                <a class="truncate truncate-90" style="display: block;" id="album-{{entry.albumid}}" data-dropdown="drop-{{entry.albumid}}" aria-expanded="false" ng-click="loadSonglist($event)">
+                    <img  class="cover" src="/assets/img/media.text.png">
+                    <span class="normal">{{entry.artist.join(",") || "{ empty }"}} - {{entry.label}}</span>
+                </a>
+
+                <ul class="f-dropdown songlist small" id="drop-{{entry.albumid}}" data-dropdown-content aria-hidden="true" tabindex="-1">
+                    <div class="background" style="background:linear-gradient(rgba(0, 0, 0, 0.38), #1e1d1d 100%),url('{{entry.thumbnail}}');background-size:100%;background-position:left 25px;">
+                        <div class="header">
+                            <div class="title text-center">{{entry.label}}</div>
+                        </div>
+                        <li ng-if="artistsSongs[entry.albumid] == null"><a class="text-center">{{"MESSAGE.LOADING" | translate}}</a></li>
+                        <li ng-if="artistsSongs[entry.albumid] != null && artistsSongs[entry.albumid].length == 0"><a class="no-tracks text-center"><i class="fa fa-warning"></i>&nbsp;{{"MESSAGE.NO_TRACK_LIST" | translate}}</a></li>
+                        <li ng-repeat="song in artistsSongs[entry.albumid] track by $index" ng-click="action.openSong(song);" ng-if="artistsSongs[entry.albumid].length"
+                            ng-class="{'playing': running.songid == song.songid}">
+                            <div class="icon"></div>
+                            <div class="track">{{song.track || $index +1}}</div>
+                            <div class="title">{{song.title}}</div>
+                            <div class="duration" title="{{song.runtime.short}} {{'PROPERTY.'+ song.runtime.unit.toUpperCase() | translate}}">{{song.runtime.real}}</div>
+                            <div class="displayartist">{{song.displayartist}}</div>
+                        </li>
+                        <li class="additional" ng-if="artistsSongs[entry.albumid].length">
+                        <span class="action left" ng-click="action.start(entry);">
+                            <div class="fa fa-play-circle"></div>{{"MESSAGE.PLAY_EVERYTHING" | translate}}
+                        </span>
+                        <span class="action right" ng-click="action.queue(entry);">
+                            <i class="fa fa-file-text-o"></i>{{"MOVIE.QUEUED" | translate}}
+                        </span>
+                        </li>
+                    </div>
+                </ul>
+
+
+            </li>
+        </ul>
+    </div>
+
     <!-- Presentation: Poster -->
 
     <ul class="small-block-grid-1 medium-block-grid-2" ng-show="represent.albums == 'poster' || represent.albums == null">
         <div ng-repeat="entry in media track by $index" ng-if="entry.albumid" class="item poster" id="album-{{entry.albumid}}" data-id="{{entry.albumid}}" style="background:transparent url('/assets/img/loading.music.cover.gif') no-repeat 50% 26%;">
             <div ng-class="{'isPlaying fa fa-toggle-right animated infinite flip': running.albumid == entry.albumid}"></div>
             <img class="cover" src="/assets/img/media.music.edges.png" onready="relpaceimage" data-image="entry.thumbnail" style="opacity:.7;"
-                 data-dropdown="drop-{{entry.albumid}}" aria-controls="drop1" aria-expanded="false" ng-click="loadSonglist($event)">
+                 data-dropdown="drop-{{entry.albumid}}" aria-expanded="false" ng-click="loadSonglist($event)">
+
+            <!-- Show current filter / starts -->
+            <div class="title-movie filter text-left" ng-if="$root.filter.property && $root.filter.property !== 'title' && $root.filter.property !== 'displayartist' ">&nbsp;
+                <div ng-include="'/resources/view/shared/media.filter.html'" style="display:inline;"></div>
+            </div>
+            <!-- Show current filter /  ends  -->
 
             <div class="label">
                 <span class="normal artist">{{entry.artist.join(",") || "{ empty }"}}</span>

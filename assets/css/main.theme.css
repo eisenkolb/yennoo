@@ -378,6 +378,10 @@
     max-width: 85%;
 }
 
+#main .truncate-90 {
+    max-width: 90%;
+}
+
 #main .whitout-shadow {
     box-shadow: none !important;
     text-shadow: none !important;

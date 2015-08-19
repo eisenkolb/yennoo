@@ -882,6 +882,22 @@
 }
 
 /*********************************************************************************/
+/*** Music: || Item:Filter:                                                    ***/
+/*********************************************************************************/
+
+#music .item .title-movie.filter {
+    margin: -22px 2px 4px;
+    background-color: rgba(234, 234, 234, 0.69);
+    position: relative;
+    border-radius: 3px;
+    line-height: 14px;
+    border: 1px #999595 solid;
+    padding-top: 2px;
+    border-bottom: none;
+    font-size: 14px;
+}
+
+/*********************************************************************************/
 /*** Music: || Item: || [:HOVER]                                               ***/
 /*********************************************************************************/
 
@@ -1288,7 +1304,6 @@
 
 #media-listing .poster .entry .title-movie .filter-name {
     margin-left: 1px;
-    max-width: 90%;
     padding: 0 4px;
     font-size: 14px;
     border-radius: 0 3px 0 3px;
