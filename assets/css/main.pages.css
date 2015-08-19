@@ -329,8 +329,7 @@
     cursor: pointer;
 }
 
-#media-description #tab-seasons .season:hover .action-area .actions .episodes,
-#media-description #tab-seasons .season:hover .action-area .actions .queued {
+#media-description #tab-seasons .season:hover .action-area .actions .episodes {
     background-color: rgba(98, 94, 94, 0.53);
     border: 1px solid #676666;
     border-radius: 0 10px 10px 0;
@@ -342,16 +341,6 @@
     border-left: 1px solid transparent;
 }
 
-#media-description #tab-seasons .season:hover .action-area .actions .queued {
-    border-radius: 10px 0 0 10px;
-    border-right: none;
-}
-
-#media-description #tab-seasons .season:hover .action-area .actions .queued:hover {
-    background-image: linear-gradient(to bottom, #bf43ae 0%, #662776 100%);
-    cursor: pointer;
-}
-
 #media-description #tab-seasons .season:hover .action-area .actions .name {
     background-color: rgba(237, 119, 249, 0.56);
     border: 1px solid #838484;
@@ -360,11 +349,6 @@
     color: #fffff8;
     font-weight: bold;
     text-shadow: 1px 1px 1px #3d003b;
-}
-
-#media-description #tab-seasons .season:hover .action-area .actions .queued {
-    border-radius: 10px 0 0 10px;
-    border-right: none;
 }
 
 #media-description #tab-seasons .season:hover .action-area .actions .watched-status .watched {

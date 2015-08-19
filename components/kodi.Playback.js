@@ -15,6 +15,7 @@ angular.module("Kodi.Playback", []).service("PlaybackService", function($http, M
         ALBUM  : "albumid",
         MOVIE  : "movieid",
         SONG   : "songid",
+        EPISODE: "episodeid",
         FILE   : "file",
         FOLDER : "directory"
     };
@@ -45,7 +46,7 @@ angular.module("Kodi.Playback", []).service("PlaybackService", function($http, M
 
         MovieFactory.BuildRequest(function(playlists){
             var playlist = 0;
-            var itemType = (item[TYPE.ALBUM] || item[TYPE.SONG]) ? "audio" : item[TYPE.MOVIE] ? "video" : "picture";
+            var itemType = (item[TYPE.ALBUM] || item[TYPE.SONG]) ? "audio" : item[TYPE.MOVIE] || item[TYPE.EPISODE] ? "video" : "picture";
 
             /**
              * Get playlist id by the given item type
@@ -182,6 +183,16 @@ angular.module("Kodi.Playback", []).service("PlaybackService", function($http, M
     };
 
     /**
+     * Open a certain episode of a tvshow
+     *
+     * @param {object} episode
+     */
+    this.openEpisode = function(episode)
+    {
+        openEntry(TYPE.EPISODE, episode);
+    };
+
+    /**
      * Open a single file
      *
      * @param {string} file
@@ -219,6 +230,16 @@ angular.module("Kodi.Playback", []).service("PlaybackService", function($http, M
     this.queueAlbum = function(album)
     {
         openEntry(TYPE.ALBUM, album, true);
+    };
+
+    /**
+     * Adds a certain tv episode into the queue
+     *
+     * @param {object} episode
+     */
+    this.queueEpisode = function(episode)
+    {
+        openEntry(TYPE.EPISODE, episode, true);
     };
 
     /**
