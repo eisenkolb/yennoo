@@ -19,10 +19,16 @@
 
         <div ng-show="represent.tvshows == 'simply'">
             <ul class="simply small-block-grid-2 medium-block-grid-3 large-block-grid-4">
-                <li ng-repeat="(index, entry) in media track by $index | limitTo:limit">
+                <li ng-repeat="(index, entry) in media track by $index" ng-if="entry.tvshowid">
                     <a ng-href="{{route.series}}/{{entry.tvshowid}}/{{entry.label.toLowerCase()}}" style="display: block;" id="serie-{{entry.tvshowid}}">
                         <img  class="cover" src="/assets/img/media.text.png">
                         <span class="normal">{{entry.title}}</span>
+
+                        <!-- Show current filter / starts -->
+                        <div class="title-movie filter text-left right" style="height:23px;margin-right:5px;">&nbsp;
+                            <div ng-include="'/resources/view/shared/media.filter.html'" ng-if="$root.filter.property && $root.filter.property !== 'title'" class="inline"></div>
+                        </div>
+                        <!-- Show current filter /  ends  -->
                     </a>
                 </li>
             </ul>
@@ -31,10 +37,17 @@
         <!-- Presentation: Banner -->
 
         <ul ng-show="represent.tvshows == 'banner'" class="banner small-block-grid-1 medium-block-grid-2 large-block-grid-3">
-            <li ng-repeat="(index, entry) in media track by $index| limitTo:limit" ng-if="entry">
+            <li ng-repeat="(index, entry) in media track by $index" ng-if="entry.tvshowid">
                 <a ng-href="{{route.series}}/{{entry.tvshowid}}/{{entry.label.toLowerCase()}}" class="cover poster">
                     <img class="cover centered" src="/assets/img/media.banner.png"
                          media="banner" banner="entry.banner" imageonload="true">
+
+                    <!-- Show current filter / starts -->
+                    <div class="title-movie filter text-left">&nbsp;
+                        <div ng-include="'/resources/view/shared/media.filter.html'" ng-if="$root.filter.property && $root.filter.property !== 'title'" class="inline"></div>
+                    </div>
+                    <!-- Show current filter /  ends  -->
+
                 </a>
             </li>
         </ul>
@@ -43,10 +56,17 @@
 
         <div ng-show="represent.tvshows == 'poster' || represent.tvshows == null">
             <div class="poster">
-                <a ng-repeat="(index, entry) in media track by $index| limitTo:limit" class="entry" id="serie-{{entry.tvshowid}}" ng-click="toggle($event);"
+                <a ng-repeat="(index, entry) in media track by $index" class="entry" id="serie-{{entry.tvshowid}}" ng-click="toggle($event);" ng-if="entry.tvshowid"
                      ng-href="{{route.series}}/{{entry.tvshowid}}/{{entry.label.toLowerCase()}}" >
                     <img class="cover centered" src="/assets/img/media.cover.frame.png"
                          media="poster" poster="entry.poster" imageonload="true">
+
+                    <!-- Show current filter / starts -->
+                    <div class="title-movie filter text-left">&nbsp;
+                        <div ng-include="'/resources/view/shared/media.filter.html'" ng-if="$root.filter.property && $root.filter.property !== 'title'" class="inline"></div>
+                    </div>
+                    <!-- Show current filter /  ends  -->
+
                     <div class="title-movie text-center">
                         <span class="normal">{{entry.title}}</span>
                     </div>

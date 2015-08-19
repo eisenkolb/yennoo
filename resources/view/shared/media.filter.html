@@ -1,0 +1,15 @@
+<div class="filter-name truncate truncate-90" ng-if="$root.filter.property && $root.filter.property !== 'title'" ng-init="NA = 'N/A'">
+    <div ng-if="$root.filter.property === 'runtime'" class="inline">
+        {{entry.minutes}} {{"PROPERTY.MINUTES" | translate}}
+    </div>
+    <div ng-if="$root.filter.property === 'rating'" class="inline">
+        {{(entry.rating).toLocaleString()}} / 10
+    </div>
+    <div ng-if="$root.filter.property === 'premiered'" class="inline">
+        {{"PROPERTY.PREMIERED" | translate}} :{{(entry.premiered).split('-')[0] || NA}}
+    </div>
+    <div ng-if="entry[$root.filter.property] && ['runtime','rating','premiered'].indexOf($root.filter.property) < 0" class="inline">
+        {{"PROPERTY."+ $root.filter.property.toUpperCase() | translate}} :
+        {{entry[$root.filter.property].shift ? (entry[$root.filter.property][0] ? entry[$root.filter.property][0] : NA) : entry[$root.filter.property] ? entry[$root.filter.property] : NA}}
+    </div>
+</div>

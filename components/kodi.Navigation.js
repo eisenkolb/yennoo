@@ -7,32 +7,48 @@
 angular.module("Kodi.Navigation", []).factory("Navigation", function($rootScope){
     var scope   = $rootScope.$root;
     var entries = Yennoo.navigation;
-
     var factory = {
-        viewScript: "resources/view/",
-        GetEntries: function ()
+
+        /**
+         * Returns the registered navigation entries
+         *
+         * @return {Yennoo.config.navigation|object}
+         */
+        GetEntries: function()
         {
-            return(entries);
+            return(entries || {});
         },
-        SetActive: function(entry, name, event)
+
+        /**
+         * Saves the active navigation object
+         *
+         * @param  {!object} entry
+         * @param  {!string} entry[].name
+         * @param  {!string} entry[].label
+         * @return {object|Navigation}
+         */
+        SetActive: function(entry)
         {
             if (entry.extern == true || entry.view == undefined){
                 return(true);
             }
 
-            factory.active = entry;
-            event.preventDefault();
+            this.active = entry;
             scope.$broadcast("navigation.changed", factory.GetActive());
 
             return(this);
         },
+
+        /**
+         * Returns the active (top-level) entry
+         *
+         * @return {string}
+         */
         GetActive: function()
         {
-            if (this.active === undefined || this.active === null){
-                return(null);
+            if (Kodi.util.isUndefined(this.active && this.active.name) === true){
+                return(location.hash.split("/")[1]);
             }
-
-            this.active.url = factory.viewScript + this.active.view;
 
             return(this.active);
         }

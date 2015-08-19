@@ -1,6 +1,7 @@
 Yennoo.register.controller("musics.IndexCtrl"
-, ["$scope", "MovieFactory", "PlaybackService"
-, function($scope, MovieFactory, PlaybackService){
+, ["$scope", "$routeParams", "MovieFactory", "PlaybackService"
+, function($scope, $routeParams, MovieFactory, PlaybackService){
+    $scope.page         = $routeParams.page || 1;
     $scope.artistsSongs = {};
     $scope.loadingIndex = 1;
 
@@ -75,7 +76,7 @@ Yennoo.register.controller("musics.IndexCtrl"
      */
     MovieFactory.GetAlbums(function(data, $async)
     {
-        $scope.albums = data;
+        $scope.albums = Kodi.util.objectToArray(data);
         $async.apply($scope);
     });
 

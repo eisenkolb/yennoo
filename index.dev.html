@@ -74,6 +74,19 @@
 
                 <nav id="navigation" data-topbar="" class="top-bar">
                     <div class="top-bar-filters">
+
+                        <a data-dropdown="content-filter" class="left trigger">&nbsp;&nbsp;<i class="fa fa-sliders"></i></a>
+                        <div id="content-filter" data-dropdown-content="" class="f-dropdown content large f-open-dropdown">
+                            <ul class="title-area inline-list">
+                                <li title="{{$root.filter.reverse ? 'Ascending' : 'Descending'}}"><a ng-click="filter.reverse();"><span class="fa" ng-class="{'fa-angle-double-down': !!$root.filter.reverse, 'fa-angle-double-up': !$root.filter.reverse}"></span></a></li>
+                                <li ng-repeat="(key, name) in available"><a ng-class="{'active': key == $root.filter.property}" ng-click="filter.property(key);">{{"PROPERTY."+ name.toUpperCase() | translate}}</a></li>
+                            </ul>
+                            <ul class="button-group left radius right">
+                                <li ng-repeat="limit in limits"><a class="button success minimal" ng-click="filter.limit(limit);" ng-class="{'active': limit == $root.filter.limit}">{{limit}}</a></li>
+                                <li><a class="button success minimal" ng-click="filter.limit(null);" ng-class="{'active': limit == $root.filter.limit}">Alle</a></li>
+                            </ul>
+                        </div>
+
                         <ul id="breadcrumb" class="breadcrumbs ng-cloak" ng-if="breadcrumb">
                             <li>
                                 <a href="#/">{{"DASHBOARD" | translate}}</a>
@@ -110,8 +123,8 @@
                     </div>
                     <div class="group left"></div>
                     <div class="right">
-                        <div ng-include="'/resources/view/config.prefs.html'" style="display:inline;"></div>
-                        <div ng-include="'/resources/view/config.develop.html'" style="display:inline;"></div>
+                        <div ng-include="'/resources/view/config.prefs.html'" class="inline"></div>
+                        <div ng-include="'/resources/view/config.develop.html'" class="inline"></div>
                     </div>
 
                     <div class="right group"></div>
@@ -161,7 +174,12 @@
         setting: {
             clientId : Date.now(),
             transport: {},
-            represent: {}
+            represent: {},
+            filter: {
+                limit: null,
+                reverse: false,
+                property: null
+            }
         },
         route: {
             moviesIndex: ["#/movies", "movies.IndexCtrl", "resources/view/movies.index.html"],
@@ -171,6 +189,7 @@
             collections: ["#/sets", "movies.CollectionCtrl", "resources/view/movies.index.html"],
             crowdPeople: ["#/people/:people", "people.DetailCtrl", "resources/view/people.detail.html"],
             musicsIndex: ["#/music", "musics.IndexCtrl", "resources/view/musics.index.html"],
+            musicsPages: ["#/music/page/:page", "musics.IndexCtrl", "resources/view/musics.index.html"],
             artistIndex: ["#/music/artist", "musics.ArtistCtrl", "resources/view/musics.artist.html"],
             seriesIndex: ["#/series", "series.IndexCtrl", "resources/view/series.index.html"],
             seriesPages: ["#/series/page/:page", "series.PagesCtrl", "resources/view/series.index.html"],

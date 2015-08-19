@@ -272,6 +272,34 @@
 }
 
 /*********************************************************************************/
+/*** Main: || Content:Filter:                                                  ***/
+/*********************************************************************************/
+
+#main #content-filter {
+    padding: 7px 0;
+    margin-top: 0;
+}
+
+#main #content-filter .button-group {
+    margin: -5px 10px 0 0;
+}
+
+#main #content-filter .button-group li a {
+    line-height: 23px;
+    margin: -9px 0 0;
+    padding: 3px 9px;
+}
+
+#main #content-filter .inline-list a.active {
+    background-color: #F7D3FE;
+    border-radius: 3px;
+}
+
+#main #content-filter .button-group li a.active {
+    background-color: #B7C256;
+}
+
+/*********************************************************************************/
 /*** Main: || Splashscreen:                                                    ***/
 /*********************************************************************************/
 
@@ -350,6 +378,10 @@
     max-width: 85%;
 }
 
+#main .truncate-90 {
+    max-width: 90%;
+}
+
 #main .whitout-shadow {
     box-shadow: none !important;
     text-shadow: none !important;
@@ -390,6 +422,10 @@
 
 #main .transition {
     transition: all 0.25s ease-out 0s;
+}
+
+#main .inline {
+    display:inline
 }
 
 /*********************************************************************************/

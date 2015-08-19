@@ -7,7 +7,7 @@ Yennoo.register.controller("series.IndexCtrl"
 
     MovieFactory.GetTvShows(function(data, $async)
     {
-        $scope.tvshows = data;
+        $scope.tvshows = Kodi.util.objectToArray(data);
         $scope.timer.stop();
         $async.apply($scope);
     });
