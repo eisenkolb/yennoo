@@ -33,7 +33,7 @@
         <hr style="padding-bottom:11px;">
         <div class="row">
             <div class="large-2 columns">
-                <div class="switch small large-12" style="display:inline;">
+                <div class="switch inline small large-12">
                     <input ng-if="transporters.current.method == name" type="radio" ng-click="formChangeTransporter(name, $event);" name="transporter" checked="1" id="transporter-{{(name).toLowerCase()}}">
                     <input ng-if="transporters.current.method != name" type="radio" ng-click="formChangeTransporter(name, $event);" name="transporter" id="transporter-{{(name).toLowerCase()}}">
                     <label for="transporter-{{(name).toLowerCase()}}"></label>
