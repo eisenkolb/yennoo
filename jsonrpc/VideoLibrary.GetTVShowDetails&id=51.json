@@ -1,0 +1,955 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/73258-g.jpg",
+            "poster": "http://thetvdb.com/banners/posters/73258-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Adam Reid",
+                "order": 0,
+                "role": ""
+            },
+            {
+                "name": "Alan Park",
+                "order": 1,
+                "role": ""
+            },
+            {
+                "name": "Alison Sealy-Smith",
+                "order": 2,
+                "role": ""
+            },
+            {
+                "name": "Cal Dodd",
+                "order": 3,
+                "role": ""
+            },
+            {
+                "name": "Dennis Akayama",
+                "order": 4,
+                "role": ""
+            },
+            {
+                "name": "James Kee",
+                "order": 5,
+                "role": ""
+            },
+            {
+                "name": "Julie Lemieux",
+                "order": 6,
+                "role": ""
+            },
+            {
+                "name": "Mark Rendall",
+                "order": 7,
+                "role": ""
+            },
+            {
+                "name": "Marnie McPhail",
+                "order": 8,
+                "role": ""
+            },
+            {
+                "name": "Maurice Dean Wint",
+                "order": 9,
+                "role": ""
+            },
+            {
+                "name": "Neil Crone",
+                "order": 10,
+                "role": ""
+            },
+            {
+                "name": "Rick Green",
+                "order": 11,
+                "role": ""
+            },
+            {
+                "name": "Rob Smith",
+                "order": 12,
+                "role": ""
+            },
+            {
+                "name": "Robert Tinkler",
+                "order": 13,
+                "role": ""
+            },
+            {
+                "name": "Stacey Depass",
+                "order": 14,
+                "role": ""
+            }
+        ],
+        "dateadded": "2012-11-30 17:23:08",
+        "episode": 7,
+        "episodeguide": "<episodeguide><url cache=\"73258-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/73258/all/en.zip</url></episodeguide>",
+        "fanart": "",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/King/",
+        "genre": [
+            "Animation"
+        ],
+        "imdbnumber": "73258",
+        "label": "King",
+        "lastplayed": "",
+        "mpaa": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Shortly after moving into a new house, 12 year-old Russell discovers something weird under his bed - a trap door leading to the fantastic world of Under!   Russell is crowned King of Under, and boy, does his kingdom need help!   For years, Under was ruled by the evil King Cliff the Grim (who used to live in Russell's room), and now it's up to Russell to put things right.  It's also a time to make new friends, to explore and to find adventure.  Yes, Russell is the King, but he's also a boy with a talking dog in a strange and wonderful place.  The series follows the astonishing adventures of these characters and how King Russell struggles to remain King under trying circumstances.",
+        "premiered": "2005-06-23",
+        "rating": 7,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "NickToons"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/73258-1.jpg",
+        "title": "King",
+        "tvshowid": 51,
+        "votes": "0",
+        "watchedepisodes": 0,
+        "year": 2005
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/73258-g.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/73258-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Reid",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alan Park",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alison Sealy-Smith",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cal Dodd",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dennis Akayama",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Kee",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Julie Lemieux",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Rendall",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Marnie McPhail",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maurice Dean Wint",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Neil Crone",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rick Green",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rob Smith",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Tinkler",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Stacey Depass",
+                        "order": 14,
+                        "role": ""
+                    }
+                ],
+                "dateadded": "2012-11-12 20:06:12",
+                "director": [],
+                "episode": 1,
+                "episodeid": 830,
+                "fanart": "",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/King/Season 1/King.S01E01.Neue.Schuhe.German.Dubbed.DL.iTunesHD.XviD-4SJ.mp4",
+                "firstaired": "2005-06-23",
+                "label": "1x01. Down to Under",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The Wright family moves to a new house and Russel discovers the passage to Under under his bed. He befriends Loopy and Vernon and together with Russel's dog Gus, they challenge Bob Wire for the crown of Under and Russel becomes Under's new King.",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "King",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "Down to Under",
+                "tvshowid": 51,
+                "uniqueid": {
+                    "unknown": "111025"
+                },
+                "votes": "4",
+                "writer": []
+            },
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/73258-g.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/73258-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Reid",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alan Park",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alison Sealy-Smith",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cal Dodd",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dennis Akayama",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Kee",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Julie Lemieux",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Rendall",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Marnie McPhail",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maurice Dean Wint",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Neil Crone",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rick Green",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rob Smith",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Tinkler",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Stacey Depass",
+                        "order": 14,
+                        "role": ""
+                    }
+                ],
+                "dateadded": "2012-11-15 21:19:14",
+                "director": [],
+                "episode": 2,
+                "episodeid": 831,
+                "fanart": "",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/King/Season 1/King.S01E02.Scheintot.GERMAN.Dubbed.720p.HDTV.x264-idTV.mp4",
+                "firstaired": "2005-06-24",
+                "label": "1x02. Ex Princess in a Tree",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Bob sends a fake SOS to Russel from ex-Princess Populah so he can lure him into a trap and steal back the crown. Meanwhile Loopy hatches what he believes is an Urklet egg, only to find it was actually a vicious Rebbuloc, which terrorizes the throne room before escaping to Up and encountering Cliff, who was trying to sneak down to Under.",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "King",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "Ex Princess in a Tree",
+                "tvshowid": 51,
+                "uniqueid": {
+                    "unknown": "111026"
+                },
+                "votes": "3",
+                "writer": []
+            },
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/73258-g.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/73258-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Reid",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alan Park",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alison Sealy-Smith",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cal Dodd",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dennis Akayama",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Kee",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Julie Lemieux",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Rendall",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Marnie McPhail",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maurice Dean Wint",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Neil Crone",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rick Green",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rob Smith",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Tinkler",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Stacey Depass",
+                        "order": 14,
+                        "role": ""
+                    }
+                ],
+                "dateadded": "2012-11-21 18:49:32",
+                "director": [],
+                "episode": 3,
+                "episodeid": 832,
+                "fanart": "",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/King/Season 1/King.S01E03.Pseudonym.GERMAN.Dubbed.720p.HDTV.x264-idTV.mp4",
+                "firstaired": "2005-06-27",
+                "label": "1x03. In Near Under and Out the Other",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "While trespassing in Near Under, Loopy is mistaken as a pet by Auntie First and she locks him away. When Russel goes to help, Gus is also taken and Populah has to help the King rescue his friends. After leaving for Near Under, Vernon starts work on Under's new currency: greenbacks, which Bob quickly began hoarding to himself.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "King",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "In Near Under and Out the Other",
+                "tvshowid": 51,
+                "uniqueid": {
+                    "unknown": "111027"
+                },
+                "votes": "3",
+                "writer": []
+            },
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/73258-g.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/73258-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Reid",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alan Park",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alison Sealy-Smith",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cal Dodd",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dennis Akayama",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Kee",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Julie Lemieux",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Rendall",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Marnie McPhail",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maurice Dean Wint",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Neil Crone",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rick Green",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rob Smith",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Tinkler",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Stacey Depass",
+                        "order": 14,
+                        "role": ""
+                    }
+                ],
+                "dateadded": "2012-11-21 18:50:14",
+                "director": [],
+                "episode": 4,
+                "episodeid": 833,
+                "fanart": "",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/King/Season 1/King.S01E04.Koma.GERMAN.Dubbed.720p.HDTV.x264-idTV.mp4",
+                "firstaired": "2005-06-28",
+                "label": "1x04. The Self-Moblilating Gizmet",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "By Russel's request, Vernon builds a car. Bob however steals it to bring to Auntie First as their new secret weapon for invading Under, leaving Russel and his friends stranded in the desert.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "King",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "The Self-Moblilating Gizmet",
+                "tvshowid": 51,
+                "uniqueid": {
+                    "unknown": "111028"
+                },
+                "votes": "3",
+                "writer": []
+            },
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/73258-g.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/73258-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Reid",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alan Park",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alison Sealy-Smith",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cal Dodd",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dennis Akayama",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Kee",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Julie Lemieux",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Rendall",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Marnie McPhail",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maurice Dean Wint",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Neil Crone",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rick Green",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rob Smith",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Tinkler",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Stacey Depass",
+                        "order": 14,
+                        "role": ""
+                    }
+                ],
+                "dateadded": "2012-11-21 18:50:46",
+                "director": [],
+                "episode": 5,
+                "episodeid": 834,
+                "fanart": "",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/King/Season 1/King.S01E05.Im.Visier.GERMAN.Dubbed.720p.HDTV.x264-idTV.mp4",
+                "firstaired": "2005-06-29",
+                "label": "1x05. Never Be Nice to a Pudric",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Russel orders the populace of Under to stop blaming the Pubrick for all their problems, not knowing that this will allow the creature to turn into a fearsome beast. Meanwhile, Bob commandeers Vernon's ripulator to create a fault around Under, ransoming the Crown in exchange for the key that will set things right and prevent Night Slythers from emerging at sundown and destroying everything.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "King",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "Never Be Nice to a Pudric",
+                "tvshowid": 51,
+                "uniqueid": {
+                    "unknown": "111029"
+                },
+                "votes": "4",
+                "writer": []
+            },
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/73258-g.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/73258-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Reid",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alan Park",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alison Sealy-Smith",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cal Dodd",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dennis Akayama",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Kee",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Julie Lemieux",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Rendall",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Marnie McPhail",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maurice Dean Wint",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Neil Crone",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rick Green",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rob Smith",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Tinkler",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Stacey Depass",
+                        "order": 14,
+                        "role": ""
+                    }
+                ],
+                "dateadded": "2012-11-30 17:22:43",
+                "director": [],
+                "episode": 6,
+                "episodeid": 835,
+                "fanart": "",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/King/Season 1/King.S01E06.Kaltbluetig.GERMAN.Dubbed.720p.HDTV.x264-idTV.mp4",
+                "firstaired": "2005-06-30",
+                "label": "1x06. Blame It on the Moon",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a stray dog keeps Russel up all night, he goes down to Under and finds everyone sending their garbage up to the moon and Gus with the crown are sucked away as well. When Russel goes to retrieve them, he learns from the Hermet who lives on the moon that one more load of garbage will send it crashing into Under next year.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "King",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "Blame It on the Moon",
+                "tvshowid": 51,
+                "uniqueid": {
+                    "unknown": "111030"
+                },
+                "votes": "3",
+                "writer": []
+            },
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/73258-g.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/73258-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Reid",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alan Park",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alison Sealy-Smith",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cal Dodd",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dennis Akayama",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Kee",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Julie Lemieux",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Rendall",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Marnie McPhail",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maurice Dean Wint",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Neil Crone",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rick Green",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rob Smith",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Tinkler",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Stacey Depass",
+                        "order": 14,
+                        "role": ""
+                    }
+                ],
+                "dateadded": "2012-11-30 17:23:08",
+                "director": [],
+                "episode": 7,
+                "episodeid": 836,
+                "fanart": "",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/King/Season 1/King.S01E07.Im.Kreuzfeuer.GERMAN.Dubbed.720p.HDTV.x264-idTV.mp4",
+                "firstaired": "2005-07-01",
+                "label": "1x07. Pollen Holiday",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Mysterious pollen flows from Under up into Russel's room, knocking out Cliff and sending Russel down to investigate with Gus. When they get rid of the bush responsible, Loopy discovers that a mass of unknown monsters are bearing down on the town.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "King",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "Pollen Holiday",
+                "tvshowid": 51,
+                "uniqueid": {
+                    "unknown": "111031"
+                },
+                "votes": "4",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/73258-g.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/73258-1.jpg"
+            },
+            "episode": 7,
+            "fanart": "",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 264,
+            "showtitle": "King",
+            "thumbnail": "",
+            "tvshowid": 51,
+            "watchedepisodes": 0
+        }
+    ]
+}

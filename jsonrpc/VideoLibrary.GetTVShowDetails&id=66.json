@@ -1,0 +1,3279 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+            "poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+        },
+        "cast": [
+            {
+                "name": "Troian Bellisario",
+                "order": 0,
+                "role": "Spencer Hastings",
+                "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+            },
+            {
+                "name": "Shay Mitchell",
+                "order": 1,
+                "role": "Emily Fields",
+                "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+            },
+            {
+                "name": "Ashley Benson",
+                "order": 2,
+                "role": "Hanna Marin",
+                "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+            },
+            {
+                "name": "Lucy Hale",
+                "order": 3,
+                "role": "Aria Montgomery",
+                "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+            },
+            {
+                "name": "Tyler Blackburn",
+                "order": 4,
+                "role": "Caleb Rivers",
+                "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+            },
+            {
+                "name": "Janel Parrish",
+                "order": 5,
+                "role": "Mona Vanderwall",
+                "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+            },
+            {
+                "name": "Sasha Pieterse",
+                "order": 6,
+                "role": "Alison DiLaurentis",
+                "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+            },
+            {
+                "name": "Drew Van Acker",
+                "order": 7,
+                "role": "Jason DiLaurentis",
+                "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+            },
+            {
+                "name": "Keegan Allen",
+                "order": 8,
+                "role": "Toby Cavanaugh",
+                "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+            },
+            {
+                "name": "Ian Harding",
+                "order": 9,
+                "role": "Ezra Fitz",
+                "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+            },
+            {
+                "name": "Brant Daugherty",
+                "order": 10,
+                "role": "Noel Kahn",
+                "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+            },
+            {
+                "name": "Torrey DeVitto",
+                "order": 11,
+                "role": "Melissa Hastings",
+                "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+            },
+            {
+                "name": "Julian Morris",
+                "order": 12,
+                "role": "Wren Kim",
+                "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+            },
+            {
+                "name": "Holly Marie Combs",
+                "order": 13,
+                "role": "Ella Montgomery",
+                "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+            },
+            {
+                "name": "Laura Leighton",
+                "order": 14,
+                "role": "Ashley Marin",
+                "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+            },
+            {
+                "name": "Chad Lowe",
+                "order": 22,
+                "role": "Byron Montgomery"
+            },
+            {
+                "name": "Lesley Fera",
+                "order": 23,
+                "role": "Veronica Hastings"
+            },
+            {
+                "name": "Tammin Sursok",
+                "order": 27,
+                "role": "Jenna Marshall"
+            },
+            {
+                "name": "Brendan Robinson",
+                "order": 33,
+                "role": "Lucas Gottesman"
+            },
+            {
+                "name": "Vanessa Ray",
+                "order": 34,
+                "role": "Cece Drake"
+            }
+        ],
+        "dateadded": "2012-10-03 10:40:04",
+        "episode": 19,
+        "episodeguide": "<episodeguide><url cache=\"146711-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/146711/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "imdbnumber": "146711",
+        "label": "Pretty Little Liars",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Based on the Pretty Little Liars series of young adult novels by Sara Shepard, the series follows the lives of four girls — Spencer, Hanna, Aria, and Emily — whose clique falls apart after the disappearance of their queen bee, Alison. One year later, they begin receiving messages from someone using the name \"A\" who threatens to expose their secrets — including long-hidden ones they thought only Alison knew. The show stars Lucy Hale and Holly Marie Combs",
+        "premiered": "2010-06-08",
+        "rating": 8.5,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "ABC Family"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/146711-12.jpg",
+        "title": "Pretty Little Liars",
+        "tvshowid": 66,
+        "votes": "71",
+        "watchedepisodes": 0,
+        "year": 2010
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/2075261.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-23 01:08:02",
+                "director": [
+                    "Lesli Linka Glatter"
+                ],
+                "episode": 1,
+                "episodeid": 1232,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E01.Wie.alles.begann.German.Dubbed.DL.iTunesHD.XviD-TVS.avi",
+                "firstaired": "2010-06-08",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Artsy and eclectic Aria has just returned to town after spending a year overseas and, while she tries to deny feeling hurt over her father Byron's indiscretion with one of his ex-students at the college, and keep her mom, Ella, from finding out, she can't ignore the intense chemistry with Ezra Fitz - Aria's English teacher. Once-chubby Hanna has transformed herself into the current \"It girl,\" but still battles the urge to binge. Shoplifting gives her a less-fattening thrill, but when she gets caught, the charges are dismissed only because her mother, Ashley, takes matters into her own hands, eager to keep her own reputation and the image of her daughter untarnished. Spencer is a perfectionist and straight-A student whose pressure to stand out in her overachieving family leaves her feeling alone ... until she finds understanding in the unlikeliest of places - the arms of her sister's fiancé. Emily, an athlete trying to sort out her place in the world, finds herself drawn to her new neighbor, Maya, a free spirit who recently moved into Alison's old house across the street. When each girl receives a message referencing these most private details that barely scratch the surface of what they are desperate to keep hidden, living in their picturesque suburban community suddenly seems far from perfect as secrets, lies and betrayals threaten everything they hold dear. Even after Alison's body is discovered, the messages don't stop...",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/2075261.jpg",
+                "title": "Pilot",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "2075261"
+                },
+                "votes": "56",
+                "writer": [
+                    "I. Marlene King"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/2085101.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-23 01:49:52",
+                "director": [
+                    "Liz Friedlander"
+                ],
+                "episode": 2,
+                "episodeid": 1233,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E02.Die.Sache.mit.Jenna.GERMAN.Dubbed.DVDRip.XviD-idTV-stream-kinox.to.avi",
+                "firstaired": "2010-06-15",
+                "label": "1x02. The Jenna Thing",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The circumstances surrounding Alison's disappearance continue to haunt Aria, Emily, Spencer and Hanna, as questions arise about the night she went missing. To complicate matters, Jenna's return to Rosewood makes the girls face an unpleasant past and an incident that sealed their friendship forever. Can the girls face what has taken place in their past, especially since \"A\" won't let them forget? Meanwhile temptation is everywhere they look, as Aria tries her hardest to stay away from Ezra and Spencer won't shy away from her sister's fiancé, Wren.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/2085101.jpg",
+                "title": "The Jenna Thing",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "2085101"
+                },
+                "votes": "44",
+                "writer": [
+                    "I. Marlene King"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/2085111.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-23 02:57:32",
+                "director": [
+                    "Elodie Keene"
+                ],
+                "episode": 3,
+                "episodeid": 1234,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E03.Wer.die.Nachtigall.stoert.GERMAN.Dubbed.DVDRip.XviD-idTV.avi",
+                "firstaired": "2010-06-22",
+                "label": "1x03. To Kill a Mocking Girl",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The saying \"The past will come back to haunt you\" is never more true than for Aria, Spencer, Hanna and Emily. As the girls try to pay tribute to Alison's memory, the four friends are faced with unresolved issues. Aria has an unsettling encounter with her father's former mistress, Meredith. Emily is forced to see Toby Cavanaugh in a new light. Spencer is reeling in the wake of a vengeful Melissa. And Hanna is desperate to have her boyfriend, Sean, forget the \"old\" Hanna. With \"A\" taunting them every step of the way, how can the girls forge ahead and leave the past behind? Meanwhile, Detective Wilden uses his new connection to Hanna and Ashley to his benefit. But will he get the answers he's looking for by making himself at home in the Marin household?",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/2085111.jpg",
+                "title": "To Kill a Mocking Girl",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "2085111"
+                },
+                "votes": "45",
+                "writer": [
+                    "Oliver Goldstick"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/2085121.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-23 21:35:10",
+                "director": [
+                    "Norman Buckley"
+                ],
+                "episode": 4,
+                "episodeid": 1235,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E04.Wer.nicht.hoeren.will.muss.fuehlen.GERMAN.Dubbed.DVDRip.XviD-idTV.avi",
+                "firstaired": "2010-06-29",
+                "label": "1x04. Can You Hear Me Now",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Tired of being harassed by \"A,\" the girls decide to put a stop to the anonymous emails and text messages by blocking all unknown users. But even with the mysterious ghost no longer looming over their heads, the girls' problems are far from over. With a surprise visit by a father, a surprise gift from a prospective paramour, getting some unwanted advice and an undeserved scholarly accolade, the girls' lives continue to get more complicated by the day. And after dealing with all of that, did the Pretty Little Liars really think they could keep \"A\" away forever?",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/2085121.jpg",
+                "title": "Can You Hear Me Now",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "2085121"
+                },
+                "votes": "49",
+                "writer": [
+                    "Joseph Dougherty"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/2085131.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-23 22:29:24",
+                "director": [
+                    "Wendey Stanzler"
+                ],
+                "episode": 5,
+                "episodeid": 1236,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E05.Wahrheit.tut.weh.GERMAN.Dubbed.DVDRip.XviD-idTV-stream-kinox.to.avi",
+                "firstaired": "2010-07-06",
+                "label": "1x05. Reality Bites Me",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Trying to ignore \"A\" backfired for the girls, and now they must pay the penalty. Whether it's a family in crisis, parental praise for an undeserved honor looming over their heads or wearing totally unfashionable scrubs while working off a debt – the girls must deal with it all. And on top of that, \"A's\" lipstick message is still haunting them. Meanwhile the girls must also deal with typical teenage drama – the boy kind – when a new boy arrives and pushes the status quo, a secret love is tested, a new romance blooms and an old romance is floating in the grey area.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/2085131.jpg",
+                "title": "Reality Bites Me",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "2085131"
+                },
+                "votes": "42",
+                "writer": [
+                    "Bryan M. Holdman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/2085141.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-23 23:49:00",
+                "director": [
+                    "Norman Buckley"
+                ],
+                "episode": 6,
+                "episodeid": 1237,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E06.Ballgefluester.GERMAN.Dubbed.DVDRip.XviD-idTV-stream-kinox.to.avi",
+                "firstaired": "2010-07-13",
+                "label": "1x06. There's No Place Like Homecoming",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The homecoming decorating committee is knee deep in balloons, and girls are jockeying for position to be the queen, while four friends from Rosewood just try to stay afloat. Dealing with heartbreak, a boyfriend's virginity pledge and a vengeful sister all take a backseat when one girl makes a shocking homecoming date choice that puts her in a possibly sticky situation. Will the girls be able to protect one of their own, or will the evening turn out to be a night they can never forget?",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/2085141.jpg",
+                "title": "There's No Place Like Homecoming",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "2085141"
+                },
+                "votes": "39",
+                "writer": [
+                    "Maya Goldsmith"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/2085221.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-24 02:17:45",
+                "director": [
+                    "Arlene Sanford"
+                ],
+                "episode": 8,
+                "episodeid": 1238,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E08.Vergesst.mich.nicht.GERMAN.Dubbed.DVDRip.XviD-idTV.avi",
+                "firstaired": "2010-07-27",
+                "label": "1x08. Please Do Talk About Me When I'm Gone",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After much planning, the day of Alison’s memorial is around the corner and the girls are ready to say their goodbyes. But when Alison’s brother Jason arrives, Spencer, Aria, Hanna and Emily quickly learn that saying goodbye is at the bottom of his list. As Jason takes over, and Detective Wilden returns, will the girls be able to celebrate Alison’s life in the peaceful and positive way they were hoping for? Meanwhile, Hanna is forced to deal with a situation at home that could really cramp her “it girl” status.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/2085221.jpg",
+                "title": "Please Do Talk About Me When I'm Gone",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "2085221"
+                },
+                "votes": "43",
+                "writer": [
+                    "Joseph Dougherty"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/2085231.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-24 02:10:19",
+                "director": [
+                    "Jamie Babbit"
+                ],
+                "episode": 9,
+                "episodeid": 1239,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E09.Grosse.Erwartungen.GERMAN.Dubbed.DVDRip.XviD-idTV.avi",
+                "firstaired": "2010-08-03",
+                "label": "1x09. The Perfect Storm",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Rosewood gets a massive storm on the day the students are to take their SAT test, which causes the school to postpone the examinations. Trapped in the school during the storm, the girls' personal lives become stormy as well. Drama strikes each girl differently and manifests itself into different situations. After the storm passes and the girls get to go home, they all come to the realization that taking the SATs would have been a much easier task to complete.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/2085231.jpg",
+                "title": "The Perfect Storm",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "2085231"
+                },
+                "votes": "39",
+                "writer": [
+                    "Oliver Goldstick"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/2085241.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-24 02:53:38",
+                "director": [
+                    "Ron Lagomarsino"
+                ],
+                "episode": 10,
+                "episodeid": 1240,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E10.Beste.Freundinnen.GERMAN.Dubbed.DVDRip.XviD-idTV-stream-kinox.to.avi",
+                "firstaired": "2010-08-10",
+                "label": "1x10. Keep Your Friends Close",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "\"A\" targets the girls once again as they attend an upscale camping trip for one of their friend's birthday party and they fear that \"A\" may want to crash the fun. The FBI becomes involved in Alison's murder case because of new evidence that they have found. Also, Ashley faces difficulties because of her financial situation.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/2085241.jpg",
+                "title": "Keep Your Friends Close",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "2085241"
+                },
+                "votes": "38",
+                "writer": [
+                    "I. Marlene King"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/2657331.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-24 03:00:13",
+                "director": [
+                    "Norman Buckley"
+                ],
+                "episode": 11,
+                "episodeid": 1241,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E11.Kurze.Zeit.spaeter.German.Dubbed.DL.iTunesHD.XviD-TVS.avi",
+                "firstaired": "2011-01-03",
+                "label": "1x11. Moments Later",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Moments after Hanna is hit by a car, the girls’ world is turned upside down. “A” is no longer content to playing a game of cat and mouse – it has taken a far more precarious turn and now more than ever the four Pretty Little Liars have to turn to each other for support. With Hanna in the hospital and armed with the information of who “A” is, the girls are backtracking to figure out how they got to this point. How could this person know everything and want to use it against them?\r\nMeanwhile, each girl has to also deal with a secret that is either found out, confessed or confronted – proving that secrets are still abound in Rosewood, PA.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/2657331.jpg",
+                "title": "Moments Later",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "2657331"
+                },
+                "votes": "38",
+                "writer": [
+                    "Joseph Dougherty"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/2770301.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-24 02:59:23",
+                "director": [
+                    "Norman Buckley"
+                ],
+                "episode": 12,
+                "episodeid": 1242,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E12.Salz.in.die.Wunde.German.Dubbed.DL.iTunesHD.XviD-TVS.avi",
+                "firstaired": "2011-01-10",
+                "label": "1x12. Salt Meets Wound",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Hanna is released from the hospital, but confined to a wheelchair. Meanwhile, Aria struggles with the fact that Noel knows about her affair with Ezra, Spencer's relationship with Alex hits a road bump, and Emily invites Maya to meet her family.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/2770301.jpg",
+                "title": "Salt Meets Wound",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "2770301"
+                },
+                "votes": "42",
+                "writer": [
+                    "Oliver Goldstick"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/3168221.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-24 20:01:12",
+                "director": [
+                    "Ron Lagomarsino"
+                ],
+                "episode": 13,
+                "episodeid": 1243,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E13.Freund.oder.Feind.GERMAN.Dubbed.DVDRip.XviD-idTV.avi",
+                "firstaired": "2011-01-17",
+                "label": "1x13. Know Your Frenemies",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Relationships are in flux in Rosewood, PA as the Liars face many obstacles. As Noel steps up his pursuit of Ezra and what he can gain from his knowledge, Aria and Ezra start to feel like there may be no way out. Emily must also deal with opposition to her love life, as her mother Pam's perceived tolerance of Maya comes to a screeching halt. And Spencer must now handle the return of happy newlyweds Melissa and Ian, even though her suspicions of Ian's ties to Alison grow. But with the other girls' support and unexpected help form an unlikely source, the future for the Liars doesn't look so hopeless. Meanwhile, \"A\" has Hanna jumping through old habit hoops with regard to the stolen money. Will Hanna fall back into her old ways, or does she have the will power to stand up to \"A\" and her games?",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/3168221.jpg",
+                "title": "Know Your Frenemies",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "3168221"
+                },
+                "votes": "39",
+                "writer": [
+                    "I. Marlene King"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/3168231.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-24 20:05:24",
+                "director": [
+                    "Norman Buckley"
+                ],
+                "episode": 14,
+                "episodeid": 1244,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E14.Damenwahl.German.Dubbed.DL.iTunesHD.XviD-TVS.avi",
+                "firstaired": "2011-01-24",
+                "label": "1x14. Careful What U Wish 4",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As the school gets ready for the dance-a-thon, Aria, Emily, Hanna and Spencer have more on their minds than raising money for the school trip to Washington, DC. Hanna is having a hard time finding a job to help her family's financial situation, but when \"A\" has a job for her, will Hanna be able to refuse? Emily can only think of Maya and is desperate to speak to her -- so much so that she enlists the help of Caleb, the new bad boy in the school. And as an important piece of property goes missing, Spencer finds being in close quarters with her new brother-in-law, Ian, more difficult than ever. Meanwhile, Aria's former babysitter, Simone, comes back to town for a surprise visit. But what should be a happy reunion quickly becomes a nightmare for Aria when Simone sets her sights on Ezra.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/3168231.jpg",
+                "title": "Careful What U Wish 4",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "3168231"
+                },
+                "votes": "42",
+                "writer": [
+                    "Tamar Laddy"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/3168241.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-24 20:15:54",
+                "director": [
+                    "Ron Lagomarsino"
+                ],
+                "episode": 15,
+                "episodeid": 1245,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E15.Beluege.deinen.Naechsten.GERMAN.Dubbed.DVDRip.XviD-idTV.avi",
+                "firstaired": "2011-01-31",
+                "label": "1x15. If at First You Don't Succeed, Lie, Lie Again",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The girls try to resume a sense of normalcy in their lives, but even the simple tasks of dating and extra-circular activities meet with strife. Emily must deal with a jealous teammate who is threatened by Emily’s return to the pool, as Aria and Ezra plan their first date out in the open. And Hanna is still stuck playing “A’s” game, but the next hurdle might just have complications for another Liar. With “A” pulling the strings and making matters worse, will the girls be able to weather the storm and lie their way out of it, or will they have to face the ugly truths? Meanwhile, Spencer turns to Ali’s brother, Jason, for information about the night they believe Alison died, only to have to face part of her unpleasant past with Ali.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/3168241.jpg",
+                "title": "If at First You Don't Succeed, Lie, Lie Again",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "3168241"
+                },
+                "votes": "38",
+                "writer": [
+                    "Maya Goldsmith"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/3550601.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-24 20:07:10",
+                "director": [
+                    "Chris Grismer"
+                ],
+                "episode": 16,
+                "episodeid": 1246,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E16.Franzoesisch.fuer.Fortgeschrittene.German.Dubbed.DL.iTunesHD.XviD-TVS.avi",
+                "firstaired": "2011-02-07",
+                "label": "1x16. Je Suis une Amie",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A crucial swim meet for the Rosewood Sharks is the setting for Aria, Emily, Hanna and Spencer to experience a lot of turmoil. Emily and Paige go for round two, as they are pitted against each other to compete for the anchor leg of the big race. And Caleb calls in his favor with a guilty Hanna as she tries to deter Aria from asking too many questions about Ella’s ticket to the museum opening. As secrets start to be revealed and antagonists become less threatening, will this become a game changer for the girls? Meanwhile, Spencer takes on the task of tutoring a fellow student to try and get some answers.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/3550601.jpg",
+                "title": "Je Suis une Amie",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "3550601"
+                },
+                "votes": "37",
+                "writer": [
+                    "Bryan M. Holdman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/3654021.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-08-25 00:59:35",
+                "director": [
+                    "Michael Grossman"
+                ],
+                "episode": 17,
+                "episodeid": 1247,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E17.Der.schoene.Schein.German.Dubbed.DL.iTunesHD.XviD-TVS.avi",
+                "firstaired": "2011-02-14",
+                "label": "1x17. The New Normal",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "What happens to one liar when parent-teacher conferences come around and her father sits face to face with the love of her life? What about when another one reaches out to a tarnished innocent, when no one else will? And what about the liar who is taken by surprise by an unpleasant person? And don't forget about the last liar who is getting way too comfortable with someone she might not want to trust. Whatever it is, \"A\" is sure to have something to say about it. It's now just another normal day in Rosewood, PA for Aria, Emily, Hanna and Spencer.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/3654021.jpg",
+                "title": "The New Normal",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "3654021"
+                },
+                "votes": "37",
+                "writer": [
+                    "Joseph Dougherty"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/3663571.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-09-27 15:52:47",
+                "director": [
+                    "Paul Lazarus"
+                ],
+                "episode": 18,
+                "episodeid": 1248,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E18.Die.boese.Saat.German.Dubbed.DL.iTunesHD.XviD-TVS.avi",
+                "firstaired": "2011-02-21",
+                "label": "1x18. The Badass Seed",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As their doubts, fears and suspicions grow, Aria, Emily, Hanna and Spencer start to wonder what the true face of evil looks like. Is it the girl who holds a grudge and will do anything to keep her loved ones near? Is it the new brother-in-law who might have a darker side beneath the surface? Or is it an unknown stranger who is playing puppet master with four girls' lives? Only time will tell who the Bad Seed is. Meanwhile, Aria sees the school play as an opportunity to get closer to Ezra. But will her plan backfire and put her relationship in jeopardy?",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/3663571.jpg",
+                "title": "The Badass Seed",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "3663571"
+                },
+                "votes": "39",
+                "writer": [
+                    "Oliver Goldstick",
+                    "Francesca Rollins"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/3719931.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-09-27 15:52:47",
+                "director": [
+                    "Arlene Sanford"
+                ],
+                "episode": 20,
+                "episodeid": 1249,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E20.2.1.4.German.Dubbed.DL.iTunesHD.XviD-TVS.avi",
+                "firstaired": "2011-03-07",
+                "label": "1x20. Someone to Watch Over Me",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As the heat is turned up on the suspicions surrounding Spencer, the girls must come to the reality that they aren't the only ones hiding secrets in Rosewood. Spencer remembers something that happened the night of the murder.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/3719931.jpg",
+                "title": "Someone to Watch Over Me",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "3719931"
+                },
+                "votes": "37",
+                "writer": [
+                    "Joseph Dougherty"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/146711/3719941.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Troian Bellisario",
+                        "order": 0,
+                        "role": "Spencer Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167421.jpg"
+                    },
+                    {
+                        "name": "Shay Mitchell",
+                        "order": 1,
+                        "role": "Emily Fields",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167411.jpg"
+                    },
+                    {
+                        "name": "Ashley Benson",
+                        "order": 2,
+                        "role": "Hanna Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/167401.jpg"
+                    },
+                    {
+                        "name": "Lucy Hale",
+                        "order": 3,
+                        "role": "Aria Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165741.jpg"
+                    },
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 4,
+                        "role": "Caleb Rivers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Janel Parrish",
+                        "order": 5,
+                        "role": "Mona Vanderwall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287034.jpg"
+                    },
+                    {
+                        "name": "Sasha Pieterse",
+                        "order": 6,
+                        "role": "Alison DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287030.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 7,
+                        "role": "Jason DiLaurentis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Keegan Allen",
+                        "order": 8,
+                        "role": "Toby Cavanaugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287031.jpg"
+                    },
+                    {
+                        "name": "Ian Harding",
+                        "order": 9,
+                        "role": "Ezra Fitz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/184771.jpg"
+                    },
+                    {
+                        "name": "Brant Daugherty",
+                        "order": 10,
+                        "role": "Noel Kahn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288691.jpg"
+                    },
+                    {
+                        "name": "Torrey DeVitto",
+                        "order": 11,
+                        "role": "Melissa Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287033.jpg"
+                    },
+                    {
+                        "name": "Julian Morris",
+                        "order": 12,
+                        "role": "Wren Kim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/179491.jpg"
+                    },
+                    {
+                        "name": "Holly Marie Combs",
+                        "order": 13,
+                        "role": "Ella Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/165721.jpg"
+                    },
+                    {
+                        "name": "Laura Leighton",
+                        "order": 14,
+                        "role": "Ashley Marin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153221.jpg"
+                    },
+                    {
+                        "name": "Chad Lowe",
+                        "order": 22,
+                        "role": "Byron Montgomery"
+                    },
+                    {
+                        "name": "Lesley Fera",
+                        "order": 23,
+                        "role": "Veronica Hastings"
+                    },
+                    {
+                        "name": "Tammin Sursok",
+                        "order": 27,
+                        "role": "Jenna Marshall"
+                    },
+                    {
+                        "name": "Brendan Robinson",
+                        "order": 33,
+                        "role": "Lucas Gottesman"
+                    },
+                    {
+                        "name": "Vanessa Ray",
+                        "order": 34,
+                        "role": "Cece Drake"
+                    }
+                ],
+                "dateadded": "2012-10-03 10:40:04",
+                "director": [
+                    "Chris Grismer"
+                ],
+                "episode": 21,
+                "episodeid": 1250,
+                "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Pretty Little Liars/Season 1/Pretty.Little.Liars.S01E21.Monster.wohin.man.sieht.German.Dubbed.DL.iTunesHD.XviD-TVS.avi",
+                "firstaired": "2011-03-14",
+                "label": "1x21. Monsters in the End",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Everyone has something to hide - whether it be a secret romance, who they really are and what their true intentions are. For Aria, Emily, Hanna and Spencer, keeping things hidden is second nature, but having to live with those secrets can become a big burden. How long can Aria be with someone when they can't go out in public? Is it a true friendship when Spencer and Toby aren't able to be seen together? How truthful can Emily be when she can't be honest about whom she wants to be with? And how can Hanna move on when she secretly still wants to be with the one who broke her heart? With someone like \"A\" out there to watch their every move, four Liars may not have to worry about keeping things hidden for too much longer. Meanwhile, Rosewood police officer Garrett Reynolds is keeping his promise to keep a close eye on the girls - much closer than they realize.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Pretty Little Liars",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/146711/3719941.jpg",
+                "title": "Monsters in the End",
+                "tvshowid": 66,
+                "uniqueid": {
+                    "unknown": "3719941"
+                },
+                "votes": "36",
+                "writer": [
+                    "Oliver Goldstick"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/146711-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/146711-g12.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/146711-12.jpg"
+            },
+            "episode": 19,
+            "fanart": "http://thetvdb.com/banners/fanart/original/146711-8.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 365,
+            "showtitle": "Pretty Little Liars",
+            "thumbnail": "http://thetvdb.com/banners/seasons/146711-1.jpg",
+            "tvshowid": 66,
+            "watchedepisodes": 0
+        }
+    ]
+}

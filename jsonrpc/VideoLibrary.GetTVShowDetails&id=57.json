@@ -1,0 +1,142 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/275631-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/275631-9.jpg",
+            "poster": "http://thetvdb.com/banners/posters/275631-5.jpg"
+        },
+        "cast": [
+            {
+                "name": "Youko Hikasa",
+                "order": 0,
+                "role": "Jeanne Kaguya d'Arc",
+                "thumbnail": "http://thetvdb.com/banners/actors/324711.jpg"
+            },
+            {
+                "name": "Mamoru Miyano",
+                "order": 1,
+                "role": "Oda Nobunaga"
+            },
+            {
+                "name": "Tomokazu Sugita",
+                "order": 3,
+                "role": "Leonardo da Vinci"
+            }
+        ],
+        "dateadded": "2014-09-23 20:38:25",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"275631-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/275631/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/275631-9.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nobunaga the Fool/",
+        "genre": [
+            "Action",
+            "Animation",
+            "Science-Fiction"
+        ],
+        "imdbnumber": "275631",
+        "label": "Nobunaga the Fool",
+        "lastplayed": "",
+        "mpaa": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "The Western Planet and the Eastern Planet.\r\nOnce upon a time, the two sides were bound by the \"Dragon Pulse\" spanning the heavens.\r\n\r\nThe civilization that once had prospered has now turned to a tale of dreams, as the inextinguishable flames of war tear the realm asunder. The two planets remain engulfed in endless battles.\r\n\r\nThe return of the super technology known as \"sacred treasures\" could revolutionize the world order, but no one knows of them but one person—a \"heretical girl.\"\r\n\r\nA girl from the Western Planet, Jeanne Kaguya d'Arc, saw heavenly visions of the birth of a \"Star Messiah\" who will save the world. She embarks on a journey to the Eastern Planet with Leonardo da Vinci, \"the one who observes the world.\" They come across the heretic of the Eastern Planet and \"the greatest fool of the day,\" Oda Nobunaga.",
+        "premiered": "2014-01-06",
+        "rating": 9,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "TV Tokyo"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/275631-5.jpg",
+        "title": "Nobunaga the Fool",
+        "tvshowid": 57,
+        "votes": "2",
+        "watchedepisodes": 0,
+        "year": 2014
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/275631/4720340.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/275631-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/275631-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/275631-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Youko Hikasa",
+                        "order": 0,
+                        "role": "Jeanne Kaguya d'Arc",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324711.jpg"
+                    },
+                    {
+                        "name": "Mamoru Miyano",
+                        "order": 1,
+                        "role": "Oda Nobunaga"
+                    },
+                    {
+                        "name": "Tomokazu Sugita",
+                        "order": 3,
+                        "role": "Leonardo da Vinci"
+                    }
+                ],
+                "dateadded": "2014-09-23 20:38:25",
+                "director": [],
+                "episode": 1,
+                "episodeid": 1185,
+                "fanart": "http://thetvdb.com/banners/fanart/original/275631-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nobunaga the Fool/Nobunaga.the.Fool.E001.Der Stern.UNCUT.SUBBED.WEBRip.x264.mp4",
+                "firstaired": "2014-01-06",
+                "label": "1x01. The Star",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 0,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Nobunaga the Fool",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/275631/4720340.jpg",
+                "title": "The Star",
+                "tvshowid": 57,
+                "uniqueid": {
+                    "unknown": "4720340"
+                },
+                "votes": "0",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/275631-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/275631-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/275631-9.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/275631-5.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/275631-9.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 307,
+            "showtitle": "Nobunaga the Fool",
+            "thumbnail": "http://thetvdb.com/banners/seasons/275631-1.jpg",
+            "tvshowid": 57,
+            "watchedepisodes": 0
+        }
+    ]
+}

@@ -1,0 +1,911 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+            "poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Sara Soulié",
+                "order": 0,
+                "role": "Didi Tasson",
+                "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+            },
+            {
+                "name": "Rebecca Viitala",
+                "order": 1,
+                "role": "Kati Ordana",
+                "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+            },
+            {
+                "name": "Manuela Bosco",
+                "order": 2,
+                "role": "Nadia Rapaccini",
+                "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+            }
+        ],
+        "dateadded": "2014-04-29 21:52:55",
+        "episode": 12,
+        "episodeguide": "<episodeguide><url cache=\"274147-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/274147/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/",
+        "genre": [
+            "Drama",
+            "Fantasy"
+        ],
+        "imdbnumber": "274147",
+        "label": "Nymphs",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "When full moon rises above a small town, Didi Tasson, 17, makes love to her boyfriend for the first time. The boy dies. The next morning Didi meets two incredible women, Kati Ordana and Nadia Rapaccini. They tell Didi she is a nymph. Didi had to learn her new rules and norms quickly, and she has to leave her family, friends and home behind. Kati and Nadia have escaped from their own community, a society ruled by tyrannical satyrs, to live on their own among ordinary mortals. They believe Didi is their nymph of legend, who will lead all nymphs to their freedom. Kati and Nadia are ready to do anything to protect Didi from satyrs. Things don't get any easier when Didi falls madly in love with an ordinary mortal, Samuel Koski. As we all have learned from ancient tragedies, relationships between divine beings and mortals can only end up in tragedy...",
+        "premiered": "2014-01-01",
+        "rating": 6,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "MTV3"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/274147-1.jpg",
+        "title": "Nymphs",
+        "tvshowid": 59,
+        "votes": "1",
+        "watchedepisodes": 0,
+        "year": 2014
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274147/4682906.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sara Soulié",
+                        "order": 0,
+                        "role": "Didi Tasson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+                    },
+                    {
+                        "name": "Rebecca Viitala",
+                        "order": 1,
+                        "role": "Kati Ordana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+                    },
+                    {
+                        "name": "Manuela Bosco",
+                        "order": 2,
+                        "role": "Nadia Rapaccini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-10 09:32:26",
+                "director": [
+                    "Miikko Oikkonen",
+                    "Teemu Nikki"
+                ],
+                "episode": 1,
+                "episodeid": 1190,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/Season 1/Nymphs.S01E01.Nymphen.REPACK.German.DD20.720p.HDTV.x264-TVS.mkv",
+                "firstaired": "2013-11-03",
+                "label": "1x01. Full Moon",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 5.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Nymphs",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274147/4682906.jpg",
+                "title": "Full Moon",
+                "tvshowid": 59,
+                "uniqueid": {
+                    "unknown": "4682906"
+                },
+                "votes": "3",
+                "writer": [
+                    "Miikko Oikkonen",
+                    "Antti Pesonen",
+                    "Annina Holmberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274147/4682907.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sara Soulié",
+                        "order": 0,
+                        "role": "Didi Tasson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+                    },
+                    {
+                        "name": "Rebecca Viitala",
+                        "order": 1,
+                        "role": "Kati Ordana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+                    },
+                    {
+                        "name": "Manuela Bosco",
+                        "order": 2,
+                        "role": "Nadia Rapaccini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+                    }
+                ],
+                "dateadded": "2014-01-01 21:25:34",
+                "director": [
+                    "Miikko Oikkonen",
+                    "Teemu Nikki"
+                ],
+                "episode": 2,
+                "episodeid": 1191,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/Season 1/Nymphs.S01E02.Honey.Bees.German.Dubbed.HDTV.XviD-CRiSP.mkv",
+                "firstaired": "2013-11-03",
+                "label": "1x02. Honey Bees",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 6.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Nymphs",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274147/4682907.jpg",
+                "title": "Honey Bees",
+                "tvshowid": 59,
+                "uniqueid": {
+                    "unknown": "4682907"
+                },
+                "votes": "3",
+                "writer": [
+                    "Miikko Oikkonen",
+                    "Antti Pesonen",
+                    "Annina Holmberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274147/4682908.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sara Soulié",
+                        "order": 0,
+                        "role": "Didi Tasson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+                    },
+                    {
+                        "name": "Rebecca Viitala",
+                        "order": 1,
+                        "role": "Kati Ordana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+                    },
+                    {
+                        "name": "Manuela Bosco",
+                        "order": 2,
+                        "role": "Nadia Rapaccini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+                    }
+                ],
+                "dateadded": "2014-01-01 21:28:30",
+                "director": [
+                    "Miikko Oikkonen",
+                    "Teemu Nikki"
+                ],
+                "episode": 3,
+                "episodeid": 1192,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/Season 1/Nymphs.S01E03.The.Knot.German.Dubbed.HDTV.XviD-CRiSP.mkv",
+                "firstaired": "2013-11-10",
+                "label": "1x03. The Knot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 6.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Nymphs",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274147/4682908.jpg",
+                "title": "The Knot",
+                "tvshowid": 59,
+                "uniqueid": {
+                    "unknown": "4682908"
+                },
+                "votes": "3",
+                "writer": [
+                    "Miikko Oikkonen",
+                    "Antti Pesonen",
+                    "Annina Holmberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274147/4682909.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sara Soulié",
+                        "order": 0,
+                        "role": "Didi Tasson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+                    },
+                    {
+                        "name": "Rebecca Viitala",
+                        "order": 1,
+                        "role": "Kati Ordana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+                    },
+                    {
+                        "name": "Manuela Bosco",
+                        "order": 2,
+                        "role": "Nadia Rapaccini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-29 21:50:55",
+                "director": [
+                    "Miikko Oikkonen",
+                    "Teemu Nikki"
+                ],
+                "episode": 4,
+                "episodeid": 1193,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/Season 1/Nymphs.S01E04.Quid.Pro.Quo.German.Dubbed.HDTV.XviD-CRiSP.mkv",
+                "firstaired": "2013-11-10",
+                "label": "1x04. Quid Pro Quo",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 6.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Nymphs",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274147/4682909.jpg",
+                "title": "Quid Pro Quo",
+                "tvshowid": 59,
+                "uniqueid": {
+                    "unknown": "4682909"
+                },
+                "votes": "4",
+                "writer": [
+                    "Miikko Oikkonen",
+                    "Antti Pesonen",
+                    "Annina Holmberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274147/4682910.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sara Soulié",
+                        "order": 0,
+                        "role": "Didi Tasson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+                    },
+                    {
+                        "name": "Rebecca Viitala",
+                        "order": 1,
+                        "role": "Kati Ordana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+                    },
+                    {
+                        "name": "Manuela Bosco",
+                        "order": 2,
+                        "role": "Nadia Rapaccini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-29 21:52:38",
+                "director": [
+                    "Miikko Oikkonen",
+                    "Teemu Nikki"
+                ],
+                "episode": 5,
+                "episodeid": 1194,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/Season 1/Nymphs.S01E05.The.Escape.German.Dubbed.HDTV.XviD-CRiSP.mkv",
+                "firstaired": "2013-11-17",
+                "label": "1x05. The Escape",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 5.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Nymphs",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274147/4682910.jpg",
+                "title": "The Escape",
+                "tvshowid": 59,
+                "uniqueid": {
+                    "unknown": "4682910"
+                },
+                "votes": "2",
+                "writer": [
+                    "Miikko Oikkonen",
+                    "Antti Pesonen",
+                    "Annina Holmberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274147/4682911.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sara Soulié",
+                        "order": 0,
+                        "role": "Didi Tasson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+                    },
+                    {
+                        "name": "Rebecca Viitala",
+                        "order": 1,
+                        "role": "Kati Ordana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+                    },
+                    {
+                        "name": "Manuela Bosco",
+                        "order": 2,
+                        "role": "Nadia Rapaccini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-29 21:45:03",
+                "director": [
+                    "Miikko Oikkonen",
+                    "Teemu Nikki"
+                ],
+                "episode": 6,
+                "episodeid": 1195,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/Season 1/Nymphs.S01E06.The.Cure.German.Dubbed.HDTV.XviD-CRiSP.mkv",
+                "firstaired": "2013-11-17",
+                "label": "1x06. The Cure",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Nymphs",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274147/4682911.jpg",
+                "title": "The Cure",
+                "tvshowid": 59,
+                "uniqueid": {
+                    "unknown": "4682911"
+                },
+                "votes": "1",
+                "writer": [
+                    "Miikko Oikkonen",
+                    "Antti Pesonen",
+                    "Annina Holmberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274147/4682912.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sara Soulié",
+                        "order": 0,
+                        "role": "Didi Tasson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+                    },
+                    {
+                        "name": "Rebecca Viitala",
+                        "order": 1,
+                        "role": "Kati Ordana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+                    },
+                    {
+                        "name": "Manuela Bosco",
+                        "order": 2,
+                        "role": "Nadia Rapaccini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-29 21:50:43",
+                "director": [
+                    "Miikko Oikkonen",
+                    "Teemu Nikki"
+                ],
+                "episode": 7,
+                "episodeid": 1196,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/Season 1/Nymphs.S01E07.Symptoms.German.Dubbed.HDTV.XviD-CRiSP.mkv",
+                "firstaired": "2013-11-24",
+                "label": "1x07. Symptoms",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 0,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Nymphs",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274147/4682912.jpg",
+                "title": "Symptoms",
+                "tvshowid": 59,
+                "uniqueid": {
+                    "unknown": "4682912"
+                },
+                "votes": "0",
+                "writer": [
+                    "Miikko Oikkonen",
+                    "Antti Pesonen",
+                    "Annina Holmberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274147/4682921.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sara Soulié",
+                        "order": 0,
+                        "role": "Didi Tasson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+                    },
+                    {
+                        "name": "Rebecca Viitala",
+                        "order": 1,
+                        "role": "Kati Ordana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+                    },
+                    {
+                        "name": "Manuela Bosco",
+                        "order": 2,
+                        "role": "Nadia Rapaccini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-29 21:47:43",
+                "director": [
+                    "Miikko Oikkonen",
+                    "Teemu Nikki"
+                ],
+                "episode": 8,
+                "episodeid": 1197,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/Season 1/Nymphs.S01E08.The.Legend.of.Montpellier.German.Dubbed.HDTV.XviD-CRiSP.mkv",
+                "firstaired": "2013-11-24",
+                "label": "1x08. The Legend of Montpellier",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Nymphs",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274147/4682921.jpg",
+                "title": "The Legend of Montpellier",
+                "tvshowid": 59,
+                "uniqueid": {
+                    "unknown": "4682921"
+                },
+                "votes": "1",
+                "writer": [
+                    "Miikko Oikkonen",
+                    "Antti Pesonen",
+                    "Annina Holmberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274147/4682922.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sara Soulié",
+                        "order": 0,
+                        "role": "Didi Tasson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+                    },
+                    {
+                        "name": "Rebecca Viitala",
+                        "order": 1,
+                        "role": "Kati Ordana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+                    },
+                    {
+                        "name": "Manuela Bosco",
+                        "order": 2,
+                        "role": "Nadia Rapaccini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-29 21:50:38",
+                "director": [
+                    "Miikko Oikkonen",
+                    "Teemu Nikki"
+                ],
+                "episode": 9,
+                "episodeid": 1198,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/Season 1/Nymphs.S01E09.The.Golden.Gage.German.Dubbed.HDTV.XviD-CRiSP.avi",
+                "firstaired": "2013-12-01",
+                "label": "1x09. The Golden Cage",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Nymphs",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274147/4682922.jpg",
+                "title": "The Golden Cage",
+                "tvshowid": 59,
+                "uniqueid": {
+                    "unknown": "4682922"
+                },
+                "votes": "2",
+                "writer": [
+                    "Miikko Oikkonen",
+                    "Antti Pesonen",
+                    "Annina Holmberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274147/4682923.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sara Soulié",
+                        "order": 0,
+                        "role": "Didi Tasson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+                    },
+                    {
+                        "name": "Rebecca Viitala",
+                        "order": 1,
+                        "role": "Kati Ordana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+                    },
+                    {
+                        "name": "Manuela Bosco",
+                        "order": 2,
+                        "role": "Nadia Rapaccini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-29 21:37:29",
+                "director": [
+                    "Miikko Oikkonen",
+                    "Teemu Nikki"
+                ],
+                "episode": 10,
+                "episodeid": 1199,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/Season 1/Nymphs.S01E10.Velanidia.German.Dubbed.HDTV.XviD-CRiSP.mp4",
+                "firstaired": "2013-12-01",
+                "label": "1x10. Velanidia",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 6.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Nymphs",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274147/4682923.jpg",
+                "title": "Velanidia",
+                "tvshowid": 59,
+                "uniqueid": {
+                    "unknown": "4682923"
+                },
+                "votes": "2",
+                "writer": [
+                    "Miikko Oikkonen",
+                    "Antti Pesonen",
+                    "Annina Holmberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274147/4682924.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sara Soulié",
+                        "order": 0,
+                        "role": "Didi Tasson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+                    },
+                    {
+                        "name": "Rebecca Viitala",
+                        "order": 1,
+                        "role": "Kati Ordana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+                    },
+                    {
+                        "name": "Manuela Bosco",
+                        "order": 2,
+                        "role": "Nadia Rapaccini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-29 21:52:55",
+                "director": [
+                    "Miikko Oikkonen",
+                    "Teemu Nikki"
+                ],
+                "episode": 11,
+                "episodeid": 1200,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/Season 1/Nymphs.S01E11.Shining.Period.German.Dubbed.HDTV.XviD-CRiSP.avi",
+                "firstaired": "2013-12-08",
+                "label": "1x11. Shining Period",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Nymphs",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274147/4682924.jpg",
+                "title": "Shining Period",
+                "tvshowid": 59,
+                "uniqueid": {
+                    "unknown": "4682924"
+                },
+                "votes": "1",
+                "writer": [
+                    "Miikko Oikkonen",
+                    "Antti Pesonen",
+                    "Annina Holmberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274147/4682925.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sara Soulié",
+                        "order": 0,
+                        "role": "Didi Tasson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320318.jpg"
+                    },
+                    {
+                        "name": "Rebecca Viitala",
+                        "order": 1,
+                        "role": "Kati Ordana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320317.jpg"
+                    },
+                    {
+                        "name": "Manuela Bosco",
+                        "order": 2,
+                        "role": "Nadia Rapaccini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320316.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-29 21:52:38",
+                "director": [
+                    "Miikko Oikkonen",
+                    "Teemu Nikki"
+                ],
+                "episode": 12,
+                "episodeid": 1201,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nymphs/Season 1/Nymphs.S01E12.The.Eclipse.German.Dubbed.HDTV.XviD-CRiSP.avi",
+                "firstaired": "2013-12-08",
+                "label": "1x12. The Eclipse",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Nymphs",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274147/4682925.jpg",
+                "title": "The Eclipse",
+                "tvshowid": 59,
+                "uniqueid": {
+                    "unknown": "4682925"
+                },
+                "votes": "1",
+                "writer": [
+                    "Miikko Oikkonen",
+                    "Antti Pesonen",
+                    "Annina Holmberg"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/274147-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/274147-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/274147-1.jpg"
+            },
+            "episode": 12,
+            "fanart": "http://thetvdb.com/banners/fanart/original/274147-4.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 319,
+            "showtitle": "Nymphs",
+            "thumbnail": "http://thetvdb.com/banners/seasons/274147-1-2.jpg",
+            "tvshowid": 59,
+            "watchedepisodes": 0
+        }
+    ]
+}

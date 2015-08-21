@@ -1,0 +1,175 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/260320-g4.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/260320-4.jpg",
+            "poster": "http://thetvdb.com/banners/posters/260320-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Elisabeth Moss",
+                "order": 0,
+                "role": "Robin Griffin",
+                "thumbnail": "http://thetvdb.com/banners/actors/300560.jpg"
+            },
+            {
+                "name": "Holly Hunter",
+                "order": 1,
+                "role": "GJ",
+                "thumbnail": "http://thetvdb.com/banners/actors/300561.jpg"
+            },
+            {
+                "name": "Thomas M. Wright",
+                "order": 2,
+                "role": "Johnno Mitcham",
+                "thumbnail": "http://thetvdb.com/banners/actors/309904.jpg"
+            },
+            {
+                "name": "David Wenham",
+                "order": 3,
+                "role": "Al Parker",
+                "thumbnail": "http://thetvdb.com/banners/actors/309903.jpg"
+            },
+            {
+                "name": "Peter Mullan",
+                "order": 4,
+                "role": "Matt Mitcham",
+                "thumbnail": "http://thetvdb.com/banners/actors/309902.jpg"
+            }
+        ],
+        "dateadded": "2013-11-30 22:02:07",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"260320-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/260320/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/260320-4.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Top of the Lake/",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mini-Series"
+        ],
+        "imdbnumber": "260320",
+        "label": "Top of the Lake",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "When pregnant, 12-year-old Tui tries to kill herself in a freezing New Zealand lake, Detective Robin Griffin has plenty of questions for the girl. But when Tui suddenly disappears, Griffin finds herself knee-deep in small-town secrets.",
+        "premiered": "2013-03-15",
+        "rating": 8,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "SundanceTV"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/260320-3.jpg",
+        "title": "Top of the Lake",
+        "tvshowid": 88,
+        "votes": "8",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260320/4351728.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260320-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260320-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260320-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Elisabeth Moss",
+                        "order": 0,
+                        "role": "Robin Griffin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300560.jpg"
+                    },
+                    {
+                        "name": "Holly Hunter",
+                        "order": 1,
+                        "role": "GJ",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300561.jpg"
+                    },
+                    {
+                        "name": "Thomas M. Wright",
+                        "order": 2,
+                        "role": "Johnno Mitcham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309904.jpg"
+                    },
+                    {
+                        "name": "David Wenham",
+                        "order": 3,
+                        "role": "Al Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309903.jpg"
+                    },
+                    {
+                        "name": "Peter Mullan",
+                        "order": 4,
+                        "role": "Matt Mitcham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309902.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-30 22:02:07",
+                "director": [
+                    "Jane Campion"
+                ],
+                "episode": 1,
+                "episodeid": 1741,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260320-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Top of the Lake/Season 1/Top.of.the.Lake.S01E01.German.BDRip.x264-iNTENTiON.mkv",
+                "firstaired": "2013-03-18",
+                "label": "1x01. Episode 1",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In a breathtaking but remote mountain town in South Island, New Zealand, a twelve year-old girl named Tui is discovered to be pregnant. Local police enlist help from Detective Robin Griffin, a child protection specialist who has recently returned to the area to care for her mother. Tui refuses to disclose any clues about her perpetrator, but the town’s knot of long-buried secrets begins to unravel. Trapped where happiness and honest work are just out of reach, the entire community is under a smoldering cloud of suspicion. Chief suspect is the girl’s father, a menacing local figure with a violent past who is also embroiled in a land dispute with a new age women’s encampment. Robin’s investigation heightens tensions in the town and hints at a personal history she had hoped to keep buried.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Top of the Lake",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260320/4351728.jpg",
+                "title": "Episode 1",
+                "tvshowid": 88,
+                "uniqueid": {
+                    "unknown": "4351728"
+                },
+                "votes": "18",
+                "writer": [
+                    "Jane Campion",
+                    "Gerard Lee"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/260320-1-4.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/260320-g4.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260320-4.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/260320-3.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/260320-4.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 482,
+            "showtitle": "Top of the Lake",
+            "thumbnail": "http://thetvdb.com/banners/seasons/260320-1-4.jpg",
+            "tvshowid": 88,
+            "watchedepisodes": 0
+        }
+    ]
+}

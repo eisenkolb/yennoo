@@ -1,0 +1,3648 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+            "poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+        },
+        "cast": [
+            {
+                "name": "Stephen Amell",
+                "order": 0,
+                "role": "Oliver Queen",
+                "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+            },
+            {
+                "name": "Emily Bett Rickards",
+                "order": 1,
+                "role": "Felicity Smoak",
+                "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+            },
+            {
+                "name": "David Ramsey",
+                "order": 2,
+                "role": "John Diggle",
+                "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+            },
+            {
+                "name": "Katie Cassidy",
+                "order": 3,
+                "role": "Laurel Lance",
+                "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+            },
+            {
+                "name": "Katrina Law",
+                "order": 4,
+                "role": "Nyssa al Ghul",
+                "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+            },
+            {
+                "name": "John Barrowman",
+                "order": 5,
+                "role": "Malcolm Merlyn",
+                "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+            },
+            {
+                "name": "Colton Haynes",
+                "order": 6,
+                "role": "Roy Harper",
+                "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+            },
+            {
+                "name": "Caity Lotz",
+                "order": 7,
+                "role": "Sara Lance",
+                "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+            },
+            {
+                "name": "Paul Blackthorne",
+                "order": 8,
+                "role": "Detective Quentin Lance",
+                "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+            },
+            {
+                "name": "Willa Holland",
+                "order": 9,
+                "role": "Thea Queen",
+                "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+            },
+            {
+                "name": "Susanna Thompson",
+                "order": 10,
+                "role": "Moira Queen",
+                "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+            },
+            {
+                "name": "Kevin Alejandro",
+                "order": 11,
+                "role": "Sebastian Blood",
+                "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+            },
+            {
+                "name": "Summer Glau",
+                "order": 12,
+                "role": "Isabel Rochev",
+                "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+            },
+            {
+                "name": "Manu Bennett",
+                "order": 13,
+                "role": "Slade Wilson",
+                "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+            },
+            {
+                "name": "Dylan Neal",
+                "order": 14,
+                "role": "Dr. Anthony Ivo",
+                "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+            },
+            {
+                "name": "Celina Jade",
+                "order": 15,
+                "role": "Shado",
+                "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+            },
+            {
+                "name": "Byron Mann",
+                "order": 16,
+                "role": "Yao Fei",
+                "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+            },
+            {
+                "name": "Colin Salmon",
+                "order": 17,
+                "role": "Walter Steele",
+                "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+            },
+            {
+                "name": "Colin Donnell",
+                "order": 18,
+                "role": "Tommy Merlyn",
+                "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+            }
+        ],
+        "dateadded": "2015-05-31 21:15:33",
+        "episode": 21,
+        "episodeguide": "<episodeguide><url cache=\"257655-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/257655/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "imdbnumber": "257655",
+        "label": "Arrow",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Oliver Queen and his father are lost at sea when their luxury yacht sinks. His father doesn't survive. Oliver survives on an uncharted island for five years learning to fight, but also learning about his father's corruption and unscrupulous business dealings. He returns to civilization a changed man, determined to put things right. He disguises himself with the hood of one of his mysterious island mentors, arms himself with a bow and sets about hunting down the men and women who have corrupted his city.",
+        "premiered": "2012-10-10",
+        "rating": 8.600000381469727,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "The CW"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/257655-25.jpg",
+        "title": "Arrow",
+        "tvshowid": 6,
+        "votes": "278",
+        "watchedepisodes": 0,
+        "year": 2012
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4325893.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-16 18:10:20",
+                "director": [
+                    "David Nutter"
+                ],
+                "episode": 1,
+                "episodeid": 85,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E01.Die.Rueckkehr.GERMAN.DUBBED.720p.BLURAY.x264-euHD.mkv",
+                "firstaired": "2012-10-10",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After a violent shipwreck, billionaire playboy Oliver Queen was missing and presumed dead for five years before being discovered alive on a remote island in the Pacific. Back in Starling City, Oliver slowly reconnects with those closest to him. Oliver has brought back many new skills from his time on the island and despite the watchful eye of his new bodyguard John Diggle, Oliver manages to secretly create the persona of Arrow -- a vigilante -- to right the wrongs of his family and fight the ills of society. As Arrow, Oliver will atone for the past sins of his family while he searches for the personal redemption he needs.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4325893.jpg",
+                "title": "Pilot",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4325893"
+                },
+                "votes": "240",
+                "writer": [
+                    "Greg Berlanti",
+                    "Marc Guggenheim",
+                    "Andrew Kreisberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4365918.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-30 15:34:41",
+                "director": [
+                    "David Barrett"
+                ],
+                "episode": 2,
+                "episodeid": 86,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E02.Das.Vermaechtnis.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2012-10-17",
+                "label": "1x02. Honor Thy Father",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Oliver heads to the courthouse to get his death certificate repealed and is pleasantly surprised to run into Laurel, who is there prosecuting Martin Somers, a criminal with ties to the Chinese Triad. Oliver recognizes Martin’s name from his father’s book and sets his sights on taking him down. Martin orders the Triad to \"take care of\" Laurel so they send their top mercenary -- China White -- after her. Meanwhile, Moira and Walter ask Oliver to take over the company.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4365918.jpg",
+                "title": "Honor Thy Father",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4365918"
+                },
+                "votes": "215",
+                "writer": [
+                    "Greg Berlanti",
+                    "Marc Guggenheim",
+                    "Andrew Kreisberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4365919.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-30 15:36:36",
+                "director": [
+                    "Guy Bee"
+                ],
+                "episode": 3,
+                "episodeid": 87,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E03.Gegengift.GERMAN.DUBBED.DL.720p.BluRay.x264.REPACK-euHD.mkv",
+                "firstaired": "2012-10-24",
+                "label": "1x03. Lone Gunmen",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Oliver is surprised when someone shoots and kills one of his targets. As his plan is to bring people to justice vs. outright killing them, Oliver doesn't appreciate the help and searches for the gunman. He soon learns that the man, Deadshot, is taking out businessmen who are scheduled to bid at an auction on an energy company and Walter is one of the bidders. Realizing he can't protect his family and stop Deadshot at the same time, Oliver enlists Detective Lance's help, but his plan has dire consequences. Meanwhile, Laurel and Tommy get caught in an awkward situation with Oliver.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4365919.jpg",
+                "title": "Lone Gunmen",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4365919"
+                },
+                "votes": "218",
+                "writer": [
+                    "Greg Berlanti",
+                    "Marc Guggenheim",
+                    "Andrew Kreisberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4369897.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-30 15:37:01",
+                "director": [
+                    "Vince Misiano"
+                ],
+                "episode": 4,
+                "episodeid": 88,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E04.Unschuldig.German.DD51.Dubbed.DL.720p.BD.x264-TVS.mkv",
+                "firstaired": "2012-10-31",
+                "label": "1x04. An Innocent Man",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Oliver still hasn’t figured out how to get back in Laurel's good graces, but a late night bonding session with Thea gives him the inspiration he needs. Looking into a suspicious murder case, Oliver realizes an innocent man, Peter Declan, was framed by one of the targets on his list. As Arrow, he asks Laurel to help prove Declan's innocence. Meanwhile, Walter asks one of his employees, Felicity Smoak, to look into a $2.6 million withdrawal that Moira made without his knowledge.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4369897.jpg",
+                "title": "An Innocent Man",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4369897"
+                },
+                "votes": "220",
+                "writer": [
+                    "Moira Kirland",
+                    "Lana Cho"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4378737.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-30 15:37:28",
+                "director": [
+                    "Michael Schultz"
+                ],
+                "episode": 5,
+                "episodeid": 89,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E05.Der.Doppelgaenger.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2012-11-07",
+                "label": "1x05. Damaged",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After Detective Lance arrests Oliver for murder, Oliver tells Moira the only lawyer he’ll allow to represent him is Laurel. Laurel takes the case which puts her at odds with her father. Oliver offers to take a polygraph in front Detective Lance but things get tense when Lance asks him if anyone else was on the island with him. Oliver flashes back to when he got his first scar, courtesy of Deathstroke.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4378737.jpg",
+                "title": "Damaged",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4378737"
+                },
+                "votes": "214",
+                "writer": [
+                    "Wendy Mericle",
+                    "Ben Sokolowski"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4386872.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-30 15:37:53",
+                "director": [
+                    "John Behring"
+                ],
+                "episode": 6,
+                "episodeid": 90,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E06.Familienbande.GERMAN.DUBBED.DL.720p.BluRay.x264.REPACK-euHD.mkv",
+                "firstaired": "2012-11-14",
+                "label": "1x06. Legacies",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A gang of bank robbers, dubbed The Royal Flush Gang, hits a local bank and seriously wounds an off-duty police officer during a heist. Diggle tells Oliver he needs to deviate from his father's list and start helping the citizens of Starling City. Meanwhile, Tommy asks Thea for relationship advice, but things get awkward when she realizes he was asking about Laurel. Moira confronts Oliver about all of his recent disappearances in the middle of family functions.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4386872.jpg",
+                "title": "Legacies",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4386872"
+                },
+                "votes": "213",
+                "writer": [
+                    "Moira Kirland",
+                    "Marc Guggenheim"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4398273.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-30 15:38:20",
+                "director": [
+                    "David Grossman"
+                ],
+                "episode": 7,
+                "episodeid": 91,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E07.Die.Gefaehrtin.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2012-11-28",
+                "label": "1x07. Muse of Fire",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Oliver encounters a mysterious woman, Helena Bertinelli, daughter of mob boss Frank Bertinelli, who he can finally be himself with, but he soon comes to realize she’s hiding dangerous secrets of her own. Helena is on her own personal mission of vengeance and Oliver is caught in the middle. Meanwhile, Tommy is blindsided by an unfortunate turn of events and turns to Laurel for support.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4398273.jpg",
+                "title": "Muse of Fire",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4398273"
+                },
+                "votes": "212",
+                "writer": [
+                    "Andrew Kreisberg",
+                    "Geoff Johns",
+                    "Marc Guggenheim"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4408785.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 18:37:37",
+                "director": [
+                    "Ken Fink"
+                ],
+                "episode": 8,
+                "episodeid": 92,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E08.Vendetta.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2012-12-05",
+                "label": "1x08. Vendetta",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As Oliver and Helena grow closer, Oliver trains her to be his ally, complete with showing her how to use a crossbow. Diggle disapproves of Oliver sharing his secret with Helena as he’s not sure she can be trusted, but Oliver refuses to listen to his concerns. Helena’s quest for revenge proves to be too strong for Oliver to handle after she kills the head of the Triad and all hell breaks loose.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4408785.jpg",
+                "title": "Vendetta",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4408785"
+                },
+                "votes": "191",
+                "writer": [
+                    "Beth Schwartz",
+                    "Andrew Kreisberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4415147.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 18:51:59",
+                "director": [
+                    "John Dahl"
+                ],
+                "episode": 9,
+                "episodeid": 93,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E09.Schwarze.Pfeile.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2012-12-12",
+                "label": "1x09. Year's End",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Oliver discovers that after he and his father went missing, Moira and Thea stopped celebrating Christmas. Determined to make up for lost time and restore a sense of normalcy to the Queen household, Oliver decides to throw the family a Christmas party. Meanwhile, Tommy asks Laurel to spend Christmas with him but she points out that Christmas was also her sister’s Sara’s birthday and she needs to be with her father. Tommy suggests changing things up might be the best way for everyone to heal but Laurel isn’t sure her father is ready for that.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4415147.jpg",
+                "title": "Year's End",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4415147"
+                },
+                "votes": "195",
+                "writer": [
+                    "Greg Berlanti",
+                    "Marc Guggenheim",
+                    "Andrew Kreisberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4421415.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 17:40:03",
+                "director": [
+                    "Eagle Egilsson"
+                ],
+                "episode": 10,
+                "episodeid": 94,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E10.Brandwunden.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2013-01-16",
+                "label": "1x10. Burned",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Oliver’s confidence is shaken after being beaten by the Dark Archer and he takes a break from being Arrow. However, when Laurel calls Arrow for help investigating a firefighter’s suspicious death, he reluctantly agrees but his hesitance while fighting almost costs him his life. Meanwhile, Tommy throws a benefit for the firefighters and Thea tries to lift Moira out of her depressive state.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4421415.jpg",
+                "title": "Burned",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4421415"
+                },
+                "votes": "181",
+                "writer": [
+                    "Moira Kirland",
+                    "Ben Sokolowski"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4430407.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 18:22:22",
+                "director": [
+                    "Nick Copus"
+                ],
+                "episode": 11,
+                "episodeid": 95,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E11.Verdacht.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2013-01-23",
+                "label": "1x11. Trust But Verify",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The next person on Arrow’s list is Diggle’s commanding officer and mentor from Afghanistan, Ted Gaynor. Oliver suspects Ted is responsible for recent armoured truck robberies, but Diggle defends Ted and takes a job at Ted’s security company to keep an eye on him. Oliver decides to make a move on Ted, which puts him at odds with Diggle. Meanwhile, Thea  suspects that Moira is having an affair with Malcolm. Tommy and Laurel have an awkward dinner with Malcolm.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4430407.jpg",
+                "title": "Trust But Verify",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4430407"
+                },
+                "votes": "180",
+                "writer": [
+                    "Gabrielle Stanton"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4442088.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Janina Gavankar",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290005.jpg"
+                    },
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 18:04:47",
+                "director": [
+                    "Wendy Stanzler"
+                ],
+                "episode": 12,
+                "episodeid": 96,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E12.Vertigo.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2013-01-30",
+                "label": "1x12. Vertigo",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Thea is in trouble with the police after she gets caught using a drug called “Vertigo.” Oliver thinks the only way to keep her out of jail is to find the dealer, a man who goes by the name of “The Count”. Oliver turns to McKenna Hall, an old flame and current Vice cop, for help. Meanwhile, Laurel steps in to defend Thea, and Felicity gives Oliver some disturbing news about Moira.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4442088.jpg",
+                "title": "Vertigo",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4442088"
+                },
+                "votes": "170",
+                "writer": [
+                    "Wendy Mericle",
+                    "Ben Sokolowski"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4442089.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "David Anders",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/77762.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 19:12:31",
+                "director": [
+                    "Guy Bee"
+                ],
+                "episode": 13,
+                "episodeid": 97,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E13.Verrat.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2013-02-06",
+                "label": "1x13. Betrayal",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Cyrus Vanch, a nefarious criminal, is recently released from prison and intends to re-secure his position as leader of the underworld. His first step is to take down his biggest opponent in the city – Arrow. Meanwhile, Oliver shows Moira his father’s notebook and questions her about the names on the list. Thea is miserable as she starts her internship with Laurel at the legal aid office and Detective Lance makes a deadly mistake that puts Laurel in the crosshairs of Vanch.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4442089.jpg",
+                "title": "Betrayal",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4442089"
+                },
+                "votes": "173",
+                "writer": [
+                    "Lana Cho",
+                    "Beth Schwartz"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4451617.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Manu Bennett",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 19:26:10",
+                "director": [
+                    "John Behring"
+                ],
+                "episode": 14,
+                "episodeid": 98,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E14.Odyssee.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2013-02-13",
+                "label": "1x14. The Odyssey",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After Oliver is shot, he turns to a surprising person for help – Felicity. Diggle is stunned when he sees Felicity walk through the front door of the lair dragging a dying Oliver behind her, and the two team up to save Oliver’s life. As Oliver hovers between life and death, he flashes back to a seminal event on the island – a daring escape attempt with his new friend Slade Wilson.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4451617.jpg",
+                "title": "The Odyssey",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4451617"
+                },
+                "votes": "176",
+                "writer": [
+                    "Greg Berlanti",
+                    "Andrew Kreisberg",
+                    "Marc Guggenheim"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4457361.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "James Callis",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298180.jpg"
+                    },
+                    {
+                        "name": "Janina Gavankar",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290005.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 19:43:05",
+                "director": [
+                    "Eagle Egilsson"
+                ],
+                "episode": 15,
+                "episodeid": 99,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E15.Kettenreaktion.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2013-02-20",
+                "label": "1x15. Dodger",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Felicity tells Oliver he’s all work and no play, so he asks Detective McKenna on a date. A jewel thief named Dodger hits Starling City and targets someone very close to Oliver. Meanwhile, while working with Laurel, Thea gets her purse stolen by a very fast pickpocket named Roy Harper. Moira makes a move against Malcolm.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4457361.jpg",
+                "title": "Dodger",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4457361"
+                },
+                "votes": "178",
+                "writer": [
+                    "Beth Schwartz"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4486515.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Janina Gavankar",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290005.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 19:56:37",
+                "director": [
+                    "Glen Winter"
+                ],
+                "episode": 16,
+                "episodeid": 100,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E16.Demaskiert.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2013-02-27",
+                "label": "1x16. Dead to Rights",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Oliver and Diggle learn that Deadshot is still alive and his next target is Malcolm. Malcolm invites Tommy to attend a benefit honoring Malcolm for his work with Starling City but Tommy refuses to attend. Oliver encourages his friend to mend his relationship with his father while he can. Meanwhile, Oliver struggles to balance his new relationship with McKenna and his duties as Arrow.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4486515.jpg",
+                "title": "Dead to Rights",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4486515"
+                },
+                "votes": "176",
+                "writer": [
+                    "Geoff Johns"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4486516.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Janina Gavankar",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290005.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 20:10:50",
+                "director": [
+                    "Guy Bee"
+                ],
+                "episode": 17,
+                "episodeid": 101,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E17.Die.Raecherin.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2013-03-20",
+                "label": "1x17. The Huntress Returns",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "With his nightclub set to open and a new romance brewing with McKenna, Oliver is as happy as he’s been since returning to Starling City. But when Oliver’s ex, The Huntress, suddenly returns to town, she threatens to destroy everything and everyone he cares about. Meanwhile, Laurel and her father struggle with the return of Dinah Lance who claims she has proof Sara is still alive. Thea gets Roy Harper a job at Oliver’s club, but he’s not too inclined to stop his life of crime. Oliver and Tommy are thrilled they were able to get Steve Aoki to play at the opening of their new nightclub, Verdant.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4486516.jpg",
+                "title": "The Huntress Returns",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4486516"
+                },
+                "votes": "172",
+                "writer": [
+                    "Jake Coburn",
+                    "Lana Cho"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4506514.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Manu Bennett",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 20:24:21",
+                "director": [
+                    "Nick Copus"
+                ],
+                "episode": 18,
+                "episodeid": 102,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E18.Richter.und.Henker.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2013-03-27",
+                "label": "1x18. Salvation",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "An angry resident of The Glades who calls himself “The Savior” embarks on a kidnapping and killing spree to punish those he believes have wronged the residents of his neighborhood. To make things worse, he broadcasts these murders online and claims he was inspired by Arrow’s vigilantism. Oliver is horrified by this statement and vows to stop “The Savior,” but his manhunt in intensified after Thea comes to him in tears and tells him Roy has been kidnapped. Laurel is surprised when her father starts to believe her mother’s claim that Sara is still alive. Meanwhile, Malcom tells Moira to find the person responsible for his attempted murder.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4506514.jpg",
+                "title": "Salvation",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4506514"
+                },
+                "votes": "169",
+                "writer": [
+                    "Drew Z. Greenberg",
+                    "Wendy Mericle"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4506515.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Manu Bennett",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 20:42:33",
+                "director": [
+                    "Michael Offer"
+                ],
+                "episode": 19,
+                "episodeid": 103,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E19.Alte.Feinde.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2013-04-03",
+                "label": "1x19. Unfinished Business",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a young woman meets a violent death after partying at Verdant, Detective Lance and his new partner, Detective Hilton inform Oliver and Tommy that she was on the drug Vertigo. Oliver immediately pays a visit to the mental institution where The Count is locked up, but finds he is in no condition to deal drugs. However, when The Count escapes and Starling City is flooded with even more Vertigo-related violence, Oliver and Diggle make it their mission to track him down. After Detective Lance uncovers incriminating evidence against him, Tommy goes to great lengths to clear his name, and the fallout from his actions leads Tommy down a new, unexpected path. In a flashback to the island, Oliver recalls the lessons he learned from Slade and Shado.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4506515.jpg",
+                "title": "Unfinished Business",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4506515"
+                },
+                "votes": "168",
+                "writer": [
+                    "Brian Q. Miller",
+                    "Lindsey Allen"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4517894.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Manu Bennett",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "J. August Richards",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 21:00:15",
+                "director": [
+                    "Ken Fink"
+                ],
+                "episode": 20,
+                "episodeid": 104,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E20.Der.Auftragskiller.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2013-04-24",
+                "label": "1x20. Home Invasion",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Deadshot returns to Starling City after taking down a U.S. Ambassador and six others overseas. By keeping tabs on A.R.G.U.S.’s manhunt for the assassin, Oliver, Diggle, and Felicity learn that a sting operation is underway to capture Deadshot – alive. Diggle is determined to see his brother’s killer dead, with or without Ollie’s help. Meanwhile, Laurel takes drastic steps to protect a young witness, exacerbating friction between Tommy and Oliver. Later, Roy Harper unconventionally pursues all leads to find his new hero, but runs afoul of Detective Lance. Back on the island, Oliver recalls how Shado helped him incrementally gain confidence with a bow and hit the target for the first time.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4517894.jpg",
+                "title": "Home Invasion",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4517894"
+                },
+                "votes": "168",
+                "writer": [
+                    "Ben Sokolowski",
+                    "Beth Schwartz"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/257655/4517949.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Amell",
+                        "order": 0,
+                        "role": "Oliver Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297063.jpg"
+                    },
+                    {
+                        "name": "Emily Bett Rickards",
+                        "order": 1,
+                        "role": "Felicity Smoak",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325905.jpg"
+                    },
+                    {
+                        "name": "David Ramsey",
+                        "order": 2,
+                        "role": "John Diggle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304329.jpg"
+                    },
+                    {
+                        "name": "Katie Cassidy",
+                        "order": 3,
+                        "role": "Laurel Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                    },
+                    {
+                        "name": "Katrina Law",
+                        "order": 4,
+                        "role": "Nyssa al Ghul",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231791.jpg"
+                    },
+                    {
+                        "name": "John Barrowman",
+                        "order": 5,
+                        "role": "Malcolm Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338667.jpg"
+                    },
+                    {
+                        "name": "Colton Haynes",
+                        "order": 6,
+                        "role": "Roy Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                    },
+                    {
+                        "name": "Caity Lotz",
+                        "order": 7,
+                        "role": "Sara Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325901.jpg"
+                    },
+                    {
+                        "name": "Paul Blackthorne",
+                        "order": 8,
+                        "role": "Detective Quentin Lance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304333.jpg"
+                    },
+                    {
+                        "name": "Willa Holland",
+                        "order": 9,
+                        "role": "Thea Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304330.jpg"
+                    },
+                    {
+                        "name": "Susanna Thompson",
+                        "order": 10,
+                        "role": "Moira Queen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337239.jpg"
+                    },
+                    {
+                        "name": "Kevin Alejandro",
+                        "order": 11,
+                        "role": "Sebastian Blood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290011.jpg"
+                    },
+                    {
+                        "name": "Summer Glau",
+                        "order": 12,
+                        "role": "Isabel Rochev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332606.jpg"
+                    },
+                    {
+                        "name": "Manu Bennett",
+                        "order": 13,
+                        "role": "Slade Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129111.jpg"
+                    },
+                    {
+                        "name": "Dylan Neal",
+                        "order": 14,
+                        "role": "Dr. Anthony Ivo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+                    },
+                    {
+                        "name": "Celina Jade",
+                        "order": 15,
+                        "role": "Shado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325908.jpg"
+                    },
+                    {
+                        "name": "Byron Mann",
+                        "order": 16,
+                        "role": "Yao Fei",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                    },
+                    {
+                        "name": "Colin Salmon",
+                        "order": 17,
+                        "role": "Walter Steele",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                    },
+                    {
+                        "name": "Colin Donnell",
+                        "order": 18,
+                        "role": "Tommy Merlyn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304328.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 21:15:33",
+                "director": [
+                    "Michael Schultz"
+                ],
+                "episode": 21,
+                "episodeid": 105,
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E21.Enthuellungen.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "firstaired": "2013-05-01",
+                "label": "1x21. The Undertaking",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Finding it difficult to mend fences with Tommy and Diggle, Oliver instead focuses on crossing another name off the list. While digging through a crooked accountant’s laptop, Felicity discovers a transaction that could help Oliver find Walter. To reconfirm the lead, Oliver gambles that Felicity can be counted on in the field for the first time. In a flashback, Malcolm reveals to Robert Queen and Frank Chen painful details surrounding his wife’s murder, and how that shaped his plans for the Glades. Meanwhile, Tommy stuns Laurel with the truth.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Arrow",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/257655/4517949.jpg",
+                "title": "The Undertaking",
+                "tvshowid": 6,
+                "uniqueid": {
+                    "unknown": "4517949"
+                },
+                "votes": "160",
+                "writer": [
+                    "Jake Coburn",
+                    "Lana Cho"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/257655-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/257655-1-3.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+            },
+            "episode": 21,
+            "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 32,
+            "showtitle": "Arrow",
+            "thumbnail": "http://thetvdb.com/banners/seasons/257655-1-3.jpg",
+            "tvshowid": 6,
+            "watchedepisodes": 0
+        }
+    ]
+}

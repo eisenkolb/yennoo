@@ -1,0 +1,257 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/276312-g4.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/276312-17.jpg",
+            "poster": "http://thetvdb.com/banners/posters/276312-5.jpg"
+        },
+        "cast": [
+            {
+                "name": "D.J. Cotrona",
+                "order": 0,
+                "role": "Seth Gecko",
+                "thumbnail": "http://thetvdb.com/banners/actors/327544.jpg"
+            },
+            {
+                "name": "Zane Holtz",
+                "order": 1,
+                "role": "Richie Gecko",
+                "thumbnail": "http://thetvdb.com/banners/actors/327545.jpg"
+            },
+            {
+                "name": "Robert Patrick",
+                "order": 2,
+                "role": "Jacob Fuller",
+                "thumbnail": "http://thetvdb.com/banners/actors/327540.jpg"
+            },
+            {
+                "name": "Jake Busey",
+                "order": 3,
+                "role": "Professor Tanner",
+                "thumbnail": "http://thetvdb.com/banners/actors/328180.jpg"
+            },
+            {
+                "name": "Lane Garrison",
+                "order": 4,
+                "role": "Pete",
+                "thumbnail": "http://thetvdb.com/banners/actors/328179.jpg"
+            },
+            {
+                "name": "Eiza González",
+                "order": 5,
+                "role": "Santánico Pandemonium",
+                "thumbnail": "http://thetvdb.com/banners/actors/328178.jpg"
+            },
+            {
+                "name": "Jesse Garcia",
+                "order": 6,
+                "role": "Ranger Freddie Gonzalez",
+                "thumbnail": "http://thetvdb.com/banners/actors/327548.jpg"
+            },
+            {
+                "name": "Madison Davenport",
+                "order": 7,
+                "role": "Kate Fuller",
+                "thumbnail": "http://thetvdb.com/banners/actors/327547.jpg"
+            },
+            {
+                "name": "Brandon Soo Hoo",
+                "order": 8,
+                "role": "Scott Fuller",
+                "thumbnail": "http://thetvdb.com/banners/actors/327546.jpg"
+            },
+            {
+                "name": "Adrianne Palicki",
+                "order": 9,
+                "role": "Vanessa Styles",
+                "thumbnail": "http://thetvdb.com/banners/actors/327543.jpg"
+            },
+            {
+                "name": "Wilmer Valderrama",
+                "order": 10,
+                "role": "Carlos Madrigal",
+                "thumbnail": "http://thetvdb.com/banners/actors/327542.jpg"
+            },
+            {
+                "name": "Don Johnson",
+                "order": 11,
+                "role": "Sheriff Earl McGraw",
+                "thumbnail": "http://thetvdb.com/banners/actors/327541.jpg"
+            }
+        ],
+        "dateadded": "2014-04-19 19:06:02",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"276312-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/276312/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/276312-17.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/From Dusk Till Dawn/",
+        "genre": [
+            "Drama",
+            "Horror"
+        ],
+        "imdbnumber": "276312",
+        "label": "From Dusk Till Dawn: The Series",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "In this supernatural crime series, Seth Gecko and his violent, unpredictable brother, Richard \"Richie\" Gecko, are wanted by the FBI and Texas Ranger Freddie Gonzalez after a bank robbery left several people, including policemen and Gonzalez's mentor Texas Ranger Earl McGraw, dead. Heading for the Mexico border pursued by Gonzalez, the Geckos encounter former minister Jacob Fuller and his family, whom they take hostage by commandeering the Fuller's RV. Drug lord Don Carlos reroutes them to a strip club populated by vampires that all must fight until dawn in order to survive.",
+        "premiered": "2014-03-11",
+        "rating": 6.699999809265137,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "El Rey Network"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/276312-5.jpg",
+        "title": "From Dusk Till Dawn: The Series",
+        "tvshowid": 33,
+        "votes": "18",
+        "watchedepisodes": 0,
+        "year": 2014
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276312/4739491.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276312-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276312-17.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276312-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Lane Garrison",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328179.jpg"
+                    },
+                    {
+                        "name": "D.J. Cotrona",
+                        "order": 0,
+                        "role": "Seth Gecko",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327544.jpg"
+                    },
+                    {
+                        "name": "Zane Holtz",
+                        "order": 1,
+                        "role": "Richie Gecko",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327545.jpg"
+                    },
+                    {
+                        "name": "Robert Patrick",
+                        "order": 2,
+                        "role": "Jacob Fuller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327540.jpg"
+                    },
+                    {
+                        "name": "Jake Busey",
+                        "order": 3,
+                        "role": "Professor Tanner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328180.jpg"
+                    },
+                    {
+                        "name": "Eiza González",
+                        "order": 5,
+                        "role": "Santánico Pandemonium",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328178.jpg"
+                    },
+                    {
+                        "name": "Jesse Garcia",
+                        "order": 6,
+                        "role": "Ranger Freddie Gonzalez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327548.jpg"
+                    },
+                    {
+                        "name": "Madison Davenport",
+                        "order": 7,
+                        "role": "Kate Fuller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327547.jpg"
+                    },
+                    {
+                        "name": "Brandon Soo Hoo",
+                        "order": 8,
+                        "role": "Scott Fuller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327546.jpg"
+                    },
+                    {
+                        "name": "Adrianne Palicki",
+                        "order": 9,
+                        "role": "Vanessa Styles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327543.jpg"
+                    },
+                    {
+                        "name": "Wilmer Valderrama",
+                        "order": 10,
+                        "role": "Carlos Madrigal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327542.jpg"
+                    },
+                    {
+                        "name": "Don Johnson",
+                        "order": 11,
+                        "role": "Sheriff Earl McGraw",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327541.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-19 19:06:02",
+                "director": [
+                    "Robert Rodriguez"
+                ],
+                "episode": 1,
+                "episodeid": 513,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276312-17.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/From Dusk Till Dawn/Season 1/From.Dusk.Till.Dawn.The.Series.S01E01.Pilot.German.Subbed.HDTV.XviD.mp4",
+                "firstaired": "2014-03-11",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Robber Seth Gecko and his violent, unpredictable brother, Richard 'Richie' Gecko shoot their way south after a bank heist in Abilene, Texas.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "From Dusk Till Dawn: The Series",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276312/4739491.jpg",
+                "title": "Pilot",
+                "tvshowid": 33,
+                "uniqueid": {
+                    "unknown": "4739491"
+                },
+                "votes": "29",
+                "writer": [
+                    "Robert Rodriguez"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/276312-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/276312-g4.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276312-17.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/276312-5.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/276312-17.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 174,
+            "showtitle": "From Dusk Till Dawn: The Series",
+            "thumbnail": "http://thetvdb.com/banners/seasons/276312-1-2.jpg",
+            "tvshowid": 33,
+            "watchedepisodes": 0
+        }
+    ]
+}

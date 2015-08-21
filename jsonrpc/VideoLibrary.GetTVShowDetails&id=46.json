@@ -1,0 +1,602 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/79861-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/79861-3.jpg",
+            "poster": "http://thetvdb.com/banners/posters/79861-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Ian Richardson",
+                "order": 0,
+                "role": "Francis Urquhart",
+                "thumbnail": "http://thetvdb.com/banners/actors/284027.jpg"
+            },
+            {
+                "name": "Susannah Harker",
+                "order": 1,
+                "role": "Mattie Storin",
+                "thumbnail": "http://thetvdb.com/banners/actors/284028.jpg"
+            },
+            {
+                "name": "Colin Jeavons",
+                "order": 2,
+                "role": "Tim Stamper",
+                "thumbnail": "http://thetvdb.com/banners/actors/328814.jpg"
+            },
+            {
+                "name": "Alphonsia Emmanuel",
+                "order": 3,
+                "role": "Penny Guy",
+                "thumbnail": "http://thetvdb.com/banners/actors/284033.jpg"
+            },
+            {
+                "name": "Damien Thomas",
+                "order": 8,
+                "role": "Michael Samuels"
+            },
+            {
+                "name": "David Lyon",
+                "order": 9,
+                "role": "Henry Collingridge"
+            },
+            {
+                "name": "Diane Fletcher",
+                "order": 10,
+                "role": "Elizabeth Urquhart"
+            },
+            {
+                "name": "Isabelle Amyes",
+                "order": 11,
+                "role": "Anne Collingridge"
+            },
+            {
+                "name": "James Villiers",
+                "order": 12,
+                "role": "Charles Collingridge"
+            },
+            {
+                "name": "Malcolm Tierney",
+                "order": 13,
+                "role": "Patrick Woolton"
+            },
+            {
+                "name": "Miles Anderson",
+                "order": 14,
+                "role": "Roger O\\'Neill"
+            },
+            {
+                "name": "Nicholas Selby",
+                "order": 15,
+                "role": "Lord Billsborough"
+            },
+            {
+                "name": "William Chubb",
+                "order": 16,
+                "role": "John Krajewski"
+            }
+        ],
+        "dateadded": "2014-05-04 02:40:52",
+        "episode": 4,
+        "episodeguide": "<episodeguide><url cache=\"79861-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/79861/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/79861-3.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/House of Cards/",
+        "genre": [
+            "Drama",
+            "Mini-Series"
+        ],
+        "imdbnumber": "79861",
+        "label": "House of Cards",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "The PM made a deadly mistake when he passed over Francis Urquhart. With his recent dire performance in the general election, he's going to need all the friends he can get. But Urquhart won't be ignored by anyone and now he's out for revenge. As the trusted Chief Whip, he has his hands on every grubby little secret in politics, and with innocent journalist Mattie Storin unwittingly drawn into his web, he'll stop at nothing to get what he wants.\r\nA black tale of greed, corruption and burning ambition. Based on the best selling novel by Michael Dobbs, a former aide to Margaret Thatcher.",
+        "premiered": "1990-11-18",
+        "rating": 9.100000381469727,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "BBC One"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/79861-1.jpg",
+        "title": "House of Cards",
+        "tvshowid": 46,
+        "votes": "16",
+        "watchedepisodes": 0,
+        "year": 1990
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/79861/342307.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/79861-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79861-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/79861-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ian Richardson",
+                        "order": 0,
+                        "role": "Francis Urquhart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284027.jpg"
+                    },
+                    {
+                        "name": "Susannah Harker",
+                        "order": 1,
+                        "role": "Mattie Storin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284028.jpg"
+                    },
+                    {
+                        "name": "Colin Jeavons",
+                        "order": 2,
+                        "role": "Tim Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328814.jpg"
+                    },
+                    {
+                        "name": "Alphonsia Emmanuel",
+                        "order": 3,
+                        "role": "Penny Guy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284033.jpg"
+                    },
+                    {
+                        "name": "Damien Thomas",
+                        "order": 8,
+                        "role": "Michael Samuels"
+                    },
+                    {
+                        "name": "David Lyon",
+                        "order": 9,
+                        "role": "Henry Collingridge"
+                    },
+                    {
+                        "name": "Diane Fletcher",
+                        "order": 10,
+                        "role": "Elizabeth Urquhart"
+                    },
+                    {
+                        "name": "Isabelle Amyes",
+                        "order": 11,
+                        "role": "Anne Collingridge"
+                    },
+                    {
+                        "name": "James Villiers",
+                        "order": 12,
+                        "role": "Charles Collingridge"
+                    },
+                    {
+                        "name": "Malcolm Tierney",
+                        "order": 13,
+                        "role": "Patrick Woolton"
+                    },
+                    {
+                        "name": "Miles Anderson",
+                        "order": 14,
+                        "role": "Roger O\\'Neill"
+                    },
+                    {
+                        "name": "Nicholas Selby",
+                        "order": 15,
+                        "role": "Lord Billsborough"
+                    },
+                    {
+                        "name": "William Chubb",
+                        "order": 16,
+                        "role": "John Krajewski"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:30:43",
+                "director": [
+                    "Paul Seed"
+                ],
+                "episode": 1,
+                "episodeid": 801,
+                "fanart": "http://thetvdb.com/banners/fanart/original/79861-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E01.Das.Spiel.beginnt.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "1990-11-18",
+                "label": "1x01. The House of Cards - Episode 1",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Francis Urquhart is the perfect politician. Impeccably diplomatic, charming, admired, trusted and respected by all. He has faithfully served his party without question, but events are about to spark his ambition. When the long-standing Prime Minister dies, the hunt is on to find a replacement. Urquhart is a hard-line Conservative and believes in strong leadership. In his eyes, none of the choices measures up. Naturally, he keeps his opinions to himself, but as Party Whip, his support is valuable, and he is courted by all the candidates. He must tread warily, as supporting the loser could cost him his position. Supporting the winner, however, could land him a Cabinet position.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "House of Cards",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/79861/342307.jpg",
+                "title": "The House of Cards - Episode 1",
+                "tvshowid": 46,
+                "uniqueid": {
+                    "unknown": "342307"
+                },
+                "votes": "20",
+                "writer": [
+                    "Andrew Davies"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/79861/342308.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/79861-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79861-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/79861-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ian Richardson",
+                        "order": 0,
+                        "role": "Francis Urquhart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284027.jpg"
+                    },
+                    {
+                        "name": "Susannah Harker",
+                        "order": 1,
+                        "role": "Mattie Storin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284028.jpg"
+                    },
+                    {
+                        "name": "Colin Jeavons",
+                        "order": 2,
+                        "role": "Tim Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328814.jpg"
+                    },
+                    {
+                        "name": "Alphonsia Emmanuel",
+                        "order": 3,
+                        "role": "Penny Guy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284033.jpg"
+                    },
+                    {
+                        "name": "Damien Thomas",
+                        "order": 8,
+                        "role": "Michael Samuels"
+                    },
+                    {
+                        "name": "David Lyon",
+                        "order": 9,
+                        "role": "Henry Collingridge"
+                    },
+                    {
+                        "name": "Diane Fletcher",
+                        "order": 10,
+                        "role": "Elizabeth Urquhart"
+                    },
+                    {
+                        "name": "Isabelle Amyes",
+                        "order": 11,
+                        "role": "Anne Collingridge"
+                    },
+                    {
+                        "name": "James Villiers",
+                        "order": 12,
+                        "role": "Charles Collingridge"
+                    },
+                    {
+                        "name": "Malcolm Tierney",
+                        "order": 13,
+                        "role": "Patrick Woolton"
+                    },
+                    {
+                        "name": "Miles Anderson",
+                        "order": 14,
+                        "role": "Roger O\\'Neill"
+                    },
+                    {
+                        "name": "Nicholas Selby",
+                        "order": 15,
+                        "role": "Lord Billsborough"
+                    },
+                    {
+                        "name": "William Chubb",
+                        "order": 16,
+                        "role": "John Krajewski"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:28:45",
+                "director": [
+                    "Paul Seed"
+                ],
+                "episode": 2,
+                "episodeid": 802,
+                "fanart": "http://thetvdb.com/banners/fanart/original/79861-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E02.Der.Gesetzesentwurf.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "1990-11-25",
+                "label": "1x02. The House of Cards - Episode 2",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The new Prime Minister, Collingridge, tells Urquhart that he is far too valuable in his current post to be offered a ministerial position. Urquhart is furious but hides his contempt of the man under his usual urbane smile. Collingridge, he believes, will not last long and perhaps something can be arranged to hasten his departure. Meanwhile, it might be a good idea to surreptitiously undermine the leader and start maneuvering in his own favor. And, as luck would have it, an inexperienced young journalist, Mattie Storin, is innocently hanging on his every word. He pretends to be helping her learn about Westminster politics, instead he uses her to leak damaging stories about his rivals. As the Party gathers for its annual conference, the scandals begin to break.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "House of Cards",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/79861/342308.jpg",
+                "title": "The House of Cards - Episode 2",
+                "tvshowid": 46,
+                "uniqueid": {
+                    "unknown": "342308"
+                },
+                "votes": "14",
+                "writer": [
+                    "Andrew Davies"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/79861/342309.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/79861-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79861-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/79861-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ian Richardson",
+                        "order": 0,
+                        "role": "Francis Urquhart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284027.jpg"
+                    },
+                    {
+                        "name": "Susannah Harker",
+                        "order": 1,
+                        "role": "Mattie Storin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284028.jpg"
+                    },
+                    {
+                        "name": "Colin Jeavons",
+                        "order": 2,
+                        "role": "Tim Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328814.jpg"
+                    },
+                    {
+                        "name": "Alphonsia Emmanuel",
+                        "order": 3,
+                        "role": "Penny Guy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284033.jpg"
+                    },
+                    {
+                        "name": "Damien Thomas",
+                        "order": 8,
+                        "role": "Michael Samuels"
+                    },
+                    {
+                        "name": "David Lyon",
+                        "order": 9,
+                        "role": "Henry Collingridge"
+                    },
+                    {
+                        "name": "Diane Fletcher",
+                        "order": 10,
+                        "role": "Elizabeth Urquhart"
+                    },
+                    {
+                        "name": "Isabelle Amyes",
+                        "order": 11,
+                        "role": "Anne Collingridge"
+                    },
+                    {
+                        "name": "James Villiers",
+                        "order": 12,
+                        "role": "Charles Collingridge"
+                    },
+                    {
+                        "name": "Malcolm Tierney",
+                        "order": 13,
+                        "role": "Patrick Woolton"
+                    },
+                    {
+                        "name": "Miles Anderson",
+                        "order": 14,
+                        "role": "Roger O\\'Neill"
+                    },
+                    {
+                        "name": "Nicholas Selby",
+                        "order": 15,
+                        "role": "Lord Billsborough"
+                    },
+                    {
+                        "name": "William Chubb",
+                        "order": 16,
+                        "role": "John Krajewski"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:40:52",
+                "director": [
+                    "Paul Seed"
+                ],
+                "episode": 3,
+                "episodeid": 803,
+                "fanart": "http://thetvdb.com/banners/fanart/original/79861-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E03.Der.Wasserturm.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "1990-12-02",
+                "label": "1x03. The House of Cards - Episode 3",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Collingridge is in deep political trouble and he has no alternative but to step down as Prime Minister. Ironically, he still has great faith in Urquhart, whom he feels is the only man he can trust. However, as the scandals and leaked stories have gained momentum, political journalist Mattie Storin begins to suspect that Collingridge has been framed. But who is the culprit? By now, she is too emotionally involved with Urquhart (her loving “Daddy”) to realize how she has been used.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "House of Cards",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/79861/342309.jpg",
+                "title": "The House of Cards - Episode 3",
+                "tvshowid": 46,
+                "uniqueid": {
+                    "unknown": "342309"
+                },
+                "votes": "13",
+                "writer": [
+                    "Andrew Davies"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/79861/342310.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/79861-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79861-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/79861-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ian Richardson",
+                        "order": 0,
+                        "role": "Francis Urquhart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284027.jpg"
+                    },
+                    {
+                        "name": "Susannah Harker",
+                        "order": 1,
+                        "role": "Mattie Storin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284028.jpg"
+                    },
+                    {
+                        "name": "Colin Jeavons",
+                        "order": 2,
+                        "role": "Tim Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328814.jpg"
+                    },
+                    {
+                        "name": "Alphonsia Emmanuel",
+                        "order": 3,
+                        "role": "Penny Guy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284033.jpg"
+                    },
+                    {
+                        "name": "Damien Thomas",
+                        "order": 8,
+                        "role": "Michael Samuels"
+                    },
+                    {
+                        "name": "David Lyon",
+                        "order": 9,
+                        "role": "Henry Collingridge"
+                    },
+                    {
+                        "name": "Diane Fletcher",
+                        "order": 10,
+                        "role": "Elizabeth Urquhart"
+                    },
+                    {
+                        "name": "Isabelle Amyes",
+                        "order": 11,
+                        "role": "Anne Collingridge"
+                    },
+                    {
+                        "name": "James Villiers",
+                        "order": 12,
+                        "role": "Charles Collingridge"
+                    },
+                    {
+                        "name": "Malcolm Tierney",
+                        "order": 13,
+                        "role": "Patrick Woolton"
+                    },
+                    {
+                        "name": "Miles Anderson",
+                        "order": 14,
+                        "role": "Roger O\\'Neill"
+                    },
+                    {
+                        "name": "Nicholas Selby",
+                        "order": 15,
+                        "role": "Lord Billsborough"
+                    },
+                    {
+                        "name": "William Chubb",
+                        "order": 16,
+                        "role": "John Krajewski"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:31:34",
+                "director": [
+                    "Paul Seed"
+                ],
+                "episode": 4,
+                "episodeid": 804,
+                "fanart": "http://thetvdb.com/banners/fanart/original/79861-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E04.Die.Intrige.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "1990-12-09",
+                "label": "1x04. The House of Cards - Episode 4",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Urquhart’s ruthless scheming has worked. As the leadership election looms, all his leading rivals have been discredited. But even though the obstacles in his way have been erased, there is still no guarantee of his winning. Meanwhile, by the process of reason and elimination, the truth is beginning to dawn on Mattie, though she can hardly bring herself to believe that “Daddy” is not what he seems. As for Urquhart, he has too much to lose now to let sentiment stand in his way. He will go to any lengths to prevent her, or anyone else, from finding out just what he has done to gain power.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "House of Cards",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/79861/342310.jpg",
+                "title": "The House of Cards - Episode 4",
+                "tvshowid": 46,
+                "uniqueid": {
+                    "unknown": "342310"
+                },
+                "votes": "14",
+                "writer": [
+                    "Andrew Davies"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/79861-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/79861-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79861-3.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/79861-1.jpg"
+            },
+            "episode": 4,
+            "fanart": "http://thetvdb.com/banners/fanart/original/79861-3.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 237,
+            "showtitle": "House of Cards",
+            "thumbnail": "http://thetvdb.com/banners/seasons/79861-1-2.jpg",
+            "tvshowid": 46,
+            "watchedepisodes": 0
+        }
+    ]
+}

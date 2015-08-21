@@ -1,0 +1,2439 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+            "poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Travis Fimmel",
+                "order": 0,
+                "role": "Ragnar Lothbrok",
+                "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+            },
+            {
+                "name": "Katheryn Winnick",
+                "order": 1,
+                "role": "Lagertha",
+                "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+            },
+            {
+                "name": "Alexander Ludwig",
+                "order": 2,
+                "role": "Bjorn Lothbrok",
+                "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+            },
+            {
+                "name": "Clive Standen",
+                "order": 3,
+                "role": "Rollo",
+                "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+            },
+            {
+                "name": "Gustaf Skarsgard",
+                "order": 4,
+                "role": "Floki",
+                "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+            },
+            {
+                "name": "Alyssa Sutherland",
+                "order": 5,
+                "role": "Princess Aslaug",
+                "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+            },
+            {
+                "name": "Linus Roache",
+                "order": 6,
+                "role": "King Ecbert",
+                "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+            },
+            {
+                "name": "Thorbjørn Harr",
+                "order": 7,
+                "role": "Jarl Borg",
+                "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+            },
+            {
+                "name": "Donal Logue",
+                "order": 8,
+                "role": "King Horik",
+                "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+            },
+            {
+                "name": "George Blagden",
+                "order": 9,
+                "role": "Athelstan",
+                "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+            },
+            {
+                "name": "Jessalyn Gilsig",
+                "order": 10,
+                "role": "Siggy",
+                "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+            },
+            {
+                "name": "Gabriel Byrne",
+                "order": 11,
+                "role": "Earl Haraldson",
+                "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+            }
+        ],
+        "dateadded": "2015-06-04 01:53:21",
+        "episode": 19,
+        "episodeguide": "<episodeguide><url cache=\"260449-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/260449/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "imdbnumber": "260449",
+        "label": "Vikings",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Vikings follows the adventures of Ragnar Lothbrok the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods, legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+        "premiered": "2013-03-03",
+        "rating": 9.100000381469727,
+        "season": 2,
+        "sorttitle": "",
+        "studio": [
+            "History"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/260449-3.jpg",
+        "title": "Vikings",
+        "tvshowid": 92,
+        "votes": "160",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4383243.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-04 01:21:51",
+                "director": [
+                    "Johan Renck"
+                ],
+                "episode": 1,
+                "episodeid": 1840,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 1/Vikings.S01E01.Initiationsriten.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-03-03",
+                "label": "1x01. Rites of Passage",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In 8th century Scandinavia, Ragnar Lothbrok is a warrior and a farmer who dreams of finding riches by bucking the tradition of raiding to the east. Ragnar has been working in secret on a project that will turn the Viking world on its head. But first Ragnar must convince the leader of his community, the powerful Earl Haraldson, who is none too happy to share in the renown that this journey could bring to Ragnar if it's successful.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4383243.jpg",
+                "title": "Rites of Passage",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4383243"
+                },
+                "votes": "133",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4383244.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-04 01:39:55",
+                "director": [
+                    "Johan Renck"
+                ],
+                "episode": 2,
+                "episodeid": 1841,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 1/Vikings.S01E02.Der.Zorn.der.Wikinger.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-03-10",
+                "label": "1x02. Wrath of the Northmen",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The stage is set for the first journey west by Ragnar Lothbrok as he gathers a crew willing to risk their lives to travel into the unknown. Earl Haraldson's paranoia reaches new heights as it becomes apparent that trust is hard to come by in this dark era.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4383244.jpg",
+                "title": "Wrath of the Northmen",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4383244"
+                },
+                "votes": "119",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4383245.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-04 01:53:21",
+                "director": [
+                    "Johan Renck"
+                ],
+                "episode": 3,
+                "episodeid": 1842,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 1/Vikings.S01E03.Enteignet.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-03-17",
+                "label": "1x03. Dispossessed",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A monastery in Lindesfarne is about to get a firsthand look at how the Vikings operate. In and out in a flurry of violence and terror, Ragnar and his crew raid the monastery for everything it contains, from treasure to monks who can be sold as slaves. Unable to ignore the riches this unsanctioned journey has returned, Earl Haraldson has no choice but to agree to let these warriors undertake a second trip out. The West has now been opened for the taking by Ragnar Lothbrok, and the world of the Vikings will never be the same.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4383245.jpg",
+                "title": "Dispossessed",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4383245"
+                },
+                "votes": "125",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4383246.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-04 01:09:21",
+                "director": [
+                    "Ciaran Donnelly"
+                ],
+                "episode": 4,
+                "episodeid": 1843,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 1/Vikings.S01E04.Der.Prozess.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-03-24",
+                "label": "1x04. Trial",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The Vikings head back to England to see what other treasures this new world has to offer. Ragnar and his crew sail out with Earl Haraldson's permission… and also with Earl Haraldson's spy. After bloodshed on the beach, the Vikings choose the Sabbath to invade the town of Hexam and unleash a flood of violence and panic. In the midst of the terror, Ragnar and Lagertha discover that there are consequences for every action and Earl Haraldson is always watching.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4383246.jpg",
+                "title": "Trial",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4383246"
+                },
+                "votes": "115",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4383248.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-03 19:51:48",
+                "director": [
+                    "Ciaran Donnelly"
+                ],
+                "episode": 5,
+                "episodeid": 1844,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 1/Vikings.S01E05.Der.Ueberfall.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-03-31",
+                "label": "1x05. Raid",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In the Great Hall of Kattegat, a seer reads Earl Haraldson’s future and tells him that Ragnar Lothbrok searches for his death. The unanswerable question is whom do the gods favor more? As a man willing to defend his power and status to the death, Haraldson intends to take precautionary measures. Ragnar, his home and farm burned by the Earl is hurt but hidden safely away. He must now choose the path that will lead him back to his freedom.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4383248.jpg",
+                "title": "Raid",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4383248"
+                },
+                "votes": "110",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4383252.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-03 19:52:18",
+                "director": [
+                    "Ciaran Donnelly"
+                ],
+                "episode": 6,
+                "episodeid": 1845,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 1/Vikings.S01E06.Das.Begraebnis.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-04-07",
+                "label": "1x06. Burial of the Dead",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ragnar, weak and still hurt, must meet the Earl head-on after it comes to light that Rollo has been tortured on Haraldson’s orders. The two men will come together face to face with a single outcome possible: Only one man will leave this fight alive.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4383252.jpg",
+                "title": "Burial of the Dead",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4383252"
+                },
+                "votes": "112",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4383257.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-03 19:52:49",
+                "director": [
+                    "Ken Girotti"
+                ],
+                "episode": 7,
+                "episodeid": 1846,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 1/Vikings.S01E07.Ein.Vermoegen.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-04-14",
+                "label": "1x07. A King's Ransom",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Three Viking ships sail upriver towards the very heart of power in eastern England: the Royal Villa of King Aelle. Ragnar Lothbrok has come looking for ransom in exchange for peace. However, King Aelle has a different plan in mind for these northern heathens.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4383257.jpg",
+                "title": "A King's Ransom",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4383257"
+                },
+                "votes": "110",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4383260.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-03 19:53:17",
+                "director": [
+                    "Ken Girotti"
+                ],
+                "episode": 8,
+                "episodeid": 1847,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 1/Vikings.S01E08.Das.Opfer.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-04-21",
+                "label": "1x08. Sacrifice",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The traditional pilgrimage to Uppsala to thank the gods brings a torrent of emotions for Ragnar, Lagertha, and Athelstan. Ragnar, pulling farther away from his wife goes to make peace with the death of his unborn son. Lagertha, still reeling from her miscarriage, wants to find out from the gods if more sons are in her future. As the Vikings come together to sacrifice and give thanks to their gods, Athelstan discovers just how strong his Christian faith still is.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4383260.jpg",
+                "title": "Sacrifice",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4383260"
+                },
+                "votes": "98",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4383261.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-03 19:53:45",
+                "director": [
+                    "Ken Girotti"
+                ],
+                "episode": 9,
+                "episodeid": 1848,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 1/Vikings.S01E09.Veraenderungen.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-04-28",
+                "label": "1x09. All Change",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "At the behest of King Horik, Ragnar assembles a small party to travel to Gotaland (modern day Sweden) to resolve a land dispute with the area’s leader, Jarl Borg. Ragnar’s renown precedes him and Jarl Borg is intrigued – has he found a new ally or is Ragnar just a puppet of the king? Meanwhile in Kattegat, with a plague taking its toll on the village, the people look to Lagertha to help appease the gods.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4383261.jpg",
+                "title": "All Change",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4383261"
+                },
+                "votes": "95",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4743867.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 21:31:35",
+                "director": [
+                    "Ciaran Donnelly"
+                ],
+                "episode": 1,
+                "episodeid": 1849,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 2/Vikings.S02E01.Bruderkrieg.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-02-27",
+                "label": "2x01. Brother's War",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The battle begins between Ragnar and King Horik's forces against Jarl Borg. Borg is joined by Rollo, and this Viking clash pits brother against brother. There can only be one victor. Meanwhile, Princess Aslaug makes her way to Kattegat and brings with her a surprise that leaves Ragnar in a difficult predicament.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4743867.jpg",
+                "title": "Brother's War",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4743867"
+                },
+                "votes": "81",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4776421.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 21:49:39",
+                "director": [
+                    "Ciaran Donnelly"
+                ],
+                "episode": 2,
+                "episodeid": 1850,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 2/Vikings.S02E02.Invasion.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-03-06",
+                "label": "2x02. Invasion",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Four peaceful years have since passed with Ragnar as Earl. The time has come for an unlikely alliance to band together in pursuit of a common goal: a new raid on England. A storm pushes the Viking fleet to a new destination, and on the beaches of Wessex, Ragnar and his men may have met their match.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4776421.jpg",
+                "title": "Invasion",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4776421"
+                },
+                "votes": "81",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4776422.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 22:11:17",
+                "director": [
+                    "Ken Girotti"
+                ],
+                "episode": 3,
+                "episodeid": 1851,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 2/Vikings.S02E03.Verrat.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-03-13",
+                "label": "2x03. Treachery",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The Wessex Viking raid is in full swing and King Ecbert finds himself facing an entirely new kind of foe. While Ragnar races to dominate in the West, Jarl Borg has his own plans in store for the future of Kattegat.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4776422.jpg",
+                "title": "Treachery",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4776422"
+                },
+                "votes": "70",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4776423.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 21:47:30",
+                "director": [
+                    "Ken Girotti"
+                ],
+                "episode": 4,
+                "episodeid": 1852,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 2/Vikings.S02E04.Auge.um.Augee.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-03-20",
+                "label": "2x04. Eye for an Eye",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A meeting between two great men may pave the way for future compromise as Ragnar and Ecbert come face to face. Jarl Borg now rules Kattegat and with an iron fist and Rollo must now become the leader his people need in Ragnar's absence.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4776423.jpg",
+                "title": "Eye for an Eye",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4776423"
+                },
+                "votes": "72",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4778050.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 22:23:24",
+                "director": [
+                    "Jeff Woolnough"
+                ],
+                "episode": 5,
+                "episodeid": 1853,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 2/Vikings.S02E05.Antworten.in.Blut.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-03-27",
+                "label": "2x05. Answers in Blood",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Lagertha and Ragnar unite once again and together fight to win Kattegat back from Jarl Borg. Aslaug must face the truth of her prophecies. Athelstan struggles to define his faith. Bjorn must once again make a choice.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4778050.jpg",
+                "title": "Answers in Blood",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4778050"
+                },
+                "votes": "76",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4803339.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 22:14:57",
+                "director": [
+                    "Jeff Woolnough"
+                ],
+                "episode": 6,
+                "episodeid": 1854,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 2/Vikings.S02E06.Unverziehen.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-04-03",
+                "label": "2x06. Unforgiven",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "King Horik returns to Kattegat with a surprising proposition for Ragnar. Lagertha runs into a less than enthusiastic homecoming from her new husband. Athelstan, struggling with his own inner demons, becomes confidant to King Ecbert.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4803339.jpg",
+                "title": "Unforgiven",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4803339"
+                },
+                "votes": "78",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4804537.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 21:45:42",
+                "director": [
+                    "Kari Skogland"
+                ],
+                "episode": 7,
+                "episodeid": 1855,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 2/Vikings.S02E07.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-04-10",
+                "label": "2x07. Blood Eagle",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ragnar and King Horik clash over how to dispense justice to Jarl Borg. In Wessex, King Aelle arrives and Ecbert has an eye on a new alliance.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4804537.jpg",
+                "title": "Blood Eagle",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4804537"
+                },
+                "votes": "74",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4804538.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 22:37:43",
+                "director": [
+                    "Kari Skogland"
+                ],
+                "episode": 8,
+                "episodeid": 1856,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 2/Vikings.S02E08.Nachgiebig.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-04-17",
+                "label": "2x08. Boneless",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Princess Aslaug's latest prophecy comes to fruition as she readies to give birth once more; Ragnar and Horik have very different ideas about the true purpose of their trip to Wessex.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4804538.jpg",
+                "title": "Boneless",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4804538"
+                },
+                "votes": "68",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4836903.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 22:27:46",
+                "director": [
+                    "Ken Girotti"
+                ],
+                "episode": 9,
+                "episodeid": 1857,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 2/Vikings.S02E09.Die.Wahl.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-04-24",
+                "label": "2x09. The Choice",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ragnar's warriors march on to King Ecbert's villa and are met with a surprisingly vicious welcome party.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4836903.jpg",
+                "title": "The Choice",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4836903"
+                },
+                "votes": "69",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260449/4836905.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Travis Fimmel",
+                        "order": 0,
+                        "role": "Ragnar Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306703.jpg"
+                    },
+                    {
+                        "name": "Katheryn Winnick",
+                        "order": 1,
+                        "role": "Lagertha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306708.jpg"
+                    },
+                    {
+                        "name": "Alexander Ludwig",
+                        "order": 2,
+                        "role": "Bjorn Lothbrok",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+                    },
+                    {
+                        "name": "Clive Standen",
+                        "order": 3,
+                        "role": "Rollo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306707.jpg"
+                    },
+                    {
+                        "name": "Gustaf Skarsgard",
+                        "order": 4,
+                        "role": "Floki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306705.jpg"
+                    },
+                    {
+                        "name": "Alyssa Sutherland",
+                        "order": 5,
+                        "role": "Princess Aslaug",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345610.jpg"
+                    },
+                    {
+                        "name": "Linus Roache",
+                        "order": 6,
+                        "role": "King Ecbert",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333598.jpg"
+                    },
+                    {
+                        "name": "Thorbjørn Harr",
+                        "order": 7,
+                        "role": "Jarl Borg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333597.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 8,
+                        "role": "King Horik",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "George Blagden",
+                        "order": 9,
+                        "role": "Athelstan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306709.jpg"
+                    },
+                    {
+                        "name": "Jessalyn Gilsig",
+                        "order": 10,
+                        "role": "Siggy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306706.jpg"
+                    },
+                    {
+                        "name": "Gabriel Byrne",
+                        "order": 11,
+                        "role": "Earl Haraldson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306704.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 22:28:06",
+                "director": [
+                    "Ken Girotti"
+                ],
+                "episode": 10,
+                "episodeid": 1858,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Vikings/Season 2/Vikings.S02E10.Das.Gebet.des.Herrn.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-05-01",
+                "label": "2x10. The Lord's Prayer",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ragnar and King Horik return to Kattegat; Ragnar places his trust in those who have stood by him.",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Vikings",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260449/4836905.jpg",
+                "title": "The Lord's Prayer",
+                "tvshowid": 92,
+                "uniqueid": {
+                    "unknown": "4836905"
+                },
+                "votes": "61",
+                "writer": [
+                    "Michael Hirst"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/260449-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/260449-1-7.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+            },
+            "episode": 9,
+            "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 503,
+            "showtitle": "Vikings",
+            "thumbnail": "http://thetvdb.com/banners/seasons/260449-1-7.jpg",
+            "tvshowid": 92,
+            "watchedepisodes": 0
+        },
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/260449-2.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/260449-2-5.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/260449-g16.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/260449-3.jpg"
+            },
+            "episode": 10,
+            "fanart": "http://thetvdb.com/banners/fanart/original/260449-1.jpg",
+            "label": "Staffel 2",
+            "playcount": 0,
+            "season": 2,
+            "seasonid": 504,
+            "showtitle": "Vikings",
+            "thumbnail": "http://thetvdb.com/banners/seasons/260449-2-5.jpg",
+            "tvshowid": 92,
+            "watchedepisodes": 0
+        }
+    ]
+}

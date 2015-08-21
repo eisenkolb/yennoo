@@ -1,0 +1,907 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/256233-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/256233-3.jpg",
+            "poster": "http://thetvdb.com/banners/posters/256233-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Kevin Costner",
+                "order": 0,
+                "role": "'Devil' Anse Hatfield",
+                "thumbnail": "http://thetvdb.com/banners/actors/299175.jpg"
+            },
+            {
+                "name": "Bill Paxton",
+                "order": 1,
+                "role": "Randall McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299176.jpg"
+            },
+            {
+                "name": "Sarah Parish",
+                "order": 2,
+                "role": "Levicy Hatfield",
+                "thumbnail": "http://thetvdb.com/banners/actors/299313.jpg"
+            },
+            {
+                "name": "Mare Winningham",
+                "order": 3,
+                "role": "Sally McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299311.jpg"
+            },
+            {
+                "name": "John Bell",
+                "order": 4,
+                "role": "Audie / Billy Dempsy / Billy Dempsey",
+                "thumbnail": "http://thetvdb.com/banners/actors/302757.jpg"
+            },
+            {
+                "name": "Lindsay Pulsipher",
+                "order": 5,
+                "role": "Roseanna McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/300024.jpg"
+            },
+            {
+                "name": "Greg Patmore",
+                "order": 6,
+                "role": "Good ‘Lias Hatfield",
+                "thumbnail": "http://thetvdb.com/banners/actors/299331.jpg"
+            },
+            {
+                "name": "Damian O’Hare",
+                "order": 7,
+                "role": "Ellison Hatfield",
+                "thumbnail": "http://thetvdb.com/banners/actors/299330.jpg"
+            },
+            {
+                "name": "Tom McKay",
+                "order": 8,
+                "role": "Jim McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299329.jpg"
+            },
+            {
+                "name": "Jena Malone",
+                "order": 9,
+                "role": "Nancy McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299328.jpg"
+            },
+            {
+                "name": "Jack Laskey",
+                "order": 10,
+                "role": "Squirrel Huntin' Sam McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299327.jpg"
+            },
+            {
+                "name": "Michael Jibson",
+                "order": 11,
+                "role": "Pharmer McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299326.jpg"
+            },
+            {
+                "name": "Tyler Jackson",
+                "order": 12,
+                "role": "Bud McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299325.jpg"
+            },
+            {
+                "name": "Lloyd Hutchinson",
+                "order": 13,
+                "role": "Floyd Hatfield",
+                "thumbnail": "http://thetvdb.com/banners/actors/299324.jpg"
+            },
+            {
+                "name": "Katie Griffiths",
+                "order": 14,
+                "role": "Alifair McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299323.jpg"
+            },
+            {
+                "name": "Michael Greco",
+                "order": 15,
+                "role": "Bill Staton",
+                "thumbnail": "http://thetvdb.com/banners/actors/299322.jpg"
+            },
+            {
+                "name": "Jilon VanOver Ghai",
+                "order": 16,
+                "role": "Ransom Bray",
+                "thumbnail": "http://thetvdb.com/banners/actors/299321.jpg"
+            },
+            {
+                "name": "Jonathan Fredrick",
+                "order": 17,
+                "role": "Jefferson McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299320.jpg"
+            },
+            {
+                "name": "Noel Fisher",
+                "order": 18,
+                "role": "Cotton Top Mounts",
+                "thumbnail": "http://thetvdb.com/banners/actors/299319.jpg"
+            },
+            {
+                "name": "Max Deacon",
+                "order": 19,
+                "role": "Calvin McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299318.jpg"
+            },
+            {
+                "name": "Ben Cartwright",
+                "order": 20,
+                "role": "Parris McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299317.jpg"
+            },
+            {
+                "name": "Powers Boothe",
+                "order": 21,
+                "role": "Wall Hatfield",
+                "thumbnail": "http://thetvdb.com/banners/actors/299316.jpg"
+            },
+            {
+                "name": "Tom Berenger",
+                "order": 22,
+                "role": "Jim Vance",
+                "thumbnail": "http://thetvdb.com/banners/actors/299315.jpg"
+            },
+            {
+                "name": "Joe Absolom",
+                "order": 23,
+                "role": "Selkirk McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299314.jpg"
+            },
+            {
+                "name": "Andrew Howard",
+                "order": 24,
+                "role": "Bad Frank Phillips",
+                "thumbnail": "http://thetvdb.com/banners/actors/299312.jpg"
+            },
+            {
+                "name": "Ronan Vibert",
+                "order": 25,
+                "role": "Perry Cline",
+                "thumbnail": "http://thetvdb.com/banners/actors/299310.jpg"
+            },
+            {
+                "name": "Boyd Holbrook",
+                "order": 26,
+                "role": "William \"Cap\" Hatfield",
+                "thumbnail": "http://thetvdb.com/banners/actors/299309.jpg"
+            },
+            {
+                "name": "Sam Reid",
+                "order": 27,
+                "role": "Tolbert McCoy",
+                "thumbnail": "http://thetvdb.com/banners/actors/299308.jpg"
+            },
+            {
+                "name": "Matt Barr",
+                "order": 28,
+                "role": "Johnse Hatfield",
+                "thumbnail": "http://thetvdb.com/banners/actors/299307.jpg"
+            }
+        ],
+        "dateadded": "2013-11-16 12:07:29",
+        "episode": 3,
+        "episodeguide": "<episodeguide><url cache=\"256233-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/256233/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/256233-3.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hatfields & McCoys/",
+        "genre": [
+            "Drama",
+            "Mini-Series",
+            "Western"
+        ],
+        "imdbnumber": "256233",
+        "label": "Hatfields & McCoys",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "A clash of clans that evoked great passion, vengeance, courage, sacrifice, crimes and accusations, which changed the families and the history of the region forever. The Hatfield-McCoy saga begins with 'Devil' Anse Hatfield and Randall McCoy. Close friends and comrades until near the end of the Civil War, they return to their neighboring homes - Hatfield in West Virginia, McCoy just across the Tug River border in Kentucky - to increasing tensions, misunderstandings and resentments that soon explode into all-out warfare between the families. As hostilities grow, friends, neighbors and outside forces join the fight, bringing the two states to the brink of another Civil War.",
+        "premiered": "2012-05-28",
+        "rating": 8,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "History"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/256233-1.jpg",
+        "title": "Hatfields & McCoys",
+        "tvshowid": 37,
+        "votes": "13",
+        "watchedepisodes": 0,
+        "year": 2012
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/256233/4305483.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/256233-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/256233-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/256233-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Costner",
+                        "order": 0,
+                        "role": "'Devil' Anse Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299175.jpg"
+                    },
+                    {
+                        "name": "Bill Paxton",
+                        "order": 1,
+                        "role": "Randall McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299176.jpg"
+                    },
+                    {
+                        "name": "Sarah Parish",
+                        "order": 2,
+                        "role": "Levicy Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299313.jpg"
+                    },
+                    {
+                        "name": "Mare Winningham",
+                        "order": 3,
+                        "role": "Sally McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299311.jpg"
+                    },
+                    {
+                        "name": "John Bell",
+                        "order": 4,
+                        "role": "Audie / Billy Dempsy / Billy Dempsey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302757.jpg"
+                    },
+                    {
+                        "name": "Lindsay Pulsipher",
+                        "order": 5,
+                        "role": "Roseanna McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300024.jpg"
+                    },
+                    {
+                        "name": "Greg Patmore",
+                        "order": 6,
+                        "role": "Good ‘Lias Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299331.jpg"
+                    },
+                    {
+                        "name": "Damian O’Hare",
+                        "order": 7,
+                        "role": "Ellison Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299330.jpg"
+                    },
+                    {
+                        "name": "Tom McKay",
+                        "order": 8,
+                        "role": "Jim McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299329.jpg"
+                    },
+                    {
+                        "name": "Jena Malone",
+                        "order": 9,
+                        "role": "Nancy McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299328.jpg"
+                    },
+                    {
+                        "name": "Jack Laskey",
+                        "order": 10,
+                        "role": "Squirrel Huntin' Sam McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299327.jpg"
+                    },
+                    {
+                        "name": "Michael Jibson",
+                        "order": 11,
+                        "role": "Pharmer McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299326.jpg"
+                    },
+                    {
+                        "name": "Tyler Jackson",
+                        "order": 12,
+                        "role": "Bud McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299325.jpg"
+                    },
+                    {
+                        "name": "Lloyd Hutchinson",
+                        "order": 13,
+                        "role": "Floyd Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299324.jpg"
+                    },
+                    {
+                        "name": "Katie Griffiths",
+                        "order": 14,
+                        "role": "Alifair McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299323.jpg"
+                    },
+                    {
+                        "name": "Michael Greco",
+                        "order": 15,
+                        "role": "Bill Staton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299322.jpg"
+                    },
+                    {
+                        "name": "Jilon VanOver Ghai",
+                        "order": 16,
+                        "role": "Ransom Bray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299321.jpg"
+                    },
+                    {
+                        "name": "Jonathan Fredrick",
+                        "order": 17,
+                        "role": "Jefferson McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299320.jpg"
+                    },
+                    {
+                        "name": "Noel Fisher",
+                        "order": 18,
+                        "role": "Cotton Top Mounts",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299319.jpg"
+                    },
+                    {
+                        "name": "Max Deacon",
+                        "order": 19,
+                        "role": "Calvin McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299318.jpg"
+                    },
+                    {
+                        "name": "Ben Cartwright",
+                        "order": 20,
+                        "role": "Parris McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299317.jpg"
+                    },
+                    {
+                        "name": "Powers Boothe",
+                        "order": 21,
+                        "role": "Wall Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299316.jpg"
+                    },
+                    {
+                        "name": "Tom Berenger",
+                        "order": 22,
+                        "role": "Jim Vance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299315.jpg"
+                    },
+                    {
+                        "name": "Joe Absolom",
+                        "order": 23,
+                        "role": "Selkirk McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299314.jpg"
+                    },
+                    {
+                        "name": "Andrew Howard",
+                        "order": 24,
+                        "role": "Bad Frank Phillips",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299312.jpg"
+                    },
+                    {
+                        "name": "Ronan Vibert",
+                        "order": 25,
+                        "role": "Perry Cline",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299310.jpg"
+                    },
+                    {
+                        "name": "Boyd Holbrook",
+                        "order": 26,
+                        "role": "William \"Cap\" Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299309.jpg"
+                    },
+                    {
+                        "name": "Sam Reid",
+                        "order": 27,
+                        "role": "Tolbert McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299308.jpg"
+                    },
+                    {
+                        "name": "Matt Barr",
+                        "order": 28,
+                        "role": "Johnse Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299307.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-09 17:57:15",
+                "director": [
+                    "Kevin Reynolds"
+                ],
+                "episode": 1,
+                "episodeid": 607,
+                "fanart": "http://thetvdb.com/banners/fanart/original/256233-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hatfields & McCoys/Season 1/Hatfields.and.McCoys.2012.E01.Folge.1.GERMAN.DUBBED.WS.BDRip.x264-NVA.mkv",
+                "firstaired": "2012-05-28",
+                "label": "1x01. Part 1",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Kevin Costner and Bill Paxton star in this all-new miniseries about the legendary and deadly family feud that broke out in the backwoods of West Virginia and Kentucky after the Civil War. The clash of clans begins when a Hatfield murders a McCoy, and Randall McCoy's daughter and Devil Anse Hatfield's son begin a tempestuous, forbidden love affair.",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 6000,
+                "season": 1,
+                "showtitle": "Hatfields & McCoys",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/256233/4305483.jpg",
+                "title": "Part 1",
+                "tvshowid": 37,
+                "uniqueid": {
+                    "unknown": "4305483"
+                },
+                "votes": "19",
+                "writer": [
+                    "Bill Kerby",
+                    "Ted Mann"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/256233/4305484.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/256233-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/256233-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/256233-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Costner",
+                        "order": 0,
+                        "role": "'Devil' Anse Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299175.jpg"
+                    },
+                    {
+                        "name": "Bill Paxton",
+                        "order": 1,
+                        "role": "Randall McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299176.jpg"
+                    },
+                    {
+                        "name": "Sarah Parish",
+                        "order": 2,
+                        "role": "Levicy Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299313.jpg"
+                    },
+                    {
+                        "name": "Mare Winningham",
+                        "order": 3,
+                        "role": "Sally McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299311.jpg"
+                    },
+                    {
+                        "name": "John Bell",
+                        "order": 4,
+                        "role": "Audie / Billy Dempsy / Billy Dempsey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302757.jpg"
+                    },
+                    {
+                        "name": "Lindsay Pulsipher",
+                        "order": 5,
+                        "role": "Roseanna McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300024.jpg"
+                    },
+                    {
+                        "name": "Greg Patmore",
+                        "order": 6,
+                        "role": "Good ‘Lias Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299331.jpg"
+                    },
+                    {
+                        "name": "Damian O’Hare",
+                        "order": 7,
+                        "role": "Ellison Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299330.jpg"
+                    },
+                    {
+                        "name": "Tom McKay",
+                        "order": 8,
+                        "role": "Jim McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299329.jpg"
+                    },
+                    {
+                        "name": "Jena Malone",
+                        "order": 9,
+                        "role": "Nancy McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299328.jpg"
+                    },
+                    {
+                        "name": "Jack Laskey",
+                        "order": 10,
+                        "role": "Squirrel Huntin' Sam McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299327.jpg"
+                    },
+                    {
+                        "name": "Michael Jibson",
+                        "order": 11,
+                        "role": "Pharmer McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299326.jpg"
+                    },
+                    {
+                        "name": "Tyler Jackson",
+                        "order": 12,
+                        "role": "Bud McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299325.jpg"
+                    },
+                    {
+                        "name": "Lloyd Hutchinson",
+                        "order": 13,
+                        "role": "Floyd Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299324.jpg"
+                    },
+                    {
+                        "name": "Katie Griffiths",
+                        "order": 14,
+                        "role": "Alifair McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299323.jpg"
+                    },
+                    {
+                        "name": "Michael Greco",
+                        "order": 15,
+                        "role": "Bill Staton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299322.jpg"
+                    },
+                    {
+                        "name": "Jilon VanOver Ghai",
+                        "order": 16,
+                        "role": "Ransom Bray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299321.jpg"
+                    },
+                    {
+                        "name": "Jonathan Fredrick",
+                        "order": 17,
+                        "role": "Jefferson McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299320.jpg"
+                    },
+                    {
+                        "name": "Noel Fisher",
+                        "order": 18,
+                        "role": "Cotton Top Mounts",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299319.jpg"
+                    },
+                    {
+                        "name": "Max Deacon",
+                        "order": 19,
+                        "role": "Calvin McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299318.jpg"
+                    },
+                    {
+                        "name": "Ben Cartwright",
+                        "order": 20,
+                        "role": "Parris McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299317.jpg"
+                    },
+                    {
+                        "name": "Powers Boothe",
+                        "order": 21,
+                        "role": "Wall Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299316.jpg"
+                    },
+                    {
+                        "name": "Tom Berenger",
+                        "order": 22,
+                        "role": "Jim Vance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299315.jpg"
+                    },
+                    {
+                        "name": "Joe Absolom",
+                        "order": 23,
+                        "role": "Selkirk McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299314.jpg"
+                    },
+                    {
+                        "name": "Andrew Howard",
+                        "order": 24,
+                        "role": "Bad Frank Phillips",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299312.jpg"
+                    },
+                    {
+                        "name": "Ronan Vibert",
+                        "order": 25,
+                        "role": "Perry Cline",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299310.jpg"
+                    },
+                    {
+                        "name": "Boyd Holbrook",
+                        "order": 26,
+                        "role": "William \"Cap\" Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299309.jpg"
+                    },
+                    {
+                        "name": "Sam Reid",
+                        "order": 27,
+                        "role": "Tolbert McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299308.jpg"
+                    },
+                    {
+                        "name": "Matt Barr",
+                        "order": 28,
+                        "role": "Johnse Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299307.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-16 11:39:43",
+                "director": [
+                    "Kevin Reynolds"
+                ],
+                "episode": 2,
+                "episodeid": 608,
+                "fanart": "http://thetvdb.com/banners/fanart/original/256233-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hatfields & McCoys/Season 1/Hatfields.and.McCoys.2012.E02.Folge.2.GERMAN.DUBBED.WS.BDRip.x264-NVA.mkv",
+                "firstaired": "2012-05-29",
+                "label": "1x02. Part 2",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When the McCoys murder Anse's younger brother, the Hatfields ride out to get bloody revenge. Soon, friends, neighbors, and outside forces join the feud, and all-out hostilities between the Hatfields and McCoys bring West Virginia and Kentucky to the brink of Civil War.",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 6000,
+                "season": 1,
+                "showtitle": "Hatfields & McCoys",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/256233/4305484.jpg",
+                "title": "Part 2",
+                "tvshowid": 37,
+                "uniqueid": {
+                    "unknown": "4305484"
+                },
+                "votes": "17",
+                "writer": [
+                    "Bill Kerby"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/256233/4305485.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/256233-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/256233-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/256233-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Costner",
+                        "order": 0,
+                        "role": "'Devil' Anse Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299175.jpg"
+                    },
+                    {
+                        "name": "Bill Paxton",
+                        "order": 1,
+                        "role": "Randall McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299176.jpg"
+                    },
+                    {
+                        "name": "Sarah Parish",
+                        "order": 2,
+                        "role": "Levicy Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299313.jpg"
+                    },
+                    {
+                        "name": "Mare Winningham",
+                        "order": 3,
+                        "role": "Sally McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299311.jpg"
+                    },
+                    {
+                        "name": "John Bell",
+                        "order": 4,
+                        "role": "Audie / Billy Dempsy / Billy Dempsey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302757.jpg"
+                    },
+                    {
+                        "name": "Lindsay Pulsipher",
+                        "order": 5,
+                        "role": "Roseanna McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300024.jpg"
+                    },
+                    {
+                        "name": "Greg Patmore",
+                        "order": 6,
+                        "role": "Good ‘Lias Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299331.jpg"
+                    },
+                    {
+                        "name": "Damian O’Hare",
+                        "order": 7,
+                        "role": "Ellison Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299330.jpg"
+                    },
+                    {
+                        "name": "Tom McKay",
+                        "order": 8,
+                        "role": "Jim McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299329.jpg"
+                    },
+                    {
+                        "name": "Jena Malone",
+                        "order": 9,
+                        "role": "Nancy McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299328.jpg"
+                    },
+                    {
+                        "name": "Jack Laskey",
+                        "order": 10,
+                        "role": "Squirrel Huntin' Sam McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299327.jpg"
+                    },
+                    {
+                        "name": "Michael Jibson",
+                        "order": 11,
+                        "role": "Pharmer McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299326.jpg"
+                    },
+                    {
+                        "name": "Tyler Jackson",
+                        "order": 12,
+                        "role": "Bud McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299325.jpg"
+                    },
+                    {
+                        "name": "Lloyd Hutchinson",
+                        "order": 13,
+                        "role": "Floyd Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299324.jpg"
+                    },
+                    {
+                        "name": "Katie Griffiths",
+                        "order": 14,
+                        "role": "Alifair McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299323.jpg"
+                    },
+                    {
+                        "name": "Michael Greco",
+                        "order": 15,
+                        "role": "Bill Staton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299322.jpg"
+                    },
+                    {
+                        "name": "Jilon VanOver Ghai",
+                        "order": 16,
+                        "role": "Ransom Bray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299321.jpg"
+                    },
+                    {
+                        "name": "Jonathan Fredrick",
+                        "order": 17,
+                        "role": "Jefferson McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299320.jpg"
+                    },
+                    {
+                        "name": "Noel Fisher",
+                        "order": 18,
+                        "role": "Cotton Top Mounts",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299319.jpg"
+                    },
+                    {
+                        "name": "Max Deacon",
+                        "order": 19,
+                        "role": "Calvin McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299318.jpg"
+                    },
+                    {
+                        "name": "Ben Cartwright",
+                        "order": 20,
+                        "role": "Parris McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299317.jpg"
+                    },
+                    {
+                        "name": "Powers Boothe",
+                        "order": 21,
+                        "role": "Wall Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299316.jpg"
+                    },
+                    {
+                        "name": "Tom Berenger",
+                        "order": 22,
+                        "role": "Jim Vance",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299315.jpg"
+                    },
+                    {
+                        "name": "Joe Absolom",
+                        "order": 23,
+                        "role": "Selkirk McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299314.jpg"
+                    },
+                    {
+                        "name": "Andrew Howard",
+                        "order": 24,
+                        "role": "Bad Frank Phillips",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299312.jpg"
+                    },
+                    {
+                        "name": "Ronan Vibert",
+                        "order": 25,
+                        "role": "Perry Cline",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299310.jpg"
+                    },
+                    {
+                        "name": "Boyd Holbrook",
+                        "order": 26,
+                        "role": "William \"Cap\" Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299309.jpg"
+                    },
+                    {
+                        "name": "Sam Reid",
+                        "order": 27,
+                        "role": "Tolbert McCoy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299308.jpg"
+                    },
+                    {
+                        "name": "Matt Barr",
+                        "order": 28,
+                        "role": "Johnse Hatfield",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299307.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-16 12:07:29",
+                "director": [
+                    "Kevin Reynolds"
+                ],
+                "episode": 3,
+                "episodeid": 609,
+                "fanart": "http://thetvdb.com/banners/fanart/original/256233-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hatfields & McCoys/Season 1/Hatfields.and.McCoys.2012.E03.Folge.3.GERMAN.DUBBED.WS.BDRip.x264-NVA.mkv",
+                "firstaired": "2012-05-30",
+                "label": "1x03. Part 3",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Bad Frank's raids force the besieged Hatfields deeper into the mountains; the impulsive Johnse sets his sights on another McCoy woman; the ruthless Nancy McCoy spies on the Hatfields; and the feud leads to a shattering New Year's Day battle.",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 6000,
+                "season": 1,
+                "showtitle": "Hatfields & McCoys",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/256233/4305485.jpg",
+                "title": "Part 3",
+                "tvshowid": 37,
+                "uniqueid": {
+                    "unknown": "4305485"
+                },
+                "votes": "15",
+                "writer": [
+                    "Bill Kerby"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/256233-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/256233-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/256233-3.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/256233-1.jpg"
+            },
+            "episode": 3,
+            "fanart": "http://thetvdb.com/banners/fanart/original/256233-3.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 193,
+            "showtitle": "Hatfields & McCoys",
+            "thumbnail": "http://thetvdb.com/banners/seasons/256233-1.jpg",
+            "tvshowid": 37,
+            "watchedepisodes": 0
+        }
+    ]
+}

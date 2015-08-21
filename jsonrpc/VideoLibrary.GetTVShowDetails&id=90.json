@@ -1,0 +1,1697 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/270633-g7.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+            "poster": "http://thetvdb.com/banners/posters/270633-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Vince Vaughn",
+                "order": 0,
+                "role": "Frank Semyon",
+                "thumbnail": "http://thetvdb.com/banners/actors/347379.jpg"
+            },
+            {
+                "name": "Colin Farrell",
+                "order": 1,
+                "role": "Ray Velcoro",
+                "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+            },
+            {
+                "name": "Rachel McAdams",
+                "order": 2,
+                "role": "Ani Bezzerides",
+                "thumbnail": "http://thetvdb.com/banners/actors/347375.jpg"
+            },
+            {
+                "name": "Taylor Kitsch",
+                "order": 3,
+                "role": "Paul Woodrugh",
+                "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+            },
+            {
+                "name": "Woody Harrelson",
+                "order": 4,
+                "role": "Detective Marty Hart",
+                "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+            },
+            {
+                "name": "Matthew McConaughey",
+                "order": 5,
+                "role": "Detective Rust Cohle",
+                "thumbnail": "http://thetvdb.com/banners/actors/316932.jpg"
+            },
+            {
+                "name": "Michelle Monaghan",
+                "order": 6,
+                "role": "Maggie Hart",
+                "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+            },
+            {
+                "name": "Kevin Dunn",
+                "order": 7,
+                "role": "Major Ken Quesada",
+                "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+            },
+            {
+                "name": "Michael Potts",
+                "order": 8,
+                "role": "Detective Maynard Gilbough",
+                "thumbnail": "http://thetvdb.com/banners/actors/316938.jpg"
+            },
+            {
+                "name": "Tory Kittles",
+                "order": 9,
+                "role": "Detective Thomas Papania",
+                "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+            },
+            {
+                "name": "Kelly Reilly",
+                "order": 10,
+                "role": "Jordan Semyon",
+                "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+            },
+            {
+                "name": "Alexandra Daddario",
+                "order": 11,
+                "role": "Lisa Tragnetti",
+                "thumbnail": "http://thetvdb.com/banners/actors/316935.jpg"
+            }
+        ],
+        "dateadded": "2014-06-29 13:33:02",
+        "episode": 8,
+        "episodeguide": "<episodeguide><url cache=\"270633-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/270633/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "imdbnumber": "270633",
+        "label": "True Detective",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "An anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+        "premiered": "2014-01-12",
+        "rating": 9,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "HBO"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/270633-3.jpg",
+        "title": "True Detective",
+        "tvshowid": 90,
+        "votes": "106",
+        "watchedepisodes": 0,
+        "year": 2014
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/270633/4592328.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/270633-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270633-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Alexandra Daddario",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316935.jpg"
+                    },
+                    {
+                        "name": "Kevin Dunn",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                    },
+                    {
+                        "name": "Clarke Peters",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7a3OTcJlncY32LDvdTjLS6bTMxh.jpg"
+                    },
+                    {
+                        "name": "Jay O. Sanders",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Christopher Berry",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brad Carter",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joe Chrest",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fVaVq1UetdXuWyCHeiLsi0704Qg.jpg"
+                    },
+                    {
+                        "name": "Jennifer K. Dawson",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "J.D. Evermore",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dana Gourrier",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hj7pAGBEy9XzqT23kHxKrpJYT6W.jpg"
+                    },
+                    {
+                        "name": "Charleigh Harmon",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 11,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Davi Jay",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jason Kirkpatrick",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alyshia Ochse",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dane Rhodes",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ron Clinton Smith",
+                        "order": 16,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Vaughn",
+                        "order": 0,
+                        "role": "Frank Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347379.jpg"
+                    },
+                    {
+                        "name": "Colin Farrell",
+                        "order": 1,
+                        "role": "Ray Velcoro",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                    },
+                    {
+                        "name": "Rachel McAdams",
+                        "order": 2,
+                        "role": "Ani Bezzerides",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347375.jpg"
+                    },
+                    {
+                        "name": "Taylor Kitsch",
+                        "order": 3,
+                        "role": "Paul Woodrugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                    },
+                    {
+                        "name": "Woody Harrelson",
+                        "order": 4,
+                        "role": "Detective Marty Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                    },
+                    {
+                        "name": "Matthew McConaughey",
+                        "order": 5,
+                        "role": "Detective Rust Cohle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316932.jpg"
+                    },
+                    {
+                        "name": "Michelle Monaghan",
+                        "order": 6,
+                        "role": "Maggie Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                    },
+                    {
+                        "name": "Michael Potts",
+                        "order": 8,
+                        "role": "Detective Maynard Gilbough",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316938.jpg"
+                    },
+                    {
+                        "name": "Tory Kittles",
+                        "order": 9,
+                        "role": "Detective Thomas Papania",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                    },
+                    {
+                        "name": "Kelly Reilly",
+                        "order": 10,
+                        "role": "Jordan Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 04:28:38",
+                "director": [
+                    "Cary Fukunaga"
+                ],
+                "episode": 1,
+                "episodeid": 1816,
+                "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E01.Die.lange.strahlende.Dunkelheit.German.DL.HDTV.x264-TVS.mp4",
+                "firstaired": "2014-01-12",
+                "label": "1x01. The Long Bright Dark",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Former Louisiana State CID partners Martin Hart and Rustin Cohle give separate statements to a pair of investigators about the murder of a prostitute, Dora Lange, 17 years earlier. As they look back, details of the crime, replete with occult overtones, are accompanied by insights into the detectives’ volatile partnership and personal lives.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "True Detective",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/270633/4592328.jpg",
+                "title": "The Long Bright Dark",
+                "tvshowid": 90,
+                "uniqueid": {
+                    "unknown": "4592328"
+                },
+                "votes": "138",
+                "writer": [
+                    "Nic Pizzolatto"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/270633/4592329.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/270633-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270633-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Alexandra Daddario",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316935.jpg"
+                    },
+                    {
+                        "name": "Kevin Dunn",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                    },
+                    {
+                        "name": "Tess Harper",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lili Simmons",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kate Adair",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jackson Beals",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "John Bernecker",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Amy Brassette",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joe Chrest",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fVaVq1UetdXuWyCHeiLsi0704Qg.jpg"
+                    },
+                    {
+                        "name": "Blayne Farlough",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Andrea Frankle",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Patricia French",
+                        "order": 11,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gr8JifkoddGbSanIPVbBjHWUbrD.jpg"
+                    },
+                    {
+                        "name": "Dana Gourrier",
+                        "order": 12,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hj7pAGBEy9XzqT23kHxKrpJYT6W.jpg"
+                    },
+                    {
+                        "name": "Regis Harrington",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jim Klock",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Garrett Kruithof",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Thomas Francis Murphy",
+                        "order": 16,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Vaughn",
+                        "order": 0,
+                        "role": "Frank Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347379.jpg"
+                    },
+                    {
+                        "name": "Colin Farrell",
+                        "order": 1,
+                        "role": "Ray Velcoro",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                    },
+                    {
+                        "name": "Rachel McAdams",
+                        "order": 2,
+                        "role": "Ani Bezzerides",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347375.jpg"
+                    },
+                    {
+                        "name": "Taylor Kitsch",
+                        "order": 3,
+                        "role": "Paul Woodrugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                    },
+                    {
+                        "name": "Woody Harrelson",
+                        "order": 4,
+                        "role": "Detective Marty Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                    },
+                    {
+                        "name": "Matthew McConaughey",
+                        "order": 5,
+                        "role": "Detective Rust Cohle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316932.jpg"
+                    },
+                    {
+                        "name": "Michelle Monaghan",
+                        "order": 6,
+                        "role": "Maggie Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                    },
+                    {
+                        "name": "Michael Potts",
+                        "order": 8,
+                        "role": "Detective Maynard Gilbough",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316938.jpg"
+                    },
+                    {
+                        "name": "Tory Kittles",
+                        "order": 9,
+                        "role": "Detective Thomas Papania",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                    },
+                    {
+                        "name": "Kelly Reilly",
+                        "order": 10,
+                        "role": "Jordan Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 04:32:11",
+                "director": [
+                    "Cary Fukunaga"
+                ],
+                "episode": 2,
+                "episodeid": 1817,
+                "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E02.Visionen.REPACK.German.DL.HDTV.x264-TVS.mp4",
+                "firstaired": "2014-01-19",
+                "label": "1x02. Seeing Things",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Under pressure to land a suspect in the Lange murder, Quesada warns Hart and Cohle that they might be replaced by three detectives from a new task force. The pair lobbies for extra time to follow up on a lead that takes them from a rural cathouse to an incinerated church. With his marriage to Maggie already strained by work, Hart finds respite away from home.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "True Detective",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/270633/4592329.jpg",
+                "title": "Seeing Things",
+                "tvshowid": 90,
+                "uniqueid": {
+                    "unknown": "4592329"
+                },
+                "votes": "117",
+                "writer": [
+                    "Nic Pizzolatto"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/270633/4592330.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/270633-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270633-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Alexandra Daddario",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316935.jpg"
+                    },
+                    {
+                        "name": "Kevin Dunn",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                    },
+                    {
+                        "name": "Shea Whigham",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299760.jpg"
+                    },
+                    {
+                        "name": "Robert Beitzel",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joe Chrest",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fVaVq1UetdXuWyCHeiLsi0704Qg.jpg"
+                    },
+                    {
+                        "name": "Jamie Elliott",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "J.D. Evermore",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Glenn Fleshler",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dana Gourrier",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hj7pAGBEy9XzqT23kHxKrpJYT6W.jpg"
+                    },
+                    {
+                        "name": "Douglas M. Griffin",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Charles Halford",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sharon Landry",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maryanne Marino",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ritchie Montgomery",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Norby",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dane Rhodes",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Bree Williamson",
+                        "order": 16,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Vaughn",
+                        "order": 0,
+                        "role": "Frank Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347379.jpg"
+                    },
+                    {
+                        "name": "Colin Farrell",
+                        "order": 1,
+                        "role": "Ray Velcoro",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                    },
+                    {
+                        "name": "Rachel McAdams",
+                        "order": 2,
+                        "role": "Ani Bezzerides",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347375.jpg"
+                    },
+                    {
+                        "name": "Taylor Kitsch",
+                        "order": 3,
+                        "role": "Paul Woodrugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                    },
+                    {
+                        "name": "Woody Harrelson",
+                        "order": 4,
+                        "role": "Detective Marty Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                    },
+                    {
+                        "name": "Matthew McConaughey",
+                        "order": 5,
+                        "role": "Detective Rust Cohle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316932.jpg"
+                    },
+                    {
+                        "name": "Michelle Monaghan",
+                        "order": 6,
+                        "role": "Maggie Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                    },
+                    {
+                        "name": "Michael Potts",
+                        "order": 8,
+                        "role": "Detective Maynard Gilbough",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316938.jpg"
+                    },
+                    {
+                        "name": "Tory Kittles",
+                        "order": 9,
+                        "role": "Detective Thomas Papania",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                    },
+                    {
+                        "name": "Kelly Reilly",
+                        "order": 10,
+                        "role": "Jordan Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-29 12:01:09",
+                "director": [
+                    "Cary Fukunaga"
+                ],
+                "episode": 3,
+                "episodeid": 1818,
+                "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E03.Der.verschlossene.Raum.German.Dubbed.HDTV.x264-4SJ.mp4",
+                "firstaired": "2014-01-26",
+                "label": "1x03. The Locked Room",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A hidden image at the burned-out church leads Cohle and Hart to Joel Theriot, a tent-revival minister whose parishioners finger a scarred “tall man” seen with Dora Lange. Brought in for interrogation, a sex offender matching the description is quickly dismissed by Cohle, despite offering a confession. Hart gets sidetracked after Maggie sets Cohle up with a friend at a C&W bar. Looking to establish a pattern of murder, Cohle pores over old case files, finding a connection with a woman assumed to have drowned years earlier.",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "True Detective",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/270633/4592330.jpg",
+                "title": "The Locked Room",
+                "tvshowid": 90,
+                "uniqueid": {
+                    "unknown": "4592330"
+                },
+                "votes": "107",
+                "writer": [
+                    "Nic Pizzolatto"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/270633/4592331.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/270633-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270633-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Alexandra Daddario",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316935.jpg"
+                    },
+                    {
+                        "name": "Kevin Dunn",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                    },
+                    {
+                        "name": "Jackson Beals",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Aurielle Brimmer",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Amber Carollo",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brad Carter",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Laura Cayouette",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/k8z62zDUoFy5hXmkoUStn0eJu7S.jpg"
+                    },
+                    {
+                        "name": "Joe Chrest",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fVaVq1UetdXuWyCHeiLsi0704Qg.jpg"
+                    },
+                    {
+                        "name": "Silas Cooper",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "J.D. Evermore",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jon Eyez",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Todd Giebenhain",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dana Gourrier",
+                        "order": 12,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hj7pAGBEy9XzqT23kHxKrpJYT6W.jpg"
+                    },
+                    {
+                        "name": "Owen Harn",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Shane Jacobsen",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lucky Johnson",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Kency",
+                        "order": 16,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jim Klock",
+                        "order": 17,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nic Pizzolato",
+                        "order": 18,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Vaughn",
+                        "order": 0,
+                        "role": "Frank Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347379.jpg"
+                    },
+                    {
+                        "name": "Colin Farrell",
+                        "order": 1,
+                        "role": "Ray Velcoro",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                    },
+                    {
+                        "name": "Rachel McAdams",
+                        "order": 2,
+                        "role": "Ani Bezzerides",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347375.jpg"
+                    },
+                    {
+                        "name": "Taylor Kitsch",
+                        "order": 3,
+                        "role": "Paul Woodrugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                    },
+                    {
+                        "name": "Woody Harrelson",
+                        "order": 4,
+                        "role": "Detective Marty Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                    },
+                    {
+                        "name": "Matthew McConaughey",
+                        "order": 5,
+                        "role": "Detective Rust Cohle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316932.jpg"
+                    },
+                    {
+                        "name": "Michelle Monaghan",
+                        "order": 6,
+                        "role": "Maggie Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                    },
+                    {
+                        "name": "Michael Potts",
+                        "order": 8,
+                        "role": "Detective Maynard Gilbough",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316938.jpg"
+                    },
+                    {
+                        "name": "Tory Kittles",
+                        "order": 9,
+                        "role": "Detective Thomas Papania",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                    },
+                    {
+                        "name": "Kelly Reilly",
+                        "order": 10,
+                        "role": "Jordan Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-29 12:07:58",
+                "director": [
+                    "Cary Fukunaga"
+                ],
+                "episode": 4,
+                "episodeid": 1819,
+                "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E04.Wer.ist.da.GERMAN.DUBBED.WS.HDTVRip.x264-TVP.mp4",
+                "firstaired": "2014-02-09",
+                "label": "1x04. Who Goes There",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Hart and Cohle hunt for their newly identified suspect, Reggie Ledoux, a meth cooker who shared a cell with Dora Lange's husband and recently skipped parole. As Hart's personal life collapses around him, Cohle immerses himself in an old criminal identity from his narco days, contacting an East-Texas biker gang known to deal with their primary suspect. Cohle's undercover work takes him to a dangerous edge where the law has no place, and both men must confront the cost of living a false life.",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "True Detective",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/270633/4592331.jpg",
+                "title": "Who Goes There",
+                "tvshowid": 90,
+                "uniqueid": {
+                    "unknown": "4592331"
+                },
+                "votes": "97",
+                "writer": [
+                    "Nic Pizzolatto"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/270633/4592332.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/270633-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270633-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Dunn",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                    },
+                    {
+                        "name": "Elizabeth Reaser",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jackson Beals",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Christopher Berry",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gracie Bott",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joe Chrest",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fVaVq1UetdXuWyCHeiLsi0704Qg.jpg"
+                    },
+                    {
+                        "name": "J.D. Evermore",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dana Gourrier",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hj7pAGBEy9XzqT23kHxKrpJYT6W.jpg"
+                    },
+                    {
+                        "name": "Charles Halford",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Hartson",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Floyd Herrington",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jim Klock",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gretchen Koerner",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Garrett Kruithof",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Maldonado",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Harlon Miller",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Erin Moriarty",
+                        "order": 16,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Vaughn",
+                        "order": 0,
+                        "role": "Frank Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347379.jpg"
+                    },
+                    {
+                        "name": "Colin Farrell",
+                        "order": 1,
+                        "role": "Ray Velcoro",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                    },
+                    {
+                        "name": "Rachel McAdams",
+                        "order": 2,
+                        "role": "Ani Bezzerides",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347375.jpg"
+                    },
+                    {
+                        "name": "Taylor Kitsch",
+                        "order": 3,
+                        "role": "Paul Woodrugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                    },
+                    {
+                        "name": "Woody Harrelson",
+                        "order": 4,
+                        "role": "Detective Marty Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                    },
+                    {
+                        "name": "Matthew McConaughey",
+                        "order": 5,
+                        "role": "Detective Rust Cohle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316932.jpg"
+                    },
+                    {
+                        "name": "Michelle Monaghan",
+                        "order": 6,
+                        "role": "Maggie Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                    },
+                    {
+                        "name": "Michael Potts",
+                        "order": 8,
+                        "role": "Detective Maynard Gilbough",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316938.jpg"
+                    },
+                    {
+                        "name": "Tory Kittles",
+                        "order": 9,
+                        "role": "Detective Thomas Papania",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                    },
+                    {
+                        "name": "Kelly Reilly",
+                        "order": 10,
+                        "role": "Jordan Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                    },
+                    {
+                        "name": "Alexandra Daddario",
+                        "order": 11,
+                        "role": "Lisa Tragnetti",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316935.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-29 13:29:29",
+                "director": [
+                    "Cary Fukunaga"
+                ],
+                "episode": 5,
+                "episodeid": 1820,
+                "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E05.Das.geheime.Schicksal.allen.Lebens.GERMAN.DUBBED.WS.HDTVRip.x264-TVP.mp4",
+                "firstaired": "2014-02-16",
+                "label": "1x05. The Secret Fate of All Life",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A violent denouement in the forest clears the Dora Lange case and turns Cohle and Hart into local heroes. Each man settles into a healthier rhythm of living as Hart returns to his family, and Cohle starts a relationship while gaining a reputation as a closer in interrogations. As time passes and his daughters grow older, Hart faces new tensions and temptations, and Cohle learns from a double-murder suspect that there could be much more to an old case than he'd once thought. In 2012, Gilbough and Papania put their cards on the table, presenting new intelligence that threatens Cohle and causes Hart to reassess everything he thought he knew about his former partner.",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "True Detective",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/270633/4592332.jpg",
+                "title": "The Secret Fate of All Life",
+                "tvshowid": 90,
+                "uniqueid": {
+                    "unknown": "4592332"
+                },
+                "votes": "98",
+                "writer": [
+                    "Nic Pizzolatto"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/270633/4592333.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/270633-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270633-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Paul Ben-Victor",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jay O. Sanders",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lili Simmons",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Shea Whigham",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299760.jpg"
+                    },
+                    {
+                        "name": "Gabe Begneaud",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kerry Cahill",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "December Ensminger",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "J.D. Evermore",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Henry Frost",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dana Gourrier",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hj7pAGBEy9XzqT23kHxKrpJYT6W.jpg"
+                    },
+                    {
+                        "name": "Rio Hackford",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tim Hanks",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Louis Herthum",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Erin Moriarty",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tom O'Connell",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Azure Parsons",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brighton Sharbino",
+                        "order": 16,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Vaughn",
+                        "order": 0,
+                        "role": "Frank Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347379.jpg"
+                    },
+                    {
+                        "name": "Colin Farrell",
+                        "order": 1,
+                        "role": "Ray Velcoro",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                    },
+                    {
+                        "name": "Rachel McAdams",
+                        "order": 2,
+                        "role": "Ani Bezzerides",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347375.jpg"
+                    },
+                    {
+                        "name": "Taylor Kitsch",
+                        "order": 3,
+                        "role": "Paul Woodrugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                    },
+                    {
+                        "name": "Woody Harrelson",
+                        "order": 4,
+                        "role": "Detective Marty Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                    },
+                    {
+                        "name": "Matthew McConaughey",
+                        "order": 5,
+                        "role": "Detective Rust Cohle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316932.jpg"
+                    },
+                    {
+                        "name": "Michelle Monaghan",
+                        "order": 6,
+                        "role": "Maggie Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                    },
+                    {
+                        "name": "Kevin Dunn",
+                        "order": 7,
+                        "role": "Major Ken Quesada",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                    },
+                    {
+                        "name": "Michael Potts",
+                        "order": 8,
+                        "role": "Detective Maynard Gilbough",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316938.jpg"
+                    },
+                    {
+                        "name": "Tory Kittles",
+                        "order": 9,
+                        "role": "Detective Thomas Papania",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                    },
+                    {
+                        "name": "Kelly Reilly",
+                        "order": 10,
+                        "role": "Jordan Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                    },
+                    {
+                        "name": "Alexandra Daddario",
+                        "order": 11,
+                        "role": "Lisa Tragnetti",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316935.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-29 13:30:26",
+                "director": [
+                    "Cary Fukunaga"
+                ],
+                "episode": 6,
+                "episodeid": 1821,
+                "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E06.GERMAN.DUBBED.WS.HDTVRip.x264-TVP.mp4",
+                "firstaired": "2014-02-23",
+                "label": "1x06. Haunted Houses",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In 2002, Cohle and Hart begin to fall back to familiar and violent obsessions. Hart exacts savage vengeance on a pair of teenage boys, and Cohle becomes convinced they left something undone in 1995. Working on his own, Cohle traces a sinister connection between missing children along the coast and evangelist Billy Lee Tuttle's Wellsprings Program. Hart is reintroduced to a former prostitute he met during the Lange investigation. In 2012, Papania and Gilbough question Maggie, now divorced from Marty, about Cohle and Hart during 2002, the year their relationship fractured and Cohle quit the force following a suspension.",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "True Detective",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/270633/4592333.jpg",
+                "title": "Haunted Houses",
+                "tvshowid": 90,
+                "uniqueid": {
+                    "unknown": "4592333"
+                },
+                "votes": "86",
+                "writer": [
+                    "Nic Pizzolatto"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/270633/4592334.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/270633-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270633-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Tim Bell",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dave Randolph-Mayhem Davis",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "J.D. Evermore",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Glenn Fleshler",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Jay Huguley",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Johnny McPhail",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kelsey Scott",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Carol Sutton",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Madison Wolfe",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Vaughn",
+                        "order": 0,
+                        "role": "Frank Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347379.jpg"
+                    },
+                    {
+                        "name": "Colin Farrell",
+                        "order": 1,
+                        "role": "Ray Velcoro",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                    },
+                    {
+                        "name": "Rachel McAdams",
+                        "order": 2,
+                        "role": "Ani Bezzerides",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347375.jpg"
+                    },
+                    {
+                        "name": "Taylor Kitsch",
+                        "order": 3,
+                        "role": "Paul Woodrugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                    },
+                    {
+                        "name": "Woody Harrelson",
+                        "order": 4,
+                        "role": "Detective Marty Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                    },
+                    {
+                        "name": "Matthew McConaughey",
+                        "order": 5,
+                        "role": "Detective Rust Cohle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316932.jpg"
+                    },
+                    {
+                        "name": "Michelle Monaghan",
+                        "order": 6,
+                        "role": "Maggie Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                    },
+                    {
+                        "name": "Kevin Dunn",
+                        "order": 7,
+                        "role": "Major Ken Quesada",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                    },
+                    {
+                        "name": "Michael Potts",
+                        "order": 8,
+                        "role": "Detective Maynard Gilbough",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316938.jpg"
+                    },
+                    {
+                        "name": "Tory Kittles",
+                        "order": 9,
+                        "role": "Detective Thomas Papania",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                    },
+                    {
+                        "name": "Kelly Reilly",
+                        "order": 10,
+                        "role": "Jordan Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                    },
+                    {
+                        "name": "Alexandra Daddario",
+                        "order": 11,
+                        "role": "Lisa Tragnetti",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316935.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-29 13:31:40",
+                "director": [
+                    "Cary Fukunaga"
+                ],
+                "episode": 7,
+                "episodeid": 1822,
+                "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E07.Nachdem.du.weg.warst.GERMAN.DUBBED.WS.BDRip.x264-TVP.mp4",
+                "firstaired": "2014-03-02",
+                "label": "1x07. After You've Gone",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Hart and Cohle call a truce to investigate a series of disappearances that may be related to the Dora Lange murder and the Tuttle family.",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "True Detective",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/270633/4592334.jpg",
+                "title": "After You've Gone",
+                "tvshowid": 90,
+                "uniqueid": {
+                    "unknown": "4592334"
+                },
+                "votes": "89",
+                "writer": [
+                    "Nic Pizzolatto"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/270633/4592335.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/270633-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270633-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ann Dowd",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Glenn Fleshler",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Veronica Hunsinger-Loe",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kurt Krause",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Johnny McPhail",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Terry Moore",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Erin Moriarty",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Stifel",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Madison Wolfe",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Wulff",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vince Vaughn",
+                        "order": 0,
+                        "role": "Frank Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347379.jpg"
+                    },
+                    {
+                        "name": "Colin Farrell",
+                        "order": 1,
+                        "role": "Ray Velcoro",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                    },
+                    {
+                        "name": "Rachel McAdams",
+                        "order": 2,
+                        "role": "Ani Bezzerides",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347375.jpg"
+                    },
+                    {
+                        "name": "Taylor Kitsch",
+                        "order": 3,
+                        "role": "Paul Woodrugh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                    },
+                    {
+                        "name": "Woody Harrelson",
+                        "order": 4,
+                        "role": "Detective Marty Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                    },
+                    {
+                        "name": "Matthew McConaughey",
+                        "order": 5,
+                        "role": "Detective Rust Cohle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316932.jpg"
+                    },
+                    {
+                        "name": "Michelle Monaghan",
+                        "order": 6,
+                        "role": "Maggie Hart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                    },
+                    {
+                        "name": "Kevin Dunn",
+                        "order": 7,
+                        "role": "Major Ken Quesada",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                    },
+                    {
+                        "name": "Michael Potts",
+                        "order": 8,
+                        "role": "Detective Maynard Gilbough",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316938.jpg"
+                    },
+                    {
+                        "name": "Tory Kittles",
+                        "order": 9,
+                        "role": "Detective Thomas Papania",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                    },
+                    {
+                        "name": "Kelly Reilly",
+                        "order": 10,
+                        "role": "Jordan Semyon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                    },
+                    {
+                        "name": "Alexandra Daddario",
+                        "order": 11,
+                        "role": "Lisa Tragnetti",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316935.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-29 13:33:02",
+                "director": [
+                    "Cary Fukunaga"
+                ],
+                "episode": 8,
+                "episodeid": 1823,
+                "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E08.Form.und.Leere.GERMAN.WEBRiP.x264.mp4",
+                "firstaired": "2014-03-09",
+                "label": "1x08. Form and Void",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "An overlooked detail provides Hart and Cohle with an important new lead in their 17-year-old case.",
+                "productioncode": "",
+                "rating": 8.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "True Detective",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/270633/4592335.jpg",
+                "title": "Form and Void",
+                "tvshowid": 90,
+                "uniqueid": {
+                    "unknown": "4592335"
+                },
+                "votes": "91",
+                "writer": [
+                    "Nic Pizzolatto"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/270633-1-6.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/270633-g7.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/270633-3.jpg"
+            },
+            "episode": 8,
+            "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 494,
+            "showtitle": "True Detective",
+            "thumbnail": "http://thetvdb.com/banners/seasons/270633-1-6.jpg",
+            "tvshowid": 90,
+            "watchedepisodes": 0
+        }
+    ]
+}

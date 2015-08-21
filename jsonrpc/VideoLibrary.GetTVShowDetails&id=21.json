@@ -1,0 +1,467 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/261802-g4.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
+            "poster": "http://thetvdb.com/banners/posters/261802-10.jpg"
+        },
+        "cast": [
+            {
+                "name": "Ana Ortiz",
+                "order": 0,
+                "role": "Marisol Duarte",
+                "thumbnail": "http://thetvdb.com/banners/actors/302700.jpg"
+            },
+            {
+                "name": "Dania Ramirez",
+                "order": 1,
+                "role": "Rosie Falta",
+                "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+            },
+            {
+                "name": "Roselyn Sanchez",
+                "order": 2,
+                "role": "Carmen Luna",
+                "thumbnail": "http://thetvdb.com/banners/actors/302702.jpg"
+            },
+            {
+                "name": "Edy Ganem",
+                "order": 3,
+                "role": "Valentina Diaz",
+                "thumbnail": "http://thetvdb.com/banners/actors/302704.jpg"
+            },
+            {
+                "name": "Judy Reyes",
+                "order": 4,
+                "role": "Zoila Diaz",
+                "thumbnail": "http://thetvdb.com/banners/actors/302701.jpg"
+            },
+            {
+                "name": "Grant Show",
+                "order": 5,
+                "role": "Spence Westmore",
+                "thumbnail": "http://thetvdb.com/banners/actors/311133.jpg"
+            },
+            {
+                "name": "Melinda Page Hamilton",
+                "order": 6,
+                "role": "Odessa",
+                "thumbnail": "http://thetvdb.com/banners/actors/311132.jpg"
+            },
+            {
+                "name": "Tom Irwin",
+                "order": 7,
+                "role": "Adrian Powell",
+                "thumbnail": "http://thetvdb.com/banners/actors/302713.jpg"
+            },
+            {
+                "name": "Mariana Klaveno",
+                "order": 8,
+                "role": "Peri Westmore",
+                "thumbnail": "http://thetvdb.com/banners/actors/300025.jpg"
+            },
+            {
+                "name": "Brett Cullen",
+                "order": 9,
+                "role": "Michael Stappord",
+                "thumbnail": "http://thetvdb.com/banners/actors/302710.jpg"
+            },
+            {
+                "name": "Drew Van Acker",
+                "order": 10,
+                "role": "Remi Delatour",
+                "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+            },
+            {
+                "name": "Brianna Brown",
+                "order": 11,
+                "role": "Taylor Stappord",
+                "thumbnail": "http://thetvdb.com/banners/actors/302707.jpg"
+            },
+            {
+                "name": "Susan Lucci",
+                "order": 12,
+                "role": "Genevieve Delatour",
+                "thumbnail": "http://thetvdb.com/banners/actors/302706.jpg"
+            },
+            {
+                "name": "Rebecca Wisocky",
+                "order": 13,
+                "role": "Evelyn Powell",
+                "thumbnail": "http://thetvdb.com/banners/actors/302705.jpg"
+            }
+        ],
+        "dateadded": "2014-02-01 12:02:47",
+        "episode": 2,
+        "episodeguide": "<episodeguide><url cache=\"261802-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/261802/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Devious Maids/",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbnumber": "261802",
+        "label": "Devious Maids",
+        "lastplayed": "",
+        "mpaa": "TV-PG",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "The series centers on four Latina maids working in the homes of Beverly Hills’ wealthiest and most powerful families, and a newcomer who made it personal after a maid was murdered and determined to uncover the truth behind her demise, and in the process become an ally in their lives.",
+        "premiered": "2013-06-23",
+        "rating": 7.599999904632568,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Lifetime"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/261802-10.jpg",
+        "title": "Devious Maids",
+        "tvshowid": 21,
+        "votes": "16",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/261802/4448862.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/261802-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/261802-10.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Valerie Mahaffey",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt Cedeño",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Melinda Page Hamilton",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311132.jpg"
+                    },
+                    {
+                        "name": "Paula Garces",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Eddie Hassell",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ana Ortiz",
+                        "order": 0,
+                        "role": "Marisol Duarte",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302700.jpg"
+                    },
+                    {
+                        "name": "Dania Ramirez",
+                        "order": 1,
+                        "role": "Rosie Falta",
+                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                    },
+                    {
+                        "name": "Roselyn Sanchez",
+                        "order": 2,
+                        "role": "Carmen Luna",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302702.jpg"
+                    },
+                    {
+                        "name": "Edy Ganem",
+                        "order": 3,
+                        "role": "Valentina Diaz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302704.jpg"
+                    },
+                    {
+                        "name": "Judy Reyes",
+                        "order": 4,
+                        "role": "Zoila Diaz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302701.jpg"
+                    },
+                    {
+                        "name": "Grant Show",
+                        "order": 5,
+                        "role": "Spence Westmore",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311133.jpg"
+                    },
+                    {
+                        "name": "Tom Irwin",
+                        "order": 7,
+                        "role": "Adrian Powell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302713.jpg"
+                    },
+                    {
+                        "name": "Mariana Klaveno",
+                        "order": 8,
+                        "role": "Peri Westmore",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300025.jpg"
+                    },
+                    {
+                        "name": "Brett Cullen",
+                        "order": 9,
+                        "role": "Michael Stappord",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302710.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 10,
+                        "role": "Remi Delatour",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Brianna Brown",
+                        "order": 11,
+                        "role": "Taylor Stappord",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302707.jpg"
+                    },
+                    {
+                        "name": "Susan Lucci",
+                        "order": 12,
+                        "role": "Genevieve Delatour",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302706.jpg"
+                    },
+                    {
+                        "name": "Rebecca Wisocky",
+                        "order": 13,
+                        "role": "Evelyn Powell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302705.jpg"
+                    }
+                ],
+                "dateadded": "2014-02-01 11:52:49",
+                "director": [
+                    "Paul McGuigan"
+                ],
+                "episode": 1,
+                "episodeid": 275,
+                "fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Devious Maids/Season 1/Devious.Maids.S01E01.Dienstmaedchen.auf.Abwegen.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2013-06-23",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The women turn to one another for support when their friend and fellow maid Flora is brutally murdered at the home of her employers, Evelyn and Adrian Powell, at one of the largest society events of the year.  Meanwhile, newcomer Marisol is hired to clean the home of Taylor and Michael Stappord, a newlywed couple with a complicated love history.  But Marisol has ulterior motives and when someone she loves becomes wrapped up in Flora’s murder, she goes undercover to learn the truth.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Devious Maids",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/261802/4448862.jpg",
+                "title": "Pilot",
+                "tvshowid": 21,
+                "uniqueid": {
+                    "unknown": "4448862"
+                },
+                "votes": "17",
+                "writer": [
+                    "Marc Cherry"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/261802/4448863.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/261802-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/261802-10.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Matt Cedeño",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Melinda Page Hamilton",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311132.jpg"
+                    },
+                    {
+                        "name": "Eddie Hassell",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maria Howell",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303086.jpg"
+                    },
+                    {
+                        "name": "Justin Miles",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lI6F1rwXrQ65FgbHlC6btSwHUUq.jpg"
+                    },
+                    {
+                        "name": "Jeff Campanella",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Damon Sementilli",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8QeVaslr2SxILzQ7ybpw9Eipsk8.jpg"
+                    },
+                    {
+                        "name": "Ana Ortiz",
+                        "order": 0,
+                        "role": "Marisol Duarte",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302700.jpg"
+                    },
+                    {
+                        "name": "Dania Ramirez",
+                        "order": 1,
+                        "role": "Rosie Falta",
+                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                    },
+                    {
+                        "name": "Roselyn Sanchez",
+                        "order": 2,
+                        "role": "Carmen Luna",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302702.jpg"
+                    },
+                    {
+                        "name": "Edy Ganem",
+                        "order": 3,
+                        "role": "Valentina Diaz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302704.jpg"
+                    },
+                    {
+                        "name": "Judy Reyes",
+                        "order": 4,
+                        "role": "Zoila Diaz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302701.jpg"
+                    },
+                    {
+                        "name": "Grant Show",
+                        "order": 5,
+                        "role": "Spence Westmore",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311133.jpg"
+                    },
+                    {
+                        "name": "Tom Irwin",
+                        "order": 7,
+                        "role": "Adrian Powell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302713.jpg"
+                    },
+                    {
+                        "name": "Mariana Klaveno",
+                        "order": 8,
+                        "role": "Peri Westmore",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300025.jpg"
+                    },
+                    {
+                        "name": "Brett Cullen",
+                        "order": 9,
+                        "role": "Michael Stappord",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302710.jpg"
+                    },
+                    {
+                        "name": "Drew Van Acker",
+                        "order": 10,
+                        "role": "Remi Delatour",
+                        "thumbnail": "http://thetvdb.com/banners/actors/288696.jpg"
+                    },
+                    {
+                        "name": "Brianna Brown",
+                        "order": 11,
+                        "role": "Taylor Stappord",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302707.jpg"
+                    },
+                    {
+                        "name": "Susan Lucci",
+                        "order": 12,
+                        "role": "Genevieve Delatour",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302706.jpg"
+                    },
+                    {
+                        "name": "Rebecca Wisocky",
+                        "order": 13,
+                        "role": "Evelyn Powell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302705.jpg"
+                    }
+                ],
+                "dateadded": "2014-02-01 12:02:47",
+                "director": [
+                    "Rob Bailey"
+                ],
+                "episode": 2,
+                "episodeid": 276,
+                "fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Devious Maids/Season 1/Devious.Maids.S01E02.Setting.The.Table.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2013-06-30",
+                "label": "1x02. Setting the Table",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Valentina's plans to get closer to Remi continue to irritate Zoila. Rosie gets caught in the middle when Spence accuses Peri of cheating. Carmen takes advantage of Alejando and Odessa being out of the house, much to Sam's dismay. Marisol tries to figure out a way to spend more time at the Powell house.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Devious Maids",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/261802/4448863.jpg",
+                "title": "Setting the Table",
+                "tvshowid": 21,
+                "uniqueid": {
+                    "unknown": "4448863"
+                },
+                "votes": "16",
+                "writer": [
+                    "Marc Cherry"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/261802-1-2.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/261802-1-4.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/261802-g4.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/261802-10.jpg"
+            },
+            "episode": 2,
+            "fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 103,
+            "showtitle": "Devious Maids",
+            "thumbnail": "http://thetvdb.com/banners/seasons/261802-1-4.jpg",
+            "tvshowid": 21,
+            "watchedepisodes": 0
+        }
+    ]
+}

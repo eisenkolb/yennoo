@@ -1,0 +1,164 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/262095-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/262095-9.jpg",
+            "poster": "http://thetvdb.com/banners/posters/262095-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Miyuki Sawashiro",
+                "order": 0,
+                "role": "Kōsuke Kira",
+                "thumbnail": "http://thetvdb.com/banners/actors/303462.jpg"
+            },
+            {
+                "name": "Suzuko Mimori",
+                "order": 1,
+                "role": "Himiko",
+                "thumbnail": "http://thetvdb.com/banners/actors/303460.jpg"
+            },
+            {
+                "name": "Kanata Hongou",
+                "order": 2,
+                "role": "Ryūta Sakamoto"
+            },
+            {
+                "name": "Toru Ohkawa",
+                "order": 5,
+                "role": "Taira"
+            },
+            {
+                "name": "Yuichi Nakamura",
+                "order": 6,
+                "role": "Oda"
+            }
+        ],
+        "dateadded": "2014-04-13 20:24:39",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"262095-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/262095/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/262095-9.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Btooom!/",
+        "genre": [
+            "Action",
+            "Animation",
+            "Drama"
+        ],
+        "imdbnumber": "262095",
+        "label": "Btooom!",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Sakamoto Ryouta is an unemployed 22-year-old who lives with his mother. In the real world, there may be nothing really special about him, but online, he's one of the world's top players of the combat game Btooom!.\r\nOne day, he awakes on what appears to be a tropical island, though he has no memory of how or why he has come to be there. While wandering around, Ryouta sees someone and calls out for help. The stranger responds by throwing a bomb at him! Now Ryouta realizes both that his life is in danger and that he has somehow been trapped in a real-life version of his favourite game! Will Ryouta be able to survive long enough to figure out how and why he ended up here?",
+        "premiered": "2012-10-04",
+        "rating": 7.800000190734863,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Tokyo MX"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/262095-3.jpg",
+        "title": "Btooom!",
+        "tvshowid": 15,
+        "votes": "29",
+        "watchedepisodes": 0,
+        "year": 2012
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262095/4390799.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262095-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262095-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262095-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Miyuki Sawashiro",
+                        "order": 0,
+                        "role": "Kōsuke Kira",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303462.jpg"
+                    },
+                    {
+                        "name": "Suzuko Mimori",
+                        "order": 1,
+                        "role": "Himiko",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303460.jpg"
+                    },
+                    {
+                        "name": "Kanata Hongou",
+                        "order": 2,
+                        "role": "Ryūta Sakamoto"
+                    },
+                    {
+                        "name": "Toru Ohkawa",
+                        "order": 5,
+                        "role": "Taira"
+                    },
+                    {
+                        "name": "Yuichi Nakamura",
+                        "order": 6,
+                        "role": "Oda"
+                    }
+                ],
+                "dateadded": "2014-04-13 20:24:39",
+                "director": [],
+                "episode": 1,
+                "episodeid": 264,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262095-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Btooom!/Season 1/BTOOOM.S01E01.Kein.Schmerz,kein.Spiel.German.Dubbed.x264-NA.flv",
+                "firstaired": "2012-10-04",
+                "label": "1x01. Start",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ryōta Sakamoto is ranked #10 worldwide i Btooom!, an online game where players kill each other with bombs. After a game one day, he mysteriously awakes in a real life version of the game.",
+                "productioncode": "",
+                "rating": 9.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Btooom!",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262095/4390799.jpg",
+                "title": "Start",
+                "tvshowid": 15,
+                "uniqueid": {
+                    "unknown": "4390799"
+                },
+                "votes": "3",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/262095-1-4.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/262095-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262095-9.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/262095-3.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/262095-9.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 79,
+            "showtitle": "Btooom!",
+            "thumbnail": "http://thetvdb.com/banners/seasons/262095-1-4.jpg",
+            "tvshowid": 15,
+            "watchedepisodes": 0
+        }
+    ]
+}

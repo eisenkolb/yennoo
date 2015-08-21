@@ -1,0 +1,3716 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+            "poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+        },
+        "cast": [
+            {
+                "name": "Timothy Olyphant",
+                "order": 0,
+                "role": "Deputy U.S. Marshal Raylan Givens",
+                "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+            },
+            {
+                "name": "Walton Goggins",
+                "order": 1,
+                "role": "Boyd Crowder",
+                "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+            },
+            {
+                "name": "Joelle Carter",
+                "order": 2,
+                "role": "Ava Crowder",
+                "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+            },
+            {
+                "name": "Jacob Pitts",
+                "order": 3,
+                "role": "Tim Gutterson",
+                "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+            },
+            {
+                "name": "Natalie Zea",
+                "order": 4,
+                "role": "Winona Hawkins",
+                "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+            },
+            {
+                "name": "Erica N. Tazel",
+                "order": 5,
+                "role": "Rachel DuPree",
+                "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+            },
+            {
+                "name": "Nick Searcy",
+                "order": 6,
+                "role": "Chief Deputy Art Mullen",
+                "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+            },
+            {
+                "name": "Jeremy Davies",
+                "order": 7,
+                "role": "Dickie Bennett",
+                "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+            },
+            {
+                "name": "Abby Miller",
+                "order": 8,
+                "role": "Ellen May",
+                "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+            },
+            {
+                "name": "Alicia Witt",
+                "order": 9,
+                "role": "Wendy Crowe",
+                "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+            },
+            {
+                "name": "Kaitlyn Dever",
+                "order": 10,
+                "role": "Loretta McCready",
+                "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+            },
+            {
+                "name": "Patton Oswalt",
+                "order": 11,
+                "role": "Constable Bob Sweeney",
+                "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+            },
+            {
+                "name": "Sam Elliott",
+                "order": 12,
+                "role": "Avery Markham",
+                "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+            },
+            {
+                "name": "Mykelti Williamson",
+                "order": 13,
+                "role": "Ellstin Limehouse",
+                "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+            },
+            {
+                "name": "Jere Burns",
+                "order": 14,
+                "role": "Wynn Duffy",
+                "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+            },
+            {
+                "name": "Michael Rapaport",
+                "order": 15,
+                "role": "Darryl Crowe Jr",
+                "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+            },
+            {
+                "name": "Damon Herriman",
+                "order": 16,
+                "role": "Dewey Crowe",
+                "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+            },
+            {
+                "name": "David Meunier",
+                "order": 17,
+                "role": "Johnny Crowder",
+                "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+            },
+            {
+                "name": "Jim Beaver",
+                "order": 18,
+                "role": "Sheriff Shelby Parlow",
+                "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+            },
+            {
+                "name": "Neal McDonough",
+                "order": 19,
+                "role": "Robert Quarles",
+                "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+            },
+            {
+                "name": "Margo Martindale",
+                "order": 20,
+                "role": "Mags Bennett",
+                "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+            },
+            {
+                "name": "Raymond J. Barry",
+                "order": 21,
+                "role": "Arlo Givens",
+                "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+            }
+        ],
+        "dateadded": "2014-04-18 16:32:09",
+        "episode": 16,
+        "episodeguide": "<episodeguide><url cache=\"134241-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/134241/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "imdbnumber": "134241",
+        "label": "Justified",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "A character drama based on the 2001 Elmore Leonard short story \"Fire in the Hole.\" Leonard's tale centers around U.S. Marshal Raylan Givens of Kentucky, a quiet but strong-willed official of the law. The tale covers his high-stakes job, as well as his strained relationships with his ex-wife and father.",
+        "premiered": "2010-03-16",
+        "rating": 8.600000381469727,
+        "season": 2,
+        "sorttitle": "",
+        "studio": [
+            "FX"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/134241-14.jpg",
+        "title": "Justified",
+        "tvshowid": 50,
+        "votes": "140",
+        "watchedepisodes": 0,
+        "year": 2010
+    },
+    "episodes": {
+        "2": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/3022021.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Margo Martindale",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Alexandra Barreto",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jordi Caballero",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/6LJPfa9Pt4zhrGl1phkCb3F6mU2.jpg"
+                    },
+                    {
+                        "name": "Matt Craven",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Brad William Henke",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Chris Mulkey",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Lyle Taylor",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Billy Miller",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Peter Murnik",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 14,
+                        "role": "Wynn Duffy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 17,
+                        "role": "Johnny Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 21,
+                        "role": "Arlo Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    }
+                ],
+                "dateadded": "2013-04-28 03:36:46",
+                "director": [
+                    "Adam Arkin"
+                ],
+                "episode": 1,
+                "episodeid": 814,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E01.Schwarzbrenner.German.Dubbed.WS.BDRip.XviD-GDR.mp4",
+                "firstaired": "2011-02-09",
+                "label": "2x01. The Moonshine War",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Raylan tangles with a ruthless Harlan County crime family while hunting for a fugitive sex offender.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/3022021.jpg",
+                "title": "The Moonshine War",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "3022021"
+                },
+                "votes": "87",
+                "writer": [
+                    "Garaham Yost"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/3022031.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Linda Gehringer",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Margo Martindale",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Brad William Henke",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "James Jordan",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kai Lennox",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Chris Mulkey",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "William Ragsdale",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Christie Lynn Smith",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Sullivan",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Lyle Taylor",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 13,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 14,
+                        "role": "Wynn Duffy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 17,
+                        "role": "Johnny Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    }
+                ],
+                "dateadded": "2013-04-28 03:31:38",
+                "director": [
+                    "Jon Avnet"
+                ],
+                "episode": 2,
+                "episodeid": 815,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E02.Innenleben.GERMAN.DUBBED.BLURAYRiP.XviD-SOF.mp4",
+                "firstaired": "2011-02-16",
+                "label": "2x02. The Life Inside",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Raylan chases a pregnant fugitive who has fallen into the hands of human traffickers.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/3022031.jpg",
+                "title": "The Life Inside",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "3022031"
+                },
+                "votes": "73",
+                "writer": [
+                    "Benjamin Cavell"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/3265201.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Will Harris",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brad William Henke",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "Michael Mosley",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Peter Murnik",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Channon Roe",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Lyle Taylor",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 10,
+                        "role": "Loretta McCready",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 14,
+                        "role": "Wynn Duffy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 17,
+                        "role": "Johnny Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Margo Martindale",
+                        "order": 20,
+                        "role": "Mags Bennett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 21,
+                        "role": "Arlo Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    }
+                ],
+                "dateadded": "2013-04-28 21:54:30",
+                "director": [
+                    "Peter Werner"
+                ],
+                "episode": 3,
+                "episodeid": 816,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E03.Auge.des.Sturms.GERMAN.DUBBED.BLURAYRiP.XviD-SOF.mp4",
+                "firstaired": "2011-02-23",
+                "label": "2x03. The I of the Storm",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The hijacking of a bus full of drugs ends in murder, and Raylan pursues the likely culprit: Boyd Crowder.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/3265201.jpg",
+                "title": "The I of the Storm",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "3265201"
+                },
+                "votes": "80",
+                "writer": [
+                    "Dave Andron"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/3265211.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Margo Martindale",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Chadwick Boseman",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Jakobe' Dempsey",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Steven Flynn",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brad William Henke",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Juanita Jennings",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joel McCrary",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Mosley",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "William Ragsdale",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Lyle Taylor",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Larenz Tate",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 14,
+                        "role": "Wynn Duffy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 17,
+                        "role": "Johnny Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 21,
+                        "role": "Arlo Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    }
+                ],
+                "dateadded": "2013-04-28 22:41:46",
+                "director": [
+                    "John Dahl"
+                ],
+                "episode": 4,
+                "episodeid": 817,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E04.Offener.Vollzug.GERMAN.DUBBED.BLURAYRiP.XviD-SOF.mp4",
+                "firstaired": "2011-03-02",
+                "label": "2x04. For Blood or Money",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Rachel's brother-in-law makes a violent escape from a halfway house, Raylan is forced to hunt him down. Boyd entertains a dangerous offer in Harlan.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/3265211.jpg",
+                "title": "For Blood or Money",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "3265211"
+                },
+                "votes": "78",
+                "writer": [
+                    "Wendy Calhoun"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/3265221.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Margo Martindale",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Linda Gehringer",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brad William Henke",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "Michael Mosley",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Peter Murnik",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Lyle Taylor",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Shamus Wiles",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alex Solowitz",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nathan Sutton",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 13,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 14,
+                        "role": "Wynn Duffy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 17,
+                        "role": "Johnny Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    }
+                ],
+                "dateadded": "2013-05-01 00:26:35",
+                "director": [
+                    "Michael W. Watkins"
+                ],
+                "episode": 5,
+                "episodeid": 818,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E05.Sprengstoff.GERMAN.DUBBED.BLURAYRiP.XviD-SOF.mp4",
+                "firstaired": "2011-03-09",
+                "label": "2x05. Cottonmouth",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Raylan's hunt for a killer puts him on a collision course with the Bennett clan, while Boyd plots a heist with treacherous new partners.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/3265221.jpg",
+                "title": "Cottonmouth",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "3265221"
+                },
+                "votes": "82",
+                "writer": [
+                    "Taylor Elmore"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/3265231.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "William Ragsdale",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ronnie Gene Blevins",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Chris Coy",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Conor O'Farrell",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Connie Ray",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Scott Wilson",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305873.jpg"
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 7,
+                        "role": "Dickie Bennett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 10,
+                        "role": "Loretta McCready",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 14,
+                        "role": "Wynn Duffy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 17,
+                        "role": "Johnny Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Margo Martindale",
+                        "order": 20,
+                        "role": "Mags Bennett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 21,
+                        "role": "Arlo Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    }
+                ],
+                "dateadded": "2013-05-01 00:26:23",
+                "director": [
+                    "Jon Avnet"
+                ],
+                "episode": 6,
+                "episodeid": 819,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E06.German.WS.DVDRiP.XViD-ETM.mp4",
+                "firstaired": "2011-03-16",
+                "label": "2x06. Blaze of Glory",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a terminally ill ex-con is linked to a bank heist, Art and Raylan must find him before he and his young henchmen can strike again. However, the manhunt is complicated when Winona worries that a hundred-dollar bill she took from an evidence room locker will be traced back to her after it is taken in the robbery.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/3265231.jpg",
+                "title": "Blaze of Glory",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "3265231"
+                },
+                "votes": "78",
+                "writer": [
+                    "Benjamin Cavell"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/3627501.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Stephen Root",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sceCvLiv8xe2jQzrVn39wvosVHG.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "William Ragsdale",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tara Buck",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Karen Landry",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rebecca Creskoff",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337486.jpg"
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 7,
+                        "role": "Dickie Bennett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 10,
+                        "role": "Loretta McCready",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 17,
+                        "role": "Johnny Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Margo Martindale",
+                        "order": 20,
+                        "role": "Mags Bennett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 21,
+                        "role": "Arlo Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    }
+                ],
+                "dateadded": "2013-05-04 01:20:43",
+                "director": [
+                    "Jon Avnet"
+                ],
+                "episode": 7,
+                "episodeid": 820,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E07.German.WS.DVDRiP.XViD-ETM.mp4",
+                "firstaired": "2011-03-23",
+                "label": "2x07. Save My Love",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Winona's blunder could put her behind bars, unless Raylan can weave his way through a federal courthouse locked down over death threats.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/3627501.jpg",
+                "title": "Save My Love",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "3627501"
+                },
+                "votes": "74",
+                "writer": [
+                    "Graham Yost"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/3954591.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Rebecca Creskoff",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337486.jpg"
+                    },
+                    {
+                        "name": "Margo Martindale",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Tara Buck",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Linda Gehringer",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brad William Henke",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Peter Murnik",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Lyle Taylor",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 14,
+                        "role": "Wynn Duffy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 17,
+                        "role": "Johnny Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    }
+                ],
+                "dateadded": "2013-05-04 02:23:25",
+                "director": [
+                    "Michael Watkins"
+                ],
+                "episode": 8,
+                "episodeid": 821,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E08.Abraum.German.Dubbed.WS.BDRip.XviD-GDR.avi",
+                "firstaired": "2011-03-30",
+                "label": "2x08. The Spoil",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Raylan must protect a cunning coal executive who is out of her element when negotiating with the powerful Bennett clan.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/3954591.jpg",
+                "title": "The Spoil",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "3954591"
+                },
+                "votes": "81",
+                "writer": [
+                    "Dave Andron"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/3954601.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Margo Martindale",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Brad William Henke",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Lyle Taylor",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Colson",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Peter Murnik",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rebecca Creskoff",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337486.jpg"
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 14,
+                        "role": "Wynn Duffy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 17,
+                        "role": "Johnny Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 21,
+                        "role": "Arlo Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    }
+                ],
+                "dateadded": "2013-05-04 03:03:52",
+                "director": [
+                    "Tony Goldwyn"
+                ],
+                "episode": 9,
+                "episodeid": 822,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E09.Huete.deinen.Bruder.GERMAN.DUBBED.BLURAYRiP.XviD-SOF.mp4",
+                "firstaired": "2011-04-06",
+                "label": "2x09. Brother's Keeper",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Just as the bad blood between the Bennetts and the coal company threatens to boil over, Raylan must thwart one of Mags' sons.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/3954601.jpg",
+                "title": "Brother's Keeper",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "3954601"
+                },
+                "votes": "75",
+                "writer": [
+                    "Taylor Elmore"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/3954611.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Margo Martindale",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Mark Colson",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Linda Gehringer",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "William Ragsdale",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kevin Rankin",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Richard Speight Jr.",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Lyle Taylor",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 14,
+                        "role": "Wynn Duffy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 21,
+                        "role": "Arlo Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    }
+                ],
+                "dateadded": "2013-05-05 21:14:32",
+                "director": [
+                    "John David Coles"
+                ],
+                "episode": 10,
+                "episodeid": 823,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E10.Blutsverwandtschaft.GERMAN.DUBBED.BLURAYRiP.XviD-SOF.mp4",
+                "firstaired": "2011-04-13",
+                "label": "2x10. Debts and Accounts",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Raylan and Winona's idyll is shattered by violence, as Boyd and the Bennetts struggle to rise from the ashes of chaos in Harlan.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/3954611.jpg",
+                "title": "Debts and Accounts",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "3954611"
+                },
+                "votes": "81",
+                "writer": [
+                    "Chris Provenzano"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/3954621.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Margo Martindale",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Matt Craven",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Linda Gehringer",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mickey Jones",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "William Ragsdale",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kevin Rankin",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Richard Speight Jr.",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Lyle Taylor",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 11,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 10,
+                        "role": "Loretta McCready",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    }
+                ],
+                "dateadded": "2013-05-05 22:28:11",
+                "director": [
+                    "Peter Werner"
+                ],
+                "episode": 11,
+                "episodeid": 824,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E11.German.WS.DVDRiP.XViD-ETM.mp4",
+                "firstaired": "2011-04-20",
+                "label": "2x11. Full Commitment",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Raylan realizes he wasn't the sole target of an attempted assassination, and confronts the unlikely culprit once and for all.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/3954621.jpg",
+                "title": "Full Commitment",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "3954621"
+                },
+                "votes": "76",
+                "writer": [
+                    "Benjamin Cavell"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/4062201.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Margo Martindale",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Peter Murnik",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kevin Rankin",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Richard Speight Jr.",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Lyle Taylor",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 14,
+                        "role": "Wynn Duffy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    }
+                ],
+                "dateadded": "2013-05-06 21:03:41",
+                "director": [
+                    "Adam Arkin"
+                ],
+                "episode": 12,
+                "episodeid": 825,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E12.Tag.der.Abrechnung.GERMAN.DUBBED.BLURAYRiP.XviD-SOF.mp4",
+                "firstaired": "2011-04-27",
+                "label": "2x12. Reckoning",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A deadly home invasion hits Raylan personally, placing him in a race with Boyd and Arlo to find the killer. Mags is forced to make decisions about her involvement in the Bennett family's criminal activities and the fate of Dickie, who has a deadly plan to absolve himself of responsibility.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/4062201.jpg",
+                "title": "Reckoning",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "4062201"
+                },
+                "votes": "73",
+                "writer": [
+                    "Dave Andron"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/4062211.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Margo Martindale",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "James Le Gros",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Peter Murnik",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kevin Rankin",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Lyle Taylor",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 8,
+                        "role": "Ellen May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 14,
+                        "role": "Wynn Duffy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    }
+                ],
+                "dateadded": "2013-05-06 21:05:57",
+                "director": [
+                    "Michael Dinner"
+                ],
+                "episode": 13,
+                "episodeid": 826,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 2/Justified.S02E13.Bloddy.Harlan.GERMAN.DUBBED.BLURAYRiP.XviD-SOF.mp4",
+                "firstaired": "2011-05-04",
+                "label": "2x13. Bloody Harlan",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The Crowder and the Bennett clans go to war over control of Harlan, a move that leaves dead and dying on both sides.",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/4062211.jpg",
+                "title": "Bloody Harlan",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "4062211"
+                },
+                "votes": "82",
+                "writer": [
+                    "Fred Golan"
+                ]
+            }
+        ],
+        "4": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/4395958.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Ron Eldard",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Mazzello",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Chris Chalk",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brian Howe",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jenn Lyon",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Lindsay Pulsipher",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300024.jpg"
+                    },
+                    {
+                        "name": "Alexandra Kyle",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Casey Thomas Brown",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Ury",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 12,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    },
+                    {
+                        "name": "Aja Evans",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Howard S. Miller",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 7,
+                        "role": "Dickie Bennett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 10,
+                        "role": "Loretta McCready",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Jere Burns",
+                        "order": 14,
+                        "role": "Wynn Duffy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Margo Martindale",
+                        "order": 20,
+                        "role": "Mags Bennett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-18 16:32:09",
+                "director": [
+                    "Michael Dinner"
+                ],
+                "episode": 1,
+                "episodeid": 827,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 4/Justified.S04E01.Hole.in.the.Wall.German.DL.Dubbed.BDRiP.x264-CNHD.mp4",
+                "firstaired": "2013-01-08",
+                "label": "4x01. Hole in the Wall",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Raylan turns to affable but inexperienced Constable Bob for help securing a bail jumper from Tennessee, and finds evidence his family is at the center of a legendary unsolved mystery.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 4,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/4395958.jpg",
+                "title": "Hole in the Wall",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "4395958"
+                },
+                "votes": "41",
+                "writer": [
+                    "Graham Yost"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/4409835.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jere Burns",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Ron Eldard",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Mazzello",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Baker",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Joshua Close",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dave Florek",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Beth Grant",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jenn Lyon",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 10,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Lindsay Pulsipher",
+                        "order": 11,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300024.jpg"
+                    },
+                    {
+                        "name": "Don Harvey",
+                        "order": 12,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8MOYT034RV1XULZ4RI5AHnStVJF.jpg"
+                    },
+                    {
+                        "name": "Ethan Jamieson",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ted Welch",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jessa French",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jonathan Kowalsky",
+                        "order": 16,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jesse Luken",
+                        "order": 17,
+                        "role": ""
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 7,
+                        "role": "Dickie Bennett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 10,
+                        "role": "Loretta McCready",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Margo Martindale",
+                        "order": 20,
+                        "role": "Mags Bennett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 21,
+                        "role": "Arlo Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-18 16:28:15",
+                "director": [
+                    "Bill Johnson"
+                ],
+                "episode": 2,
+                "episodeid": 828,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 4/Justified.S04E02.Wheres.Waldo.German.DL.Dubbed.BDRiP.x264-CNHD.mp4",
+                "firstaired": "2013-01-15",
+                "label": "4x02. Where's Waldo?",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As Raylan tangles with a dangerous family keeping a dark secret, Boyd takes on a snake-handling preacher.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 4,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/4409835.jpg",
+                "title": "Where's Waldo?",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "4409835"
+                },
+                "votes": "42",
+                "writer": [
+                    "Dave Andron"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/134241/4467900.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jere Burns",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323305.jpg"
+                    },
+                    {
+                        "name": "Ron Eldard",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Mazzello",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robert Baker",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Julia Campbell",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Graziadei",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jenn Lyon",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jesse Luken",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Abby Miller",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345473.jpg"
+                    },
+                    {
+                        "name": "Lindsay Pulsipher",
+                        "order": 10,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300024.jpg"
+                    },
+                    {
+                        "name": "Josh Stamberg",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Scot Zeller",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Caileigh Scott",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Timothy Olyphant",
+                        "order": 0,
+                        "role": "Deputy U.S. Marshal Raylan Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145181.jpg"
+                    },
+                    {
+                        "name": "Walton Goggins",
+                        "order": 1,
+                        "role": "Boyd Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177151.jpg"
+                    },
+                    {
+                        "name": "Joelle Carter",
+                        "order": 2,
+                        "role": "Ava Crowder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153171.jpg"
+                    },
+                    {
+                        "name": "Jacob Pitts",
+                        "order": 3,
+                        "role": "Tim Gutterson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177171.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 4,
+                        "role": "Winona Hawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Erica N. Tazel",
+                        "order": 5,
+                        "role": "Rachel DuPree",
+                        "thumbnail": "http://thetvdb.com/banners/actors/153181.jpg"
+                    },
+                    {
+                        "name": "Nick Searcy",
+                        "order": 6,
+                        "role": "Chief Deputy Art Mullen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/145191.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 7,
+                        "role": "Dickie Bennett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Alicia Witt",
+                        "order": 9,
+                        "role": "Wendy Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345472.jpg"
+                    },
+                    {
+                        "name": "Kaitlyn Dever",
+                        "order": 10,
+                        "role": "Loretta McCready",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345471.jpg"
+                    },
+                    {
+                        "name": "Patton Oswalt",
+                        "order": 11,
+                        "role": "Constable Bob Sweeney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345470.jpg"
+                    },
+                    {
+                        "name": "Sam Elliott",
+                        "order": 12,
+                        "role": "Avery Markham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345469.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 13,
+                        "role": "Ellstin Limehouse",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Michael Rapaport",
+                        "order": 15,
+                        "role": "Darryl Crowe Jr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323304.jpg"
+                    },
+                    {
+                        "name": "Damon Herriman",
+                        "order": 16,
+                        "role": "Dewey Crowe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323303.jpg"
+                    },
+                    {
+                        "name": "Jim Beaver",
+                        "order": 18,
+                        "role": "Sheriff Shelby Parlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321393.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 19,
+                        "role": "Robert Quarles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Margo Martindale",
+                        "order": 20,
+                        "role": "Mags Bennett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290089.jpg"
+                    },
+                    {
+                        "name": "Raymond J. Barry",
+                        "order": 21,
+                        "role": "Arlo Givens",
+                        "thumbnail": "http://thetvdb.com/banners/actors/177221.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-18 16:25:35",
+                "director": [
+                    "Jon Avnet"
+                ],
+                "episode": 3,
+                "episodeid": 829,
+                "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Justified/Season 4/Justified.S04E03.Truth.and.Consequences.German.DL.Dubbed.BDRiP.x264-CNHD.mp4",
+                "firstaired": "2013-01-22",
+                "label": "4x03. Truth and Consequences",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Drew Thompson's widow turns up and gets Raylan in hot water with the FBI, while Boyd's strike at the snake church is met with a surprising strike back.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 4,
+                "showtitle": "Justified",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/134241/4467900.jpg",
+                "title": "Truth and Consequences",
+                "tvshowid": 50,
+                "uniqueid": {
+                    "unknown": "4467900"
+                },
+                "votes": "42",
+                "writer": [
+                    "Benjamin Cavell"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/134241-2.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/134241-2-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+            },
+            "episode": 13,
+            "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+            "label": "Staffel 2",
+            "playcount": 0,
+            "season": 2,
+            "seasonid": 257,
+            "showtitle": "Justified",
+            "thumbnail": "http://thetvdb.com/banners/seasons/134241-2-2.jpg",
+            "tvshowid": 50,
+            "watchedepisodes": 0
+        },
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/134241-4.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/134241-4-6.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/134241-g20.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/134241-14.jpg"
+            },
+            "episode": 3,
+            "fanart": "http://thetvdb.com/banners/fanart/original/134241-58.jpg",
+            "label": "Staffel 4",
+            "playcount": 0,
+            "season": 4,
+            "seasonid": 259,
+            "showtitle": "Justified",
+            "thumbnail": "http://thetvdb.com/banners/seasons/134241-4-6.jpg",
+            "tvshowid": 50,
+            "watchedepisodes": 0
+        }
+    ]
+}

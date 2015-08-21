@@ -1,0 +1,1013 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/258171-g9.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/258171-11.jpg",
+            "poster": "http://thetvdb.com/banners/posters/258171-5.jpg"
+        },
+        "cast": [
+            {
+                "name": "Rachel Nichols",
+                "order": 0,
+                "role": "Kiera Cameron",
+                "thumbnail": "http://thetvdb.com/banners/actors/297610.jpg"
+            },
+            {
+                "name": "Erik Knudsen",
+                "order": 1,
+                "role": "Alec Sadler",
+                "thumbnail": "http://thetvdb.com/banners/actors/297611.jpg"
+            },
+            {
+                "name": "Victor Webster",
+                "order": 2,
+                "role": "Carlos Fonnegra",
+                "thumbnail": "http://thetvdb.com/banners/actors/297612.jpg"
+            },
+            {
+                "name": "Hugh Dillon",
+                "order": 3,
+                "role": "Stan Escher",
+                "thumbnail": "http://thetvdb.com/banners/actors/326456.jpg"
+            },
+            {
+                "name": "Magda Apanowicz",
+                "order": 4,
+                "role": "Emily",
+                "thumbnail": "http://thetvdb.com/banners/actors/325739.jpg"
+            },
+            {
+                "name": "Nicholas Lea",
+                "order": 5,
+                "role": "Agent Gardiner",
+                "thumbnail": "http://thetvdb.com/banners/actors/324936.jpg"
+            },
+            {
+                "name": "William B. Davis",
+                "order": 6,
+                "role": "Older Alec Sadler",
+                "thumbnail": "http://thetvdb.com/banners/actors/324935.jpg"
+            },
+            {
+                "name": "Tahmoh Penikett",
+                "order": 7,
+                "role": "Jim Martin",
+                "thumbnail": "http://thetvdb.com/banners/actors/324931.jpg"
+            },
+            {
+                "name": "John Cassini",
+                "order": 8,
+                "role": "Marco",
+                "thumbnail": "http://thetvdb.com/banners/actors/324927.jpg"
+            },
+            {
+                "name": "Luvia Petersen",
+                "order": 9,
+                "role": "Jasmine Garza",
+                "thumbnail": "http://thetvdb.com/banners/actors/301339.jpg"
+            },
+            {
+                "name": "Omari Newton",
+                "order": 10,
+                "role": "Lucas Ingram",
+                "thumbnail": "http://thetvdb.com/banners/actors/301338.jpg"
+            },
+            {
+                "name": "Tony Amendola",
+                "order": 11,
+                "role": "Edouard Kagame",
+                "thumbnail": "http://thetvdb.com/banners/actors/301048.jpg"
+            },
+            {
+                "name": "Roger R. Cross",
+                "order": 12,
+                "role": "Travis Verta",
+                "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+            },
+            {
+                "name": "John Reardon",
+                "order": 13,
+                "role": "Greg Cameron",
+                "thumbnail": "http://thetvdb.com/banners/actors/299159.jpg"
+            },
+            {
+                "name": "Richard Harmon",
+                "order": 14,
+                "role": "Julian Randol",
+                "thumbnail": "http://thetvdb.com/banners/actors/299158.jpg"
+            },
+            {
+                "name": "Stephen Lobo",
+                "order": 15,
+                "role": "Matthew Kellog",
+                "thumbnail": "http://thetvdb.com/banners/actors/299157.jpg"
+            },
+            {
+                "name": "Brian Markinson",
+                "order": 16,
+                "role": "Dillon",
+                "thumbnail": "http://thetvdb.com/banners/actors/299156.jpg"
+            },
+            {
+                "name": "Lexa Doig",
+                "order": 17,
+                "role": "Sonya Valentine",
+                "thumbnail": "http://thetvdb.com/banners/actors/297867.jpg"
+            },
+            {
+                "name": "Jennifer Spence",
+                "order": 18,
+                "role": "Betty Robertson",
+                "thumbnail": "http://thetvdb.com/banners/actors/297613.jpg"
+            }
+        ],
+        "dateadded": "2013-08-04 20:46:18",
+        "episode": 4,
+        "episodeguide": "<episodeguide><url cache=\"258171-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/258171/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/258171-11.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Continuum/",
+        "genre": [
+            "Action",
+            "Drama",
+            "Science-Fiction",
+            "Thriller"
+        ],
+        "imdbnumber": "258171",
+        "label": "Continuum",
+        "lastplayed": "",
+        "mpaa": "TV-PG",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Kiera Cameron (Rachel Nichols), a Vancouver City Protective Services officer, is transported from the year 2077 to 2012 when eight ruthless terrorists, known as Liber8, attempt to escape execution through time travel. With the help of 17 year old tech genius Alec Sadler (Erik Knudsen) and VPD officer Carlos Fonnegra (Victor Webster), Kiera must survive in our time period, and capture Liber8 before they can alter the course of history and change the future.",
+        "premiered": "2012-05-27",
+        "rating": 8.399999618530273,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Showcase (CA)"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/258171-5.jpg",
+        "title": "Continuum",
+        "tvshowid": 16,
+        "votes": "171",
+        "watchedepisodes": 0,
+        "year": 2012
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/258171/4307618.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/258171-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/258171-11.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/258171-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Terry Chen",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/zHmlacDItyaJ0uFmormpVeN06mU.jpg"
+                    },
+                    {
+                        "name": "Brian Markinson",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299156.jpg"
+                    },
+                    {
+                        "name": "Sean Michael Kyer",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Rogers",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Janet Kidder",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Olivia Ryan Stern",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rocky Anderson",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sean Tyson",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Anthony Shim",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Stuart",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tristan Jensen",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "John Innes",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "P. Lynn Johnson",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Nichols",
+                        "order": 0,
+                        "role": "Kiera Cameron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297610.jpg"
+                    },
+                    {
+                        "name": "Erik Knudsen",
+                        "order": 1,
+                        "role": "Alec Sadler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297611.jpg"
+                    },
+                    {
+                        "name": "Victor Webster",
+                        "order": 2,
+                        "role": "Carlos Fonnegra",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297612.jpg"
+                    },
+                    {
+                        "name": "Hugh Dillon",
+                        "order": 3,
+                        "role": "Stan Escher",
+                        "thumbnail": "http://thetvdb.com/banners/actors/326456.jpg"
+                    },
+                    {
+                        "name": "Magda Apanowicz",
+                        "order": 4,
+                        "role": "Emily",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325739.jpg"
+                    },
+                    {
+                        "name": "Nicholas Lea",
+                        "order": 5,
+                        "role": "Agent Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324936.jpg"
+                    },
+                    {
+                        "name": "William B. Davis",
+                        "order": 6,
+                        "role": "Older Alec Sadler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324935.jpg"
+                    },
+                    {
+                        "name": "Tahmoh Penikett",
+                        "order": 7,
+                        "role": "Jim Martin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324931.jpg"
+                    },
+                    {
+                        "name": "John Cassini",
+                        "order": 8,
+                        "role": "Marco",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324927.jpg"
+                    },
+                    {
+                        "name": "Luvia Petersen",
+                        "order": 9,
+                        "role": "Jasmine Garza",
+                        "thumbnail": "http://thetvdb.com/banners/actors/301339.jpg"
+                    },
+                    {
+                        "name": "Omari Newton",
+                        "order": 10,
+                        "role": "Lucas Ingram",
+                        "thumbnail": "http://thetvdb.com/banners/actors/301338.jpg"
+                    },
+                    {
+                        "name": "Tony Amendola",
+                        "order": 11,
+                        "role": "Edouard Kagame",
+                        "thumbnail": "http://thetvdb.com/banners/actors/301048.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 12,
+                        "role": "Travis Verta",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "John Reardon",
+                        "order": 13,
+                        "role": "Greg Cameron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299159.jpg"
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 14,
+                        "role": "Julian Randol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299158.jpg"
+                    },
+                    {
+                        "name": "Stephen Lobo",
+                        "order": 15,
+                        "role": "Matthew Kellog",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299157.jpg"
+                    },
+                    {
+                        "name": "Lexa Doig",
+                        "order": 17,
+                        "role": "Sonya Valentine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297867.jpg"
+                    },
+                    {
+                        "name": "Jennifer Spence",
+                        "order": 18,
+                        "role": "Betty Robertson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297613.jpg"
+                    }
+                ],
+                "dateadded": "2013-08-04 14:42:51",
+                "director": [
+                    "Jon Cassar"
+                ],
+                "episode": 2,
+                "episodeid": 265,
+                "fanart": "http://thetvdb.com/banners/fanart/original/258171-11.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Continuum/Season 1/Continuum.S01E02.Kein.Weg.zurueck.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
+                "firstaired": "2012-06-03",
+                "label": "1x02. Fast Times",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Kiera tries to find the members of Liber8 before they do more damage. Her attempts are hindered when her cover is blown and her partner on the VPD, Carlos Fonnegra, arrests her. But when she discovers Liber8’s plan to attempt to get back to 2077, she has to escape and possibly ally herself with her sworn enemies to get back home.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Continuum",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/258171/4307618.jpg",
+                "title": "Fast Times",
+                "tvshowid": 16,
+                "uniqueid": {
+                    "unknown": "4307618"
+                },
+                "votes": "167",
+                "writer": [
+                    "Simon Barry"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/258171/4307619.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/258171-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/258171-11.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/258171-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Terry Chen",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/zHmlacDItyaJ0uFmormpVeN06mU.jpg"
+                    },
+                    {
+                        "name": "Adam Greydon Reid",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mike Dopud",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Rogers",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Janet Kidder",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Caitlin Cromwell",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Keith Dallas",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Hiro Kanagawa",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/2vDjvbgOMUx39j2kMcjLvH8bxpu.jpg"
+                    },
+                    {
+                        "name": "Colin Lawrence",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Darren Bennet",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lori Ann Triolo",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joe Norris",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Izaak Smith",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Nichols",
+                        "order": 0,
+                        "role": "Kiera Cameron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297610.jpg"
+                    },
+                    {
+                        "name": "Erik Knudsen",
+                        "order": 1,
+                        "role": "Alec Sadler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297611.jpg"
+                    },
+                    {
+                        "name": "Victor Webster",
+                        "order": 2,
+                        "role": "Carlos Fonnegra",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297612.jpg"
+                    },
+                    {
+                        "name": "Hugh Dillon",
+                        "order": 3,
+                        "role": "Stan Escher",
+                        "thumbnail": "http://thetvdb.com/banners/actors/326456.jpg"
+                    },
+                    {
+                        "name": "Magda Apanowicz",
+                        "order": 4,
+                        "role": "Emily",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325739.jpg"
+                    },
+                    {
+                        "name": "Nicholas Lea",
+                        "order": 5,
+                        "role": "Agent Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324936.jpg"
+                    },
+                    {
+                        "name": "William B. Davis",
+                        "order": 6,
+                        "role": "Older Alec Sadler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324935.jpg"
+                    },
+                    {
+                        "name": "Tahmoh Penikett",
+                        "order": 7,
+                        "role": "Jim Martin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324931.jpg"
+                    },
+                    {
+                        "name": "John Cassini",
+                        "order": 8,
+                        "role": "Marco",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324927.jpg"
+                    },
+                    {
+                        "name": "Luvia Petersen",
+                        "order": 9,
+                        "role": "Jasmine Garza",
+                        "thumbnail": "http://thetvdb.com/banners/actors/301339.jpg"
+                    },
+                    {
+                        "name": "Omari Newton",
+                        "order": 10,
+                        "role": "Lucas Ingram",
+                        "thumbnail": "http://thetvdb.com/banners/actors/301338.jpg"
+                    },
+                    {
+                        "name": "Tony Amendola",
+                        "order": 11,
+                        "role": "Edouard Kagame",
+                        "thumbnail": "http://thetvdb.com/banners/actors/301048.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 12,
+                        "role": "Travis Verta",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "John Reardon",
+                        "order": 13,
+                        "role": "Greg Cameron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299159.jpg"
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 14,
+                        "role": "Julian Randol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299158.jpg"
+                    },
+                    {
+                        "name": "Stephen Lobo",
+                        "order": 15,
+                        "role": "Matthew Kellog",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299157.jpg"
+                    },
+                    {
+                        "name": "Brian Markinson",
+                        "order": 16,
+                        "role": "Dillon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299156.jpg"
+                    },
+                    {
+                        "name": "Lexa Doig",
+                        "order": 17,
+                        "role": "Sonya Valentine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297867.jpg"
+                    },
+                    {
+                        "name": "Jennifer Spence",
+                        "order": 18,
+                        "role": "Betty Robertson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297613.jpg"
+                    }
+                ],
+                "dateadded": "2013-08-04 14:59:46",
+                "director": [
+                    "David Frazee"
+                ],
+                "episode": 3,
+                "episodeid": 266,
+                "fanart": "http://thetvdb.com/banners/fanart/original/258171-11.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Continuum/Season 1/Continuum.S01E03.Doppeltes.Spiel.GERMAN.DUBBED.WebHDRiP.XviD-SOF.avi",
+                "firstaired": "2012-06-10",
+                "label": "1x03. Wasting Time",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Kiera and Carlos investigate a series of mysterious murders in which victims have been drained of endocrine fluid only to discover that the crimes were committed by Liber8 in an effort to save Travis, their leader. Kellog tries to make a truce with Kiera by delivering her a gift, one that could cost her and Carlos their lives and will lead to Kellog’s expulsion from Liber8.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Continuum",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/258171/4307619.jpg",
+                "title": "Wasting Time",
+                "tvshowid": 16,
+                "uniqueid": {
+                    "unknown": "4307619"
+                },
+                "votes": "155",
+                "writer": [
+                    "Simon Barry"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/258171/4307620.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/258171-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/258171-11.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/258171-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jesse Moss",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mayko Nguyen",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Olivia Ryan Stern",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Zahf Paroo",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jFrVBricxCWGIRYV7XxvNYM9Jcp.jpg"
+                    },
+                    {
+                        "name": "Stephen Huszar",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Nichols",
+                        "order": 0,
+                        "role": "Kiera Cameron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297610.jpg"
+                    },
+                    {
+                        "name": "Erik Knudsen",
+                        "order": 1,
+                        "role": "Alec Sadler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297611.jpg"
+                    },
+                    {
+                        "name": "Victor Webster",
+                        "order": 2,
+                        "role": "Carlos Fonnegra",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297612.jpg"
+                    },
+                    {
+                        "name": "Hugh Dillon",
+                        "order": 3,
+                        "role": "Stan Escher",
+                        "thumbnail": "http://thetvdb.com/banners/actors/326456.jpg"
+                    },
+                    {
+                        "name": "Magda Apanowicz",
+                        "order": 4,
+                        "role": "Emily",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325739.jpg"
+                    },
+                    {
+                        "name": "Nicholas Lea",
+                        "order": 5,
+                        "role": "Agent Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324936.jpg"
+                    },
+                    {
+                        "name": "William B. Davis",
+                        "order": 6,
+                        "role": "Older Alec Sadler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324935.jpg"
+                    },
+                    {
+                        "name": "Tahmoh Penikett",
+                        "order": 7,
+                        "role": "Jim Martin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324931.jpg"
+                    },
+                    {
+                        "name": "John Cassini",
+                        "order": 8,
+                        "role": "Marco",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324927.jpg"
+                    },
+                    {
+                        "name": "Luvia Petersen",
+                        "order": 9,
+                        "role": "Jasmine Garza",
+                        "thumbnail": "http://thetvdb.com/banners/actors/301339.jpg"
+                    },
+                    {
+                        "name": "Omari Newton",
+                        "order": 10,
+                        "role": "Lucas Ingram",
+                        "thumbnail": "http://thetvdb.com/banners/actors/301338.jpg"
+                    },
+                    {
+                        "name": "Tony Amendola",
+                        "order": 11,
+                        "role": "Edouard Kagame",
+                        "thumbnail": "http://thetvdb.com/banners/actors/301048.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 12,
+                        "role": "Travis Verta",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "John Reardon",
+                        "order": 13,
+                        "role": "Greg Cameron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299159.jpg"
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 14,
+                        "role": "Julian Randol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299158.jpg"
+                    },
+                    {
+                        "name": "Stephen Lobo",
+                        "order": 15,
+                        "role": "Matthew Kellog",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299157.jpg"
+                    },
+                    {
+                        "name": "Brian Markinson",
+                        "order": 16,
+                        "role": "Dillon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299156.jpg"
+                    },
+                    {
+                        "name": "Lexa Doig",
+                        "order": 17,
+                        "role": "Sonya Valentine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297867.jpg"
+                    },
+                    {
+                        "name": "Jennifer Spence",
+                        "order": 18,
+                        "role": "Betty Robertson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297613.jpg"
+                    }
+                ],
+                "dateadded": "2013-08-04 20:46:18",
+                "director": [
+                    "Mike Rohl"
+                ],
+                "episode": 4,
+                "episodeid": 267,
+                "fanart": "http://thetvdb.com/banners/fanart/original/258171-11.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Continuum/Season 1/Continuum.S01E04.mp4",
+                "firstaired": "2012-06-17",
+                "label": "1x04. A Matter of Time",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A scientist who is working on developing a source of clean energy is found murdered. The list of suspects leads Kiera on a journey that takes her to a precarious place – deciding between the right thing to do and the preservation of the future.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Continuum",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/258171/4307620.jpg",
+                "title": "A Matter of Time",
+                "tvshowid": 16,
+                "uniqueid": {
+                    "unknown": "4307620"
+                },
+                "votes": "147",
+                "writer": [
+                    "Sam Egan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/258171/4307621.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/258171-g9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/258171-11.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/258171-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Katie Findlay",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Leanne Lapp",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Olivia Ryan Stern",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Greydon Reid",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Beatrice Sallis",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kathryn Dobbs",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Nichols",
+                        "order": 0,
+                        "role": "Kiera Cameron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297610.jpg"
+                    },
+                    {
+                        "name": "Erik Knudsen",
+                        "order": 1,
+                        "role": "Alec Sadler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297611.jpg"
+                    },
+                    {
+                        "name": "Victor Webster",
+                        "order": 2,
+                        "role": "Carlos Fonnegra",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297612.jpg"
+                    },
+                    {
+                        "name": "Hugh Dillon",
+                        "order": 3,
+                        "role": "Stan Escher",
+                        "thumbnail": "http://thetvdb.com/banners/actors/326456.jpg"
+                    },
+                    {
+                        "name": "Magda Apanowicz",
+                        "order": 4,
+                        "role": "Emily",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325739.jpg"
+                    },
+                    {
+                        "name": "Nicholas Lea",
+                        "order": 5,
+                        "role": "Agent Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324936.jpg"
+                    },
+                    {
+                        "name": "William B. Davis",
+                        "order": 6,
+                        "role": "Older Alec Sadler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324935.jpg"
+                    },
+                    {
+                        "name": "Tahmoh Penikett",
+                        "order": 7,
+                        "role": "Jim Martin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324931.jpg"
+                    },
+                    {
+                        "name": "John Cassini",
+                        "order": 8,
+                        "role": "Marco",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324927.jpg"
+                    },
+                    {
+                        "name": "Luvia Petersen",
+                        "order": 9,
+                        "role": "Jasmine Garza",
+                        "thumbnail": "http://thetvdb.com/banners/actors/301339.jpg"
+                    },
+                    {
+                        "name": "Omari Newton",
+                        "order": 10,
+                        "role": "Lucas Ingram",
+                        "thumbnail": "http://thetvdb.com/banners/actors/301338.jpg"
+                    },
+                    {
+                        "name": "Tony Amendola",
+                        "order": 11,
+                        "role": "Edouard Kagame",
+                        "thumbnail": "http://thetvdb.com/banners/actors/301048.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 12,
+                        "role": "Travis Verta",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "John Reardon",
+                        "order": 13,
+                        "role": "Greg Cameron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299159.jpg"
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 14,
+                        "role": "Julian Randol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299158.jpg"
+                    },
+                    {
+                        "name": "Stephen Lobo",
+                        "order": 15,
+                        "role": "Matthew Kellog",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299157.jpg"
+                    },
+                    {
+                        "name": "Brian Markinson",
+                        "order": 16,
+                        "role": "Dillon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299156.jpg"
+                    },
+                    {
+                        "name": "Lexa Doig",
+                        "order": 17,
+                        "role": "Sonya Valentine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297867.jpg"
+                    },
+                    {
+                        "name": "Jennifer Spence",
+                        "order": 18,
+                        "role": "Betty Robertson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297613.jpg"
+                    }
+                ],
+                "dateadded": "2013-08-04 20:23:54",
+                "director": [
+                    "Pat Williams"
+                ],
+                "episode": 5,
+                "episodeid": 268,
+                "fanart": "http://thetvdb.com/banners/fanart/original/258171-11.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Continuum/Season 1/Continuum.S01E05.mp4",
+                "firstaired": "2012-06-24",
+                "label": "1x05. A Test of Time",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Kagame's return begins with a reset of Liber8’s agenda, away from violence and towards blending into the community. But there may be a glitch – there is the possibility that if their ancestors living in this time are murdered, they might cease to exist. A test of this theory is devised with Kiera and her grandmother as the guinea pigs.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Continuum",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/258171/4307621.jpg",
+                "title": "A Test of Time",
+                "tvshowid": 16,
+                "uniqueid": {
+                    "unknown": "4307621"
+                },
+                "votes": "142",
+                "writer": [
+                    "Jeff King"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/258171-1-11.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/258171-g9.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/258171-11.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/258171-5.jpg"
+            },
+            "episode": 4,
+            "fanart": "http://thetvdb.com/banners/fanart/original/258171-11.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 82,
+            "showtitle": "Continuum",
+            "thumbnail": "http://thetvdb.com/banners/seasons/258171-1-11.jpg",
+            "tvshowid": 16,
+            "watchedepisodes": 0
+        }
+    ]
+}

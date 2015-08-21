@@ -1,0 +1,1424 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+            "poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Billy Campbell",
+                "order": 0,
+                "role": "Dr. Alan Farragut",
+                "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+            },
+            {
+                "name": "Jordan Hayes",
+                "order": 1,
+                "role": "Dr. Sarah Jordan",
+                "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+            },
+            {
+                "name": "Kyra Zagorsky",
+                "order": 2,
+                "role": "Dr. Julia Walker",
+                "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+            },
+            {
+                "name": "Hiroyuki Sanada",
+                "order": 3,
+                "role": "Dr. Hiroshi Hitaki",
+                "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+            },
+            {
+                "name": "Matt Long",
+                "order": 4,
+                "role": "Dr. Kyle Sommer",
+                "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+            },
+            {
+                "name": "Neil Napier",
+                "order": 5,
+                "role": "Dr. Peter Farragut",
+                "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+            },
+            {
+                "name": "Catherine Lemieux",
+                "order": 6,
+                "role": "Dr. Doreen Boyle",
+                "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+            },
+            {
+                "name": "Meegwun Fairbrother",
+                "order": 7,
+                "role": "Daniel Aerov",
+                "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+            },
+            {
+                "name": "Mark Ghanimé",
+                "order": 8,
+                "role": "Major Sergio Balleseros",
+                "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+            }
+        ],
+        "dateadded": "2015-05-31 17:31:24",
+        "episode": 13,
+        "episodeguide": "<episodeguide><url cache=\"265912-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/265912/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/",
+        "genre": [
+            "Drama",
+            "Science-Fiction",
+            "Thriller"
+        ],
+        "imdbnumber": "265912",
+        "label": "Helix",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "A team of scientists from the Centre for Disease Control travel to a high tech research facility in the Arctic to investigate a possible disease outbreak, only to find themselves pulled into a terrifying life-and-death struggle that holds the key to mankind's salvation...or total annihilation.",
+        "premiered": "2014-01-10",
+        "rating": 7.900000095367432,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Syfy"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/265912-1.jpg",
+        "title": "Helix",
+        "tvshowid": 39,
+        "votes": "56",
+        "watchedepisodes": 0,
+        "year": 2014
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518498.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2014-03-29 19:32:45",
+                "director": [
+                    "David Slade"
+                ],
+                "episode": 1,
+                "episodeid": 651,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E01.Tod.im.ewigen.Eis.German.Dubbed.WEBRip.XviD-Lix.avi",
+                "firstaired": "2014-01-10",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A Center for Disease Control medical team’s investigation of a disease outbreak at a high tech arctic research lab uncovers the truth about a secretive research project that could threaten the future of humankind.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518498.jpg",
+                "title": "Pilot",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518498"
+                },
+                "votes": "88",
+                "writer": [
+                    "Cameron Porsandeh",
+                    "Ronald D. Moore"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518499.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-18 16:26:53",
+                "director": [
+                    "Brad Turner"
+                ],
+                "episode": 2,
+                "episodeid": 652,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E02.Die.Geister.die.ich.rief.GERMAN.DUBBED.WS.WEBRip.XViD.mp4",
+                "firstaired": "2014-01-10",
+                "label": "1x02. Vector",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As Dr. Alan Farragut accelerates the hunt for his infected brother Peter, the quarantine of three scientists threatens to create panic at the lab. Doreen finds evidence that Dr. Hatake is lying about his research.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518499.jpg",
+                "title": "Vector",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518499"
+                },
+                "votes": "43",
+                "writer": [
+                    "Cameron Porsandeh",
+                    "Ronald D. Moore"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518500.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2014-04-25 21:04:56",
+                "director": [
+                    "Steven A. Adelson"
+                ],
+                "episode": 3,
+                "episodeid": 653,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E03.Ausser.Kontrolle.German.Dubbed.WEBRip.XviD-Lix.mp4",
+                "firstaired": "2014-01-17",
+                "label": "1x03. 274",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As Alan sets up an isolation unit to quarantine the infected lab workers, Walker and Jordan each face the possibility that they have the deadly virus, too.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518500.jpg",
+                "title": "274",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518500"
+                },
+                "votes": "72",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518501.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-02 01:24:11",
+                "director": [
+                    "Duane Clark"
+                ],
+                "episode": 4,
+                "episodeid": 654,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E04.Dicke.Luft.German.Dubbed.WEBRip.XviD-Lix.mp4",
+                "firstaired": "2014-01-24",
+                "label": "1x04. Single Strand",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As Alan risks killing Peter in a desperate effort to cure him, Walker teams with a mysterious young researcher to survive their quarantine. Jordan discovers her Rapid Response test is flawed.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518501.jpg",
+                "title": "Single Strand",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518501"
+                },
+                "votes": "64",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518502.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-30 20:30:48",
+                "director": [
+                    "Duane Clark"
+                ],
+                "episode": 5,
+                "episodeid": 655,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E05.Der.weisse.Raum.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-01-31",
+                "label": "1x05. The White Room",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As Alan’s controversial cure leaves Peter clinging to life, the unchecked virus forces Jordan to make a devastating decision. Walker discovers the surprising truth about her new ally, while Daniel squares off against Balleseros.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518502.jpg",
+                "title": "The White Room",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518502"
+                },
+                "votes": "59",
+                "writer": [
+                    "Cameron Porsandeh",
+                    "Ronald D. Moore"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518503.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-30 20:29:52",
+                "director": [
+                    "Mike Rohl"
+                ],
+                "episode": 6,
+                "episodeid": 656,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E06.Aniqatiga.German.Dubbed.WEBRip.XviD-Lix.avi",
+                "firstaired": "2014-02-07",
+                "label": "1x06. Aniqatiga",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After Daniel leaves Balleseros to die, the mystery surrounding his connection to Hatake (Hiroyuki Sanada) is revealed. As he works to save Peter (Neil Napier), Alan (Billy Campbell) struggles with his feelings for both Walker (Kyra Zagorsky) and Jordan (Jordan Hayes).",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518503.jpg",
+                "title": "Aniqatiga",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518503"
+                },
+                "votes": "62",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518504.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-30 20:16:32",
+                "director": [
+                    "Mike Rohl"
+                ],
+                "episode": 7,
+                "episodeid": 657,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E07.German.Dubbed.WEBRip.XviD-Lix.mp4",
+                "firstaired": "2014-02-14",
+                "label": "1x07. Survivor Zero",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As Ilaria CEO Constance Sutton arrives to collect the virus and its cure, Alan finds Walker seemingly symptom-free. Daniel learns the truth about his “adoption” by Hatake.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518504.jpg",
+                "title": "Survivor Zero",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518504"
+                },
+                "votes": "54",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518505.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-30 20:19:10",
+                "director": [],
+                "episode": 8,
+                "episodeid": 658,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E08.Bloodline.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-02-21",
+                "label": "1x08. Bloodline",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Alan risks his life to save his brother Peter from Ilaria CEO Constance Sutton, only to see him re-captured by Vectors. Julia Walker deals with the mystery of her “cure” while her half-brother Daniel confronts their father, Dr. Hatake, about being abducted as a child.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518505.jpg",
+                "title": "Bloodline",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518505"
+                },
+                "votes": "54",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518506.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-30 20:19:58",
+                "director": [],
+                "episode": 9,
+                "episodeid": 659,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E09.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-02-28",
+                "label": "1x09. Level X",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The CDC teams learns the real purpose of the infection and Alan and Julia make a perilous journey to retrieve the canister that has the original source virus.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518506.jpg",
+                "title": "Level X",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518506"
+                },
+                "votes": "53",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518507.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-30 20:20:58",
+                "director": [],
+                "episode": 10,
+                "episodeid": 660,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E10.Fushigi.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-03-07",
+                "label": "1x10. Fushigi",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In a last ditch effort to find help and a cure, Alan and Julia go to an abandoned satellite station discover a shocking secret that reveals Hatake's ultimate goal and the reason why he has developed the deadly virus.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518507.jpg",
+                "title": "Fushigi",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518507"
+                },
+                "votes": "50",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518508.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-30 20:11:42",
+                "director": [],
+                "episode": 11,
+                "episodeid": 661,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E11.Black.Rain.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2014-03-14",
+                "label": "1x11. Black Rain",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The Vectors start working together to hunt down the uninfected as the CDC develops a risky cure and a band of assassins from Ilaria secretly infiltrate the base.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518508.jpg",
+                "title": "Black Rain",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518508"
+                },
+                "votes": "51",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518509.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2014-06-30 20:13:04",
+                "director": [
+                    "Brad Turner"
+                ],
+                "episode": 12,
+                "episodeid": 662,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E12.The.Reaping.GERMAN.DUBBED.WS.BDRip.XViD.mp4",
+                "firstaired": "2014-03-21",
+                "label": "1x12. The Reaping",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The uninfected are hiding in a secret bunker on the base as the CDC attempt to retrieve the canisters with the virus and the cure while the Ilaria assassins capture Hatake and force him to chose between which one of his children they will kill first.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518509.jpg",
+                "title": "The Reaping",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518509"
+                },
+                "votes": "48",
+                "writer": [
+                    "Adam Lash",
+                    "Cori Uchida"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265912/4518510.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy Campbell",
+                        "order": 0,
+                        "role": "Dr. Alan Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321212.jpg"
+                    },
+                    {
+                        "name": "Jordan Hayes",
+                        "order": 1,
+                        "role": "Dr. Sarah Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321216.jpg"
+                    },
+                    {
+                        "name": "Kyra Zagorsky",
+                        "order": 2,
+                        "role": "Dr. Julia Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321214.jpg"
+                    },
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 3,
+                        "role": "Dr. Hiroshi Hitaki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Matt Long",
+                        "order": 4,
+                        "role": "Dr. Kyle Sommer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343860.jpg"
+                    },
+                    {
+                        "name": "Neil Napier",
+                        "order": 5,
+                        "role": "Dr. Peter Farragut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321219.jpg"
+                    },
+                    {
+                        "name": "Catherine Lemieux",
+                        "order": 6,
+                        "role": "Dr. Doreen Boyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321218.jpg"
+                    },
+                    {
+                        "name": "Meegwun Fairbrother",
+                        "order": 7,
+                        "role": "Daniel Aerov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321217.jpg"
+                    },
+                    {
+                        "name": "Mark Ghanimé",
+                        "order": 8,
+                        "role": "Major Sergio Balleseros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321215.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 17:31:24",
+                "director": [
+                    "Brad Turner"
+                ],
+                "episode": 13,
+                "episodeid": 663,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Helix/Season 1/Helix.S01E13.GERMAN.DUBBED.WS.BDRip.XViD.mp4",
+                "firstaired": "2014-03-28",
+                "label": "1x13. Dans L'Ombre",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Alan and Peter capture the assassin Scythe and demand to know the whereabouts of Julia’s mother. Balleseros confronts Hatake about the missing Inuit children, while Anana and her brother learn of Daniel’s fate. Concerns that the virus is in Ilaria’s possession again forces Alan and the team off the base to search the world in order to retrieve it.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Helix",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265912/4518510.jpg",
+                "title": "Dans L'Ombre",
+                "tvshowid": 39,
+                "uniqueid": {
+                    "unknown": "4518510"
+                },
+                "votes": "47",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/265912-1-4.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/265912-g5.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/265912-1.jpg"
+            },
+            "episode": 13,
+            "fanart": "http://thetvdb.com/banners/fanart/original/265912-8.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 203,
+            "showtitle": "Helix",
+            "thumbnail": "http://thetvdb.com/banners/seasons/265912-1-4.jpg",
+            "tvshowid": 39,
+            "watchedepisodes": 0
+        }
+    ]
+}

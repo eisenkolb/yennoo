@@ -1,0 +1,460 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/140151-g3.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/140151-2.jpg",
+            "poster": "http://thetvdb.com/banners/posters/140151-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Aaron Douglas",
+                "order": 0,
+                "role": "Frank Leo",
+                "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+            },
+            {
+                "name": "Paul Popowich",
+                "order": 1,
+                "role": "Tommy Dunn",
+                "thumbnail": "http://thetvdb.com/banners/actors/144411.jpg"
+            },
+            {
+                "name": "Michael Murphy",
+                "order": 2,
+                "role": "Ed Wycoff",
+                "thumbnail": "http://thetvdb.com/banners/actors/144461.jpg"
+            },
+            {
+                "name": "Ona Grauer",
+                "order": 3,
+                "role": "Abby St. James",
+                "thumbnail": "http://thetvdb.com/banners/actors/144451.jpg"
+            },
+            {
+                "name": "Theresa Joy",
+                "order": 4,
+                "role": "Billy",
+                "thumbnail": "http://thetvdb.com/banners/actors/144441.jpg"
+            },
+            {
+                "name": "Frank Cassini",
+                "order": 5,
+                "role": "Bernie Kantor",
+                "thumbnail": "http://thetvdb.com/banners/actors/144431.jpg"
+            },
+            {
+                "name": "Inga Cadranel",
+                "order": 6,
+                "role": "Jill",
+                "thumbnail": "http://thetvdb.com/banners/actors/144421.jpg"
+            }
+        ],
+        "dateadded": "2013-11-30 20:58:13",
+        "episode": 4,
+        "episodeguide": "<episodeguide><url cache=\"140151-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/140151/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/140151-2.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Bridge/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "imdbnumber": "140151",
+        "label": "The Bridge",
+        "lastplayed": "",
+        "mpaa": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "\"The Bridge\" is a police district which a includes a wealthy, upscale suburb and a lower-class, crime-plagued neighborhood, with the two separated by a highway bridge. Frank Leo, the newly elected police union head with an angry attitude and no patience for the corruption that permeates the force, does whatever is called for to protect the beat cops in Bridge District from the brass as they do a difficult an underappreciated job.",
+        "premiered": "2010-03-05",
+        "rating": 7.5,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "CTV"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/140151-1.jpg",
+        "title": "The Bridge",
+        "tvshowid": 79,
+        "votes": "4",
+        "watchedepisodes": 0,
+        "year": 2010
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/140151/1685471.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/140151-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/140151-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/140151-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 0,
+                        "role": "Frank Leo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Paul Popowich",
+                        "order": 1,
+                        "role": "Tommy Dunn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144411.jpg"
+                    },
+                    {
+                        "name": "Michael Murphy",
+                        "order": 2,
+                        "role": "Ed Wycoff",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144461.jpg"
+                    },
+                    {
+                        "name": "Ona Grauer",
+                        "order": 3,
+                        "role": "Abby St. James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144451.jpg"
+                    },
+                    {
+                        "name": "Theresa Joy",
+                        "order": 4,
+                        "role": "Billy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144441.jpg"
+                    },
+                    {
+                        "name": "Frank Cassini",
+                        "order": 5,
+                        "role": "Bernie Kantor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144431.jpg"
+                    },
+                    {
+                        "name": "Inga Cadranel",
+                        "order": 6,
+                        "role": "Jill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144421.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-30 20:54:57",
+                "director": [
+                    "John Fawcett"
+                ],
+                "episode": 1,
+                "episodeid": 1647,
+                "fanart": "http://thetvdb.com/banners/fanart/original/140151-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Bridge/Season 1/The.Bridge.S01E01.Grenzgaenger.GERMAN.Dubbed.DVDRip.XviD-idTV.mkv",
+                "firstaired": "2010-03-05",
+                "label": "1x01. Red Door (1)",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When beat cop Frank Leo becomes fed up with the corrupt police brass, he leads a walkout strike and makes himself a target as a renegade union rep.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Bridge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/140151/1685471.jpg",
+                "title": "Red Door (1)",
+                "tvshowid": 79,
+                "uniqueid": {
+                    "unknown": "1685471"
+                },
+                "votes": "15",
+                "writer": [
+                    "Alan Di Fiore"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/140151/1947741.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/140151-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/140151-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/140151-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 0,
+                        "role": "Frank Leo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Paul Popowich",
+                        "order": 1,
+                        "role": "Tommy Dunn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144411.jpg"
+                    },
+                    {
+                        "name": "Michael Murphy",
+                        "order": 2,
+                        "role": "Ed Wycoff",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144461.jpg"
+                    },
+                    {
+                        "name": "Ona Grauer",
+                        "order": 3,
+                        "role": "Abby St. James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144451.jpg"
+                    },
+                    {
+                        "name": "Theresa Joy",
+                        "order": 4,
+                        "role": "Billy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144441.jpg"
+                    },
+                    {
+                        "name": "Frank Cassini",
+                        "order": 5,
+                        "role": "Bernie Kantor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144431.jpg"
+                    },
+                    {
+                        "name": "Inga Cadranel",
+                        "order": 6,
+                        "role": "Jill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144421.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-30 20:47:24",
+                "director": [],
+                "episode": 2,
+                "episodeid": 1648,
+                "fanart": "http://thetvdb.com/banners/fanart/original/140151-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Bridge/Season 1/The.Bridge.S01E02.Zum.Abschuss.freigegeben.GERMAN.Dubbed.DVDRip.XviD-idTV.mp4",
+                "firstaired": "2010-03-05",
+                "label": "1x02. Paint It Black (2)",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Frank is willing to face the brass and account for himself, but he discovers that his father has been made a target as well.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Bridge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/140151/1947741.jpg",
+                "title": "Paint It Black (2)",
+                "tvshowid": 79,
+                "uniqueid": {
+                    "unknown": "1947741"
+                },
+                "votes": "9",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/140151/1685481.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/140151-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/140151-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/140151-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 0,
+                        "role": "Frank Leo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Paul Popowich",
+                        "order": 1,
+                        "role": "Tommy Dunn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144411.jpg"
+                    },
+                    {
+                        "name": "Michael Murphy",
+                        "order": 2,
+                        "role": "Ed Wycoff",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144461.jpg"
+                    },
+                    {
+                        "name": "Ona Grauer",
+                        "order": 3,
+                        "role": "Abby St. James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144451.jpg"
+                    },
+                    {
+                        "name": "Theresa Joy",
+                        "order": 4,
+                        "role": "Billy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144441.jpg"
+                    },
+                    {
+                        "name": "Frank Cassini",
+                        "order": 5,
+                        "role": "Bernie Kantor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144431.jpg"
+                    },
+                    {
+                        "name": "Inga Cadranel",
+                        "order": 6,
+                        "role": "Jill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144421.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-30 20:35:43",
+                "director": [
+                    "John Fawcett"
+                ],
+                "episode": 3,
+                "episodeid": 1649,
+                "fanart": "http://thetvdb.com/banners/fanart/original/140151-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Bridge/Season 1/The.Bridge.S01E03.Pakt.mit.dem.Teufel.GERMAN.Dubbed.DVDRip.XviD-idTV.mp4",
+                "firstaired": "2010-03-12",
+                "label": "1x03. The Fat Lady Sings the Blues",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "\"Play by the book\" rules are set aside when Frank looks into the death of a retired narcotics officer.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Bridge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/140151/1685481.jpg",
+                "title": "The Fat Lady Sings the Blues",
+                "tvshowid": 79,
+                "uniqueid": {
+                    "unknown": "1685481"
+                },
+                "votes": "11",
+                "writer": [
+                    "Alan Di Fiore"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/140151/1925171.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/140151-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/140151-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/140151-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 0,
+                        "role": "Frank Leo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Paul Popowich",
+                        "order": 1,
+                        "role": "Tommy Dunn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144411.jpg"
+                    },
+                    {
+                        "name": "Michael Murphy",
+                        "order": 2,
+                        "role": "Ed Wycoff",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144461.jpg"
+                    },
+                    {
+                        "name": "Ona Grauer",
+                        "order": 3,
+                        "role": "Abby St. James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144451.jpg"
+                    },
+                    {
+                        "name": "Theresa Joy",
+                        "order": 4,
+                        "role": "Billy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144441.jpg"
+                    },
+                    {
+                        "name": "Frank Cassini",
+                        "order": 5,
+                        "role": "Bernie Kantor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144431.jpg"
+                    },
+                    {
+                        "name": "Inga Cadranel",
+                        "order": 6,
+                        "role": "Jill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144421.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-30 20:58:13",
+                "director": [],
+                "episode": 4,
+                "episodeid": 1650,
+                "fanart": "http://thetvdb.com/banners/fanart/original/140151-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Bridge/Season 1/The.Bridge.S01E04.Ausgeliefert.GERMAN.Dubbed.DVDRip.XviD-idTV.mp4",
+                "firstaired": "2010-03-19",
+                "label": "1x04. The Unguarded Moment",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A hostage situation during a restaurant robbery gone bad turns Frank into a negotiator.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Bridge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/140151/1925171.jpg",
+                "title": "The Unguarded Moment",
+                "tvshowid": 79,
+                "uniqueid": {
+                    "unknown": "1925171"
+                },
+                "votes": "10",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/140151-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/140151-g3.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/140151-2.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/140151-1.jpg"
+            },
+            "episode": 4,
+            "fanart": "http://thetvdb.com/banners/fanart/original/140151-2.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 448,
+            "showtitle": "The Bridge",
+            "thumbnail": "http://thetvdb.com/banners/seasons/140151-1-2.jpg",
+            "tvshowid": 79,
+            "watchedepisodes": 0
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/290290-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/290290-1.jpg",
+            "poster": "http://thetvdb.com/banners/posters/290290-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Sakurai, Takahiro",
+                "order": 0,
+                "role": "Tentomon",
+                "thumbnail": "http://thetvdb.com/banners/actors/345872.jpg"
+            },
+            {
+                "name": "Yamada, Kinoko",
+                "order": 1,
+                "role": "Palmon",
+                "thumbnail": "http://thetvdb.com/banners/actors/345870.jpg"
+            },
+            {
+                "name": "Takeuchi, Junko",
+                "order": 2,
+                "role": "Gomamon",
+                "thumbnail": "http://thetvdb.com/banners/actors/345868.jpg"
+            },
+            {
+                "name": "Shigematsu, Atori",
+                "order": 3,
+                "role": "Piyomon",
+                "thumbnail": "http://thetvdb.com/banners/actors/345867.jpg"
+            },
+            {
+                "name": "Sakamoto, Chika",
+                "order": 4,
+                "role": "Agumon",
+                "thumbnail": "http://thetvdb.com/banners/actors/345866.jpg"
+            },
+            {
+                "name": "Yamaguchi, Mayumi",
+                "order": 10,
+                "role": "Gabumon"
+            },
+            {
+                "name": "Enoki, Junya",
+                "order": 11,
+                "role": "Takaishi, Takeru"
+            },
+            {
+                "name": "Hanae, Natsuki",
+                "order": 12,
+                "role": "Yagami, Taichi"
+            },
+            {
+                "name": "Hosoya, Yoshimasa",
+                "order": 13,
+                "role": "Ishida, Yamato"
+            },
+            {
+                "name": "Ichimichi, Mao",
+                "order": 14,
+                "role": "Yagami, Hikari"
+            },
+            {
+                "name": "Ikeda, Junya",
+                "order": 15,
+                "role": "Kido, Jou"
+            },
+            {
+                "name": "Matsumoto, Miwa",
+                "order": 16,
+                "role": "Patamon"
+            },
+            {
+                "name": "Mimori, Suzuko",
+                "order": 17,
+                "role": "Takenouchi, Sora"
+            },
+            {
+                "name": "Tachikawa, Mimi",
+                "order": 18,
+                "role": "Yoshida, Hitomi"
+            },
+            {
+                "name": "Tamura, Mutsumi",
+                "order": 19,
+                "role": "Izumi, Koushirou"
+            },
+            {
+                "name": "Tokumitsu, Yuka",
+                "order": 20,
+                "role": "Tailmon"
+            }
+        ],
+        "dateadded": "2014-12-23 14:27:03",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"290290-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/290290/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/290290-1.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Digimon Adventure/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Children",
+            "Comedy"
+        ],
+        "imdbnumber": "290290",
+        "label": "Digimon Adventure Tri.",
+        "lastplayed": "",
+        "mpaa": "TV-PG",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Fifteen years after the summer vacation.\r\n\r\nIf we didn't go to the Digital World. If I didn't make this trip with others. If we didn't change at all like this.\r\n\r\nThese Digimon were always with us. We've been friends all the time. We learned the importance of helping each other. All the things have made us what we are!\r\n\r\nNew stories for all the \"DigiDestined\" in the world. Taichi, seventeen, high school days.",
+        "premiered": "2015-11-21",
+        "rating": 10,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/290290-2.jpg",
+        "title": "Digimon Adventure Tri.",
+        "tvshowid": 22,
+        "votes": "2",
+        "watchedepisodes": 0,
+        "year": 2015
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/290290-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/290290-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/290290-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sakurai, Takahiro",
+                        "order": 0,
+                        "role": "Tentomon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345872.jpg"
+                    },
+                    {
+                        "name": "Yamada, Kinoko",
+                        "order": 1,
+                        "role": "Palmon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345870.jpg"
+                    },
+                    {
+                        "name": "Takeuchi, Junko",
+                        "order": 2,
+                        "role": "Gomamon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345868.jpg"
+                    },
+                    {
+                        "name": "Shigematsu, Atori",
+                        "order": 3,
+                        "role": "Piyomon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345867.jpg"
+                    },
+                    {
+                        "name": "Sakamoto, Chika",
+                        "order": 4,
+                        "role": "Agumon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345866.jpg"
+                    },
+                    {
+                        "name": "Yamaguchi, Mayumi",
+                        "order": 10,
+                        "role": "Gabumon"
+                    },
+                    {
+                        "name": "Enoki, Junya",
+                        "order": 11,
+                        "role": "Takaishi, Takeru"
+                    },
+                    {
+                        "name": "Hanae, Natsuki",
+                        "order": 12,
+                        "role": "Yagami, Taichi"
+                    },
+                    {
+                        "name": "Hosoya, Yoshimasa",
+                        "order": 13,
+                        "role": "Ishida, Yamato"
+                    },
+                    {
+                        "name": "Ichimichi, Mao",
+                        "order": 14,
+                        "role": "Yagami, Hikari"
+                    },
+                    {
+                        "name": "Ikeda, Junya",
+                        "order": 15,
+                        "role": "Kido, Jou"
+                    },
+                    {
+                        "name": "Matsumoto, Miwa",
+                        "order": 16,
+                        "role": "Patamon"
+                    },
+                    {
+                        "name": "Mimori, Suzuko",
+                        "order": 17,
+                        "role": "Takenouchi, Sora"
+                    },
+                    {
+                        "name": "Tachikawa, Mimi",
+                        "order": 18,
+                        "role": "Yoshida, Hitomi"
+                    },
+                    {
+                        "name": "Tamura, Mutsumi",
+                        "order": 19,
+                        "role": "Izumi, Koushirou"
+                    },
+                    {
+                        "name": "Tokumitsu, Yuka",
+                        "order": 20,
+                        "role": "Tailmon"
+                    }
+                ],
+                "dateadded": "2014-12-23 14:27:03",
+                "director": [],
+                "episode": 1,
+                "episodeid": 277,
+                "fanart": "http://thetvdb.com/banners/fanart/original/290290-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Digimon Adventure/Digimon.Adventure.S01E01.So.Fing.alles.an.German.Dubbed.1999.ANiME.FS.DVDRiP.XviD-STARS.mp4",
+                "firstaired": "2015-11-21",
+                "label": "1x01. Reunion",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 0,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Digimon Adventure Tri.",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "Reunion",
+                "tvshowid": 22,
+                "uniqueid": {
+                    "unknown": "5112863"
+                },
+                "votes": "0",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/290290-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/290290-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/290290-1.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/290290-2.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/290290-1.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 108,
+            "showtitle": "Digimon Adventure Tri.",
+            "thumbnail": "http://thetvdb.com/banners/seasons/290290-1-2.jpg",
+            "tvshowid": 22,
+            "watchedepisodes": 0
+        }
+    ]
+}

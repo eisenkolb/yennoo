@@ -1,0 +1,1709 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+            "poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Dylan McDermott",
+                "order": 0,
+                "role": "Duncan Carlisle",
+                "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+            },
+            {
+                "name": "Toni Collette",
+                "order": 1,
+                "role": "Ellen Sanders",
+                "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+            },
+            {
+                "name": "Rhys Coiro",
+                "order": 2,
+                "role": "Kramer",
+                "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+            },
+            {
+                "name": "Sandrine Holt",
+                "order": 3,
+                "role": "Sandrine",
+                "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+            },
+            {
+                "name": "Tate Donovan",
+                "order": 4,
+                "role": "Brian Sanders",
+                "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+            },
+            {
+                "name": "James Naughton",
+                "order": 5,
+                "role": "President Kincaid",
+                "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+            },
+            {
+                "name": "Quinn Shephard",
+                "order": 6,
+                "role": "Morgan Sanders",
+                "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+            },
+            {
+                "name": "Mateus Ward",
+                "order": 7,
+                "role": "Jake Sanders",
+                "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+            },
+            {
+                "name": "Billy Brown",
+                "order": 8,
+                "role": "Archer",
+                "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+            },
+            {
+                "name": "Hilarie Burton",
+                "order": 18,
+                "role": "Samantha"
+            }
+        ],
+        "dateadded": "2015-05-31 19:24:14",
+        "episode": 15,
+        "episodeguide": "<episodeguide><url cache=\"269642-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/269642/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/",
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "imdbnumber": "269642",
+        "label": "Hostages",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "A high-octane suspense drama that centers on Dr. Ellen Sanders, a premier surgeon thrust into a chilling political conspiracy when she and her family are held captive in their home by rogue FBI Agent Duncan Carlisle, a desperate man doing the wrong thing for the right reasons, who orders Dr. Sanders to assassinate the President when she operates on him.",
+        "premiered": "2013-09-23",
+        "rating": 6.699999809265137,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "CBS"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/269642-1.jpg",
+        "title": "Hostages",
+        "tvshowid": 45,
+        "votes": "13",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4570030.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2014-08-06 21:12:57",
+                "director": [
+                    "Jeffrey Nachmanoff"
+                ],
+                "episode": 1,
+                "episodeid": 786,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E01.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "firstaired": "2013-09-23",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After Dr. Ellen Sanders, a prominent Washington D.C. surgeon, is handpicked to operate on the President of the United States, rogue FBI agent Duncan Carlisle and armed intruders suddenly take her and her family hostage. Scared and bewildered, Ellen soon learns the reason: unless she assassinates the President during surgery, her captors will kill them all.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4570030.jpg",
+                "title": "Pilot",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4570030"
+                },
+                "votes": "41",
+                "writer": [
+                    "Jeffrey Nachmanoff"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4644625.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2014-08-06 21:20:35",
+                "director": [
+                    "Jason Ensler"
+                ],
+                "episode": 2,
+                "episodeid": 787,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E02.GERMAN.DUBBED.WEBRiP.XviD.avi",
+                "firstaired": "2013-09-30",
+                "label": "1x02. Invisible Leash",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Duncan promises to kill a member of Ellen's family when she refuses to assassinate the president during surgery. Duncan also informs the family to go about their normal lives for the next two weeks until the commander in chief's operation.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4644625.jpg",
+                "title": "Invisible Leash",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4644625"
+                },
+                "votes": "28",
+                "writer": [
+                    "Rick Eid",
+                    "Jeffrey Nachmanoff"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4644626.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2014-08-07 03:44:54",
+                "director": [
+                    "Henry Bronchtein"
+                ],
+                "episode": 3,
+                "episodeid": 788,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E03.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "firstaired": "2013-10-07",
+                "label": "1x03. Power of Persuasion",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When the President decides to use another doctor for his surgery, Ellen is threatened by Duncan to make him change his mind. Also, Ellen meets Duncan's daughter which could help her get more insight into him.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4644626.jpg",
+                "title": "Power of Persuasion",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4644626"
+                },
+                "votes": "24",
+                "writer": [
+                    "Rick Eid",
+                    "Jeffrey Nachmanoff"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4660827.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2014-08-07 03:46:10",
+                "director": [
+                    "Russell Lee Fine"
+                ],
+                "episode": 4,
+                "episodeid": 789,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E04.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "firstaired": "2013-10-14",
+                "label": "1x04. 2:45 PM",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ellen and Brian devise a plan with their kids to escape from Duncan. Meanwhile, Duncan's wife tells him that she wants to discontinue her treatment and spend her time with her husband and daughter.",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4660827.jpg",
+                "title": "2:45 PM",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4660827"
+                },
+                "votes": "24",
+                "writer": [
+                    "Aron Eli Coleite"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4660828.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2014-08-16 19:16:40",
+                "director": [
+                    "Karen Gaviola"
+                ],
+                "episode": 5,
+                "episodeid": 790,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E05.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "firstaired": "2013-10-21",
+                "label": "1x05. Truth and Consequences",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ellen has to make another life-changing choice when she performs emergency surgery in her own home. Meanwhile, Duncan demands answers when Archer tells him that an innocent person in their plan has become a victim.",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4660828.jpg",
+                "title": "Truth and Consequences",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4660828"
+                },
+                "votes": "27",
+                "writer": [
+                    "Jennifer Cecil"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4660829.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2014-08-16 19:24:16",
+                "director": [
+                    "David Von Ancken"
+                ],
+                "episode": 6,
+                "episodeid": 791,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E06.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "firstaired": "2013-10-28",
+                "label": "1x06. Sister's Keeper",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Ellen's sister, Lauren, shows up unexpectedly at their house intending to stay, Duncan forces Ellen to get rid of her without making it look suspicious. Meanwhile, when the secret service calls Ellen in for questioning again, she must play it cool when Duncan is there to help do the questioning.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4660829.jpg",
+                "title": "Sister's Keeper",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4660829"
+                },
+                "votes": "27",
+                "writer": [
+                    "Jennifer Schuur"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4690051.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2014-08-16 19:18:03",
+                "director": [
+                    "Matt Earl Beesley"
+                ],
+                "episode": 7,
+                "episodeid": 792,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E07.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "firstaired": "2013-11-04",
+                "label": "1x07. Hail Mary",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ellen and Brian agree that they need to take down Duncan to have any chance of escaping, so she sneaks away to see a man who has previously helped her solve problems. However, unbeknownst to her, this man has ties to Duncan. Meanwhile, Archer's accomplice plans to reveal to the Assistant District Attorney information about a murder Archer committed.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4690051.jpg",
+                "title": "Hail Mary",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4690051"
+                },
+                "votes": "25",
+                "writer": [
+                    "Rick Eid",
+                    "Alon Aranya"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4695966.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2014-08-16 19:17:05",
+                "director": [
+                    "S.J. Clarkson"
+                ],
+                "episode": 8,
+                "episodeid": 793,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E08.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "firstaired": "2013-11-11",
+                "label": "1x08. The Good Reason",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ellen must decide whether to save Duncan’s life, and later decides to confront his wife. Meanwhile, Creasy meets with Vanessa and Colonel Blair after the President informs them that he wants to expose the details of Operation Total Information, a government surveillance program that allowed intelligence agencies to spy on U.S. citizens.",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4695966.jpg",
+                "title": "The Good Reason",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4695966"
+                },
+                "votes": "24",
+                "writer": [
+                    "Cassie Pappas"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4702132.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2014-08-16 19:17:25",
+                "director": [
+                    "Henry Bronchtein"
+                ],
+                "episode": 9,
+                "episodeid": 794,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E09.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "firstaired": "2013-11-18",
+                "label": "1x09. Loose Ends",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When investigators get closer to discovering the conspiracy to kill the President, Duncan is ordered to get rid of an insider by someone very connected to the plot. Meanwhile, Duncan takes the next step in his master plan and gives Ellen the poison she’s to use to kill the President.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4702132.jpg",
+                "title": "Loose Ends",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4702132"
+                },
+                "votes": "26",
+                "writer": [
+                    "Rick Eid",
+                    "Jeffrey Nachmanoff"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4705390.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2014-08-16 19:17:52",
+                "director": [],
+                "episode": 10,
+                "episodeid": 795,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E10.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "firstaired": "2013-11-25",
+                "label": "1x10. Burden Of Truth",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After a member of the President's staff is murdered, Ellen urges Duncan to back out of the assassination plot, while other members of the President's staff take matters into their own hands. Meanwhile, after scouring Nina's medical records, Ellen finds someone who might be a viable bone marrow donor.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4705390.jpg",
+                "title": "Burden Of Truth",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4705390"
+                },
+                "votes": "18",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4705391.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2015-05-31 17:18:42",
+                "director": [],
+                "episode": 11,
+                "episodeid": 796,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E11.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
+                "firstaired": "2013-12-02",
+                "label": "1x11. Off The Record",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Duncan locks the Sanders family in a room for the day while he and his team head to New York City to eliminate the sniper team targeting President Kincaid. Meanwhile, Duncan's mother-in-law tells Burton she wants to expose the President.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4705391.jpg",
+                "title": "Off The Record",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4705391"
+                },
+                "votes": "22",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4718189.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2015-05-31 19:15:45",
+                "director": [],
+                "episode": 12,
+                "episodeid": 797,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E12.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
+                "firstaired": "2013-12-09",
+                "label": "1x12. The Cost Of Living",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Brian goes to the police to expose Duncan and his team, he decides against telling the truth after Burton shows up and shows him evidence of Ellen and Duncan getting close. Meanwhile, Duncan's trip to New York City puts a snag in the plans to take out the President.",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4718189.jpg",
+                "title": "The Cost Of Living",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4718189"
+                },
+                "votes": "21",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4719636.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2015-05-31 18:00:26",
+                "director": [],
+                "episode": 13,
+                "episodeid": 798,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E13.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
+                "firstaired": "2013-12-16",
+                "label": "1x13. Fight Or Flight",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ellen reveals to Duncan that she will not kill the President but will help him get what he needs, as long as he gives her something in return. Meanwhile, Nina finds out about Duncan's plan and flees the hospital.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4719636.jpg",
+                "title": "Fight Or Flight",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4719636"
+                },
+                "votes": "21",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4728702.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2015-05-31 18:23:59",
+                "director": [],
+                "episode": 14,
+                "episodeid": 799,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E14.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
+                "firstaired": "2014-01-06",
+                "label": "1x14. Suspicious Minds",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After Duncan discovers Sandrine's betrayal, he decides to use her to save Nina and Sawyer. Also, just before Ellen is to operate on the President, the First Lady confronts her and forces Ellen to tell the truth about the assassination plot.",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4728702.jpg",
+                "title": "Suspicious Minds",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4728702"
+                },
+                "votes": "18",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269642/4731167.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dylan McDermott",
+                        "order": 0,
+                        "role": "Duncan Carlisle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                    },
+                    {
+                        "name": "Toni Collette",
+                        "order": 1,
+                        "role": "Ellen Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317636.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 2,
+                        "role": "Kramer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 3,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                    },
+                    {
+                        "name": "Tate Donovan",
+                        "order": 4,
+                        "role": "Brian Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317641.jpg"
+                    },
+                    {
+                        "name": "James Naughton",
+                        "order": 5,
+                        "role": "President Kincaid",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317640.jpg"
+                    },
+                    {
+                        "name": "Quinn Shephard",
+                        "order": 6,
+                        "role": "Morgan Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317639.jpg"
+                    },
+                    {
+                        "name": "Mateus Ward",
+                        "order": 7,
+                        "role": "Jake Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317638.jpg"
+                    },
+                    {
+                        "name": "Billy Brown",
+                        "order": 8,
+                        "role": "Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                    },
+                    {
+                        "name": "Hilarie Burton",
+                        "order": 18,
+                        "role": "Samantha"
+                    }
+                ],
+                "dateadded": "2015-05-31 19:24:14",
+                "director": [],
+                "episode": 15,
+                "episodeid": 800,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E15.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
+                "firstaired": "2014-01-06",
+                "label": "1x15. Endgame",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "It’s the day of the President’s surgery and the various plots are in motion. Just before the surgery begins, Ellen is cornered by the First Lady, who finally sees through Ellen’s lies about her husband’s condition and forces her to tell the truth about the assassination plot. Ellen spills the secrets Kincaid has been keeping from his wife and she agrees to help get the bone marrow out of the hospital. Blair’s squad of hired terrorists move into position after passing themselves off as Secret Service agents, and they launch their diversionary attack just after Ellen nicks an artery during surgery. Once Ellen is alone with the President and Logan, she gives Logan a sedative, extracts the bone marrow, and prevents the President from bleeding out on the operating table. Once the terrorist threat is subdued, Ellen takes the bone marrow to Nina, who accepts it and apologizes for everything Duncan did to her family. Meanwhile, Duncan schemes with Vanessa to outwit Blair and free his family. He corners Blair at gunpoint at a fundraising banquet and demands that Blair’s men release Nina and Sawyer. Once they’ve been released, Blair lashes out, forcing Duncan to shoot and kill him. Duncan then confronts Archer, who has captured the rest of the Sanders family and demands payment for his services. The two battle in a brutal fistfight with Archer coming out on top, but Kramer arrives just in time to save Duncan and kill Archer. Duncan then reunites with Nina and Sawyer briefly, saying goodbye before turning himself in to the police for his actions.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hostages",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269642/4731167.jpg",
+                "title": "Endgame",
+                "tvshowid": 45,
+                "uniqueid": {
+                    "unknown": "4731167"
+                },
+                "votes": "16",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/269642-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/269642-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/269642-1.jpg"
+            },
+            "episode": 15,
+            "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 234,
+            "showtitle": "Hostages",
+            "thumbnail": "http://thetvdb.com/banners/seasons/269642-1-2.jpg",
+            "tvshowid": 45,
+            "watchedepisodes": 0
+        }
+    ]
+}

@@ -1,0 +1,4299 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+            "poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+        },
+        "cast": [
+            {
+                "name": "Mads Mikkelsen",
+                "order": 0,
+                "role": "Dr. Hannibal Lecter",
+                "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+            },
+            {
+                "name": "Hugh Dancy",
+                "order": 1,
+                "role": "Will Graham",
+                "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+            },
+            {
+                "name": "Caroline Dhavernas",
+                "order": 2,
+                "role": "Dr. Alana Bloom",
+                "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+            },
+            {
+                "name": "Laurence Fishburne",
+                "order": 3,
+                "role": "Agent Jack Crawford",
+                "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+            },
+            {
+                "name": "Lara Jean Chorostecki",
+                "order": 4,
+                "role": "Freddie Lounds",
+                "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+            },
+            {
+                "name": "Aaron Abrams",
+                "order": 5,
+                "role": "Brian Zeller",
+                "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+            },
+            {
+                "name": "Scott Thompson",
+                "order": 6,
+                "role": "Jimmy Price",
+                "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+            },
+            {
+                "name": "Gillian Anderson",
+                "order": 7,
+                "role": "Dr. Bedelia Du Maurier",
+                "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+            },
+            {
+                "name": "Tao Okamoto",
+                "order": 8,
+                "role": "Chiyoh",
+                "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+            },
+            {
+                "name": "Michael Pitt",
+                "order": 9,
+                "role": "Mason Verger",
+                "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+            },
+            {
+                "name": "Katharine Isabelle",
+                "order": 10,
+                "role": "Margot Verger",
+                "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+            },
+            {
+                "name": "Anna Chlumsky",
+                "order": 11,
+                "role": "Miriam Lass",
+                "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+            },
+            {
+                "name": "Eddie Izzard",
+                "order": 12,
+                "role": "Dr. Abel Gideon",
+                "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+            },
+            {
+                "name": "Raúl Esparza",
+                "order": 13,
+                "role": "Dr. Frederick Chilton",
+                "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+            },
+            {
+                "name": "Vladimir Jon Cubrt",
+                "order": 14,
+                "role": "Garret Jacob Hobbs",
+                "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+            },
+            {
+                "name": "Kacey Rohl",
+                "order": 15,
+                "role": "Abigail Hobbs",
+                "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+            },
+            {
+                "name": "Hettienne Park",
+                "order": 16,
+                "role": "Beverly Katz",
+                "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+            }
+        ],
+        "dateadded": "2015-02-16 22:43:37",
+        "episode": 26,
+        "episodeguide": "<episodeguide><url cache=\"259063-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/259063/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Horror"
+        ],
+        "imdbnumber": "259063",
+        "label": "Hannibal",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Both a gift and a curse, Will Graham has the extraordinary ability to think like his prey—he sees what they see, feels what they feel. But while Graham is pursuing an especially troubling, cannibalistic murderer, Special Agent Jack Crawford teams him with a highly respected psychiatrist – a man with a taste for the criminal minded – Dr. Hannibal Lecter.",
+        "premiered": "2013-04-04",
+        "rating": 8.600000381469727,
+        "season": 2,
+        "sorttitle": "",
+        "studio": [
+            "NBC"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/259063-17.jpg",
+        "title": "Hannibal",
+        "tvshowid": 36,
+        "votes": "111",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4333901.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Scott Thompson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Dan Fogler",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2013-08-31 23:42:02",
+                "director": [
+                    "Michael Rymer"
+                ],
+                "episode": 1,
+                "episodeid": 581,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E01.Aperitif.GERMAN.DUBBED.WS.WEBRip.ViR.mp4",
+                "firstaired": "2013-04-04",
+                "label": "1x01. Apéritif",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When the FBI takes on a case of disappearing college girls, Jack Crawford recruits Will Graham, a gifted criminal profiler with a unique view into the psyche of serial killers, to consult along with a brilliant psychiatrist — Dr. Hannibal Lecter.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4333901.jpg",
+                "title": "Apéritif",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4333901"
+                },
+                "votes": "124",
+                "writer": [
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4515450.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Scott Thompson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Aidan Devine",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2013-08-31 23:43:14",
+                "director": [
+                    "Michael Rymer"
+                ],
+                "episode": 2,
+                "episodeid": 582,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E02.Pilze.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "firstaired": "2013-04-11",
+                "label": "1x02. Amuse-Bouche",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Will Graham, now an official special investigator with the FBI, helps Jack Crawford and the BAU unit search for a murderer who buries his victims alive to use as fertilizer. Tabloid journalist, Freddie Lounds, sets her sights on Will.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4515450.jpg",
+                "title": "Amuse-Bouche",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4515450"
+                },
+                "votes": "107",
+                "writer": [
+                    "Jim Danger Gray"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4517952.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Mark Rendall",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Vladimir Cubrt",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-16 22:43:37",
+                "director": [
+                    "David Slade"
+                ],
+                "episode": 3,
+                "episodeid": 583,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E03.Hirschgeweih.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2013-04-18",
+                "label": "1x03. Potage",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Determined to give Abigail closure after waking up from her coma, Will and Hannibal take her back to the scene of her father's crimes.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4517952.jpg",
+                "title": "Potage",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4517952"
+                },
+                "votes": "104",
+                "writer": [
+                    "David Fury",
+                    "Chris Brancato",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4561500.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Scott Thompson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Molly Shannon",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/11Ade9QKtTSwUeRNH9cVCWoaeQj.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-01 01:32:12",
+                "director": [
+                    "Peter Medak"
+                ],
+                "episode": 4,
+                "episodeid": 584,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E04.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2013-04-24",
+                "label": "1x04. Œuf",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A string of family murders takes place and Will determines they were conducted by each of the families' missing children, who were abducted and brainwashed into killing their old families for their sinister \"new family.\" Against Alana's recommendation, Hannibal checks Abigail out of the hospital for some frightening psychiatric practices that ultimately align her loyalty with him.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4561500.jpg",
+                "title": "Œuf",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4561500"
+                },
+                "votes": "83",
+                "writer": [
+                    "Jennifer Schuur"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4517953.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Scott Thompson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-01 11:57:15",
+                "director": [
+                    "Guillermo Navarro"
+                ],
+                "episode": 5,
+                "episodeid": 585,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E05.Coquilles.GERMAN.DUBBED.BDRip.x264-TVP.mkv",
+                "firstaired": "2013-04-25",
+                "label": "1x05. Coquilles",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Will Graham and the BAU team track a serial killer whose bloody ritual includes cutting the victims' back flesh and stretching it to look like angel wings. Returning to the field weighs heavily on Will's psyche and Hannibal tries to drive a wedge between Will and Jack. Meanwhile, Jack Crawford's wife Bella pulls away from him and begins seeing Hannibal as her therapist, in an effort to come to terms with the fact she is dying. Beverly tries to connect with Will on a more personal level.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4517953.jpg",
+                "title": "Coquilles",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4517953"
+                },
+                "votes": "81",
+                "writer": [
+                    "Scott Nimerfro",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4517955.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-01 11:57:45",
+                "director": [
+                    "Michael Rymer"
+                ],
+                "episode": 6,
+                "episodeid": 586,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E06.Entree.GERMAN.DUBBED.BDRip.x264-TVP.mkv",
+                "firstaired": "2013-05-02",
+                "label": "1x06. Entrée",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jack and Alana are contacted by a former colleague, Dr. Chilton, who believes he has The Chesapeake Ripper in custody, but then one of his patients commits a murder that matches The Ripper's profile. The team determines the Ripper was a surgeon and is still at large when Jack's former protege Miriam becomes the next victim. Jack copes with her loss and the prospect of losing his wife by opening-up to Hannibal.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4517955.jpg",
+                "title": "Entrée",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4517955"
+                },
+                "votes": "77",
+                "writer": [
+                    "Kai Yu Wu",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4517956.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Dan Fogler",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ellen Greene",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-01 12:15:41",
+                "director": [
+                    "James Foley"
+                ],
+                "episode": 7,
+                "episodeid": 587,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E07.Sorbet.GERMAN.DUBBED.WS.BDRip.x264-TVP.mp4",
+                "firstaired": "2013-05-09",
+                "label": "1x07. Sorbet",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When the BAU investigates a murder involving organ removal Jack believes that the Chesapeake Ripper may have resurfaced, but Will determines that the victim's murder is the result of illegal organ harvesting accident. Meanwhile, Will suffers from nightmares where he is Abigail's father, and Hannibal slowly starts to seduce Alana Bloom and begins to visit his own therapist, Dr. Bedelia Du Maurier.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4517956.jpg",
+                "title": "Sorbet",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4517956"
+                },
+                "votes": "78",
+                "writer": [
+                    "Jesse Alexander",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4520365.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Dan Fogler",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-13 23:53:02",
+                "director": [
+                    "Tim Hunter"
+                ],
+                "episode": 8,
+                "episodeid": 588,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E08.Dunkler.Klang.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
+                "firstaired": "2013-05-16",
+                "label": "1x08. Fromage",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The BAU investigates a murder in which the killer exposes the victim's vocal cords to literally play them like a cello. Meanwhile, Hannibal discovers that the killer, Tobias, murdered the victim as an attempt to gain Hannibal's attention but then makes an attempt to take Lecter's life. Will is driven to distraction by strange noises in his head and turns to Alana, in a romantic way, seeking peace and stability. Hannibal describes his relationship with Will to his therapist, Dr. Bedilia Du Maurier.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4520365.jpg",
+                "title": "Fromage",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4520365"
+                },
+                "votes": "70",
+                "writer": [
+                    "Jennifer Schuur",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4520366.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Scott Thompson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Lance Henriksen",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Rendall",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vladimir Cubrt",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-13 23:54:17",
+                "director": [
+                    "Guillermo Navarro"
+                ],
+                "episode": 9,
+                "episodeid": 589,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E09.Vermaechtnis.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
+                "firstaired": "2013-05-23",
+                "label": "1x09. Trou Normand",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The BAU team hunts a serial killer who digs up his victims, creating a totem pole of their bodies as a macabre trophy. When Nick Boyle's body is found, Jack and Alana question Abigail about his death. The resurrection of Nick's body enlightens Will to some of Abigail's secrets and Hannibal convinces Will to keep some of his own. Attempting to assert independence, Abigail agrees to write a book with Freddy Lounds and in the process, reveals her biggest secret to Hannibal.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4520366.jpg",
+                "title": "Trou Normand",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4520366"
+                },
+                "votes": "74",
+                "writer": [
+                    "Steve Lightfoot",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4520367.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Scott Thompson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Ellen Muth",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "John Benjamin Hickey",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-13 23:50:28",
+                "director": [
+                    "John Dahl"
+                ],
+                "episode": 10,
+                "episodeid": 590,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E10.Gesichter.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
+                "firstaired": "2013-05-30",
+                "label": "1x10. Buffet Froid",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The BAU investigates a murder in which two victims' faces are similarly mutilated; given a \"Glasgow Smile.\" For the first time, Will contaminates a crime scene thinking he committed the first murder and an MRI shows he suffers from Advanced Encephalitis. But Hannibal intimidates the attending physician, Dr. Sutcliffe, into telling Will he's okay. Meanwhile, the team doubts Will who says, while revisiting the crime scene alone, he saw a mysterious, \"dead-looking\" woman who may be involved. With his fears fed by Hannibal, Will returns to Dr. Sutcliffe for more mental health tests, when the doctor is murdered.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4520367.jpg",
+                "title": "Buffet Froid",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4520367"
+                },
+                "votes": "72",
+                "writer": [
+                    "Andrew Black",
+                    "Chris Brancato",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4520368.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-14 00:24:53",
+                "director": [
+                    "Guillermo Navarro"
+                ],
+                "episode": 11,
+                "episodeid": 591,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E11.Roti.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
+                "firstaired": "2013-06-06",
+                "label": "1x11. Rôti",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Dr. Gideon escapes from police custody, he seeks to kill psychiatrists who have profiled him. Will and the BAU team try to track him down by following Freddie Lounds' blog before Gideon can get to Alana. Hannibal misleads the BAU team in order to put Will in the same room as Gideon, and Jack questions Dr. Chilton regarding Gideon's escape.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4520368.jpg",
+                "title": "Rôti",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4520368"
+                },
+                "votes": "70",
+                "writer": [
+                    "Steve Lightfoot",
+                    "Bryan Fuller",
+                    "Scott Nimerfro"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4520369.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Ellen Muth",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-14 00:16:27",
+                "director": [
+                    "Michael Rymer"
+                ],
+                "episode": 12,
+                "episodeid": 592,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E12.Releves.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
+                "firstaired": "2013-06-13",
+                "label": "1x12. Relevés",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After Georgia Madchen dies in an explosion, Will asserts that the copy cat killer is still alive. The BAU team links Abigail to the Minnesota Shrike victims and plan to arrest her only to find Will has checked her out of the hospital. Will's hallucinations intensify, causing him to lose Abigail in Minnesota. Meanwhile, Hannibal's subtle manipulation convinces Jack that Will is capable of murder. Hannibal makes an astonishing admission to Abigail.",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4520369.jpg",
+                "title": "Relevés",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4520369"
+                },
+                "votes": "73",
+                "writer": [
+                    "Chris Brancato",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4520370.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-14 00:02:22",
+                "director": [
+                    "David Slade"
+                ],
+                "episode": 13,
+                "episodeid": 593,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E13.Savoureux.GERMAN.DUBBED.WS.BDRip.x264.REPACK-TVP.mkv",
+                "firstaired": "2013-06-20",
+                "label": "1x13. Savoureux",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Will returns from Minnesota without Abigail, Hannibal turns Will in and Jack and the BAU team find strong evidence of Will having killed not only Abigail but additional evidence points to all the murders of the Copy Cat Killer. Jack and Alana begin to accept that Will is indeed capable of murder. Will is arrested and in a desperate attempt to escape, breaks his own thumb to slip the handcuffs and frees himself. Will takes Hannibal back to Minnesota to clear his name and to prove Hannibal's guilt. But before he can, the situation takes another ugly and unexpected turn.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4520370.jpg",
+                "title": "Savoureux",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4520370"
+                },
+                "votes": "69",
+                "writer": [
+                    "Steve Lightfoot",
+                    "Bryan Fuller",
+                    "Scott Nimerfro"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4653574.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Cynthia Nixon",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-07-27 14:36:56",
+                "director": [
+                    "Tim Hunter"
+                ],
+                "episode": 1,
+                "episodeid": 594,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E01.Farbtoene.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-02-28",
+                "label": "2x01. Kaiseki",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Will is determined to fight for his innocence as Hannibal and Jack try to wrap their heads around the fact he's behind bars. Meanwhile, Alana faces a strained relationship with Will while Kade Purnell with the FBI pays him a visit.",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4653574.jpg",
+                "title": "Kaiseki",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4653574"
+                },
+                "votes": "48",
+                "writer": [
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4748756.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Cynthia Nixon",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Martin Donovan",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307276.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-07-27 14:37:01",
+                "director": [
+                    "Tim Hunter"
+                ],
+                "episode": 2,
+                "episodeid": 595,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E02.Maisstaub.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-03-07",
+                "label": "2x02. Sakizuke",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The case of the human soup becomes clearer when a victim that has escaped from the killer's clutches washes downstream after a deadly fall, leaving valuable evidence for the BAU team to uncover. Hannibal Lecter assists on the case, sniffing out clues of his own from of the victim's body. Meanwhile, Will Graham begins a plan of manipulation from within the asylum, set on proving his own innocence. Jack tries to deal with his guilt over not protecting Will and submits to mandated therapy after Alana Bloom's scathing report. Awaiting his upcoming trial, Will is surprised by an unexpected guest - Bedelia du Maurier - who gives him a much-needed boost to his psyche.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4748756.jpg",
+                "title": "Sakizuke",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4748756"
+                },
+                "votes": "48",
+                "writer": [
+                    "Jeff Vlaming",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4772307.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Cynthia Nixon",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Maria del Mar",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Shawn Doyle",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Barry Flatman",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-07-27 14:28:28",
+                "director": [
+                    "Peter Medak"
+                ],
+                "episode": 3,
+                "episodeid": 596,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E03.Kein.Ende.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-03-14",
+                "label": "2x03. Hassun",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Will Graham's trial begins and he must watch as those closest to him are forced to take sides. Jack Crawford scathing report about his conduct with Will, is pulled in conflicting directions. He acknowledges that he may be partially to blame for pushing his star pupil over the edge. To add confusion to an already suspenseful trial, a court bailiff is killed in a Copycat-like manner and those closest to Will start to wonder if they were wrong about him. The outcome of the entire trial hangs in the balance as one last key victim is served up.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4772307.jpg",
+                "title": "Hassun",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4772307"
+                },
+                "votes": "45",
+                "writer": [
+                    "Jason Grote",
+                    "Steve Lightfoot"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4772308.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Amanda Plummer",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uICpVUj29yBcwCEGVZzE77FL98W.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-07-27 14:30:56",
+                "director": [
+                    "David Semel"
+                ],
+                "episode": 4,
+                "episodeid": 597,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E04.Honig.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-03-21",
+                "label": "2x04. Takiawase",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A killer murders their victim and converts the cranial cavity into a beehive, leaving the corpse for the authorities. Meanwhile, Beverly secretly consults with Will to figure out who the mural killer is, and Will insists that Hannibal is both the Chesapeake Ripper and the Copycat Killer.",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4772308.jpg",
+                "title": "Takiawase",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4772308"
+                },
+                "votes": "41",
+                "writer": [
+                    "Scott Nimerfro",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4772309.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Jonathan Tucker",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-07-27 14:32:01",
+                "director": [
+                    "Michael Rymer"
+                ],
+                "episode": 5,
+                "episodeid": 598,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E05.Pupillen.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-03-28",
+                "label": "2x05. Mukōzuke",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When one of the team's own is found in a grotesque tableau, Will volunteers to assist with the profile and informs Jack that it's the work of the Chesapeake Ripper and the Copycat Killer, the two are one and the same. Dr. Able Gideon is brought back to the asylum to help confirm Will's claims of the Ripper's true identity, but instead suggests to Will the idea of putting an end to the Ripper once and for all. Confined behind bars, Will enlists the help of Freddie Lounds to contact his murderous admirer through her website.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4772309.jpg",
+                "title": "Mukōzuke",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4772309"
+                },
+                "votes": "42",
+                "writer": [
+                    "Ayanna A.Floyd",
+                    "Steve Lightfoot",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4772310.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-08-03 16:32:06",
+                "director": [
+                    "Tim Hunter"
+                ],
+                "episode": 6,
+                "episodeid": 599,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E06.Suite.fuer.Cembalo.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-04-04",
+                "label": "2x06. Futamono",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a city councilman's body is found in a parking lot, intertwined with a tree, the artistry and missing organs suggest the work of the Chesapeake Ripper. Jack and the team race against time to catch the Ripper while he's still on his killing spree. When Will suggests the possibility that the Ripper is filling his pantry with the victims' organs, Jack crashes Hannibal Lecter's dinner party to collect evidence and test the meat for human DNA. Jack's growing suspicions drive Alana even closer to Hannibal, believing he is the victim of a witch hunt. Meanwhile, clues from the tree man help the BAU zero in on a location they believe the Ripper used.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4772310.jpg",
+                "title": "Futamono",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4772310"
+                },
+                "votes": "48",
+                "writer": [
+                    "Andy Black"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4772311.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-08-03 16:28:13",
+                "director": [
+                    "Michael Rymer"
+                ],
+                "episode": 7,
+                "episodeid": 600,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E07.Theater.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-04-11",
+                "label": "2x07. Yakimono",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Jack Crawford’s star pupil Miriam Lass is found alive, she becomes the FBI’s best hope to identifying the Chesapeake Ripper, but her foggy memory complicates the search. Evidence found at the site of Miriam’s rescue exonerates Will Graham of any involvement in the Ripper and Copycat cases, and he is released from the asylum. Will warns Dr. Chilton that he could be in danger due to his intimate knowledge of the Ripper case, but when Chilton tries to confide in Jack that he shares Will’s fears about Hannibal, he is rebuffed — no evidence has been found against Hannibal, despite the FBI’s efforts. Meanwhile, Jack wastes no time in reinstating Will on the BAU team as they hunt for the Ripper.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4772311.jpg",
+                "title": "Yakimono",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4772311"
+                },
+                "votes": "48",
+                "writer": [
+                    "Steve Lightfoot",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4772312.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Chris Diamantopoulos",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137211.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-08-16 18:38:11",
+                "director": [
+                    "Vincenzo Natali"
+                ],
+                "episode": 8,
+                "episodeid": 601,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E08.Pferde.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-04-18",
+                "label": "2x08. Su-zakana",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a young woman's body is discovered inside of a horse, Hannibal suggests to Jack that Will be brought in to help crack this peculiar case. Will has seemingly cast aside his suspicions of Hannibal, resuming their doctor-patient relationship, but Alana remains skeptical regarding Will's true intentions and worries that Hannibal may still be in danger. The FBI questions the man they suspect to be the killer in their case, but lack of evidence forces them to let him go. Will and Hannibal race to guard the safety of a witness they believe is in jeopardy, but it might be Will's own judgment that is in peril.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4772312.jpg",
+                "title": "Su-zakana",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4772312"
+                },
+                "votes": "43",
+                "writer": [
+                    "Scott Nimerfro"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4772306.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Jeremy Davies",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78474.jpg"
+                    },
+                    {
+                        "name": "Chris Diamantopoulos",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137211.jpg"
+                    },
+                    {
+                        "name": "Mark O'Brien",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-08-16 18:39:36",
+                "director": [
+                    "Michael Rhymer"
+                ],
+                "episode": 9,
+                "episodeid": 602,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E09.Raubtier.Mensch.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-04-25",
+                "label": "2x09. Shiizakana",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The FBI is called in to investigate the discovery of a truck driver's body, seemingly torn apart by two separate species of animal working in tandem, neither of which consumed their kill. After one of his therapy sessions, Will meets Hannibal's strange new patient, Margot Verger. Will and Margot compare notes on Hannibal and his unconventional advice. Continually encouraging his patients to revel in what they are, Hannibal aims to determine Will's true self by sending him a test, the results of which surprise even Hannibal.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4772306.jpg",
+                "title": "Shiizakana",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4772306"
+                },
+                "votes": "42",
+                "writer": [
+                    "Jeff Vlaming"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4795921.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Michael Pitt",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Mark O'Brien",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-08-16 18:41:06",
+                "director": [
+                    "Vincenzo Natali"
+                ],
+                "episode": 10,
+                "episodeid": 603,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E10.Hoehere.Gewalt.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-05-02",
+                "label": "2x10. Naka-Choko",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The bond between Hannibal and Will grows after Will demonstrates his willingness to go to dark places, a shift that does not go unnoticed by Jack. Jack and the FBI team investigate a tableau made of Randal Tier and his animal exoskeleton, fully realized as the vicious hunter he yearned to be.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4795921.jpg",
+                "title": "Naka-Choko",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4795921"
+                },
+                "votes": "37",
+                "writer": [
+                    "Steve Lightfoot"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4795922.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Michael Pitt",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-08-16 18:37:24",
+                "director": [
+                    "David Slade"
+                ],
+                "episode": 11,
+                "episodeid": 604,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E11.Wangenrot.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-05-09",
+                "label": "2x11. Kō No Mono",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The truth of Freddie Lounds’ disappearance is discovered by Jack and his team. Alana expresses her concern over Will’s mental state, but he confuses her fears by encouraging her to arm and protect herself. Mason Verger suspects that his sister, Margot, is plotting to usurp him by getting pregnant with an heir. Hannibal reveals to Will how much Abigail reminded him of his sister, making it even harder for Will to understand why she had to die.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4795922.jpg",
+                "title": "Kō No Mono",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4795922"
+                },
+                "votes": "43",
+                "writer": [
+                    "Jeff Vlaming",
+                    "Andy Black",
+                    "Bryan Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4810880.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Michael Pitt",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 4,
+                        "role": "Freddie Lounds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-08-24 16:57:56",
+                "director": [
+                    "Michael Rymer"
+                ],
+                "episode": 12,
+                "episodeid": 605,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E12.Hundefutter.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-05-16",
+                "label": "2x12. Tome-wan",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In a therapy session, Will imagines how he would kill Hannibal, honestly sharing his visions, and oddly bolstering their co-dependency. Later, in a session with Mason Verger, Hannibal discusses Margot’s unfortunate “accident” and other veiled threats. Jack grows impatient with Will’s progress on catching Hannibal, and brings in a surprise witness from the past to help. And when Hannibal’s life is threatened, Will must decide whether to come to his aid, and give Hannibal the opportunity for revenge.",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4810880.jpg",
+                "title": "Tome-wan",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4810880"
+                },
+                "votes": "40",
+                "writer": [
+                    "Chris Brancato",
+                    "Bryan Fuller",
+                    "Scott Nimerfro"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259063/4810881.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Cynthia Nixon",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Lara Jean Chorostecki",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313380.jpg"
+                    },
+                    {
+                        "name": "Mads Mikkelsen",
+                        "order": 0,
+                        "role": "Dr. Hannibal Lecter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                    },
+                    {
+                        "name": "Hugh Dancy",
+                        "order": 1,
+                        "role": "Will Graham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299151.jpg"
+                    },
+                    {
+                        "name": "Caroline Dhavernas",
+                        "order": 2,
+                        "role": "Dr. Alana Bloom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309202.jpg"
+                    },
+                    {
+                        "name": "Laurence Fishburne",
+                        "order": 3,
+                        "role": "Agent Jack Crawford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                    },
+                    {
+                        "name": "Aaron Abrams",
+                        "order": 5,
+                        "role": "Brian Zeller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                    },
+                    {
+                        "name": "Scott Thompson",
+                        "order": 6,
+                        "role": "Jimmy Price",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309203.jpg"
+                    },
+                    {
+                        "name": "Gillian Anderson",
+                        "order": 7,
+                        "role": "Dr. Bedelia Du Maurier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                    },
+                    {
+                        "name": "Tao Okamoto",
+                        "order": 8,
+                        "role": "Chiyoh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350811.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 9,
+                        "role": "Mason Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Katharine Isabelle",
+                        "order": 10,
+                        "role": "Margot Verger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331314.jpg"
+                    },
+                    {
+                        "name": "Anna Chlumsky",
+                        "order": 11,
+                        "role": "Miriam Lass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331312.jpg"
+                    },
+                    {
+                        "name": "Eddie Izzard",
+                        "order": 12,
+                        "role": "Dr. Abel Gideon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                    },
+                    {
+                        "name": "Raúl Esparza",
+                        "order": 13,
+                        "role": "Dr. Frederick Chilton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331310.jpg"
+                    },
+                    {
+                        "name": "Vladimir Jon Cubrt",
+                        "order": 14,
+                        "role": "Garret Jacob Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331309.jpg"
+                    },
+                    {
+                        "name": "Kacey Rohl",
+                        "order": 15,
+                        "role": "Abigail Hobbs",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313379.jpg"
+                    },
+                    {
+                        "name": "Hettienne Park",
+                        "order": 16,
+                        "role": "Beverly Katz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309204.jpg"
+                    }
+                ],
+                "dateadded": "2014-08-24 16:58:53",
+                "director": [
+                    "David Slade"
+                ],
+                "episode": 13,
+                "episodeid": 606,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E13.Vergebung.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2014-05-23",
+                "label": "2x13. Mizumono",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Hannibal prepares for his imminent departure with, he believes, Will. Will prepares for a departure of another sort, tying up loose ends, not sure if he’ll survive the trap he’s set for Hannibal. Both men feel that Jack deserves the truth, but what is that truth? Loyalties will be tested and forgiveness will be asked… and the inevitable battle between Hannibal and Jack is upon them.",
+                "productioncode": "",
+                "rating": 8.399999618530273,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Hannibal",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259063/4810881.jpg",
+                "title": "Mizumono",
+                "tvshowid": 36,
+                "uniqueid": {
+                    "unknown": "4810881"
+                },
+                "votes": "39",
+                "writer": [
+                    "Steve Lightfoot"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/259063-1-7.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+            },
+            "episode": 13,
+            "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 188,
+            "showtitle": "Hannibal",
+            "thumbnail": "http://thetvdb.com/banners/seasons/259063-1-7.jpg",
+            "tvshowid": 36,
+            "watchedepisodes": 0
+        },
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/259063-2-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+            },
+            "episode": 13,
+            "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+            "label": "Staffel 2",
+            "playcount": 0,
+            "season": 2,
+            "seasonid": 189,
+            "showtitle": "Hannibal",
+            "thumbnail": "http://thetvdb.com/banners/seasons/259063-2-2.jpg",
+            "tvshowid": 36,
+            "watchedepisodes": 0
+        }
+    ]
+}

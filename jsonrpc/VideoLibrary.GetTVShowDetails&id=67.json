@@ -1,0 +1,217 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/268126-g5.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/268126-2.jpg",
+            "poster": "http://thetvdb.com/banners/posters/268126-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Tyler Blackburn",
+                "order": 0,
+                "role": "Caleb",
+                "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+            },
+            {
+                "name": "Brett Dier",
+                "order": 1,
+                "role": "Luke Matheson",
+                "thumbnail": "http://thetvdb.com/banners/actors/321127.jpg"
+            },
+            {
+                "name": "Merritt Patterson",
+                "order": 2,
+                "role": "Olivia Matheson",
+                "thumbnail": "http://thetvdb.com/banners/actors/321122.jpg"
+            },
+            {
+                "name": "Nicole Gale Anderson",
+                "order": 3,
+                "role": "Miranda Collins",
+                "thumbnail": "http://thetvdb.com/banners/actors/321121.jpg"
+            },
+            {
+                "name": "Britne Oldford",
+                "order": 4,
+                "role": "Remy Beaumont",
+                "thumbnail": "http://thetvdb.com/banners/actors/321120.jpg"
+            },
+            {
+                "name": "Meg Foster",
+                "order": 5,
+                "role": "Carla Grunwald",
+                "thumbnail": "http://thetvdb.com/banners/actors/321125.jpg"
+            },
+            {
+                "name": "Laura Allen",
+                "order": 6,
+                "role": "Rochelle Matheson",
+                "thumbnail": "http://thetvdb.com/banners/actors/321126.jpg"
+            },
+            {
+                "name": "Haley Lu Richardson",
+                "order": 7,
+                "role": "Tess",
+                "thumbnail": "http://thetvdb.com/banners/actors/321124.jpg"
+            },
+            {
+                "name": "Steven Cabral",
+                "order": 8,
+                "role": "Raymond Collins",
+                "thumbnail": "http://thetvdb.com/banners/actors/321123.jpg"
+            }
+        ],
+        "dateadded": "2013-11-09 16:16:40",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"268126-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/268126/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/268126-2.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Ravenswood/",
+        "genre": [
+            "Drama",
+            "Horror"
+        ],
+        "imdbnumber": "268126",
+        "label": "Ravenswood",
+        "lastplayed": "",
+        "mpaa": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Ravenswood is a spin-off of Pretty Little Liars. Ravenswood is a town near Rosewood. The town has been suffering from a curse for generations. Five strangers suddenly feel connected by this fatal curse and feel the need to dig in the town's mysterious and horrible history before it's to late for each one of them.",
+        "premiered": "2013-10-22",
+        "rating": 8.600000381469727,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "ABC Family"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/268126-2.jpg",
+        "title": "Ravenswood",
+        "tvshowid": 67,
+        "votes": "5",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/268126/4533563.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/268126-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268126-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/268126-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Tyler Blackburn",
+                        "order": 0,
+                        "role": "Caleb",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312149.jpg"
+                    },
+                    {
+                        "name": "Brett Dier",
+                        "order": 1,
+                        "role": "Luke Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321127.jpg"
+                    },
+                    {
+                        "name": "Merritt Patterson",
+                        "order": 2,
+                        "role": "Olivia Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321122.jpg"
+                    },
+                    {
+                        "name": "Nicole Gale Anderson",
+                        "order": 3,
+                        "role": "Miranda Collins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321121.jpg"
+                    },
+                    {
+                        "name": "Britne Oldford",
+                        "order": 4,
+                        "role": "Remy Beaumont",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321120.jpg"
+                    },
+                    {
+                        "name": "Meg Foster",
+                        "order": 5,
+                        "role": "Carla Grunwald",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321125.jpg"
+                    },
+                    {
+                        "name": "Laura Allen",
+                        "order": 6,
+                        "role": "Rochelle Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321126.jpg"
+                    },
+                    {
+                        "name": "Haley Lu Richardson",
+                        "order": 7,
+                        "role": "Tess",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321124.jpg"
+                    },
+                    {
+                        "name": "Steven Cabral",
+                        "order": 8,
+                        "role": "Raymond Collins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321123.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-09 16:16:40",
+                "director": [],
+                "episode": 1,
+                "episodeid": 1251,
+                "fanart": "http://thetvdb.com/banners/fanart/original/268126-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Ravenswood/Season 1/Ravenswood.S01E01.720p.WEB.DL.DD5.1.H.264-KiNGS.mp4",
+                "firstaired": "2013-10-22",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After opting to stay in Ravenswood to help out new pal Miranda, Caleb begins to rethink his decision, especially after he meets Miranda's cold and unwelcoming uncle Raymond. Caleb also has some unpleasant interactions with local resident Luke, who is struggling to deal with a recent family tragedy and its ensuing scandal, which has also swept up his twin sister Olivia.",
+                "productioncode": "",
+                "rating": 8.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Ravenswood",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/268126/4533563.jpg",
+                "title": "Pilot",
+                "tvshowid": 67,
+                "uniqueid": {
+                    "unknown": "4533563"
+                },
+                "votes": "6",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/268126-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/268126-g5.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268126-2.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/268126-2.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/268126-2.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 373,
+            "showtitle": "Ravenswood",
+            "thumbnail": "http://thetvdb.com/banners/seasons/268126-1.jpg",
+            "tvshowid": 67,
+            "watchedepisodes": 0
+        }
+    ]
+}

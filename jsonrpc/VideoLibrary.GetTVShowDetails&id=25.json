@@ -1,0 +1,265 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/88031-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/88031-2.jpg",
+            "poster": "http://thetvdb.com/banners/posters/88031-4.jpg"
+        },
+        "cast": [
+            {
+                "name": "Toshio Furukawa",
+                "order": 0,
+                "role": "Piccolo",
+                "thumbnail": "http://thetvdb.com/banners/actors/136831.jpg"
+            },
+            {
+                "name": "Ryo Horikawa",
+                "order": 1,
+                "role": "Vegeta",
+                "thumbnail": "http://thetvdb.com/banners/actors/136821.jpg"
+            },
+            {
+                "name": "Masako Nozawa",
+                "order": 2,
+                "role": "Son Goku",
+                "thumbnail": "http://thetvdb.com/banners/actors/136811.jpg"
+            },
+            {
+                "name": "Nozawa Masako",
+                "order": 3,
+                "role": "Son Gohan",
+                "thumbnail": "http://thetvdb.com/banners/actors/350970.jpg"
+            },
+            {
+                "name": "Tohru Furuya",
+                "order": 4,
+                "role": "Yamcha",
+                "thumbnail": "http://thetvdb.com/banners/actors/136911.jpg"
+            },
+            {
+                "name": "Mayumi Tanaka",
+                "order": 5,
+                "role": "Kulilin",
+                "thumbnail": "http://thetvdb.com/banners/actors/75893.jpg"
+            },
+            {
+                "name": "Shigeru Chiba",
+                "order": 6,
+                "role": "Raditz",
+                "thumbnail": "http://thetvdb.com/banners/actors/327197.jpg"
+            },
+            {
+                "name": "Hiroko Emori",
+                "order": 7,
+                "role": "Chaozu",
+                "thumbnail": "http://thetvdb.com/banners/actors/327195.jpg"
+            },
+            {
+                "name": "Hikaru Midorikawa",
+                "order": 8,
+                "role": "Tenshinhan",
+                "thumbnail": "http://thetvdb.com/banners/actors/136841.jpg"
+            },
+            {
+                "name": "Ryoichi Tanaka",
+                "order": 9,
+                "role": "Old Kaio-Shin",
+                "thumbnail": "http://thetvdb.com/banners/actors/351930.jpg"
+            },
+            {
+                "name": "Masaharu Satou",
+                "order": 10,
+                "role": "Muten Roshi",
+                "thumbnail": "http://thetvdb.com/banners/actors/350978.jpg"
+            },
+            {
+                "name": "Kōzō Shioya",
+                "order": 11,
+                "role": "Boo",
+                "thumbnail": "http://thetvdb.com/banners/actors/350977.jpg"
+            },
+            {
+                "name": "Shin Aomori",
+                "order": 12,
+                "role": "Kibito",
+                "thumbnail": "http://thetvdb.com/banners/actors/350976.jpg"
+            },
+            {
+                "name": "Yūji Mitsuya",
+                "order": 13,
+                "role": "Kaio Shin/Kibitoshin",
+                "thumbnail": "http://thetvdb.com/banners/actors/350975.jpg"
+            },
+            {
+                "name": "Shino Kakinuma",
+                "order": 14,
+                "role": "Videl",
+                "thumbnail": "http://thetvdb.com/banners/actors/350974.jpg"
+            },
+            {
+                "name": "Masako Tsukada",
+                "order": 15,
+                "role": "Son Goten",
+                "thumbnail": "http://thetvdb.com/banners/actors/350973.jpg"
+            },
+            {
+                "name": "Taiten Kusunoki",
+                "order": 16,
+                "role": "Nail",
+                "thumbnail": "http://thetvdb.com/banners/actors/314013.jpg"
+            },
+            {
+                "name": "Mayumi Abe",
+                "order": 17,
+                "role": "Yajirobé",
+                "thumbnail": "http://thetvdb.com/banners/actors/350971.jpg"
+            },
+            {
+                "name": "Hiroaki Miura",
+                "order": 18,
+                "role": "Zarbon",
+                "thumbnail": "http://thetvdb.com/banners/actors/313970.jpg"
+            },
+            {
+                "name": "Takashi Nagasako",
+                "order": 19,
+                "role": "Dodoria",
+                "thumbnail": "http://thetvdb.com/banners/actors/314003.jpg"
+            },
+            {
+                "name": "Unshô Ishizuka",
+                "order": 20,
+                "role": "Mr. Satan",
+                "thumbnail": "http://thetvdb.com/banners/actors/327196.jpg"
+            },
+            {
+                "name": "Takeshi Kusao",
+                "order": 21,
+                "role": "Trunks",
+                "thumbnail": "http://thetvdb.com/banners/actors/327194.jpg"
+            },
+            {
+                "name": "Hiromi Tsuru",
+                "order": 22,
+                "role": "Bulma",
+                "thumbnail": "http://thetvdb.com/banners/actors/314012.jpg"
+            },
+            {
+                "name": "Norio Wakamoto",
+                "order": 23,
+                "role": "Cell",
+                "thumbnail": "http://thetvdb.com/banners/actors/327192.jpg"
+            },
+            {
+                "name": "Miki Itô",
+                "order": 24,
+                "role": "C18",
+                "thumbnail": "http://thetvdb.com/banners/actors/327191.jpg"
+            },
+            {
+                "name": "Shigeru Nakahara",
+                "order": 25,
+                "role": "C17",
+                "thumbnail": "http://thetvdb.com/banners/actors/327185.jpg"
+            },
+            {
+                "name": "Yukitoshi Hori",
+                "order": 26,
+                "role": "C19",
+                "thumbnail": "http://thetvdb.com/banners/actors/327184.jpg"
+            },
+            {
+                "name": "Ryûsei Nakao",
+                "order": 27,
+                "role": "Freeza",
+                "thumbnail": "http://thetvdb.com/banners/actors/327183.jpg"
+            },
+            {
+                "name": "Yasuhiro Takato",
+                "order": 28,
+                "role": "Geld",
+                "thumbnail": "http://thetvdb.com/banners/actors/313948.jpg"
+            },
+            {
+                "name": "Yasuhiko Kawazu",
+                "order": 29,
+                "role": "Mr. Popo",
+                "thumbnail": "http://thetvdb.com/banners/actors/314006.jpg"
+            },
+            {
+                "name": "Tetsu Inada",
+                "order": 30,
+                "role": "Nappa",
+                "thumbnail": "http://thetvdb.com/banners/actors/137041.jpg"
+            },
+            {
+                "name": "Takeshi Aono",
+                "order": 31,
+                "role": "Kami-sama",
+                "thumbnail": "http://thetvdb.com/banners/actors/137031.jpg"
+            },
+            {
+                "name": "Katsuyuki Konishi",
+                "order": 32,
+                "role": "Ginyu",
+                "thumbnail": "http://thetvdb.com/banners/actors/136971.jpg"
+            },
+            {
+                "name": "Jouji Yanami",
+                "order": 33,
+                "role": "Kaio",
+                "thumbnail": "http://thetvdb.com/banners/actors/314019.jpg"
+            },
+            {
+                "name": "Daisuke Kishio",
+                "order": 34,
+                "role": "Jeece",
+                "thumbnail": "http://thetvdb.com/banners/actors/136931.jpg"
+            },
+            {
+                "name": "Aya Hirano",
+                "order": 35,
+                "role": "Dende",
+                "thumbnail": "http://thetvdb.com/banners/actors/136921.jpg"
+            },
+            {
+                "name": "Naoki Tatsuta",
+                "order": 36,
+                "role": "Oolong",
+                "thumbnail": "http://thetvdb.com/banners/actors/136881.jpg"
+            }
+        ],
+        "dateadded": "",
+        "episode": 0,
+        "episodeguide": "<episodeguide><url cache=\"88031-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/88031/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/88031-2.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Dragonball Kai/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "imdbnumber": "88031",
+        "label": "Dragon Ball Kai",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 1,
+        "plot": "Rejoin Goku and his friends in a series of cosmic battles!  Toei has redubbed, recut, and cleaned up the animation of the original 1989 animated series.  The show's story arc has been refined to better follow the comic book series on which it is based.  The show also features a new opening and ending.\r\n\r\nIn the series, martial artist Goku, and his various friends, battle increasingly powerful enemies to defend the world against evil.  Can Earth's defender defeat demons, aliens, and other villains?",
+        "premiered": "2009-04-05",
+        "rating": 9,
+        "season": 0,
+        "sorttitle": "",
+        "studio": [
+            "Fuji TV"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/88031-4.jpg",
+        "title": "Dragon Ball Kai",
+        "tvshowid": 25,
+        "votes": "52",
+        "watchedepisodes": 0,
+        "year": 2009
+    },
+    "episodes": {}
+}

@@ -1,0 +1,295 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/72126-g.jpg",
+            "poster": "http://thetvdb.com/banners/posters/72126-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Bob Johnson",
+                "order": 0,
+                "role": ""
+            },
+            {
+                "name": "Bob Papenbrook",
+                "order": 1,
+                "role": ""
+            },
+            {
+                "name": "George Lennon",
+                "order": 2,
+                "role": ""
+            },
+            {
+                "name": "Jack Aubree",
+                "order": 3,
+                "role": ""
+            },
+            {
+                "name": "Jimmy Silver",
+                "order": 4,
+                "role": ""
+            },
+            {
+                "name": "John Aubree",
+                "order": 5,
+                "role": ""
+            },
+            {
+                "name": "John Di",
+                "order": 6,
+                "role": ""
+            },
+            {
+                "name": "John Lee",
+                "order": 7,
+                "role": ""
+            },
+            {
+                "name": "John Wesley",
+                "order": 8,
+                "role": ""
+            },
+            {
+                "name": "Kirk Thornton",
+                "order": 9,
+                "role": ""
+            },
+            {
+                "name": "Loren Manda",
+                "order": 10,
+                "role": ""
+            },
+            {
+                "name": "Marrin Lee",
+                "order": 11,
+                "role": ""
+            },
+            {
+                "name": "Mary Elizabeth McGlynn",
+                "order": 12,
+                "role": ""
+            },
+            {
+                "name": "Michael Scott Ryan",
+                "order": 13,
+                "role": ""
+            },
+            {
+                "name": "Ralph Votrian",
+                "order": 14,
+                "role": ""
+            },
+            {
+                "name": "Tsujitani Kouji",
+                "order": 15,
+                "role": ""
+            },
+            {
+                "name": "Wendee Lee",
+                "order": 16,
+                "role": ""
+            },
+            {
+                "name": "Will Barrett",
+                "order": 17,
+                "role": ""
+            },
+            {
+                "name": "Yukino Satsuki",
+                "order": 18,
+                "role": ""
+            }
+        ],
+        "dateadded": "2013-11-09 16:14:33",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"72126-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/72126/all/en.zip</url></episodeguide>",
+        "fanart": "",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Reign/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "imdbnumber": "72126",
+        "label": "Reign",
+        "lastplayed": "",
+        "mpaa": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "A re-imagination of the life of Alexander the Great based on the novel by Hiroshi Aramata, Alexander was intended to be a ground-breaking international production that drew on all the resources of the worldwide adult animation community. The design of characters and settings was given to Peter Chung, the Korean-American animator behind Aeon Flux; most of the production work was also handled by Korean animators.\r\n\r\nLong intended to be a breakthrough in the American market, Alexander's trans-Pacific reception was hampered by numerous economic difficulties. The original attempt at Americanization, handled along with the Asian release, broke down in 1997. This version was to feature a dub under the direction of veteran voice director Jack Fletcher, and featured many of the talents from Chung's Aeon Flux.\r\n\r\nWhen the anime was picked up by TOKYOPOP and prepared for its 2003 release as Reign: The Conqueror, another dub was prepared. However, TOKYOPOP retained the rights to the first four episodes of the series, featuring Fletcher's cast, making for a noticeable change at episode 5. Reign: The Conqueror sank with little acclaim into Cartoon Network's Adult Swim lineup.\r\n\r\nOther issues hampering Alexander's success include a wide array of differing versions - besides the English and Japanese versions, there is a theatrical version which features major changes, including a shuffling of character models - Cassandra and Roxanne switch designs.",
+        "premiered": "1999-09-14",
+        "rating": 6.800000190734863,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Cartoon Network"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/72126-1.jpg",
+        "title": "Reign",
+        "tvshowid": 69,
+        "votes": "0",
+        "watchedepisodes": 0,
+        "year": 1999
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/72126-g.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/72126-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Bob Johnson",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Bob Papenbrook",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "George Lennon",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jack Aubree",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jimmy Silver",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "John Aubree",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "John Di",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "John Lee",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "John Wesley",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kirk Thornton",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Loren Manda",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Marrin Lee",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mary Elizabeth McGlynn",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Scott Ryan",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ralph Votrian",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tsujitani Kouji",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Wendee Lee",
+                        "order": 16,
+                        "role": ""
+                    },
+                    {
+                        "name": "Will Barrett",
+                        "order": 17,
+                        "role": ""
+                    },
+                    {
+                        "name": "Yukino Satsuki",
+                        "order": 18,
+                        "role": ""
+                    }
+                ],
+                "dateadded": "2013-11-09 16:14:33",
+                "director": [],
+                "episode": 1,
+                "episodeid": 1258,
+                "fanart": "",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Reign/Season 1/Reign.S01E01.Pilot.720p.WEB-DL.DD5.1.H.264-BS.mp4",
+                "firstaired": "2003-02-10",
+                "label": "1x01. A Prophecy Born This Day",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "",
+                "productioncode": "",
+                "rating": 6.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1800,
+                "season": 1,
+                "showtitle": "Reign",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "A Prophecy Born This Day",
+                "tvshowid": 69,
+                "uniqueid": {
+                    "unknown": "74445"
+                },
+                "votes": "5",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/72126-g.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/72126-1.jpg"
+            },
+            "episode": 1,
+            "fanart": "",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 381,
+            "showtitle": "Reign",
+            "thumbnail": "",
+            "tvshowid": 69,
+            "watchedepisodes": 0
+        }
+    ]
+}

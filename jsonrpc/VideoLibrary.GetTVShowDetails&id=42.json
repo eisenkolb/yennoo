@@ -1,0 +1,2042 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+            "poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+        },
+        "cast": [
+            {
+                "name": "Landon Liboiron",
+                "order": 0,
+                "role": "Peter Rumancek",
+                "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+            },
+            {
+                "name": "Bill Skarsgård",
+                "order": 1,
+                "role": "Roman Godfrey",
+                "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+            },
+            {
+                "name": "Famke Janssen",
+                "order": 2,
+                "role": "Olivia Godfrey",
+                "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+            },
+            {
+                "name": "Dougray Scott",
+                "order": 3,
+                "role": "Dr. Norman Godfrey",
+                "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+            },
+            {
+                "name": "Demore Barnes",
+                "order": 4,
+                "role": "Michael Chasseur",
+                "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+            },
+            {
+                "name": "Laurie Fortier",
+                "order": 5,
+                "role": "Marie Godfrey",
+                "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+            },
+            {
+                "name": "Kandyse McClure",
+                "order": 6,
+                "role": "Clementine Chasseur",
+                "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+            },
+            {
+                "name": "Joel de la Fuente",
+                "order": 7,
+                "role": "Dr. Johann Pryce",
+                "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+            },
+            {
+                "name": "Madeleine Martin",
+                "order": 8,
+                "role": "Shelley Godfrey",
+                "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+            },
+            {
+                "name": "Nicole Boivin",
+                "order": 9,
+                "role": "Shelley Godfrey (Season 1)",
+                "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+            },
+            {
+                "name": "Madeline Brewer",
+                "order": 10,
+                "role": "Miranda Cates",
+                "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+            },
+            {
+                "name": "Kaniehtiio Horn",
+                "order": 11,
+                "role": "Destiny Rumancek",
+                "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+            },
+            {
+                "name": "Lili Taylor",
+                "order": 12,
+                "role": "Lynda Rumancek",
+                "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+            },
+            {
+                "name": "Aaron Douglas",
+                "order": 14,
+                "role": "Sheriff Sworn",
+                "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+            },
+            {
+                "name": "Freya Tingley",
+                "order": 15,
+                "role": "Christina Wendall",
+                "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+            },
+            {
+                "name": "Penelope Mitchell",
+                "order": 16,
+                "role": "Letha Godfrey",
+                "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+            }
+        ],
+        "dateadded": "2013-12-08 19:34:34",
+        "episode": 13,
+        "episodeguide": "<episodeguide><url cache=\"259948-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/259948/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/",
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Science-Fiction",
+            "Thriller"
+        ],
+        "imdbnumber": "259948",
+        "label": "Hemlock Grove",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "The show examines the strange happenings in Hemlock Grove, a fictional town in Pennsylvania. Roman Godfrey, heir to the town's wealthy Godfrey family, befriends the town's newcomer, Peter Rumancek. Recent brutal murders in the town have stirred up rumors, and the two work together to shed light on the case while also hiding their own dark secrets.",
+        "premiered": "2013-04-19",
+        "rating": 7.199999809265137,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Netflix"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/259948-6.jpg",
+        "title": "Hemlock Grove",
+        "tvshowid": 42,
+        "votes": "19",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343867.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-06 20:59:18",
+                "director": [
+                    "Eli Roth"
+                ],
+                "episode": 1,
+                "episodeid": 687,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E01.Das.Element.der.Seele.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x01. Jellyfish in the Sky",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A teenager is murdered in the woods of Hemlock Grove. Evidence points to an animal attack but suspicions soon fall on Peter, the newly arrived gypsy.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343867.jpg",
+                "title": "Jellyfish in the Sky",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343867"
+                },
+                "votes": "31",
+                "writer": [
+                    "Lee Shipman",
+                    "Brian McGreevy"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343868.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-07 22:20:44",
+                "director": [
+                    "Deran Sarafian"
+                ],
+                "episode": 2,
+                "episodeid": 688,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E02.Die.Verwandlung.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x02. The Angel",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Roman confronts Peter at the crime scene, finding common ground. Letha reveals a shocking secret and Olivia and Norman fall into old habits.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343868.jpg",
+                "title": "The Angel",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343868"
+                },
+                "votes": "25",
+                "writer": [
+                    "Brian McGreevy"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343869.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-07 13:43:16",
+                "director": [
+                    "Deran Sarafian"
+                ],
+                "episode": 3,
+                "episodeid": 689,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E03.Der.Orden.des.Drachen.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x03. The Order of the Dragon",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Christina discovers a new victim and Sheriff Sworn gets outside help from Dr. Chasseur. Now a suspect, Peter joins Roman to find the killer.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343869.jpg",
+                "title": "The Order of the Dragon",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343869"
+                },
+                "votes": "23",
+                "writer": [
+                    "Brian McGreevy"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343870.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-07 14:48:18",
+                "director": [
+                    "David Semel"
+                ],
+                "episode": 4,
+                "episodeid": 690,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E04.Der.Daemonenhund.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x04. In Poor Taste",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Letha's interest in Peter takes a turn. Chasseur and Sworn's investigation hits a new low while Roman and Peter stay one step ahead.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343870.jpg",
+                "title": "In Poor Taste",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343870"
+                },
+                "votes": "18",
+                "writer": [
+                    "Sheila Callaghan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343871.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-07 15:38:46",
+                "director": [
+                    "David Semel"
+                ],
+                "episode": 5,
+                "episodeid": 691,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E05.Blick.in.den.Abgrund.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x05. Hello, Handsome",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Shelley's connection to Dr. Pryce is further revealed, Destiny helps Peter understand the recent murder and the gala at the Tower goes horribly awry.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343871.jpg",
+                "title": "Hello, Handsome",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343871"
+                },
+                "votes": "16",
+                "writer": [
+                    "Mark Verheiden"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343872.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-07 21:11:40",
+                "director": [
+                    "Deran Sarafian"
+                ],
+                "episode": 6,
+                "episodeid": 692,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E06.Angst.hat.ein.Zuhause.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x06. The Crucible",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Peter and Roman follow Lisa Willoughby's trail to the old steel mill where they find a missing piece of the puzzle. Christina's date goes poorly.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343872.jpg",
+                "title": "The Crucible",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343872"
+                },
+                "votes": "16",
+                "writer": [
+                    "Daniel Paige"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343873.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-08 09:47:40",
+                "director": [
+                    "Deran Sarafian"
+                ],
+                "episode": 7,
+                "episodeid": 693,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E07.Grenzenlose.Wut.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x07. Measure of Disorder",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Shelley commits an act of independence, Chasseur questions Roman but crosses paths with Olivia, and Peter and Roman's friendship takes a turn.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343873.jpg",
+                "title": "Measure of Disorder",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343873"
+                },
+                "votes": "14",
+                "writer": [
+                    "Brian McGreevy",
+                    "Lee Shipman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343874.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-08 10:04:02",
+                "director": [
+                    "David Straiton"
+                ],
+                "episode": 8,
+                "episodeid": 694,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E08.Die.Aufgabe.Gottes.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x08. Catabasis",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After drunkenly attacking the Godfrey Institute, Roman falls into a coma and embarks on a subconscious journey of shocking truths and revelations.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343874.jpg",
+                "title": "Catabasis",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343874"
+                },
+                "votes": "15",
+                "writer": [
+                    "Brian McGreevy",
+                    "Lee Shipman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343875.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-08 11:22:40",
+                "director": [
+                    "David Straiton"
+                ],
+                "episode": 9,
+                "episodeid": 695,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E09.Abstieg.in.die.Unterwelt.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x09. What Peter Can Live Without",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As a full moon approaches, Letha's parents discover her relationship with Peter. Despite a crisis of faith, Chasseur prepares to capture the killer.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343875.jpg",
+                "title": "What Peter Can Live Without",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343875"
+                },
+                "votes": "15",
+                "writer": [
+                    "Rafe Judkins",
+                    "Lauren LeFranc"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343876.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-08 12:27:24",
+                "director": [
+                    "T.J. Scott"
+                ],
+                "episode": 10,
+                "episodeid": 696,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E10.Vollmond.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x10. What God Wants",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A weakened Roman emerges from his coma and reunites with Peter to stop the killer. Hemlock Grove braces itself for another lethal full moon.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343876.jpg",
+                "title": "What God Wants",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343876"
+                },
+                "votes": "17",
+                "writer": [
+                    "Daniel Paige"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343877.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-08 12:33:38",
+                "director": [
+                    "T.J. Scott"
+                ],
+                "episode": 11,
+                "episodeid": 697,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E11.Die.Jagd.beginnt.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x11. The Price",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Peter and his mother hide from vigilantes seeking the killer, while Christina disappears, and Roman finally begins to face the truth about his nature.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343877.jpg",
+                "title": "The Price",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343877"
+                },
+                "votes": "15",
+                "writer": [
+                    "Mark Verheiden"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343878.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-08 19:11:28",
+                "director": [
+                    "Deran Sarafian"
+                ],
+                "episode": 12,
+                "episodeid": 698,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E12.Kinder.der.Nacht.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x12. Children of the Night",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As Olivia and Chasseur face off at the Mill, Shelley learns the awful truth about her family, and Peter and Roman uncover the killer's identity.",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343878.jpg",
+                "title": "Children of the Night",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343878"
+                },
+                "votes": "15",
+                "writer": [
+                    "Lee Shipman",
+                    "Brian McGreevy"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259948/4343879.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Landon Liboiron",
+                        "order": 0,
+                        "role": "Peter Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311962.jpg"
+                    },
+                    {
+                        "name": "Bill Skarsgård",
+                        "order": 1,
+                        "role": "Roman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311961.jpg"
+                    },
+                    {
+                        "name": "Famke Janssen",
+                        "order": 2,
+                        "role": "Olivia Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                    },
+                    {
+                        "name": "Dougray Scott",
+                        "order": 3,
+                        "role": "Dr. Norman Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                    },
+                    {
+                        "name": "Demore Barnes",
+                        "order": 4,
+                        "role": "Michael Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341152.jpg"
+                    },
+                    {
+                        "name": "Laurie Fortier",
+                        "order": 5,
+                        "role": "Marie Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341151.jpg"
+                    },
+                    {
+                        "name": "Kandyse McClure",
+                        "order": 6,
+                        "role": "Clementine Chasseur",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300980.jpg"
+                    },
+                    {
+                        "name": "Joel de la Fuente",
+                        "order": 7,
+                        "role": "Dr. Johann Pryce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341149.jpg"
+                    },
+                    {
+                        "name": "Madeleine Martin",
+                        "order": 8,
+                        "role": "Shelley Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341148.jpg"
+                    },
+                    {
+                        "name": "Nicole Boivin",
+                        "order": 9,
+                        "role": "Shelley Godfrey (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341142.jpg"
+                    },
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 10,
+                        "role": "Miranda Cates",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Kaniehtiio Horn",
+                        "order": 11,
+                        "role": "Destiny Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333204.jpg"
+                    },
+                    {
+                        "name": "Lili Taylor",
+                        "order": 12,
+                        "role": "Lynda Rumancek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Aaron Douglas",
+                        "order": 14,
+                        "role": "Sheriff Sworn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144401.jpg"
+                    },
+                    {
+                        "name": "Freya Tingley",
+                        "order": 15,
+                        "role": "Christina Wendall",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300014.jpg"
+                    },
+                    {
+                        "name": "Penelope Mitchell",
+                        "order": 16,
+                        "role": "Letha Godfrey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300013.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-08 19:34:34",
+                "director": [
+                    "Deran Sarafian"
+                ],
+                "episode": 13,
+                "episodeid": 699,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E13.Die.Geburt.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-04-19",
+                "label": "1x13. Birth",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The tragic conclusion to the Hemlock Grove killing spree leaves both the Godfrey and Rumancek families devastated, with the final horror yet to come.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hemlock Grove",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259948/4343879.jpg",
+                "title": "Birth",
+                "tvshowid": 42,
+                "uniqueid": {
+                    "unknown": "4343879"
+                },
+                "votes": "12",
+                "writer": [
+                    "Lee Shipman",
+                    "Brian McGreevy"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/259948-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/259948-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+            },
+            "episode": 13,
+            "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 218,
+            "showtitle": "Hemlock Grove",
+            "thumbnail": "http://thetvdb.com/banners/seasons/259948-1-2.jpg",
+            "tvshowid": 42,
+            "watchedepisodes": 0
+        }
+    ]
+}

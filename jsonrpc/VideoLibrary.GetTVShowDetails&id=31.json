@@ -1,0 +1,2749 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+            "poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+        },
+        "cast": [
+            {
+                "name": "Joseph Fiennes",
+                "order": 0,
+                "role": "Mark Benford",
+                "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+            },
+            {
+                "name": "Sonya Walger",
+                "order": 1,
+                "role": "Olivia Benford",
+                "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+            },
+            {
+                "name": "Peyton List",
+                "order": 2,
+                "role": "Nicole",
+                "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+            },
+            {
+                "name": "John Cho",
+                "order": 3,
+                "role": "Demetri Noh",
+                "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+            },
+            {
+                "name": "Jack Davenport",
+                "order": 4,
+                "role": "Lloyd Simcoe",
+                "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+            },
+            {
+                "name": "Courtney B. Vance",
+                "order": 5,
+                "role": "Stan Wedeck",
+                "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+            },
+            {
+                "name": "Christine Woods",
+                "order": 6,
+                "role": "Janis Hawk",
+                "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+            },
+            {
+                "name": "Gabrielle Union",
+                "order": 7,
+                "role": "Zoey Andata",
+                "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+            },
+            {
+                "name": "Brian F. O'Byrne",
+                "order": 8,
+                "role": "Aaron Stark",
+                "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+            },
+            {
+                "name": "Peter Coyote",
+                "order": 9,
+                "role": "President Dave Segovia",
+                "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+            },
+            {
+                "name": "Zachary Knighton",
+                "order": 10,
+                "role": "Dr. Bryce Varley",
+                "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+            },
+            {
+                "name": "Dominic Monaghan",
+                "order": 11,
+                "role": "Simon Campos",
+                "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+            }
+        ],
+        "dateadded": "2010-06-23 19:29:22",
+        "episode": 20,
+        "episodeguide": "<episodeguide><url cache=\"84024-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/84024/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/",
+        "genre": [
+            "Drama",
+            "Science-Fiction"
+        ],
+        "imdbnumber": "84024",
+        "label": "FlashForward",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "A mysterious event causes nearly everyone on the planet to simultaneously lose consciousness for 137 seconds, during which people see what appear to be visions of their lives approximately six months in the future - a global \"flashforward.\" A team of Los Angeles FBI agents, led by Stanford Wedeckand spearheaded by Mark Benford and his partner Demetri Noh, begin the process of determining what happened, why, and whether it will happen again. Benford contributes a unique perspective on the investigation; in his flashforward, he saw the results of six months of investigation that he had done on the flashforward event, and he and his team use those clues to recreate the investigation.",
+        "premiered": "2009-09-24",
+        "rating": 8.300000190734863,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "ABC (US)"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/84024-4.jpg",
+        "title": "FlashForward",
+        "tvshowid": 31,
+        "votes": "206",
+        "watchedepisodes": 0,
+        "year": 2009
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/428750.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Alex Kingston",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Barry Shabaka Henley",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+                    },
+                    {
+                        "name": "Lee Thompson Young",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Roberts",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Genevieve Cortese",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Seth MacFarlane",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/42361.jpg"
+                    },
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-22 00:05:05",
+                "director": [
+                    "David S. Goyer"
+                ],
+                "episode": 1,
+                "episodeid": 433,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E01.Blackout.GERMAN.DUBBED.WS.DVDRiP.REPACK.XviD-SOF.avi",
+                "firstaired": "2009-09-24",
+                "label": "1x01. No More Good Days",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The series opens on a seemingly ordinary day, October 6, 2009, which soon becomes extraordinary when at 11:00 a.m. Pacific Time, as everyone in Los Angeles blacks out for two minutes and 17 seconds. It soon becomes apparent the blackouts were worldwide, and were accompanied by a \"flashforward\" where each person saw what might be his or her life on April 29, 2010, roughly six months into the future. FBI Agent Mark Benford and a team of agents in Los Angeles begin gathering clues as to what might have happened as they struggle to come to terms with their own visions, or in Demetri Noh's case, a lack of one. Meanwhile, Mark's wife Olivia, and daughter Charlie, each have disturbing visions of the future with which they must cope. As the episode closes, FBI Agent Janis Hawk makes a startling discovery: an image from CCTV in Detroit of a man in black, walking through the stadium while everyone around him is unconscious.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/428750.jpg",
+                "title": "No More Good Days",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "428750"
+                },
+                "votes": "131",
+                "writer": [
+                    "Brannon Braga",
+                    "David S. Goyer"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1062201.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-22 00:22:45",
+                "director": [
+                    "David S. Goyer"
+                ],
+                "episode": 2,
+                "episodeid": 434,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E02.Die.weisse.Dame.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2009-10-01",
+                "label": "1x02. White to Play",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Mark and Demetri go to Utah to investigate a lead on a suspect who might have a connection to the global blackout. Olivia sees the man from her flashforward, while her daughter Charlie is having trouble dealing with hers.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1062201.jpg",
+                "title": "White to Play",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1062201"
+                },
+                "votes": "119",
+                "writer": [
+                    "David S. Goyer",
+                    "Marc Guggenheim"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1062211.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gina Torres",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-22 01:52:42",
+                "director": [
+                    "Michael Rymer"
+                ],
+                "episode": 3,
+                "episodeid": 435,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E03.137.Sekunden.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2009-10-08",
+                "label": "1x03. 137 Seconds",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Mark and Janis arrive in Germany to discuss the past events regarding the blackouts. Demetri fears about his future. Meanwhile, Aaron tries to get Mark to help him with an appeal.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1062211.jpg",
+                "title": "137 Seconds",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1062211"
+                },
+                "votes": "103",
+                "writer": [
+                    "David S. Goyer",
+                    "Marc Guggenheim"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1062221.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-22 01:51:55",
+                "director": [
+                    "Michael Rymer"
+                ],
+                "episode": 4,
+                "episodeid": 436,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E04.Der.schwarze.Schwan.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2009-10-15",
+                "label": "1x04. Black Swan",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Olivia struggles to accept Bryce's suggestion that a patient's flashforward holds the key to a correct diagnosis and treatment. Meanwhile, Demetri accuses Mark of waiting for the future he saw in his flashforward to come true without incident, while Mark feels Demetri is letting his fear of what he witnessed envelop his life; and Nicole returns to work as Mark and Olivia's daughter's baby-sitter, and discloses her shocking future vision — involving a murder.",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1062221.jpg",
+                "title": "Black Swan",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1062221"
+                },
+                "votes": "115",
+                "writer": [
+                    "Scott M. Gimple",
+                    "Lisa Zwerling"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1062231.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gina Torres",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-22 01:06:58",
+                "director": [
+                    "Michael Rymer"
+                ],
+                "episode": 5,
+                "episodeid": 437,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E05.Machtspiele.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2009-10-22",
+                "label": "1x05. Gimme Some Truth",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Mark finds himself on the defense while being questioned about the details of his flashforward during a Senate Intelligence Committee hearing, which will decide whether to continue funding Wedeck's team. Meanwhile, Janis wonders how her flashforward will affect her current romantic relationship, and Olivia receives an anonymous message relating to Mark's flashforward.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1062231.jpg",
+                "title": "Gimme Some Truth",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1062231"
+                },
+                "votes": "113",
+                "writer": [
+                    "Dawn Prestwich",
+                    "Nicole Yorkin",
+                    "Barbara Nance"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1062241.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-22 00:56:08",
+                "director": [
+                    "Michael Rymer"
+                ],
+                "episode": 6,
+                "episodeid": 438,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E06.Die.blaue.Hand.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2009-10-29",
+                "label": "1x06. Scary Monsters and Super Creeps",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Mark, Demetri and Wedeck try to connect Janis' attack with a separate attack made on them; Olivia confronts Mark about his flashforward; Demetri and Gough track down a clue from Mark's flash; Dylan goes missing from the hospital",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1062241.jpg",
+                "title": "Scary Monsters and Super Creeps",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1062241"
+                },
+                "votes": "110",
+                "writer": [
+                    "Seth Hoffman",
+                    "Quinton Peeples"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1062251.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Genevieve Cortese",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Callum Keith Rennie",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/slLsdWFDpxueDbV0l1QWK2gG24x.jpg"
+                    },
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-22 01:54:31",
+                "director": [
+                    "Nick Gomez"
+                ],
+                "episode": 7,
+                "episodeid": 439,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E07.Geister.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2009-11-05",
+                "label": "1x07. The Gift",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Mark, Demetri, Gough and MI6 agent Fiona Banks investigate a Blue Hand club and its possible connection to some recent suicides. Meanwhile, Aaron receives a surprise visit from a former army buddy of his late daughter's, Demetri comes clean with Zoey about his lack of a flashforward, and Nicole helps Bryce uncover the mystery of his flashforward while volunteering at the hospital.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1062251.jpg",
+                "title": "The Gift",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1062251"
+                },
+                "votes": "118",
+                "writer": [
+                    "Lisa Zwerling",
+                    "Ian Goldberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1062261.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-22 03:44:37",
+                "director": [
+                    "Nick Gomez"
+                ],
+                "episode": 8,
+                "episodeid": 440,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E08.Spiel.mit.dem.Teufel.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2009-11-12",
+                "label": "1x08. Playing Cards with Coyote",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Mark cuts his romantic getaway with Olivia short when a tip leads to the discovery of the tattooed assassin seen in his flashforward, Simon and Lloyd settle a debate over a game of poker, Aaron learns the truth about daughter Tracy's deadly accident, and Janis returns to work but debates her future with the department.",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1062261.jpg",
+                "title": "Playing Cards with Coyote",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1062261"
+                },
+                "votes": "102",
+                "writer": [
+                    "Marc Guggenheim",
+                    "Barbara Nance"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1183431.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-22 03:45:45",
+                "director": [
+                    "Michael Nankin"
+                ],
+                "episode": 9,
+                "episodeid": 441,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E09.Keiko.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2009-11-19",
+                "label": "1x09. Believe",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Bryce begins his search for the woman in his flashforward, Aaron becomes concerned over Tracy's odd behavior, Mark attempts to track down the person responsible for texting Olivia and outing his drinking during his flashforward vision, and Demetri's co-agents try to find the mysterious caller who forewarned him about his unfortunate fate.",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1183431.jpg",
+                "title": "Believe",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1183431"
+                },
+                "votes": "115",
+                "writer": [
+                    "Nicole Yorkin",
+                    "Dawn Prestwich"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1183441.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-22 03:45:31",
+                "director": [
+                    "Michael Nankin"
+                ],
+                "episode": 10,
+                "episodeid": 442,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E10.A.651.984.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2009-12-03",
+                "label": "1x10. A561984",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Against Wedeck's orders, Mark and Demetri travel to Hong Kong in search of the woman claiming to know details of Demetri's fate; Lloyd tries to come clean about his and Simon's involvement in the global blackout - against Simon's better judgment -- and Zoey discovers the true meaning of her flashforward.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1183441.jpg",
+                "title": "A561984",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1183441"
+                },
+                "votes": "117",
+                "writer": [
+                    "David S. Goyer",
+                    "Scott M. Gimple"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1183451.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-22 03:45:30",
+                "director": [
+                    "John Polson"
+                ],
+                "episode": 11,
+                "episodeid": 443,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E11.Die.Offenbarung.Teil1.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2010-03-18",
+                "label": "1x11. Revelation Zero (1)",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Mark is suspended from duty at the FBI and must meet with a Bureau-appointed therapist in order to regain his badge; Demetri reluctantly teams with CIA agent Vogel to continue the search for Lloyd, while a suspended Mark resumes his own investigation into his disappearance; with Lloyd missing, Simon attempts to hack into his computer in search of clues; Janis is assigned to accompany Simon and learns some family secrets about him; and Nicole speaks with a man who was transformed during the blackout in order to help her restore her faith and understand her horrific flashforward vision.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1183451.jpg",
+                "title": "Revelation Zero (1)",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1183451"
+                },
+                "votes": "160",
+                "writer": [
+                    "Seth Hoffman",
+                    "Marc Guggenheim"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1892541.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Tim",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-22 03:45:59",
+                "director": [
+                    "Constantine Makris"
+                ],
+                "episode": 12,
+                "episodeid": 444,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E12.Die.Offenbarung.Teil2.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2010-03-18",
+                "label": "1x12. Revelation Zero (2)",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Janis goes with Simon to Toronto and learns some family secrets.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1892541.jpg",
+                "title": "Revelation Zero (2)",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1892541"
+                },
+                "votes": "80",
+                "writer": [
+                    "Lisa Zwerling",
+                    "Barbara Nance"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1918461.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-23 03:35:57",
+                "director": [
+                    "Constantine Makris"
+                ],
+                "episode": 13,
+                "episodeid": 445,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E13.Duell.der.Vaeter.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2010-03-25",
+                "label": "1x13. Blowback",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Aaron delves deeper into why the black-ops Jericho unit is after his daughter. Later, his daughter goes missing, and he suspects his daughter's friend. Mark continues to question Lloyd about a phone conversation that took place during their flashforwards, and finds out he knows D. Gibbons. Also, Zoey tries everything in her power to change Demetri's fate. Timbaland  guest stars.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1918461.jpg",
+                "title": "Blowback",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1918461"
+                },
+                "votes": "140",
+                "writer": [
+                    "Lisa Zwerling",
+                    "Barbara Nance"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1957001.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Michael Ealy",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-23 01:50:16",
+                "director": [
+                    "Bobby Roth"
+                ],
+                "episode": 14,
+                "episodeid": 446,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E14.Bessere.Engel.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2010-04-01",
+                "label": "1x14. Better Angels",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Demetri, Janis, Simon and Vogel travel to Somalia in search of clues to a mysterious tower and encounter a dangerous man who saw his fellow villagers black-out in 1991; Bryce tells Nicole that he has cancer; and Olivia attempts to get daughter Charlie to tell her what she saw in her flashforward.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1957001.jpg",
+                "title": "Better Angels",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1957001"
+                },
+                "votes": "130",
+                "writer": [
+                    "Byron Balasco",
+                    "Timothy J. Lea"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1957011.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Lennon Wynn",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ryan Wynott",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Massee",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Owiso Odera",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Zora Bikangaga",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Carmen Argenziano",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/zvGnKptfUgfkmu9gR5EUeR5s5Ri.jpg"
+                    },
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-23 01:50:27",
+                "director": [
+                    "Bobby Roth"
+                ],
+                "episode": 15,
+                "episodeid": 447,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E15.Damenopfer.GERMAN.DUBBED.WS.DVDRiP.XviD-SOFavi.avi",
+                "firstaired": "2010-04-08",
+                "label": "1x15. Queen Sacrifice",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Mark and Vogel put a plan into action to uncover the FBI mole, which could end up alienating Mark from his co-workers. Meanwhile, in an effort to protect his family and his marriage Mark moves out of the house, and Keiko continues her search in Los Angeles for Bryce and finds employment at the unlikeliest of places.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1957011.jpg",
+                "title": "Queen Sacrifice",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1957011"
+                },
+                "votes": "163",
+                "writer": [
+                    "Byron Balasco",
+                    "Timothy J. Lea"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1963731.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-23 01:51:09",
+                "director": [
+                    "Bobby Roth"
+                ],
+                "episode": 16,
+                "episodeid": 448,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E16.Der.geheimnisvolle.Mr.Frost.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2010-04-15",
+                "label": "1x16. Let No Man Put Asunder",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Demetri decides to put a rush on his wedding plans with Zoey when the captured FBI mole confirms the date of his prophesized murder; Wedeck tries to help Aaron infiltrate Jericho in order to rescue Tracy; and Olivia's friendship with Lloyd grows stronger.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1963731.jpg",
+                "title": "Let No Man Put Asunder",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1963731"
+                },
+                "votes": "159",
+                "writer": [
+                    "Seth Hoffman",
+                    "Quinton Peeples"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/1975791.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Lennon Wynn",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Barry Shabaka Henley",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+                    },
+                    {
+                        "name": "Michael Massee",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Roberts",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Malachi Smith",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Callis",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298180.jpg"
+                    },
+                    {
+                        "name": "Norma Maldonado",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Neil Jackson",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rizwan Manji",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/yB9w540vNe4pwa3ptvO1haDUKWy.jpg"
+                    },
+                    {
+                        "name": "Jonathan Levit",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Geoffrey Owens",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lawrence A. Mandley",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-23 19:28:27",
+                "director": [
+                    "Nick Gomez"
+                ],
+                "episode": 17,
+                "episodeid": 449,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E17.Der.Garten.der.sich.gabelnden.Pfade.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2010-04-22",
+                "label": "1x17. The Garden of Forking Paths",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The clock is ticking on Demetri's life as Mark and his team go in search of his whereabouts; terror suspect Alda Herzog promises to give Zoey intel on where Demetri is - but at a price; and Olivia learns the identity of the person who sent her the text message informing her that Mark was drinking in his flashforward.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/1975791.jpg",
+                "title": "The Garden of Forking Paths",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "1975791"
+                },
+                "votes": "159",
+                "writer": [
+                    "David S. Goyer",
+                    "Lisa Zwerling"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/2013691.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "James Callis",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298180.jpg"
+                    },
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-23 19:28:44",
+                "director": [
+                    "Nick Gomez"
+                ],
+                "episode": 18,
+                "episodeid": 450,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E18.Janis.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2010-04-29",
+                "label": "1x18. Goodbye Yellow Brick Road",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Janis continues to thwart her fellow FBI agents as an inside mole to a mysterious employer; Olivia is given some disturbing news by Gabriel, who has been subjected to numerous flashforwards; and Aaron's life is in danger in Afghanistan when he tries to blend in with the locals as he continues his search for his daughter.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/2013691.jpg",
+                "title": "Goodbye Yellow Brick Road",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "2013691"
+                },
+                "votes": "154",
+                "writer": [
+                    "Dawn Prestwich",
+                    "Nicole Yorkin"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/2047361.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Alex Kingston",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Callis",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298180.jpg"
+                    },
+                    {
+                        "name": "Callum Keith Rennie",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/slLsdWFDpxueDbV0l1QWK2gG24x.jpg"
+                    },
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 7,
+                        "role": "Zoey Andata",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-23 19:29:14",
+                "director": [
+                    "Leslie Libman"
+                ],
+                "episode": 19,
+                "episodeid": 451,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E19.Kurskorrektur.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2010-05-06",
+                "label": "1x19. Course Correction",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Demetri and Agent Banks attempt to track down a killer as questions arise about the universe course-correcting itself, when people who thought they'd escaped their fates are found dead; Mark reluctantly agrees to help Simon find his sister, Annabelle, but discovers he's withholding the truth about her true circumstances; the FBI discovers the identity of Suspect Zero; and Nicole learns the whereabouts of Keiko - the woman in Bryce's flashforward - but struggles with whether to share this information, due to her growing feelings for him.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/2047361.jpg",
+                "title": "Course Correction",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "2047361"
+                },
+                "votes": "158",
+                "writer": [
+                    "Robert J. Sawyer"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84024/2047371.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gabrielle Union",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152791.jpg"
+                    },
+                    {
+                        "name": "James Callis",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298180.jpg"
+                    },
+                    {
+                        "name": "Annabeth Gish",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Fiennes",
+                        "order": 0,
+                        "role": "Mark Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81082.jpg"
+                    },
+                    {
+                        "name": "Sonya Walger",
+                        "order": 1,
+                        "role": "Olivia Benford",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81083.jpg"
+                    },
+                    {
+                        "name": "Peyton List",
+                        "order": 2,
+                        "role": "Nicole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/93771.jpg"
+                    },
+                    {
+                        "name": "John Cho",
+                        "order": 3,
+                        "role": "Demetri Noh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81081.jpg"
+                    },
+                    {
+                        "name": "Jack Davenport",
+                        "order": 4,
+                        "role": "Lloyd Simcoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+                    },
+                    {
+                        "name": "Courtney B. Vance",
+                        "order": 5,
+                        "role": "Stan Wedeck",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81079.jpg"
+                    },
+                    {
+                        "name": "Christine Woods",
+                        "order": 6,
+                        "role": "Janis Hawk",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81078.jpg"
+                    },
+                    {
+                        "name": "Brian F. O'Byrne",
+                        "order": 8,
+                        "role": "Aaron Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152781.jpg"
+                    },
+                    {
+                        "name": "Peter Coyote",
+                        "order": 9,
+                        "role": "President Dave Segovia",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152771.jpg"
+                    },
+                    {
+                        "name": "Zachary Knighton",
+                        "order": 10,
+                        "role": "Dr. Bryce Varley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/152761.jpg"
+                    },
+                    {
+                        "name": "Dominic Monaghan",
+                        "order": 11,
+                        "role": "Simon Campos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27748.jpg"
+                    }
+                ],
+                "dateadded": "2010-06-23 19:29:22",
+                "director": [
+                    "Leslie Libman"
+                ],
+                "episode": 20,
+                "episodeid": 452,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/FlashForward/Season 1/FlashForward.S01E20.Der.Tag.davor.GERMAN.DUBBED.WS.DVDRiP.XviD-SOF.avi",
+                "firstaired": "2010-05-13",
+                "label": "1x20. The Negotiation",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "It's April 28 - the day before the prophesized flashforward date - and as the world waits to see if their future visions will come true, Mark must do everything in his power to protect Gabriel, who is the bridge between Dyson Frost and the Global Blackout; Aaron locates his daughter's captors and puts his life on the line in order to rescue her; Janis is tasked with killing a fellow agent; and Simon comes face to face with the head of the nefarious organization that may be responsible for the blackout.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "FlashForward",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84024/2047371.jpg",
+                "title": "The Negotiation",
+                "tvshowid": 31,
+                "uniqueid": {
+                    "unknown": "2047371"
+                },
+                "votes": "159",
+                "writer": [
+                    "Debbie Ezer"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/84024-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/84024-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/84024-4.jpg"
+            },
+            "episode": 20,
+            "fanart": "http://thetvdb.com/banners/fanart/original/84024-12.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 164,
+            "showtitle": "FlashForward",
+            "thumbnail": "http://thetvdb.com/banners/seasons/84024-1-2.jpg",
+            "tvshowid": 31,
+            "watchedepisodes": 0
+        }
+    ]
+}

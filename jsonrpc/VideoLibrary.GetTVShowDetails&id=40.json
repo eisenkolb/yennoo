@@ -1,0 +1,1783 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/212961-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+            "poster": "http://thetvdb.com/banners/posters/212961-8.jpg"
+        },
+        "cast": [
+            {
+                "name": "Anson Mount",
+                "order": 0,
+                "role": "Cullen Bohannan",
+                "thumbnail": "http://thetvdb.com/banners/actors/231831.jpg"
+            },
+            {
+                "name": "Colm Meaney",
+                "order": 1,
+                "role": "Thomas 'Doc' Durant",
+                "thumbnail": "http://thetvdb.com/banners/actors/291043.jpg"
+            },
+            {
+                "name": "Robin McLeavy",
+                "order": 2,
+                "role": "Eva",
+                "thumbnail": "http://thetvdb.com/banners/actors/299793.jpg"
+            },
+            {
+                "name": "Christopher Heyerdahl",
+                "order": 3,
+                "role": "The Swede",
+                "thumbnail": "http://thetvdb.com/banners/actors/299792.jpg"
+            },
+            {
+                "name": "Jake Weber",
+                "order": 4,
+                "role": "John Campbell",
+                "thumbnail": "http://thetvdb.com/banners/actors/337034.jpg"
+            },
+            {
+                "name": "MacKenzie Porter",
+                "order": 5,
+                "role": "Naomi Bohannon",
+                "thumbnail": "http://thetvdb.com/banners/actors/336985.jpg"
+            },
+            {
+                "name": "Jennifer Ferrin",
+                "order": 6,
+                "role": "Louise Ellison",
+                "thumbnail": "http://thetvdb.com/banners/actors/334756.jpg"
+            },
+            {
+                "name": "Duncan Ollerenshaw",
+                "order": 7,
+                "role": "Mr. Toole",
+                "thumbnail": "http://thetvdb.com/banners/actors/332947.jpg"
+            },
+            {
+                "name": "Tom Noonan",
+                "order": 8,
+                "role": "Reverend Cole",
+                "thumbnail": "http://thetvdb.com/banners/actors/332946.jpg"
+            },
+            {
+                "name": "DELETE DUPLICATE",
+                "order": 9,
+                "role": "",
+                "thumbnail": "http://thetvdb.com/banners/actors/332945.jpg"
+            },
+            {
+                "name": "Phil Burke",
+                "order": 10,
+                "role": "Mickey McGinnes",
+                "thumbnail": "http://thetvdb.com/banners/actors/332944.jpg"
+            },
+            {
+                "name": "Ben Esler",
+                "order": 11,
+                "role": "Sean McGinnes",
+                "thumbnail": "http://thetvdb.com/banners/actors/332941.jpg"
+            },
+            {
+                "name": "Kasha Kropinski",
+                "order": 12,
+                "role": "Ruth",
+                "thumbnail": "http://thetvdb.com/banners/actors/299794.jpg"
+            },
+            {
+                "name": "Eddie Spears",
+                "order": 13,
+                "role": "Joseph Black Moon",
+                "thumbnail": "http://thetvdb.com/banners/actors/299791.jpg"
+            },
+            {
+                "name": "Common",
+                "order": 14,
+                "role": "Elam",
+                "thumbnail": "http://thetvdb.com/banners/actors/291044.jpg"
+            },
+            {
+                "name": "Dominique McElligott",
+                "order": 15,
+                "role": "Lily Bell",
+                "thumbnail": "http://thetvdb.com/banners/actors/291042.jpg"
+            }
+        ],
+        "dateadded": "2013-11-13 22:15:44",
+        "episode": 10,
+        "episodeguide": "<episodeguide><url cache=\"212961-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/212961/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hell on Wheels/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Western"
+        ],
+        "imdbnumber": "212961",
+        "label": "Hell on Wheels",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Hell on Wheels tells the epic story of post-Civil War America, focusing on a Confederate soldier (Mount) who sets out to exact revenge on the Union soldiers who have killed his wife. His journey takes him west to Hell on Wheels, a dangerous, raucous, lawless melting pot of a town that travels with and services the construction of the first transcontinental railroad, an engineering feat unprecedented for its time.",
+        "premiered": "2011-11-06",
+        "rating": 8.5,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "AMC"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/212961-8.jpg",
+        "title": "Hell on Wheels",
+        "tvshowid": 40,
+        "votes": "76",
+        "watchedepisodes": 0,
+        "year": 2011
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/212961/4138170.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/212961-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/212961-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jesse Lipscombe",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gerald Auger",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ian Tracey",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307273.jpg"
+                    },
+                    {
+                        "name": "Ted Levine",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Anson Mount",
+                        "order": 0,
+                        "role": "Cullen Bohannan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231831.jpg"
+                    },
+                    {
+                        "name": "Colm Meaney",
+                        "order": 1,
+                        "role": "Thomas 'Doc' Durant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291043.jpg"
+                    },
+                    {
+                        "name": "Robin McLeavy",
+                        "order": 2,
+                        "role": "Eva",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299793.jpg"
+                    },
+                    {
+                        "name": "Christopher Heyerdahl",
+                        "order": 3,
+                        "role": "The Swede",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299792.jpg"
+                    },
+                    {
+                        "name": "Jake Weber",
+                        "order": 4,
+                        "role": "John Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337034.jpg"
+                    },
+                    {
+                        "name": "MacKenzie Porter",
+                        "order": 5,
+                        "role": "Naomi Bohannon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336985.jpg"
+                    },
+                    {
+                        "name": "Jennifer Ferrin",
+                        "order": 6,
+                        "role": "Louise Ellison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334756.jpg"
+                    },
+                    {
+                        "name": "Duncan Ollerenshaw",
+                        "order": 7,
+                        "role": "Mr. Toole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332947.jpg"
+                    },
+                    {
+                        "name": "Tom Noonan",
+                        "order": 8,
+                        "role": "Reverend Cole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332946.jpg"
+                    },
+                    {
+                        "name": "DELETE DUPLICATE",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332945.jpg"
+                    },
+                    {
+                        "name": "Phil Burke",
+                        "order": 10,
+                        "role": "Mickey McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332944.jpg"
+                    },
+                    {
+                        "name": "Ben Esler",
+                        "order": 11,
+                        "role": "Sean McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332941.jpg"
+                    },
+                    {
+                        "name": "Kasha Kropinski",
+                        "order": 12,
+                        "role": "Ruth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299794.jpg"
+                    },
+                    {
+                        "name": "Eddie Spears",
+                        "order": 13,
+                        "role": "Joseph Black Moon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299791.jpg"
+                    },
+                    {
+                        "name": "Common",
+                        "order": 14,
+                        "role": "Elam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291044.jpg"
+                    },
+                    {
+                        "name": "Dominique McElligott",
+                        "order": 15,
+                        "role": "Lily Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291042.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-10 15:18:56",
+                "director": [
+                    "David Von Ancken"
+                ],
+                "episode": 1,
+                "episodeid": 664,
+                "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hell on Wheels/Season 1/Hell.on.Wheels.S01E01.Die.Gleisbettkolonne.German.Dubbed.BDRip.XviD-ITG.avi",
+                "firstaired": "2011-11-06",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A former confederate soldier journeys to the transcontinental railroad to seek vengeance.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hell on Wheels",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/212961/4138170.jpg",
+                "title": "Pilot",
+                "tvshowid": 40,
+                "uniqueid": {
+                    "unknown": "4138170"
+                },
+                "votes": "83",
+                "writer": [
+                    "Tony Gayton",
+                    "Joe Gayton"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/212961/4194253.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/212961-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/212961-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Diego Diablo Del Mar",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Christopher Heyerdahl",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299792.jpg"
+                    },
+                    {
+                        "name": "Ian Tracey",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307273.jpg"
+                    },
+                    {
+                        "name": "Anson Mount",
+                        "order": 0,
+                        "role": "Cullen Bohannan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231831.jpg"
+                    },
+                    {
+                        "name": "Colm Meaney",
+                        "order": 1,
+                        "role": "Thomas 'Doc' Durant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291043.jpg"
+                    },
+                    {
+                        "name": "Robin McLeavy",
+                        "order": 2,
+                        "role": "Eva",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299793.jpg"
+                    },
+                    {
+                        "name": "Jake Weber",
+                        "order": 4,
+                        "role": "John Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337034.jpg"
+                    },
+                    {
+                        "name": "MacKenzie Porter",
+                        "order": 5,
+                        "role": "Naomi Bohannon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336985.jpg"
+                    },
+                    {
+                        "name": "Jennifer Ferrin",
+                        "order": 6,
+                        "role": "Louise Ellison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334756.jpg"
+                    },
+                    {
+                        "name": "Duncan Ollerenshaw",
+                        "order": 7,
+                        "role": "Mr. Toole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332947.jpg"
+                    },
+                    {
+                        "name": "Tom Noonan",
+                        "order": 8,
+                        "role": "Reverend Cole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332946.jpg"
+                    },
+                    {
+                        "name": "DELETE DUPLICATE",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332945.jpg"
+                    },
+                    {
+                        "name": "Phil Burke",
+                        "order": 10,
+                        "role": "Mickey McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332944.jpg"
+                    },
+                    {
+                        "name": "Ben Esler",
+                        "order": 11,
+                        "role": "Sean McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332941.jpg"
+                    },
+                    {
+                        "name": "Kasha Kropinski",
+                        "order": 12,
+                        "role": "Ruth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299794.jpg"
+                    },
+                    {
+                        "name": "Eddie Spears",
+                        "order": 13,
+                        "role": "Joseph Black Moon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299791.jpg"
+                    },
+                    {
+                        "name": "Common",
+                        "order": 14,
+                        "role": "Elam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291044.jpg"
+                    },
+                    {
+                        "name": "Dominique McElligott",
+                        "order": 15,
+                        "role": "Lily Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291042.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-13 22:15:44",
+                "director": [
+                    "David Von Ancken"
+                ],
+                "episode": 2,
+                "episodeid": 665,
+                "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hell on Wheels/Season 1/Hell.on.Wheels.S01E02.Unmoralische.Mathematik.German.Dubbed.BDRip.XviD-ITG.avi",
+                "firstaired": "2011-11-13",
+                "label": "1x02. Immoral Mathematics",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Lily encounters natives in the wilderness. Cullen is questioned in regards to his recent actions against others. Meanwhile, Durant continues his push for political gain through his persuasions.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hell on Wheels",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/212961/4194253.jpg",
+                "title": "Immoral Mathematics",
+                "tvshowid": 40,
+                "uniqueid": {
+                    "unknown": "4194253"
+                },
+                "votes": "72",
+                "writer": [
+                    "Tony Gayton",
+                    "Joe Gayton"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/212961/4194255.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/212961-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/212961-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Duncan Ollerenshaw",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332947.jpg"
+                    },
+                    {
+                        "name": "Christopher Heyerdahl",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299792.jpg"
+                    },
+                    {
+                        "name": "Ian Tracey",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307273.jpg"
+                    },
+                    {
+                        "name": "Diego Diablo Del Mar",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dohn Norwood",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robin McLeavy",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299793.jpg"
+                    },
+                    {
+                        "name": "Anson Mount",
+                        "order": 0,
+                        "role": "Cullen Bohannan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231831.jpg"
+                    },
+                    {
+                        "name": "Colm Meaney",
+                        "order": 1,
+                        "role": "Thomas 'Doc' Durant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291043.jpg"
+                    },
+                    {
+                        "name": "Jake Weber",
+                        "order": 4,
+                        "role": "John Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337034.jpg"
+                    },
+                    {
+                        "name": "MacKenzie Porter",
+                        "order": 5,
+                        "role": "Naomi Bohannon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336985.jpg"
+                    },
+                    {
+                        "name": "Jennifer Ferrin",
+                        "order": 6,
+                        "role": "Louise Ellison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334756.jpg"
+                    },
+                    {
+                        "name": "Tom Noonan",
+                        "order": 8,
+                        "role": "Reverend Cole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332946.jpg"
+                    },
+                    {
+                        "name": "DELETE DUPLICATE",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332945.jpg"
+                    },
+                    {
+                        "name": "Phil Burke",
+                        "order": 10,
+                        "role": "Mickey McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332944.jpg"
+                    },
+                    {
+                        "name": "Ben Esler",
+                        "order": 11,
+                        "role": "Sean McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332941.jpg"
+                    },
+                    {
+                        "name": "Kasha Kropinski",
+                        "order": 12,
+                        "role": "Ruth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299794.jpg"
+                    },
+                    {
+                        "name": "Eddie Spears",
+                        "order": 13,
+                        "role": "Joseph Black Moon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299791.jpg"
+                    },
+                    {
+                        "name": "Common",
+                        "order": 14,
+                        "role": "Elam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291044.jpg"
+                    },
+                    {
+                        "name": "Dominique McElligott",
+                        "order": 15,
+                        "role": "Lily Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291042.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-12 19:05:22",
+                "director": [
+                    "Phil Abraham"
+                ],
+                "episode": 3,
+                "episodeid": 666,
+                "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hell on Wheels/Season 1/Hell.on.Wheels.S01E03.Eine.neue.Freiheit.German.Dubbed.BDRip.XviD-ITG.avi",
+                "firstaired": "2011-11-20",
+                "label": "1x03. A New Birth of Freedom",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Lily goes missing, Durant organizes a search party. A subsidiary request prevents Cullen from his continued search for the sergeant involved in the murder of his wife.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hell on Wheels",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/212961/4194255.jpg",
+                "title": "A New Birth of Freedom",
+                "tvshowid": 40,
+                "uniqueid": {
+                    "unknown": "4194255"
+                },
+                "votes": "66",
+                "writer": [
+                    "John Shiban"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/212961/4200146.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/212961-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/212961-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Duncan Ollerenshaw",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332947.jpg"
+                    },
+                    {
+                        "name": "Christopher Heyerdahl",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299792.jpg"
+                    },
+                    {
+                        "name": "Ian Tracey",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307273.jpg"
+                    },
+                    {
+                        "name": "Diego Diablo Del Mar",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dohn Norwood",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robin McLeavy",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299793.jpg"
+                    },
+                    {
+                        "name": "Anson Mount",
+                        "order": 0,
+                        "role": "Cullen Bohannan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231831.jpg"
+                    },
+                    {
+                        "name": "Colm Meaney",
+                        "order": 1,
+                        "role": "Thomas 'Doc' Durant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291043.jpg"
+                    },
+                    {
+                        "name": "Jake Weber",
+                        "order": 4,
+                        "role": "John Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337034.jpg"
+                    },
+                    {
+                        "name": "MacKenzie Porter",
+                        "order": 5,
+                        "role": "Naomi Bohannon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336985.jpg"
+                    },
+                    {
+                        "name": "Jennifer Ferrin",
+                        "order": 6,
+                        "role": "Louise Ellison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334756.jpg"
+                    },
+                    {
+                        "name": "Tom Noonan",
+                        "order": 8,
+                        "role": "Reverend Cole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332946.jpg"
+                    },
+                    {
+                        "name": "DELETE DUPLICATE",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332945.jpg"
+                    },
+                    {
+                        "name": "Phil Burke",
+                        "order": 10,
+                        "role": "Mickey McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332944.jpg"
+                    },
+                    {
+                        "name": "Ben Esler",
+                        "order": 11,
+                        "role": "Sean McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332941.jpg"
+                    },
+                    {
+                        "name": "Kasha Kropinski",
+                        "order": 12,
+                        "role": "Ruth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299794.jpg"
+                    },
+                    {
+                        "name": "Eddie Spears",
+                        "order": 13,
+                        "role": "Joseph Black Moon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299791.jpg"
+                    },
+                    {
+                        "name": "Common",
+                        "order": 14,
+                        "role": "Elam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291044.jpg"
+                    },
+                    {
+                        "name": "Dominique McElligott",
+                        "order": 15,
+                        "role": "Lily Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291042.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-12 18:53:24",
+                "director": [
+                    "Alex Zakrzewski"
+                ],
+                "episode": 4,
+                "episodeid": 667,
+                "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hell on Wheels/Season 1/Hell.on.Wheels.S01E04.Geheimnisse.German.Dubbed.BDRip.XviD-ITG.avi",
+                "firstaired": "2011-11-27",
+                "label": "1x04. Jamais Je Ne T'oublierai",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Cullen's search for the sergeant nears its end; Durant keeps to his hidden agenda while assisting in Lily's recuperation.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hell on Wheels",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/212961/4200146.jpg",
+                "title": "Jamais Je Ne T'oublierai",
+                "tvshowid": 40,
+                "uniqueid": {
+                    "unknown": "4200146"
+                },
+                "votes": "61",
+                "writer": [
+                    "Jami O'Brien"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/212961/4200147.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/212961-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/212961-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Duncan Ollerenshaw",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332947.jpg"
+                    },
+                    {
+                        "name": "Diego Diablo Del Mar",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Christopher Heyerdahl",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299792.jpg"
+                    },
+                    {
+                        "name": "Gerald Auger",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dohn Norwood",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kasha Kropinski",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299794.jpg"
+                    },
+                    {
+                        "name": "Robin McLeavy",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299793.jpg"
+                    },
+                    {
+                        "name": "Wes Studi",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xwmhqIx6HU2dACyZ2BxGnCWJoXz.jpg"
+                    },
+                    {
+                        "name": "Anson Mount",
+                        "order": 0,
+                        "role": "Cullen Bohannan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231831.jpg"
+                    },
+                    {
+                        "name": "Colm Meaney",
+                        "order": 1,
+                        "role": "Thomas 'Doc' Durant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291043.jpg"
+                    },
+                    {
+                        "name": "Jake Weber",
+                        "order": 4,
+                        "role": "John Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337034.jpg"
+                    },
+                    {
+                        "name": "MacKenzie Porter",
+                        "order": 5,
+                        "role": "Naomi Bohannon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336985.jpg"
+                    },
+                    {
+                        "name": "Jennifer Ferrin",
+                        "order": 6,
+                        "role": "Louise Ellison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334756.jpg"
+                    },
+                    {
+                        "name": "Tom Noonan",
+                        "order": 8,
+                        "role": "Reverend Cole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332946.jpg"
+                    },
+                    {
+                        "name": "DELETE DUPLICATE",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332945.jpg"
+                    },
+                    {
+                        "name": "Phil Burke",
+                        "order": 10,
+                        "role": "Mickey McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332944.jpg"
+                    },
+                    {
+                        "name": "Ben Esler",
+                        "order": 11,
+                        "role": "Sean McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332941.jpg"
+                    },
+                    {
+                        "name": "Eddie Spears",
+                        "order": 13,
+                        "role": "Joseph Black Moon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299791.jpg"
+                    },
+                    {
+                        "name": "Common",
+                        "order": 14,
+                        "role": "Elam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291044.jpg"
+                    },
+                    {
+                        "name": "Dominique McElligott",
+                        "order": 15,
+                        "role": "Lily Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291042.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-12 18:55:10",
+                "director": [
+                    "Adam Davidson"
+                ],
+                "episode": 5,
+                "episodeid": 668,
+                "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hell on Wheels/Season 1/Hell.on.Wheels.S01E05.Brot.und.Spiele.German.Dubbed.BDRip.XviD-ITG.avi",
+                "firstaired": "2011-12-04",
+                "label": "1x05. Bread and Circuses",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A bare-knuckle brouhaha between Elam and Cullen is spurred by Durant's latest attempt to deal with the railroad's financial crisis.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hell on Wheels",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/212961/4200147.jpg",
+                "title": "Bread and Circuses",
+                "tvshowid": 40,
+                "uniqueid": {
+                    "unknown": "4200147"
+                },
+                "votes": "61",
+                "writer": [
+                    "Mark Richard"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/212961/4200148.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/212961-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/212961-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Duncan Ollerenshaw",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332947.jpg"
+                    },
+                    {
+                        "name": "Gerald Auger",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Christopher Heyerdahl",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299792.jpg"
+                    },
+                    {
+                        "name": "Sharon Taylor",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "James D. Hopkin",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dohn Norwood",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kasha Kropinski",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299794.jpg"
+                    },
+                    {
+                        "name": "Robin McLeavy",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299793.jpg"
+                    },
+                    {
+                        "name": "Diego Diablo Del Mar",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Wes Studi",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xwmhqIx6HU2dACyZ2BxGnCWJoXz.jpg"
+                    },
+                    {
+                        "name": "Anson Mount",
+                        "order": 0,
+                        "role": "Cullen Bohannan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231831.jpg"
+                    },
+                    {
+                        "name": "Colm Meaney",
+                        "order": 1,
+                        "role": "Thomas 'Doc' Durant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291043.jpg"
+                    },
+                    {
+                        "name": "Jake Weber",
+                        "order": 4,
+                        "role": "John Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337034.jpg"
+                    },
+                    {
+                        "name": "MacKenzie Porter",
+                        "order": 5,
+                        "role": "Naomi Bohannon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336985.jpg"
+                    },
+                    {
+                        "name": "Jennifer Ferrin",
+                        "order": 6,
+                        "role": "Louise Ellison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334756.jpg"
+                    },
+                    {
+                        "name": "Tom Noonan",
+                        "order": 8,
+                        "role": "Reverend Cole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332946.jpg"
+                    },
+                    {
+                        "name": "DELETE DUPLICATE",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332945.jpg"
+                    },
+                    {
+                        "name": "Phil Burke",
+                        "order": 10,
+                        "role": "Mickey McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332944.jpg"
+                    },
+                    {
+                        "name": "Ben Esler",
+                        "order": 11,
+                        "role": "Sean McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332941.jpg"
+                    },
+                    {
+                        "name": "Eddie Spears",
+                        "order": 13,
+                        "role": "Joseph Black Moon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299791.jpg"
+                    },
+                    {
+                        "name": "Common",
+                        "order": 14,
+                        "role": "Elam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291044.jpg"
+                    },
+                    {
+                        "name": "Dominique McElligott",
+                        "order": 15,
+                        "role": "Lily Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291042.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-12 18:55:14",
+                "director": [
+                    "Michael Slovis"
+                ],
+                "episode": 6,
+                "episodeid": 669,
+                "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hell on Wheels/Season 1/Hell.on.Wheels.S01E06.Schwierige.Verhandlungen.German.Dubbed.BDRip.XviD-ITG.avi",
+                "firstaired": "2011-12-11",
+                "label": "1x06. Pride, Pomp and Circumstance",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Durant challenges the Cheyenne to a competition in an effort to bring a halt to ongoing negotiations. Meanwhile, Elam and Cullen try to prevent bloodshed in town.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hell on Wheels",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/212961/4200148.jpg",
+                "title": "Pride, Pomp and Circumstance",
+                "tvshowid": 40,
+                "uniqueid": {
+                    "unknown": "4200148"
+                },
+                "votes": "67",
+                "writer": [
+                    "Bruce Marshall Romans"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/212961/4200149.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/212961-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/212961-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Duncan Ollerenshaw",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332947.jpg"
+                    },
+                    {
+                        "name": "Diego Diablo Del Mar",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Christopher Heyerdahl",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299792.jpg"
+                    },
+                    {
+                        "name": "Ian Tracey",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307273.jpg"
+                    },
+                    {
+                        "name": "Dohn Norwood",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robin McLeavy",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299793.jpg"
+                    },
+                    {
+                        "name": "Anson Mount",
+                        "order": 0,
+                        "role": "Cullen Bohannan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231831.jpg"
+                    },
+                    {
+                        "name": "Colm Meaney",
+                        "order": 1,
+                        "role": "Thomas 'Doc' Durant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291043.jpg"
+                    },
+                    {
+                        "name": "Jake Weber",
+                        "order": 4,
+                        "role": "John Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337034.jpg"
+                    },
+                    {
+                        "name": "MacKenzie Porter",
+                        "order": 5,
+                        "role": "Naomi Bohannon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336985.jpg"
+                    },
+                    {
+                        "name": "Jennifer Ferrin",
+                        "order": 6,
+                        "role": "Louise Ellison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334756.jpg"
+                    },
+                    {
+                        "name": "Tom Noonan",
+                        "order": 8,
+                        "role": "Reverend Cole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332946.jpg"
+                    },
+                    {
+                        "name": "DELETE DUPLICATE",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332945.jpg"
+                    },
+                    {
+                        "name": "Phil Burke",
+                        "order": 10,
+                        "role": "Mickey McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332944.jpg"
+                    },
+                    {
+                        "name": "Ben Esler",
+                        "order": 11,
+                        "role": "Sean McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332941.jpg"
+                    },
+                    {
+                        "name": "Kasha Kropinski",
+                        "order": 12,
+                        "role": "Ruth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299794.jpg"
+                    },
+                    {
+                        "name": "Eddie Spears",
+                        "order": 13,
+                        "role": "Joseph Black Moon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299791.jpg"
+                    },
+                    {
+                        "name": "Common",
+                        "order": 14,
+                        "role": "Elam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291044.jpg"
+                    },
+                    {
+                        "name": "Dominique McElligott",
+                        "order": 15,
+                        "role": "Lily Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291042.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-12 18:59:11",
+                "director": [
+                    "Michelle MacLaren"
+                ],
+                "episode": 7,
+                "episodeid": 670,
+                "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hell on Wheels/Season 1/Hell.on.Wheels.S01E07.Enthuellungen.German.Dubbed.BDRip.XviD-ITG.avi",
+                "firstaired": "2011-12-18",
+                "label": "1x07. Revelations",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "With Elam's life in the balance, Cullen must decide how much he’s willing to risk. Meanwhile Durant faces financial ruin as Lily confronts the family of her late husband.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hell on Wheels",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/212961/4200149.jpg",
+                "title": "Revelations",
+                "tvshowid": 40,
+                "uniqueid": {
+                    "unknown": "4200149"
+                },
+                "votes": "61",
+                "writer": [
+                    "Joe Gayton",
+                    "Tony Gayton"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/212961/4222519.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/212961-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/212961-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Gerald Auger",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Colin A. Campbell",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Christopher Heyerdahl",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299792.jpg"
+                    },
+                    {
+                        "name": "Kasha Kropinski",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299794.jpg"
+                    },
+                    {
+                        "name": "Robin McLeavy",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299793.jpg"
+                    },
+                    {
+                        "name": "Ty Olsson",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321392.jpg"
+                    },
+                    {
+                        "name": "Anson Mount",
+                        "order": 0,
+                        "role": "Cullen Bohannan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231831.jpg"
+                    },
+                    {
+                        "name": "Colm Meaney",
+                        "order": 1,
+                        "role": "Thomas 'Doc' Durant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291043.jpg"
+                    },
+                    {
+                        "name": "Jake Weber",
+                        "order": 4,
+                        "role": "John Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337034.jpg"
+                    },
+                    {
+                        "name": "MacKenzie Porter",
+                        "order": 5,
+                        "role": "Naomi Bohannon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336985.jpg"
+                    },
+                    {
+                        "name": "Jennifer Ferrin",
+                        "order": 6,
+                        "role": "Louise Ellison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334756.jpg"
+                    },
+                    {
+                        "name": "Duncan Ollerenshaw",
+                        "order": 7,
+                        "role": "Mr. Toole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332947.jpg"
+                    },
+                    {
+                        "name": "Tom Noonan",
+                        "order": 8,
+                        "role": "Reverend Cole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332946.jpg"
+                    },
+                    {
+                        "name": "DELETE DUPLICATE",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332945.jpg"
+                    },
+                    {
+                        "name": "Phil Burke",
+                        "order": 10,
+                        "role": "Mickey McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332944.jpg"
+                    },
+                    {
+                        "name": "Ben Esler",
+                        "order": 11,
+                        "role": "Sean McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332941.jpg"
+                    },
+                    {
+                        "name": "Eddie Spears",
+                        "order": 13,
+                        "role": "Joseph Black Moon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299791.jpg"
+                    },
+                    {
+                        "name": "Common",
+                        "order": 14,
+                        "role": "Elam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291044.jpg"
+                    },
+                    {
+                        "name": "Dominique McElligott",
+                        "order": 15,
+                        "role": "Lily Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291042.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-12 18:59:51",
+                "director": [
+                    "David Von Ancken"
+                ],
+                "episode": 8,
+                "episodeid": 671,
+                "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hell on Wheels/Season 1/Hell.on.Wheels.S01E08.Entgleist.German.Dubbed.BDRip.XviD-ITG.avi",
+                "firstaired": "2012-01-01",
+                "label": "1x08. Derailed",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Durant dispatches Cullen and Elam on a mission of vengeance. Lily struggles to find her place.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hell on Wheels",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/212961/4222519.jpg",
+                "title": "Derailed",
+                "tvshowid": 40,
+                "uniqueid": {
+                    "unknown": "4222519"
+                },
+                "votes": "60",
+                "writer": [
+                    "Mark Richard"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/212961/4222520.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/212961-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/212961-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Duncan Ollerenshaw",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332947.jpg"
+                    },
+                    {
+                        "name": "Gerald Auger",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Christopher Heyerdahl",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299792.jpg"
+                    },
+                    {
+                        "name": "Ty Olsson",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321392.jpg"
+                    },
+                    {
+                        "name": "Kasha Kropinski",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299794.jpg"
+                    },
+                    {
+                        "name": "Robin McLeavy",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299793.jpg"
+                    },
+                    {
+                        "name": "Wes Studi",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xwmhqIx6HU2dACyZ2BxGnCWJoXz.jpg"
+                    },
+                    {
+                        "name": "Anson Mount",
+                        "order": 0,
+                        "role": "Cullen Bohannan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231831.jpg"
+                    },
+                    {
+                        "name": "Colm Meaney",
+                        "order": 1,
+                        "role": "Thomas 'Doc' Durant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291043.jpg"
+                    },
+                    {
+                        "name": "Jake Weber",
+                        "order": 4,
+                        "role": "John Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337034.jpg"
+                    },
+                    {
+                        "name": "MacKenzie Porter",
+                        "order": 5,
+                        "role": "Naomi Bohannon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336985.jpg"
+                    },
+                    {
+                        "name": "Jennifer Ferrin",
+                        "order": 6,
+                        "role": "Louise Ellison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334756.jpg"
+                    },
+                    {
+                        "name": "Tom Noonan",
+                        "order": 8,
+                        "role": "Reverend Cole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332946.jpg"
+                    },
+                    {
+                        "name": "DELETE DUPLICATE",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332945.jpg"
+                    },
+                    {
+                        "name": "Phil Burke",
+                        "order": 10,
+                        "role": "Mickey McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332944.jpg"
+                    },
+                    {
+                        "name": "Ben Esler",
+                        "order": 11,
+                        "role": "Sean McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332941.jpg"
+                    },
+                    {
+                        "name": "Eddie Spears",
+                        "order": 13,
+                        "role": "Joseph Black Moon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299791.jpg"
+                    },
+                    {
+                        "name": "Common",
+                        "order": 14,
+                        "role": "Elam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291044.jpg"
+                    },
+                    {
+                        "name": "Dominique McElligott",
+                        "order": 15,
+                        "role": "Lily Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291042.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-12 18:59:19",
+                "director": [
+                    "John Shiban"
+                ],
+                "episode": 9,
+                "episodeid": 672,
+                "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hell on Wheels/Season 1/Hell.on.Wheels.S01E09.Vergebung.German.Dubbed.BDRip.XviD-ITG.avi",
+                "firstaired": "2012-01-08",
+                "label": "1x09. Timshel",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A looming railroad deadline throws Cullen and Lily together; Joseph and Elam deal with what their violent mission has wrought.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hell on Wheels",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/212961/4222520.jpg",
+                "title": "Timshel",
+                "tvshowid": 40,
+                "uniqueid": {
+                    "unknown": "4222520"
+                },
+                "votes": "63",
+                "writer": [
+                    "John Shiban"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/212961/4222521.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/212961-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/212961-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Duncan Ollerenshaw",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332947.jpg"
+                    },
+                    {
+                        "name": "Ian Kilburn",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Christopher Heyerdahl",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299792.jpg"
+                    },
+                    {
+                        "name": "Dohn Norwood",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kasha Kropinski",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299794.jpg"
+                    },
+                    {
+                        "name": "Robin McLeavy",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299793.jpg"
+                    },
+                    {
+                        "name": "Anson Mount",
+                        "order": 0,
+                        "role": "Cullen Bohannan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/231831.jpg"
+                    },
+                    {
+                        "name": "Colm Meaney",
+                        "order": 1,
+                        "role": "Thomas 'Doc' Durant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291043.jpg"
+                    },
+                    {
+                        "name": "Jake Weber",
+                        "order": 4,
+                        "role": "John Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337034.jpg"
+                    },
+                    {
+                        "name": "MacKenzie Porter",
+                        "order": 5,
+                        "role": "Naomi Bohannon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336985.jpg"
+                    },
+                    {
+                        "name": "Jennifer Ferrin",
+                        "order": 6,
+                        "role": "Louise Ellison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334756.jpg"
+                    },
+                    {
+                        "name": "Tom Noonan",
+                        "order": 8,
+                        "role": "Reverend Cole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332946.jpg"
+                    },
+                    {
+                        "name": "DELETE DUPLICATE",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332945.jpg"
+                    },
+                    {
+                        "name": "Phil Burke",
+                        "order": 10,
+                        "role": "Mickey McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332944.jpg"
+                    },
+                    {
+                        "name": "Ben Esler",
+                        "order": 11,
+                        "role": "Sean McGinnes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332941.jpg"
+                    },
+                    {
+                        "name": "Eddie Spears",
+                        "order": 13,
+                        "role": "Joseph Black Moon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299791.jpg"
+                    },
+                    {
+                        "name": "Common",
+                        "order": 14,
+                        "role": "Elam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291044.jpg"
+                    },
+                    {
+                        "name": "Dominique McElligott",
+                        "order": 15,
+                        "role": "Lily Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291042.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-12 19:06:41",
+                "director": [
+                    "David Von Ancken"
+                ],
+                "episode": 10,
+                "episodeid": 673,
+                "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hell on Wheels/Season 1/Hell.on.Wheels.S01E10.Der.Gott.des.Chaos.German.Dubbed.BDRip.XviD-ITG.avi",
+                "firstaired": "2012-01-15",
+                "label": "1x10. God of Chaos",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In the Season 1 finale, Cullen's past and future collide, impacting his life on the railroad.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Hell on Wheels",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/212961/4222521.jpg",
+                "title": "God of Chaos",
+                "tvshowid": 40,
+                "uniqueid": {
+                    "unknown": "4222521"
+                },
+                "votes": "60",
+                "writer": [
+                    "Joe Gayton",
+                    "Tony Gayton"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/212961-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/212961-1-6.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/212961-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/212961-8.jpg"
+            },
+            "episode": 10,
+            "fanart": "http://thetvdb.com/banners/fanart/original/212961-26.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 207,
+            "showtitle": "Hell on Wheels",
+            "thumbnail": "http://thetvdb.com/banners/seasons/212961-1-6.jpg",
+            "tvshowid": 40,
+            "watchedepisodes": 0
+        }
+    ]
+}

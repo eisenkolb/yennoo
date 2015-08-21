@@ -1,0 +1,104 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/79652-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/79652-1.jpg",
+            "poster": "http://thetvdb.com/banners/posters/79652-3.jpg"
+        },
+        "cast": [],
+        "dateadded": "2014-04-13 21:41:50",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"79652-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/79652/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/79652-1.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Coyote Ragtime Show/",
+        "genre": [
+            "Animation"
+        ],
+        "imdbnumber": "79652",
+        "label": "Coyote Ragtime Show",
+        "lastplayed": "",
+        "mpaa": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Mister is a coyote or space faring outlaw who has been sitting in prison for a year for a traffic offence. Ten days from release, he breaks out with the help of his old partners Bishop and Katana. He then seeks out Franca who has been left in his care by her dead father and takes her on a journey to find her father's treasure. On their heels are the federal investigators Angelica and Chelsea as well as the android assassins of the Criminal Guild, Madame Marciano's Twelve Sisters.",
+        "premiered": "2006-07-04",
+        "rating": 10,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/79652-3.jpg",
+        "title": "Coyote Ragtime Show",
+        "tvshowid": 17,
+        "votes": "0",
+        "watchedepisodes": 0,
+        "year": 2006
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/79652/389854.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/79652-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79652-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/79652-3.jpg"
+                },
+                "cast": [],
+                "dateadded": "2014-04-13 21:41:50",
+                "director": [],
+                "episode": 1,
+                "episodeid": 269,
+                "fanart": "http://thetvdb.com/banners/fanart/original/79652-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Coyote Ragtime Show/Season 1/Coyote.Ragtime.Show.S01E01.Ausbruch.German.Dubbed.x264-NA.flv",
+                "firstaired": "2006-07-04",
+                "label": "1x01. Jailbreak",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Federal Investigator Angelica Burns arrives on a distant planet searching for the criminal mastermind known as \"Mister\". Some information suggests that he is serving time in a local prison for a traffic violation. Arriving at the prison, she gets more than she bargained for, particularly when she learns that Marciano has sent her 12 Sisters after Mister, too.",
+                "productioncode": "",
+                "rating": 0,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Coyote Ragtime Show",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/79652/389854.jpg",
+                "title": "Jailbreak",
+                "tvshowid": 17,
+                "uniqueid": {
+                    "unknown": "389854"
+                },
+                "votes": "0",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/79652-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/79652-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79652-1.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/79652-3.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/79652-1.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 88,
+            "showtitle": "Coyote Ragtime Show",
+            "thumbnail": "http://thetvdb.com/banners/seasons/79652-1.jpg",
+            "tvshowid": 17,
+            "watchedepisodes": 0
+        }
+    ]
+}

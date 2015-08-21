@@ -1,0 +1,157 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/252325-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/252325-3.jpg",
+            "poster": "http://thetvdb.com/banners/posters/252325-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Melissa George",
+                "order": 0,
+                "role": "Rosie",
+                "thumbnail": "http://thetvdb.com/banners/actors/290394.jpg"
+            },
+            {
+                "name": "Alex Dimitriades",
+                "order": 1,
+                "role": "Harry"
+            },
+            {
+                "name": "Jonathan LaPaglia",
+                "order": 3,
+                "role": "Hector"
+            },
+            {
+                "name": "Sophie Okonedo",
+                "order": 4,
+                "role": "Aisha",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5Yo3KGum1txRLmt6JZwQ5TYSIsg.jpg"
+            }
+        ],
+        "dateadded": "2013-12-06 17:37:59",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"252325-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/252325/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/252325-3.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Slap/",
+        "genre": [
+            "Drama"
+        ],
+        "imdbnumber": "252325",
+        "label": "The Slap",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "At a suburban barbecue, a man slaps a child who is not his own. This event has a shocking ricochet effect on the group of family and friends who are directly or indirectly influenced by the event. Based on Christos Tsiolkas' best-selling novel.",
+        "premiered": "2011-10-06",
+        "rating": 8.5,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "ABC (AU)"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/252325-3.jpg",
+        "title": "The Slap",
+        "tvshowid": 85,
+        "votes": "4",
+        "watchedepisodes": 0,
+        "year": 2011
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/252325/4180553.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/252325-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/252325-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/252325-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Melissa George",
+                        "order": 0,
+                        "role": "Rosie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/290394.jpg"
+                    },
+                    {
+                        "name": "Alex Dimitriades",
+                        "order": 1,
+                        "role": "Harry"
+                    },
+                    {
+                        "name": "Jonathan LaPaglia",
+                        "order": 3,
+                        "role": "Hector"
+                    },
+                    {
+                        "name": "Sophie Okonedo",
+                        "order": 4,
+                        "role": "Aisha",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5Yo3KGum1txRLmt6JZwQ5TYSIsg.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-06 17:37:59",
+                "director": [
+                    "Jessica Hobbs"
+                ],
+                "episode": 1,
+                "episodeid": 1670,
+                "fanart": "http://thetvdb.com/banners/fanart/original/252325-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Slap/Season 1/The.Slap.S01E01.Hector.German.DL.AC3.5.1.Synced.BluRay.x264-GDR.mkv",
+                "firstaired": "2011-10-06",
+                "label": "1x01. Hector",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "It's Hector's 40th birthday and friends and family gather at his house for a BBQ. But in amongst the celebrations one of the guests slaps a child that is not his own. No-one can see it at the time but this single act begins to unravel the social fabric which once linked them all together.",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Slap",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/252325/4180553.jpg",
+                "title": "Hector",
+                "tvshowid": 85,
+                "uniqueid": {
+                    "unknown": "4180553"
+                },
+                "votes": "5",
+                "writer": [
+                    "Kris Mrksa"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/252325-1-2.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/252325-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/252325-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/252325-3.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/252325-3.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/252325-3.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 468,
+            "showtitle": "The Slap",
+            "thumbnail": "http://thetvdb.com/banners/seasons/252325-1.jpg",
+            "tvshowid": 85,
+            "watchedepisodes": 0
+        }
+    ]
+}

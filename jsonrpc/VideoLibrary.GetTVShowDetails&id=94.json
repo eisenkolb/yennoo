@@ -1,0 +1,1560 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/267259-g3.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+            "poster": "http://thetvdb.com/banners/posters/267259-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Rachel Boston",
+                "order": 0,
+                "role": "Ingrid Beauchamp",
+                "thumbnail": "http://thetvdb.com/banners/actors/314994.jpg"
+            },
+            {
+                "name": "Mädchen Amick",
+                "order": 1,
+                "role": "Wendy",
+                "thumbnail": "http://thetvdb.com/banners/actors/314993.jpg"
+            },
+            {
+                "name": "Jenna Dewan-Tatum",
+                "order": 2,
+                "role": "Freya Beauchamp",
+                "thumbnail": "http://thetvdb.com/banners/actors/314992.jpg"
+            },
+            {
+                "name": "Julia Ormond",
+                "order": 3,
+                "role": "Joanna Beauchamp",
+                "thumbnail": "http://thetvdb.com/banners/actors/314991.jpg"
+            },
+            {
+                "name": "Eric Winter",
+                "order": 4,
+                "role": "Dash Gardiner",
+                "thumbnail": "http://thetvdb.com/banners/actors/318678.jpg"
+            },
+            {
+                "name": "Daniel DiTomasso",
+                "order": 5,
+                "role": "Killian Gardiner",
+                "thumbnail": "http://thetvdb.com/banners/actors/318677.jpg"
+            },
+            {
+                "name": "Ignacio Serricchio",
+                "order": 6,
+                "role": "Tommy",
+                "thumbnail": "http://thetvdb.com/banners/actors/336195.jpg"
+            },
+            {
+                "name": "Bianca Lawson",
+                "order": 14,
+                "role": "Eva"
+            },
+            {
+                "name": "Christian Cooke",
+                "order": 15,
+                "role": "Frederick Beauchamp"
+            },
+            {
+                "name": "Enver Gjokaj",
+                "order": 16,
+                "role": "Mike",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xatmqOREk6e051ZgaO4VSv4HCnr.jpg"
+            },
+            {
+                "name": "Joel Gretsch",
+                "order": 17,
+                "role": "Victor"
+            },
+            {
+                "name": "Shaun Smyth",
+                "order": 18,
+                "role": "Dr. Frank Foster"
+            },
+            {
+                "name": "Tom Lenk",
+                "order": 19,
+                "role": "Hudson Rafferty"
+            },
+            {
+                "name": "Virginia Madsen",
+                "order": 20,
+                "role": "Penelope Gardiner"
+            }
+        ],
+        "dateadded": "2015-06-04 04:02:24",
+        "episode": 10,
+        "episodeguide": "<episodeguide><url cache=\"267259-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/267259/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Witches of East End/",
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Suspense"
+        ],
+        "imdbnumber": "267259",
+        "label": "Witches of East End",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "The series stars Julia Ormond as lead character Joanna Beauchamp, a witch and mother of Freya Beauchamp (Jenna Dewan Tatum) and Ingrid Beauchamp (Rachel Boston), who are part of the next generation of witches. Mädchen Amick co-stars as Joanna's mischievous witch sister Wendy Beauchamp. The series is loosely based on the book of the same name's plot, with one change being that Freya and Ingrid are unaware of their magical powers.",
+        "premiered": "2013-10-06",
+        "rating": 8.100000381469727,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Lifetime"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/267259-3.jpg",
+        "title": "Witches of East End",
+        "tvshowid": 94,
+        "votes": "27",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267259/4536811.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267259-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267259-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jason George",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Neil Hopkins",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kellee Stewart",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tom Lenk",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gillian Barber",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Virginia Madsen",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Boston",
+                        "order": 0,
+                        "role": "Ingrid Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314994.jpg"
+                    },
+                    {
+                        "name": "Mädchen Amick",
+                        "order": 1,
+                        "role": "Wendy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314993.jpg"
+                    },
+                    {
+                        "name": "Jenna Dewan-Tatum",
+                        "order": 2,
+                        "role": "Freya Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314992.jpg"
+                    },
+                    {
+                        "name": "Julia Ormond",
+                        "order": 3,
+                        "role": "Joanna Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314991.jpg"
+                    },
+                    {
+                        "name": "Eric Winter",
+                        "order": 4,
+                        "role": "Dash Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318678.jpg"
+                    },
+                    {
+                        "name": "Daniel DiTomasso",
+                        "order": 5,
+                        "role": "Killian Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318677.jpg"
+                    },
+                    {
+                        "name": "Ignacio Serricchio",
+                        "order": 6,
+                        "role": "Tommy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336195.jpg"
+                    },
+                    {
+                        "name": "Bianca Lawson",
+                        "order": 14,
+                        "role": "Eva"
+                    },
+                    {
+                        "name": "Christian Cooke",
+                        "order": 15,
+                        "role": "Frederick Beauchamp"
+                    },
+                    {
+                        "name": "Enver Gjokaj",
+                        "order": 16,
+                        "role": "Mike",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xatmqOREk6e051ZgaO4VSv4HCnr.jpg"
+                    },
+                    {
+                        "name": "Joel Gretsch",
+                        "order": 17,
+                        "role": "Victor"
+                    },
+                    {
+                        "name": "Shaun Smyth",
+                        "order": 18,
+                        "role": "Dr. Frank Foster"
+                    }
+                ],
+                "dateadded": "2015-06-04 04:01:12",
+                "director": [
+                    "Mark Waters"
+                ],
+                "episode": 1,
+                "episodeid": 1917,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Witches of East End/Season 1/Witches.of.East.End.S01E01.Unheil.zieht.auf.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-10-06",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Joanna Beauchamp and her adult daughters Ingrid and Freya are witches… a secret she has kept hidden from them for the last thirty years. All that may come to an abrupt end when Joanna’s sister Wendy returns to East Haven with a dire warning that a powerful and malevolent force bent on revenge is coming for Joanna, and it will take the combined magic of all the Beauchamp women to defeat it.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Witches of East End",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267259/4536811.jpg",
+                "title": "Pilot",
+                "tvshowid": 94,
+                "uniqueid": {
+                    "unknown": "4536811"
+                },
+                "votes": "20",
+                "writer": [
+                    "Maggie Friedman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267259/4633628.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267259-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267259-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jason George",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Neil Hopkins",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Anthony Lemke",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gelsy Wong",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Boston",
+                        "order": 0,
+                        "role": "Ingrid Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314994.jpg"
+                    },
+                    {
+                        "name": "Mädchen Amick",
+                        "order": 1,
+                        "role": "Wendy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314993.jpg"
+                    },
+                    {
+                        "name": "Jenna Dewan-Tatum",
+                        "order": 2,
+                        "role": "Freya Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314992.jpg"
+                    },
+                    {
+                        "name": "Julia Ormond",
+                        "order": 3,
+                        "role": "Joanna Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314991.jpg"
+                    },
+                    {
+                        "name": "Eric Winter",
+                        "order": 4,
+                        "role": "Dash Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318678.jpg"
+                    },
+                    {
+                        "name": "Daniel DiTomasso",
+                        "order": 5,
+                        "role": "Killian Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318677.jpg"
+                    },
+                    {
+                        "name": "Ignacio Serricchio",
+                        "order": 6,
+                        "role": "Tommy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336195.jpg"
+                    },
+                    {
+                        "name": "Bianca Lawson",
+                        "order": 14,
+                        "role": "Eva"
+                    },
+                    {
+                        "name": "Christian Cooke",
+                        "order": 15,
+                        "role": "Frederick Beauchamp"
+                    },
+                    {
+                        "name": "Enver Gjokaj",
+                        "order": 16,
+                        "role": "Mike",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xatmqOREk6e051ZgaO4VSv4HCnr.jpg"
+                    },
+                    {
+                        "name": "Joel Gretsch",
+                        "order": 17,
+                        "role": "Victor"
+                    },
+                    {
+                        "name": "Shaun Smyth",
+                        "order": 18,
+                        "role": "Dr. Frank Foster"
+                    },
+                    {
+                        "name": "Tom Lenk",
+                        "order": 19,
+                        "role": "Hudson Rafferty"
+                    },
+                    {
+                        "name": "Virginia Madsen",
+                        "order": 20,
+                        "role": "Penelope Gardiner"
+                    }
+                ],
+                "dateadded": "2015-06-04 04:02:24",
+                "director": [
+                    "Jonathan Kaplan"
+                ],
+                "episode": 2,
+                "episodeid": 1918,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Witches of East End/Season 1/Witches.of.East.End.S01E02.Ruhe.in.Frieden.Tante.Marylin.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2013-10-13",
+                "label": "1x02. Marilyn Fenwick, R.I.P.",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ingrid discovers mysterious and dangerous family heirlooms that she uses to resurrect her Aunt Wendy. Together, they race to save Freya from Doug, her jilted ex-boyfriend from another lifetime. Joanna is jailed and questioned by the police regarding her murder charge. Dash and Killian have a tense reunion.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Witches of East End",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267259/4633628.jpg",
+                "title": "Marilyn Fenwick, R.I.P.",
+                "tvshowid": 94,
+                "uniqueid": {
+                    "unknown": "4633628"
+                },
+                "votes": "17",
+                "writer": [
+                    "Maggie Friedman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267259/4633629.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267259-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267259-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jason George",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt Frewer",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+                    },
+                    {
+                        "name": "Crystal Dalman",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jennifer Oleksiuk",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Boston",
+                        "order": 0,
+                        "role": "Ingrid Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314994.jpg"
+                    },
+                    {
+                        "name": "Mädchen Amick",
+                        "order": 1,
+                        "role": "Wendy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314993.jpg"
+                    },
+                    {
+                        "name": "Jenna Dewan-Tatum",
+                        "order": 2,
+                        "role": "Freya Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314992.jpg"
+                    },
+                    {
+                        "name": "Julia Ormond",
+                        "order": 3,
+                        "role": "Joanna Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314991.jpg"
+                    },
+                    {
+                        "name": "Eric Winter",
+                        "order": 4,
+                        "role": "Dash Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318678.jpg"
+                    },
+                    {
+                        "name": "Daniel DiTomasso",
+                        "order": 5,
+                        "role": "Killian Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318677.jpg"
+                    },
+                    {
+                        "name": "Ignacio Serricchio",
+                        "order": 6,
+                        "role": "Tommy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336195.jpg"
+                    },
+                    {
+                        "name": "Bianca Lawson",
+                        "order": 14,
+                        "role": "Eva"
+                    },
+                    {
+                        "name": "Christian Cooke",
+                        "order": 15,
+                        "role": "Frederick Beauchamp"
+                    },
+                    {
+                        "name": "Enver Gjokaj",
+                        "order": 16,
+                        "role": "Mike",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xatmqOREk6e051ZgaO4VSv4HCnr.jpg"
+                    },
+                    {
+                        "name": "Joel Gretsch",
+                        "order": 17,
+                        "role": "Victor"
+                    },
+                    {
+                        "name": "Shaun Smyth",
+                        "order": 18,
+                        "role": "Dr. Frank Foster"
+                    },
+                    {
+                        "name": "Tom Lenk",
+                        "order": 19,
+                        "role": "Hudson Rafferty"
+                    },
+                    {
+                        "name": "Virginia Madsen",
+                        "order": 20,
+                        "role": "Penelope Gardiner"
+                    }
+                ],
+                "dateadded": "2014-05-02 02:00:14",
+                "director": [
+                    "Allan Arkush"
+                ],
+                "episode": 3,
+                "episodeid": 1919,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Witches of East End/Season 1/Witches.of.East.End.S01E03.Heute.bin.ich.eine.Hexe.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "firstaired": "2013-10-20",
+                "label": "1x03. Today I Am a Witch",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ingrid struggles with the consequences of the resurrection spell. Joanna tries to figure out which of her many former enemies might be responsible for framing her. Wendy teaches Ingrid and Freya how to use their powers. Freya gets a new co-worker at the bar.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Witches of East End",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267259/4633629.jpg",
+                "title": "Today I Am a Witch",
+                "tvshowid": 94,
+                "uniqueid": {
+                    "unknown": "4633629"
+                },
+                "votes": "17",
+                "writer": [
+                    "Josh Reims"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267259/4639815.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267259-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267259-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jason George",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Anthony Lemke",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt Frewer",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+                    },
+                    {
+                        "name": "Kellee Stewart",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tom Lenk",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gillian Barber",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Freddie Prinze Jr.",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137191.jpg"
+                    },
+                    {
+                        "name": "Virginia Madsen",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Boston",
+                        "order": 0,
+                        "role": "Ingrid Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314994.jpg"
+                    },
+                    {
+                        "name": "Mädchen Amick",
+                        "order": 1,
+                        "role": "Wendy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314993.jpg"
+                    },
+                    {
+                        "name": "Jenna Dewan-Tatum",
+                        "order": 2,
+                        "role": "Freya Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314992.jpg"
+                    },
+                    {
+                        "name": "Julia Ormond",
+                        "order": 3,
+                        "role": "Joanna Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314991.jpg"
+                    },
+                    {
+                        "name": "Eric Winter",
+                        "order": 4,
+                        "role": "Dash Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318678.jpg"
+                    },
+                    {
+                        "name": "Daniel DiTomasso",
+                        "order": 5,
+                        "role": "Killian Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318677.jpg"
+                    },
+                    {
+                        "name": "Ignacio Serricchio",
+                        "order": 6,
+                        "role": "Tommy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336195.jpg"
+                    },
+                    {
+                        "name": "Bianca Lawson",
+                        "order": 14,
+                        "role": "Eva"
+                    },
+                    {
+                        "name": "Christian Cooke",
+                        "order": 15,
+                        "role": "Frederick Beauchamp"
+                    },
+                    {
+                        "name": "Enver Gjokaj",
+                        "order": 16,
+                        "role": "Mike",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xatmqOREk6e051ZgaO4VSv4HCnr.jpg"
+                    },
+                    {
+                        "name": "Joel Gretsch",
+                        "order": 17,
+                        "role": "Victor"
+                    },
+                    {
+                        "name": "Shaun Smyth",
+                        "order": 18,
+                        "role": "Dr. Frank Foster"
+                    }
+                ],
+                "dateadded": "2014-05-11 17:16:16",
+                "director": [
+                    "Fred Gerber"
+                ],
+                "episode": 4,
+                "episodeid": 1920,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Witches of East End/Season 1/Witches.of.East.End.S01E04.Liebe.Abendessen.und.ein.Formwandler.GERMAN.DUBBED.WebHDRiP.x264-SOF..mkv",
+                "firstaired": "2013-10-27",
+                "label": "1x04. A Few Good Talismen",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Joanna's immortal attorney, Harrison, prepares for her murder trial. Afraid for Adam's safety, Ingrid re-evaluates her relationship with him. Penelope recruits Freya to help her mend the rift between Dash and Killian. Wendy seduces an entomologist while trying to gather ingredients for a spell. And Joanna and Harrison try to protect Principal Redmond from the shifter.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Witches of East End",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267259/4639815.jpg",
+                "title": "A Few Good Talismen",
+                "tvshowid": 94,
+                "uniqueid": {
+                    "unknown": "4639815"
+                },
+                "votes": "14",
+                "writer": [
+                    "Turi Meyer",
+                    "Al Septien"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267259/4639816.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267259-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267259-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jason George",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kaitlin Doubleday",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Anthony Lemke",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gillian Barber",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Virginia Madsen",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Boston",
+                        "order": 0,
+                        "role": "Ingrid Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314994.jpg"
+                    },
+                    {
+                        "name": "Mädchen Amick",
+                        "order": 1,
+                        "role": "Wendy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314993.jpg"
+                    },
+                    {
+                        "name": "Jenna Dewan-Tatum",
+                        "order": 2,
+                        "role": "Freya Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314992.jpg"
+                    },
+                    {
+                        "name": "Julia Ormond",
+                        "order": 3,
+                        "role": "Joanna Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314991.jpg"
+                    },
+                    {
+                        "name": "Eric Winter",
+                        "order": 4,
+                        "role": "Dash Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318678.jpg"
+                    },
+                    {
+                        "name": "Daniel DiTomasso",
+                        "order": 5,
+                        "role": "Killian Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318677.jpg"
+                    },
+                    {
+                        "name": "Ignacio Serricchio",
+                        "order": 6,
+                        "role": "Tommy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336195.jpg"
+                    },
+                    {
+                        "name": "Bianca Lawson",
+                        "order": 14,
+                        "role": "Eva"
+                    },
+                    {
+                        "name": "Christian Cooke",
+                        "order": 15,
+                        "role": "Frederick Beauchamp"
+                    },
+                    {
+                        "name": "Enver Gjokaj",
+                        "order": 16,
+                        "role": "Mike",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xatmqOREk6e051ZgaO4VSv4HCnr.jpg"
+                    },
+                    {
+                        "name": "Joel Gretsch",
+                        "order": 17,
+                        "role": "Victor"
+                    },
+                    {
+                        "name": "Shaun Smyth",
+                        "order": 18,
+                        "role": "Dr. Frank Foster"
+                    },
+                    {
+                        "name": "Tom Lenk",
+                        "order": 19,
+                        "role": "Hudson Rafferty"
+                    }
+                ],
+                "dateadded": "2014-05-22 03:53:02",
+                "director": [
+                    "Paul Holahan"
+                ],
+                "episode": 5,
+                "episodeid": 1921,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Witches of East End/Season 1/Witches.of.East.End.S01E05.Electric.Avenue.GERMAN.DUBBED.WebHDRiP.x264-SOF.mp4",
+                "firstaired": "2013-11-03",
+                "label": "1x05. Electric Avenue",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ingrid finds a unique way to mourn for Adam. Joanna and Harrison take their friendship to the next level. Freya meets Dash's ex fiancée Elyse when she returns to deal with some unfinished business.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Witches of East End",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267259/4639816.jpg",
+                "title": "Electric Avenue",
+                "tvshowid": 94,
+                "uniqueid": {
+                    "unknown": "4639816"
+                },
+                "votes": "14",
+                "writer": [
+                    "Ron Milbauer",
+                    "Terri Hughes-Burton"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267259/4639817.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267259-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267259-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Matthew Del Negro",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tiya Sircar",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uqAiFL1P344fWa4cqfQhKWNoUyO.jpg"
+                    },
+                    {
+                        "name": "Virginia Madsen",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Boston",
+                        "order": 0,
+                        "role": "Ingrid Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314994.jpg"
+                    },
+                    {
+                        "name": "Mädchen Amick",
+                        "order": 1,
+                        "role": "Wendy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314993.jpg"
+                    },
+                    {
+                        "name": "Jenna Dewan-Tatum",
+                        "order": 2,
+                        "role": "Freya Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314992.jpg"
+                    },
+                    {
+                        "name": "Julia Ormond",
+                        "order": 3,
+                        "role": "Joanna Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314991.jpg"
+                    },
+                    {
+                        "name": "Eric Winter",
+                        "order": 4,
+                        "role": "Dash Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318678.jpg"
+                    },
+                    {
+                        "name": "Daniel DiTomasso",
+                        "order": 5,
+                        "role": "Killian Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318677.jpg"
+                    },
+                    {
+                        "name": "Ignacio Serricchio",
+                        "order": 6,
+                        "role": "Tommy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336195.jpg"
+                    },
+                    {
+                        "name": "Bianca Lawson",
+                        "order": 14,
+                        "role": "Eva"
+                    },
+                    {
+                        "name": "Christian Cooke",
+                        "order": 15,
+                        "role": "Frederick Beauchamp"
+                    },
+                    {
+                        "name": "Enver Gjokaj",
+                        "order": 16,
+                        "role": "Mike",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xatmqOREk6e051ZgaO4VSv4HCnr.jpg"
+                    },
+                    {
+                        "name": "Joel Gretsch",
+                        "order": 17,
+                        "role": "Victor"
+                    },
+                    {
+                        "name": "Shaun Smyth",
+                        "order": 18,
+                        "role": "Dr. Frank Foster"
+                    },
+                    {
+                        "name": "Tom Lenk",
+                        "order": 19,
+                        "role": "Hudson Rafferty"
+                    }
+                ],
+                "dateadded": "2015-05-17 19:37:41",
+                "director": [
+                    "John Scott"
+                ],
+                "episode": 6,
+                "episodeid": 1922,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Witches of East End/Season 1/Witches.of.East.End.S01E06.Die.Kraft.der.Nacht.GERMAN.DUBBED.WebHDRiP.x264-SOF.avi",
+                "firstaired": "2013-11-10",
+                "label": "1x06. Potentia Noctis",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Freya makes a startling discovery at Fair Haven while Ingrid has flashbacks to one of her past lives.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Witches of East End",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267259/4639817.jpg",
+                "title": "Potentia Noctis",
+                "tvshowid": 94,
+                "uniqueid": {
+                    "unknown": "4639817"
+                },
+                "votes": "16",
+                "writer": [
+                    "Maggie Friedman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267259/4689620.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267259-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267259-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Enver Gjokaj",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xatmqOREk6e051ZgaO4VSv4HCnr.jpg"
+                    },
+                    {
+                        "name": "Tiya Sircar",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uqAiFL1P344fWa4cqfQhKWNoUyO.jpg"
+                    },
+                    {
+                        "name": "Tom Lenk",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Freddie Prinze Jr.",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137191.jpg"
+                    },
+                    {
+                        "name": "Virginia Madsen",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Boston",
+                        "order": 0,
+                        "role": "Ingrid Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314994.jpg"
+                    },
+                    {
+                        "name": "Mädchen Amick",
+                        "order": 1,
+                        "role": "Wendy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314993.jpg"
+                    },
+                    {
+                        "name": "Jenna Dewan-Tatum",
+                        "order": 2,
+                        "role": "Freya Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314992.jpg"
+                    },
+                    {
+                        "name": "Julia Ormond",
+                        "order": 3,
+                        "role": "Joanna Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314991.jpg"
+                    },
+                    {
+                        "name": "Eric Winter",
+                        "order": 4,
+                        "role": "Dash Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318678.jpg"
+                    },
+                    {
+                        "name": "Daniel DiTomasso",
+                        "order": 5,
+                        "role": "Killian Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318677.jpg"
+                    },
+                    {
+                        "name": "Ignacio Serricchio",
+                        "order": 6,
+                        "role": "Tommy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336195.jpg"
+                    },
+                    {
+                        "name": "Bianca Lawson",
+                        "order": 14,
+                        "role": "Eva"
+                    },
+                    {
+                        "name": "Christian Cooke",
+                        "order": 15,
+                        "role": "Frederick Beauchamp"
+                    },
+                    {
+                        "name": "Joel Gretsch",
+                        "order": 17,
+                        "role": "Victor"
+                    },
+                    {
+                        "name": "Shaun Smyth",
+                        "order": 18,
+                        "role": "Dr. Frank Foster"
+                    }
+                ],
+                "dateadded": "2015-05-17 19:36:36",
+                "director": [
+                    "David Solomon"
+                ],
+                "episode": 7,
+                "episodeid": 1923,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Witches of East End/Season 1/Witches.of.East.End.S01E07.Auferstanden.GERMAN.DUBBED.WebHDRiP.x264-SOF.avi",
+                "firstaired": "2013-11-17",
+                "label": "1x07. Unburied",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The shifter summons a familiar face. Ingrid discovers something startling from her past. A novelist comes to East End to research his new book. Wendy turns over a new leaf, and attempts to get serious with Leo. Joanna reads Freya's tarot cards.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Witches of East End",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267259/4689620.jpg",
+                "title": "Unburied",
+                "tvshowid": 94,
+                "uniqueid": {
+                    "unknown": "4689620"
+                },
+                "votes": "14",
+                "writer": [
+                    "Josh Reims"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267259/4689621.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267259-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267259-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Enver Gjokaj",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xatmqOREk6e051ZgaO4VSv4HCnr.jpg"
+                    },
+                    {
+                        "name": "Tiya Sircar",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uqAiFL1P344fWa4cqfQhKWNoUyO.jpg"
+                    },
+                    {
+                        "name": "Kellee Stewart",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Virginia Madsen",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Boston",
+                        "order": 0,
+                        "role": "Ingrid Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314994.jpg"
+                    },
+                    {
+                        "name": "Mädchen Amick",
+                        "order": 1,
+                        "role": "Wendy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314993.jpg"
+                    },
+                    {
+                        "name": "Jenna Dewan-Tatum",
+                        "order": 2,
+                        "role": "Freya Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314992.jpg"
+                    },
+                    {
+                        "name": "Julia Ormond",
+                        "order": 3,
+                        "role": "Joanna Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314991.jpg"
+                    },
+                    {
+                        "name": "Eric Winter",
+                        "order": 4,
+                        "role": "Dash Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318678.jpg"
+                    },
+                    {
+                        "name": "Daniel DiTomasso",
+                        "order": 5,
+                        "role": "Killian Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318677.jpg"
+                    },
+                    {
+                        "name": "Ignacio Serricchio",
+                        "order": 6,
+                        "role": "Tommy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336195.jpg"
+                    },
+                    {
+                        "name": "Bianca Lawson",
+                        "order": 14,
+                        "role": "Eva"
+                    },
+                    {
+                        "name": "Christian Cooke",
+                        "order": 15,
+                        "role": "Frederick Beauchamp"
+                    },
+                    {
+                        "name": "Joel Gretsch",
+                        "order": 17,
+                        "role": "Victor"
+                    },
+                    {
+                        "name": "Shaun Smyth",
+                        "order": 18,
+                        "role": "Dr. Frank Foster"
+                    },
+                    {
+                        "name": "Tom Lenk",
+                        "order": 19,
+                        "role": "Hudson Rafferty"
+                    }
+                ],
+                "dateadded": "2015-05-18 22:23:20",
+                "director": [
+                    "Peter Leto"
+                ],
+                "episode": 8,
+                "episodeid": 1924,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Witches of East End/Season 1/Witches.of.East.End.S01E08.Die.goldene.Schlange.GERMAN.DUBBED.WebHDRiP.x264-SOF.avi",
+                "firstaired": "2013-11-24",
+                "label": "1x08. Snake Eyes",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Wendy and Joanna come to blows over a secret Joanna has been keeping for over a hundred years. The shifter threatens Freya. Ingrid suspects Mike's ulterior motives.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Witches of East End",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267259/4689621.jpg",
+                "title": "Snake Eyes",
+                "tvshowid": 94,
+                "uniqueid": {
+                    "unknown": "4689621"
+                },
+                "votes": "14",
+                "writer": [
+                    "Al Septien",
+                    "Turi Meyer"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267259/4689622.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267259-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267259-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joel Gretsch",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Enver Gjokaj",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xatmqOREk6e051ZgaO4VSv4HCnr.jpg"
+                    },
+                    {
+                        "name": "Tiya Sircar",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uqAiFL1P344fWa4cqfQhKWNoUyO.jpg"
+                    },
+                    {
+                        "name": "Virginia Madsen",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Boston",
+                        "order": 0,
+                        "role": "Ingrid Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314994.jpg"
+                    },
+                    {
+                        "name": "Mädchen Amick",
+                        "order": 1,
+                        "role": "Wendy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314993.jpg"
+                    },
+                    {
+                        "name": "Jenna Dewan-Tatum",
+                        "order": 2,
+                        "role": "Freya Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314992.jpg"
+                    },
+                    {
+                        "name": "Julia Ormond",
+                        "order": 3,
+                        "role": "Joanna Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314991.jpg"
+                    },
+                    {
+                        "name": "Eric Winter",
+                        "order": 4,
+                        "role": "Dash Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318678.jpg"
+                    },
+                    {
+                        "name": "Daniel DiTomasso",
+                        "order": 5,
+                        "role": "Killian Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318677.jpg"
+                    },
+                    {
+                        "name": "Ignacio Serricchio",
+                        "order": 6,
+                        "role": "Tommy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336195.jpg"
+                    },
+                    {
+                        "name": "Bianca Lawson",
+                        "order": 14,
+                        "role": "Eva"
+                    },
+                    {
+                        "name": "Christian Cooke",
+                        "order": 15,
+                        "role": "Frederick Beauchamp"
+                    },
+                    {
+                        "name": "Shaun Smyth",
+                        "order": 18,
+                        "role": "Dr. Frank Foster"
+                    },
+                    {
+                        "name": "Tom Lenk",
+                        "order": 19,
+                        "role": "Hudson Rafferty"
+                    }
+                ],
+                "dateadded": "2015-05-17 19:45:02",
+                "director": [
+                    "Patrick R. Norris"
+                ],
+                "episode": 9,
+                "episodeid": 1925,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Witches of East End/Season 1/Witches.of.East.End.S01E09.Der.Tag.vor.der.Hochzeit.GERMAN.DUBBED.WebHDRiP.x264-SOF.avi",
+                "firstaired": "2013-12-01",
+                "label": "1x09. A Parching Imbued",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A mysterious professor with old connections to the Beauchamps tries to help Freya regain her powers. Killian makes a decision about his future in East End. Mike reveals an interesting theory to Ingrid. Amidst wedding preparations, Dash tries to solve the mystery of the catacombs.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Witches of East End",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267259/4689622.jpg",
+                "title": "A Parching Imbued",
+                "tvshowid": 94,
+                "uniqueid": {
+                    "unknown": "4689622"
+                },
+                "votes": "11",
+                "writer": [
+                    "Josh Reims"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267259/4703402.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267259-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267259-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joel Gretsch",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Enver Gjokaj",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xatmqOREk6e051ZgaO4VSv4HCnr.jpg"
+                    },
+                    {
+                        "name": "Virginia Madsen",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Boston",
+                        "order": 0,
+                        "role": "Ingrid Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314994.jpg"
+                    },
+                    {
+                        "name": "Mädchen Amick",
+                        "order": 1,
+                        "role": "Wendy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314993.jpg"
+                    },
+                    {
+                        "name": "Jenna Dewan-Tatum",
+                        "order": 2,
+                        "role": "Freya Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314992.jpg"
+                    },
+                    {
+                        "name": "Julia Ormond",
+                        "order": 3,
+                        "role": "Joanna Beauchamp",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314991.jpg"
+                    },
+                    {
+                        "name": "Eric Winter",
+                        "order": 4,
+                        "role": "Dash Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318678.jpg"
+                    },
+                    {
+                        "name": "Daniel DiTomasso",
+                        "order": 5,
+                        "role": "Killian Gardiner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318677.jpg"
+                    },
+                    {
+                        "name": "Ignacio Serricchio",
+                        "order": 6,
+                        "role": "Tommy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336195.jpg"
+                    },
+                    {
+                        "name": "Bianca Lawson",
+                        "order": 14,
+                        "role": "Eva"
+                    },
+                    {
+                        "name": "Christian Cooke",
+                        "order": 15,
+                        "role": "Frederick Beauchamp"
+                    },
+                    {
+                        "name": "Shaun Smyth",
+                        "order": 18,
+                        "role": "Dr. Frank Foster"
+                    },
+                    {
+                        "name": "Tom Lenk",
+                        "order": 19,
+                        "role": "Hudson Rafferty"
+                    }
+                ],
+                "dateadded": "2015-05-17 19:53:01",
+                "director": [
+                    "John Scott"
+                ],
+                "episode": 10,
+                "episodeid": 1926,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Witches of East End/Season 1/Witches.of.East.End.S01E10.Die.Hochzeit.GERMAN.DUBBED.WebHDRiP.x264-SOF.avi",
+                "firstaired": "2013-12-15",
+                "label": "1x10. Oh, What a World!",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Freya's wedding day arrives as do gifts from both Killian and Dash. Joanna and Wendy discover the identity of the shifter. When Ingrid discovers some unnerving details about Mike, he takes dangerous measures to complete his plan.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Witches of East End",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267259/4703402.jpg",
+                "title": "Oh, What a World!",
+                "tvshowid": 94,
+                "uniqueid": {
+                    "unknown": "4703402"
+                },
+                "votes": "10",
+                "writer": [
+                    "Maggie Friedman"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/267259-1-3.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/267259-g3.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/267259-3.jpg"
+            },
+            "episode": 10,
+            "fanart": "http://thetvdb.com/banners/fanart/original/267259-6.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 515,
+            "showtitle": "Witches of East End",
+            "thumbnail": "http://thetvdb.com/banners/seasons/267259-1-3.jpg",
+            "tvshowid": 94,
+            "watchedepisodes": 0
+        }
+    ]
+}

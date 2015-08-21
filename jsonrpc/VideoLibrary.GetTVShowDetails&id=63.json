@@ -1,0 +1,386 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/270915-g5.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
+            "poster": "http://thetvdb.com/banners/posters/270915-7.jpg"
+        },
+        "cast": [
+            {
+                "name": "Cillian Murphy",
+                "order": 0,
+                "role": "Tommy Shelby",
+                "thumbnail": "http://thetvdb.com/banners/actors/318772.jpg"
+            },
+            {
+                "name": "Annabelle Wallis",
+                "order": 1,
+                "role": "Grace Burgess",
+                "thumbnail": "http://thetvdb.com/banners/actors/315069.jpg"
+            },
+            {
+                "name": "Sam Neill",
+                "order": 2,
+                "role": "Inspector Chester Campbell",
+                "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+            },
+            {
+                "name": "Tom Hardy",
+                "order": 3,
+                "role": "Alfie Solomons",
+                "thumbnail": "http://thetvdb.com/banners/actors/338328.jpg"
+            },
+            {
+                "name": "Helen McCrory",
+                "order": 4,
+                "role": "Aunt Polly",
+                "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+            },
+            {
+                "name": "Charlie Creed-Miles",
+                "order": 5,
+                "role": "Billy Kimber",
+                "thumbnail": "http://thetvdb.com/banners/actors/328528.jpg"
+            },
+            {
+                "name": "Sophie Rundle",
+                "order": 6,
+                "role": "Ada Shelby",
+                "thumbnail": "http://thetvdb.com/banners/actors/321509.jpg"
+            },
+            {
+                "name": "Joe Cole",
+                "order": 7,
+                "role": "John Shelby",
+                "thumbnail": "http://thetvdb.com/banners/actors/321507.jpg"
+            },
+            {
+                "name": "Iddo Goldberg",
+                "order": 8,
+                "role": "Freddie Thorne",
+                "thumbnail": "http://thetvdb.com/banners/actors/327803.jpg"
+            },
+            {
+                "name": "Paul Anderson",
+                "order": 9,
+                "role": "Arthur Shelby",
+                "thumbnail": "http://thetvdb.com/banners/actors/315067.jpg"
+            },
+            {
+                "name": "Alfie Evans-Meese",
+                "order": 20,
+                "role": "Finn Shelby"
+            },
+            {
+                "name": "Ned Dennehy",
+                "order": 21,
+                "role": "Charlie Strong"
+            },
+            {
+                "name": "Tony Pitts",
+                "order": 22,
+                "role": "Sergeant Moss"
+            }
+        ],
+        "dateadded": "2014-06-10 20:01:12",
+        "episode": 2,
+        "episodeguide": "<episodeguide><url cache=\"270915-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/270915/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Peaky Blinders/",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "imdbnumber": "270915",
+        "label": "Peaky Blinders",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+        "premiered": "2013-09-12",
+        "rating": 8.300000190734863,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "BBC Two"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/270915-7.jpg",
+        "title": "Peaky Blinders",
+        "tvshowid": 63,
+        "votes": "14",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/270915/4645420.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/270915-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270915-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Cillian Murphy",
+                        "order": 0,
+                        "role": "Tommy Shelby",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318772.jpg"
+                    },
+                    {
+                        "name": "Annabelle Wallis",
+                        "order": 1,
+                        "role": "Grace Burgess",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315069.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Inspector Chester Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Tom Hardy",
+                        "order": 3,
+                        "role": "Alfie Solomons",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338328.jpg"
+                    },
+                    {
+                        "name": "Helen McCrory",
+                        "order": 4,
+                        "role": "Aunt Polly",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+                    },
+                    {
+                        "name": "Charlie Creed-Miles",
+                        "order": 5,
+                        "role": "Billy Kimber",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328528.jpg"
+                    },
+                    {
+                        "name": "Sophie Rundle",
+                        "order": 6,
+                        "role": "Ada Shelby",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321509.jpg"
+                    },
+                    {
+                        "name": "Joe Cole",
+                        "order": 7,
+                        "role": "John Shelby",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321507.jpg"
+                    },
+                    {
+                        "name": "Iddo Goldberg",
+                        "order": 8,
+                        "role": "Freddie Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327803.jpg"
+                    },
+                    {
+                        "name": "Paul Anderson",
+                        "order": 9,
+                        "role": "Arthur Shelby",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315067.jpg"
+                    },
+                    {
+                        "name": "Alfie Evans-Meese",
+                        "order": 20,
+                        "role": "Finn Shelby"
+                    },
+                    {
+                        "name": "Ned Dennehy",
+                        "order": 21,
+                        "role": "Charlie Strong"
+                    },
+                    {
+                        "name": "Tony Pitts",
+                        "order": 22,
+                        "role": "Sergeant Moss"
+                    }
+                ],
+                "dateadded": "2014-06-10 19:11:50",
+                "director": [
+                    "Otto Bathurst"
+                ],
+                "episode": 1,
+                "episodeid": 1217,
+                "fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Peaky Blinders/Season 1/Peaky.Blinders.Gangs.of.Birmingham.S01E01.Geschenk.des.Teufels.GERMAN.DUBBED.WS.BDRip.x264.REPACK-TVP.mp4",
+                "firstaired": "2013-09-12",
+                "label": "1x01. Episode 1",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Birmingham, 1919. Thomas Shelby controls the Peaky Blinders, one of the city's most feared criminal organisations, but his ambitions go beyond running the streets. When a crate of guns goes missing, Thomas recognises an opportunity to move up in the world.",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Peaky Blinders",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/270915/4645420.jpg",
+                "title": "Episode 1",
+                "tvshowid": 63,
+                "uniqueid": {
+                    "unknown": "4645420"
+                },
+                "votes": "18",
+                "writer": [
+                    "Steven Knight"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/270915/4652814.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/270915-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270915-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Cillian Murphy",
+                        "order": 0,
+                        "role": "Tommy Shelby",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318772.jpg"
+                    },
+                    {
+                        "name": "Annabelle Wallis",
+                        "order": 1,
+                        "role": "Grace Burgess",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315069.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Inspector Chester Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Tom Hardy",
+                        "order": 3,
+                        "role": "Alfie Solomons",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338328.jpg"
+                    },
+                    {
+                        "name": "Helen McCrory",
+                        "order": 4,
+                        "role": "Aunt Polly",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+                    },
+                    {
+                        "name": "Charlie Creed-Miles",
+                        "order": 5,
+                        "role": "Billy Kimber",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328528.jpg"
+                    },
+                    {
+                        "name": "Sophie Rundle",
+                        "order": 6,
+                        "role": "Ada Shelby",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321509.jpg"
+                    },
+                    {
+                        "name": "Joe Cole",
+                        "order": 7,
+                        "role": "John Shelby",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321507.jpg"
+                    },
+                    {
+                        "name": "Iddo Goldberg",
+                        "order": 8,
+                        "role": "Freddie Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327803.jpg"
+                    },
+                    {
+                        "name": "Paul Anderson",
+                        "order": 9,
+                        "role": "Arthur Shelby",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315067.jpg"
+                    },
+                    {
+                        "name": "Alfie Evans-Meese",
+                        "order": 20,
+                        "role": "Finn Shelby"
+                    },
+                    {
+                        "name": "Ned Dennehy",
+                        "order": 21,
+                        "role": "Charlie Strong"
+                    },
+                    {
+                        "name": "Tony Pitts",
+                        "order": 22,
+                        "role": "Sergeant Moss"
+                    }
+                ],
+                "dateadded": "2014-06-10 20:01:12",
+                "director": [
+                    "Otto Bathurst"
+                ],
+                "episode": 2,
+                "episodeid": 1218,
+                "fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Peaky Blinders/Season 1/Peaky.Blinders.Gangs.of.Birmingham.S01E02.Waffenpoker.GERMAN.DUBBED.WS.BDRip.x264-TVP.mp4",
+                "firstaired": "2013-09-19",
+                "label": "1x02. Episode 2",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Thomas fixes a horserace, provoking the ire of local kingpin Billy Kimber. He also starts a war with gypsy family the Lees. Meanwhile, Inspector Campbell carries out a vicious raid of Small Heath in search of the stolen guns.",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Peaky Blinders",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/270915/4652814.jpg",
+                "title": "Episode 2",
+                "tvshowid": 63,
+                "uniqueid": {
+                    "unknown": "4652814"
+                },
+                "votes": "11",
+                "writer": [
+                    "Steven Knight"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/270915-1-5.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/270915-g5.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/270915-7.jpg"
+            },
+            "episode": 2,
+            "fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 351,
+            "showtitle": "Peaky Blinders",
+            "thumbnail": "http://thetvdb.com/banners/seasons/270915-1-5.jpg",
+            "tvshowid": 63,
+            "watchedepisodes": 0
+        }
+    ]
+}

@@ -1,0 +1,2041 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+            "poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+        },
+        "cast": [
+            {
+                "name": "Corey Stoll",
+                "order": 0,
+                "role": "Ephraim Goodweather",
+                "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+            },
+            {
+                "name": "David Bradley",
+                "order": 1,
+                "role": "Abraham Setrakian",
+                "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+            },
+            {
+                "name": "Mia Maestro",
+                "order": 2,
+                "role": "Nora Martinez",
+                "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+            },
+            {
+                "name": "Roger R. Cross",
+                "order": 3,
+                "role": "Reggie Fitzwilliam",
+                "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+            },
+            {
+                "name": "Robin Atkin Downes",
+                "order": 4,
+                "role": "The Master",
+                "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+            },
+            {
+                "name": "Ruta Gedmintas",
+                "order": 5,
+                "role": "Dutch Velders",
+                "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+            },
+            {
+                "name": "Max Charles",
+                "order": 6,
+                "role": "Zach Goodweather (Season 2)",
+                "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+            },
+            {
+                "name": "Joaquín Cosio",
+                "order": 7,
+                "role": "Angel Guzman Hurtado",
+                "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+            },
+            {
+                "name": "Sean Astin",
+                "order": 8,
+                "role": "Jim Kent",
+                "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+            },
+            {
+                "name": "Richard Sammel",
+                "order": 9,
+                "role": "Thomas Eichhorst",
+                "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+            },
+            {
+                "name": "Natalie Brown",
+                "order": 10,
+                "role": "Kelly Goodweather",
+                "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+            },
+            {
+                "name": "Miguel Gomez",
+                "order": 11,
+                "role": "Augustin 'Gus' Elizalde",
+                "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+            },
+            {
+                "name": "Jonathan Hyde",
+                "order": 12,
+                "role": "Eldritch Palmer",
+                "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+            },
+            {
+                "name": "Jack Kesy",
+                "order": 13,
+                "role": "Gabriel Bolivar",
+                "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+            },
+            {
+                "name": "Ben Hyland",
+                "order": 14,
+                "role": "Zach Goodweather (Season 1)",
+                "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+            },
+            {
+                "name": "Kevin Durand",
+                "order": 15,
+                "role": "Vasiliy Fet",
+                "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+            }
+        ],
+        "dateadded": "2015-05-08 18:33:40",
+        "episode": 13,
+        "episodeguide": "<episodeguide><url cache=\"276564-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/276564/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/",
+        "genre": [
+            "Drama",
+            "Horror"
+        ],
+        "imdbnumber": "276564",
+        "label": "The Strain",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "The Strain is a high concept thriller that tells the story of Dr. Ephraim Goodweather, the head of the Center for Disease Control Canary Team in New York City. He and his team are called upon to investigate a mysterious viral outbreak with hallmarks of an ancient and evil strain of vampirism. As the strain spreads, Eph, his team, and an assembly of everyday New Yorkers, wage war for the fate of humanity itself.",
+        "premiered": "2014-07-13",
+        "rating": 8,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "FX"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/276564-8.jpg",
+        "title": "The Strain",
+        "tvshowid": 86,
+        "votes": "51",
+        "watchedepisodes": 0,
+        "year": 2014
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4750432.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-13 18:09:11",
+                "director": [
+                    "Guillermo del Toro"
+                ],
+                "episode": 1,
+                "episodeid": 1671,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E01.Flug.753.GERMAN.DUBBED.BDRip.XViD-EDE.avi",
+                "firstaired": "2014-07-13",
+                "label": "1x01. Night Zero",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a plane lands in New York City with everyone on board dead, Dr. Ephraim 'Eph' Goodweather, head of the CDC’s Canary Project, and his team are called upon to investigate. What looks at first like a mysterious viral outbreak might be the beginning of something infinitely more sinister.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4750432.jpg",
+                "title": "Night Zero",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4750432"
+                },
+                "votes": "62",
+                "writer": [
+                    "Guillermo del Toro",
+                    "Chuck Hogan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4768417.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-20 00:56:10",
+                "director": [
+                    "David Semel"
+                ],
+                "episode": 2,
+                "episodeid": 1672,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E02.Blutdurst.GERMAN.DUBBED.HDRip.XViD-EDE.avi",
+                "firstaired": "2014-07-20",
+                "label": "1x02. The Box",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The four survivors begin manifesting strange symptoms, but Eph and Nora's attempt to quarantine them is thwarted as the disinformation campaign begins. Setrakian receives a surprise visit from an old – a very old – acquaintance.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4768417.jpg",
+                "title": "The Box",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4768417"
+                },
+                "votes": "52",
+                "writer": [
+                    "David Weddle",
+                    "Bradley Thompson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4768418.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-27 10:50:59",
+                "director": [
+                    "David Semel"
+                ],
+                "episode": 3,
+                "episodeid": 1673,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E03.Ratten.GERMAN.DUBBED.HDRiP.XViD-EDE.avi",
+                "firstaired": "2014-07-27",
+                "label": "1x03. Gone Smooth",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Eph and Nora fight to save Captain Redfern's life before coming face-to-face with the horrifying effects of the virus. A spike in rat attacks signals Fet that something inexplicable is happening deep below the city. Released from jail, Setrakian begins his own merciless plan to stop the spread of the disease.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4768418.jpg",
+                "title": "Gone Smooth",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4768418"
+                },
+                "votes": "49",
+                "writer": [
+                    "Chuck Hogan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4768419.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-05 23:07:36",
+                "director": [
+                    "Keith Gordon"
+                ],
+                "episode": 4,
+                "episodeid": 1674,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E04.Emma.lebt.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-08-03",
+                "label": "1x04. It's Not for Everyone",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A secret autopsy demonstrates the bizarre progression of the mystery virus, prompting Jim to make a startling confession. Eph and Nora race to find the father of the youngest victim of the plane tragedy, but someone unexpected beats them to it. Ansel, in the grip of disease, takes desperate measures to protect his family.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4768419.jpg",
+                "title": "It's Not for Everyone",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4768419"
+                },
+                "votes": "52",
+                "writer": [
+                    "Regina Corrado"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4768420.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-12 23:20:08",
+                "director": [
+                    "Peter Weller"
+                ],
+                "episode": 5,
+                "episodeid": 1675,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E05.Strigoi.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-08-10",
+                "label": "1x05. Runaways",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "With Nora gone, Eph reluctantly joins Setrakian's quest in hopes of gathering enough evidence to warrant a citywide quarantine. Fet encounters the unexpected inside the subway tunnels. A medical emergency threatens Palmer's master plan.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4768420.jpg",
+                "title": "Runaways",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4768420"
+                },
+                "votes": "49",
+                "writer": [
+                    "Gennifer Hutchison"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4768421.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-19 23:00:26",
+                "director": [
+                    "Peter Weller"
+                ],
+                "episode": 6,
+                "episodeid": 1676,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E06.Schwarze.Sonne.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-08-17",
+                "label": "1x06. Occultation",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After warning Kelly to leave the city with Zack ahead of the spreading plague, Eph is arrested by the FBI. Eichhorst has one final job for Gus. Setrakian realizes that the coming eclipse is the tipping point for virus infection and the beginning of the end.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4768421.jpg",
+                "title": "Occultation",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4768421"
+                },
+                "votes": "49",
+                "writer": [
+                    "Justin Britt-Gibson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4768422.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-27 20:16:34",
+                "director": [
+                    "Charlotte Sieling"
+                ],
+                "episode": 7,
+                "episodeid": 1677,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E07.Herr.Eichhorst.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-08-24",
+                "label": "1x07. For Services Rendered",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Setrakian, Eph and Nora formulate a plan to track down the Master using Jim as bait. Eichhorst and Setrakian’s pasts are revealed. At the Luss home, Neeva struggles to protect the children while encountering a mysterious stranger whose help she may not want.",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4768422.jpg",
+                "title": "For Services Rendered",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4768422"
+                },
+                "votes": "44",
+                "writer": [
+                    "Bradley Thompson",
+                    "David Weddle"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4768423.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-04-03 00:09:56",
+                "director": [
+                    "Guy Ferland"
+                ],
+                "episode": 8,
+                "episodeid": 1678,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E08.Kreaturen.der.Nacht.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-08-31",
+                "label": "1x08. Creatures of the Night",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After discovering the potency of ultraviolet light against the strigoi, Setrakian gains a new and unlikely disciple. A quick trip to a Brooklyn convenience store turns into a deadly all-night siege.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4768423.jpg",
+                "title": "Creatures of the Night",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4768423"
+                },
+                "votes": "44",
+                "writer": [
+                    "Chuck Hogan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4768424.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-04-10 02:47:48",
+                "director": [
+                    "Charlotte Sieling"
+                ],
+                "episode": 9,
+                "episodeid": 1679,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E09.Die.Verschwundenen.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-09-07",
+                "label": "1x09. The Disappeared",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Eph races to safeguard his family, only to learn that Kelly is missing. Dutch reveals her role in Palmer’s plan. Gus is forced to make a difficult decision about Felix.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4768424.jpg",
+                "title": "The Disappeared",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4768424"
+                },
+                "votes": "44",
+                "writer": [
+                    "Regina Corrado"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4768425.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-04-17 10:13:40",
+                "director": [
+                    "John Dahl"
+                ],
+                "episode": 10,
+                "episodeid": 1680,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E10.Rattenfaenger.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-09-14",
+                "label": "1x10. Loved Ones",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Eph investigates Kelly’s disappearance and struggles with what he finds. Dutch pursues a plan to retaliate against Palmer. Fitzwilliam makes a surprising choice.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4768425.jpg",
+                "title": "Loved Ones",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4768425"
+                },
+                "votes": "41",
+                "writer": [
+                    "Gennifer Hutchison"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4768426.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-04-23 23:51:08",
+                "director": [
+                    "Deran Sarafian"
+                ],
+                "episode": 11,
+                "episodeid": 1681,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E11.Der.Schlaf.der.Vampire.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-09-21",
+                "label": "1x11. The Third Rail",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Setrakian leads Eph, Fet and Nora in the hunt for the Master's lair. Left behind at the pawnshop with Mariela, Zack risks his safety for Mariela's sake.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4768426.jpg",
+                "title": "The Third Rail",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4768426"
+                },
+                "votes": "40",
+                "writer": [
+                    "Justin Britt-Gibson",
+                    "Chuck Hogan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4768427.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-01 01:39:14",
+                "director": [
+                    "Peter Weller"
+                ],
+                "episode": 12,
+                "episodeid": 1682,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E12.Miriams.Herz.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-09-28",
+                "label": "1x12. Last Rites",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Dutch returns with a plan to broadcast Eph’s warning about the vampiric plague, but they face a new threat when Eichhorst launches his own attack against the pawn shop. Palmer receives a special visitor. Gus gears up for the on-coming fight but discovers there’s another mysterious factor involved.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4768427.jpg",
+                "title": "Last Rites",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4768427"
+                },
+                "votes": "37",
+                "writer": [
+                    "Carlton Cuse",
+                    "David Weddle",
+                    "Bradley Thompson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/276564/4768429.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Corey Stoll",
+                        "order": 0,
+                        "role": "Ephraim Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                    },
+                    {
+                        "name": "David Bradley",
+                        "order": 1,
+                        "role": "Abraham Setrakian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330694.jpg"
+                    },
+                    {
+                        "name": "Mia Maestro",
+                        "order": 2,
+                        "role": "Nora Martinez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330699.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 3,
+                        "role": "Reggie Fitzwilliam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Robin Atkin Downes",
+                        "order": 4,
+                        "role": "The Master",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                    },
+                    {
+                        "name": "Ruta Gedmintas",
+                        "order": 5,
+                        "role": "Dutch Velders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353472.jpg"
+                    },
+                    {
+                        "name": "Max Charles",
+                        "order": 6,
+                        "role": "Zach Goodweather (Season 2)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+                    },
+                    {
+                        "name": "Joaquín Cosio",
+                        "order": 7,
+                        "role": "Angel Guzman Hurtado",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                    },
+                    {
+                        "name": "Sean Astin",
+                        "order": 8,
+                        "role": "Jim Kent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330703.jpg"
+                    },
+                    {
+                        "name": "Richard Sammel",
+                        "order": 9,
+                        "role": "Thomas Eichhorst",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330702.jpg"
+                    },
+                    {
+                        "name": "Natalie Brown",
+                        "order": 10,
+                        "role": "Kelly Goodweather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330701.jpg"
+                    },
+                    {
+                        "name": "Miguel Gomez",
+                        "order": 11,
+                        "role": "Augustin 'Gus' Elizalde",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330700.jpg"
+                    },
+                    {
+                        "name": "Jonathan Hyde",
+                        "order": 12,
+                        "role": "Eldritch Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                    },
+                    {
+                        "name": "Jack Kesy",
+                        "order": 13,
+                        "role": "Gabriel Bolivar",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330697.jpg"
+                    },
+                    {
+                        "name": "Ben Hyland",
+                        "order": 14,
+                        "role": "Zach Goodweather (Season 1)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330696.jpg"
+                    },
+                    {
+                        "name": "Kevin Durand",
+                        "order": 15,
+                        "role": "Vasiliy Fet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-08 18:33:40",
+                "director": [
+                    "Phil Abraham"
+                ],
+                "episode": 13,
+                "episodeid": 1683,
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E13.Der.Meister.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-10-05",
+                "label": "1x13. The Master",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Eph and Fet recon for an all-out assault that Setrakian assures them will finally kill the Master. Gus aligns himself with a strange new force, one that may swing the fight in an unforeseen direction.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Strain",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/276564/4768429.jpg",
+                "title": "The Master",
+                "tvshowid": 86,
+                "uniqueid": {
+                    "unknown": "4768429"
+                },
+                "votes": "37",
+                "writer": [
+                    "Carlton Cuse",
+                    "Chuck Hogan"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/276564-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/276564-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+            },
+            "episode": 13,
+            "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 471,
+            "showtitle": "The Strain",
+            "thumbnail": "http://thetvdb.com/banners/seasons/276564-1-2.jpg",
+            "tvshowid": 86,
+            "watchedepisodes": 0
+        }
+    ]
+}

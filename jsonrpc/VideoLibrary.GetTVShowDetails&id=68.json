@@ -1,0 +1,692 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/266609-g4.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+            "poster": "http://thetvdb.com/banners/posters/266609-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Aden Young",
+                "order": 0,
+                "role": "Daniel Holden",
+                "thumbnail": "http://thetvdb.com/banners/actors/310965.jpg"
+            },
+            {
+                "name": "Abigail Spencer",
+                "order": 1,
+                "role": "Amantha Holden",
+                "thumbnail": "http://thetvdb.com/banners/actors/310966.jpg"
+            },
+            {
+                "name": "Adelaide Clemens",
+                "order": 2,
+                "role": "Tawney Talbot",
+                "thumbnail": "http://thetvdb.com/banners/actors/310968.jpg"
+            },
+            {
+                "name": "Clayne Crawford",
+                "order": 3,
+                "role": "Ted Talbot Jr.",
+                "thumbnail": "http://thetvdb.com/banners/actors/310967.jpg"
+            },
+            {
+                "name": "Luke Kirby",
+                "order": 4,
+                "role": "Jon Stern",
+                "thumbnail": "http://thetvdb.com/banners/actors/310972.jpg"
+            },
+            {
+                "name": "Jake Austin Walker",
+                "order": 5,
+                "role": "Jared Talbot",
+                "thumbnail": "http://thetvdb.com/banners/actors/310971.jpg"
+            },
+            {
+                "name": "J. Smith Cameron",
+                "order": 6,
+                "role": "Janet Talbot",
+                "thumbnail": "http://thetvdb.com/banners/actors/310970.jpg"
+            },
+            {
+                "name": "Bruce McKinnon",
+                "order": 7,
+                "role": "Ted Talbot Sr.",
+                "thumbnail": "http://thetvdb.com/banners/actors/310969.jpg"
+            }
+        ],
+        "dateadded": "2013-12-31 20:53:36",
+        "episode": 6,
+        "episodeguide": "<episodeguide><url cache=\"266609-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/266609/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Rectify/",
+        "genre": [
+            "Drama"
+        ],
+        "imdbnumber": "266609",
+        "label": "Rectify",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Rectify follows the life of Daniel Holden upon his release from jail after serving nineteen years on Georgia's Death Row before DNA evidence disputed the State's original case. Holden, who was only eighteen years of age when convicted and sentenced to die for the brutal rape and murder of a sixteen year old girl, returns to his family and to his hometown where the murder occurred and where many still believe he is guilty. Daniel spent all of his adult life waiting to die. Now he must learn how to live again or decide if he even wants to while others choose whether or not he will have that chance.",
+        "premiered": "2013-04-22",
+        "rating": 7.800000190734863,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "SundanceTV"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/266609-1.jpg",
+        "title": "Rectify",
+        "tvshowid": 68,
+        "votes": "20",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266609/4494887.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266609-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266609-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Aden Young",
+                        "order": 0,
+                        "role": "Daniel Holden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310965.jpg"
+                    },
+                    {
+                        "name": "Abigail Spencer",
+                        "order": 1,
+                        "role": "Amantha Holden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310966.jpg"
+                    },
+                    {
+                        "name": "Adelaide Clemens",
+                        "order": 2,
+                        "role": "Tawney Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310968.jpg"
+                    },
+                    {
+                        "name": "Clayne Crawford",
+                        "order": 3,
+                        "role": "Ted Talbot Jr.",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310967.jpg"
+                    },
+                    {
+                        "name": "Luke Kirby",
+                        "order": 4,
+                        "role": "Jon Stern",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310972.jpg"
+                    },
+                    {
+                        "name": "Jake Austin Walker",
+                        "order": 5,
+                        "role": "Jared Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310971.jpg"
+                    },
+                    {
+                        "name": "J. Smith Cameron",
+                        "order": 6,
+                        "role": "Janet Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310970.jpg"
+                    },
+                    {
+                        "name": "Bruce McKinnon",
+                        "order": 7,
+                        "role": "Ted Talbot Sr.",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310969.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-06 17:29:41",
+                "director": [
+                    "Keith Gordon"
+                ],
+                "episode": 1,
+                "episodeid": 1252,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Rectify/Season 1/Rectify.S01E01.Always.There.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2013-04-22",
+                "label": "1x01. Always There",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After 19 years on Death Row, Daniel Holden is released due to new DNA evidence. He returns with his family to his childhood home, struggling to adjust to life on the outside. Meanwhile, the Senator who prosecuted him plots to reopen the case.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Rectify",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266609/4494887.jpg",
+                "title": "Always There",
+                "tvshowid": 68,
+                "uniqueid": {
+                    "unknown": "4494887"
+                },
+                "votes": "16",
+                "writer": [
+                    "Ray McKinnon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266609/4494888.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266609-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266609-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Aden Young",
+                        "order": 0,
+                        "role": "Daniel Holden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310965.jpg"
+                    },
+                    {
+                        "name": "Abigail Spencer",
+                        "order": 1,
+                        "role": "Amantha Holden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310966.jpg"
+                    },
+                    {
+                        "name": "Adelaide Clemens",
+                        "order": 2,
+                        "role": "Tawney Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310968.jpg"
+                    },
+                    {
+                        "name": "Clayne Crawford",
+                        "order": 3,
+                        "role": "Ted Talbot Jr.",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310967.jpg"
+                    },
+                    {
+                        "name": "Luke Kirby",
+                        "order": 4,
+                        "role": "Jon Stern",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310972.jpg"
+                    },
+                    {
+                        "name": "Jake Austin Walker",
+                        "order": 5,
+                        "role": "Jared Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310971.jpg"
+                    },
+                    {
+                        "name": "J. Smith Cameron",
+                        "order": 6,
+                        "role": "Janet Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310970.jpg"
+                    },
+                    {
+                        "name": "Bruce McKinnon",
+                        "order": 7,
+                        "role": "Ted Talbot Sr.",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310969.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-25 19:45:07",
+                "director": [
+                    "Bill Gierhart"
+                ],
+                "episode": 2,
+                "episodeid": 1253,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Rectify/Season 1/Rectify.S01E02.Das.Fremde.unter.der.eigenen.Haut.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2013-04-22",
+                "label": "1x02. Sexual Peeling",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Daniel explores the town while Amantha worries about his safety; Ted Jr. fears for the future of the family business; tension run high at Daniel's welcome home party.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Rectify",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266609/4494888.jpg",
+                "title": "Sexual Peeling",
+                "tvshowid": 68,
+                "uniqueid": {
+                    "unknown": "4494888"
+                },
+                "votes": "10",
+                "writer": [
+                    "Ray McKinnon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266609/4494889.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266609-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266609-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Aden Young",
+                        "order": 0,
+                        "role": "Daniel Holden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310965.jpg"
+                    },
+                    {
+                        "name": "Abigail Spencer",
+                        "order": 1,
+                        "role": "Amantha Holden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310966.jpg"
+                    },
+                    {
+                        "name": "Adelaide Clemens",
+                        "order": 2,
+                        "role": "Tawney Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310968.jpg"
+                    },
+                    {
+                        "name": "Clayne Crawford",
+                        "order": 3,
+                        "role": "Ted Talbot Jr.",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310967.jpg"
+                    },
+                    {
+                        "name": "Luke Kirby",
+                        "order": 4,
+                        "role": "Jon Stern",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310972.jpg"
+                    },
+                    {
+                        "name": "Jake Austin Walker",
+                        "order": 5,
+                        "role": "Jared Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310971.jpg"
+                    },
+                    {
+                        "name": "J. Smith Cameron",
+                        "order": 6,
+                        "role": "Janet Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310970.jpg"
+                    },
+                    {
+                        "name": "Bruce McKinnon",
+                        "order": 7,
+                        "role": "Ted Talbot Sr.",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310969.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-25 19:47:14",
+                "director": [
+                    "Nicole Kassell"
+                ],
+                "episode": 3,
+                "episodeid": 1254,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Rectify/Season 1/Rectify.S01E03.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2013-04-29",
+                "label": "1x03. Modern Times",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Daniel retreats from the stress of recent events; Tawney reaches out to Daniel, unbeknownst to her husband; Amantha fears that the town's anger could erupt at any moment.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Rectify",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266609/4494889.jpg",
+                "title": "Modern Times",
+                "tvshowid": 68,
+                "uniqueid": {
+                    "unknown": "4494889"
+                },
+                "votes": "10",
+                "writer": [
+                    "Evan Dunsky",
+                    "Graham Gordy",
+                    "Michael D. Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266609/4494890.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266609-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266609-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Aden Young",
+                        "order": 0,
+                        "role": "Daniel Holden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310965.jpg"
+                    },
+                    {
+                        "name": "Abigail Spencer",
+                        "order": 1,
+                        "role": "Amantha Holden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310966.jpg"
+                    },
+                    {
+                        "name": "Adelaide Clemens",
+                        "order": 2,
+                        "role": "Tawney Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310968.jpg"
+                    },
+                    {
+                        "name": "Clayne Crawford",
+                        "order": 3,
+                        "role": "Ted Talbot Jr.",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310967.jpg"
+                    },
+                    {
+                        "name": "Luke Kirby",
+                        "order": 4,
+                        "role": "Jon Stern",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310972.jpg"
+                    },
+                    {
+                        "name": "Jake Austin Walker",
+                        "order": 5,
+                        "role": "Jared Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310971.jpg"
+                    },
+                    {
+                        "name": "J. Smith Cameron",
+                        "order": 6,
+                        "role": "Janet Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310970.jpg"
+                    },
+                    {
+                        "name": "Bruce McKinnon",
+                        "order": 7,
+                        "role": "Ted Talbot Sr.",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310969.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-25 19:47:34",
+                "director": [
+                    "Jim McKay"
+                ],
+                "episode": 4,
+                "episodeid": 1255,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Rectify/Season 1/Rectify.S01E04.Platons.Hoehle.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2013-05-06",
+                "label": "1x04. Plato's Cave",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Janet's day in town with Daniel turns into a media circus; Sheriff Daggett questions Trey Willis about a missing witness.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Rectify",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266609/4494890.jpg",
+                "title": "Plato's Cave",
+                "tvshowid": 68,
+                "uniqueid": {
+                    "unknown": "4494890"
+                },
+                "votes": "7",
+                "writer": [
+                    "Graham Gordy",
+                    "Michael D. Fuller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266609/4494891.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266609-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266609-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Aden Young",
+                        "order": 0,
+                        "role": "Daniel Holden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310965.jpg"
+                    },
+                    {
+                        "name": "Abigail Spencer",
+                        "order": 1,
+                        "role": "Amantha Holden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310966.jpg"
+                    },
+                    {
+                        "name": "Adelaide Clemens",
+                        "order": 2,
+                        "role": "Tawney Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310968.jpg"
+                    },
+                    {
+                        "name": "Clayne Crawford",
+                        "order": 3,
+                        "role": "Ted Talbot Jr.",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310967.jpg"
+                    },
+                    {
+                        "name": "Luke Kirby",
+                        "order": 4,
+                        "role": "Jon Stern",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310972.jpg"
+                    },
+                    {
+                        "name": "Jake Austin Walker",
+                        "order": 5,
+                        "role": "Jared Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310971.jpg"
+                    },
+                    {
+                        "name": "J. Smith Cameron",
+                        "order": 6,
+                        "role": "Janet Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310970.jpg"
+                    },
+                    {
+                        "name": "Bruce McKinnon",
+                        "order": 7,
+                        "role": "Ted Talbot Sr.",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310969.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-31 20:53:36",
+                "director": [
+                    "Romeo Tirone"
+                ],
+                "episode": 5,
+                "episodeid": 1256,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Rectify/Season 1/Rectify.S01E05.Tropf.tropf.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "firstaired": "2013-05-13",
+                "label": "1x05. Drip, Drip",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Daniel begins to lose his grip on reality as he struggles to adjust to life on the outside; Ted Jr. starts to question Daniel's innocence.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Rectify",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266609/4494891.jpg",
+                "title": "Drip, Drip",
+                "tvshowid": 68,
+                "uniqueid": {
+                    "unknown": "4494891"
+                },
+                "votes": "8",
+                "writer": [
+                    "Ray McKinnon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266609/4494892.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266609-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266609-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Aden Young",
+                        "order": 0,
+                        "role": "Daniel Holden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310965.jpg"
+                    },
+                    {
+                        "name": "Abigail Spencer",
+                        "order": 1,
+                        "role": "Amantha Holden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310966.jpg"
+                    },
+                    {
+                        "name": "Adelaide Clemens",
+                        "order": 2,
+                        "role": "Tawney Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310968.jpg"
+                    },
+                    {
+                        "name": "Clayne Crawford",
+                        "order": 3,
+                        "role": "Ted Talbot Jr.",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310967.jpg"
+                    },
+                    {
+                        "name": "Luke Kirby",
+                        "order": 4,
+                        "role": "Jon Stern",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310972.jpg"
+                    },
+                    {
+                        "name": "Jake Austin Walker",
+                        "order": 5,
+                        "role": "Jared Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310971.jpg"
+                    },
+                    {
+                        "name": "J. Smith Cameron",
+                        "order": 6,
+                        "role": "Janet Talbot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310970.jpg"
+                    },
+                    {
+                        "name": "Bruce McKinnon",
+                        "order": 7,
+                        "role": "Ted Talbot Sr.",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310969.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-31 20:52:41",
+                "director": [
+                    "Ray McKinnon"
+                ],
+                "episode": 6,
+                "episodeid": 1257,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Rectify/Season 1/Rectify.S01E06.Jacobs.Ladder.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "firstaired": "2013-05-20",
+                "label": "1x06. Jacob's Ladder",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As the town's anger hits the boiling point, Daniel's family goes on alert. Foulkes presses the D.A. for a retrial. Ted Jr. & Tawney recover from disturbing encounters. Trey Willis searches for the missing George Melton. Daniel must decide his future.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Rectify",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266609/4494892.jpg",
+                "title": "Jacob's Ladder",
+                "tvshowid": 68,
+                "uniqueid": {
+                    "unknown": "4494892"
+                },
+                "votes": "5",
+                "writer": [
+                    "Ray McKinnon"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/266609-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/266609-1-4.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/266609-g4.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/266609-1.jpg"
+            },
+            "episode": 6,
+            "fanart": "http://thetvdb.com/banners/fanart/original/266609-3.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 376,
+            "showtitle": "Rectify",
+            "thumbnail": "http://thetvdb.com/banners/seasons/266609-1-4.jpg",
+            "tvshowid": 68,
+            "watchedepisodes": 0
+        }
+    ]
+}

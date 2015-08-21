@@ -1,0 +1,589 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/95731-g6.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+            "poster": "http://thetvdb.com/banners/posters/95731-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Edie Falco",
+                "order": 0,
+                "role": "Jackie Peyton",
+                "thumbnail": "http://thetvdb.com/banners/actors/99621.jpg"
+            },
+            {
+                "name": "Merritt Wever",
+                "order": 1,
+                "role": "Zoey Barkow",
+                "thumbnail": "http://thetvdb.com/banners/actors/146811.jpg"
+            },
+            {
+                "name": "Anna Deavere Smith",
+                "order": 2,
+                "role": "Gloria Akalitus",
+                "thumbnail": "http://thetvdb.com/banners/actors/146841.jpg"
+            },
+            {
+                "name": "Bobby Cannavale",
+                "order": 3,
+                "role": "Dr. Mike Cruz",
+                "thumbnail": "http://thetvdb.com/banners/actors/306095.jpg"
+            },
+            {
+                "name": "Arjun Gupta",
+                "order": 4,
+                "role": "Sam",
+                "thumbnail": "http://thetvdb.com/banners/actors/306094.jpg"
+            },
+            {
+                "name": "Stephen Wallem",
+                "order": 5,
+                "role": "Thor Lundgren",
+                "thumbnail": "http://thetvdb.com/banners/actors/306093.jpg"
+            },
+            {
+                "name": "Dominic Fumusa",
+                "order": 6,
+                "role": "Kevin Peyton",
+                "thumbnail": "http://thetvdb.com/banners/actors/306091.jpg"
+            },
+            {
+                "name": "Peter Facinelli",
+                "order": 7,
+                "role": "Dr. Fitch \"Coop\" Cooper",
+                "thumbnail": "http://thetvdb.com/banners/actors/146861.jpg"
+            },
+            {
+                "name": "Paul Schulze",
+                "order": 8,
+                "role": "Eddie Walzer",
+                "thumbnail": "http://thetvdb.com/banners/actors/146851.jpg"
+            },
+            {
+                "name": "Haaz Sleiman",
+                "order": 9,
+                "role": "Mo-Mo De La Cruz",
+                "thumbnail": "http://thetvdb.com/banners/actors/146831.jpg"
+            },
+            {
+                "name": "Eve Best",
+                "order": 10,
+                "role": "Dr. Eleanor O'Hara",
+                "thumbnail": "http://thetvdb.com/banners/actors/146821.jpg"
+            }
+        ],
+        "dateadded": "2013-12-31 22:08:50",
+        "episode": 4,
+        "episodeguide": "<episodeguide><url cache=\"95731-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/95731/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nurse Jackie/",
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "imdbnumber": "95731",
+        "label": "Nurse Jackie",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "\"Nurse Jackie\" is a half-hour comedy that is at turns wicked, heartbreaking and funny. Edie Falco stars as the title character Jackie O'Hurley, a strong-willed and brilliant -- but very flawed -- emergency room nurse in a complicated New York City hospital. A lapsed Catholic with an occasional weakness for Vicodin and Adderall to get her through the days, Jackie keeps the hospital balanced with her own kind of justice. Every day is a high wire act of juggling patients, doctors, fellow nurses and her own indiscretions.",
+        "premiered": "2009-06-08",
+        "rating": 8,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Showtime"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/95731-3.jpg",
+        "title": "Nurse Jackie",
+        "tvshowid": 58,
+        "votes": "53",
+        "watchedepisodes": 0,
+        "year": 2009
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/95731/673771.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/95731-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/95731-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Edie Falco",
+                        "order": 0,
+                        "role": "Jackie Peyton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/99621.jpg"
+                    },
+                    {
+                        "name": "Merritt Wever",
+                        "order": 1,
+                        "role": "Zoey Barkow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146811.jpg"
+                    },
+                    {
+                        "name": "Anna Deavere Smith",
+                        "order": 2,
+                        "role": "Gloria Akalitus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146841.jpg"
+                    },
+                    {
+                        "name": "Bobby Cannavale",
+                        "order": 3,
+                        "role": "Dr. Mike Cruz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306095.jpg"
+                    },
+                    {
+                        "name": "Arjun Gupta",
+                        "order": 4,
+                        "role": "Sam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306094.jpg"
+                    },
+                    {
+                        "name": "Stephen Wallem",
+                        "order": 5,
+                        "role": "Thor Lundgren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306093.jpg"
+                    },
+                    {
+                        "name": "Dominic Fumusa",
+                        "order": 6,
+                        "role": "Kevin Peyton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306091.jpg"
+                    },
+                    {
+                        "name": "Peter Facinelli",
+                        "order": 7,
+                        "role": "Dr. Fitch \"Coop\" Cooper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146861.jpg"
+                    },
+                    {
+                        "name": "Paul Schulze",
+                        "order": 8,
+                        "role": "Eddie Walzer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146851.jpg"
+                    },
+                    {
+                        "name": "Haaz Sleiman",
+                        "order": 9,
+                        "role": "Mo-Mo De La Cruz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146831.jpg"
+                    },
+                    {
+                        "name": "Eve Best",
+                        "order": 10,
+                        "role": "Dr. Eleanor O'Hara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146821.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-31 22:07:28",
+                "director": [
+                    "Allen Coulter"
+                ],
+                "episode": 1,
+                "episodeid": 1186,
+                "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nurse Jackie/Season 1/Nurse.Jackie.S01E01.Bittere.Pillen.GERMAN.DUBBED.WS.BLURAYRiP.XviD-SOF.mp4",
+                "firstaired": "2009-06-08",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Longtime ER nurse Jackie Peyton bends the rules to bring some good from a patient's senseless death, while concealing her addiction to a pain killer she gets from her boyfriend, the hospital pharmacist.",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1800,
+                "season": 1,
+                "showtitle": "Nurse Jackie",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/95731/673771.jpg",
+                "title": "Pilot",
+                "tvshowid": 58,
+                "uniqueid": {
+                    "unknown": "673771"
+                },
+                "votes": "38",
+                "writer": [
+                    "Liz Brixius",
+                    "Linda Wallem & Evan Dunsky"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/95731/736981.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/95731-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/95731-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Edie Falco",
+                        "order": 0,
+                        "role": "Jackie Peyton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/99621.jpg"
+                    },
+                    {
+                        "name": "Merritt Wever",
+                        "order": 1,
+                        "role": "Zoey Barkow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146811.jpg"
+                    },
+                    {
+                        "name": "Anna Deavere Smith",
+                        "order": 2,
+                        "role": "Gloria Akalitus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146841.jpg"
+                    },
+                    {
+                        "name": "Bobby Cannavale",
+                        "order": 3,
+                        "role": "Dr. Mike Cruz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306095.jpg"
+                    },
+                    {
+                        "name": "Arjun Gupta",
+                        "order": 4,
+                        "role": "Sam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306094.jpg"
+                    },
+                    {
+                        "name": "Stephen Wallem",
+                        "order": 5,
+                        "role": "Thor Lundgren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306093.jpg"
+                    },
+                    {
+                        "name": "Dominic Fumusa",
+                        "order": 6,
+                        "role": "Kevin Peyton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306091.jpg"
+                    },
+                    {
+                        "name": "Peter Facinelli",
+                        "order": 7,
+                        "role": "Dr. Fitch \"Coop\" Cooper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146861.jpg"
+                    },
+                    {
+                        "name": "Paul Schulze",
+                        "order": 8,
+                        "role": "Eddie Walzer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146851.jpg"
+                    },
+                    {
+                        "name": "Haaz Sleiman",
+                        "order": 9,
+                        "role": "Mo-Mo De La Cruz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146831.jpg"
+                    },
+                    {
+                        "name": "Eve Best",
+                        "order": 10,
+                        "role": "Dr. Eleanor O'Hara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146821.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-31 22:08:50",
+                "director": [
+                    "Craig Zisk"
+                ],
+                "episode": 2,
+                "episodeid": 1187,
+                "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nurse Jackie/Season 1/Nurse.Jackie.S01E02.Von.wegen.Suess.GERMAN.DUBBED.WS.BLURAYRiP.XviD-SOF.mp4",
+                "firstaired": "2009-06-15",
+                "label": "1x02. Sweet 'n All",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jackie and her husband, Kevin, become concerned that their older daughter Grace is suffering from anxiety disorder; hospital administrator Mrs. Akalitus drinks Jackie's Percoset-laced coffee.",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1800,
+                "season": 1,
+                "showtitle": "Nurse Jackie",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/95731/736981.jpg",
+                "title": "Sweet 'n All",
+                "tvshowid": 58,
+                "uniqueid": {
+                    "unknown": "736981"
+                },
+                "votes": "34",
+                "writer": [
+                    "Liz Brixius & Linda Wallem"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/95731/736991.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/95731-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/95731-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Edie Falco",
+                        "order": 0,
+                        "role": "Jackie Peyton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/99621.jpg"
+                    },
+                    {
+                        "name": "Merritt Wever",
+                        "order": 1,
+                        "role": "Zoey Barkow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146811.jpg"
+                    },
+                    {
+                        "name": "Anna Deavere Smith",
+                        "order": 2,
+                        "role": "Gloria Akalitus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146841.jpg"
+                    },
+                    {
+                        "name": "Bobby Cannavale",
+                        "order": 3,
+                        "role": "Dr. Mike Cruz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306095.jpg"
+                    },
+                    {
+                        "name": "Arjun Gupta",
+                        "order": 4,
+                        "role": "Sam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306094.jpg"
+                    },
+                    {
+                        "name": "Stephen Wallem",
+                        "order": 5,
+                        "role": "Thor Lundgren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306093.jpg"
+                    },
+                    {
+                        "name": "Dominic Fumusa",
+                        "order": 6,
+                        "role": "Kevin Peyton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306091.jpg"
+                    },
+                    {
+                        "name": "Peter Facinelli",
+                        "order": 7,
+                        "role": "Dr. Fitch \"Coop\" Cooper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146861.jpg"
+                    },
+                    {
+                        "name": "Paul Schulze",
+                        "order": 8,
+                        "role": "Eddie Walzer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146851.jpg"
+                    },
+                    {
+                        "name": "Haaz Sleiman",
+                        "order": 9,
+                        "role": "Mo-Mo De La Cruz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146831.jpg"
+                    },
+                    {
+                        "name": "Eve Best",
+                        "order": 10,
+                        "role": "Dr. Eleanor O'Hara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146821.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-31 22:07:11",
+                "director": [
+                    "Craig Zisk"
+                ],
+                "episode": 3,
+                "episodeid": 1188,
+                "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nurse Jackie/Season 1/Nurse.Jackie.S01E03.Huehnersuppe.GERMAN.DUBBED.WS.BLURAYRiP.XviD-SOF.mp4",
+                "firstaired": "2009-06-22",
+                "label": "1x03. Chicken Soup",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "An elderly patient checks in who has been treating his heart disease with chicken soup; Jackie discusses her daughter's anxiety with Dr. O'Hara; Eddie learns that he is to be replaced by a pill-dispensing machine.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1800,
+                "season": 1,
+                "showtitle": "Nurse Jackie",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/95731/736991.jpg",
+                "title": "Chicken Soup",
+                "tvshowid": 58,
+                "uniqueid": {
+                    "unknown": "736991"
+                },
+                "votes": "25",
+                "writer": [
+                    "Mark Hudis"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/95731/737001.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/95731-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/95731-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Edie Falco",
+                        "order": 0,
+                        "role": "Jackie Peyton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/99621.jpg"
+                    },
+                    {
+                        "name": "Merritt Wever",
+                        "order": 1,
+                        "role": "Zoey Barkow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146811.jpg"
+                    },
+                    {
+                        "name": "Anna Deavere Smith",
+                        "order": 2,
+                        "role": "Gloria Akalitus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146841.jpg"
+                    },
+                    {
+                        "name": "Bobby Cannavale",
+                        "order": 3,
+                        "role": "Dr. Mike Cruz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306095.jpg"
+                    },
+                    {
+                        "name": "Arjun Gupta",
+                        "order": 4,
+                        "role": "Sam",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306094.jpg"
+                    },
+                    {
+                        "name": "Stephen Wallem",
+                        "order": 5,
+                        "role": "Thor Lundgren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306093.jpg"
+                    },
+                    {
+                        "name": "Dominic Fumusa",
+                        "order": 6,
+                        "role": "Kevin Peyton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306091.jpg"
+                    },
+                    {
+                        "name": "Peter Facinelli",
+                        "order": 7,
+                        "role": "Dr. Fitch \"Coop\" Cooper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146861.jpg"
+                    },
+                    {
+                        "name": "Paul Schulze",
+                        "order": 8,
+                        "role": "Eddie Walzer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146851.jpg"
+                    },
+                    {
+                        "name": "Haaz Sleiman",
+                        "order": 9,
+                        "role": "Mo-Mo De La Cruz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146831.jpg"
+                    },
+                    {
+                        "name": "Eve Best",
+                        "order": 10,
+                        "role": "Dr. Eleanor O'Hara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/146821.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-31 22:07:40",
+                "director": [
+                    "Steve Buscemi"
+                ],
+                "episode": 4,
+                "episodeid": 1189,
+                "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nurse Jackie/Season 1/Nurse.Jackie.S01E04.Farben.der.Angst.GERMAN.DUBBED.WS.BLURAYRiP.XviD-SOF.mp4",
+                "firstaired": "2009-06-29",
+                "label": "1x04. School Nurse",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jackie and Kevin consider enrolling Grace in private school; the stoic Dr. O'Hara must endure the emotional thanks of a boy whose twin brother she saved; Zoey loses a patient for the first time.",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1800,
+                "season": 1,
+                "showtitle": "Nurse Jackie",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/95731/737001.jpg",
+                "title": "School Nurse",
+                "tvshowid": 58,
+                "uniqueid": {
+                    "unknown": "737001"
+                },
+                "votes": "32",
+                "writer": [
+                    "Christine Zander"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/95731-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/95731-1-5.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/95731-g6.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/95731-3.jpg"
+            },
+            "episode": 4,
+            "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 310,
+            "showtitle": "Nurse Jackie",
+            "thumbnail": "http://thetvdb.com/banners/seasons/95731-1-5.jpg",
+            "tvshowid": 58,
+            "watchedepisodes": 0
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/75941-g5.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/75941-8.jpg",
+            "poster": "http://thetvdb.com/banners/posters/75941-8.jpg"
+        },
+        "cast": [
+            {
+                "name": "Chihiro Suzuki",
+                "order": 0,
+                "role": "Kouta",
+                "thumbnail": "http://thetvdb.com/banners/actors/128991.jpg"
+            },
+            {
+                "name": "Sanae Kobayashi",
+                "order": 1,
+                "role": "Nyu/Lucy",
+                "thumbnail": "http://thetvdb.com/banners/actors/128981.jpg"
+            },
+            {
+                "name": "Mamiko Noto",
+                "order": 2,
+                "role": "Yuka",
+                "thumbnail": "http://thetvdb.com/banners/actors/128971.jpg"
+            },
+            {
+                "name": "Yuki Matsuoka",
+                "order": 3,
+                "role": "Nana",
+                "thumbnail": "http://thetvdb.com/banners/actors/291213.jpg"
+            },
+            {
+                "name": "Emiko Hagiwara",
+                "order": 4,
+                "role": "Mayu",
+                "thumbnail": "http://thetvdb.com/banners/actors/128961.jpg"
+            },
+            {
+                "name": "Hitomi Nabatame",
+                "order": 5,
+                "role": "Shirakawa",
+                "thumbnail": "http://thetvdb.com/banners/actors/291214.jpg"
+            },
+            {
+                "name": "Tomoko Kawakami",
+                "order": 6,
+                "role": "Mariko",
+                "thumbnail": "http://thetvdb.com/banners/actors/291212.jpg"
+            },
+            {
+                "name": "Osamu Hosoi",
+                "order": 7,
+                "role": "Kurama",
+                "thumbnail": "http://thetvdb.com/banners/actors/291211.jpg"
+            },
+            {
+                "name": "Hiroaki Hirata",
+                "order": 8,
+                "role": "Kakuzawa Kyouju",
+                "thumbnail": "http://thetvdb.com/banners/actors/291210.jpg"
+            },
+            {
+                "name": "Kinryu Arimoto",
+                "order": 9,
+                "role": "Kakuzawa Choukan",
+                "thumbnail": "http://thetvdb.com/banners/actors/291209.jpg"
+            },
+            {
+                "name": "Jouji Nakata",
+                "order": 10,
+                "role": "Bando",
+                "thumbnail": "http://thetvdb.com/banners/actors/291208.jpg"
+            },
+            {
+                "name": "Eriko Ishihara",
+                "order": 11,
+                "role": "Arakawa",
+                "thumbnail": "http://thetvdb.com/banners/actors/128951.jpg"
+            }
+        ],
+        "dateadded": "",
+        "episode": 0,
+        "episodeguide": "<episodeguide><url cache=\"75941-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/75941/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/75941-8.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Elfen Lied/",
+        "genre": [
+            "Animation",
+            "Drama"
+        ],
+        "imdbnumber": "75941",
+        "label": "Elfen Lied",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 1,
+        "plot": "The diclonius, otherwise known as a two-horned human, are mutants of the human species, and may well be the next step in human evolution. The diclonius have horns and strong telekinetic powers represented by \"vectors\". However with this great power, they can easily destroy the human race. Fearful of their power, humans quarantined the diclonius into secret research facilities to study. However, in a freak accident, a enraged female diclonius escaped, killing many guards in the process. While escaping, she is shot in the head, and falls into the ocean. As a result she has waves of amnesia. Later, she washes ashore. There, she meets two people named Kouta and Yuka, who name the female diclonius \"Nyuu\", after the only word she can say. They decide to watch after her, but of course, the research facility can't have this, and begin trying to retrieve her by any means necessary.",
+        "premiered": "2004-07-25",
+        "rating": 8.899999618530273,
+        "season": 0,
+        "sorttitle": "",
+        "studio": [
+            "AT-X"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/75941-8.jpg",
+        "title": "Elfen Lied",
+        "tvshowid": 28,
+        "votes": "213",
+        "watchedepisodes": 0,
+        "year": 2004
+    },
+    "episodes": {}
+}

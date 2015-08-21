@@ -1,0 +1,1440 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+            "poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+        },
+        "cast": [
+            {
+                "name": "Joseph Morgan",
+                "order": 0,
+                "role": "Klaus",
+                "thumbnail": "http://thetvdb.com/banners/actors/338494.jpg"
+            },
+            {
+                "name": "Daniel Gillies",
+                "order": 1,
+                "role": "Elijah",
+                "thumbnail": "http://thetvdb.com/banners/actors/338493.jpg"
+            },
+            {
+                "name": "Phoebe Tonkin",
+                "order": 2,
+                "role": "Hayley",
+                "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+            },
+            {
+                "name": "Charles Michael Davis",
+                "order": 3,
+                "role": "Marcel",
+                "thumbnail": "http://thetvdb.com/banners/actors/338497.jpg"
+            },
+            {
+                "name": "Danielle Campbell",
+                "order": 4,
+                "role": "Davina",
+                "thumbnail": "http://thetvdb.com/banners/actors/338495.jpg"
+            },
+            {
+                "name": "Leah Pipes",
+                "order": 5,
+                "role": "Camille",
+                "thumbnail": "http://thetvdb.com/banners/actors/338496.jpg"
+            },
+            {
+                "name": "Nathan Parsons",
+                "order": 6,
+                "role": "Jackson",
+                "thumbnail": "http://thetvdb.com/banners/actors/339755.jpg"
+            },
+            {
+                "name": "Daniel Sharman",
+                "order": 7,
+                "role": "Kaleb/Kol",
+                "thumbnail": "http://thetvdb.com/banners/actors/339167.jpg"
+            },
+            {
+                "name": "Daniella Pineda",
+                "order": 8,
+                "role": "Sophie",
+                "thumbnail": "http://thetvdb.com/banners/actors/338502.jpg"
+            },
+            {
+                "name": "Claire Holt",
+                "order": 9,
+                "role": "Rebekah",
+                "thumbnail": "http://thetvdb.com/banners/actors/338501.jpg"
+            },
+            {
+                "name": "Sebastian Roché",
+                "order": 10,
+                "role": "Mikael",
+                "thumbnail": "http://thetvdb.com/banners/actors/338499.jpg"
+            }
+        ],
+        "dateadded": "2014-10-11 19:39:39",
+        "episode": 11,
+        "episodeguide": "<episodeguide><url cache=\"266883-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/266883/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Originals/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Horror"
+        ],
+        "imdbnumber": "266883",
+        "label": "The Originals",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "A spin-off from The Vampire Diaries and set in New Orleans, The Originals centers on the Mikaelson siblings, otherwise known as the world's original vampires: Klaus (Joseph Morgan), Elijah (Daniel Gillies), and Rebekah (Claire Holt). Now Klaus must take down his protégé, Marcel (Charles Michael Davis), who is now in charge of New Orleans, in order to re-take his city, as he originally built New Orleans. Klaus departed from the city after being chased down by his father Mikael, while it was being constructed and Marcel took charge. As Klaus has returned after many years, his ego has provoked him to become the king of the city. \"Every King needs an heir\" says Klaus, accepting the unborn child. The child is a first to be born to a hybrid (part vampire, part werewolf) and a werewolf (Hayley).",
+        "premiered": "2013-10-03",
+        "rating": 8.199999809265137,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "The CW"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/266883-5.jpg",
+        "title": "The Originals",
+        "tvshowid": 82,
+        "votes": "39",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266883/4569892.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Morgan",
+                        "order": 0,
+                        "role": "Klaus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338494.jpg"
+                    },
+                    {
+                        "name": "Daniel Gillies",
+                        "order": 1,
+                        "role": "Elijah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338493.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 2,
+                        "role": "Hayley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Charles Michael Davis",
+                        "order": 3,
+                        "role": "Marcel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338497.jpg"
+                    },
+                    {
+                        "name": "Danielle Campbell",
+                        "order": 4,
+                        "role": "Davina",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338495.jpg"
+                    },
+                    {
+                        "name": "Leah Pipes",
+                        "order": 5,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338496.jpg"
+                    },
+                    {
+                        "name": "Nathan Parsons",
+                        "order": 6,
+                        "role": "Jackson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339755.jpg"
+                    },
+                    {
+                        "name": "Daniel Sharman",
+                        "order": 7,
+                        "role": "Kaleb/Kol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339167.jpg"
+                    },
+                    {
+                        "name": "Daniella Pineda",
+                        "order": 8,
+                        "role": "Sophie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338502.jpg"
+                    },
+                    {
+                        "name": "Claire Holt",
+                        "order": 9,
+                        "role": "Rebekah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338501.jpg"
+                    },
+                    {
+                        "name": "Sebastian Roché",
+                        "order": 10,
+                        "role": "Mikael",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338499.jpg"
+                    }
+                ],
+                "dateadded": "2014-08-16 18:48:25",
+                "director": [
+                    "Chris Grismer"
+                ],
+                "episode": 1,
+                "episodeid": 1656,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Originals/Season 1/The.Originals.S01E01.Fuer.immer.und.ewig.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "firstaired": "2013-10-03",
+                "label": "1x01. Always and Forever",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Klaus Mikaelson, the original vampire-werewolf hybrid, has returned to the supernatural melting pot that is the French Quarter of New Orleans - the city his family helped build 300 years ago. Determined to help his brother, Elijah leaves their sister Rebekah behind and follows Klaus. Elijah learns that the beautiful and rebellious werewolf Hayley - Klaus' onetime flame - has fallen into the hands of a powerful witch named Sophie Deveraux. When Sophie reveals some life-changing news, Elijah realizes that the Original family may have been given a second chance at humanity and redemption. Klaus, however, is more intrigued by his recent unexpected reunion with his former protégé, Marcel, a charismatic but diabolical vampire who now has total control over the supernatural inhabitants of New Orleans. Klaus vows to reclaim what was once his - the power, the city and his family.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Originals",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266883/4569892.jpg",
+                "title": "Always and Forever",
+                "tvshowid": 82,
+                "uniqueid": {
+                    "unknown": "4569892"
+                },
+                "votes": "47",
+                "writer": [
+                    "Julie Plec",
+                    "Michael Narducci"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266883/4634805.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Steven Krueger",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alexandra Metz",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Morgan",
+                        "order": 0,
+                        "role": "Klaus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338494.jpg"
+                    },
+                    {
+                        "name": "Daniel Gillies",
+                        "order": 1,
+                        "role": "Elijah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338493.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 2,
+                        "role": "Hayley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Charles Michael Davis",
+                        "order": 3,
+                        "role": "Marcel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338497.jpg"
+                    },
+                    {
+                        "name": "Danielle Campbell",
+                        "order": 4,
+                        "role": "Davina",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338495.jpg"
+                    },
+                    {
+                        "name": "Leah Pipes",
+                        "order": 5,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338496.jpg"
+                    },
+                    {
+                        "name": "Nathan Parsons",
+                        "order": 6,
+                        "role": "Jackson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339755.jpg"
+                    },
+                    {
+                        "name": "Daniel Sharman",
+                        "order": 7,
+                        "role": "Kaleb/Kol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339167.jpg"
+                    },
+                    {
+                        "name": "Daniella Pineda",
+                        "order": 8,
+                        "role": "Sophie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338502.jpg"
+                    },
+                    {
+                        "name": "Claire Holt",
+                        "order": 9,
+                        "role": "Rebekah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338501.jpg"
+                    },
+                    {
+                        "name": "Sebastian Roché",
+                        "order": 10,
+                        "role": "Mikael",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338499.jpg"
+                    }
+                ],
+                "dateadded": "2014-08-16 18:49:59",
+                "director": [
+                    "Brad Turner"
+                ],
+                "episode": 2,
+                "episodeid": 1657,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Originals/Season 1/The.Originals.S01E02.Verrat.an.der.Familie.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "firstaired": "2013-10-08",
+                "label": "1x02. House of the Rising Son",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Rebekah arrives in New Orleans at her brother Elijah’s insistence, she meets Hayley, who gives her some unexpected news. Concerned that her brother Klaus is up to no good, Rebekah seeks help from a reluctant Sophie. At her wits’ end, Hayley takes matters into her own hands, but things quickly take a dangerous turn. Determined to uncover Marcel’s secret weapon, Klaus stays one step ahead and executes his plan. Meanwhile, after a run-in with Marcel, Rebekah is reminded of all the anger and disappointment Klaus has caused her throughout the years. Finally, Marcel enlists Davina’s help in his own dangerous plan.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Originals",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266883/4634805.jpg",
+                "title": "House of the Rising Son",
+                "tvshowid": 82,
+                "uniqueid": {
+                    "unknown": "4634805"
+                },
+                "votes": "34",
+                "writer": [
+                    "Diane Ademu-John",
+                    "Declan de Barra"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266883/4634806.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Bart Nickerson",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ashley Lyle",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Shannon Kane",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Morgan",
+                        "order": 0,
+                        "role": "Klaus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338494.jpg"
+                    },
+                    {
+                        "name": "Daniel Gillies",
+                        "order": 1,
+                        "role": "Elijah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338493.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 2,
+                        "role": "Hayley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Charles Michael Davis",
+                        "order": 3,
+                        "role": "Marcel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338497.jpg"
+                    },
+                    {
+                        "name": "Danielle Campbell",
+                        "order": 4,
+                        "role": "Davina",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338495.jpg"
+                    },
+                    {
+                        "name": "Leah Pipes",
+                        "order": 5,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338496.jpg"
+                    },
+                    {
+                        "name": "Nathan Parsons",
+                        "order": 6,
+                        "role": "Jackson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339755.jpg"
+                    },
+                    {
+                        "name": "Daniel Sharman",
+                        "order": 7,
+                        "role": "Kaleb/Kol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339167.jpg"
+                    },
+                    {
+                        "name": "Daniella Pineda",
+                        "order": 8,
+                        "role": "Sophie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338502.jpg"
+                    },
+                    {
+                        "name": "Claire Holt",
+                        "order": 9,
+                        "role": "Rebekah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338501.jpg"
+                    },
+                    {
+                        "name": "Sebastian Roché",
+                        "order": 10,
+                        "role": "Mikael",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338499.jpg"
+                    }
+                ],
+                "dateadded": "2014-08-16 18:50:41",
+                "director": [
+                    "Chris Grismer"
+                ],
+                "episode": 3,
+                "episodeid": 1658,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Originals/Season 1/The.Originals.S01E03.Hexen.vs.Vampire.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "firstaired": "2013-10-15",
+                "label": "1x03. Tangled Up in Blue",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After discovering interesting news about someone in Marcel's inner circle, Klaus and Rebekah come together to attempt to unravel Marcel's empire from within in spite of Elijah's concerns. They enlist help from Sophie, who is reluctant to get involved for fear of the wrath of Marcel's secret weapon, Davina. Rebekah sneakily invites an oblivious Cami to a huge vampire party thrown by Marcel, managing to anger Marcel in the process. Elsewhere, Hayley learns from the witch Sabine that the supernatural creatures of New Orleans are reacting to the potential existence of a hybrid baby.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Originals",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266883/4634806.jpg",
+                "title": "Tangled Up in Blue",
+                "tvshowid": 82,
+                "uniqueid": {
+                    "unknown": "4634806"
+                },
+                "votes": "29",
+                "writer": [
+                    "Ashley Lyle",
+                    "Bart Nickerson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266883/4660855.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Morgan",
+                        "order": 0,
+                        "role": "Klaus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338494.jpg"
+                    },
+                    {
+                        "name": "Daniel Gillies",
+                        "order": 1,
+                        "role": "Elijah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338493.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 2,
+                        "role": "Hayley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Charles Michael Davis",
+                        "order": 3,
+                        "role": "Marcel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338497.jpg"
+                    },
+                    {
+                        "name": "Danielle Campbell",
+                        "order": 4,
+                        "role": "Davina",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338495.jpg"
+                    },
+                    {
+                        "name": "Leah Pipes",
+                        "order": 5,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338496.jpg"
+                    },
+                    {
+                        "name": "Nathan Parsons",
+                        "order": 6,
+                        "role": "Jackson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339755.jpg"
+                    },
+                    {
+                        "name": "Daniel Sharman",
+                        "order": 7,
+                        "role": "Kaleb/Kol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339167.jpg"
+                    },
+                    {
+                        "name": "Daniella Pineda",
+                        "order": 8,
+                        "role": "Sophie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338502.jpg"
+                    },
+                    {
+                        "name": "Claire Holt",
+                        "order": 9,
+                        "role": "Rebekah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338501.jpg"
+                    },
+                    {
+                        "name": "Sebastian Roché",
+                        "order": 10,
+                        "role": "Mikael",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338499.jpg"
+                    }
+                ],
+                "dateadded": "2014-08-24 18:06:34",
+                "director": [
+                    "Jesse Warn"
+                ],
+                "episode": 4,
+                "episodeid": 1659,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Originals/Season 1/The.Originals.S01E04.Geheimnisvoller.Retter.German.Dubbed.DL.BD.x264-TVS.mkv",
+                "firstaired": "2013-10-22",
+                "label": "1x04. Girl in New Orleans",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "With the annual Dauphine street music festival around the corner, Davina, itching for a night out, convinces Marcel to let her attend. Marcel cautiously obliges but asks Cami to keep a watchful eye on Davina. Agnes convinces Hayley to visit a mysterious doctor in the bayou where she makes a shocking discovery. Meanwhile, Klaus takes a special interest in Cami who reveals some alarming information about her past, and a determined Rebekah is on a mission to get to the bottom of a recent strange encounter involving Elijah.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Originals",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266883/4660855.jpg",
+                "title": "Girl in New Orleans",
+                "tvshowid": 82,
+                "uniqueid": {
+                    "unknown": "4660855"
+                },
+                "votes": "29",
+                "writer": [
+                    "Michelle Paradise",
+                    "Michael Narducci"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266883/4660856.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Morgan",
+                        "order": 0,
+                        "role": "Klaus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338494.jpg"
+                    },
+                    {
+                        "name": "Daniel Gillies",
+                        "order": 1,
+                        "role": "Elijah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338493.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 2,
+                        "role": "Hayley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Charles Michael Davis",
+                        "order": 3,
+                        "role": "Marcel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338497.jpg"
+                    },
+                    {
+                        "name": "Danielle Campbell",
+                        "order": 4,
+                        "role": "Davina",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338495.jpg"
+                    },
+                    {
+                        "name": "Leah Pipes",
+                        "order": 5,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338496.jpg"
+                    },
+                    {
+                        "name": "Nathan Parsons",
+                        "order": 6,
+                        "role": "Jackson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339755.jpg"
+                    },
+                    {
+                        "name": "Daniel Sharman",
+                        "order": 7,
+                        "role": "Kaleb/Kol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339167.jpg"
+                    },
+                    {
+                        "name": "Daniella Pineda",
+                        "order": 8,
+                        "role": "Sophie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338502.jpg"
+                    },
+                    {
+                        "name": "Claire Holt",
+                        "order": 9,
+                        "role": "Rebekah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338501.jpg"
+                    },
+                    {
+                        "name": "Sebastian Roché",
+                        "order": 10,
+                        "role": "Mikael",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338499.jpg"
+                    }
+                ],
+                "dateadded": "2014-09-13 23:39:44",
+                "director": [
+                    "Chris Grismer"
+                ],
+                "episode": 5,
+                "episodeid": 1660,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Originals/Season 1/The.Originals.S01E05.Suender.und.Heilige.GERMAN.DUBBED.BLURAYRiP.x264-SOF.mkv",
+                "firstaired": "2013-10-29",
+                "label": "1x05. Sinners and Saints",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Angered by recent events involving the safety of his unborn baby, Klaus demands answers from Sophie, believing she was involved. Sophie reveals to Klaus and Rebekah a troubling secret from her past. Meanwhile, Marcel asks Klaus to accompany him to the bayou after gruesome remains are discovered, while Rebekah, Sophie and Hayley set off on a mission of their own. Davina confides in an unexpected ally and reveals shocking information about the witches, ultimately leading to a disturbing revelation.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Originals",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266883/4660856.jpg",
+                "title": "Sinners and Saints",
+                "tvshowid": 82,
+                "uniqueid": {
+                    "unknown": "4660856"
+                },
+                "votes": "27",
+                "writer": [
+                    "Marguerite MacIntyre",
+                    "Julie Plec"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266883/4689020.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Todd Stashwick",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Morgan",
+                        "order": 0,
+                        "role": "Klaus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338494.jpg"
+                    },
+                    {
+                        "name": "Daniel Gillies",
+                        "order": 1,
+                        "role": "Elijah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338493.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 2,
+                        "role": "Hayley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Charles Michael Davis",
+                        "order": 3,
+                        "role": "Marcel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338497.jpg"
+                    },
+                    {
+                        "name": "Danielle Campbell",
+                        "order": 4,
+                        "role": "Davina",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338495.jpg"
+                    },
+                    {
+                        "name": "Leah Pipes",
+                        "order": 5,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338496.jpg"
+                    },
+                    {
+                        "name": "Nathan Parsons",
+                        "order": 6,
+                        "role": "Jackson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339755.jpg"
+                    },
+                    {
+                        "name": "Daniel Sharman",
+                        "order": 7,
+                        "role": "Kaleb/Kol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339167.jpg"
+                    },
+                    {
+                        "name": "Daniella Pineda",
+                        "order": 8,
+                        "role": "Sophie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338502.jpg"
+                    },
+                    {
+                        "name": "Claire Holt",
+                        "order": 9,
+                        "role": "Rebekah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338501.jpg"
+                    },
+                    {
+                        "name": "Sebastian Roché",
+                        "order": 10,
+                        "role": "Mikael",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338499.jpg"
+                    }
+                ],
+                "dateadded": "2014-09-13 23:42:17",
+                "director": [
+                    "Michael Allowitz"
+                ],
+                "episode": 6,
+                "episodeid": 1661,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Originals/Season 1/The.Originals.S01E06.GERMAN.DUBBED.BLURAYRiP.x264-SOF.mkv",
+                "firstaired": "2013-11-05",
+                "label": "1x06. Fruit of the Poisoned Tree",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Klaus discovers Hayley's life is being threatened, he goes to extreme lengths to protect her and their unborn baby. Having a difficult time dealing with the tragic events of her past, Cami turns to Father Kieran for guidance. Feeling as though he can trust no one, Marcel visits an old friend to seek out some advice, while Davina takes steps to learn how to control her magic. Finally, Klaus delivers some surprising news to Father Kieran.",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Originals",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266883/4689020.jpg",
+                "title": "Fruit of the Poisoned Tree",
+                "tvshowid": 82,
+                "uniqueid": {
+                    "unknown": "4689020"
+                },
+                "votes": "29",
+                "writer": [
+                    "Diane Ademu-John",
+                    "Charlie Charbonneau"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266883/4694734.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Morgan",
+                        "order": 0,
+                        "role": "Klaus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338494.jpg"
+                    },
+                    {
+                        "name": "Daniel Gillies",
+                        "order": 1,
+                        "role": "Elijah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338493.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 2,
+                        "role": "Hayley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Charles Michael Davis",
+                        "order": 3,
+                        "role": "Marcel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338497.jpg"
+                    },
+                    {
+                        "name": "Danielle Campbell",
+                        "order": 4,
+                        "role": "Davina",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338495.jpg"
+                    },
+                    {
+                        "name": "Leah Pipes",
+                        "order": 5,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338496.jpg"
+                    },
+                    {
+                        "name": "Nathan Parsons",
+                        "order": 6,
+                        "role": "Jackson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339755.jpg"
+                    },
+                    {
+                        "name": "Daniel Sharman",
+                        "order": 7,
+                        "role": "Kaleb/Kol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339167.jpg"
+                    },
+                    {
+                        "name": "Daniella Pineda",
+                        "order": 8,
+                        "role": "Sophie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338502.jpg"
+                    },
+                    {
+                        "name": "Claire Holt",
+                        "order": 9,
+                        "role": "Rebekah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338501.jpg"
+                    },
+                    {
+                        "name": "Sebastian Roché",
+                        "order": 10,
+                        "role": "Mikael",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338499.jpg"
+                    }
+                ],
+                "dateadded": "2014-09-13 23:42:52",
+                "director": [
+                    "Jeffrey Hunt"
+                ],
+                "episode": 7,
+                "episodeid": 1662,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Originals/Season 1/The.Originals.S01E07.Aderlass.GERMAN.DUBBED.BLURAYRiP.x264-SOF.mkv",
+                "firstaired": "2013-11-12",
+                "label": "1x07. Bloodletting",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When someone from Hayley’s past makes a startling revelation, she grows concerned for herself and the baby. Amidst growing tensions between them, Klaus and Elijah turn to Sabine for help in locating Hayley, who has gone missing. After making a trip down to the bayou, Klaus has a surprising and dangerous encounter with an unexpected visitor. Meanwhile, Davina makes a surprising connection, and Marcel makes Rebekah an enticing offer that leaves her torn.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Originals",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266883/4694734.jpg",
+                "title": "Bloodletting",
+                "tvshowid": 82,
+                "uniqueid": {
+                    "unknown": "4694734"
+                },
+                "votes": "28",
+                "writer": [
+                    "Michael Russo",
+                    "Michael Narducci"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266883/4707558.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Todd Stashwick",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Morgan",
+                        "order": 0,
+                        "role": "Klaus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338494.jpg"
+                    },
+                    {
+                        "name": "Daniel Gillies",
+                        "order": 1,
+                        "role": "Elijah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338493.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 2,
+                        "role": "Hayley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Charles Michael Davis",
+                        "order": 3,
+                        "role": "Marcel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338497.jpg"
+                    },
+                    {
+                        "name": "Danielle Campbell",
+                        "order": 4,
+                        "role": "Davina",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338495.jpg"
+                    },
+                    {
+                        "name": "Leah Pipes",
+                        "order": 5,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338496.jpg"
+                    },
+                    {
+                        "name": "Nathan Parsons",
+                        "order": 6,
+                        "role": "Jackson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339755.jpg"
+                    },
+                    {
+                        "name": "Daniel Sharman",
+                        "order": 7,
+                        "role": "Kaleb/Kol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339167.jpg"
+                    },
+                    {
+                        "name": "Daniella Pineda",
+                        "order": 8,
+                        "role": "Sophie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338502.jpg"
+                    },
+                    {
+                        "name": "Claire Holt",
+                        "order": 9,
+                        "role": "Rebekah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338501.jpg"
+                    },
+                    {
+                        "name": "Sebastian Roché",
+                        "order": 10,
+                        "role": "Mikael",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338499.jpg"
+                    }
+                ],
+                "dateadded": "2014-10-11 19:39:39",
+                "director": [
+                    "Jesse Warn"
+                ],
+                "episode": 8,
+                "episodeid": 1663,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Originals/Season 1/The.Originals.S01E08.Zurueck.auf.Anfang.GERMAN.DUBBED.BLURAYRiP.x264-SOF.mp4",
+                "firstaired": "2013-11-26",
+                "label": "1x08. The River in Reverse",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Rebekah, facing a difficult decision, turns to Father Kieran for guidance. Elijah struggles with the consequences of a recent fallout with Klaus. Hayley remains by his side but is soon drawn away by a mysterious figure who sheds some light on her past. Meanwhile, a frustrated Cami struggles to make sense of a cryptic message she's come across. Finally, when an unsuspecting Marcel uncovers some upsetting information involving Klaus, a confrontation ends in a surprising twist.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Originals",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266883/4707558.jpg",
+                "title": "The River in Reverse",
+                "tvshowid": 82,
+                "uniqueid": {
+                    "unknown": "4707558"
+                },
+                "votes": "29",
+                "writer": [
+                    "Declan de Barra",
+                    "Julie Plec"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266883/4710194.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Tasha Ames",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Morgan",
+                        "order": 0,
+                        "role": "Klaus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338494.jpg"
+                    },
+                    {
+                        "name": "Daniel Gillies",
+                        "order": 1,
+                        "role": "Elijah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338493.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 2,
+                        "role": "Hayley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Charles Michael Davis",
+                        "order": 3,
+                        "role": "Marcel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338497.jpg"
+                    },
+                    {
+                        "name": "Danielle Campbell",
+                        "order": 4,
+                        "role": "Davina",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338495.jpg"
+                    },
+                    {
+                        "name": "Leah Pipes",
+                        "order": 5,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338496.jpg"
+                    },
+                    {
+                        "name": "Nathan Parsons",
+                        "order": 6,
+                        "role": "Jackson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339755.jpg"
+                    },
+                    {
+                        "name": "Daniel Sharman",
+                        "order": 7,
+                        "role": "Kaleb/Kol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339167.jpg"
+                    },
+                    {
+                        "name": "Daniella Pineda",
+                        "order": 8,
+                        "role": "Sophie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338502.jpg"
+                    },
+                    {
+                        "name": "Claire Holt",
+                        "order": 9,
+                        "role": "Rebekah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338501.jpg"
+                    },
+                    {
+                        "name": "Sebastian Roché",
+                        "order": 10,
+                        "role": "Mikael",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338499.jpg"
+                    }
+                ],
+                "dateadded": "2014-10-11 19:10:19",
+                "director": [
+                    "Joshua Butler"
+                ],
+                "episode": 9,
+                "episodeid": 1664,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Originals/Season 1/The.Originals.S01E09.Machtuebernahme.GERMAN.DUBBED.BLURAYRiP.x264-SOF.mp4",
+                "firstaired": "2013-12-03",
+                "label": "1x09. Reigning Pain in New Orleans",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Marcel, deeply conflicted by recent events, is surprised when Klaus opens up to him about some of his past indiscretions. Cami tries to make sense of cryptic messages she's come across and is disturbed when she gains some insight into Klaus' past. Meanwhile, in a surprising turn of events, the human faction takes matters into their own hands, resulting in a violent confrontation.  Elsewhere, when Hayley learns of a plan to harm the werewolves in the bayou, she turns to Elijah and Rebekah for help. After heading to the bayou, they run into a werewolf named Eve, who has information that leads them to a shocking discovery.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Originals",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266883/4710194.jpg",
+                "title": "Reigning Pain in New Orleans",
+                "tvshowid": 82,
+                "uniqueid": {
+                    "unknown": "4710194"
+                },
+                "votes": "23",
+                "writer": [
+                    "Ashley Lyle",
+                    "Bart Nickerson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266883/4724119.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Morgan",
+                        "order": 0,
+                        "role": "Klaus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338494.jpg"
+                    },
+                    {
+                        "name": "Daniel Gillies",
+                        "order": 1,
+                        "role": "Elijah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338493.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 2,
+                        "role": "Hayley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Charles Michael Davis",
+                        "order": 3,
+                        "role": "Marcel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338497.jpg"
+                    },
+                    {
+                        "name": "Danielle Campbell",
+                        "order": 4,
+                        "role": "Davina",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338495.jpg"
+                    },
+                    {
+                        "name": "Leah Pipes",
+                        "order": 5,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338496.jpg"
+                    },
+                    {
+                        "name": "Nathan Parsons",
+                        "order": 6,
+                        "role": "Jackson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339755.jpg"
+                    },
+                    {
+                        "name": "Daniel Sharman",
+                        "order": 7,
+                        "role": "Kaleb/Kol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339167.jpg"
+                    },
+                    {
+                        "name": "Daniella Pineda",
+                        "order": 8,
+                        "role": "Sophie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338502.jpg"
+                    },
+                    {
+                        "name": "Claire Holt",
+                        "order": 9,
+                        "role": "Rebekah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338501.jpg"
+                    },
+                    {
+                        "name": "Sebastian Roché",
+                        "order": 10,
+                        "role": "Mikael",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338499.jpg"
+                    }
+                ],
+                "dateadded": "2014-10-11 19:08:40",
+                "director": [
+                    "Jesse Warn"
+                ],
+                "episode": 10,
+                "episodeid": 1665,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Originals/Season 1/The.Originals.S01E10.Die.Casket.Girls.GERMAN.DUBBED.BLURAYRiP.x264-SOF.mp4",
+                "firstaired": "2014-01-14",
+                "label": "1x10. The Casket Girls",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As the French Quarter prepares for its annual celebration of the Casket Girls Festival, Cami suffers through as Davina attempts to free her of Klaus’ mind compulsion. Elijah and Marcel form an unlikely alliance as Klaus sets his plan in motion to get Davina back. Once it’s known that Davina is missing, Sophie gets in on the hunt to track her down. Meanwhile, Hayley is forced to make a tough decision after receiving an unexpected phone call, and Rebekah sets her own plan in motion when she enlists the help of someone from Marcel’s past.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Originals",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266883/4724119.jpg",
+                "title": "The Casket Girls",
+                "tvshowid": 82,
+                "uniqueid": {
+                    "unknown": "4724119"
+                },
+                "votes": "25",
+                "writer": [
+                    "Charlie Charbonneau",
+                    "Michelle Paradise"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/266883/4724120.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joseph Morgan",
+                        "order": 0,
+                        "role": "Klaus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338494.jpg"
+                    },
+                    {
+                        "name": "Daniel Gillies",
+                        "order": 1,
+                        "role": "Elijah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338493.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 2,
+                        "role": "Hayley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Charles Michael Davis",
+                        "order": 3,
+                        "role": "Marcel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338497.jpg"
+                    },
+                    {
+                        "name": "Danielle Campbell",
+                        "order": 4,
+                        "role": "Davina",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338495.jpg"
+                    },
+                    {
+                        "name": "Leah Pipes",
+                        "order": 5,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338496.jpg"
+                    },
+                    {
+                        "name": "Nathan Parsons",
+                        "order": 6,
+                        "role": "Jackson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339755.jpg"
+                    },
+                    {
+                        "name": "Daniel Sharman",
+                        "order": 7,
+                        "role": "Kaleb/Kol",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339167.jpg"
+                    },
+                    {
+                        "name": "Daniella Pineda",
+                        "order": 8,
+                        "role": "Sophie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338502.jpg"
+                    },
+                    {
+                        "name": "Claire Holt",
+                        "order": 9,
+                        "role": "Rebekah",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338501.jpg"
+                    },
+                    {
+                        "name": "Sebastian Roché",
+                        "order": 10,
+                        "role": "Mikael",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338499.jpg"
+                    }
+                ],
+                "dateadded": "2014-10-11 19:10:55",
+                "director": [
+                    "Leslie Libman"
+                ],
+                "episode": 11,
+                "episodeid": 1666,
+                "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Originals/Season 1/The.Originals.S01E11.GERMAN.DUBBED.BLURAYRiP.x264-SOF.mp4",
+                "firstaired": "2014-01-21",
+                "label": "1x11. Après Moi, Le Déluge",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Davina becomes violently ill and the repercussions soon begin to affect the entire French Quarter, Marcel, Klaus, Elijah and Rebekah rush to find out what is going on. Sophie approaches the others with some startling information about the Harvest Festival and presents a drastic plan to save Davina. Elsewhere, Hayley is racked with guilt as she comes clean to Elijah about her role in Sophie’s plan. Last, a sequence of unforeseen events sends shockwaves through the French Quarter.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Originals",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/266883/4724120.jpg",
+                "title": "Après Moi, Le Déluge",
+                "tvshowid": 82,
+                "uniqueid": {
+                    "unknown": "4724120"
+                },
+                "votes": "20",
+                "writer": [
+                    "Marguerite MacIntyre",
+                    "Diane Ademu-John"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/266883-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/266883-1-3.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/266883-g6.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/266883-5.jpg"
+            },
+            "episode": 11,
+            "fanart": "http://thetvdb.com/banners/fanart/original/266883-15.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 458,
+            "showtitle": "The Originals",
+            "thumbnail": "http://thetvdb.com/banners/seasons/266883-1-3.jpg",
+            "tvshowid": 82,
+            "watchedepisodes": 0
+        }
+    ]
+}

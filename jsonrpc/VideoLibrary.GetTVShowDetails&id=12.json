@@ -1,0 +1,662 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/84947-g6.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
+            "poster": "http://thetvdb.com/banners/posters/84947-4.jpg"
+        },
+        "cast": [
+            {
+                "name": "Steve Buscemi",
+                "order": 0,
+                "role": "Nucky Thompson",
+                "thumbnail": "http://thetvdb.com/banners/actors/81242.jpg"
+            },
+            {
+                "name": "Michael Pitt",
+                "order": 1,
+                "role": "Jimmy Darmody",
+                "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+            },
+            {
+                "name": "Kelly Macdonald",
+                "order": 2,
+                "role": "Margaret Schroeder",
+                "thumbnail": "http://thetvdb.com/banners/actors/81238.jpg"
+            },
+            {
+                "name": "Vincent Piazza",
+                "order": 3,
+                "role": "Lucky Luciano",
+                "thumbnail": "http://thetvdb.com/banners/actors/81243.jpg"
+            },
+            {
+                "name": "Stephen Graham",
+                "order": 4,
+                "role": "Al Capone",
+                "thumbnail": "http://thetvdb.com/banners/actors/81241.jpg"
+            },
+            {
+                "name": "Michael Shannon",
+                "order": 5,
+                "role": "Agent Nelson Van Alden",
+                "thumbnail": "http://thetvdb.com/banners/actors/81240.jpg"
+            },
+            {
+                "name": "Greg Antonacci",
+                "order": 6,
+                "role": "Johnny Torrio",
+                "thumbnail": "http://thetvdb.com/banners/actors/299779.jpg"
+            },
+            {
+                "name": "Charlie Cox",
+                "order": 7,
+                "role": "Owen Slater",
+                "thumbnail": "http://thetvdb.com/banners/actors/299778.jpg"
+            },
+            {
+                "name": "Jack Huston",
+                "order": 8,
+                "role": "Richard Harrow",
+                "thumbnail": "http://thetvdb.com/banners/actors/299776.jpg"
+            },
+            {
+                "name": "Gretchen Mol",
+                "order": 9,
+                "role": "Gillian Darmody",
+                "thumbnail": "http://thetvdb.com/banners/actors/299775.jpg"
+            },
+            {
+                "name": "Dabney Coleman",
+                "order": 10,
+                "role": "Commodore Louis Kaestner",
+                "thumbnail": "http://thetvdb.com/banners/actors/299774.jpg"
+            },
+            {
+                "name": "Paul Sparks (II)",
+                "order": 11,
+                "role": "Mickey Doyle",
+                "thumbnail": "http://thetvdb.com/banners/actors/299773.jpg"
+            },
+            {
+                "name": "Anthony Laciura",
+                "order": 12,
+                "role": "Eddie Kessler",
+                "thumbnail": "http://thetvdb.com/banners/actors/299772.jpg"
+            },
+            {
+                "name": "Michael Kenneth Williams",
+                "order": 13,
+                "role": "Chalky White",
+                "thumbnail": "http://thetvdb.com/banners/actors/299771.jpg"
+            },
+            {
+                "name": "Paz de la Huerta",
+                "order": 14,
+                "role": "Lucy Danziger",
+                "thumbnail": "http://thetvdb.com/banners/actors/299770.jpg"
+            },
+            {
+                "name": "Michael Stuhlbarg",
+                "order": 15,
+                "role": "Arnold Rothstein",
+                "thumbnail": "http://thetvdb.com/banners/actors/299762.jpg"
+            },
+            {
+                "name": "Aleksa Palladino",
+                "order": 16,
+                "role": "Angela Darmody",
+                "thumbnail": "http://thetvdb.com/banners/actors/299761.jpg"
+            },
+            {
+                "name": "Shea Whigham",
+                "order": 17,
+                "role": "Elias 'Eli' Thompson",
+                "thumbnail": "http://thetvdb.com/banners/actors/299760.jpg"
+            },
+            {
+                "name": "Anatol Yusef",
+                "order": 36,
+                "role": "Meyer Lansky"
+            }
+        ],
+        "dateadded": "2014-01-21 20:02:38",
+        "episode": 3,
+        "episodeguide": "<episodeguide><url cache=\"84947-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/84947/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boardwalk Empire/",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "imdbnumber": "84947",
+        "label": "Boardwalk Empire",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Boardwalk Empire is a period drama focusing on Enoch \"Nucky\" Thompson (based on the historical Enoch L. Johnson), a political figure who rose to prominence and controlled Atlantic City, New Jersey, during the Prohibition period of the 1920s and 1930s. Nucky acts with historical characters in both his personal and political life, including mobsters, politicians, government agents, and the common folk who look up to him. The federal government also takes an interest in the bootlegging and other illegal activities in the area, sending agents to investigate possible mob connections but also looking at Nucky's lifestyle—expensive and lavish for a county political figure. The final season jumps ahead seven years, to 1931, as Prohibition nears its end.",
+        "premiered": "2010-09-19",
+        "rating": 9,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "HBO"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/84947-4.jpg",
+        "title": "Boardwalk Empire",
+        "tvshowid": 12,
+        "votes": "181",
+        "watchedepisodes": 0,
+        "year": 2010
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84947/432126.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84947-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84947-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Steve Buscemi",
+                        "order": 0,
+                        "role": "Nucky Thompson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81242.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 1,
+                        "role": "Jimmy Darmody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Kelly Macdonald",
+                        "order": 2,
+                        "role": "Margaret Schroeder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81238.jpg"
+                    },
+                    {
+                        "name": "Vincent Piazza",
+                        "order": 3,
+                        "role": "Lucky Luciano",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81243.jpg"
+                    },
+                    {
+                        "name": "Stephen Graham",
+                        "order": 4,
+                        "role": "Al Capone",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81241.jpg"
+                    },
+                    {
+                        "name": "Michael Shannon",
+                        "order": 5,
+                        "role": "Agent Nelson Van Alden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81240.jpg"
+                    },
+                    {
+                        "name": "Greg Antonacci",
+                        "order": 6,
+                        "role": "Johnny Torrio",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299779.jpg"
+                    },
+                    {
+                        "name": "Charlie Cox",
+                        "order": 7,
+                        "role": "Owen Slater",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299778.jpg"
+                    },
+                    {
+                        "name": "Jack Huston",
+                        "order": 8,
+                        "role": "Richard Harrow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299776.jpg"
+                    },
+                    {
+                        "name": "Gretchen Mol",
+                        "order": 9,
+                        "role": "Gillian Darmody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299775.jpg"
+                    },
+                    {
+                        "name": "Dabney Coleman",
+                        "order": 10,
+                        "role": "Commodore Louis Kaestner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299774.jpg"
+                    },
+                    {
+                        "name": "Paul Sparks (II)",
+                        "order": 11,
+                        "role": "Mickey Doyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299773.jpg"
+                    },
+                    {
+                        "name": "Anthony Laciura",
+                        "order": 12,
+                        "role": "Eddie Kessler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299772.jpg"
+                    },
+                    {
+                        "name": "Michael Kenneth Williams",
+                        "order": 13,
+                        "role": "Chalky White",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299771.jpg"
+                    },
+                    {
+                        "name": "Paz de la Huerta",
+                        "order": 14,
+                        "role": "Lucy Danziger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299770.jpg"
+                    },
+                    {
+                        "name": "Michael Stuhlbarg",
+                        "order": 15,
+                        "role": "Arnold Rothstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299762.jpg"
+                    },
+                    {
+                        "name": "Aleksa Palladino",
+                        "order": 16,
+                        "role": "Angela Darmody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299761.jpg"
+                    },
+                    {
+                        "name": "Shea Whigham",
+                        "order": 17,
+                        "role": "Elias 'Eli' Thompson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299760.jpg"
+                    },
+                    {
+                        "name": "Anatol Yusef",
+                        "order": 36,
+                        "role": "Meyer Lansky"
+                    }
+                ],
+                "dateadded": "2014-01-19 00:18:07",
+                "director": [
+                    "Martin Scorsese"
+                ],
+                "episode": 1,
+                "episodeid": 197,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boardwalk Empire/Season 1/Boardwalk.Empire.S01E01.Boardwalk.Empire.DL.German.Dubbed.WS.HDTVRiP.XviD-FREAKS.mp4",
+                "firstaired": "2010-09-19",
+                "label": "1x01. Boardwalk Empire",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "January 1920. On the eve of Prohibition, Atlantic City's Treasurer, Nucky Thompson, condemns alcohol at a Women's Temperance League meeting, where he is noticed by Margaret Schroeder, a pretty, pregnant housewife who comes to him for help in getting her abusive husband Hans a job. Later that evening, the duplicitous Nucky privately tells his ward bosses about the opportunity to make huge profits selling bootleg liquor. At a countdown-to-midnight blast at Babette's Supper Club, he assures Jimmy Darmody, a recently returned WWI vet, that his appointment as \"Man Friday\" to the new Chief Clerk of the Fourth Ward, Paddy Ryan, will lead to bigger things. Jimmy, meanwhile, has higher aspirations and ends up making an alliance that could have dire consequences for both him and Nucky.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Boardwalk Empire",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84947/432126.jpg",
+                "title": "Boardwalk Empire",
+                "tvshowid": 12,
+                "uniqueid": {
+                    "unknown": "432126"
+                },
+                "votes": "221",
+                "writer": [
+                    "Terrence Winter"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84947/2637071.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84947-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84947-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Steve Buscemi",
+                        "order": 0,
+                        "role": "Nucky Thompson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81242.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 1,
+                        "role": "Jimmy Darmody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Kelly Macdonald",
+                        "order": 2,
+                        "role": "Margaret Schroeder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81238.jpg"
+                    },
+                    {
+                        "name": "Vincent Piazza",
+                        "order": 3,
+                        "role": "Lucky Luciano",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81243.jpg"
+                    },
+                    {
+                        "name": "Stephen Graham",
+                        "order": 4,
+                        "role": "Al Capone",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81241.jpg"
+                    },
+                    {
+                        "name": "Michael Shannon",
+                        "order": 5,
+                        "role": "Agent Nelson Van Alden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81240.jpg"
+                    },
+                    {
+                        "name": "Greg Antonacci",
+                        "order": 6,
+                        "role": "Johnny Torrio",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299779.jpg"
+                    },
+                    {
+                        "name": "Charlie Cox",
+                        "order": 7,
+                        "role": "Owen Slater",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299778.jpg"
+                    },
+                    {
+                        "name": "Jack Huston",
+                        "order": 8,
+                        "role": "Richard Harrow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299776.jpg"
+                    },
+                    {
+                        "name": "Gretchen Mol",
+                        "order": 9,
+                        "role": "Gillian Darmody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299775.jpg"
+                    },
+                    {
+                        "name": "Dabney Coleman",
+                        "order": 10,
+                        "role": "Commodore Louis Kaestner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299774.jpg"
+                    },
+                    {
+                        "name": "Paul Sparks (II)",
+                        "order": 11,
+                        "role": "Mickey Doyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299773.jpg"
+                    },
+                    {
+                        "name": "Anthony Laciura",
+                        "order": 12,
+                        "role": "Eddie Kessler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299772.jpg"
+                    },
+                    {
+                        "name": "Michael Kenneth Williams",
+                        "order": 13,
+                        "role": "Chalky White",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299771.jpg"
+                    },
+                    {
+                        "name": "Paz de la Huerta",
+                        "order": 14,
+                        "role": "Lucy Danziger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299770.jpg"
+                    },
+                    {
+                        "name": "Michael Stuhlbarg",
+                        "order": 15,
+                        "role": "Arnold Rothstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299762.jpg"
+                    },
+                    {
+                        "name": "Aleksa Palladino",
+                        "order": 16,
+                        "role": "Angela Darmody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299761.jpg"
+                    },
+                    {
+                        "name": "Shea Whigham",
+                        "order": 17,
+                        "role": "Elias 'Eli' Thompson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299760.jpg"
+                    },
+                    {
+                        "name": "Anatol Yusef",
+                        "order": 36,
+                        "role": "Meyer Lansky"
+                    }
+                ],
+                "dateadded": "2014-01-19 00:00:23",
+                "director": [
+                    "Tim Van Patten"
+                ],
+                "episode": 2,
+                "episodeid": 198,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boardwalk Empire/Season 1/Boardwalk.Empire.S01E02.Elfenbeinturm.DL.German.Dubbed.WS.HDTVRiP.XviD-FREAKS.mp4",
+                "firstaired": "2010-09-26",
+                "label": "1x02. The Ivory Tower",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Investigating a crime which he feels has been pinned on a scapegoat, straight-arrow Agent Nelson Van Alden pays a visit to Nucky and leaves convinced that the Treasurer is \"as corrupt as the day is long\". Nucky quickly does damage control, enlisting his brother, Sheriff Elias Thompson, to close ranks with their underlings. Nucky discusses the upcoming election with his aging mentor, Commodore Louis Kaestner, with whom he debates the women's vote issue. Later, before heading out for a night on the town, Nucky rebukes an irate Arnold Rothstein over the phone, then meets privately with Margaret Schroeder, who asks him for help in providing for her children. As a long day ends, a traveling salesman named George Baxter, in town for a few days with an unwilling young beauty named Claudia, makes a startling discovery while on the road home to Baltimore.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Boardwalk Empire",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84947/2637071.jpg",
+                "title": "The Ivory Tower",
+                "tvshowid": 12,
+                "uniqueid": {
+                    "unknown": "2637071"
+                },
+                "votes": "182",
+                "writer": [
+                    "Terence Winter"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/84947/2721561.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/84947-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/84947-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Steve Buscemi",
+                        "order": 0,
+                        "role": "Nucky Thompson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81242.jpg"
+                    },
+                    {
+                        "name": "Michael Pitt",
+                        "order": 1,
+                        "role": "Jimmy Darmody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331315.jpg"
+                    },
+                    {
+                        "name": "Kelly Macdonald",
+                        "order": 2,
+                        "role": "Margaret Schroeder",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81238.jpg"
+                    },
+                    {
+                        "name": "Vincent Piazza",
+                        "order": 3,
+                        "role": "Lucky Luciano",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81243.jpg"
+                    },
+                    {
+                        "name": "Stephen Graham",
+                        "order": 4,
+                        "role": "Al Capone",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81241.jpg"
+                    },
+                    {
+                        "name": "Michael Shannon",
+                        "order": 5,
+                        "role": "Agent Nelson Van Alden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/81240.jpg"
+                    },
+                    {
+                        "name": "Greg Antonacci",
+                        "order": 6,
+                        "role": "Johnny Torrio",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299779.jpg"
+                    },
+                    {
+                        "name": "Charlie Cox",
+                        "order": 7,
+                        "role": "Owen Slater",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299778.jpg"
+                    },
+                    {
+                        "name": "Jack Huston",
+                        "order": 8,
+                        "role": "Richard Harrow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299776.jpg"
+                    },
+                    {
+                        "name": "Gretchen Mol",
+                        "order": 9,
+                        "role": "Gillian Darmody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299775.jpg"
+                    },
+                    {
+                        "name": "Dabney Coleman",
+                        "order": 10,
+                        "role": "Commodore Louis Kaestner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299774.jpg"
+                    },
+                    {
+                        "name": "Paul Sparks (II)",
+                        "order": 11,
+                        "role": "Mickey Doyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299773.jpg"
+                    },
+                    {
+                        "name": "Anthony Laciura",
+                        "order": 12,
+                        "role": "Eddie Kessler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299772.jpg"
+                    },
+                    {
+                        "name": "Michael Kenneth Williams",
+                        "order": 13,
+                        "role": "Chalky White",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299771.jpg"
+                    },
+                    {
+                        "name": "Paz de la Huerta",
+                        "order": 14,
+                        "role": "Lucy Danziger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299770.jpg"
+                    },
+                    {
+                        "name": "Michael Stuhlbarg",
+                        "order": 15,
+                        "role": "Arnold Rothstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299762.jpg"
+                    },
+                    {
+                        "name": "Aleksa Palladino",
+                        "order": 16,
+                        "role": "Angela Darmody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299761.jpg"
+                    },
+                    {
+                        "name": "Shea Whigham",
+                        "order": 17,
+                        "role": "Elias 'Eli' Thompson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299760.jpg"
+                    },
+                    {
+                        "name": "Anatol Yusef",
+                        "order": 36,
+                        "role": "Meyer Lansky"
+                    }
+                ],
+                "dateadded": "2014-01-21 20:02:38",
+                "director": [
+                    "Tim Van Patten"
+                ],
+                "episode": 3,
+                "episodeid": 199,
+                "fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boardwalk Empire/Season 1/Boardwalk.Empire.S01E03.Endstation.Chicago.DL.German.Dubbed.WS.HDTVRiP.XviD-FREAKS.mp4",
+                "firstaired": "2010-10-03",
+                "label": "1x03. Broadway Limited",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "An unlikely witness threatens to expose the perpetrators of the woods massacre, sending Eli – and Agent Nelson Van Alden – rushing to the hospital. As Nucky re-evaluates his relationship with Lucy, Margaret starts a new job at an upscale French dress shop at the Ritz. Chalky's team pays a heavy price for taking over Mickey Doyle's bootleg operation, causing Chalky to reevaluate his relationship with Nucky. After questioning Angela's loyalty, Jimmy heads west.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Boardwalk Empire",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/84947/2721561.jpg",
+                "title": "Broadway Limited",
+                "tvshowid": 12,
+                "uniqueid": {
+                    "unknown": "2721561"
+                },
+                "votes": "176",
+                "writer": [
+                    "Margaret Nagle"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/84947-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/84947-1-5.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/84947-g6.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/84947-4.jpg"
+            },
+            "episode": 3,
+            "fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 58,
+            "showtitle": "Boardwalk Empire",
+            "thumbnail": "http://thetvdb.com/banners/seasons/84947-1-5.jpg",
+            "tvshowid": 12,
+            "watchedepisodes": 0
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/274897-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/274897-8.jpg",
+            "poster": "http://thetvdb.com/banners/posters/274897-10.jpg"
+        },
+        "cast": [
+            {
+                "name": "Janet Montgomery",
+                "order": 0,
+                "role": "Mary Sibley",
+                "thumbnail": "http://thetvdb.com/banners/actors/321100.jpg"
+            },
+            {
+                "name": "Shane West",
+                "order": 1,
+                "role": "John Alden",
+                "thumbnail": "http://thetvdb.com/banners/actors/321097.jpg"
+            },
+            {
+                "name": "Seth Gabel",
+                "order": 2,
+                "role": "Cotton Mather",
+                "thumbnail": "http://thetvdb.com/banners/actors/321098.jpg"
+            },
+            {
+                "name": "Elise Eberle",
+                "order": 3,
+                "role": "Mercy Lewis",
+                "thumbnail": "http://thetvdb.com/banners/actors/343894.jpg"
+            },
+            {
+                "name": "Ashley Madekwe",
+                "order": 4,
+                "role": "Tituba",
+                "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+            },
+            {
+                "name": "Tamzin Merchant",
+                "order": 5,
+                "role": "Anne Hale",
+                "thumbnail": "http://thetvdb.com/banners/actors/321099.jpg"
+            },
+            {
+                "name": "Jeremy Crutchley",
+                "order": 6,
+                "role": "Wendell Hathorne",
+                "thumbnail": "http://thetvdb.com/banners/actors/349209.jpg"
+            },
+            {
+                "name": "Stuart Townsend",
+                "order": 7,
+                "role": "Dr. Samuel Wainwright",
+                "thumbnail": "http://thetvdb.com/banners/actors/346541.jpg"
+            },
+            {
+                "name": "Joe Doyle",
+                "order": 8,
+                "role": "Baron Sebastian Marburg",
+                "thumbnail": "http://thetvdb.com/banners/actors/346540.jpg"
+            },
+            {
+                "name": "Lucy Lawless",
+                "order": 9,
+                "role": "Countess Palatine Ingrid von Marburg",
+                "thumbnail": "http://thetvdb.com/banners/actors/129041.jpg"
+            },
+            {
+                "name": "Oliver Bell",
+                "order": 10,
+                "role": "Boy",
+                "thumbnail": "http://thetvdb.com/banners/actors/346538.jpg"
+            },
+            {
+                "name": "Michael Mulheren",
+                "order": 11,
+                "role": "George Sibley",
+                "thumbnail": "http://thetvdb.com/banners/actors/344023.jpg"
+            },
+            {
+                "name": "Stephen Lang",
+                "order": 12,
+                "role": "Increase Mather",
+                "thumbnail": "http://thetvdb.com/banners/actors/343895.jpg"
+            },
+            {
+                "name": "Iddo Goldberg",
+                "order": 13,
+                "role": "Isaac",
+                "thumbnail": "http://thetvdb.com/banners/actors/327803.jpg"
+            },
+            {
+                "name": "Xander Berkeley",
+                "order": 14,
+                "role": "Magistrate Hale",
+                "thumbnail": "http://thetvdb.com/banners/actors/327802.jpg"
+            }
+        ],
+        "dateadded": "2014-11-22 00:13:17",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"274897-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/274897/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/274897-8.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Salem/",
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "imdbnumber": "274897",
+        "label": "Salem",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Set in the volatile world of 17th century Massachusetts, it explores what really fueled the town’s infamous witch trials and centers on Mary Sibley, the beautiful, ruthless but vulnerable wife of an ancient, ailing but very wealthy Salem town Selectman.",
+        "premiered": "2014-04-20",
+        "rating": 8.399999618530273,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "WGN America"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/274897-10.jpg",
+        "title": "Salem",
+        "tvshowid": 73,
+        "votes": "31",
+        "watchedepisodes": 0,
+        "year": 2014
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274897/4701927.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274897-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274897-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274897-10.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Michael Mulheren",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344023.jpg"
+                    },
+                    {
+                        "name": "Lara Grice",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Azure Parsons",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ian Sinclair",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Morgana Shaw",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Janet Montgomery",
+                        "order": 0,
+                        "role": "Mary Sibley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321100.jpg"
+                    },
+                    {
+                        "name": "Shane West",
+                        "order": 1,
+                        "role": "John Alden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321097.jpg"
+                    },
+                    {
+                        "name": "Seth Gabel",
+                        "order": 2,
+                        "role": "Cotton Mather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321098.jpg"
+                    },
+                    {
+                        "name": "Elise Eberle",
+                        "order": 3,
+                        "role": "Mercy Lewis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343894.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 4,
+                        "role": "Tituba",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Tamzin Merchant",
+                        "order": 5,
+                        "role": "Anne Hale",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321099.jpg"
+                    },
+                    {
+                        "name": "Jeremy Crutchley",
+                        "order": 6,
+                        "role": "Wendell Hathorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349209.jpg"
+                    },
+                    {
+                        "name": "Stuart Townsend",
+                        "order": 7,
+                        "role": "Dr. Samuel Wainwright",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346541.jpg"
+                    },
+                    {
+                        "name": "Joe Doyle",
+                        "order": 8,
+                        "role": "Baron Sebastian Marburg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346540.jpg"
+                    },
+                    {
+                        "name": "Lucy Lawless",
+                        "order": 9,
+                        "role": "Countess Palatine Ingrid von Marburg",
+                        "thumbnail": "http://thetvdb.com/banners/actors/129041.jpg"
+                    },
+                    {
+                        "name": "Oliver Bell",
+                        "order": 10,
+                        "role": "Boy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346538.jpg"
+                    },
+                    {
+                        "name": "Stephen Lang",
+                        "order": 12,
+                        "role": "Increase Mather",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343895.jpg"
+                    },
+                    {
+                        "name": "Iddo Goldberg",
+                        "order": 13,
+                        "role": "Isaac",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327803.jpg"
+                    },
+                    {
+                        "name": "Xander Berkeley",
+                        "order": 14,
+                        "role": "Magistrate Hale",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327802.jpg"
+                    }
+                ],
+                "dateadded": "2014-11-22 00:13:17",
+                "director": [
+                    "Richard Shepard"
+                ],
+                "episode": 1,
+                "episodeid": 1284,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274897-8.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Salem/Season 1/Salem.S01E01.Hexensabbat.German.AC3.HDTVRip.x264-ARC.mkv",
+                "firstaired": "2014-04-20",
+                "label": "1x01. The Vow",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After ten years of service fighting in the French and Indian War, John Alden returns to his home in Salem, intent on reuniting with his love, Mary. On his arrival, he's stunned to discover that the town has been swept up in a wave of witch hunt hysteria, and that Mary has married the town’s richest and most powerful resident.",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Salem",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274897/4701927.jpg",
+                "title": "The Vow",
+                "tvshowid": 73,
+                "uniqueid": {
+                    "unknown": "4701927"
+                },
+                "votes": "18",
+                "writer": [
+                    "Brannon Braga",
+                    "Adam Simon"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/274897-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/274897-1-4.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/274897-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274897-8.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/274897-10.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/274897-8.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 399,
+            "showtitle": "Salem",
+            "thumbnail": "http://thetvdb.com/banners/seasons/274897-1-4.jpg",
+            "tvshowid": 73,
+            "watchedepisodes": 0
+        }
+    ]
+}

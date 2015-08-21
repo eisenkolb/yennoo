@@ -1,0 +1,2357 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/76290-g14.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+            "poster": "http://thetvdb.com/banners/posters/76290-4.jpg"
+        },
+        "cast": [
+            {
+                "name": "Kiefer Sutherland",
+                "order": 0,
+                "role": "Jack Bauer",
+                "thumbnail": "http://thetvdb.com/banners/actors/44914.jpg"
+            },
+            {
+                "name": "Carlos Bernard",
+                "order": 1,
+                "role": "Tony Almeida",
+                "thumbnail": "http://thetvdb.com/banners/actors/78578.jpg"
+            },
+            {
+                "name": "Mary Lynn Rajskub",
+                "order": 2,
+                "role": "Chloe O'Brian",
+                "thumbnail": "http://thetvdb.com/banners/actors/44921.jpg"
+            },
+            {
+                "name": "Jude Ciccolella",
+                "order": 3,
+                "role": "Mike Novick",
+                "thumbnail": "http://thetvdb.com/banners/actors/91331.jpg"
+            },
+            {
+                "name": "Glenn Morshower",
+                "order": 4,
+                "role": "Aaron Pierce",
+                "thumbnail": "http://thetvdb.com/banners/actors/91321.jpg"
+            },
+            {
+                "name": "Tanya Wright",
+                "order": 5,
+                "role": "Patty Brooks",
+                "thumbnail": "http://thetvdb.com/banners/actors/91311.jpg"
+            },
+            {
+                "name": "Alberta Watson",
+                "order": 6,
+                "role": "Erin Driscoll",
+                "thumbnail": "http://thetvdb.com/banners/actors/91281.jpg"
+            },
+            {
+                "name": "Eric Balfour",
+                "order": 7,
+                "role": "Milo Pressman",
+                "thumbnail": "http://thetvdb.com/banners/actors/168561.jpg"
+            },
+            {
+                "name": "Regina King",
+                "order": 8,
+                "role": "Sandra Palmer",
+                "thumbnail": "http://thetvdb.com/banners/actors/82134.jpg"
+            },
+            {
+                "name": "Peter MacNicol",
+                "order": 9,
+                "role": "Tom Lennox",
+                "thumbnail": "http://thetvdb.com/banners/actors/82133.jpg"
+            },
+            {
+                "name": "Marisol Nichols",
+                "order": 10,
+                "role": "Nadia Yassir",
+                "thumbnail": "http://thetvdb.com/banners/actors/82132.jpg"
+            },
+            {
+                "name": "Jayne Atkinson",
+                "order": 11,
+                "role": "Karen Hayes",
+                "thumbnail": "http://thetvdb.com/banners/actors/82131.jpg"
+            },
+            {
+                "name": "Carlo Rota",
+                "order": 12,
+                "role": "Morris O'Brian",
+                "thumbnail": "http://thetvdb.com/banners/actors/82130.jpg"
+            },
+            {
+                "name": "Janeane Garofalo",
+                "order": 13,
+                "role": "Janis Gold",
+                "thumbnail": "http://thetvdb.com/banners/actors/82129.jpg"
+            },
+            {
+                "name": "Rhys Coiro",
+                "order": 14,
+                "role": "Sean Hillinger",
+                "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+            },
+            {
+                "name": "Jeffrey Nordling",
+                "order": 15,
+                "role": "Larry Moss",
+                "thumbnail": "http://thetvdb.com/banners/actors/82127.jpg"
+            },
+            {
+                "name": "Bob Gunton",
+                "order": 16,
+                "role": "Ethan Kanin",
+                "thumbnail": "http://thetvdb.com/banners/actors/82126.jpg"
+            },
+            {
+                "name": "Colm Feore",
+                "order": 17,
+                "role": "Henry Taylor",
+                "thumbnail": "http://thetvdb.com/banners/actors/82125.jpg"
+            },
+            {
+                "name": "Annie Wersching",
+                "order": 18,
+                "role": "Renee Walker",
+                "thumbnail": "http://thetvdb.com/banners/actors/82124.jpg"
+            },
+            {
+                "name": "Cherry Jones",
+                "order": 19,
+                "role": "President Allison Taylor",
+                "thumbnail": "http://thetvdb.com/banners/actors/82123.jpg"
+            },
+            {
+                "name": "D.B. Woodside",
+                "order": 20,
+                "role": "Wayne Palmer",
+                "thumbnail": "http://thetvdb.com/banners/actors/78577.jpg"
+            },
+            {
+                "name": "James Morrison",
+                "order": 21,
+                "role": "Bill Buchanan",
+                "thumbnail": "http://thetvdb.com/banners/actors/44934.jpg"
+            },
+            {
+                "name": "Gregory Itzin",
+                "order": 22,
+                "role": "President Charles Logan",
+                "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+            },
+            {
+                "name": "Jean Smart",
+                "order": 23,
+                "role": "Martha Logan",
+                "thumbnail": "http://thetvdb.com/banners/actors/44932.jpg"
+            },
+            {
+                "name": "Louis Lombardi",
+                "order": 24,
+                "role": "Edgar Stiles",
+                "thumbnail": "http://thetvdb.com/banners/actors/44931.jpg"
+            },
+            {
+                "name": "Sarah Clarke",
+                "order": 25,
+                "role": "Nina Myers",
+                "thumbnail": "http://thetvdb.com/banners/actors/44930.jpg"
+            },
+            {
+                "name": "Roger R. Cross",
+                "order": 26,
+                "role": "Curtis Manning",
+                "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+            },
+            {
+                "name": "Reiko Aylesworth",
+                "order": 27,
+                "role": "Michelle Dessler",
+                "thumbnail": "http://thetvdb.com/banners/actors/44928.jpg"
+            },
+            {
+                "name": "Elisha Cuthbert",
+                "order": 28,
+                "role": "Kim Bauer",
+                "thumbnail": "http://thetvdb.com/banners/actors/44927.jpg"
+            },
+            {
+                "name": "Lana Parrilla",
+                "order": 29,
+                "role": "Sarah Gavin",
+                "thumbnail": "http://thetvdb.com/banners/actors/44926.jpg"
+            },
+            {
+                "name": "Kim Raver",
+                "order": 30,
+                "role": "Audrey Raines",
+                "thumbnail": "http://thetvdb.com/banners/actors/44925.jpg"
+            },
+            {
+                "name": "Dennis Haysbert",
+                "order": 31,
+                "role": "President David Palmer",
+                "thumbnail": "http://thetvdb.com/banners/actors/44924.jpg"
+            },
+            {
+                "name": "Leslie Hope",
+                "order": 32,
+                "role": "Teri Bauer",
+                "thumbnail": "http://thetvdb.com/banners/actors/44923.jpg"
+            },
+            {
+                "name": "Xander Berkeley",
+                "order": 33,
+                "role": "George Mason",
+                "thumbnail": "http://thetvdb.com/banners/actors/327802.jpg"
+            },
+            {
+                "name": "James Badge Dale",
+                "order": 34,
+                "role": "Chase Edmunds",
+                "thumbnail": "http://thetvdb.com/banners/actors/44920.jpg"
+            },
+            {
+                "name": "Penny Johnson",
+                "order": 35,
+                "role": "Sherry Palmer",
+                "thumbnail": "http://thetvdb.com/banners/actors/44918.jpg"
+            },
+            {
+                "name": "Shohreh Aghdashloo",
+                "order": 36,
+                "role": "Dina Araz",
+                "thumbnail": "http://thetvdb.com/banners/actors/144161.jpg"
+            },
+            {
+                "name": "Laura Harris",
+                "order": 37,
+                "role": "Marie Warner",
+                "thumbnail": "http://thetvdb.com/banners/actors/144151.jpg"
+            },
+            {
+                "name": "David Anders",
+                "order": 38,
+                "role": "Josef Bazhaev",
+                "thumbnail": "http://thetvdb.com/banners/actors/77762.jpg"
+            },
+            {
+                "name": "Katee Sackhoff",
+                "order": 39,
+                "role": "Dana Walsh",
+                "thumbnail": "http://thetvdb.com/banners/actors/137241.jpg"
+            },
+            {
+                "name": "Mykelti Williamson",
+                "order": 40,
+                "role": "Brian Hastings",
+                "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+            },
+            {
+                "name": "Anil Kapoor",
+                "order": 41,
+                "role": "Omar Hassan",
+                "thumbnail": "http://thetvdb.com/banners/actors/137221.jpg"
+            },
+            {
+                "name": "Chris Diamantopoulos",
+                "order": 42,
+                "role": "Rob Weiss",
+                "thumbnail": "http://thetvdb.com/banners/actors/137211.jpg"
+            },
+            {
+                "name": "John Boyd",
+                "order": 43,
+                "role": "Arlo Glass",
+                "thumbnail": "http://thetvdb.com/banners/actors/137201.jpg"
+            },
+            {
+                "name": "Freddie Prinze Jr.",
+                "order": 44,
+                "role": "Cole Ortiz",
+                "thumbnail": "http://thetvdb.com/banners/actors/137191.jpg"
+            },
+            {
+                "name": "Sarah Wynter",
+                "order": 90,
+                "role": "Kate Warner"
+            },
+            {
+                "name": "Yvonne Strahovski",
+                "order": 91,
+                "role": "Kate Morgan",
+                "thumbnail": "http://image.tmdb.org/t/p/original/mgcaJaKhZtakVldW2KXYXhQ6ZJY.jpg"
+            }
+        ],
+        "dateadded": "2014-05-11 17:23:06",
+        "episode": 6,
+        "episodeguide": "<episodeguide><url cache=\"76290-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/76290/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/24 - Live Another Day/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Thriller"
+        ],
+        "imdbnumber": "76290",
+        "label": "24",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "\"24\" is a TV thriller presented in \"real time\" with each minute of airtime that corresponds to a minute in the lives of the characters. \"24\" employs fast-paced and complex stories, and often contains unexpected plot twists. Though each day's events typically revolve around thwarting an impending terrorist attack, each season is made up of various interwoven story threads. These may run for just one hour, but more usually run over several hours. These typically involve investigations of leads on terrorists, tracking suspects, and averting attacks. The exact objective of the day evolves over the course of the season as the antagonists adapt, contingencies arise, and larger scale operations unfold.",
+        "premiered": "2001-11-06",
+        "rating": 8.800000190734863,
+        "season": 2,
+        "sorttitle": "",
+        "studio": [
+            "FOX (US)"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/76290-4.jpg",
+        "title": "24",
+        "tvshowid": 1,
+        "votes": "440",
+        "watchedepisodes": 0,
+        "year": 2001
+    },
+    "episodes": {
+        "8": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/76290/806851.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/76290-g14.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/76290-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kiefer Sutherland",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44914.jpg"
+                    },
+                    {
+                        "name": "Mary Lynn Rajskub",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44921.jpg"
+                    },
+                    {
+                        "name": "Carlos Bernard",
+                        "order": 1,
+                        "role": "Tony Almeida",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78578.jpg"
+                    },
+                    {
+                        "name": "Jude Ciccolella",
+                        "order": 3,
+                        "role": "Mike Novick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91331.jpg"
+                    },
+                    {
+                        "name": "Glenn Morshower",
+                        "order": 4,
+                        "role": "Aaron Pierce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91321.jpg"
+                    },
+                    {
+                        "name": "Tanya Wright",
+                        "order": 5,
+                        "role": "Patty Brooks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91311.jpg"
+                    },
+                    {
+                        "name": "Alberta Watson",
+                        "order": 6,
+                        "role": "Erin Driscoll",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91281.jpg"
+                    },
+                    {
+                        "name": "Eric Balfour",
+                        "order": 7,
+                        "role": "Milo Pressman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/168561.jpg"
+                    },
+                    {
+                        "name": "Regina King",
+                        "order": 8,
+                        "role": "Sandra Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82134.jpg"
+                    },
+                    {
+                        "name": "Peter MacNicol",
+                        "order": 9,
+                        "role": "Tom Lennox",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82133.jpg"
+                    },
+                    {
+                        "name": "Marisol Nichols",
+                        "order": 10,
+                        "role": "Nadia Yassir",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82132.jpg"
+                    },
+                    {
+                        "name": "Jayne Atkinson",
+                        "order": 11,
+                        "role": "Karen Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82131.jpg"
+                    },
+                    {
+                        "name": "Carlo Rota",
+                        "order": 12,
+                        "role": "Morris O'Brian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82130.jpg"
+                    },
+                    {
+                        "name": "Janeane Garofalo",
+                        "order": 13,
+                        "role": "Janis Gold",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82129.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 14,
+                        "role": "Sean Hillinger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Jeffrey Nordling",
+                        "order": 15,
+                        "role": "Larry Moss",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82127.jpg"
+                    },
+                    {
+                        "name": "Bob Gunton",
+                        "order": 16,
+                        "role": "Ethan Kanin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82126.jpg"
+                    },
+                    {
+                        "name": "Colm Feore",
+                        "order": 17,
+                        "role": "Henry Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82125.jpg"
+                    },
+                    {
+                        "name": "Annie Wersching",
+                        "order": 18,
+                        "role": "Renee Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82124.jpg"
+                    },
+                    {
+                        "name": "Cherry Jones",
+                        "order": 19,
+                        "role": "President Allison Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82123.jpg"
+                    },
+                    {
+                        "name": "D.B. Woodside",
+                        "order": 20,
+                        "role": "Wayne Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78577.jpg"
+                    },
+                    {
+                        "name": "James Morrison",
+                        "order": 21,
+                        "role": "Bill Buchanan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44934.jpg"
+                    },
+                    {
+                        "name": "Gregory Itzin",
+                        "order": 22,
+                        "role": "President Charles Logan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                    },
+                    {
+                        "name": "Jean Smart",
+                        "order": 23,
+                        "role": "Martha Logan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44932.jpg"
+                    },
+                    {
+                        "name": "Louis Lombardi",
+                        "order": 24,
+                        "role": "Edgar Stiles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44931.jpg"
+                    },
+                    {
+                        "name": "Sarah Clarke",
+                        "order": 25,
+                        "role": "Nina Myers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44930.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 26,
+                        "role": "Curtis Manning",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Reiko Aylesworth",
+                        "order": 27,
+                        "role": "Michelle Dessler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44928.jpg"
+                    },
+                    {
+                        "name": "Elisha Cuthbert",
+                        "order": 28,
+                        "role": "Kim Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44927.jpg"
+                    },
+                    {
+                        "name": "Lana Parrilla",
+                        "order": 29,
+                        "role": "Sarah Gavin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44926.jpg"
+                    },
+                    {
+                        "name": "Kim Raver",
+                        "order": 30,
+                        "role": "Audrey Raines",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44925.jpg"
+                    },
+                    {
+                        "name": "Dennis Haysbert",
+                        "order": 31,
+                        "role": "President David Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44924.jpg"
+                    },
+                    {
+                        "name": "Leslie Hope",
+                        "order": 32,
+                        "role": "Teri Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44923.jpg"
+                    },
+                    {
+                        "name": "Xander Berkeley",
+                        "order": 33,
+                        "role": "George Mason",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327802.jpg"
+                    },
+                    {
+                        "name": "James Badge Dale",
+                        "order": 34,
+                        "role": "Chase Edmunds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44920.jpg"
+                    },
+                    {
+                        "name": "Penny Johnson",
+                        "order": 35,
+                        "role": "Sherry Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44918.jpg"
+                    },
+                    {
+                        "name": "Shohreh Aghdashloo",
+                        "order": 36,
+                        "role": "Dina Araz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144161.jpg"
+                    },
+                    {
+                        "name": "Laura Harris",
+                        "order": 37,
+                        "role": "Marie Warner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144151.jpg"
+                    },
+                    {
+                        "name": "David Anders",
+                        "order": 38,
+                        "role": "Josef Bazhaev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/77762.jpg"
+                    },
+                    {
+                        "name": "Katee Sackhoff",
+                        "order": 39,
+                        "role": "Dana Walsh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137241.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 40,
+                        "role": "Brian Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Anil Kapoor",
+                        "order": 41,
+                        "role": "Omar Hassan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137221.jpg"
+                    },
+                    {
+                        "name": "Chris Diamantopoulos",
+                        "order": 42,
+                        "role": "Rob Weiss",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137211.jpg"
+                    },
+                    {
+                        "name": "John Boyd",
+                        "order": 43,
+                        "role": "Arlo Glass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137201.jpg"
+                    },
+                    {
+                        "name": "Freddie Prinze Jr.",
+                        "order": 44,
+                        "role": "Cole Ortiz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137191.jpg"
+                    },
+                    {
+                        "name": "Sarah Wynter",
+                        "order": 90,
+                        "role": "Kate Warner"
+                    },
+                    {
+                        "name": "Yvonne Strahovski",
+                        "order": 91,
+                        "role": "Kate Morgan",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mgcaJaKhZtakVldW2KXYXhQ6ZJY.jpg"
+                    }
+                ],
+                "dateadded": "2010-03-01 21:10:24",
+                "director": [
+                    "Brad Turner"
+                ],
+                "episode": 1,
+                "episodeid": 1,
+                "fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/24/Season 8/24.S08E01.1600.-.1700.Uhr.German.Dubbed.720p.HDTV.x264-iNSPiRED.mkv",
+                "firstaired": "2010-01-17",
+                "label": "8x01. Day 8: 4:00 P.M. - 5:00 P.M.",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jack is back, this time in New York City spending time with his granddaughter. However, when a former contact comes to him with vital information on an upcoming terrorist assassination attempt, Jack has no choice but to become involved and take the man to CTU. But to get to CTU, they first need to survive a whole bunch of terrorists all trying to kill them. Meanwhile, Chloe struggles to settle in at her new position at the upgraded CTU, and President Allison Taylor negotiates with Middle Eastern leader Omar Hassan over weapons inspections... unaware that Hassan is the assassins' target. Also, a journalist named Meredith Reed is suspected to have direct ties with the on-going terrorist crisis.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 8,
+                "showtitle": "24",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/76290/806851.jpg",
+                "title": "Day 8: 4:00 P.M. - 5:00 P.M.",
+                "tvshowid": 1,
+                "uniqueid": {
+                    "unknown": "806851"
+                },
+                "votes": "99",
+                "writer": [
+                    "Howard Gordon",
+                    "Evan Katz"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/76290/806861.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/76290-g14.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/76290-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kiefer Sutherland",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44914.jpg"
+                    },
+                    {
+                        "name": "Cherry Jones!Mary Lynn Rajskub",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Carlos Bernard",
+                        "order": 1,
+                        "role": "Tony Almeida",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78578.jpg"
+                    },
+                    {
+                        "name": "Mary Lynn Rajskub",
+                        "order": 2,
+                        "role": "Chloe O'Brian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44921.jpg"
+                    },
+                    {
+                        "name": "Jude Ciccolella",
+                        "order": 3,
+                        "role": "Mike Novick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91331.jpg"
+                    },
+                    {
+                        "name": "Glenn Morshower",
+                        "order": 4,
+                        "role": "Aaron Pierce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91321.jpg"
+                    },
+                    {
+                        "name": "Tanya Wright",
+                        "order": 5,
+                        "role": "Patty Brooks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91311.jpg"
+                    },
+                    {
+                        "name": "Alberta Watson",
+                        "order": 6,
+                        "role": "Erin Driscoll",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91281.jpg"
+                    },
+                    {
+                        "name": "Eric Balfour",
+                        "order": 7,
+                        "role": "Milo Pressman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/168561.jpg"
+                    },
+                    {
+                        "name": "Regina King",
+                        "order": 8,
+                        "role": "Sandra Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82134.jpg"
+                    },
+                    {
+                        "name": "Peter MacNicol",
+                        "order": 9,
+                        "role": "Tom Lennox",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82133.jpg"
+                    },
+                    {
+                        "name": "Marisol Nichols",
+                        "order": 10,
+                        "role": "Nadia Yassir",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82132.jpg"
+                    },
+                    {
+                        "name": "Jayne Atkinson",
+                        "order": 11,
+                        "role": "Karen Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82131.jpg"
+                    },
+                    {
+                        "name": "Carlo Rota",
+                        "order": 12,
+                        "role": "Morris O'Brian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82130.jpg"
+                    },
+                    {
+                        "name": "Janeane Garofalo",
+                        "order": 13,
+                        "role": "Janis Gold",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82129.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 14,
+                        "role": "Sean Hillinger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Jeffrey Nordling",
+                        "order": 15,
+                        "role": "Larry Moss",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82127.jpg"
+                    },
+                    {
+                        "name": "Bob Gunton",
+                        "order": 16,
+                        "role": "Ethan Kanin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82126.jpg"
+                    },
+                    {
+                        "name": "Colm Feore",
+                        "order": 17,
+                        "role": "Henry Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82125.jpg"
+                    },
+                    {
+                        "name": "Annie Wersching",
+                        "order": 18,
+                        "role": "Renee Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82124.jpg"
+                    },
+                    {
+                        "name": "Cherry Jones",
+                        "order": 19,
+                        "role": "President Allison Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82123.jpg"
+                    },
+                    {
+                        "name": "D.B. Woodside",
+                        "order": 20,
+                        "role": "Wayne Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78577.jpg"
+                    },
+                    {
+                        "name": "James Morrison",
+                        "order": 21,
+                        "role": "Bill Buchanan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44934.jpg"
+                    },
+                    {
+                        "name": "Gregory Itzin",
+                        "order": 22,
+                        "role": "President Charles Logan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                    },
+                    {
+                        "name": "Jean Smart",
+                        "order": 23,
+                        "role": "Martha Logan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44932.jpg"
+                    },
+                    {
+                        "name": "Louis Lombardi",
+                        "order": 24,
+                        "role": "Edgar Stiles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44931.jpg"
+                    },
+                    {
+                        "name": "Sarah Clarke",
+                        "order": 25,
+                        "role": "Nina Myers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44930.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 26,
+                        "role": "Curtis Manning",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Reiko Aylesworth",
+                        "order": 27,
+                        "role": "Michelle Dessler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44928.jpg"
+                    },
+                    {
+                        "name": "Elisha Cuthbert",
+                        "order": 28,
+                        "role": "Kim Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44927.jpg"
+                    },
+                    {
+                        "name": "Lana Parrilla",
+                        "order": 29,
+                        "role": "Sarah Gavin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44926.jpg"
+                    },
+                    {
+                        "name": "Kim Raver",
+                        "order": 30,
+                        "role": "Audrey Raines",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44925.jpg"
+                    },
+                    {
+                        "name": "Dennis Haysbert",
+                        "order": 31,
+                        "role": "President David Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44924.jpg"
+                    },
+                    {
+                        "name": "Leslie Hope",
+                        "order": 32,
+                        "role": "Teri Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44923.jpg"
+                    },
+                    {
+                        "name": "Xander Berkeley",
+                        "order": 33,
+                        "role": "George Mason",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327802.jpg"
+                    },
+                    {
+                        "name": "James Badge Dale",
+                        "order": 34,
+                        "role": "Chase Edmunds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44920.jpg"
+                    },
+                    {
+                        "name": "Penny Johnson",
+                        "order": 35,
+                        "role": "Sherry Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44918.jpg"
+                    },
+                    {
+                        "name": "Shohreh Aghdashloo",
+                        "order": 36,
+                        "role": "Dina Araz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144161.jpg"
+                    },
+                    {
+                        "name": "Laura Harris",
+                        "order": 37,
+                        "role": "Marie Warner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144151.jpg"
+                    },
+                    {
+                        "name": "David Anders",
+                        "order": 38,
+                        "role": "Josef Bazhaev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/77762.jpg"
+                    },
+                    {
+                        "name": "Katee Sackhoff",
+                        "order": 39,
+                        "role": "Dana Walsh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137241.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 40,
+                        "role": "Brian Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Anil Kapoor",
+                        "order": 41,
+                        "role": "Omar Hassan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137221.jpg"
+                    },
+                    {
+                        "name": "Chris Diamantopoulos",
+                        "order": 42,
+                        "role": "Rob Weiss",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137211.jpg"
+                    },
+                    {
+                        "name": "John Boyd",
+                        "order": 43,
+                        "role": "Arlo Glass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137201.jpg"
+                    },
+                    {
+                        "name": "Freddie Prinze Jr.",
+                        "order": 44,
+                        "role": "Cole Ortiz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137191.jpg"
+                    },
+                    {
+                        "name": "Sarah Wynter",
+                        "order": 90,
+                        "role": "Kate Warner"
+                    },
+                    {
+                        "name": "Yvonne Strahovski",
+                        "order": 91,
+                        "role": "Kate Morgan",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mgcaJaKhZtakVldW2KXYXhQ6ZJY.jpg"
+                    }
+                ],
+                "dateadded": "2013-10-05 17:07:53",
+                "director": [
+                    "Brad Turner"
+                ],
+                "episode": 2,
+                "episodeid": 2,
+                "fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/24/Season 8/24.S08E02.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
+                "firstaired": "2010-01-17",
+                "label": "8x02. Day 8: 5:00 P.M. - 6:00 P.M.",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "For the first time in New York City, Jack Bauer is reluctantly drawn into action as President Allison Taylor negotiates plans for international security with Middle Eastern leader Omar Hassan. As the 8th day keeps unfolding, we learn that CTU, now upgraded and operated by M.B.A.-schooled Brian Hastings, still has Chloe O'Brian, but also expert analyst Dana Walsh and systems analyst Arlo Glass.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 8,
+                "showtitle": "24",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/76290/806861.jpg",
+                "title": "Day 8: 5:00 P.M. - 6:00 P.M.",
+                "tvshowid": 1,
+                "uniqueid": {
+                    "unknown": "806861"
+                },
+                "votes": "85",
+                "writer": [
+                    "Howard Gordon",
+                    "Manny Coto",
+                    "Brannon Braga"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/76290/1092831.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/76290-g14.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/76290-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kiefer Sutherland",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44914.jpg"
+                    },
+                    {
+                        "name": "Cherry Jones",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82123.jpg"
+                    },
+                    {
+                        "name": "Mary Lynn Rajskub",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44921.jpg"
+                    },
+                    {
+                        "name": "Carlos Bernard",
+                        "order": 1,
+                        "role": "Tony Almeida",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78578.jpg"
+                    },
+                    {
+                        "name": "Jude Ciccolella",
+                        "order": 3,
+                        "role": "Mike Novick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91331.jpg"
+                    },
+                    {
+                        "name": "Glenn Morshower",
+                        "order": 4,
+                        "role": "Aaron Pierce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91321.jpg"
+                    },
+                    {
+                        "name": "Tanya Wright",
+                        "order": 5,
+                        "role": "Patty Brooks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91311.jpg"
+                    },
+                    {
+                        "name": "Alberta Watson",
+                        "order": 6,
+                        "role": "Erin Driscoll",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91281.jpg"
+                    },
+                    {
+                        "name": "Eric Balfour",
+                        "order": 7,
+                        "role": "Milo Pressman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/168561.jpg"
+                    },
+                    {
+                        "name": "Regina King",
+                        "order": 8,
+                        "role": "Sandra Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82134.jpg"
+                    },
+                    {
+                        "name": "Peter MacNicol",
+                        "order": 9,
+                        "role": "Tom Lennox",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82133.jpg"
+                    },
+                    {
+                        "name": "Marisol Nichols",
+                        "order": 10,
+                        "role": "Nadia Yassir",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82132.jpg"
+                    },
+                    {
+                        "name": "Jayne Atkinson",
+                        "order": 11,
+                        "role": "Karen Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82131.jpg"
+                    },
+                    {
+                        "name": "Carlo Rota",
+                        "order": 12,
+                        "role": "Morris O'Brian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82130.jpg"
+                    },
+                    {
+                        "name": "Janeane Garofalo",
+                        "order": 13,
+                        "role": "Janis Gold",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82129.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 14,
+                        "role": "Sean Hillinger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Jeffrey Nordling",
+                        "order": 15,
+                        "role": "Larry Moss",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82127.jpg"
+                    },
+                    {
+                        "name": "Bob Gunton",
+                        "order": 16,
+                        "role": "Ethan Kanin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82126.jpg"
+                    },
+                    {
+                        "name": "Colm Feore",
+                        "order": 17,
+                        "role": "Henry Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82125.jpg"
+                    },
+                    {
+                        "name": "Annie Wersching",
+                        "order": 18,
+                        "role": "Renee Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82124.jpg"
+                    },
+                    {
+                        "name": "D.B. Woodside",
+                        "order": 20,
+                        "role": "Wayne Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78577.jpg"
+                    },
+                    {
+                        "name": "James Morrison",
+                        "order": 21,
+                        "role": "Bill Buchanan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44934.jpg"
+                    },
+                    {
+                        "name": "Gregory Itzin",
+                        "order": 22,
+                        "role": "President Charles Logan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                    },
+                    {
+                        "name": "Jean Smart",
+                        "order": 23,
+                        "role": "Martha Logan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44932.jpg"
+                    },
+                    {
+                        "name": "Louis Lombardi",
+                        "order": 24,
+                        "role": "Edgar Stiles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44931.jpg"
+                    },
+                    {
+                        "name": "Sarah Clarke",
+                        "order": 25,
+                        "role": "Nina Myers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44930.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 26,
+                        "role": "Curtis Manning",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Reiko Aylesworth",
+                        "order": 27,
+                        "role": "Michelle Dessler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44928.jpg"
+                    },
+                    {
+                        "name": "Elisha Cuthbert",
+                        "order": 28,
+                        "role": "Kim Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44927.jpg"
+                    },
+                    {
+                        "name": "Lana Parrilla",
+                        "order": 29,
+                        "role": "Sarah Gavin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44926.jpg"
+                    },
+                    {
+                        "name": "Kim Raver",
+                        "order": 30,
+                        "role": "Audrey Raines",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44925.jpg"
+                    },
+                    {
+                        "name": "Dennis Haysbert",
+                        "order": 31,
+                        "role": "President David Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44924.jpg"
+                    },
+                    {
+                        "name": "Leslie Hope",
+                        "order": 32,
+                        "role": "Teri Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44923.jpg"
+                    },
+                    {
+                        "name": "Xander Berkeley",
+                        "order": 33,
+                        "role": "George Mason",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327802.jpg"
+                    },
+                    {
+                        "name": "James Badge Dale",
+                        "order": 34,
+                        "role": "Chase Edmunds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44920.jpg"
+                    },
+                    {
+                        "name": "Penny Johnson",
+                        "order": 35,
+                        "role": "Sherry Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44918.jpg"
+                    },
+                    {
+                        "name": "Shohreh Aghdashloo",
+                        "order": 36,
+                        "role": "Dina Araz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144161.jpg"
+                    },
+                    {
+                        "name": "Laura Harris",
+                        "order": 37,
+                        "role": "Marie Warner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144151.jpg"
+                    },
+                    {
+                        "name": "David Anders",
+                        "order": 38,
+                        "role": "Josef Bazhaev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/77762.jpg"
+                    },
+                    {
+                        "name": "Katee Sackhoff",
+                        "order": 39,
+                        "role": "Dana Walsh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137241.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 40,
+                        "role": "Brian Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Anil Kapoor",
+                        "order": 41,
+                        "role": "Omar Hassan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137221.jpg"
+                    },
+                    {
+                        "name": "Chris Diamantopoulos",
+                        "order": 42,
+                        "role": "Rob Weiss",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137211.jpg"
+                    },
+                    {
+                        "name": "John Boyd",
+                        "order": 43,
+                        "role": "Arlo Glass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137201.jpg"
+                    },
+                    {
+                        "name": "Freddie Prinze Jr.",
+                        "order": 44,
+                        "role": "Cole Ortiz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137191.jpg"
+                    },
+                    {
+                        "name": "Sarah Wynter",
+                        "order": 90,
+                        "role": "Kate Warner"
+                    },
+                    {
+                        "name": "Yvonne Strahovski",
+                        "order": 91,
+                        "role": "Kate Morgan",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mgcaJaKhZtakVldW2KXYXhQ6ZJY.jpg"
+                    }
+                ],
+                "dateadded": "2010-03-09 21:15:22",
+                "director": [
+                    "Milan Cheylov"
+                ],
+                "episode": 3,
+                "episodeid": 3,
+                "fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/24/Season 8/24.S08E03.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv .mkv",
+                "firstaired": "2010-01-18",
+                "label": "8x03. Day 8: 6:00 P.M. - 7:00 P.M.",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jack Bauer becomes further involved in preventing an assassination attempt on visiting president Omar Hassan. As the crisis continues to escalate, the crew at the newly upgraded CTU is challenged by some unexpected complicated circumstances. Meanwhile, tensions run high when an explosive event jeopardizes international security.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 8,
+                "showtitle": "24",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/76290/1092831.jpg",
+                "title": "Day 8: 6:00 P.M. - 7:00 P.M.",
+                "tvshowid": 1,
+                "uniqueid": {
+                    "unknown": "1092831"
+                },
+                "votes": "96",
+                "writer": [
+                    "David Fury",
+                    "Alex Gansa"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/76290/1092841.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/76290-g14.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/76290-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kiefer Sutherland",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44914.jpg"
+                    },
+                    {
+                        "name": "Mary Lynn Rajskub",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44921.jpg"
+                    },
+                    {
+                        "name": "Anil Kapoor",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137221.jpg"
+                    },
+                    {
+                        "name": "Carlos Bernard",
+                        "order": 1,
+                        "role": "Tony Almeida",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78578.jpg"
+                    },
+                    {
+                        "name": "Jude Ciccolella",
+                        "order": 3,
+                        "role": "Mike Novick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91331.jpg"
+                    },
+                    {
+                        "name": "Glenn Morshower",
+                        "order": 4,
+                        "role": "Aaron Pierce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91321.jpg"
+                    },
+                    {
+                        "name": "Tanya Wright",
+                        "order": 5,
+                        "role": "Patty Brooks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91311.jpg"
+                    },
+                    {
+                        "name": "Alberta Watson",
+                        "order": 6,
+                        "role": "Erin Driscoll",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91281.jpg"
+                    },
+                    {
+                        "name": "Eric Balfour",
+                        "order": 7,
+                        "role": "Milo Pressman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/168561.jpg"
+                    },
+                    {
+                        "name": "Regina King",
+                        "order": 8,
+                        "role": "Sandra Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82134.jpg"
+                    },
+                    {
+                        "name": "Peter MacNicol",
+                        "order": 9,
+                        "role": "Tom Lennox",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82133.jpg"
+                    },
+                    {
+                        "name": "Marisol Nichols",
+                        "order": 10,
+                        "role": "Nadia Yassir",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82132.jpg"
+                    },
+                    {
+                        "name": "Jayne Atkinson",
+                        "order": 11,
+                        "role": "Karen Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82131.jpg"
+                    },
+                    {
+                        "name": "Carlo Rota",
+                        "order": 12,
+                        "role": "Morris O'Brian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82130.jpg"
+                    },
+                    {
+                        "name": "Janeane Garofalo",
+                        "order": 13,
+                        "role": "Janis Gold",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82129.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 14,
+                        "role": "Sean Hillinger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Jeffrey Nordling",
+                        "order": 15,
+                        "role": "Larry Moss",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82127.jpg"
+                    },
+                    {
+                        "name": "Bob Gunton",
+                        "order": 16,
+                        "role": "Ethan Kanin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82126.jpg"
+                    },
+                    {
+                        "name": "Colm Feore",
+                        "order": 17,
+                        "role": "Henry Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82125.jpg"
+                    },
+                    {
+                        "name": "Annie Wersching",
+                        "order": 18,
+                        "role": "Renee Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82124.jpg"
+                    },
+                    {
+                        "name": "Cherry Jones",
+                        "order": 19,
+                        "role": "President Allison Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82123.jpg"
+                    },
+                    {
+                        "name": "D.B. Woodside",
+                        "order": 20,
+                        "role": "Wayne Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78577.jpg"
+                    },
+                    {
+                        "name": "James Morrison",
+                        "order": 21,
+                        "role": "Bill Buchanan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44934.jpg"
+                    },
+                    {
+                        "name": "Gregory Itzin",
+                        "order": 22,
+                        "role": "President Charles Logan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                    },
+                    {
+                        "name": "Jean Smart",
+                        "order": 23,
+                        "role": "Martha Logan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44932.jpg"
+                    },
+                    {
+                        "name": "Louis Lombardi",
+                        "order": 24,
+                        "role": "Edgar Stiles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44931.jpg"
+                    },
+                    {
+                        "name": "Sarah Clarke",
+                        "order": 25,
+                        "role": "Nina Myers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44930.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 26,
+                        "role": "Curtis Manning",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Reiko Aylesworth",
+                        "order": 27,
+                        "role": "Michelle Dessler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44928.jpg"
+                    },
+                    {
+                        "name": "Elisha Cuthbert",
+                        "order": 28,
+                        "role": "Kim Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44927.jpg"
+                    },
+                    {
+                        "name": "Lana Parrilla",
+                        "order": 29,
+                        "role": "Sarah Gavin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44926.jpg"
+                    },
+                    {
+                        "name": "Kim Raver",
+                        "order": 30,
+                        "role": "Audrey Raines",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44925.jpg"
+                    },
+                    {
+                        "name": "Dennis Haysbert",
+                        "order": 31,
+                        "role": "President David Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44924.jpg"
+                    },
+                    {
+                        "name": "Leslie Hope",
+                        "order": 32,
+                        "role": "Teri Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44923.jpg"
+                    },
+                    {
+                        "name": "Xander Berkeley",
+                        "order": 33,
+                        "role": "George Mason",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327802.jpg"
+                    },
+                    {
+                        "name": "James Badge Dale",
+                        "order": 34,
+                        "role": "Chase Edmunds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44920.jpg"
+                    },
+                    {
+                        "name": "Penny Johnson",
+                        "order": 35,
+                        "role": "Sherry Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44918.jpg"
+                    },
+                    {
+                        "name": "Shohreh Aghdashloo",
+                        "order": 36,
+                        "role": "Dina Araz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144161.jpg"
+                    },
+                    {
+                        "name": "Laura Harris",
+                        "order": 37,
+                        "role": "Marie Warner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144151.jpg"
+                    },
+                    {
+                        "name": "David Anders",
+                        "order": 38,
+                        "role": "Josef Bazhaev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/77762.jpg"
+                    },
+                    {
+                        "name": "Katee Sackhoff",
+                        "order": 39,
+                        "role": "Dana Walsh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137241.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 40,
+                        "role": "Brian Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Chris Diamantopoulos",
+                        "order": 42,
+                        "role": "Rob Weiss",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137211.jpg"
+                    },
+                    {
+                        "name": "John Boyd",
+                        "order": 43,
+                        "role": "Arlo Glass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137201.jpg"
+                    },
+                    {
+                        "name": "Freddie Prinze Jr.",
+                        "order": 44,
+                        "role": "Cole Ortiz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137191.jpg"
+                    },
+                    {
+                        "name": "Sarah Wynter",
+                        "order": 90,
+                        "role": "Kate Warner"
+                    },
+                    {
+                        "name": "Yvonne Strahovski",
+                        "order": 91,
+                        "role": "Kate Morgan",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mgcaJaKhZtakVldW2KXYXhQ6ZJY.jpg"
+                    }
+                ],
+                "dateadded": "2010-03-09 19:04:24",
+                "director": [
+                    "Milan Cheylov"
+                ],
+                "episode": 4,
+                "episodeid": 4,
+                "fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/24/Season 8/24.S08E04.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
+                "firstaired": "2010-01-18",
+                "label": "8x04. Day 8: 7:00 P.M. - 8:00 P.M.",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "While the newly-upgraded CTU is challenged by some unexpected and complicated circumstances, Jack Bauer becomes even more involved in preventing an upcoming assassination attempt on Omar Hassan, a visiting President. Meanwhile, international security is jeopardized by an explosive event, and Jack is reunited with agent Renee Walker.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 8,
+                "showtitle": "24",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/76290/1092841.jpg",
+                "title": "Day 8: 7:00 P.M. - 8:00 P.M.",
+                "tvshowid": 1,
+                "uniqueid": {
+                    "unknown": "1092841"
+                },
+                "votes": "88",
+                "writer": [
+                    "Chip Johannessen",
+                    "Patrick Harbinson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/76290/1328561.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/76290-g14.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/76290-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kiefer Sutherland",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44914.jpg"
+                    },
+                    {
+                        "name": "Cherry Jones",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82123.jpg"
+                    },
+                    {
+                        "name": "Mary Lynn Rajskub",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44921.jpg"
+                    },
+                    {
+                        "name": "Carlos Bernard",
+                        "order": 1,
+                        "role": "Tony Almeida",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78578.jpg"
+                    },
+                    {
+                        "name": "Jude Ciccolella",
+                        "order": 3,
+                        "role": "Mike Novick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91331.jpg"
+                    },
+                    {
+                        "name": "Glenn Morshower",
+                        "order": 4,
+                        "role": "Aaron Pierce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91321.jpg"
+                    },
+                    {
+                        "name": "Tanya Wright",
+                        "order": 5,
+                        "role": "Patty Brooks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91311.jpg"
+                    },
+                    {
+                        "name": "Alberta Watson",
+                        "order": 6,
+                        "role": "Erin Driscoll",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91281.jpg"
+                    },
+                    {
+                        "name": "Eric Balfour",
+                        "order": 7,
+                        "role": "Milo Pressman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/168561.jpg"
+                    },
+                    {
+                        "name": "Regina King",
+                        "order": 8,
+                        "role": "Sandra Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82134.jpg"
+                    },
+                    {
+                        "name": "Peter MacNicol",
+                        "order": 9,
+                        "role": "Tom Lennox",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82133.jpg"
+                    },
+                    {
+                        "name": "Marisol Nichols",
+                        "order": 10,
+                        "role": "Nadia Yassir",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82132.jpg"
+                    },
+                    {
+                        "name": "Jayne Atkinson",
+                        "order": 11,
+                        "role": "Karen Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82131.jpg"
+                    },
+                    {
+                        "name": "Carlo Rota",
+                        "order": 12,
+                        "role": "Morris O'Brian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82130.jpg"
+                    },
+                    {
+                        "name": "Janeane Garofalo",
+                        "order": 13,
+                        "role": "Janis Gold",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82129.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 14,
+                        "role": "Sean Hillinger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Jeffrey Nordling",
+                        "order": 15,
+                        "role": "Larry Moss",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82127.jpg"
+                    },
+                    {
+                        "name": "Bob Gunton",
+                        "order": 16,
+                        "role": "Ethan Kanin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82126.jpg"
+                    },
+                    {
+                        "name": "Colm Feore",
+                        "order": 17,
+                        "role": "Henry Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82125.jpg"
+                    },
+                    {
+                        "name": "Annie Wersching",
+                        "order": 18,
+                        "role": "Renee Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82124.jpg"
+                    },
+                    {
+                        "name": "D.B. Woodside",
+                        "order": 20,
+                        "role": "Wayne Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78577.jpg"
+                    },
+                    {
+                        "name": "James Morrison",
+                        "order": 21,
+                        "role": "Bill Buchanan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44934.jpg"
+                    },
+                    {
+                        "name": "Gregory Itzin",
+                        "order": 22,
+                        "role": "President Charles Logan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                    },
+                    {
+                        "name": "Jean Smart",
+                        "order": 23,
+                        "role": "Martha Logan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44932.jpg"
+                    },
+                    {
+                        "name": "Louis Lombardi",
+                        "order": 24,
+                        "role": "Edgar Stiles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44931.jpg"
+                    },
+                    {
+                        "name": "Sarah Clarke",
+                        "order": 25,
+                        "role": "Nina Myers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44930.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 26,
+                        "role": "Curtis Manning",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Reiko Aylesworth",
+                        "order": 27,
+                        "role": "Michelle Dessler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44928.jpg"
+                    },
+                    {
+                        "name": "Elisha Cuthbert",
+                        "order": 28,
+                        "role": "Kim Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44927.jpg"
+                    },
+                    {
+                        "name": "Lana Parrilla",
+                        "order": 29,
+                        "role": "Sarah Gavin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44926.jpg"
+                    },
+                    {
+                        "name": "Kim Raver",
+                        "order": 30,
+                        "role": "Audrey Raines",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44925.jpg"
+                    },
+                    {
+                        "name": "Dennis Haysbert",
+                        "order": 31,
+                        "role": "President David Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44924.jpg"
+                    },
+                    {
+                        "name": "Leslie Hope",
+                        "order": 32,
+                        "role": "Teri Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44923.jpg"
+                    },
+                    {
+                        "name": "Xander Berkeley",
+                        "order": 33,
+                        "role": "George Mason",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327802.jpg"
+                    },
+                    {
+                        "name": "James Badge Dale",
+                        "order": 34,
+                        "role": "Chase Edmunds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44920.jpg"
+                    },
+                    {
+                        "name": "Penny Johnson",
+                        "order": 35,
+                        "role": "Sherry Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44918.jpg"
+                    },
+                    {
+                        "name": "Shohreh Aghdashloo",
+                        "order": 36,
+                        "role": "Dina Araz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144161.jpg"
+                    },
+                    {
+                        "name": "Laura Harris",
+                        "order": 37,
+                        "role": "Marie Warner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144151.jpg"
+                    },
+                    {
+                        "name": "David Anders",
+                        "order": 38,
+                        "role": "Josef Bazhaev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/77762.jpg"
+                    },
+                    {
+                        "name": "Katee Sackhoff",
+                        "order": 39,
+                        "role": "Dana Walsh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137241.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 40,
+                        "role": "Brian Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Anil Kapoor",
+                        "order": 41,
+                        "role": "Omar Hassan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137221.jpg"
+                    },
+                    {
+                        "name": "Chris Diamantopoulos",
+                        "order": 42,
+                        "role": "Rob Weiss",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137211.jpg"
+                    },
+                    {
+                        "name": "John Boyd",
+                        "order": 43,
+                        "role": "Arlo Glass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137201.jpg"
+                    },
+                    {
+                        "name": "Freddie Prinze Jr.",
+                        "order": 44,
+                        "role": "Cole Ortiz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137191.jpg"
+                    },
+                    {
+                        "name": "Sarah Wynter",
+                        "order": 90,
+                        "role": "Kate Warner"
+                    },
+                    {
+                        "name": "Yvonne Strahovski",
+                        "order": 91,
+                        "role": "Kate Morgan",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mgcaJaKhZtakVldW2KXYXhQ6ZJY.jpg"
+                    }
+                ],
+                "dateadded": "2010-03-16 21:56:42",
+                "director": [
+                    "Brad Turner"
+                ],
+                "episode": 5,
+                "episodeid": 5,
+                "fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/24/Season 8/24.S08E05.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
+                "firstaired": "2010-01-25",
+                "label": "8x05. Day 8: 8:00 P.M. - 9:00 P.M.",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Four explosive hours after being unwillingly drawn back into action, Jack Bauer reteams with a risky Renee Walker to track some very dangerous leads. Meanwhile, back at CTU, a desperate Dana Walsh faces tense and untimely circumstances, and emotions escalate when President Taylor learns of a larger looming threat that jeopardizes the peace accord with President Hassan.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 8,
+                "showtitle": "24",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/76290/1328561.jpg",
+                "title": "Day 8: 8:00 P.M. - 9:00 P.M.",
+                "tvshowid": 1,
+                "uniqueid": {
+                    "unknown": "1328561"
+                },
+                "votes": "89",
+                "writer": [
+                    "Howard Gordon",
+                    "Evan Katz",
+                    "Alex Gansa"
+                ]
+            }
+        ],
+        "9": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/76290/4769340.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/76290-g14.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/76290-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kiefer Sutherland",
+                        "order": 0,
+                        "role": "Jack Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44914.jpg"
+                    },
+                    {
+                        "name": "Carlos Bernard",
+                        "order": 1,
+                        "role": "Tony Almeida",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78578.jpg"
+                    },
+                    {
+                        "name": "Mary Lynn Rajskub",
+                        "order": 2,
+                        "role": "Chloe O'Brian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44921.jpg"
+                    },
+                    {
+                        "name": "Jude Ciccolella",
+                        "order": 3,
+                        "role": "Mike Novick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91331.jpg"
+                    },
+                    {
+                        "name": "Glenn Morshower",
+                        "order": 4,
+                        "role": "Aaron Pierce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91321.jpg"
+                    },
+                    {
+                        "name": "Tanya Wright",
+                        "order": 5,
+                        "role": "Patty Brooks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91311.jpg"
+                    },
+                    {
+                        "name": "Alberta Watson",
+                        "order": 6,
+                        "role": "Erin Driscoll",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91281.jpg"
+                    },
+                    {
+                        "name": "Eric Balfour",
+                        "order": 7,
+                        "role": "Milo Pressman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/168561.jpg"
+                    },
+                    {
+                        "name": "Regina King",
+                        "order": 8,
+                        "role": "Sandra Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82134.jpg"
+                    },
+                    {
+                        "name": "Peter MacNicol",
+                        "order": 9,
+                        "role": "Tom Lennox",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82133.jpg"
+                    },
+                    {
+                        "name": "Marisol Nichols",
+                        "order": 10,
+                        "role": "Nadia Yassir",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82132.jpg"
+                    },
+                    {
+                        "name": "Jayne Atkinson",
+                        "order": 11,
+                        "role": "Karen Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82131.jpg"
+                    },
+                    {
+                        "name": "Carlo Rota",
+                        "order": 12,
+                        "role": "Morris O'Brian",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82130.jpg"
+                    },
+                    {
+                        "name": "Janeane Garofalo",
+                        "order": 13,
+                        "role": "Janis Gold",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82129.jpg"
+                    },
+                    {
+                        "name": "Rhys Coiro",
+                        "order": 14,
+                        "role": "Sean Hillinger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317643.jpg"
+                    },
+                    {
+                        "name": "Jeffrey Nordling",
+                        "order": 15,
+                        "role": "Larry Moss",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82127.jpg"
+                    },
+                    {
+                        "name": "Bob Gunton",
+                        "order": 16,
+                        "role": "Ethan Kanin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82126.jpg"
+                    },
+                    {
+                        "name": "Colm Feore",
+                        "order": 17,
+                        "role": "Henry Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82125.jpg"
+                    },
+                    {
+                        "name": "Annie Wersching",
+                        "order": 18,
+                        "role": "Renee Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82124.jpg"
+                    },
+                    {
+                        "name": "Cherry Jones",
+                        "order": 19,
+                        "role": "President Allison Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82123.jpg"
+                    },
+                    {
+                        "name": "D.B. Woodside",
+                        "order": 20,
+                        "role": "Wayne Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78577.jpg"
+                    },
+                    {
+                        "name": "James Morrison",
+                        "order": 21,
+                        "role": "Bill Buchanan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44934.jpg"
+                    },
+                    {
+                        "name": "Gregory Itzin",
+                        "order": 22,
+                        "role": "President Charles Logan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                    },
+                    {
+                        "name": "Jean Smart",
+                        "order": 23,
+                        "role": "Martha Logan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44932.jpg"
+                    },
+                    {
+                        "name": "Louis Lombardi",
+                        "order": 24,
+                        "role": "Edgar Stiles",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44931.jpg"
+                    },
+                    {
+                        "name": "Sarah Clarke",
+                        "order": 25,
+                        "role": "Nina Myers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44930.jpg"
+                    },
+                    {
+                        "name": "Roger R. Cross",
+                        "order": 26,
+                        "role": "Curtis Manning",
+                        "thumbnail": "http://thetvdb.com/banners/actors/353474.jpg"
+                    },
+                    {
+                        "name": "Reiko Aylesworth",
+                        "order": 27,
+                        "role": "Michelle Dessler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44928.jpg"
+                    },
+                    {
+                        "name": "Elisha Cuthbert",
+                        "order": 28,
+                        "role": "Kim Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44927.jpg"
+                    },
+                    {
+                        "name": "Lana Parrilla",
+                        "order": 29,
+                        "role": "Sarah Gavin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44926.jpg"
+                    },
+                    {
+                        "name": "Kim Raver",
+                        "order": 30,
+                        "role": "Audrey Raines",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44925.jpg"
+                    },
+                    {
+                        "name": "Dennis Haysbert",
+                        "order": 31,
+                        "role": "President David Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44924.jpg"
+                    },
+                    {
+                        "name": "Leslie Hope",
+                        "order": 32,
+                        "role": "Teri Bauer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44923.jpg"
+                    },
+                    {
+                        "name": "Xander Berkeley",
+                        "order": 33,
+                        "role": "George Mason",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327802.jpg"
+                    },
+                    {
+                        "name": "James Badge Dale",
+                        "order": 34,
+                        "role": "Chase Edmunds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44920.jpg"
+                    },
+                    {
+                        "name": "Penny Johnson",
+                        "order": 35,
+                        "role": "Sherry Palmer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/44918.jpg"
+                    },
+                    {
+                        "name": "Shohreh Aghdashloo",
+                        "order": 36,
+                        "role": "Dina Araz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144161.jpg"
+                    },
+                    {
+                        "name": "Laura Harris",
+                        "order": 37,
+                        "role": "Marie Warner",
+                        "thumbnail": "http://thetvdb.com/banners/actors/144151.jpg"
+                    },
+                    {
+                        "name": "David Anders",
+                        "order": 38,
+                        "role": "Josef Bazhaev",
+                        "thumbnail": "http://thetvdb.com/banners/actors/77762.jpg"
+                    },
+                    {
+                        "name": "Katee Sackhoff",
+                        "order": 39,
+                        "role": "Dana Walsh",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137241.jpg"
+                    },
+                    {
+                        "name": "Mykelti Williamson",
+                        "order": 40,
+                        "role": "Brian Hastings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336410.jpg"
+                    },
+                    {
+                        "name": "Anil Kapoor",
+                        "order": 41,
+                        "role": "Omar Hassan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137221.jpg"
+                    },
+                    {
+                        "name": "Chris Diamantopoulos",
+                        "order": 42,
+                        "role": "Rob Weiss",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137211.jpg"
+                    },
+                    {
+                        "name": "John Boyd",
+                        "order": 43,
+                        "role": "Arlo Glass",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137201.jpg"
+                    },
+                    {
+                        "name": "Freddie Prinze Jr.",
+                        "order": 44,
+                        "role": "Cole Ortiz",
+                        "thumbnail": "http://thetvdb.com/banners/actors/137191.jpg"
+                    },
+                    {
+                        "name": "Sarah Wynter",
+                        "order": 90,
+                        "role": "Kate Warner"
+                    },
+                    {
+                        "name": "Yvonne Strahovski",
+                        "order": 91,
+                        "role": "Kate Morgan",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mgcaJaKhZtakVldW2KXYXhQ6ZJY.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-11 17:23:06",
+                "director": [
+                    "Jon Cassar"
+                ],
+                "episode": 1,
+                "episodeid": 6,
+                "fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/24 - Live Another Day/Season 1/24.S09E01.German.Dubbed.HDTV.x264-ITG.mkv",
+                "firstaired": "2014-05-05",
+                "label": "9x01. Day 9: 11:00 A.M. - 12:00 P.M.",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After four years off the grid, Jack is apprehended in London by the CIA – on the very day that President James Heller arrives. As the President faces political pressure over a US drone program run from a UK-based base, only disgraced agent Kate Morgan suspects that Jack's capture was all too easy.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 9,
+                "showtitle": "24",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/76290/4769340.jpg",
+                "title": "Day 9: 11:00 A.M. - 12:00 P.M.",
+                "tvshowid": 1,
+                "uniqueid": {
+                    "unknown": "4769340"
+                },
+                "votes": "64",
+                "writer": [
+                    "Evan Katz",
+                    "Manny Coto"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/76290-8-2.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/76290-8-13.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/76290-g14.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/76290-4.jpg"
+            },
+            "episode": 5,
+            "fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+            "label": "Staffel 8",
+            "playcount": 0,
+            "season": 8,
+            "seasonid": 10,
+            "showtitle": "24",
+            "thumbnail": "http://thetvdb.com/banners/seasons/76290-8-13.jpg",
+            "tvshowid": 1,
+            "watchedepisodes": 0
+        },
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/76290-9.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/76290-9-9.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/76290-g14.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/76290-4.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/76290-46.jpg",
+            "label": "Staffel 9",
+            "playcount": 0,
+            "season": 9,
+            "seasonid": 11,
+            "showtitle": "24",
+            "thumbnail": "http://thetvdb.com/banners/seasons/76290-9-9.jpg",
+            "tvshowid": 1,
+            "watchedepisodes": 0
+        }
+    ]
+}

@@ -1,0 +1,2589 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+            "poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Dean Norris",
+                "order": 0,
+                "role": "James 'Big Jim' Rennie",
+                "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+            },
+            {
+                "name": "Mike Vogel",
+                "order": 1,
+                "role": "Dale \"Barbie\" Barbara",
+                "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+            },
+            {
+                "name": "Rachelle Lefevre",
+                "order": 2,
+                "role": "Julia Shumway",
+                "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+            },
+            {
+                "name": "Max Ehrich",
+                "order": 3,
+                "role": "Hunter May",
+                "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+            },
+            {
+                "name": "Grace Victoria Cox",
+                "order": 4,
+                "role": "Melanie Cross",
+                "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+            },
+            {
+                "name": "John Elvis",
+                "order": 5,
+                "role": "Ben Drake",
+                "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+            },
+            {
+                "name": "Jolene Purdy",
+                "order": 6,
+                "role": "Dodee Weaver",
+                "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+            },
+            {
+                "name": "Nicholas Strong",
+                "order": 7,
+                "role": "Phil Bushey",
+                "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+            },
+            {
+                "name": "Aisha Hinds",
+                "order": 8,
+                "role": "Carolyn Hill",
+                "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+            },
+            {
+                "name": "Mackenzie Lintz",
+                "order": 9,
+                "role": "Eleanor \"Norrie\" Calvert-Hill",
+                "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+            },
+            {
+                "name": "Alexander Koch",
+                "order": 10,
+                "role": "James \"Junior\" Rennie",
+                "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+            },
+            {
+                "name": "Natalie Martinez",
+                "order": 11,
+                "role": "Linda Esquivel",
+                "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+            },
+            {
+                "name": "Britt Robertson",
+                "order": 12,
+                "role": "Angie McAlister",
+                "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+            },
+            {
+                "name": "Colin Ford",
+                "order": 13,
+                "role": "Joe McAlister",
+                "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+            }
+        ],
+        "dateadded": "2014-09-04 00:21:16",
+        "episode": 16,
+        "episodeguide": "<episodeguide><url cache=\"264492-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/264492/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/",
+        "genre": [
+            "Drama",
+            "Horror",
+            "Mystery",
+            "Science-Fiction"
+        ],
+        "imdbnumber": "264492",
+        "label": "Under the Dome",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "An invisible and mysterious force field descends upon a small fictional town in the United States, trapping residents inside, cut off from the rest of civilization. The trapped townsfolk must discover the secrets and purpose of the \"dome\" and its origins, while coming to learn more than they ever knew about each other.",
+        "premiered": "2013-06-24",
+        "rating": 8,
+        "season": 2,
+        "sorttitle": "",
+        "studio": [
+            "CBS"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/264492-2.jpg",
+        "title": "Under the Dome",
+        "tvshowid": 91,
+        "votes": "120",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4445772.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Samantha Mathis",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/dzUjIFu7AAbwwJfj6aFRPfvYgC3.jpg"
+                    },
+                    {
+                        "name": "Beth Broderick",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jeff Fahey",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/79778.jpg"
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 9,
+                        "role": "Eleanor \"Norrie\" Calvert-Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-17 17:35:17",
+                "director": [
+                    "Niels Arden Oplev"
+                ],
+                "episode": 1,
+                "episodeid": 1824,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E01.Chesters.Mill.1.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mkv",
+                "firstaired": "2013-06-24",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The residents of Chester's Mill find themselves trapped under an enormous, transparent dome.  Panic escalates as resources dwindle rapidly.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4445772.jpg",
+                "title": "Pilot",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4445772"
+                },
+                "votes": "214",
+                "writer": [
+                    "Brian K. Vaughan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4558739.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Samantha Mathis",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/dzUjIFu7AAbwwJfj6aFRPfvYgC3.jpg"
+                    },
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Beth Broderick",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ned Bellamy",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-17 17:41:33",
+                "director": [
+                    "Jack Bender"
+                ],
+                "episode": 2,
+                "episodeid": 1825,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E02.Chesters.Mill.2.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "firstaired": "2013-07-01",
+                "label": "1x02. The Fire",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Panic is heightened when a house catches on fire in Chester's Mill, but the fire department is outside of the Dome.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4558739.jpg",
+                "title": "The Fire",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4558739"
+                },
+                "votes": "183",
+                "writer": [
+                    "Rick Cleveland"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4558740.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Beth Broderick",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ned Bellamy",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-17 17:44:25",
+                "director": [
+                    "Paul Edwards"
+                ],
+                "episode": 3,
+                "episodeid": 1826,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E03.de.mkv",
+                "firstaired": "2013-07-08",
+                "label": "1x03. Manhunt",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a former deputy goes rogue, Big Jim recruits Barbie to join the manhunt to keep the town safe. Meanwhile, Junior is determined to escape the Dome by going underground.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4558740.jpg",
+                "title": "Manhunt",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4558740"
+                },
+                "votes": "182",
+                "writer": [
+                    "Adam Stein"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4558741.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Samantha Mathis",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/dzUjIFu7AAbwwJfj6aFRPfvYgC3.jpg"
+                    },
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Ned Bellamy",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Celia Weston",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/s1PvoXw5lfVCeqpBpjOwKnc51LJ.jpg"
+                    },
+                    {
+                        "name": "Crystal Martinez",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Elena Varela",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-17 17:24:06",
+                "director": [
+                    "Kari Skogland"
+                ],
+                "episode": 4,
+                "episodeid": 1827,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E04.Ausbruch.1.GERMAN.DUBBED.WebHDRiP.x264.mkv",
+                "firstaired": "2013-07-15",
+                "label": "1x04. Outbreak",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The people of Chester's Mill fall into a state of panic as an outbreak of meningitis strikes their community, threatening their already depleted medical supplies. Meanwhile, Julia continues to search for answers into her husband's disappearance.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4558741.jpg",
+                "title": "Outbreak",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4558741"
+                },
+                "votes": "178",
+                "writer": [
+                    "Peter Calloway"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4558742.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Samantha Mathis",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/dzUjIFu7AAbwwJfj6aFRPfvYgC3.jpg"
+                    },
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Beth Broderick",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ned Bellamy",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dale Raoul",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333663.jpg"
+                    },
+                    {
+                        "name": "Jeff Glor",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-17 17:48:02",
+                "director": [
+                    "Jack Bender"
+                ],
+                "episode": 5,
+                "episodeid": 1828,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E05.Schmetterlinge.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "firstaired": "2013-07-22",
+                "label": "1x05. Blue on Blue",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The Chester's Mill residents receive an unexpected visit from their loved ones on the other side. Meanwhile, the community braces for a threat from outside the Dome.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4558742.jpg",
+                "title": "Blue on Blue",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4558742"
+                },
+                "votes": "168",
+                "writer": [
+                    "Brian K. Vaughan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4558743.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Samantha Mathis",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/dzUjIFu7AAbwwJfj6aFRPfvYgC3.jpg"
+                    },
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Beth Broderick",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dale Raoul",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333663.jpg"
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Crystal Martinez",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-17 17:52:40",
+                "director": [
+                    "Kari Skogland"
+                ],
+                "episode": 6,
+                "episodeid": 1829,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E06.Der.grosse.Durst.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "firstaired": "2013-07-29",
+                "label": "1x06. The Endless Thirst",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When the town begins to run low on water, the residents of Chester's Mill begin to fight for the remaining resources. Meanwhile, Julia discovers a strange connection that two of the town's residents have with the Dome.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4558743.jpg",
+                "title": "The Endless Thirst",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4558743"
+                },
+                "votes": "172",
+                "writer": [
+                    "Soo Hugh"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4558744.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Samantha Mathis",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/dzUjIFu7AAbwwJfj6aFRPfvYgC3.jpg"
+                    },
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Dale Raoul",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333663.jpg"
+                    },
+                    {
+                        "name": "Megan Ketch",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-17 17:50:04",
+                "director": [
+                    "Miguel Sapochnik"
+                ],
+                "episode": 7,
+                "episodeid": 1830,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E07.Jeder.gegen.Jeden.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "firstaired": "2013-08-05",
+                "label": "1x07. Imperfect Circles",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Big Jim takes matters into his own hands when he feels his authority slipping away, and the Dome displays its power when a life is taken just as a newborn arrives.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4558744.jpg",
+                "title": "Imperfect Circles",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4558744"
+                },
+                "votes": "173",
+                "writer": [
+                    "Caitlin Parrish"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4600353.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-24 16:06:49",
+                "director": [
+                    "Jack Bender"
+                ],
+                "episode": 8,
+                "episodeid": 1831,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E08.Dicker.als.Wasser.GERMAN.DUBBED.WebHDRiP.XviD.mkv",
+                "firstaired": "2013-08-12",
+                "label": "1x08. Thicker Than Water",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Junior stands up to his father and is shattered when he discovers the truth about his mother's past. Meanwhile, Julia learns firsthand the powers of the \"mini dome.\"",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4600353.jpg",
+                "title": "Thicker Than Water",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4600353"
+                },
+                "votes": "166",
+                "writer": [
+                    "Adam Stein"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4600354.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Dale Raoul",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333663.jpg"
+                    },
+                    {
+                        "name": "Natalie Zea",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-24 16:21:15",
+                "director": [
+                    "Roxann Dawson"
+                ],
+                "episode": 9,
+                "episodeid": 1832,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E09.Rosa.Sterne.GERMAN.DUBBED.WebHDRiP.mkv",
+                "firstaired": "2013-08-19",
+                "label": "1x09. The Fourth Hand",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Barbie and Big Jim realize their lives are more intertwined than they knew when a mysterious woman makes an appearance in Chester's Mill.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4600354.jpg",
+                "title": "The Fourth Hand",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4600354"
+                },
+                "votes": "162",
+                "writer": [
+                    "Daniel Truly"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4600355.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Natalie Zea",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Mare Winningham",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299311.jpg"
+                    },
+                    {
+                        "name": "Crystal Martinez",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-24 16:10:54",
+                "director": [
+                    "Sergio Mimica-Gezzan"
+                ],
+                "episode": 10,
+                "episodeid": 1833,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E10.Moegen.die.Spiele.beginnen.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "firstaired": "2013-08-26",
+                "label": "1x10. Let the Games Begin",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Julia uncovers the truth about her husband's disappearance and unravels some of Chester's Mill's darkest secrets. Meanwhile, Maxine shows Barbie how she plans to take control of the town.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4600355.jpg",
+                "title": "Let the Games Begin",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4600355"
+                },
+                "votes": "155",
+                "writer": [
+                    "Andres Fischer-Centeno",
+                    "Peter Calloway"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4600356.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Natalie Zea",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/171381.jpg"
+                    },
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Mare Winningham",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299311.jpg"
+                    },
+                    {
+                        "name": "Crystal Martinez",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-09-24 16:28:39",
+                "director": [
+                    "David Barrett"
+                ],
+                "episode": 11,
+                "episodeid": 1834,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E11.Speak.of.the.Devil.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mkv",
+                "firstaired": "2013-09-02",
+                "label": "1x11. Speak of the Devil",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Big Jim turns the town against Barbie when the truth about his past is revealed. Meanwhile, Maxine makes it personal when she confronts Barbie’s closest ally.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4600356.jpg",
+                "title": "Speak of the Devil",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4600356"
+                },
+                "votes": "153",
+                "writer": [
+                    "Scott Gold"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4600358.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Jason Davis",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Crystal Martinez",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jay Gates",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kevin Cassidy",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Benjamin Rowe",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Chris J. Johnson",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-10-02 06:00:45",
+                "director": [
+                    "Peter Leto"
+                ],
+                "episode": 12,
+                "episodeid": 1835,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E12.Gefahr.im.Verzug.GERMAN.DUBBED.WebHDRi.avi",
+                "firstaired": "2013-09-09",
+                "label": "1x12. Exigent Circumstances",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "While the manhunt for Barbie continues, Big Jim gets the residents of Chester’s Mill riled up and the town demands justice for all of Barbie’s supposed crimes. Meanwhile, Joe and Norrie must find a new hiding place for the mini dome.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4600358.jpg",
+                "title": "Exigent Circumstances",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4600358"
+                },
+                "votes": "156",
+                "writer": [
+                    "Adam Stein",
+                    "Caitlin Parrish"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4600360.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Samantha Mathis",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/dzUjIFu7AAbwwJfj6aFRPfvYgC3.jpg"
+                    },
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Dale Raoul",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333663.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Chris J. Johnson",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kevin Patrick Murphy",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Zuri Adele",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 4,
+                        "role": "Melanie Cross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2013-10-02 05:56:56",
+                "director": [
+                    "Jack Bender"
+                ],
+                "episode": 13,
+                "episodeid": 1836,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E13.Curtains.GERMAN.DUBBED.WebHDRiP.XviD-S.avi",
+                "firstaired": "2013-09-16",
+                "label": "1x13. Curtains",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Secrets of the Dome are revealed and Big Jim is determined to put an end to Barbie once and for all. Meanwhile, Junior, Angie, Joe and Norrie discover who the Monarch is after receiving a shocking visit from a familiar face.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4600360.jpg",
+                "title": "Curtains",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4600360"
+                },
+                "votes": "145",
+                "writer": [
+                    "Brian K. Vaughan",
+                    "Scott Gold"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4770367.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "Sherry Stringfield",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Stephen King",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 9,
+                        "role": "Eleanor \"Norrie\" Calvert-Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2014-09-03 21:58:28",
+                "director": [
+                    "Jack Bender"
+                ],
+                "episode": 1,
+                "episodeid": 1837,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 2/Under.the.Dome.S02E01.Die.Schlinge.um.den.Hals.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2014-06-30",
+                "label": "2x01. Heads Will Roll",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Barbie's life is in Big Jim's hands; the dome becomes magnetized; Julia tries to save the life of a mysterious girl who may have clues about the origin of the dome.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4770367.jpg",
+                "title": "Heads Will Roll",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4770367"
+                },
+                "votes": "78",
+                "writer": [
+                    "Stephen King"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4880769.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Dale Raoul",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333663.jpg"
+                    },
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "Matt McHugh",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 9,
+                        "role": "Eleanor \"Norrie\" Calvert-Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2014-09-03 23:22:48",
+                "director": [
+                    "Ernest Dickerson"
+                ],
+                "episode": 2,
+                "episodeid": 1838,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 2/Under.the.Dome.S02E02.Das.Maedchen.aus.dem.Wald.GERMAN.DL.DUBBED.1080p.WebHD.x264-TVP.mkv",
+                "firstaired": "2014-07-07",
+                "label": "2x02. Infestation",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Rebecca discovers an infestation of butterfly eggs on the crops, Barbie risks his life to help her save the town's food supply.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4880769.jpg",
+                "title": "Infestation",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4880769"
+                },
+                "votes": "75",
+                "writer": [
+                    "Kelly Souders",
+                    "Brian Peterson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264492/4903557.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Grace Victoria Cox",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333251.jpg"
+                    },
+                    {
+                        "name": "Sherry Stringfield",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dwight Yoakam",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dean Norris",
+                        "order": 0,
+                        "role": "James 'Big Jim' Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312649.jpg"
+                    },
+                    {
+                        "name": "Mike Vogel",
+                        "order": 1,
+                        "role": "Dale \"Barbie\" Barbara",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                    },
+                    {
+                        "name": "Rachelle Lefevre",
+                        "order": 2,
+                        "role": "Julia Shumway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                    },
+                    {
+                        "name": "Max Ehrich",
+                        "order": 3,
+                        "role": "Hunter May",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335814.jpg"
+                    },
+                    {
+                        "name": "John Elvis",
+                        "order": 5,
+                        "role": "Ben Drake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316727.jpg"
+                    },
+                    {
+                        "name": "Jolene Purdy",
+                        "order": 6,
+                        "role": "Dodee Weaver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314584.jpg"
+                    },
+                    {
+                        "name": "Nicholas Strong",
+                        "order": 7,
+                        "role": "Phil Bushey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314583.jpg"
+                    },
+                    {
+                        "name": "Aisha Hinds",
+                        "order": 8,
+                        "role": "Carolyn Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314582.jpg"
+                    },
+                    {
+                        "name": "Mackenzie Lintz",
+                        "order": 9,
+                        "role": "Eleanor \"Norrie\" Calvert-Hill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+                    },
+                    {
+                        "name": "Alexander Koch",
+                        "order": 10,
+                        "role": "James \"Junior\" Rennie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314579.jpg"
+                    },
+                    {
+                        "name": "Natalie Martinez",
+                        "order": 11,
+                        "role": "Linda Esquivel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314578.jpg"
+                    },
+                    {
+                        "name": "Britt Robertson",
+                        "order": 12,
+                        "role": "Angie McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312647.jpg"
+                    },
+                    {
+                        "name": "Colin Ford",
+                        "order": 13,
+                        "role": "Joe McAlister",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312646.jpg"
+                    }
+                ],
+                "dateadded": "2014-09-04 00:21:16",
+                "director": [
+                    "Peter Leto"
+                ],
+                "episode": 3,
+                "episodeid": 1839,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 2/Under.the.Dome.S02E03.Blutregen.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "firstaired": "2014-07-14",
+                "label": "2x03. Force Majeure",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Big Jim conducts a census to see how long the town can survive on dwindling resources; acid rain threatens everyone.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Under the Dome",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264492/4903557.jpg",
+                "title": "Force Majeure",
+                "tvshowid": 91,
+                "uniqueid": {
+                    "unknown": "4903557"
+                },
+                "votes": "76",
+                "writer": [
+                    "Adam Stein"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/264492-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/264492-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+            },
+            "episode": 13,
+            "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 498,
+            "showtitle": "Under the Dome",
+            "thumbnail": "http://thetvdb.com/banners/seasons/264492-1.jpg",
+            "tvshowid": 91,
+            "watchedepisodes": 0
+        },
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/264492-2.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/264492-2-3.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/264492-g4.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/264492-2.jpg"
+            },
+            "episode": 3,
+            "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
+            "label": "Staffel 2",
+            "playcount": 0,
+            "season": 2,
+            "seasonid": 499,
+            "showtitle": "Under the Dome",
+            "thumbnail": "http://thetvdb.com/banners/seasons/264492-2-3.jpg",
+            "tvshowid": 91,
+            "watchedepisodes": 0
+        }
+    ]
+}

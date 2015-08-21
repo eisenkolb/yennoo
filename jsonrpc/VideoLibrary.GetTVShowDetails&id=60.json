@@ -1,0 +1,801 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/81797-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/81797-23.jpg",
+            "poster": "http://thetvdb.com/banners/posters/81797-5.jpg"
+        },
+        "cast": [
+            {
+                "name": "Mayumi Tanaka",
+                "order": 0,
+                "role": "Monkey D. Luffy, Oars & Fake Chopper",
+                "thumbnail": "http://thetvdb.com/banners/actors/75893.jpg"
+            },
+            {
+                "name": "Cho",
+                "order": 1,
+                "role": "Brook, Sabo's Father, Fake Franky, Henzo, Barbarossa & Samurai Ryuuma",
+                "thumbnail": "http://thetvdb.com/banners/actors/81357.jpg"
+            },
+            {
+                "name": "Yamaguchi Yuriko",
+                "order": 2,
+                "role": "Nico Robin, Kikyou & Nico Olvia",
+                "thumbnail": "http://thetvdb.com/banners/actors/81356.jpg"
+            },
+            {
+                "name": "Nakai Kazuya",
+                "order": 3,
+                "role": "Roronoa Zoro, Kung Fu Dugong, Saldeath, Drip, Jigorou & Pierre",
+                "thumbnail": "http://thetvdb.com/banners/actors/81353.jpg"
+            },
+            {
+                "name": "Yao Kazuki",
+                "order": 4,
+                "role": "Franky, Fake Sogeking, Bentham & Jango",
+                "thumbnail": "http://thetvdb.com/banners/actors/81352.jpg"
+            },
+            {
+                "name": "Yamaguchi Kappei",
+                "order": 5,
+                "role": "Usopp, Minotaurus, Dogura & Fake Zoro",
+                "thumbnail": "http://thetvdb.com/banners/actors/81350.jpg"
+            },
+            {
+                "name": "Ootani Ikue",
+                "order": 6,
+                "role": "Tony Tony Chopper, Young Sanji, Fake Nami & Enishida",
+                "thumbnail": "http://thetvdb.com/banners/actors/81349.jpg"
+            },
+            {
+                "name": "Hirata Hiroaki",
+                "order": 7,
+                "role": "Sanji, Carue, Inuppe, Magura & Black Demalo",
+                "thumbnail": "http://thetvdb.com/banners/actors/81348.jpg"
+            },
+            {
+                "name": "Okamura Akemi",
+                "order": 8,
+                "role": "Nami, Aphelandra, Gombe, Suu & Cocoa",
+                "thumbnail": "http://thetvdb.com/banners/actors/81347.jpg"
+            },
+            {
+                "name": "Ikeda Shuuichi",
+                "order": 9,
+                "role": "Shanks",
+                "thumbnail": "http://thetvdb.com/banners/actors/289256.jpg"
+            },
+            {
+                "name": "Furukawa Toshio",
+                "order": 10,
+                "role": "Portgas D. Ace",
+                "thumbnail": "http://thetvdb.com/banners/actors/289253.jpg"
+            },
+            {
+                "name": "Hidekatsu Shibata",
+                "order": 11,
+                "role": "Monkey D. Dragon & Calgara",
+                "thumbnail": "http://thetvdb.com/banners/actors/289250.jpg"
+            },
+            {
+                "name": "Kobayashi Yuuko",
+                "order": 12,
+                "role": "Nico Robin (eps 299-319)",
+                "thumbnail": "http://thetvdb.com/banners/actors/81355.jpg"
+            },
+            {
+                "name": "Yamazaki Wakana",
+                "order": 13,
+                "role": "Nami (eps 70-78) & Nojiko",
+                "thumbnail": "http://thetvdb.com/banners/actors/81354.jpg"
+            },
+            {
+                "name": "Ikura Kazue",
+                "order": 14,
+                "role": "Tony Tony Chopper (eps 254-263)",
+                "thumbnail": "http://thetvdb.com/banners/actors/313929.jpg"
+            },
+            {
+                "name": "Tōru Furuya",
+                "order": 15,
+                "role": "Sabo (adult)",
+                "thumbnail": "http://thetvdb.com/banners/actors/338930.jpg"
+            },
+            {
+                "name": "Takeuchi Junko",
+                "order": 16,
+                "role": "Sabo (young)",
+                "thumbnail": "http://thetvdb.com/banners/actors/338929.jpg"
+            },
+            {
+                "name": "Yuka Shioyama",
+                "order": 17,
+                "role": "Myure, Kiwi & Whitey Bay",
+                "thumbnail": "http://thetvdb.com/banners/actors/314032.jpg"
+            },
+            {
+                "name": "Osamu Ryutani",
+                "order": 18,
+                "role": "Pickles, Genbou & Ross",
+                "thumbnail": "http://thetvdb.com/banners/actors/314031.jpg"
+            },
+            {
+                "name": "Yuuko Sumitomo",
+                "order": 19,
+                "role": "Lily",
+                "thumbnail": "http://thetvdb.com/banners/actors/314030.jpg"
+            },
+            {
+                "name": "Yuji Ueda",
+                "order": 20,
+                "role": "Sarquiss",
+                "thumbnail": "http://thetvdb.com/banners/actors/314029.jpg"
+            },
+            {
+                "name": "Hiroyuki Kawamoto",
+                "order": 21,
+                "role": "Pearl",
+                "thumbnail": "http://thetvdb.com/banners/actors/314028.jpg"
+            },
+            {
+                "name": "Goro Naya",
+                "order": 22,
+                "role": "Crocus",
+                "thumbnail": "http://thetvdb.com/banners/actors/314027.jpg"
+            },
+            {
+                "name": "Rika Komatsu",
+                "order": 23,
+                "role": "Chabo & Marie",
+                "thumbnail": "http://thetvdb.com/banners/actors/314026.jpg"
+            },
+            {
+                "name": "Tomohisa Asou",
+                "order": 24,
+                "role": "Nako",
+                "thumbnail": "http://thetvdb.com/banners/actors/314025.jpg"
+            },
+            {
+                "name": "Hiromi Nishikawa",
+                "order": 25,
+                "role": "Moodie & Cosmos",
+                "thumbnail": "http://thetvdb.com/banners/actors/314024.jpg"
+            },
+            {
+                "name": "Jin Domon",
+                "order": 26,
+                "role": "Merry & Roux Lucky",
+                "thumbnail": "http://thetvdb.com/banners/actors/314023.jpg"
+            },
+            {
+                "name": "Yukari Hikida",
+                "order": 27,
+                "role": "Ririka",
+                "thumbnail": "http://thetvdb.com/banners/actors/314022.jpg"
+            },
+            {
+                "name": "Emi Uwagawa",
+                "order": 28,
+                "role": "Rika",
+                "thumbnail": "http://thetvdb.com/banners/actors/314021.jpg"
+            },
+            {
+                "name": "Machiko Toyoshima",
+                "order": 29,
+                "role": "Kuina",
+                "thumbnail": "http://thetvdb.com/banners/actors/314020.jpg"
+            },
+            {
+                "name": "Jouji Yanami",
+                "order": 30,
+                "role": "Boodle & Ganfall",
+                "thumbnail": "http://thetvdb.com/banners/actors/314019.jpg"
+            },
+            {
+                "name": "Haruh Terada",
+                "order": 31,
+                "role": "Piiman",
+                "thumbnail": "http://thetvdb.com/banners/actors/314017.jpg"
+            },
+            {
+                "name": "Yukimasa Kishino",
+                "order": 32,
+                "role": "Higuma",
+                "thumbnail": "http://thetvdb.com/banners/actors/314015.jpg"
+            },
+            {
+                "name": "Chafurin",
+                "order": 33,
+                "role": "Saint Charloss",
+                "thumbnail": "http://thetvdb.com/banners/actors/314014.jpg"
+            },
+            {
+                "name": "Taiten Kusunoki",
+                "order": 34,
+                "role": "Urouge",
+                "thumbnail": "http://thetvdb.com/banners/actors/314013.jpg"
+            },
+            {
+                "name": "Hiromi Tsuru",
+                "order": 35,
+                "role": "Shakuyaku",
+                "thumbnail": "http://thetvdb.com/banners/actors/314012.jpg"
+            },
+            {
+                "name": "Rumi Kasahara",
+                "order": 36,
+                "role": "Saint Shalulia",
+                "thumbnail": "http://thetvdb.com/banners/actors/314011.jpg"
+            },
+            {
+                "name": "Hirohiko Kakegawa",
+                "order": 37,
+                "role": "Dracule Mihawk (eps 461+), Saint Roswald & Hamburg",
+                "thumbnail": "http://thetvdb.com/banners/actors/314010.jpg"
+            },
+            {
+                "name": "Mami Kingetsu",
+                "order": 38,
+                "role": "Miss Merry Christmas",
+                "thumbnail": "http://thetvdb.com/banners/actors/314009.jpg"
+            },
+            {
+                "name": "Tomoko Naka",
+                "order": 39,
+                "role": "Hina, Miss Father's Day & Belladonna",
+                "thumbnail": "http://thetvdb.com/banners/actors/314008.jpg"
+            },
+            {
+                "name": "Yuusei Oda",
+                "order": 40,
+                "role": "Gyaro & Izou",
+                "thumbnail": "http://thetvdb.com/banners/actors/314007.jpg"
+            },
+            {
+                "name": "Yasuhiko Kawazu",
+                "order": 41,
+                "role": "Tansui, Hocker & Elizabeth",
+                "thumbnail": "http://thetvdb.com/banners/actors/314006.jpg"
+            },
+            {
+                "name": "Takashi Nagasako",
+                "order": 42,
+                "role": "Macro, Jozu, Kiba & Aladdin",
+                "thumbnail": "http://thetvdb.com/banners/actors/314003.jpg"
+            },
+            {
+                "name": "Toshihiko Seki",
+                "order": 43,
+                "role": "Duval",
+                "thumbnail": "http://thetvdb.com/banners/actors/314002.jpg"
+            },
+            {
+                "name": "Kenji Hamada",
+                "order": 44,
+                "role": "Killer & Inazuma",
+                "thumbnail": "http://thetvdb.com/banners/actors/314001.jpg"
+            },
+            {
+                "name": "Eiji Takemoto",
+                "order": 45,
+                "role": "Yorki (eps 378+), X. Drake, Lacueva, Roshio, Ohm, Bogart, John Giant, Komir, Drake, Strawberry, Doberman & Kaizeruhige",
+                "thumbnail": "http://thetvdb.com/banners/actors/314000.jpg"
+            },
+            {
+                "name": "Yasunori Masutani",
+                "order": 46,
+                "role": "Yorki (eps 63), Disco, Bart Jean, Makugai, Yamakaji, Yukimura & Saint Jalmack",
+                "thumbnail": "http://thetvdb.com/banners/actors/313999.jpg"
+            },
+            {
+                "name": "Kouichi Nagano",
+                "order": 47,
+                "role": "Helmeppo & Fossa",
+                "thumbnail": "http://thetvdb.com/banners/actors/313997.jpg"
+            },
+            {
+                "name": "Hidenobu Kiuchi",
+                "order": 48,
+                "role": "Nero",
+                "thumbnail": "http://thetvdb.com/banners/actors/313996.jpg"
+            },
+            {
+                "name": "Kumiko Watanabe",
+                "order": 49,
+                "role": "Fukurou",
+                "thumbnail": "http://thetvdb.com/banners/actors/313995.jpg"
+            },
+            {
+                "name": "Seiji Sasaki",
+                "order": 50,
+                "role": "Blueno & Squardo",
+                "thumbnail": "http://thetvdb.com/banners/actors/313992.jpg"
+            },
+            {
+                "name": "Sara Nakayama",
+                "order": 51,
+                "role": "Porche",
+                "thumbnail": "http://thetvdb.com/banners/actors/313990.jpg"
+            },
+            {
+                "name": "Kouji Yada",
+                "order": 52,
+                "role": "Zeff",
+                "thumbnail": "http://thetvdb.com/banners/actors/313974.jpg"
+            },
+            {
+                "name": "Haruna Ikezawa",
+                "order": 53,
+                "role": "Keimi",
+                "thumbnail": "http://thetvdb.com/banners/actors/313972.jpg"
+            },
+            {
+                "name": "Mariko Kouda",
+                "order": 54,
+                "role": "Kaya",
+                "thumbnail": "http://thetvdb.com/banners/actors/313971.jpg"
+            },
+            {
+                "name": "Hiroaki Miura",
+                "order": 55,
+                "role": "Absalom",
+                "thumbnail": "http://thetvdb.com/banners/actors/313970.jpg"
+            },
+            {
+                "name": "Michitaka Kobayashi",
+                "order": 56,
+                "role": "Yasopp",
+                "thumbnail": "http://thetvdb.com/banners/actors/313969.jpg"
+            },
+            {
+                "name": "Banjou Ginga",
+                "order": 57,
+                "role": "Captain Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/313968.jpg"
+            },
+            {
+                "name": "Taiki Matsuno",
+                "order": 58,
+                "role": "Lafitte & Achino Campacino",
+                "thumbnail": "http://thetvdb.com/banners/actors/313967.jpg"
+            },
+            {
+                "name": "Masakazu Morita",
+                "order": 59,
+                "role": "Marco",
+                "thumbnail": "http://thetvdb.com/banners/actors/313966.jpg"
+            },
+            {
+                "name": "Shinobu Satouchi",
+                "order": 60,
+                "role": "Carne",
+                "thumbnail": "http://thetvdb.com/banners/actors/313965.jpg"
+            },
+            {
+                "name": "Kenji Nojima",
+                "order": 61,
+                "role": "Pell",
+                "thumbnail": "http://thetvdb.com/banners/actors/313964.jpg"
+            },
+            {
+                "name": "Takahiro Yoshimizu",
+                "order": 62,
+                "role": "Paulie, Lacroix & Dosun",
+                "thumbnail": "http://thetvdb.com/banners/actors/313963.jpg"
+            },
+            {
+                "name": "Masaki Aizawa",
+                "order": 63,
+                "role": "Wiper",
+                "thumbnail": "http://thetvdb.com/banners/actors/313962.jpg"
+            },
+            {
+                "name": "Kumiko Nishihara",
+                "order": 64,
+                "role": "Kodama, Uzu & Perona",
+                "thumbnail": "http://thetvdb.com/banners/actors/313960.jpg"
+            },
+            {
+                "name": "Chiwa Saito",
+                "order": 65,
+                "role": "Chimney & Boa Sandersonia",
+                "thumbnail": "http://thetvdb.com/banners/actors/313958.jpg"
+            },
+            {
+                "name": "Ryotaro Okiayu",
+                "order": 66,
+                "role": "Kaku",
+                "thumbnail": "http://thetvdb.com/banners/actors/313957.jpg"
+            },
+            {
+                "name": "Naomi Shindo",
+                "order": 67,
+                "role": "Califa, Victoria Cindry, Domino, Kohza & Sabo's Mother",
+                "thumbnail": "http://thetvdb.com/banners/actors/313956.jpg"
+            },
+            {
+                "name": "Oikawa Izo",
+                "order": 68,
+                "role": "Iceburg",
+                "thumbnail": "http://thetvdb.com/banners/actors/313955.jpg"
+            },
+            {
+                "name": "Kishio Daisuke",
+                "order": 69,
+                "role": "Young Iceburg",
+                "thumbnail": "http://thetvdb.com/banners/actors/313954.jpg"
+            },
+            {
+                "name": "Shimada Bin",
+                "order": 70,
+                "role": "Foxy, Den & Wapol",
+                "thumbnail": "http://thetvdb.com/banners/actors/313952.jpg"
+            },
+            {
+                "name": "Nakagawa Akiko",
+                "order": 71,
+                "role": "Miss Goldenweek",
+                "thumbnail": "http://thetvdb.com/banners/actors/313951.jpg"
+            },
+            {
+                "name": "Orikasa Fumiko",
+                "order": 72,
+                "role": "Miss Valentine",
+                "thumbnail": "http://thetvdb.com/banners/actors/313950.jpg"
+            },
+            {
+                "name": "Makiko Oomoto",
+                "order": 73,
+                "role": "Miss Monday, Makino & Tamanegi",
+                "thumbnail": "http://thetvdb.com/banners/actors/313949.jpg"
+            },
+            {
+                "name": "Yasuhiro Takato",
+                "order": 74,
+                "role": "Mr. 9, Bepo, Peterman, Buchi, Satori & Wanze",
+                "thumbnail": "http://thetvdb.com/banners/actors/313948.jpg"
+            },
+            {
+                "name": "Suzuki Masami",
+                "order": 75,
+                "role": "Aisa, Ichika, Nika, Sanka, Yonka, Yonka Two & Apis",
+                "thumbnail": "http://thetvdb.com/banners/actors/313946.jpg"
+            },
+            {
+                "name": "Inada Tetsu",
+                "order": 76,
+                "role": "Jesus Burgess, Purinpurin, Patty, Daz Bones, Tilestone, Gu, Reik, Gorilla, Richie & Brogy",
+                "thumbnail": "http://thetvdb.com/banners/actors/313944.jpg"
+            },
+            {
+                "name": "Endo Moriya",
+                "order": 77,
+                "role": "Cabaji",
+                "thumbnail": "http://thetvdb.com/banners/actors/313943.jpg"
+            },
+            {
+                "name": "Soya Shigenori",
+                "order": 78,
+                "role": "Mohji & Hawkins, Basil",
+                "thumbnail": "http://thetvdb.com/banners/actors/313942.jpg"
+            },
+            {
+                "name": "Egawa Hisao",
+                "order": 79,
+                "role": "Kuroobi, Corgi, John Giant & Udaijin",
+                "thumbnail": "http://thetvdb.com/banners/actors/313941.jpg"
+            },
+            {
+                "name": "Tokuyama Yasuhiko",
+                "order": 80,
+                "role": "Yosaku & Brownbeard",
+                "thumbnail": "http://thetvdb.com/banners/actors/313940.jpg"
+            },
+            {
+                "name": "Takatsuka Masaya",
+                "order": 81,
+                "role": "Johnny, Mr. 5, Van Augur, Jyabura, Mr. 4, Gedatsu, Dias, Rivers, Vista, Stalker, Yokozuna, Ronse & Gyro",
+                "thumbnail": "http://thetvdb.com/banners/actors/313939.jpg"
+            },
+            {
+                "name": "Kouzou Shioya",
+                "order": 82,
+                "role": "Genzo & Pappag",
+                "thumbnail": "http://thetvdb.com/banners/actors/313938.jpg"
+            },
+            {
+                "name": "Masaya Onosaka",
+                "order": 83,
+                "role": "Chew, Spandam, Spandine, Meowban Sham & Yainu Nugire",
+                "thumbnail": "http://thetvdb.com/banners/actors/313937.jpg"
+            },
+            {
+                "name": "Hidaka Noriko",
+                "order": 84,
+                "role": "Bellemere",
+                "thumbnail": "http://thetvdb.com/banners/actors/313936.jpg"
+            },
+            {
+                "name": "Kosugi Jurota",
+                "order": 85,
+                "role": "Arlong",
+                "thumbnail": "http://thetvdb.com/banners/actors/313935.jpg"
+            },
+            {
+                "name": "Yoshida Hiroaki",
+                "order": 86,
+                "role": "Kumadori",
+                "thumbnail": "http://thetvdb.com/banners/actors/313934.jpg"
+            },
+            {
+                "name": "Hiyama Nobuyuki",
+                "order": 87,
+                "role": "Galdino",
+                "thumbnail": "http://thetvdb.com/banners/actors/313933.jpg"
+            },
+            {
+                "name": "Takagi Wataru",
+                "order": 88,
+                "role": "Bellamy & Decken IX Vander",
+                "thumbnail": "http://thetvdb.com/banners/actors/313931.jpg"
+            },
+            {
+                "name": "Urawa, Megumi",
+                "order": 90,
+                "role": "Young Zoro & Koala's mother",
+                "thumbnail": "http://thetvdb.com/banners/actors/313928.jpg"
+            },
+            {
+                "name": "Hiroshi Kamiya",
+                "order": 91,
+                "role": "Trafalgar Law & Eddy",
+                "thumbnail": "http://thetvdb.com/banners/actors/289262.jpg"
+            },
+            {
+                "name": "Noda Junko",
+                "order": 92,
+                "role": "Franky, Tashigi, Kappa & Haruta",
+                "thumbnail": "http://thetvdb.com/banners/actors/289261.jpg"
+            },
+            {
+                "name": "Mahito Ohba",
+                "order": 93,
+                "role": "Smoker, Pandaman, Pagaya, Bigpan & The Narrator",
+                "thumbnail": "http://thetvdb.com/banners/actors/289260.jpg"
+            },
+            {
+                "name": "Matsuo Ginzou",
+                "order": 94,
+                "role": "Smoker",
+                "thumbnail": "http://thetvdb.com/banners/actors/289259.jpg"
+            },
+            {
+                "name": "Ootomo Ryuuzaburou",
+                "order": 95,
+                "role": "Sir Crocodile",
+                "thumbnail": "http://thetvdb.com/banners/actors/289258.jpg"
+            },
+            {
+                "name": "Sonobe Keiichi",
+                "order": 96,
+                "role": "Silvers Rayleigh, Woop Slap, Mckinley, Terracotta, Mekao, Pasqua Rapanui & Igaram",
+                "thumbnail": "http://thetvdb.com/banners/actors/289257.jpg"
+            },
+            {
+                "name": "Takkou Ishimori",
+                "order": 97,
+                "role": "Sengoku",
+                "thumbnail": "http://thetvdb.com/banners/actors/289255.jpg"
+            },
+            {
+                "name": "Seki Tomokazu",
+                "order": 98,
+                "role": "Rob Lucci",
+                "thumbnail": "http://thetvdb.com/banners/actors/289254.jpg"
+            },
+            {
+                "name": "Watanabe Misa",
+                "order": 99,
+                "role": "Nefertari Vivi",
+                "thumbnail": "http://thetvdb.com/banners/actors/289252.jpg"
+            },
+            {
+                "name": "Ootsuka Akio",
+                "order": 100,
+                "role": "Marshall D. Teach",
+                "thumbnail": "http://thetvdb.com/banners/actors/289249.jpg"
+            },
+            {
+                "name": "Unshou Ishizuka",
+                "order": 101,
+                "role": "Koshirou, Borsalino & Kong",
+                "thumbnail": "http://thetvdb.com/banners/actors/289248.jpg"
+            },
+            {
+                "name": "Gouri Daisuke",
+                "order": 102,
+                "role": "Dorry, Rockstar & Jinbei (430-432)",
+                "thumbnail": "http://thetvdb.com/banners/actors/289247.jpg"
+            },
+            {
+                "name": "Houki Katsuhisa",
+                "order": 103,
+                "role": "Jinbei (440+) & Gecko Moria",
+                "thumbnail": "http://thetvdb.com/banners/actors/289246.jpg"
+            },
+            {
+                "name": "Namikawa Daisuke",
+                "order": 104,
+                "role": "Eustass Kid",
+                "thumbnail": "http://thetvdb.com/banners/actors/289244.jpg"
+            },
+            {
+                "name": "Morikawa Toshiyuki",
+                "order": 105,
+                "role": "Enel & Hatchu",
+                "thumbnail": "http://thetvdb.com/banners/actors/289243.jpg"
+            },
+            {
+                "name": "Iwata Mitsuo",
+                "order": 106,
+                "role": "Emporio Ivankov (461+)",
+                "thumbnail": "http://thetvdb.com/banners/actors/289242.jpg"
+            },
+            {
+                "name": "Imamura Norio",
+                "order": 107,
+                "role": "Emporio Ivankov (eps 438-460)",
+                "thumbnail": "http://thetvdb.com/banners/actors/289241.jpg"
+            },
+            {
+                "name": "Arimoto Kinryuu",
+                "order": 108,
+                "role": "Edward Newgate",
+                "thumbnail": "http://thetvdb.com/banners/actors/289240.jpg"
+            },
+            {
+                "name": "Aono Takeshi",
+                "order": 109,
+                "role": "Dracule Mihawk",
+                "thumbnail": "http://thetvdb.com/banners/actors/289239.jpg"
+            },
+            {
+                "name": "Tanaka Hideyuki",
+                "order": 110,
+                "role": "Donquixote Doflamingo",
+                "thumbnail": "http://thetvdb.com/banners/actors/289238.jpg"
+            },
+            {
+                "name": "Mika Doi",
+                "order": 111,
+                "role": "Coby",
+                "thumbnail": "http://thetvdb.com/banners/actors/289237.jpg"
+            },
+            {
+                "name": "Chiba Shigeru",
+                "order": 112,
+                "role": "Buggy the Clown & Woop Slap",
+                "thumbnail": "http://thetvdb.com/banners/actors/289236.jpg"
+            },
+            {
+                "name": "Mitsuishi Kotono",
+                "order": 113,
+                "role": "Boa Hancock",
+                "thumbnail": "http://thetvdb.com/banners/actors/289234.jpg"
+            },
+            {
+                "name": "Hori Hideyuki",
+                "order": 114,
+                "role": "Bartholomew Kuma",
+                "thumbnail": "http://thetvdb.com/banners/actors/289233.jpg"
+            },
+            {
+                "name": "Koyasu Takehito",
+                "order": 115,
+                "role": "Kuzan",
+                "thumbnail": "http://thetvdb.com/banners/actors/289232.jpg"
+            },
+            {
+                "name": "Nakao Michio",
+                "order": 116,
+                "role": "Akainu",
+                "thumbnail": "http://thetvdb.com/banners/actors/289231.jpg"
+            },
+            {
+                "name": "Hashimoto Kouichi",
+                "order": 234,
+                "role": "Kuro"
+            },
+            {
+                "name": "Hiroshi Iwasaki",
+                "order": 235,
+                "role": "Hogback, Caroline & Kumashi"
+            },
+            {
+                "name": "Kenichi Ono",
+                "order": 236,
+                "role": "Dalton, Gin, Mr. 11 & Wolf Sanjuan"
+            },
+            {
+                "name": "Kihachiro Uemura",
+                "order": 237,
+                "role": "Chaka"
+            },
+            {
+                "name": "Masako Nozawa",
+                "order": 238,
+                "role": "Dr. Kureha",
+                "thumbnail": "http://thetvdb.com/banners/actors/136811.jpg"
+            },
+            {
+                "name": "Matsuoka Yoko",
+                "order": 239,
+                "role": "Alvida"
+            },
+            {
+                "name": "Naka Hiroshi",
+                "order": 240,
+                "role": "Monkey D. Garp"
+            },
+            {
+                "name": "Noriko Yoshitake",
+                "order": 241,
+                "role": "Ninjin, Tamachibi & Negikuma Marie"
+            },
+            {
+                "name": "Reiko Kiuchi",
+                "order": 242,
+                "role": "Young Wiper & Bonney Jewelry"
+            },
+            {
+                "name": "Rieko Takahashi",
+                "order": 243,
+                "role": "Conis"
+            },
+            {
+                "name": "Shigeru Ushiyama",
+                "order": 244,
+                "role": "Dr. Hiluluk"
+            },
+            {
+                "name": "Tooru Oohira",
+                "order": 245,
+                "role": "Gaimon"
+            }
+        ],
+        "dateadded": "",
+        "episode": 0,
+        "episodeguide": "<episodeguide><url cache=\"81797-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/81797/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/81797-23.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/One Piece/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation",
+            "Comedy"
+        ],
+        "imdbnumber": "81797",
+        "label": "One Piece",
+        "lastplayed": "",
+        "mpaa": "TV-PG",
+        "originaltitle": "",
+        "playcount": 1,
+        "plot": "It was a time when pirates ruled the seas. Several bands of pirates were battling over the great hidden treasure, One Piece, which was left by the now legendary pirate captain, Gold Roger. There was a young boy who admired the pirates, his name was Monkey D. Luffy. One day, he mistakenly eats the devil's fruit and turns himself into a rubber human being.\r\n\r\nTen years have passed since that incident. Luffy sets out to sail all alone. He sets out to become a great pirate captain and that's when his great adventure begins. \"I'm going to be the Pirate King! I'm going to get One Piece!\".",
+        "premiered": "1999-10-20",
+        "rating": 9.100000381469727,
+        "season": 0,
+        "sorttitle": "",
+        "studio": [
+            "Fuji TV"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/81797-5.jpg",
+        "title": "One Piece",
+        "tvshowid": 60,
+        "votes": "331",
+        "watchedepisodes": 0,
+        "year": 1999
+    },
+    "episodes": {}
+}

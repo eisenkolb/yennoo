@@ -1,0 +1,1668 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/274431-g5.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+            "poster": "http://thetvdb.com/banners/posters/274431-17.jpg"
+        },
+        "cast": [
+            {
+                "name": "Benjamin McKenzie",
+                "order": 0,
+                "role": "Detective James Gordon",
+                "thumbnail": "http://thetvdb.com/banners/actors/336018.jpg"
+            },
+            {
+                "name": "Donal Logue",
+                "order": 1,
+                "role": "Detective Harvey Bullock",
+                "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+            },
+            {
+                "name": "David Mazouz",
+                "order": 2,
+                "role": "Bruce Wayne",
+                "thumbnail": "http://thetvdb.com/banners/actors/336011.jpg"
+            },
+            {
+                "name": "Robin Lord Taylor",
+                "order": 3,
+                "role": "Oswald \"Penguin\" Cobblepot",
+                "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+            },
+            {
+                "name": "Sean Pertwee",
+                "order": 4,
+                "role": "Alfred Pennyworth",
+                "thumbnail": "http://thetvdb.com/banners/actors/336009.jpg"
+            },
+            {
+                "name": "Zabryna Guevara",
+                "order": 5,
+                "role": "Captain Essen",
+                "thumbnail": "http://thetvdb.com/banners/actors/336008.jpg"
+            },
+            {
+                "name": "Jada Pinkett Smith",
+                "order": 6,
+                "role": "Fish Mooney",
+                "thumbnail": "http://thetvdb.com/banners/actors/336017.jpg"
+            },
+            {
+                "name": "Camren Bicondova",
+                "order": 7,
+                "role": "Selina \"Cat\" Kyle",
+                "thumbnail": "http://thetvdb.com/banners/actors/336014.jpg"
+            },
+            {
+                "name": "John Doman",
+                "order": 8,
+                "role": "Carmine Falcone",
+                "thumbnail": "http://thetvdb.com/banners/actors/336013.jpg"
+            },
+            {
+                "name": "Erin Richards",
+                "order": 9,
+                "role": "Barbara Kean",
+                "thumbnail": "http://thetvdb.com/banners/actors/336010.jpg"
+            },
+            {
+                "name": "Nicholas D’Agosto",
+                "order": 10,
+                "role": "Harvey Dent",
+                "thumbnail": "http://thetvdb.com/banners/actors/350171.jpg"
+            },
+            {
+                "name": "Morena Baccarin",
+                "order": 11,
+                "role": "Dr. Leslie Thompkins",
+                "thumbnail": "http://thetvdb.com/banners/actors/318686.jpg"
+            },
+            {
+                "name": "Carol Kane",
+                "order": 12,
+                "role": "Gertrude Kapelput",
+                "thumbnail": "http://thetvdb.com/banners/actors/347034.jpg"
+            },
+            {
+                "name": "Clare Foley",
+                "order": 13,
+                "role": "Ivy Pepper",
+                "thumbnail": "http://thetvdb.com/banners/actors/345956.jpg"
+            },
+            {
+                "name": "Victoria Cartagena",
+                "order": 14,
+                "role": "Renee Montoya",
+                "thumbnail": "http://thetvdb.com/banners/actors/336020.jpg"
+            },
+            {
+                "name": "Cory Michael Smith",
+                "order": 15,
+                "role": "Edward Nygma",
+                "thumbnail": "http://thetvdb.com/banners/actors/336016.jpg"
+            },
+            {
+                "name": "Andrew Stewart Jones",
+                "order": 16,
+                "role": "Crispus Allen",
+                "thumbnail": "http://thetvdb.com/banners/actors/336015.jpg"
+            }
+        ],
+        "dateadded": "2015-03-27 15:04:50",
+        "episode": 8,
+        "episodeguide": "<episodeguide><url cache=\"274431-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/274431/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "imdbnumber": "274431",
+        "label": "Gotham",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "An action-drama series following rookie detective James Gordon as he battles villains and corruption in pre-Batman Gotham City.",
+        "premiered": "2014-09-22",
+        "rating": 8.399999618530273,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "FOX (US)"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/274431-17.jpg",
+        "title": "Gotham",
+        "tvshowid": 35,
+        "votes": "87",
+        "watchedepisodes": 0,
+        "year": 2014
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274431/4768720.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274431-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274431-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "John Doman",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336013.jpg"
+                    },
+                    {
+                        "name": "Richard Kind",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Victoria Cartagena",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336020.jpg"
+                    },
+                    {
+                        "name": "Andrew Stewart-Jones",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Drew Powell",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Daniel Stewart Sherman",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Kostroff",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Grayson McCouch",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brette Taylor",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Clare Foley",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345956.jpg"
+                    },
+                    {
+                        "name": "Victor Cruz",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jon Beavers",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Benjamin McKenzie",
+                        "order": 0,
+                        "role": "Detective James Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336018.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 1,
+                        "role": "Detective Harvey Bullock",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "David Mazouz",
+                        "order": 2,
+                        "role": "Bruce Wayne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336011.jpg"
+                    },
+                    {
+                        "name": "Robin Lord Taylor",
+                        "order": 3,
+                        "role": "Oswald \"Penguin\" Cobblepot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                    },
+                    {
+                        "name": "Sean Pertwee",
+                        "order": 4,
+                        "role": "Alfred Pennyworth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336009.jpg"
+                    },
+                    {
+                        "name": "Zabryna Guevara",
+                        "order": 5,
+                        "role": "Captain Essen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336008.jpg"
+                    },
+                    {
+                        "name": "Jada Pinkett Smith",
+                        "order": 6,
+                        "role": "Fish Mooney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336017.jpg"
+                    },
+                    {
+                        "name": "Camren Bicondova",
+                        "order": 7,
+                        "role": "Selina \"Cat\" Kyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336014.jpg"
+                    },
+                    {
+                        "name": "Erin Richards",
+                        "order": 9,
+                        "role": "Barbara Kean",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336010.jpg"
+                    },
+                    {
+                        "name": "Nicholas D’Agosto",
+                        "order": 10,
+                        "role": "Harvey Dent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350171.jpg"
+                    },
+                    {
+                        "name": "Morena Baccarin",
+                        "order": 11,
+                        "role": "Dr. Leslie Thompkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318686.jpg"
+                    },
+                    {
+                        "name": "Carol Kane",
+                        "order": 12,
+                        "role": "Gertrude Kapelput",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347034.jpg"
+                    },
+                    {
+                        "name": "Cory Michael Smith",
+                        "order": 15,
+                        "role": "Edward Nygma",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336016.jpg"
+                    },
+                    {
+                        "name": "Andrew Stewart Jones",
+                        "order": 16,
+                        "role": "Crispus Allen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336015.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-15 17:49:08",
+                "director": [
+                    "Danny Cannon"
+                ],
+                "episode": 1,
+                "episodeid": 573,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E01.Jim.Gordon.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL (1).mkv",
+                "firstaired": "2014-09-22",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Detective James Gordon performs his work in the dangerously corrupt city of Gotham, which consistently teeters between good and evil.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Gotham",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274431/4768720.jpg",
+                "title": "Pilot",
+                "tvshowid": 35,
+                "uniqueid": {
+                    "unknown": "4768720"
+                },
+                "votes": "77",
+                "writer": [
+                    "Bruno Heller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274431/4989335.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274431-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274431-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Lili Taylor",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300981.jpg"
+                    },
+                    {
+                        "name": "Richard Kind",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Drew Powell",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Wayne Duvall",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kyle Massey",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joe Starr",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joseph Latimore",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Carol Kane",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347034.jpg"
+                    },
+                    {
+                        "name": "Frank Whaley",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Benjamin McKenzie",
+                        "order": 0,
+                        "role": "Detective James Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336018.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 1,
+                        "role": "Detective Harvey Bullock",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "David Mazouz",
+                        "order": 2,
+                        "role": "Bruce Wayne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336011.jpg"
+                    },
+                    {
+                        "name": "Robin Lord Taylor",
+                        "order": 3,
+                        "role": "Oswald \"Penguin\" Cobblepot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                    },
+                    {
+                        "name": "Sean Pertwee",
+                        "order": 4,
+                        "role": "Alfred Pennyworth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336009.jpg"
+                    },
+                    {
+                        "name": "Zabryna Guevara",
+                        "order": 5,
+                        "role": "Captain Essen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336008.jpg"
+                    },
+                    {
+                        "name": "Jada Pinkett Smith",
+                        "order": 6,
+                        "role": "Fish Mooney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336017.jpg"
+                    },
+                    {
+                        "name": "Camren Bicondova",
+                        "order": 7,
+                        "role": "Selina \"Cat\" Kyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336014.jpg"
+                    },
+                    {
+                        "name": "John Doman",
+                        "order": 8,
+                        "role": "Carmine Falcone",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336013.jpg"
+                    },
+                    {
+                        "name": "Erin Richards",
+                        "order": 9,
+                        "role": "Barbara Kean",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336010.jpg"
+                    },
+                    {
+                        "name": "Nicholas D’Agosto",
+                        "order": 10,
+                        "role": "Harvey Dent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350171.jpg"
+                    },
+                    {
+                        "name": "Morena Baccarin",
+                        "order": 11,
+                        "role": "Dr. Leslie Thompkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318686.jpg"
+                    },
+                    {
+                        "name": "Clare Foley",
+                        "order": 13,
+                        "role": "Ivy Pepper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345956.jpg"
+                    },
+                    {
+                        "name": "Victoria Cartagena",
+                        "order": 14,
+                        "role": "Renee Montoya",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336020.jpg"
+                    },
+                    {
+                        "name": "Cory Michael Smith",
+                        "order": 15,
+                        "role": "Edward Nygma",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336016.jpg"
+                    },
+                    {
+                        "name": "Andrew Stewart Jones",
+                        "order": 16,
+                        "role": "Crispus Allen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336015.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-15 17:49:57",
+                "director": [
+                    "Danny Cannon"
+                ],
+                "episode": 2,
+                "episodeid": 574,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E02.Selina.Kyle.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "firstaired": "2014-09-29",
+                "label": "1x02. Selina Kyle",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Detectives Gordon and Bullock investigate a child trafficking ring preying on Gotham's street kids, including Selina Kyle. Penguin resurfaces in the countryside and begins to make his way back to Gotham.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Gotham",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274431/4989335.jpg",
+                "title": "Selina Kyle",
+                "tvshowid": 35,
+                "uniqueid": {
+                    "unknown": "4989335"
+                },
+                "votes": "62",
+                "writer": [
+                    "Bruno Heller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274431/4997657.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274431-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274431-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "David Zayas",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dan Bakkedahl",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oAZhhAPfh9maSN7airJZUaJXh60.jpg"
+                    },
+                    {
+                        "name": "Clark Middleton",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Colby",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jack Koenig",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michelangelo Milano",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Benjamin McKenzie",
+                        "order": 0,
+                        "role": "Detective James Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336018.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 1,
+                        "role": "Detective Harvey Bullock",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "David Mazouz",
+                        "order": 2,
+                        "role": "Bruce Wayne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336011.jpg"
+                    },
+                    {
+                        "name": "Robin Lord Taylor",
+                        "order": 3,
+                        "role": "Oswald \"Penguin\" Cobblepot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                    },
+                    {
+                        "name": "Sean Pertwee",
+                        "order": 4,
+                        "role": "Alfred Pennyworth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336009.jpg"
+                    },
+                    {
+                        "name": "Zabryna Guevara",
+                        "order": 5,
+                        "role": "Captain Essen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336008.jpg"
+                    },
+                    {
+                        "name": "Jada Pinkett Smith",
+                        "order": 6,
+                        "role": "Fish Mooney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336017.jpg"
+                    },
+                    {
+                        "name": "Camren Bicondova",
+                        "order": 7,
+                        "role": "Selina \"Cat\" Kyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336014.jpg"
+                    },
+                    {
+                        "name": "John Doman",
+                        "order": 8,
+                        "role": "Carmine Falcone",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336013.jpg"
+                    },
+                    {
+                        "name": "Erin Richards",
+                        "order": 9,
+                        "role": "Barbara Kean",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336010.jpg"
+                    },
+                    {
+                        "name": "Nicholas D’Agosto",
+                        "order": 10,
+                        "role": "Harvey Dent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350171.jpg"
+                    },
+                    {
+                        "name": "Morena Baccarin",
+                        "order": 11,
+                        "role": "Dr. Leslie Thompkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318686.jpg"
+                    },
+                    {
+                        "name": "Carol Kane",
+                        "order": 12,
+                        "role": "Gertrude Kapelput",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347034.jpg"
+                    },
+                    {
+                        "name": "Clare Foley",
+                        "order": 13,
+                        "role": "Ivy Pepper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345956.jpg"
+                    },
+                    {
+                        "name": "Victoria Cartagena",
+                        "order": 14,
+                        "role": "Renee Montoya",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336020.jpg"
+                    },
+                    {
+                        "name": "Cory Michael Smith",
+                        "order": 15,
+                        "role": "Edward Nygma",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336016.jpg"
+                    },
+                    {
+                        "name": "Andrew Stewart Jones",
+                        "order": 16,
+                        "role": "Crispus Allen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336015.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-20 21:22:37",
+                "director": [
+                    "Dermott Downs"
+                ],
+                "episode": 3,
+                "episodeid": 575,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E03.Der.Ballonmann.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "firstaired": "2014-10-06",
+                "label": "1x03. The Balloonman",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Gordon and Bullock track down a vigilante who uses weather balloons to kill corrupt citizens; Cobblepot gets a job close to a major figure in the underworld.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Gotham",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274431/4997657.jpg",
+                "title": "The Balloonman",
+                "tvshowid": 35,
+                "uniqueid": {
+                    "unknown": "4997657"
+                },
+                "votes": "64",
+                "writer": [
+                    "John Stephens"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274431/5001058.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274431-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274431-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "David Zayas",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Richard Kind",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Drew Powell",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Hakeem Kae-Kazim",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/322867.jpg"
+                    },
+                    {
+                        "name": "Makenzie Leigh",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Danny Mastrogiorgio",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brad Calcaterra",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Evander Duck Jr.",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Benjamin McKenzie",
+                        "order": 0,
+                        "role": "Detective James Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336018.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 1,
+                        "role": "Detective Harvey Bullock",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "David Mazouz",
+                        "order": 2,
+                        "role": "Bruce Wayne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336011.jpg"
+                    },
+                    {
+                        "name": "Robin Lord Taylor",
+                        "order": 3,
+                        "role": "Oswald \"Penguin\" Cobblepot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                    },
+                    {
+                        "name": "Sean Pertwee",
+                        "order": 4,
+                        "role": "Alfred Pennyworth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336009.jpg"
+                    },
+                    {
+                        "name": "Zabryna Guevara",
+                        "order": 5,
+                        "role": "Captain Essen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336008.jpg"
+                    },
+                    {
+                        "name": "Jada Pinkett Smith",
+                        "order": 6,
+                        "role": "Fish Mooney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336017.jpg"
+                    },
+                    {
+                        "name": "Camren Bicondova",
+                        "order": 7,
+                        "role": "Selina \"Cat\" Kyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336014.jpg"
+                    },
+                    {
+                        "name": "John Doman",
+                        "order": 8,
+                        "role": "Carmine Falcone",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336013.jpg"
+                    },
+                    {
+                        "name": "Erin Richards",
+                        "order": 9,
+                        "role": "Barbara Kean",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336010.jpg"
+                    },
+                    {
+                        "name": "Nicholas D’Agosto",
+                        "order": 10,
+                        "role": "Harvey Dent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350171.jpg"
+                    },
+                    {
+                        "name": "Morena Baccarin",
+                        "order": 11,
+                        "role": "Dr. Leslie Thompkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318686.jpg"
+                    },
+                    {
+                        "name": "Carol Kane",
+                        "order": 12,
+                        "role": "Gertrude Kapelput",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347034.jpg"
+                    },
+                    {
+                        "name": "Clare Foley",
+                        "order": 13,
+                        "role": "Ivy Pepper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345956.jpg"
+                    },
+                    {
+                        "name": "Victoria Cartagena",
+                        "order": 14,
+                        "role": "Renee Montoya",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336020.jpg"
+                    },
+                    {
+                        "name": "Cory Michael Smith",
+                        "order": 15,
+                        "role": "Edward Nygma",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336016.jpg"
+                    },
+                    {
+                        "name": "Andrew Stewart Jones",
+                        "order": 16,
+                        "role": "Crispus Allen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336015.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-28 20:06:33",
+                "director": [
+                    "T.J. Scott"
+                ],
+                "episode": 4,
+                "episodeid": 576,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E04.Arkham.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "firstaired": "2014-10-13",
+                "label": "1x04. Arkham",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Politicians on both sides of the Arkham district issue are in danger as the vote approaches; Gordon gets a visit from an old friend.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Gotham",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274431/5001058.jpg",
+                "title": "Arkham",
+                "tvshowid": 35,
+                "uniqueid": {
+                    "unknown": "5001058"
+                },
+                "votes": "62",
+                "writer": [
+                    "Ken Woodruff"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274431/5006533.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274431-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274431-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "David Zayas",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Makenzie Leigh",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Danny Mastrogiorgio",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Daniel London",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kett Turton",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Genevieve Hudson-Price",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Peter Maloney",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cJcE9Oc4GYu0oeAqrrcP68vs3vf.jpg"
+                    },
+                    {
+                        "name": "Sharon Washington",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jeremy Davidson",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Margaret Colin",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Benjamin McKenzie",
+                        "order": 0,
+                        "role": "Detective James Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336018.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 1,
+                        "role": "Detective Harvey Bullock",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "David Mazouz",
+                        "order": 2,
+                        "role": "Bruce Wayne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336011.jpg"
+                    },
+                    {
+                        "name": "Robin Lord Taylor",
+                        "order": 3,
+                        "role": "Oswald \"Penguin\" Cobblepot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                    },
+                    {
+                        "name": "Sean Pertwee",
+                        "order": 4,
+                        "role": "Alfred Pennyworth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336009.jpg"
+                    },
+                    {
+                        "name": "Zabryna Guevara",
+                        "order": 5,
+                        "role": "Captain Essen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336008.jpg"
+                    },
+                    {
+                        "name": "Jada Pinkett Smith",
+                        "order": 6,
+                        "role": "Fish Mooney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336017.jpg"
+                    },
+                    {
+                        "name": "Camren Bicondova",
+                        "order": 7,
+                        "role": "Selina \"Cat\" Kyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336014.jpg"
+                    },
+                    {
+                        "name": "John Doman",
+                        "order": 8,
+                        "role": "Carmine Falcone",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336013.jpg"
+                    },
+                    {
+                        "name": "Erin Richards",
+                        "order": 9,
+                        "role": "Barbara Kean",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336010.jpg"
+                    },
+                    {
+                        "name": "Nicholas D’Agosto",
+                        "order": 10,
+                        "role": "Harvey Dent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350171.jpg"
+                    },
+                    {
+                        "name": "Morena Baccarin",
+                        "order": 11,
+                        "role": "Dr. Leslie Thompkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318686.jpg"
+                    },
+                    {
+                        "name": "Carol Kane",
+                        "order": 12,
+                        "role": "Gertrude Kapelput",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347034.jpg"
+                    },
+                    {
+                        "name": "Clare Foley",
+                        "order": 13,
+                        "role": "Ivy Pepper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345956.jpg"
+                    },
+                    {
+                        "name": "Victoria Cartagena",
+                        "order": 14,
+                        "role": "Renee Montoya",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336020.jpg"
+                    },
+                    {
+                        "name": "Cory Michael Smith",
+                        "order": 15,
+                        "role": "Edward Nygma",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336016.jpg"
+                    },
+                    {
+                        "name": "Andrew Stewart Jones",
+                        "order": 16,
+                        "role": "Crispus Allen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336015.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-07 20:26:06",
+                "director": [
+                    "Tim Hunter"
+                ],
+                "episode": 5,
+                "episodeid": 577,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E05.Viper.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "firstaired": "2014-10-20",
+                "label": "1x05. Viper",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Gordon and Bullock search for the source of a new street drug that causes euphoria then death. Oswald Cobblepot works his way deeper into Maroni's inner circle. Fish Mooney continues to plot against Falcone.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Gotham",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274431/5006533.jpg",
+                "title": "Viper",
+                "tvshowid": 35,
+                "uniqueid": {
+                    "unknown": "5006533"
+                },
+                "votes": "57",
+                "writer": [
+                    "Rebecca Perry Cutter"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274431/5009588.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274431-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274431-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Susan Misner",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Christopher James Baker",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kim Director",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brian O'Neill",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Carol Kane",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347034.jpg"
+                    },
+                    {
+                        "name": "Dan Hedaya",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Benjamin McKenzie",
+                        "order": 0,
+                        "role": "Detective James Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336018.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 1,
+                        "role": "Detective Harvey Bullock",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "David Mazouz",
+                        "order": 2,
+                        "role": "Bruce Wayne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336011.jpg"
+                    },
+                    {
+                        "name": "Robin Lord Taylor",
+                        "order": 3,
+                        "role": "Oswald \"Penguin\" Cobblepot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                    },
+                    {
+                        "name": "Sean Pertwee",
+                        "order": 4,
+                        "role": "Alfred Pennyworth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336009.jpg"
+                    },
+                    {
+                        "name": "Zabryna Guevara",
+                        "order": 5,
+                        "role": "Captain Essen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336008.jpg"
+                    },
+                    {
+                        "name": "Jada Pinkett Smith",
+                        "order": 6,
+                        "role": "Fish Mooney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336017.jpg"
+                    },
+                    {
+                        "name": "Camren Bicondova",
+                        "order": 7,
+                        "role": "Selina \"Cat\" Kyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336014.jpg"
+                    },
+                    {
+                        "name": "John Doman",
+                        "order": 8,
+                        "role": "Carmine Falcone",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336013.jpg"
+                    },
+                    {
+                        "name": "Erin Richards",
+                        "order": 9,
+                        "role": "Barbara Kean",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336010.jpg"
+                    },
+                    {
+                        "name": "Nicholas D’Agosto",
+                        "order": 10,
+                        "role": "Harvey Dent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350171.jpg"
+                    },
+                    {
+                        "name": "Morena Baccarin",
+                        "order": 11,
+                        "role": "Dr. Leslie Thompkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318686.jpg"
+                    },
+                    {
+                        "name": "Clare Foley",
+                        "order": 13,
+                        "role": "Ivy Pepper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345956.jpg"
+                    },
+                    {
+                        "name": "Victoria Cartagena",
+                        "order": 14,
+                        "role": "Renee Montoya",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336020.jpg"
+                    },
+                    {
+                        "name": "Cory Michael Smith",
+                        "order": 15,
+                        "role": "Edward Nygma",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336016.jpg"
+                    },
+                    {
+                        "name": "Andrew Stewart Jones",
+                        "order": 16,
+                        "role": "Crispus Allen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336015.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-14 14:01:36",
+                "director": [
+                    "T.J. Scott"
+                ],
+                "episode": 6,
+                "episodeid": 578,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E06.Der.Geist.der.Ziege.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "firstaired": "2014-10-27",
+                "label": "1x06. Spirit of the Goat",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a killer begins targeting the first born of Gotham's elite, Bullock is forced to confront traumatic memories from a nearly identical case he worked in the past. Gordon is confronted by past decisions.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Gotham",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274431/5009588.jpg",
+                "title": "Spirit of the Goat",
+                "tvshowid": 35,
+                "uniqueid": {
+                    "unknown": "5009588"
+                },
+                "votes": "54",
+                "writer": [
+                    "Ben Edlund"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274431/5009589.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274431-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274431-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "David Zayas",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Richard Kind",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Drew Powell",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jeremy Davidson",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Makenzie Leigh",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Danny Mastrogiorgio",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Anthony Carrigan",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mekia Cox",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Benjamin McKenzie",
+                        "order": 0,
+                        "role": "Detective James Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336018.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 1,
+                        "role": "Detective Harvey Bullock",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "David Mazouz",
+                        "order": 2,
+                        "role": "Bruce Wayne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336011.jpg"
+                    },
+                    {
+                        "name": "Robin Lord Taylor",
+                        "order": 3,
+                        "role": "Oswald \"Penguin\" Cobblepot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                    },
+                    {
+                        "name": "Sean Pertwee",
+                        "order": 4,
+                        "role": "Alfred Pennyworth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336009.jpg"
+                    },
+                    {
+                        "name": "Zabryna Guevara",
+                        "order": 5,
+                        "role": "Captain Essen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336008.jpg"
+                    },
+                    {
+                        "name": "Jada Pinkett Smith",
+                        "order": 6,
+                        "role": "Fish Mooney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336017.jpg"
+                    },
+                    {
+                        "name": "Camren Bicondova",
+                        "order": 7,
+                        "role": "Selina \"Cat\" Kyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336014.jpg"
+                    },
+                    {
+                        "name": "John Doman",
+                        "order": 8,
+                        "role": "Carmine Falcone",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336013.jpg"
+                    },
+                    {
+                        "name": "Erin Richards",
+                        "order": 9,
+                        "role": "Barbara Kean",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336010.jpg"
+                    },
+                    {
+                        "name": "Nicholas D’Agosto",
+                        "order": 10,
+                        "role": "Harvey Dent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350171.jpg"
+                    },
+                    {
+                        "name": "Morena Baccarin",
+                        "order": 11,
+                        "role": "Dr. Leslie Thompkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318686.jpg"
+                    },
+                    {
+                        "name": "Carol Kane",
+                        "order": 12,
+                        "role": "Gertrude Kapelput",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347034.jpg"
+                    },
+                    {
+                        "name": "Clare Foley",
+                        "order": 13,
+                        "role": "Ivy Pepper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345956.jpg"
+                    },
+                    {
+                        "name": "Victoria Cartagena",
+                        "order": 14,
+                        "role": "Renee Montoya",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336020.jpg"
+                    },
+                    {
+                        "name": "Cory Michael Smith",
+                        "order": 15,
+                        "role": "Edward Nygma",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336016.jpg"
+                    },
+                    {
+                        "name": "Andrew Stewart Jones",
+                        "order": 16,
+                        "role": "Crispus Allen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336015.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-20 18:12:30",
+                "director": [
+                    "Rob Bailey"
+                ],
+                "episode": 7,
+                "episodeid": 579,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E07.Pinguins.Regenschirm.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "firstaired": "2014-11-03",
+                "label": "1x07. Penguin's Umbrella",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As violence between Maroni and Falcone continues to escalate, Penguin reveals a new element of his manipulative strategy, forcing Gordon to deal with the consequences of his decision to spare Penguin’s life.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Gotham",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274431/5009589.jpg",
+                "title": "Penguin's Umbrella",
+                "tvshowid": 35,
+                "uniqueid": {
+                    "unknown": "5009589"
+                },
+                "votes": "46",
+                "writer": [
+                    "Bruno Heller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/274431/5027920.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/274431-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274431-17.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Todd Stashwick",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Makenzie Leigh",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cole Vallis",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Frank Deal",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/k0Gn9ZgMuUQ0jFeVuvK6Vyh14ZU.jpg"
+                    },
+                    {
+                        "name": "Orlagh Cassidy",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Carol Kane",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347034.jpg"
+                    },
+                    {
+                        "name": "Benjamin McKenzie",
+                        "order": 0,
+                        "role": "Detective James Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336018.jpg"
+                    },
+                    {
+                        "name": "Donal Logue",
+                        "order": 1,
+                        "role": "Detective Harvey Bullock",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                    },
+                    {
+                        "name": "David Mazouz",
+                        "order": 2,
+                        "role": "Bruce Wayne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336011.jpg"
+                    },
+                    {
+                        "name": "Robin Lord Taylor",
+                        "order": 3,
+                        "role": "Oswald \"Penguin\" Cobblepot",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                    },
+                    {
+                        "name": "Sean Pertwee",
+                        "order": 4,
+                        "role": "Alfred Pennyworth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336009.jpg"
+                    },
+                    {
+                        "name": "Zabryna Guevara",
+                        "order": 5,
+                        "role": "Captain Essen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336008.jpg"
+                    },
+                    {
+                        "name": "Jada Pinkett Smith",
+                        "order": 6,
+                        "role": "Fish Mooney",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336017.jpg"
+                    },
+                    {
+                        "name": "Camren Bicondova",
+                        "order": 7,
+                        "role": "Selina \"Cat\" Kyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336014.jpg"
+                    },
+                    {
+                        "name": "John Doman",
+                        "order": 8,
+                        "role": "Carmine Falcone",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336013.jpg"
+                    },
+                    {
+                        "name": "Erin Richards",
+                        "order": 9,
+                        "role": "Barbara Kean",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336010.jpg"
+                    },
+                    {
+                        "name": "Nicholas D’Agosto",
+                        "order": 10,
+                        "role": "Harvey Dent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350171.jpg"
+                    },
+                    {
+                        "name": "Morena Baccarin",
+                        "order": 11,
+                        "role": "Dr. Leslie Thompkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318686.jpg"
+                    },
+                    {
+                        "name": "Clare Foley",
+                        "order": 13,
+                        "role": "Ivy Pepper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345956.jpg"
+                    },
+                    {
+                        "name": "Victoria Cartagena",
+                        "order": 14,
+                        "role": "Renee Montoya",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336020.jpg"
+                    },
+                    {
+                        "name": "Cory Michael Smith",
+                        "order": 15,
+                        "role": "Edward Nygma",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336016.jpg"
+                    },
+                    {
+                        "name": "Andrew Stewart Jones",
+                        "order": 16,
+                        "role": "Crispus Allen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336015.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-27 15:04:50",
+                "director": [
+                    "Paul A. Edwards"
+                ],
+                "episode": 8,
+                "episodeid": 580,
+                "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E08.Die.Maske.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "firstaired": "2014-11-10",
+                "label": "1x08. The Mask",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Gordon and Bullock investigate a Gothamite who runs a deadly fight club for candidates applying for a job at his financial firm. Meanwhile, Bruce returns to school and gets a visit from a new friend.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Gotham",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/274431/5027920.jpg",
+                "title": "The Mask",
+                "tvshowid": 35,
+                "uniqueid": {
+                    "unknown": "5027920"
+                },
+                "votes": "42",
+                "writer": [
+                    "John Stephens"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/274431-1-5.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/274431-g5.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/274431-17.jpg"
+            },
+            "episode": 8,
+            "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 184,
+            "showtitle": "Gotham",
+            "thumbnail": "http://thetvdb.com/banners/seasons/274431-1-5.jpg",
+            "tvshowid": 35,
+            "watchedepisodes": 0
+        }
+    ]
+}

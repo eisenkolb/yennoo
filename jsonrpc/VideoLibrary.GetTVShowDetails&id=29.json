@@ -1,0 +1,1120 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/79334-g6.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+            "poster": "http://thetvdb.com/banners/posters/79334-5.jpg"
+        },
+        "cast": [
+            {
+                "name": "Colin Ferguson",
+                "order": 0,
+                "role": "Sheriff Jack Carter",
+                "thumbnail": "http://thetvdb.com/banners/actors/331090.jpg"
+            },
+            {
+                "name": "Salli Richardson-Whitfield",
+                "order": 1,
+                "role": "Allison Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/70867.jpg"
+            },
+            {
+                "name": "Joe Morton",
+                "order": 2,
+                "role": "Henry Deacon",
+                "thumbnail": "http://thetvdb.com/banners/actors/70871.jpg"
+            },
+            {
+                "name": "Niall Matter",
+                "order": 3,
+                "role": "Zane Donovan",
+                "thumbnail": "http://thetvdb.com/banners/actors/78174.jpg"
+            },
+            {
+                "name": "Frances Fisher",
+                "order": 4,
+                "role": "Eva Thorne",
+                "thumbnail": "http://thetvdb.com/banners/actors/78173.jpg"
+            },
+            {
+                "name": "Neil Grayston",
+                "order": 5,
+                "role": "Douglas Fargo",
+                "thumbnail": "http://thetvdb.com/banners/actors/78172.jpg"
+            },
+            {
+                "name": "Debrah Farentino",
+                "order": 6,
+                "role": "Beverly Barlow",
+                "thumbnail": "http://thetvdb.com/banners/actors/70873.jpg"
+            },
+            {
+                "name": "Erica Cerra",
+                "order": 7,
+                "role": "Josefina \"Jo\" Lupo",
+                "thumbnail": "http://thetvdb.com/banners/actors/70872.jpg"
+            },
+            {
+                "name": "Matt Frewer",
+                "order": 8,
+                "role": "Jim Taggart",
+                "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+            },
+            {
+                "name": "Ed Quinn",
+                "order": 9,
+                "role": "Nathan Stark",
+                "thumbnail": "http://thetvdb.com/banners/actors/70869.jpg"
+            },
+            {
+                "name": "Jordan Hinson",
+                "order": 10,
+                "role": "Zoe Carter",
+                "thumbnail": "http://thetvdb.com/banners/actors/70868.jpg"
+            },
+            {
+                "name": "Christopher Jacot",
+                "order": 11,
+                "role": "Larry Haberman",
+                "thumbnail": "http://thetvdb.com/banners/actors/298295.jpg"
+            },
+            {
+                "name": "Trevor Jackson",
+                "order": 12,
+                "role": "Kevin Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/298294.jpg"
+            },
+            {
+                "name": "Kavan Smith",
+                "order": 13,
+                "role": "Deputy Andy 2.0",
+                "thumbnail": "http://thetvdb.com/banners/actors/328142.jpg"
+            },
+            {
+                "name": "Jaime Ray Newman",
+                "order": 14,
+                "role": "Dr. Tess Fontana",
+                "thumbnail": "http://thetvdb.com/banners/actors/298181.jpg"
+            },
+            {
+                "name": "James Callis",
+                "order": 15,
+                "role": "Dr. Trevor Grant",
+                "thumbnail": "http://thetvdb.com/banners/actors/298180.jpg"
+            },
+            {
+                "name": "Wil Wheaton",
+                "order": 16,
+                "role": "Isaac Parrish",
+                "thumbnail": "http://thetvdb.com/banners/actors/297834.jpg"
+            },
+            {
+                "name": "Meshach Peters",
+                "order": 17,
+                "role": "Kevin Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/297833.jpg"
+            },
+            {
+                "name": "Tembi Locke",
+                "order": 18,
+                "role": "Grace Monroe",
+                "thumbnail": "http://thetvdb.com/banners/actors/297823.jpg"
+            },
+            {
+                "name": "Felicia Day",
+                "order": 19,
+                "role": "Holly Marten",
+                "thumbnail": "http://thetvdb.com/banners/actors/312842.jpg"
+            },
+            {
+                "name": "Chris Gauthier",
+                "order": 20,
+                "role": "Vincent",
+                "thumbnail": "http://thetvdb.com/banners/actors/104751.jpg"
+            }
+        ],
+        "dateadded": "2012-10-01 22:38:10",
+        "episode": 5,
+        "episodeguide": "<episodeguide><url cache=\"79334-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/79334/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Eureka/",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Science-Fiction"
+        ],
+        "imdbnumber": "79334",
+        "label": "Eureka",
+        "lastplayed": "",
+        "mpaa": "TV-PG",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "The sleepy Pacific Northwest town of Eureka is hiding a mysterious secret. The government has been relocating the world’s geniuses and their families to this rustic town for years where innovation and chaos have lived hand in hand. U.S. Marshal Jack Carter (Colin Ferguson) stumbles upon this odd town after wrecking his car and becoming stranded there. When the denizens of the town unleash an unknown scientific creation, Carter jumps in to try to restore order and consequently learns of one of the country’s best kept secrets.",
+        "premiered": "2006-07-18",
+        "rating": 8.600000381469727,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "SciFi"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/79334-5.jpg",
+        "title": "Eureka",
+        "tvshowid": 29,
+        "votes": "340",
+        "watchedepisodes": 0,
+        "year": 2006
+    },
+    "episodes": {
+        "5": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/79334/4217669.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/79334-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/79334-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kavan Smith",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328142.jpg"
+                    },
+                    {
+                        "name": "Felicia Day",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312842.jpg"
+                    },
+                    {
+                        "name": "Tembi Locke",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297823.jpg"
+                    },
+                    {
+                        "name": "Chris Gauthier",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/104751.jpg"
+                    },
+                    {
+                        "name": "Jordenn Thompson",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Wil Wheaton",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297834.jpg"
+                    },
+                    {
+                        "name": "Colin Ferguson",
+                        "order": 0,
+                        "role": "Sheriff Jack Carter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331090.jpg"
+                    },
+                    {
+                        "name": "Salli Richardson-Whitfield",
+                        "order": 1,
+                        "role": "Allison Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70867.jpg"
+                    },
+                    {
+                        "name": "Joe Morton",
+                        "order": 2,
+                        "role": "Henry Deacon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70871.jpg"
+                    },
+                    {
+                        "name": "Niall Matter",
+                        "order": 3,
+                        "role": "Zane Donovan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78174.jpg"
+                    },
+                    {
+                        "name": "Frances Fisher",
+                        "order": 4,
+                        "role": "Eva Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78173.jpg"
+                    },
+                    {
+                        "name": "Neil Grayston",
+                        "order": 5,
+                        "role": "Douglas Fargo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78172.jpg"
+                    },
+                    {
+                        "name": "Debrah Farentino",
+                        "order": 6,
+                        "role": "Beverly Barlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70873.jpg"
+                    },
+                    {
+                        "name": "Erica Cerra",
+                        "order": 7,
+                        "role": "Josefina \"Jo\" Lupo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70872.jpg"
+                    },
+                    {
+                        "name": "Matt Frewer",
+                        "order": 8,
+                        "role": "Jim Taggart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+                    },
+                    {
+                        "name": "Ed Quinn",
+                        "order": 9,
+                        "role": "Nathan Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70869.jpg"
+                    },
+                    {
+                        "name": "Jordan Hinson",
+                        "order": 10,
+                        "role": "Zoe Carter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70868.jpg"
+                    },
+                    {
+                        "name": "Christopher Jacot",
+                        "order": 11,
+                        "role": "Larry Haberman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298295.jpg"
+                    },
+                    {
+                        "name": "Trevor Jackson",
+                        "order": 12,
+                        "role": "Kevin Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298294.jpg"
+                    },
+                    {
+                        "name": "Jaime Ray Newman",
+                        "order": 14,
+                        "role": "Dr. Tess Fontana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298181.jpg"
+                    },
+                    {
+                        "name": "James Callis",
+                        "order": 15,
+                        "role": "Dr. Trevor Grant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298180.jpg"
+                    },
+                    {
+                        "name": "Meshach Peters",
+                        "order": 17,
+                        "role": "Kevin Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297833.jpg"
+                    }
+                ],
+                "dateadded": "2012-09-18 19:11:54",
+                "director": [
+                    "Matt Hastings"
+                ],
+                "episode": 1,
+                "episodeid": 366,
+                "fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Eureka/Season 5/Eureka.S05E01.Die.Zeitverschiebung.German.Dubbed.WS.WEB-DL.XviD-GDR.avi",
+                "firstaired": "2012-04-16",
+                "label": "5x01. Lost",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The Astraeus crew returns to Eureka four years later and must adapt to a myriad of changes, including a more oppressive version of Deputy Andy.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 5,
+                "showtitle": "Eureka",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/79334/4217669.jpg",
+                "title": "Lost",
+                "tvshowid": 29,
+                "uniqueid": {
+                    "unknown": "4217669"
+                },
+                "votes": "116",
+                "writer": [
+                    "Jaime Paglia"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/79334/4232273.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/79334-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/79334-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ming-Na Wen",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Felicia Day",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312842.jpg"
+                    },
+                    {
+                        "name": "Debrah Farentino",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70873.jpg"
+                    },
+                    {
+                        "name": "Martin Cummins",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Benjamin Ratner",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tembi Locke",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297823.jpg"
+                    },
+                    {
+                        "name": "Trevor Jackson",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298294.jpg"
+                    },
+                    {
+                        "name": "Kavan Smith",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328142.jpg"
+                    },
+                    {
+                        "name": "Chris Gauthier",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/104751.jpg"
+                    },
+                    {
+                        "name": "Jordenn Thompson",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Paula Lindberg",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Christina Sicoli",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Colin Ferguson",
+                        "order": 0,
+                        "role": "Sheriff Jack Carter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331090.jpg"
+                    },
+                    {
+                        "name": "Salli Richardson-Whitfield",
+                        "order": 1,
+                        "role": "Allison Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70867.jpg"
+                    },
+                    {
+                        "name": "Joe Morton",
+                        "order": 2,
+                        "role": "Henry Deacon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70871.jpg"
+                    },
+                    {
+                        "name": "Niall Matter",
+                        "order": 3,
+                        "role": "Zane Donovan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78174.jpg"
+                    },
+                    {
+                        "name": "Frances Fisher",
+                        "order": 4,
+                        "role": "Eva Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78173.jpg"
+                    },
+                    {
+                        "name": "Neil Grayston",
+                        "order": 5,
+                        "role": "Douglas Fargo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78172.jpg"
+                    },
+                    {
+                        "name": "Erica Cerra",
+                        "order": 7,
+                        "role": "Josefina \"Jo\" Lupo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70872.jpg"
+                    },
+                    {
+                        "name": "Matt Frewer",
+                        "order": 8,
+                        "role": "Jim Taggart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+                    },
+                    {
+                        "name": "Ed Quinn",
+                        "order": 9,
+                        "role": "Nathan Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70869.jpg"
+                    },
+                    {
+                        "name": "Jordan Hinson",
+                        "order": 10,
+                        "role": "Zoe Carter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70868.jpg"
+                    },
+                    {
+                        "name": "Christopher Jacot",
+                        "order": 11,
+                        "role": "Larry Haberman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298295.jpg"
+                    },
+                    {
+                        "name": "Jaime Ray Newman",
+                        "order": 14,
+                        "role": "Dr. Tess Fontana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298181.jpg"
+                    },
+                    {
+                        "name": "James Callis",
+                        "order": 15,
+                        "role": "Dr. Trevor Grant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298180.jpg"
+                    },
+                    {
+                        "name": "Wil Wheaton",
+                        "order": 16,
+                        "role": "Isaac Parrish",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297834.jpg"
+                    },
+                    {
+                        "name": "Meshach Peters",
+                        "order": 17,
+                        "role": "Kevin Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297833.jpg"
+                    }
+                ],
+                "dateadded": "2012-09-18 19:16:23",
+                "director": [
+                    "Michael Robison"
+                ],
+                "episode": 2,
+                "episodeid": 367,
+                "fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Eureka/Season 5/Eureka.S05E02.Die.Wahrheit.German.Dubbed.WS.WEB-DL.XviD-GDR.avi",
+                "firstaired": "2012-04-23",
+                "label": "5x02. The Real Thing",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Carter and Andy are jailed for trying to steal a piece of equipment to complete a device that Kevin has assembled to search for the Astraeus crew. Meanwhile, Holly comes up with a dangerous theory.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 5,
+                "showtitle": "Eureka",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/79334/4232273.jpg",
+                "title": "The Real Thing",
+                "tvshowid": 29,
+                "uniqueid": {
+                    "unknown": "4232273"
+                },
+                "votes": "109",
+                "writer": [
+                    "Bruce Miller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/79334/4232274.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/79334-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/79334-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ming-Na Wen",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Debrah Farentino",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70873.jpg"
+                    },
+                    {
+                        "name": "Martin Cummins",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tembi Locke",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297823.jpg"
+                    },
+                    {
+                        "name": "Trevor Jackson",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298294.jpg"
+                    },
+                    {
+                        "name": "Kavan Smith",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328142.jpg"
+                    },
+                    {
+                        "name": "Chris Gauthier",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/104751.jpg"
+                    },
+                    {
+                        "name": "Jordenn Thompson",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Colin Ferguson",
+                        "order": 0,
+                        "role": "Sheriff Jack Carter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331090.jpg"
+                    },
+                    {
+                        "name": "Salli Richardson-Whitfield",
+                        "order": 1,
+                        "role": "Allison Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70867.jpg"
+                    },
+                    {
+                        "name": "Joe Morton",
+                        "order": 2,
+                        "role": "Henry Deacon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70871.jpg"
+                    },
+                    {
+                        "name": "Niall Matter",
+                        "order": 3,
+                        "role": "Zane Donovan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78174.jpg"
+                    },
+                    {
+                        "name": "Frances Fisher",
+                        "order": 4,
+                        "role": "Eva Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78173.jpg"
+                    },
+                    {
+                        "name": "Neil Grayston",
+                        "order": 5,
+                        "role": "Douglas Fargo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78172.jpg"
+                    },
+                    {
+                        "name": "Erica Cerra",
+                        "order": 7,
+                        "role": "Josefina \"Jo\" Lupo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70872.jpg"
+                    },
+                    {
+                        "name": "Matt Frewer",
+                        "order": 8,
+                        "role": "Jim Taggart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+                    },
+                    {
+                        "name": "Ed Quinn",
+                        "order": 9,
+                        "role": "Nathan Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70869.jpg"
+                    },
+                    {
+                        "name": "Jordan Hinson",
+                        "order": 10,
+                        "role": "Zoe Carter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70868.jpg"
+                    },
+                    {
+                        "name": "Christopher Jacot",
+                        "order": 11,
+                        "role": "Larry Haberman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298295.jpg"
+                    },
+                    {
+                        "name": "Jaime Ray Newman",
+                        "order": 14,
+                        "role": "Dr. Tess Fontana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298181.jpg"
+                    },
+                    {
+                        "name": "James Callis",
+                        "order": 15,
+                        "role": "Dr. Trevor Grant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298180.jpg"
+                    },
+                    {
+                        "name": "Wil Wheaton",
+                        "order": 16,
+                        "role": "Isaac Parrish",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297834.jpg"
+                    },
+                    {
+                        "name": "Meshach Peters",
+                        "order": 17,
+                        "role": "Kevin Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297833.jpg"
+                    },
+                    {
+                        "name": "Felicia Day",
+                        "order": 19,
+                        "role": "Holly Marten",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312842.jpg"
+                    }
+                ],
+                "dateadded": "2012-09-19 16:53:47",
+                "director": [
+                    "Michael Rohl"
+                ],
+                "episode": 3,
+                "episodeid": 368,
+                "fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Eureka/Season 5/Eureka.S05E03.avi",
+                "firstaired": "2012-04-30",
+                "label": "5x03. Force Quit",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Carter and Jo continue their search for the missing Astraeus crew. A surprising source confirms the new theory of the disaster, and offers to help them rescue the crew. Meanwhile, back at the lab, lives are at risk as more of the crew comes closer to the truth of their situation.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 5,
+                "showtitle": "Eureka",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/79334/4232274.jpg",
+                "title": "Force Quit",
+                "tvshowid": 29,
+                "uniqueid": {
+                    "unknown": "4232274"
+                },
+                "votes": "106",
+                "writer": [
+                    "Ron Milbauer",
+                    "Terri Hughes Burton"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/79334/4232275.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/79334-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/79334-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Tembi Locke",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297823.jpg"
+                    },
+                    {
+                        "name": "Trevor Jackson",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298294.jpg"
+                    },
+                    {
+                        "name": "Kavan Smith",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328142.jpg"
+                    },
+                    {
+                        "name": "Chris Gauthier",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/104751.jpg"
+                    },
+                    {
+                        "name": "Christopher Jacot",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298295.jpg"
+                    },
+                    {
+                        "name": "Wil Wheaton",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297834.jpg"
+                    },
+                    {
+                        "name": "Colin Ferguson",
+                        "order": 0,
+                        "role": "Sheriff Jack Carter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331090.jpg"
+                    },
+                    {
+                        "name": "Salli Richardson-Whitfield",
+                        "order": 1,
+                        "role": "Allison Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70867.jpg"
+                    },
+                    {
+                        "name": "Joe Morton",
+                        "order": 2,
+                        "role": "Henry Deacon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70871.jpg"
+                    },
+                    {
+                        "name": "Niall Matter",
+                        "order": 3,
+                        "role": "Zane Donovan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78174.jpg"
+                    },
+                    {
+                        "name": "Frances Fisher",
+                        "order": 4,
+                        "role": "Eva Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78173.jpg"
+                    },
+                    {
+                        "name": "Neil Grayston",
+                        "order": 5,
+                        "role": "Douglas Fargo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78172.jpg"
+                    },
+                    {
+                        "name": "Debrah Farentino",
+                        "order": 6,
+                        "role": "Beverly Barlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70873.jpg"
+                    },
+                    {
+                        "name": "Erica Cerra",
+                        "order": 7,
+                        "role": "Josefina \"Jo\" Lupo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70872.jpg"
+                    },
+                    {
+                        "name": "Matt Frewer",
+                        "order": 8,
+                        "role": "Jim Taggart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+                    },
+                    {
+                        "name": "Ed Quinn",
+                        "order": 9,
+                        "role": "Nathan Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70869.jpg"
+                    },
+                    {
+                        "name": "Jordan Hinson",
+                        "order": 10,
+                        "role": "Zoe Carter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70868.jpg"
+                    },
+                    {
+                        "name": "Jaime Ray Newman",
+                        "order": 14,
+                        "role": "Dr. Tess Fontana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298181.jpg"
+                    },
+                    {
+                        "name": "James Callis",
+                        "order": 15,
+                        "role": "Dr. Trevor Grant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298180.jpg"
+                    },
+                    {
+                        "name": "Meshach Peters",
+                        "order": 17,
+                        "role": "Kevin Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297833.jpg"
+                    },
+                    {
+                        "name": "Felicia Day",
+                        "order": 19,
+                        "role": "Holly Marten",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312842.jpg"
+                    }
+                ],
+                "dateadded": "2012-09-20 16:55:16",
+                "director": [
+                    "Michael Rohl"
+                ],
+                "episode": 4,
+                "episodeid": 369,
+                "fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Eureka/Season 5/Eureka.S05E04.avi",
+                "firstaired": "2012-05-07",
+                "label": "5x04. Friendly Fire",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a smart fire experiment gets out of control, Carter and team discover that the Astraeus victims may be the cause. Meanwhile, Fargo deals with Holly's death, Grace struggles to maintain her relationship with Henry, and Allison fights her feelings about Jo.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 5,
+                "showtitle": "Eureka",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/79334/4232275.jpg",
+                "title": "Friendly Fire",
+                "tvshowid": 29,
+                "uniqueid": {
+                    "unknown": "4232275"
+                },
+                "votes": "100",
+                "writer": [
+                    "Amy Berg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/79334/4232276.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/79334-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/79334-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Tembi Locke",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297823.jpg"
+                    },
+                    {
+                        "name": "Chris Gauthier",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/104751.jpg"
+                    },
+                    {
+                        "name": "Wallace Shawn",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Colin Ferguson",
+                        "order": 0,
+                        "role": "Sheriff Jack Carter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/331090.jpg"
+                    },
+                    {
+                        "name": "Salli Richardson-Whitfield",
+                        "order": 1,
+                        "role": "Allison Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70867.jpg"
+                    },
+                    {
+                        "name": "Joe Morton",
+                        "order": 2,
+                        "role": "Henry Deacon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70871.jpg"
+                    },
+                    {
+                        "name": "Niall Matter",
+                        "order": 3,
+                        "role": "Zane Donovan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78174.jpg"
+                    },
+                    {
+                        "name": "Frances Fisher",
+                        "order": 4,
+                        "role": "Eva Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78173.jpg"
+                    },
+                    {
+                        "name": "Neil Grayston",
+                        "order": 5,
+                        "role": "Douglas Fargo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/78172.jpg"
+                    },
+                    {
+                        "name": "Debrah Farentino",
+                        "order": 6,
+                        "role": "Beverly Barlow",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70873.jpg"
+                    },
+                    {
+                        "name": "Erica Cerra",
+                        "order": 7,
+                        "role": "Josefina \"Jo\" Lupo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70872.jpg"
+                    },
+                    {
+                        "name": "Matt Frewer",
+                        "order": 8,
+                        "role": "Jim Taggart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+                    },
+                    {
+                        "name": "Ed Quinn",
+                        "order": 9,
+                        "role": "Nathan Stark",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70869.jpg"
+                    },
+                    {
+                        "name": "Jordan Hinson",
+                        "order": 10,
+                        "role": "Zoe Carter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70868.jpg"
+                    },
+                    {
+                        "name": "Christopher Jacot",
+                        "order": 11,
+                        "role": "Larry Haberman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298295.jpg"
+                    },
+                    {
+                        "name": "Trevor Jackson",
+                        "order": 12,
+                        "role": "Kevin Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298294.jpg"
+                    },
+                    {
+                        "name": "Kavan Smith",
+                        "order": 13,
+                        "role": "Deputy Andy 2.0",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328142.jpg"
+                    },
+                    {
+                        "name": "Jaime Ray Newman",
+                        "order": 14,
+                        "role": "Dr. Tess Fontana",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298181.jpg"
+                    },
+                    {
+                        "name": "James Callis",
+                        "order": 15,
+                        "role": "Dr. Trevor Grant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298180.jpg"
+                    },
+                    {
+                        "name": "Wil Wheaton",
+                        "order": 16,
+                        "role": "Isaac Parrish",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297834.jpg"
+                    },
+                    {
+                        "name": "Meshach Peters",
+                        "order": 17,
+                        "role": "Kevin Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/297833.jpg"
+                    },
+                    {
+                        "name": "Felicia Day",
+                        "order": 19,
+                        "role": "Holly Marten",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312842.jpg"
+                    }
+                ],
+                "dateadded": "2012-10-01 22:38:10",
+                "director": [
+                    "Jaime Paglia"
+                ],
+                "episode": 5,
+                "episodeid": 370,
+                "fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Eureka/Season 5/Eureka.S05E05.Koerpertausch.DL.German.Dubbed.WS.WEBRiP.XviD-FREAKS.avi",
+                "firstaired": "2012-05-14",
+                "label": "5x05. Jack of All Trades",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jack starts to swap bodies uncontrollably, which puts both his body and his consciousness in awkward situations. Meanwhile, Warren Hughes returns to GD to evaluate Astraeus crew members' reactions to their abductions. Elsewhere, Zane's quest for answers from the Matrix reveals disturbing results for both him and Fargo.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 5,
+                "showtitle": "Eureka",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/79334/4232276.jpg",
+                "title": "Jack of All Trades",
+                "tvshowid": 29,
+                "uniqueid": {
+                    "unknown": "4232276"
+                },
+                "votes": "101",
+                "writer": [
+                    "Eric Wallace",
+                    "Jaime Paglia"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/79334-5.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/79334-5-6.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/79334-g6.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/79334-5.jpg"
+            },
+            "episode": 5,
+            "fanart": "http://thetvdb.com/banners/fanart/original/79334-18.jpg",
+            "label": "Staffel 5",
+            "playcount": 0,
+            "season": 5,
+            "seasonid": 146,
+            "showtitle": "Eureka",
+            "thumbnail": "http://thetvdb.com/banners/seasons/79334-5-6.jpg",
+            "tvshowid": 29,
+            "watchedepisodes": 0
+        }
+    ]
+}

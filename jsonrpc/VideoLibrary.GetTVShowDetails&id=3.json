@@ -1,0 +1,918 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/210841-g5.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+            "poster": "http://thetvdb.com/banners/posters/210841-8.jpg"
+        },
+        "cast": [
+            {
+                "name": "Warren Christie",
+                "order": 0,
+                "role": "Cameron Hicks",
+                "thumbnail": "http://thetvdb.com/banners/actors/253841.jpg"
+            },
+            {
+                "name": "Laura Mennell",
+                "order": 1,
+                "role": "Nina Theroux",
+                "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+            },
+            {
+                "name": "Azita Ghanizada",
+                "order": 2,
+                "role": "Rachel Pirzad",
+                "thumbnail": "http://thetvdb.com/banners/actors/253801.jpg"
+            },
+            {
+                "name": "David Strathairn",
+                "order": 3,
+                "role": "Dr. Lee Rosen",
+                "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+            },
+            {
+                "name": "Ryan Cartwright",
+                "order": 4,
+                "role": "Gary Bell",
+                "thumbnail": "http://thetvdb.com/banners/actors/253821.jpg"
+            },
+            {
+                "name": "Malik Yoba",
+                "order": 5,
+                "role": "Bill Harken",
+                "thumbnail": "http://thetvdb.com/banners/actors/253831.jpg"
+            },
+            {
+                "name": "Erin Way",
+                "order": 6,
+                "role": "Kat",
+                "thumbnail": "http://thetvdb.com/banners/actors/302266.jpg"
+            },
+            {
+                "name": "Mahershala Ali",
+                "order": 7,
+                "role": "Nathan Clay",
+                "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+            },
+            {
+                "name": "Skyler Wexler",
+                "order": 16,
+                "role": "Zoe",
+                "thumbnail": "http://thetvdb.com/banners/actors/333187.jpg"
+            }
+        ],
+        "dateadded": "2013-03-17 12:23:02",
+        "episode": 6,
+        "episodeguide": "<episodeguide><url cache=\"210841-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/210841/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/",
+        "genre": [
+            "Action",
+            "Drama",
+            "Science-Fiction"
+        ],
+        "imdbnumber": "210841",
+        "label": "Alphas",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Alphas is an action-packed thriller about five ordinary people who are brought together to form one extraordinary team of Alphas -- people with the unique power to stretch the capabilities of the human mind giving them superhuman physical and mental abilities.",
+        "premiered": "2011-07-11",
+        "rating": 7.800000190734863,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Syfy"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/210841-8.jpg",
+        "title": "Alphas",
+        "tvshowid": 3,
+        "votes": "77",
+        "watchedepisodes": 0,
+        "year": 2011
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/210841/4040201.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/210841-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/210841-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jeff Seymour",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Callum Keith Rennie",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/slLsdWFDpxueDbV0l1QWK2gG24x.jpg"
+                    },
+                    {
+                        "name": "Joe Pingue",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4ePqYUDKEh0Fxa2s7bfzoCpmsCK.jpg"
+                    },
+                    {
+                        "name": "Jane Moffat",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Daniel Kash",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Crawford",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Warren Christie",
+                        "order": 0,
+                        "role": "Cameron Hicks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253841.jpg"
+                    },
+                    {
+                        "name": "Laura Mennell",
+                        "order": 1,
+                        "role": "Nina Theroux",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                    },
+                    {
+                        "name": "Azita Ghanizada",
+                        "order": 2,
+                        "role": "Rachel Pirzad",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253801.jpg"
+                    },
+                    {
+                        "name": "David Strathairn",
+                        "order": 3,
+                        "role": "Dr. Lee Rosen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                    },
+                    {
+                        "name": "Ryan Cartwright",
+                        "order": 4,
+                        "role": "Gary Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253821.jpg"
+                    },
+                    {
+                        "name": "Malik Yoba",
+                        "order": 5,
+                        "role": "Bill Harken",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253831.jpg"
+                    },
+                    {
+                        "name": "Erin Way",
+                        "order": 6,
+                        "role": "Kat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302266.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Nathan Clay",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                    },
+                    {
+                        "name": "Skyler Wexler",
+                        "order": 16,
+                        "role": "Zoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333187.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-03 15:08:02",
+                "director": [
+                    "Jack Bender"
+                ],
+                "episode": 1,
+                "episodeid": 20,
+                "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/Season 1/Alphas.S01E01.avi",
+                "firstaired": "2011-07-11",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Operating within the Defense Criminal Investigation Service of the U.S. Department of Defense and led by preeminent neurologist and psychiatrist Dr. Lee Rosen, an expert in Alpha phenomena, the team investigates cases that point to others with Alpha abilities. As they work against the clock to solve this new brand of crime, they must prevent their own personality differences and disparate backgrounds from interfering with their ultimate mission to catch the enemy.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alphas",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/210841/4040201.jpg",
+                "title": "Pilot",
+                "tvshowid": 3,
+                "uniqueid": {
+                    "unknown": "4040201"
+                },
+                "votes": "167",
+                "writer": [
+                    "Zak Penn",
+                    "Michael Karnow"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/210841/4129999.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/210841-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/210841-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Valerie Cruz",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kathleen Gati",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Will McCormack",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                    },
+                    {
+                        "name": "Raoul Bhajena",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Deborah O'Dell",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Warren Christie",
+                        "order": 0,
+                        "role": "Cameron Hicks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253841.jpg"
+                    },
+                    {
+                        "name": "Laura Mennell",
+                        "order": 1,
+                        "role": "Nina Theroux",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                    },
+                    {
+                        "name": "Azita Ghanizada",
+                        "order": 2,
+                        "role": "Rachel Pirzad",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253801.jpg"
+                    },
+                    {
+                        "name": "David Strathairn",
+                        "order": 3,
+                        "role": "Dr. Lee Rosen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                    },
+                    {
+                        "name": "Ryan Cartwright",
+                        "order": 4,
+                        "role": "Gary Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253821.jpg"
+                    },
+                    {
+                        "name": "Malik Yoba",
+                        "order": 5,
+                        "role": "Bill Harken",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253831.jpg"
+                    },
+                    {
+                        "name": "Erin Way",
+                        "order": 6,
+                        "role": "Kat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302266.jpg"
+                    },
+                    {
+                        "name": "Skyler Wexler",
+                        "order": 16,
+                        "role": "Zoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333187.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-03 16:45:28",
+                "director": [
+                    "Constantine Makris"
+                ],
+                "episode": 2,
+                "episodeid": 21,
+                "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/Season 1/Alphas.S01E02.Ursache.und.Wirkung.GERMAN.Dubbed.DVDRiP.XviD-idTV.avi",
+                "firstaired": "2011-07-18",
+                "label": "1x02. Cause & Effect",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A problematic former patient of Rosen's escapes as Rosen is getting acquainted with his Department of Defense liaison, and the rest of the team tries to balance their normal lives with their work as Alphas.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alphas",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/210841/4129999.jpg",
+                "title": "Cause & Effect",
+                "tvshowid": 3,
+                "uniqueid": {
+                    "unknown": "4129999"
+                },
+                "votes": "145",
+                "writer": [
+                    "Julie Siege"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/210841/4130000.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/210841-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/210841-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Devon Graye",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tatiana Maslany",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310607.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                    },
+                    {
+                        "name": "Callum Keith Rennie",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/slLsdWFDpxueDbV0l1QWK2gG24x.jpg"
+                    },
+                    {
+                        "name": "Kathleen Gati",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Bill Lake",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Warren Christie",
+                        "order": 0,
+                        "role": "Cameron Hicks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253841.jpg"
+                    },
+                    {
+                        "name": "Laura Mennell",
+                        "order": 1,
+                        "role": "Nina Theroux",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                    },
+                    {
+                        "name": "Azita Ghanizada",
+                        "order": 2,
+                        "role": "Rachel Pirzad",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253801.jpg"
+                    },
+                    {
+                        "name": "David Strathairn",
+                        "order": 3,
+                        "role": "Dr. Lee Rosen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                    },
+                    {
+                        "name": "Ryan Cartwright",
+                        "order": 4,
+                        "role": "Gary Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253821.jpg"
+                    },
+                    {
+                        "name": "Malik Yoba",
+                        "order": 5,
+                        "role": "Bill Harken",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253831.jpg"
+                    },
+                    {
+                        "name": "Erin Way",
+                        "order": 6,
+                        "role": "Kat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302266.jpg"
+                    },
+                    {
+                        "name": "Skyler Wexler",
+                        "order": 16,
+                        "role": "Zoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333187.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-03 19:51:11",
+                "director": [
+                    "Nick Copus"
+                ],
+                "episode": 3,
+                "episodeid": 22,
+                "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/Season 1/Alphas.S01E03.Aggressionsbewaeltigung.GERMAN.Dubbed.DVDRiP.XviD-idTV.avi",
+                "firstaired": "2011-07-25",
+                "label": "1x03. Anger Management",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The team moves to new offices following the attack on Rosen; violent riots break out on the east coast, which are linked to a runaway teen.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alphas",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/210841/4130000.jpg",
+                "title": "Anger Management",
+                "tvshowid": 3,
+                "uniqueid": {
+                    "unknown": "4130000"
+                },
+                "votes": "133",
+                "writer": [
+                    "Ira Steven Behr",
+                    "Robert Hewitt Wolfe"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/210841/4130005.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/210841-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/210841-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Valerie Cruz",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Liane Balaban",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jane Moffat",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dean Armstrong",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mike Tyrell",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Warren Christie",
+                        "order": 0,
+                        "role": "Cameron Hicks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253841.jpg"
+                    },
+                    {
+                        "name": "Laura Mennell",
+                        "order": 1,
+                        "role": "Nina Theroux",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                    },
+                    {
+                        "name": "Azita Ghanizada",
+                        "order": 2,
+                        "role": "Rachel Pirzad",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253801.jpg"
+                    },
+                    {
+                        "name": "David Strathairn",
+                        "order": 3,
+                        "role": "Dr. Lee Rosen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                    },
+                    {
+                        "name": "Ryan Cartwright",
+                        "order": 4,
+                        "role": "Gary Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253821.jpg"
+                    },
+                    {
+                        "name": "Malik Yoba",
+                        "order": 5,
+                        "role": "Bill Harken",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253831.jpg"
+                    },
+                    {
+                        "name": "Erin Way",
+                        "order": 6,
+                        "role": "Kat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302266.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Nathan Clay",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                    },
+                    {
+                        "name": "Skyler Wexler",
+                        "order": 16,
+                        "role": "Zoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333187.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-17 11:10:59",
+                "director": [
+                    "Karen Gaviola"
+                ],
+                "episode": 4,
+                "episodeid": 23,
+                "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/Season 1/Alphas.S01E04.Rosetta.GERMAN.Dubbed.DVDRiP.XviD-idTV.avi",
+                "firstaired": "2011-08-01",
+                "label": "1x04. Rosetta",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The Alpha team closes in on Red Flag and rescues an autistic woman, Anna, with the ability to translate any language. The team tries to figure out Red Flag’s plan while Gary bonds with Anna.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alphas",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/210841/4130005.jpg",
+                "title": "Rosetta",
+                "tvshowid": 3,
+                "uniqueid": {
+                    "unknown": "4130005"
+                },
+                "votes": "117",
+                "writer": [
+                    "Zak Penn"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/210841/4130006.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/210841-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/210841-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Isabella Hofmann",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kathleen Gati",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lindsay Wagner",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Shane Daly",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Sparrow",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Steve Lund",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "John White",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Warren Christie",
+                        "order": 0,
+                        "role": "Cameron Hicks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253841.jpg"
+                    },
+                    {
+                        "name": "Laura Mennell",
+                        "order": 1,
+                        "role": "Nina Theroux",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                    },
+                    {
+                        "name": "Azita Ghanizada",
+                        "order": 2,
+                        "role": "Rachel Pirzad",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253801.jpg"
+                    },
+                    {
+                        "name": "David Strathairn",
+                        "order": 3,
+                        "role": "Dr. Lee Rosen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                    },
+                    {
+                        "name": "Ryan Cartwright",
+                        "order": 4,
+                        "role": "Gary Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253821.jpg"
+                    },
+                    {
+                        "name": "Malik Yoba",
+                        "order": 5,
+                        "role": "Bill Harken",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253831.jpg"
+                    },
+                    {
+                        "name": "Erin Way",
+                        "order": 6,
+                        "role": "Kat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302266.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Nathan Clay",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                    },
+                    {
+                        "name": "Skyler Wexler",
+                        "order": 16,
+                        "role": "Zoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333187.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-17 11:12:11",
+                "director": [
+                    "Jeffrey Hunt"
+                ],
+                "episode": 5,
+                "episodeid": 24,
+                "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/Season 1/Alphas.S01E05.Zu.viel.Liebe.GERMAN.Dubbed.DVDRiP.XviD-idTV.avi",
+                "firstaired": "2011-08-08",
+                "label": "1x05. Never Let Me Go",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Rachel goes on a date that ends with a powerful kiss; Rosen's team officially joins the Defense Criminal Investigation Service, and their first case is to probe a series of deaths linked to a high school in Pennsylvania.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alphas",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/210841/4130006.jpg",
+                "title": "Never Let Me Go",
+                "tvshowid": 3,
+                "uniqueid": {
+                    "unknown": "4130006"
+                },
+                "votes": "124",
+                "writer": [
+                    "Jordan Rosenberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/210841/4130009.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/210841-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/210841-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Garret Dillahunt",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Daniel Kash",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kathleen Gati",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Neil Girvan",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ethan Hektor",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dmitry Chepovetsky",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maria Nahri",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Peter DaCunha",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Warren Christie",
+                        "order": 0,
+                        "role": "Cameron Hicks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253841.jpg"
+                    },
+                    {
+                        "name": "Laura Mennell",
+                        "order": 1,
+                        "role": "Nina Theroux",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                    },
+                    {
+                        "name": "Azita Ghanizada",
+                        "order": 2,
+                        "role": "Rachel Pirzad",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253801.jpg"
+                    },
+                    {
+                        "name": "David Strathairn",
+                        "order": 3,
+                        "role": "Dr. Lee Rosen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                    },
+                    {
+                        "name": "Ryan Cartwright",
+                        "order": 4,
+                        "role": "Gary Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253821.jpg"
+                    },
+                    {
+                        "name": "Malik Yoba",
+                        "order": 5,
+                        "role": "Bill Harken",
+                        "thumbnail": "http://thetvdb.com/banners/actors/253831.jpg"
+                    },
+                    {
+                        "name": "Erin Way",
+                        "order": 6,
+                        "role": "Kat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/302266.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Nathan Clay",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                    },
+                    {
+                        "name": "Skyler Wexler",
+                        "order": 16,
+                        "role": "Zoe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333187.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-17 12:23:02",
+                "director": [
+                    "John Showalter"
+                ],
+                "episode": 8,
+                "episodeid": 25,
+                "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/Season 1/Alphas.S01E08.Paradies.in.Flammen.GERMAN.Dubbed.DVDRiP.XviD-idTV.mp4",
+                "firstaired": "2011-08-29",
+                "label": "1x08. A Short Time in Paradise",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Hicks and Nina are entranced by a deadly cult leader named Jonas.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alphas",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/210841/4130009.jpg",
+                "title": "A Short Time in Paradise",
+                "tvshowid": 3,
+                "uniqueid": {
+                    "unknown": "4130009"
+                },
+                "votes": "101",
+                "writer": [
+                    "Michael Chamoy"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/210841-1-6.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/210841-g5.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/210841-8.jpg"
+            },
+            "episode": 6,
+            "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 17,
+            "showtitle": "Alphas",
+            "thumbnail": "http://thetvdb.com/banners/seasons/210841-1-6.jpg",
+            "tvshowid": 3,
+            "watchedepisodes": 0
+        }
+    ]
+}

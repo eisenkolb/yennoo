@@ -1,0 +1,750 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/258823-g10.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/258823-2.jpg",
+            "poster": "http://thetvdb.com/banners/posters/258823-8.jpg"
+        },
+        "cast": [
+            {
+                "name": "Tracy Spiridakos",
+                "order": 0,
+                "role": "Charlie Matheson",
+                "thumbnail": "http://thetvdb.com/banners/actors/298682.jpg"
+            },
+            {
+                "name": "Billy Burke",
+                "order": 1,
+                "role": "Miles Matheson",
+                "thumbnail": "http://thetvdb.com/banners/actors/298683.jpg"
+            },
+            {
+                "name": "David Lyons",
+                "order": 2,
+                "role": "Sebastian \"Bass\" Monroe",
+                "thumbnail": "http://thetvdb.com/banners/actors/304223.jpg"
+            },
+            {
+                "name": "Mark Pellegrino",
+                "order": 3,
+                "role": "Captain Jeremy Baker",
+                "thumbnail": "http://thetvdb.com/banners/actors/321391.jpg"
+            },
+            {
+                "name": "Stephen Collins",
+                "order": 4,
+                "role": "Dr. Gene Porter",
+                "thumbnail": "http://thetvdb.com/banners/actors/318885.jpg"
+            },
+            {
+                "name": "JD Pardo",
+                "order": 5,
+                "role": "Nate Walker",
+                "thumbnail": "http://thetvdb.com/banners/actors/303088.jpg"
+            },
+            {
+                "name": "Zak Orth",
+                "order": 6,
+                "role": "Aaron Pittman",
+                "thumbnail": "http://thetvdb.com/banners/actors/303087.jpg"
+            },
+            {
+                "name": "Maria Howell",
+                "order": 7,
+                "role": "Grace Beaumont",
+                "thumbnail": "http://thetvdb.com/banners/actors/303086.jpg"
+            },
+            {
+                "name": "Daniella Alonso",
+                "order": 8,
+                "role": "Nora Clayton",
+                "thumbnail": "http://thetvdb.com/banners/actors/303085.jpg"
+            },
+            {
+                "name": "Graham Rogers",
+                "order": 9,
+                "role": "Danny Matheson",
+                "thumbnail": "http://thetvdb.com/banners/actors/303084.jpg"
+            },
+            {
+                "name": "Elizabeth Mitchell",
+                "order": 10,
+                "role": "Rachel Matheson",
+                "thumbnail": "http://thetvdb.com/banners/actors/303082.jpg"
+            },
+            {
+                "name": "Tim Guinee",
+                "order": 11,
+                "role": "Ben Matheson",
+                "thumbnail": "http://thetvdb.com/banners/actors/303081.jpg"
+            },
+            {
+                "name": "Giancarlo Esposito",
+                "order": 12,
+                "role": "Captain Tom Neville",
+                "thumbnail": "http://thetvdb.com/banners/actors/298684.jpg"
+            }
+        ],
+        "dateadded": "2012-11-17 15:07:18",
+        "episode": 4,
+        "episodeguide": "<episodeguide><url cache=\"258823-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/258823/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/258823-2.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revolution/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Science-Fiction"
+        ],
+        "imdbnumber": "258823",
+        "label": "Revolution",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Our entire way of life depends on electricity. So what would happen if it just stopped working? Well, one day, like a switch turned off, the world is suddenly thrust back into the dark ages. Planes fall from the sky, hospitals shut down, and communication is impossible. And without any modern technology, who can tell us why? Now, 15 years later, life is back to what it once was long before the industrial revolution: families living in quiet cul-de-sacs, and when the sun goes down lanterns and candles are lit. Life is slower and sweeter. Or is it? On the fringes of small farming communities, danger lurks. And a young woman's life is dramatically changed when a local militia arrives and kills her father, who mysteriously - and unbeknownst to her - had something to do with the blackout. This brutal encounter sets her and two unlikely companions off on a daring coming-of-age journey to find answers about the past in the hopes of reclaiming the future.",
+        "premiered": "2012-09-17",
+        "rating": 7.5,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "NBC"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/258823-8.jpg",
+        "title": "Revolution",
+        "tvshowid": 71,
+        "votes": "141",
+        "watchedepisodes": 0,
+        "year": 2012
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/258823/4323128.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/258823-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/258823-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/258823-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Brian Allison",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nelson Bonilla",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5LtJKIaeBtzm9u64bIIvYP3cUFc.jpg"
+                    },
+                    {
+                        "name": "Michael Duisenberg",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Allan Graf",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Morgan Hinkleman",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cameron Morrison",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "MacEwen Morrison",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brandon Molale",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iOQFhKoCY6czA8OIudsHbOtJsC6.jpg"
+                    },
+                    {
+                        "name": "John Saint Ryan",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dan Southworth",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Greg Sproles",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Stacy",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jeff Wolfe",
+                        "order": 12,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iUALrUyPe6uq9kZQNHNf8cW5yKA.jpg"
+                    },
+                    {
+                        "name": "Tracy Spiridakos",
+                        "order": 0,
+                        "role": "Charlie Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298682.jpg"
+                    },
+                    {
+                        "name": "Billy Burke",
+                        "order": 1,
+                        "role": "Miles Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298683.jpg"
+                    },
+                    {
+                        "name": "David Lyons",
+                        "order": 2,
+                        "role": "Sebastian \"Bass\" Monroe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304223.jpg"
+                    },
+                    {
+                        "name": "Mark Pellegrino",
+                        "order": 3,
+                        "role": "Captain Jeremy Baker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321391.jpg"
+                    },
+                    {
+                        "name": "Stephen Collins",
+                        "order": 4,
+                        "role": "Dr. Gene Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318885.jpg"
+                    },
+                    {
+                        "name": "JD Pardo",
+                        "order": 5,
+                        "role": "Nate Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303088.jpg"
+                    },
+                    {
+                        "name": "Zak Orth",
+                        "order": 6,
+                        "role": "Aaron Pittman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303087.jpg"
+                    },
+                    {
+                        "name": "Maria Howell",
+                        "order": 7,
+                        "role": "Grace Beaumont",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303086.jpg"
+                    },
+                    {
+                        "name": "Daniella Alonso",
+                        "order": 8,
+                        "role": "Nora Clayton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303085.jpg"
+                    },
+                    {
+                        "name": "Graham Rogers",
+                        "order": 9,
+                        "role": "Danny Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303084.jpg"
+                    },
+                    {
+                        "name": "Elizabeth Mitchell",
+                        "order": 10,
+                        "role": "Rachel Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303082.jpg"
+                    },
+                    {
+                        "name": "Tim Guinee",
+                        "order": 11,
+                        "role": "Ben Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303081.jpg"
+                    },
+                    {
+                        "name": "Giancarlo Esposito",
+                        "order": 12,
+                        "role": "Captain Tom Neville",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298684.jpg"
+                    }
+                ],
+                "dateadded": "2012-11-15 21:18:46",
+                "director": [
+                    "Jon Favreau"
+                ],
+                "episode": 1,
+                "episodeid": 1277,
+                "fanart": "http://thetvdb.com/banners/fanart/original/258823-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revolution/Season 1/Revolution.S01E01.Pilot.WEB.DLXviD-iLoadz.mp4",
+                "firstaired": "2012-09-17",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A family struggles in an American landscape of empty cities, militias and freedom fighters, where every piece of technology has blacked out forever.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revolution",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/258823/4323128.jpg",
+                "title": "Pilot",
+                "tvshowid": 71,
+                "uniqueid": {
+                    "unknown": "4323128"
+                },
+                "votes": "174",
+                "writer": [
+                    "Eric Kripke"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/258823/4364984.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/258823-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/258823-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/258823-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "C. Thomas Howell",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maria Howell",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303086.jpg"
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Tracy Spiridakos",
+                        "order": 0,
+                        "role": "Charlie Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298682.jpg"
+                    },
+                    {
+                        "name": "Billy Burke",
+                        "order": 1,
+                        "role": "Miles Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298683.jpg"
+                    },
+                    {
+                        "name": "David Lyons",
+                        "order": 2,
+                        "role": "Sebastian \"Bass\" Monroe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304223.jpg"
+                    },
+                    {
+                        "name": "Mark Pellegrino",
+                        "order": 3,
+                        "role": "Captain Jeremy Baker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321391.jpg"
+                    },
+                    {
+                        "name": "Stephen Collins",
+                        "order": 4,
+                        "role": "Dr. Gene Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318885.jpg"
+                    },
+                    {
+                        "name": "JD Pardo",
+                        "order": 5,
+                        "role": "Nate Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303088.jpg"
+                    },
+                    {
+                        "name": "Zak Orth",
+                        "order": 6,
+                        "role": "Aaron Pittman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303087.jpg"
+                    },
+                    {
+                        "name": "Daniella Alonso",
+                        "order": 8,
+                        "role": "Nora Clayton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303085.jpg"
+                    },
+                    {
+                        "name": "Graham Rogers",
+                        "order": 9,
+                        "role": "Danny Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303084.jpg"
+                    },
+                    {
+                        "name": "Elizabeth Mitchell",
+                        "order": 10,
+                        "role": "Rachel Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303082.jpg"
+                    },
+                    {
+                        "name": "Tim Guinee",
+                        "order": 11,
+                        "role": "Ben Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303081.jpg"
+                    },
+                    {
+                        "name": "Giancarlo Esposito",
+                        "order": 12,
+                        "role": "Captain Tom Neville",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298684.jpg"
+                    }
+                ],
+                "dateadded": "2012-11-17 00:58:47",
+                "director": [
+                    "Charles Beeson"
+                ],
+                "episode": 2,
+                "episodeid": 1278,
+                "fanart": "http://thetvdb.com/banners/fanart/original/258823-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revolution/Season 1/Revolution.S01E02.Chained.Heat.WEB.DL.XviD-iLoadz.mp4",
+                "firstaired": "2012-09-24",
+                "label": "1x02. Chained Heat",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In order to rescue Danny, Miles knows he and the gang will need help. Thus, the search begins for Nora, a rebel fighter battling against the Militia. Meanwhile, Aaron confides in Maggie and Danny lays witness to what Captain Neville is capable of.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revolution",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/258823/4364984.jpg",
+                "title": "Chained Heat",
+                "tvshowid": 71,
+                "uniqueid": {
+                    "unknown": "4364984"
+                },
+                "votes": "153",
+                "writer": [
+                    "Eric Kripke"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/258823/4364985.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/258823-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/258823-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/258823-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Michael Mosley",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Pellegrino",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321391.jpg"
+                    },
+                    {
+                        "name": "Derek Webster",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tracy Spiridakos",
+                        "order": 0,
+                        "role": "Charlie Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298682.jpg"
+                    },
+                    {
+                        "name": "Billy Burke",
+                        "order": 1,
+                        "role": "Miles Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298683.jpg"
+                    },
+                    {
+                        "name": "David Lyons",
+                        "order": 2,
+                        "role": "Sebastian \"Bass\" Monroe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304223.jpg"
+                    },
+                    {
+                        "name": "Stephen Collins",
+                        "order": 4,
+                        "role": "Dr. Gene Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318885.jpg"
+                    },
+                    {
+                        "name": "JD Pardo",
+                        "order": 5,
+                        "role": "Nate Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303088.jpg"
+                    },
+                    {
+                        "name": "Zak Orth",
+                        "order": 6,
+                        "role": "Aaron Pittman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303087.jpg"
+                    },
+                    {
+                        "name": "Maria Howell",
+                        "order": 7,
+                        "role": "Grace Beaumont",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303086.jpg"
+                    },
+                    {
+                        "name": "Daniella Alonso",
+                        "order": 8,
+                        "role": "Nora Clayton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303085.jpg"
+                    },
+                    {
+                        "name": "Graham Rogers",
+                        "order": 9,
+                        "role": "Danny Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303084.jpg"
+                    },
+                    {
+                        "name": "Elizabeth Mitchell",
+                        "order": 10,
+                        "role": "Rachel Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303082.jpg"
+                    },
+                    {
+                        "name": "Tim Guinee",
+                        "order": 11,
+                        "role": "Ben Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303081.jpg"
+                    },
+                    {
+                        "name": "Giancarlo Esposito",
+                        "order": 12,
+                        "role": "Captain Tom Neville",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298684.jpg"
+                    }
+                ],
+                "dateadded": "2012-11-17 00:59:59",
+                "director": [
+                    "Sanford Bookstaver"
+                ],
+                "episode": 3,
+                "episodeid": 1279,
+                "fanart": "http://thetvdb.com/banners/fanart/original/258823-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revolution/Season 1/Revolution.S01E03.No.Quarter.WEB-DL.XviD-iLoadz.mp4",
+                "firstaired": "2012-10-01",
+                "label": "1x03. No Quarter",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "On the run from the Militia, Nora leads Miles and Charlie back to the Rebel camp. Aaron and Maggie search for Grace, and Danny stands up to one of Captain Neville’s men.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revolution",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/258823/4364985.jpg",
+                "title": "No Quarter",
+                "tvshowid": 71,
+                "uniqueid": {
+                    "unknown": "4364985"
+                },
+                "votes": "139",
+                "writer": [
+                    "Monica Owusu-Breen"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/258823/4364986.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/258823-g10.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/258823-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/258823-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Michael Bowen",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xGNcy5uCe0Ke5vqC7oZlOV3GGDx.jpg"
+                    },
+                    {
+                        "name": "David Meunier",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+                    },
+                    {
+                        "name": "Tracy Spiridakos",
+                        "order": 0,
+                        "role": "Charlie Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298682.jpg"
+                    },
+                    {
+                        "name": "Billy Burke",
+                        "order": 1,
+                        "role": "Miles Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298683.jpg"
+                    },
+                    {
+                        "name": "David Lyons",
+                        "order": 2,
+                        "role": "Sebastian \"Bass\" Monroe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304223.jpg"
+                    },
+                    {
+                        "name": "Mark Pellegrino",
+                        "order": 3,
+                        "role": "Captain Jeremy Baker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321391.jpg"
+                    },
+                    {
+                        "name": "Stephen Collins",
+                        "order": 4,
+                        "role": "Dr. Gene Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318885.jpg"
+                    },
+                    {
+                        "name": "JD Pardo",
+                        "order": 5,
+                        "role": "Nate Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303088.jpg"
+                    },
+                    {
+                        "name": "Zak Orth",
+                        "order": 6,
+                        "role": "Aaron Pittman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303087.jpg"
+                    },
+                    {
+                        "name": "Maria Howell",
+                        "order": 7,
+                        "role": "Grace Beaumont",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303086.jpg"
+                    },
+                    {
+                        "name": "Daniella Alonso",
+                        "order": 8,
+                        "role": "Nora Clayton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303085.jpg"
+                    },
+                    {
+                        "name": "Graham Rogers",
+                        "order": 9,
+                        "role": "Danny Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303084.jpg"
+                    },
+                    {
+                        "name": "Elizabeth Mitchell",
+                        "order": 10,
+                        "role": "Rachel Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303082.jpg"
+                    },
+                    {
+                        "name": "Tim Guinee",
+                        "order": 11,
+                        "role": "Ben Matheson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/303081.jpg"
+                    },
+                    {
+                        "name": "Giancarlo Esposito",
+                        "order": 12,
+                        "role": "Captain Tom Neville",
+                        "thumbnail": "http://thetvdb.com/banners/actors/298684.jpg"
+                    }
+                ],
+                "dateadded": "2012-11-17 15:07:18",
+                "director": [
+                    "Felix Alcala"
+                ],
+                "episode": 4,
+                "episodeid": 1280,
+                "fanart": "http://thetvdb.com/banners/fanart/original/258823-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revolution/Season 1/Revolution.S01E04.The.Plague.Dogs.WEB.DL-XviD-iLoadz.mp4",
+                "firstaired": "2012-10-08",
+                "label": "1x04. The Plague Dogs",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After Charlie and Nora rescue Miles from Militia, they set off to meet Aaron and Maggie. Tracking Miles and Charlie at every turn is Nate. As the gang reunites and continues on their journey, unforeseeable challenges await.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revolution",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/258823/4364986.jpg",
+                "title": "The Plague Dogs",
+                "tvshowid": 71,
+                "uniqueid": {
+                    "unknown": "4364986"
+                },
+                "votes": "135",
+                "writer": [
+                    "Anne Cofell Saunders"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/258823-1-4.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/258823-g10.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/258823-2.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/258823-8.jpg"
+            },
+            "episode": 4,
+            "fanart": "http://thetvdb.com/banners/fanart/original/258823-2.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 390,
+            "showtitle": "Revolution",
+            "thumbnail": "http://thetvdb.com/banners/seasons/258823-1-4.jpg",
+            "tvshowid": 71,
+            "watchedepisodes": 0
+        }
+    ]
+}

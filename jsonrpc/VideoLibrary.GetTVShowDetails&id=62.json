@@ -1,0 +1,414 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/260315-g8.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
+            "poster": "http://thetvdb.com/banners/posters/260315-5.jpg"
+        },
+        "cast": [
+            {
+                "name": "Tatiana Maslany",
+                "order": 0,
+                "role": "Sarah Manning / Elizabeth Childs / Alison Hendrix / Cosima Niehaus / Helena /  Rachel Duncan / Krystal Goderitch / Tony Sawicki / Katja Obinger",
+                "thumbnail": "http://thetvdb.com/banners/actors/310607.jpg"
+            },
+            {
+                "name": "Ari Millen",
+                "order": 1,
+                "role": "Mark Rollins / Miller / Rudy / Seth",
+                "thumbnail": "http://thetvdb.com/banners/actors/348965.jpg"
+            },
+            {
+                "name": "Jordan Gavaris",
+                "order": 2,
+                "role": "Felix Dawkins",
+                "thumbnail": "http://thetvdb.com/banners/actors/333186.jpg"
+            },
+            {
+                "name": "Maria Doyle Kennedy",
+                "order": 3,
+                "role": "Mrs. S",
+                "thumbnail": "http://thetvdb.com/banners/actors/310602.jpg"
+            },
+            {
+                "name": "Kristian Bruun",
+                "order": 4,
+                "role": "Donnie Hendrix",
+                "thumbnail": "http://thetvdb.com/banners/actors/338642.jpg"
+            },
+            {
+                "name": "Évelyne Brochu",
+                "order": 5,
+                "role": "Dr. Delphine Cormie",
+                "thumbnail": "http://thetvdb.com/banners/actors/333188.jpg"
+            },
+            {
+                "name": "Ksenia Solo",
+                "order": 6,
+                "role": "Shay Davydov",
+                "thumbnail": "http://thetvdb.com/banners/actors/352463.jpg"
+            },
+            {
+                "name": "Zoé De Grand Maison",
+                "order": 7,
+                "role": "Gracie Johanssen",
+                "thumbnail": "http://thetvdb.com/banners/actors/348966.jpg"
+            },
+            {
+                "name": "Michael Mando",
+                "order": 8,
+                "role": "Vic",
+                "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+            },
+            {
+                "name": "Michiel Huisman",
+                "order": 9,
+                "role": "Cal Morrison",
+                "thumbnail": "http://thetvdb.com/banners/actors/333189.jpg"
+            },
+            {
+                "name": "Skyler Wexler",
+                "order": 10,
+                "role": "Kira Manning",
+                "thumbnail": "http://thetvdb.com/banners/actors/333187.jpg"
+            },
+            {
+                "name": "Matt Frewer",
+                "order": 11,
+                "role": "Dr. Aldous Leekie",
+                "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+            },
+            {
+                "name": "Kevin Hanchard",
+                "order": 12,
+                "role": "Art Bell",
+                "thumbnail": "http://thetvdb.com/banners/actors/310603.jpg"
+            },
+            {
+                "name": "Dylan Bruce",
+                "order": 13,
+                "role": "Paul Dierden",
+                "thumbnail": "http://thetvdb.com/banners/actors/310600.jpg"
+            }
+        ],
+        "dateadded": "2014-05-11 17:27:14",
+        "episode": 2,
+        "episodeguide": "<episodeguide><url cache=\"260315-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/260315/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orphan Black/",
+        "genre": [
+            "Action",
+            "Science-Fiction",
+            "Thriller"
+        ],
+        "imdbnumber": "260315",
+        "label": "Orphan Black",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "“Orphan Black” follows outsider, orphan and street-wise chameleon Sarah. After witnessing a woman’s suicide, Sarah assumes the stranger’s identity, who happens to look just like her. Expecting to solve all her problems by cleaning out the dead woman’s savings, Sarah is instead thrust headlong into a kaleidoscopic mystery as she realizes the dizzying truth: she and the dead woman are clones.\r\n\r\nAs Sarah searches for answers, she discovers the chilling fact that there are more people like her out there - genetically identical individuals who were planted in unsuspecting birth parents and nurtured in completely different circumstances. With no idea who created the clones, she’ll need to discover the reason in a hurry as an assassin is killing them one by one.",
+        "premiered": "2013-03-30",
+        "rating": 8.899999618530273,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Space"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/260315-5.jpg",
+        "title": "Orphan Black",
+        "tvshowid": 62,
+        "votes": "83",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260315/4352158.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260315-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260315-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Tatiana Maslany",
+                        "order": 0,
+                        "role": "Sarah Manning / Elizabeth Childs / Alison Hendrix / Cosima Niehaus / Helena /  Rachel Duncan / Krystal Goderitch / Tony Sawicki / Katja Obinger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310607.jpg"
+                    },
+                    {
+                        "name": "Ari Millen",
+                        "order": 1,
+                        "role": "Mark Rollins / Miller / Rudy / Seth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/348965.jpg"
+                    },
+                    {
+                        "name": "Jordan Gavaris",
+                        "order": 2,
+                        "role": "Felix Dawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333186.jpg"
+                    },
+                    {
+                        "name": "Maria Doyle Kennedy",
+                        "order": 3,
+                        "role": "Mrs. S",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310602.jpg"
+                    },
+                    {
+                        "name": "Kristian Bruun",
+                        "order": 4,
+                        "role": "Donnie Hendrix",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338642.jpg"
+                    },
+                    {
+                        "name": "Évelyne Brochu",
+                        "order": 5,
+                        "role": "Dr. Delphine Cormie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333188.jpg"
+                    },
+                    {
+                        "name": "Ksenia Solo",
+                        "order": 6,
+                        "role": "Shay Davydov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352463.jpg"
+                    },
+                    {
+                        "name": "Zoé De Grand Maison",
+                        "order": 7,
+                        "role": "Gracie Johanssen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/348966.jpg"
+                    },
+                    {
+                        "name": "Michael Mando",
+                        "order": 8,
+                        "role": "Vic",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+                    },
+                    {
+                        "name": "Michiel Huisman",
+                        "order": 9,
+                        "role": "Cal Morrison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333189.jpg"
+                    },
+                    {
+                        "name": "Skyler Wexler",
+                        "order": 10,
+                        "role": "Kira Manning",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333187.jpg"
+                    },
+                    {
+                        "name": "Matt Frewer",
+                        "order": 11,
+                        "role": "Dr. Aldous Leekie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+                    },
+                    {
+                        "name": "Kevin Hanchard",
+                        "order": 12,
+                        "role": "Art Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310603.jpg"
+                    },
+                    {
+                        "name": "Dylan Bruce",
+                        "order": 13,
+                        "role": "Paul Dierden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310600.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-11 17:27:14",
+                "director": [
+                    "John Fawcett"
+                ],
+                "episode": 1,
+                "episodeid": 1215,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orphan Black/Season 1/Orphan.Black.S01E01.GERMAN.DUBBED.DVDRip.x264-RiO.mkv",
+                "firstaired": "2013-03-30",
+                "label": "1x01. Natural Selection",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Sarah, a streetwise hustler on the run from a lifetime of bad decisions, witnesses the suicide of a stranger who looks just like her. Sarah assumes her identity, hoping that cleaning out the dead woman’s bank account will solve all of her problems. Instead, the street smart chameleon is thrust headlong into a kaleidoscopic mystery. After taking on the new identity, Sarah quickly finds herself caught in the middle of a deadly conspiracy and must race to find answers.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orphan Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260315/4352158.jpg",
+                "title": "Natural Selection",
+                "tvshowid": 62,
+                "uniqueid": {
+                    "unknown": "4352158"
+                },
+                "votes": "85",
+                "writer": [
+                    "Graeme Manson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/260315/4535490.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/260315-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260315-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Tatiana Maslany",
+                        "order": 0,
+                        "role": "Sarah Manning / Elizabeth Childs / Alison Hendrix / Cosima Niehaus / Helena /  Rachel Duncan / Krystal Goderitch / Tony Sawicki / Katja Obinger",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310607.jpg"
+                    },
+                    {
+                        "name": "Ari Millen",
+                        "order": 1,
+                        "role": "Mark Rollins / Miller / Rudy / Seth",
+                        "thumbnail": "http://thetvdb.com/banners/actors/348965.jpg"
+                    },
+                    {
+                        "name": "Jordan Gavaris",
+                        "order": 2,
+                        "role": "Felix Dawkins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333186.jpg"
+                    },
+                    {
+                        "name": "Maria Doyle Kennedy",
+                        "order": 3,
+                        "role": "Mrs. S",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310602.jpg"
+                    },
+                    {
+                        "name": "Kristian Bruun",
+                        "order": 4,
+                        "role": "Donnie Hendrix",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338642.jpg"
+                    },
+                    {
+                        "name": "Évelyne Brochu",
+                        "order": 5,
+                        "role": "Dr. Delphine Cormie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333188.jpg"
+                    },
+                    {
+                        "name": "Ksenia Solo",
+                        "order": 6,
+                        "role": "Shay Davydov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352463.jpg"
+                    },
+                    {
+                        "name": "Zoé De Grand Maison",
+                        "order": 7,
+                        "role": "Gracie Johanssen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/348966.jpg"
+                    },
+                    {
+                        "name": "Michael Mando",
+                        "order": 8,
+                        "role": "Vic",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+                    },
+                    {
+                        "name": "Michiel Huisman",
+                        "order": 9,
+                        "role": "Cal Morrison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333189.jpg"
+                    },
+                    {
+                        "name": "Skyler Wexler",
+                        "order": 10,
+                        "role": "Kira Manning",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333187.jpg"
+                    },
+                    {
+                        "name": "Matt Frewer",
+                        "order": 11,
+                        "role": "Dr. Aldous Leekie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+                    },
+                    {
+                        "name": "Kevin Hanchard",
+                        "order": 12,
+                        "role": "Art Bell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310603.jpg"
+                    },
+                    {
+                        "name": "Dylan Bruce",
+                        "order": 13,
+                        "role": "Paul Dierden",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310600.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-11 17:23:16",
+                "director": [
+                    "John Fawcett"
+                ],
+                "episode": 2,
+                "episodeid": 1216,
+                "fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orphan Black/Season 1/Orphan.Black.S01E02.Instinkt.German.Dubbed.DVDRip.x264-CRiSP.mkv",
+                "firstaired": "2013-04-06",
+                "label": "1x02. Instinct",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "With a body in her car and nowhere to turn, Sarah is forced to continue her con and earn “Beth” a second chance on the force. But with a killer on her tail, her only hope of finding answers lies with another apparent ‘identical,’ Alison.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orphan Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/260315/4535490.jpg",
+                "title": "Instinct",
+                "tvshowid": 62,
+                "uniqueid": {
+                    "unknown": "4535490"
+                },
+                "votes": "70",
+                "writer": [
+                    "Graeme Manson"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/260315-1-6.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/260315-g8.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/260315-5.jpg"
+            },
+            "episode": 2,
+            "fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 346,
+            "showtitle": "Orphan Black",
+            "thumbnail": "http://thetvdb.com/banners/seasons/260315-1-6.jpg",
+            "tvshowid": 62,
+            "watchedepisodes": 0
+        }
+    ]
+}

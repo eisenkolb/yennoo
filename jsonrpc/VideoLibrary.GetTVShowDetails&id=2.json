@@ -1,0 +1,1656 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+            "poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+        },
+        "cast": [
+            {
+                "name": "Sarah Jones",
+                "order": 0,
+                "role": "Detective Rebecca Madsen",
+                "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+            },
+            {
+                "name": "Jorge Garcia",
+                "order": 1,
+                "role": "Dr. Diego Soto",
+                "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+            },
+            {
+                "name": "Sam Neill",
+                "order": 2,
+                "role": "Emerson Hauser",
+                "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+            },
+            {
+                "name": "Jonny Coyne",
+                "order": 3,
+                "role": "Warden Edwin James",
+                "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+            },
+            {
+                "name": "Parminder Nagra",
+                "order": 4,
+                "role": "Dr. Lucy Banerjee",
+                "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+            },
+            {
+                "name": "Robert Forster",
+                "order": 5,
+                "role": "Ray Archer",
+                "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+            },
+            {
+                "name": "Jason Butler Harner",
+                "order": 6,
+                "role": "Deputy Warden E.B. Tiller",
+                "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+            },
+            {
+                "name": "Leon Rippy",
+                "order": 12,
+                "role": "Dr. Milton Beauregard",
+                "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+            },
+            {
+                "name": "David Hoflin",
+                "order": 13,
+                "role": "Tommy Madsen"
+            }
+        ],
+        "dateadded": "2013-03-09 04:06:24",
+        "episode": 13,
+        "episodeguide": "<episodeguide><url cache=\"248646-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/248646/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/",
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama",
+            "Science-Fiction"
+        ],
+        "imdbnumber": "248646",
+        "label": "Alcatraz",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "On March 21, 1963, the inmates and guards at Alcatraz prison mysteriously disappear. To cover up the problem, the government reported the prison has been closed because of unsafe conditions. A secret government unit was set up to find the prisoners. Now, in the present-day, the inmates begin returning - unaged and unaware of where they have spent the missing decades - and continue their criminal ways. They are acting out of character and appear to be searching for specific objects. A federal agent employs a police officer and a conspiracy theory novelist to help track them down.",
+        "premiered": "2012-01-16",
+        "rating": 8.199999809265137,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "FOX (US)"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/248646-6.jpg",
+        "title": "Alcatraz",
+        "tvshowid": 2,
+        "votes": "76",
+        "watchedepisodes": 0,
+        "year": 2012
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4098243.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "David Hoflin",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jeffrey Pierce",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    }
+                ],
+                "dateadded": "2012-10-21 04:35:03",
+                "director": [
+                    "Danny Cannon"
+                ],
+                "episode": 1,
+                "episodeid": 7,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E01.Jack.Sylvane.German.Dubbed.REPACK.HDTV.XviD-ITG.mp4",
+                "firstaired": "2012-01-16",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Detective Rebecca Madsen and Alcatraz historian Dr Diego Soto team up with a secret agency that is dedicated to finding and catching inmates from the infamous prison who went missing 50 years ago and are reappearing today.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4098243.jpg",
+                "title": "Pilot",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4098243"
+                },
+                "votes": "214",
+                "writer": [
+                    "Elizabeth Sarnoff",
+                    "Steven Lilien",
+                    "Bryan Wynbrandt"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4218955.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joe Egender",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jeffrey Pierce",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 12,
+                        "role": "Dr. Milton Beauregard",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "David Hoflin",
+                        "order": 13,
+                        "role": "Tommy Madsen"
+                    }
+                ],
+                "dateadded": "2012-10-21 04:35:01",
+                "director": [
+                    "Jack Bender"
+                ],
+                "episode": 2,
+                "episodeid": 8,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E02.Ernest.Cobb.German.Dubbed.HDTV.XviD-ITG.mp4",
+                "firstaired": "2012-01-16",
+                "label": "1x02. Ernest Cobb",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a sniper begins targeting young victims, the team is forced to retrace the steps of the past in order to solve this modern day mystery.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4218955.jpg",
+                "title": "Ernest Cobb",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4218955"
+                },
+                "votes": "177",
+                "writer": [
+                    "Alison Balian"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4218957.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Michael Eklund",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337488.jpg"
+                    },
+                    {
+                        "name": "Rebecca Field",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/294455.jpg"
+                    },
+                    {
+                        "name": "David Hoflin",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Will Shadley",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    }
+                ],
+                "dateadded": "2012-10-21 04:23:36",
+                "director": [
+                    "Jack Bender"
+                ],
+                "episode": 3,
+                "episodeid": 9,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E03.Kit.Nelson.German.Dubbed.HDTV.XviD-ITG.mp4",
+                "firstaired": "2012-01-23",
+                "label": "1x03. Kit Nelson",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When child killer Kit Nelson, a terrifying kidnapper who always returns his victims home - after he's killed them - reappears from the past, the team is in a race against time to catch the man before he kills again.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4218957.jpg",
+                "title": "Kit Nelson",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4218957"
+                },
+                "votes": "174",
+                "writer": [
+                    "Jennifer Johnson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4218958.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Steven Grayhm",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Geri Jewell",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Eric Johnson",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/15814.jpg"
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    },
+                    {
+                        "name": "David Hoflin",
+                        "order": 13,
+                        "role": "Tommy Madsen"
+                    }
+                ],
+                "dateadded": "2012-10-21 04:24:11",
+                "director": [
+                    "Brad Anderson"
+                ],
+                "episode": 4,
+                "episodeid": 10,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E04.Cal.Sweeney.German.Dubbed.DVDRip.XviD-ITG.mp4",
+                "firstaired": "2012-01-30",
+                "label": "1x04. Cal Sweeney",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a bank robbing criminal returns from the past and things go wrong in the present, Rebecca has to break him out of the hostage-filled bank before people can find out who he is.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4218958.jpg",
+                "title": "Cal Sweeney",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4218958"
+                },
+                "votes": "158",
+                "writer": [
+                    "Robert Hull"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4218960.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Robbie Amell",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Hoflin",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jim Parrack",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/300021.jpg"
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    }
+                ],
+                "dateadded": "2012-10-21 04:36:13",
+                "director": [
+                    "Charles Beeson"
+                ],
+                "episode": 5,
+                "episodeid": 11,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E05.Guy.Hastings.German.Dubbed.DVDRip.XviD-ITG.mp4",
+                "firstaired": "2012-02-06",
+                "label": "1x05. Guy Hastings",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Guy Hastings, an Alcatraz guard, reappears. Although a good man, Hastings is being asked to do bad things and will come face-to-face with an old acquaintance.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4218960.jpg",
+                "title": "Guy Hastings",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4218960"
+                },
+                "votes": "152",
+                "writer": [
+                    "Steven Lilien",
+                    "Bryan Wynbrandt"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4218959.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Mehcad Brooks",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/107841.jpg"
+                    },
+                    {
+                        "name": "David Hoflin",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "James Pizzinato",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jFUcy9ilvrXoigFdpeXtXJSTjp4.jpg"
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Jeananne Goossen",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Greyston Holt",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-08 23:59:37",
+                "director": [
+                    "Paul A. Edwards"
+                ],
+                "episode": 6,
+                "episodeid": 12,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E06.Paxton.Petty.German.Dubbed.DVDRip.XviD-ITG.mp4",
+                "firstaired": "2012-02-13",
+                "label": "1x06. Paxton Petty",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Hauser, Madsen, and Soto track former inmate Paxton Petty, a landmine bomber who has returned and is placing bombs throughout populated areas of San Francisco, methods of the past are applied to the present.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4218959.jpg",
+                "title": "Paxton Petty",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4218959"
+                },
+                "votes": "143",
+                "writer": [
+                    "Jennifer Johnson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4218961.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jeffrey Pierce",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Adam Rothenberg",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Garry Chalk",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jeananne Goossen",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    },
+                    {
+                        "name": "David Hoflin",
+                        "order": 13,
+                        "role": "Tommy Madsen"
+                    }
+                ],
+                "dateadded": "2013-03-09 00:00:00",
+                "director": [
+                    "Brad Turner"
+                ],
+                "episode": 7,
+                "episodeid": 13,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E07.Johnny.McKee.German.Dubbed.BDRip.XviD-ITG.mp4",
+                "firstaired": "2012-02-20",
+                "label": "1x07. Johnny McKee",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Madsen and Hauser hunt down Johnny McKee, a former Alcatraz inmate and vicious killer with a background in chemistry. It’s a race against time before McKee horrifically poisons more innocent victims. Meanwhile, more details emerge about Madsen’s grandfather.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4218961.jpg",
+                "title": "Johnny McKee",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4218961"
+                },
+                "votes": "148",
+                "writer": [
+                    "Toni Graphia"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4242009.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Robbie Amell",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Hoflin",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Graham Shiels",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/qH1mrJ880LQBeGsJP8b1iQRW2gL.jpg"
+                    },
+                    {
+                        "name": "Travis Aaron Wade",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Frank Whaley",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-09 00:01:46",
+                "director": [
+                    "Nick Copus"
+                ],
+                "episode": 8,
+                "episodeid": 14,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E08.Herman.und.Pinky.Ames.German.Dubbed.BDRip.XviD-ITG.mp4",
+                "firstaired": "2012-03-05",
+                "label": "1x08. The Ames Brothers",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Herman and Pinky Ames, who almost escaped in 1963, return to Alcatraz in the present day and find something strangely wrong",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4242009.jpg",
+                "title": "The Ames Brothers",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4242009"
+                },
+                "votes": "97",
+                "writer": [
+                    "Robert Hull"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4240668.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Wendy Crewson",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jeananne Goossen",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Hoflin",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Theo Rossi",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291069.jpg"
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-09 01:32:17",
+                "director": [],
+                "episode": 9,
+                "episodeid": 15,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E09.Sonny.Burnett.German.Dubbed.BDRip.XviD-ITG.mp4",
+                "firstaired": "2012-03-05",
+                "label": "1x09. Sonny Burnett",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Sonny Burnett, a man with a dark side, who became extremely violent while at Alcatraz reappears",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4240668.jpg",
+                "title": "Sonny Burnett",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4240668"
+                },
+                "votes": "124",
+                "writer": [
+                    "Toni Graphia"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4251974.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Glynn Turman",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/293157.jpg"
+                    },
+                    {
+                        "name": "Ben Cotton",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/922dX7dP43qvKmqodz6akxdfJ5p.jpg"
+                    },
+                    {
+                        "name": "Jeananne Goossen",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    },
+                    {
+                        "name": "David Hoflin",
+                        "order": 13,
+                        "role": "Tommy Madsen"
+                    }
+                ],
+                "dateadded": "2013-03-09 01:33:01",
+                "director": [
+                    "Jack Bender"
+                ],
+                "episode": 10,
+                "episodeid": 16,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E10.Clarence.Montgomery.German.Dubbed.BDRip.XviD.mp4",
+                "firstaired": "2012-03-12",
+                "label": "1x10. Clarence Montgomery",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Clarence Montgomery was the only innocent man in Alcatraz but he's returned and is committing crimes.\r\n\r\nThis episode was scheduled to premiere on February 27, 2012, however it was postponed due to the weather delay of the 2012 Daytona 500.\r\nIt is available online.\r\n\r\nIt will air again on March 12.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4251974.jpg",
+                "title": "Clarence Montgomery",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4251974"
+                },
+                "votes": "115",
+                "writer": [
+                    "Leigh Dana Jackson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4251975.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Rami Malek",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Jeananne Goossen",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Greyston Holt",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    },
+                    {
+                        "name": "David Hoflin",
+                        "order": 13,
+                        "role": "Tommy Madsen"
+                    }
+                ],
+                "dateadded": "2013-03-09 01:34:15",
+                "director": [
+                    "Jack Bender"
+                ],
+                "episode": 11,
+                "episodeid": 17,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E11.Webb.Porter.German.Dubbed.BDRip.XviD-ITG.mp4",
+                "firstaired": "2012-03-19",
+                "label": "1x11. Webb Porter",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Rebecca, Doc, and Hauser set out to capture musically-inclined serial killer Webb Porter (guest star Malek), an unknown ’63 that returns more violent than ever",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4251975.jpg",
+                "title": "Webb Porter",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4251975"
+                },
+                "votes": "119",
+                "writer": [
+                    "Steven Lilien",
+                    "Bryan Wynbrandt"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4253440.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Joe Egender",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Greg Ellis",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/qQvPe0TO5yYJCSNIM8KRf55F5cw.jpg"
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Brendan Fletcher",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pt6kjBmnhamO1nvc1YqX3AczYpS.jpg"
+                    },
+                    {
+                        "name": "Steven Grayhm",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    },
+                    {
+                        "name": "David Hoflin",
+                        "order": 13,
+                        "role": "Tommy Madsen"
+                    }
+                ],
+                "dateadded": "2013-03-09 04:05:05",
+                "director": [
+                    "Eagle Egilsson"
+                ],
+                "episode": 12,
+                "episodeid": 18,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E12.Garrett.Stillman.German.Dubbed.REPACK.BDRip.XviD-ITG.mp4",
+                "firstaired": "2012-03-26",
+                "label": "1x12. Garrett Stillman",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Doc and Rebecca close in on a man who may be the key to revealing the secrets behind all the returning criminals. Meanwhile, Hauser makes a discovery beneath the halls of Alcatraz that brings him ever closer to the truth.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4253440.jpg",
+                "title": "Garrett Stillman",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4253440"
+                },
+                "votes": "121",
+                "writer": [
+                    "Leigh Dana Jackson",
+                    "Coleman Herbert"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248646/4253441.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Robbie Amell",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt Craven",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Hoflin",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Leon Rippy",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o0mQPjR67UJzzKbm3nVdOj7fdVm.jpg"
+                    },
+                    {
+                        "name": "Emily Holmes",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Eric Keenleyside",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iYZq5nqJxcU3PPSkKBe3NH88w8Z.jpg"
+                    },
+                    {
+                        "name": "Sarah Jones",
+                        "order": 0,
+                        "role": "Detective Rebecca Madsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284208.jpg"
+                    },
+                    {
+                        "name": "Jorge Garcia",
+                        "order": 1,
+                        "role": "Dr. Diego Soto",
+                        "thumbnail": "http://thetvdb.com/banners/actors/27737.jpg"
+                    },
+                    {
+                        "name": "Sam Neill",
+                        "order": 2,
+                        "role": "Emerson Hauser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315070.jpg"
+                    },
+                    {
+                        "name": "Jonny Coyne",
+                        "order": 3,
+                        "role": "Warden Edwin James",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                    },
+                    {
+                        "name": "Parminder Nagra",
+                        "order": 4,
+                        "role": "Dr. Lucy Banerjee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/324686.jpg"
+                    },
+                    {
+                        "name": "Robert Forster",
+                        "order": 5,
+                        "role": "Ray Archer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                    },
+                    {
+                        "name": "Jason Butler Harner",
+                        "order": 6,
+                        "role": "Deputy Warden E.B. Tiller",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287459.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-09 04:06:24",
+                "director": [
+                    "Aaron Lipstadt"
+                ],
+                "episode": 13,
+                "episodeid": 19,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E13.Tommy.Madsen.German.Dubbed.BDRip.XviD-ITG.mp4",
+                "firstaired": "2012-03-26",
+                "label": "1x13. Tommy Madsen",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Revealing doors are opened and lives hang in the balance as Rebecca will stop at nothing in pursuit of the man who killed her partner.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Alcatraz",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248646/4253441.jpg",
+                "title": "Tommy Madsen",
+                "tvshowid": 2,
+                "uniqueid": {
+                    "unknown": "4253441"
+                },
+                "votes": "116",
+                "writer": [
+                    "Jennifer Johnson",
+                    "Daniel Pyne"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/248646-1-5.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/248646-g11.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/248646-6.jpg"
+            },
+            "episode": 13,
+            "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 14,
+            "showtitle": "Alcatraz",
+            "thumbnail": "http://thetvdb.com/banners/seasons/248646-1-5.jpg",
+            "tvshowid": 2,
+            "watchedepisodes": 0
+        }
+    ]
+}

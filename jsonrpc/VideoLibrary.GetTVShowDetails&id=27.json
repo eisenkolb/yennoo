@@ -1,0 +1,3554 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+            "poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Adam Carolla",
+                "order": 0,
+                "role": "Spanky Ham",
+                "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+            },
+            {
+                "name": "Jess Harnell",
+                "order": 1,
+                "role": "Captain Leslie Hero",
+                "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+            },
+            {
+                "name": "Tara Strong",
+                "order": 2,
+                "role": "Princess Clara/Toot Braunstein",
+                "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+            },
+            {
+                "name": "Abbey McBride",
+                "order": 3,
+                "role": "Ling-Ling",
+                "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+            },
+            {
+                "name": "James Arnold Taylor",
+                "order": 4,
+                "role": "Wooldoor Jebediah Sockbat",
+                "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+            },
+            {
+                "name": "Cree Summer",
+                "order": 5,
+                "role": "Foxxy Love",
+                "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+            },
+            {
+                "name": "Jack Plotnick",
+                "order": 6,
+                "role": "Xandir P. Wifflebottom",
+                "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+            }
+        ],
+        "dateadded": "2008-07-20 06:33:50",
+        "episode": 36,
+        "episodeguide": "<episodeguide><url cache=\"78831-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/78831/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/",
+        "genre": [
+            "Animation",
+            "Comedy"
+        ],
+        "imdbnumber": "78831",
+        "label": "Drawn Together",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Drawn Together is a parody of reality shows, cast with spoofs of several famous types of animated characters.",
+        "premiered": "2004-10-27",
+        "rating": 8.5,
+        "season": 3,
+        "sorttitle": "",
+        "studio": [
+            "Comedy Central"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/78831-1.jpg",
+        "title": "Drawn Together",
+        "tvshowid": 27,
+        "votes": "40",
+        "watchedepisodes": 0,
+        "year": 2004
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/296054.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jim Ward",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2008-02-27 00:43:26",
+                "director": [
+                    "Peter Avanzino"
+                ],
+                "episode": 1,
+                "episodeid": 330,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 1/S01E01 - Hot Tub.divx",
+                "firstaired": "2004-10-27",
+                "label": "1x01. Hot Tub",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The Housemates are introduced and arrive at the Drawn Together House for the first time. At first it seems like they will get along well, but a string of racist comments from Clara start a major fight.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 1,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/296054.jpg",
+                "title": "Hot Tub",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "296054"
+                },
+                "votes": "13",
+                "writer": [
+                    "Matt Silverstein",
+                    "Dave Jeser"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/296055.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Carlos Alazraqui",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alex Borstein",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/42359.jpg"
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 11:03:16",
+                "director": [
+                    "Dwayne Carey-Hill"
+                ],
+                "episode": 2,
+                "episodeid": 331,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 1/S01E02 - Clara’s dirty little Secret.divx",
+                "firstaired": "2004-11-03",
+                "label": "1x02. Clara's Dirty Little Secret",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A pregnancy scare is the least of Clara's worries (and one easily settled by a talk about \"the facts of life\") when the rest of the household finds out about her \"personal problem.\" It seems due to a curse cast by her wicked stepmother, her vagina has been transformed into a bizarre tentacle monster! After the initial fear, horror, and urge to form an angry mob die down, the rest of the crew bands together to help Clara break the curse by finding her \"one true love.\"",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 1,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/296055.jpg",
+                "title": "Clara's Dirty Little Secret",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "296055"
+                },
+                "votes": "8",
+                "writer": [
+                    "Matt Silverstein",
+                    "Dave Jeser"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/296056.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Chris Edgerly",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Jim Ward",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 11:21:32",
+                "director": [
+                    "James  Purdum"
+                ],
+                "episode": 3,
+                "episodeid": 332,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 1/S01E03 - Gay Bash.divx",
+                "firstaired": "2004-11-10",
+                "label": "1x03. Gay Bash",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "With some not-so-gentle coaxing from his roommates, Xandir finally comes to terms with his homosexuality. But after awkwardly breaking the news to his girlfriend, and getting dumped as a result, Xandir desperately tries to find a way back in the closet. Meanwhile, after seeing Ling-Ling's incredible sewing abilities, Spanky exploits him as a source of cheap sweatshop labor, hoping to make a fortune selling knockoff sneakers to the NBA.",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 1,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/296056.jpg",
+                "title": "Gay Bash",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "296056"
+                },
+                "votes": "12",
+                "writer": [
+                    "Elijah Aron"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/296057.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2008-02-27 01:11:24",
+                "director": [
+                    "Ray Claffey"
+                ],
+                "episode": 4,
+                "episodeid": 333,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 1/S01E04 - Requiem for a Reality Show.divx",
+                "firstaired": "2004-11-17",
+                "label": "1x04. Requiem for a Reality Show",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After she, Ling-Ling, Foxxy, and Xandir win a competition for food rights, Toot overindulges to the extreme, and desperately seeks help from Xandir in dealing with her not-so-little weight problem. Meanwhile, the starving housemates resort to drastic measures to get food, as Spanky bullies Wooldoor into helping him trap Clara's animal friends for game. And Foxxy extorts humiliating favors out of Captain Hero in exchange for food, only for their bondage to turn into bonding.",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 1,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/296057.jpg",
+                "title": "Requiem for a Reality Show",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "296057"
+                },
+                "votes": "10",
+                "writer": [
+                    "Erik Sommers"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/296058.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Sarah Silverman",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AebAScTf671YojkpetdI1G9nIn2.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2007-02-27 10:52:38",
+                "director": [
+                    "Peter Avanzino"
+                ],
+                "episode": 5,
+                "episodeid": 334,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 1/S01E05 - The other Cousin.divx",
+                "firstaired": "2004-12-01",
+                "label": "1x05. The Other Cousin",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Clara's special cousin, Bleh, comes to visit the Drawn Together house, and Captain Hero bets Spanky that he'll sleep with her for 50 bucks. Meanwhile, Xandir, Toot, and Wooldoor enjoy the immense high that the fur of a depressed Ling-Ling can provide.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 1,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/296058.jpg",
+                "title": "The Other Cousin",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "296058"
+                },
+                "votes": "7",
+                "writer": [
+                    "Reid Harrison"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/296059.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Bob Widmer",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Hank Azaria",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Johnathan Kimmel",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2008-02-27 00:55:02",
+                "director": [
+                    "James  Purdum"
+                ],
+                "episode": 6,
+                "episodeid": 335,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 1/S01E06 - Dirty Pranking Number 2.divx",
+                "firstaired": "2004-12-08",
+                "label": "1x06. Dirty Pranking Number 2",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Clara becomes addicted to a prank made up by Spanky, crapping on pizza. This only makes things worse for Clara, due to the fact that her father refuses to let her to do the prank, or see Spanky anymore. Meanwhile, Captain Hero and Xandir try to bond, as they are roommates.",
+                "productioncode": "",
+                "rating": 6.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 1,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/296059.jpg",
+                "title": "Dirty Pranking Number 2",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "296059"
+                },
+                "votes": "10",
+                "writer": [
+                    "Jordan Young"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/296060.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Cree Summer",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Chris Edgerly",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jim Ward",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2008-02-27 01:04:00",
+                "director": [
+                    "Ray Claffey"
+                ],
+                "episode": 7,
+                "episodeid": 336,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 1/S01E07 - The One Wherein There Is A Big Twist  Pt.1.divx",
+                "firstaired": "2004-12-15",
+                "label": "1x07. The One Wherein There Is A Big Twist (1)",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Notorious billionaire, Bucky Bucks, comes to the Drawn Together house, and hosts an Apprentice style boardroom to answer the demands of the house mates, claiming that they wanted a prize for winning something on the show. Meanwhile, Toot tries to persuade the house mates to blow up the house.",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 1,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/296060.jpg",
+                "title": "The One Wherein There Is A Big Twist (1)",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "296060"
+                },
+                "votes": "8",
+                "writer": [
+                    "Dave Jeser",
+                    "Matt Silverstein"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/296062.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 15:33:04",
+                "director": [
+                    "Dwayne Carey-Hill"
+                ],
+                "episode": 1,
+                "episodeid": 337,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E01 - The One wherein there is a big Twist, Pt.2.divx",
+                "firstaired": "2005-10-19",
+                "label": "2x01. The One Wherein There Is A Big Twist (2)",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The conclusion of the cliffhanger involves the cast crash landing on a supposedly deserted island.  The cast mates, with the exception of Toot, make it back to the house, where they start to interview new roommate possibilities, including Scorpion from the Mortal Kombat video games.",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/296062.jpg",
+                "title": "The One Wherein There Is A Big Twist (2)",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "296062"
+                },
+                "votes": "10",
+                "writer": [
+                    "Matt Silverstein",
+                    "Dave Jeser"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/300741.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Nick Jameson",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tom Kenny",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uU2VLWHkKZN0UkYVJBf1s1z2l3k.jpg"
+                    },
+                    {
+                        "name": "Patrick Warburton",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cq8zZ6YfBrq2k4F4aHYLSP9QOJS.jpg"
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 14:38:48",
+                "director": [
+                    "Raymie Muzquiz"
+                ],
+                "episode": 2,
+                "episodeid": 338,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E02 - Foxxy vs. the Board of Education.divx",
+                "firstaired": "2005-10-26",
+                "label": "2x02. Foxxy vs. the Board of Education",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Spanky gets downloaded with a virus and in order to get life-saving health insurance, he must \"gay marry\" Xandir. Meanwhile, Foxxy is busted for not having a Mystery-Solving License and she convinces Ling-Ling to take the racially biased test for her so she can go back to college to finish up her degree.",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/300741.jpg",
+                "title": "Foxxy vs. the Board of Education",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "300741"
+                },
+                "votes": "10",
+                "writer": [
+                    "Elijah Aron"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/301101.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 12:06:02",
+                "director": [
+                    "Ray Claffey"
+                ],
+                "episode": 3,
+                "episodeid": 339,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E03 - Little orphan Hero.divx",
+                "firstaired": "2005-11-02",
+                "label": "2x03. Little Orphan Hero",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Captain Hero suffers a bout of depression from the loss of his parents. He copes by going to therapy, but shortly thereafter, he discovers his parents are, in fact, alive. Meanwhile, the other housemates start a suicide hot-line business and learn about responsibility and working together as a team.",
+                "productioncode": "",
+                "rating": 6.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/301101.jpg",
+                "title": "Little Orphan Hero",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "301101"
+                },
+                "votes": "11",
+                "writer": [
+                    "Erik Sommers"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/301102.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Tara Strong",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 14:14:54",
+                "director": [
+                    "Chuck Sheetz"
+                ],
+                "episode": 4,
+                "episodeid": 340,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E04 - Captain Hero s Marriage Pact.divx",
+                "firstaired": "2005-11-09",
+                "label": "2x04. Captain Hero's Marriage Pact",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Captain Hero gets a visit from his ex-girlfriend, UFG (Unusually Flexible Girl), who reminds him of their marriage pact once they both hit 30. Meanwhile, Foxxy Love tries to get the Foxxy 5 band back together so they can all reclaim their fame.",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/301102.jpg",
+                "title": "Captain Hero's Marriage Pact",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "301102"
+                },
+                "votes": "11",
+                "writer": [
+                    "Reed Agnew",
+                    "Elliot Blake"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/301292.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Will Ryan",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maurice LaMarche",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 14:44:34",
+                "director": [
+                    "Rich Moore"
+                ],
+                "episode": 5,
+                "episodeid": 341,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E05 - Clum Babies.divx",
+                "firstaired": "2005-11-16",
+                "label": "2x05. Clum Babies",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Wooldoor hits puberty at long last and can't keep himself from masturbating. Thus, his Clum Babies with their healing powers are born. Clara, however, thinks this is an act against God and vows to stop him. Meanwhile, Ling-Ling's bachelor days might be numbered as his mother and father send an arranged battle mate to the Drawn Together house.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/301292.jpg",
+                "title": "Clum Babies",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "301292"
+                },
+                "votes": "6",
+                "writer": [
+                    "Jon Kimmel"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/301293.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 14:10:28",
+                "director": [
+                    "Tuck Tucker"
+                ],
+                "episode": 6,
+                "episodeid": 342,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E06 - Ghostesses in the Slot Machine.divx",
+                "firstaired": "2005-11-30",
+                "label": "2x06. Ghostesses in the Slot Machine",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When the housemates start to notice strange Poltergeist-esque occurrences, Foxxy discovers that the house is haunted by the souls of 1,000 dead Indians. The gang decides to give a piece of their property to the Indians as a gesture of peace, and the Indians build a big Vegas-style casino.",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/301293.jpg",
+                "title": "Ghostesses in the Slot Machine",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "301293"
+                },
+                "votes": "9",
+                "writer": [
+                    "Bill Freiberger"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/301739.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jeannie Elias",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 15:25:06",
+                "director": [
+                    "Peter Avanzino"
+                ],
+                "episode": 7,
+                "episodeid": 343,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E07 - Super Nanny.divx",
+                "firstaired": "2005-12-07",
+                "label": "2x07. Super Nanny",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Upon seeing the reality TV show Super Nanny, Captain Hero  purposefully acts bad so he can summon Super Nanny and challenge her once and for all, because he thinks anything called super is a challenge to him. Meanwhile, Ling-Ling tries to get his driver's license. When he fails miserably, Wooldoor helps him become more \"Americanized\" so he can pass.",
+                "productioncode": "",
+                "rating": 6.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/301739.jpg",
+                "title": "Super Nanny",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "301739"
+                },
+                "votes": "8",
+                "writer": [
+                    "Dave Jeser",
+                    "Matt Silverstein"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/303678.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jess Harnell",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2008-07-20 06:33:50",
+                "director": [
+                    "Dwayne Carey-Hill"
+                ],
+                "episode": 8,
+                "episodeid": 344,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E08 - Terms of Endearment.divx",
+                "firstaired": "2006-01-25",
+                "label": "2x08. Terms of Endearment",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Captain Hero uses his X-ray vision to spy on the girls in the shower. As a result of doing it too much, Foxxy receives a brain tumor. Afterwards, Captain Hero feels so guilty that he decides to give up his powers, which makes him a quadriplegic in a breath-controlled wheel chair.",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/303678.jpg",
+                "title": "Terms of Endearment",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "303678"
+                },
+                "votes": "8",
+                "writer": [
+                    "Sam Freiberger",
+                    "Bill Freiberger"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/303679.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Paget Brewster",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 13:48:30",
+                "director": [
+                    "Dwayne Carey-Hill"
+                ],
+                "episode": 9,
+                "episodeid": 345,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E09 - Captain Girll.divx",
+                "firstaired": "2006-02-01",
+                "label": "2x09. Captain Girl",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Captain Hero's sidekick, Captain Girl, is killed by the evil Mad-Libber and replaces her with Wooldoor. Toot learns the hardships of being a mother to a Nicaraguan baby.",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/303679.jpg",
+                "title": "Captain Girl",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "303679"
+                },
+                "votes": "8",
+                "writer": [
+                    "Jordan Young"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/303680.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Alex Borstein",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/42359.jpg"
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 13:32:00",
+                "director": [
+                    "Ray Claffey"
+                ],
+                "episode": 10,
+                "episodeid": 346,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E10 - A Tale of two Cows.divx",
+                "firstaired": "2006-02-08",
+                "label": "2x10. A Tale of Two Cows",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Toot uses a video game cheat book to get Xandir to accompany her to her fat camp reunion. Wooldoor brings home a live-action cow from the live-action forest.",
+                "productioncode": "",
+                "rating": 6.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/303680.jpg",
+                "title": "A Tale of Two Cows",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "303680"
+                },
+                "votes": "7",
+                "writer": [
+                    "Dave Lewman",
+                    "Joe Liss"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/305398.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jimmy Kimmel",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 13:20:08",
+                "director": [
+                    "Raymie Muzquiz"
+                ],
+                "episode": 11,
+                "episodeid": 347,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E11 - Xandir and Tim sitting in a Tree.divx",
+                "firstaired": "2006-02-15",
+                "label": "2x11. Xandir and Tim, Sitting In a Tree",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Captain Hero's alter-ego, the mild-mannered reporter Tim Tommerson, comes to visit and spends a lot of gay time with Xandir. And the housemates learn that \"Drawn Together\" has received an \"F\" from Entertainment Weekly and seek revenge.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/305398.jpg",
+                "title": "Xandir and Tim, Sitting In a Tree",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "305398"
+                },
+                "votes": "6",
+                "writer": [
+                    "Bill Freiberger"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/305399.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Billy West",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alex Borstein",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/42359.jpg"
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 12:55:26",
+                "director": [
+                    "Tuck Tucker"
+                ],
+                "episode": 12,
+                "episodeid": 348,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E12 - The Lemon-Aids Walk.divx",
+                "firstaired": "2006-02-22",
+                "label": "2x12. The Lemon-AIDS Walk",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Captain Hero is determined to win the AIDS walk, no matter how many steroids he must take to be the best walker around. Wooldoor gets in trouble at the mall for stealing some candy.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/305399.jpg",
+                "title": "The Lemon-AIDS Walk",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "305399"
+                },
+                "votes": "7",
+                "writer": [
+                    "Erik Sommers"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/305400.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 12:18:38",
+                "director": [
+                    "Peter Avanzino"
+                ],
+                "episode": 13,
+                "episodeid": 349,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E13 - A very special Drawn Together Afterschool Special.divx",
+                "firstaired": "2006-03-01",
+                "label": "2x13. A Very Special Drawn Together Afterschool Special",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Xandir looks to his housemates for help in telling his parents he is gay. They do a little role-playing and, as usual, things get out of hand.",
+                "productioncode": "",
+                "rating": 6.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/305400.jpg",
+                "title": "A Very Special Drawn Together Afterschool Special",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "305400"
+                },
+                "votes": "6",
+                "writer": [
+                    "Valerie Ahern",
+                    "Christian McLaughlin"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/305401.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Chris Edgerly",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Debi Mae West",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jimmy Kimmel",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 16:04:58",
+                "director": [
+                    "Rich Moore"
+                ],
+                "episode": 14,
+                "episodeid": 350,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E14 - Alzheimer's That Ends Well.divx",
+                "firstaired": "2006-03-08",
+                "label": "2x14. Alzheimer's That Ends Well",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Clara gets an extreme make-over of her own when she gets an operation to remove her \"Octopussoir\" and give her a normal vagina again. The housemates, believing Toot to be old and suffering from Alzheimers, check her into an old folks home.",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/305401.jpg",
+                "title": "Alzheimer's That Ends Well",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "305401"
+                },
+                "votes": "7",
+                "writer": [
+                    "Elijah Aron"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/305402.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Chris Edgerly",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 12:00:08",
+                "director": [
+                    "Dwayne Carey-Hill"
+                ],
+                "episode": 15,
+                "episodeid": 351,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 2/S02E15 - The Drawn Together Clip Show.divx",
+                "firstaired": "2006-03-15",
+                "label": "2x15. The Drawn Together Clip Show",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The best of the past two seasons in clip-show form.",
+                "productioncode": "",
+                "rating": 6.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 2,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/305402.jpg",
+                "title": "The Drawn Together Clip Show",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "305402"
+                },
+                "votes": "5",
+                "writer": [
+                    "Dave Jeser",
+                    "Matt Silverstein"
+                ]
+            }
+        ],
+        "3": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/308062.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Maurice LaMarche",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2007-05-12 09:58:02",
+                "director": [
+                    "Ray Claffey"
+                ],
+                "episode": 1,
+                "episodeid": 352,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E01 - Freaks & Greeks.divx",
+                "firstaired": "2006-10-05",
+                "label": "3x01. Greeks & Freaks",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Captain Hero is thrilled to discover Greeks have moved in next door, but remains oblivious to the fact that it is a family of Greek immigrants and not a Greek fraternity. When the Greeks won't let Captain Hero rush their house, he sets his sights on revenge, including fraternity-style pranks like kidnapping their daughter. Meanwhile, Ling-Ling's sickly father moves into the Drawn Together house and falls in love with Toot. Like a typical gold digger, Toot marries the rich old man for his money. But will Ling-Ling put up with losing his inheritance to a fatty?",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/308062.jpg",
+                "title": "Greeks & Freaks",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "308062"
+                },
+                "votes": "9",
+                "writer": [
+                    "Dave Jeser",
+                    "Matt Silverstein"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/308063.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jess Harnell",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2007-05-18 14:17:34",
+                "director": [
+                    "Dwayne Carey-Hill"
+                ],
+                "episode": 2,
+                "episodeid": 353,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E02 - Wiggle Funny Tickle Non.divx",
+                "firstaired": "2006-10-12",
+                "label": "3x02. Wooldoor Sockbat's Giggle-Wiggle Funny Tickle Non-Traditional Progressive Multicultural Roundtable!",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Wooldoor's new children's show is finally hitting the air, but Clara is certain that it will turn kids gay faster than Tinky-Winky and SpongeBob combined. A Terminator from the future shows up to kill Wooldoor, but Xandir saves the little guy and explains that the show does really does turn the whole world gay. The Terminator was sent back by the remaining few straight people to ensure the straight future. In the mean time, Toot pines away for the mythical \"Wiener Mobile,\" which is supposed to give out free hot dogs. but only to the worthy.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/308063.jpg",
+                "title": "Wooldoor Sockbat's Giggle-Wiggle Funny Tickle Non-Traditional Progressive Multicultural Roundtable!",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "308063"
+                },
+                "votes": "13",
+                "writer": [
+                    "Erik Sommers"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/308064.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "David Cooley",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 17:39:21",
+                "director": [
+                    "Frank Marino"
+                ],
+                "episode": 3,
+                "episodeid": 354,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E03 - Spelling Applebee’s.divx",
+                "firstaired": "2006-10-19",
+                "label": "3x03. Spelling Applebee's",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Foxxy refuses to participate in a house Spelling Bee to win a gift certificate to Applebee's. The truth comes out that Foxxy used to be the best speller in all the land, but had fallen far from grace after a violent racial incident at a Bee years earlier. Spanky convinces Foxxy to go for the title once again. In the meantime, Captain Hero discovers Clara has a secret sexual fetish for car crashes. Hero causes wrecks to get Clara off, but does she really love him? Or is she just using him for the car crashes?",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/308064.jpg",
+                "title": "Spelling Applebee's",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "308064"
+                },
+                "votes": "9",
+                "writer": [
+                    "Jordan Young"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/310544.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "David Cooley",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Billy West",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 17:47:58",
+                "director": [
+                    "Kyounghee Lim"
+                ],
+                "episode": 4,
+                "episodeid": 355,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E04 - Unrestrainable Trainable.divx",
+                "firstaired": "2006-10-25",
+                "label": "3x04. Unrestrainable Trainable",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Captain Hero discovers that the \"special\" Giant who's been attacking the city is actually his son! And what's worse, Hero's sister, Captain She-Ro, is the mother! Can Hero raise his inbred son to be a productive member of society? Or will the Giant destroy the world by hugging a Winnie-the-Pooh-shaped nuclear bomb? In the mean time, Clara get Munchhausen's by Proxy and earns accolades by alternately taking care of Wooldoor, and keeping him sick with drain cleaner and sledgehammers.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/310544.jpg",
+                "title": "Unrestrainable Trainable",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "310544"
+                },
+                "votes": "8",
+                "writer": [
+                    "Elijah Aron"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/310545.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Tara Strong",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Phil LaMarr",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 18:40:41",
+                "director": [
+                    "Stephen Sandoval"
+                ],
+                "episode": 5,
+                "episodeid": 356,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E05 - N.R.A.y RAY.divx",
+                "firstaired": "2006-11-01",
+                "label": "3x05. N.R.A.y RAY",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After the house is robbed, Captain Hero decides to get a gun for protection. But things get out of hand when Hero starts hunting with assault weapons. Adorable little Bambi convinces Hero to stop hunting deer with such violent weapons. Hero decides rids the world of all assault weapons, leaving Earth vulnerable to the attacking deer! In the mean time, Foxxy hides her thieving grandson Ray Ray in the walls of the Drawn Together house to hide him from the police. Stuck in the walls, Ray Ray spies on the housemates and ends up falling in love with the fattest woman with the biggest ass. Toot. Can her huge ass save the housemates from the attacking deer?",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/310545.jpg",
+                "title": "N.R.A.y RAY",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "310545"
+                },
+                "votes": "7",
+                "writer": [
+                    "Craig DiGregorio"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/312130.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Carlos Mencia",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2007-06-15 01:48:46",
+                "director": [
+                    "Dwayne Carey-Hill"
+                ],
+                "episode": 6,
+                "episodeid": 357,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E06 - Mexican’t Buy Me Love.Divx",
+                "firstaired": "2006-11-08",
+                "label": "3x06. Mexican't Buy Me Love",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Captain Hero is desperate to hang out with the Cool Kids, like Spanky, Clara and Foxxy while Foxxy is desperate to save the world from a meteor. In the meantime, Ling-Ling takes up cockfighting in order to bribe the Mexican police.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/312130.jpg",
+                "title": "Mexican't Buy Me Love",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "312130"
+                },
+                "votes": "8",
+                "writer": [
+                    "Reed Agnew"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/312444.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Will Forte",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Phil LaMarr",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 18:25:57",
+                "director": [
+                    "Peter Avanzino"
+                ],
+                "episode": 7,
+                "episodeid": 358,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E07 - Lost In Parking Space (Part I).divx",
+                "firstaired": "2006-11-15",
+                "label": "3x07. Lost In Parking Space (1)",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Clara annoys her housemates by preaching about the upcoming rapture. When her housemates head off to the mall, Clara mistakenly thinks they've been taken off to heaven. In the mean time, the other housemates get themselves trapped in a compact parking space in the mall with little or no means of escape.",
+                "productioncode": "",
+                "rating": 6.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/312444.jpg",
+                "title": "Lost In Parking Space (1)",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "312444"
+                },
+                "votes": "7",
+                "writer": [
+                    "Erik Sommers",
+                    "Elijah Aron"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/314263.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 16:31:59",
+                "director": [],
+                "episode": 8,
+                "episodeid": 359,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E08 - Lost in Parking Space (Part II).divx",
+                "firstaired": "2007-10-04",
+                "label": "3x08. Lost In Parking Space (2)",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Toot drinks salt water and goes insane while trapped in the van, she tries to convince the other roommates in the van to kill and eat Ling-Ling. Foxxy tries to escape Hot Topic's back room before the manager lets customers torture her.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/314263.jpg",
+                "title": "Lost In Parking Space (2)",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "314263"
+                },
+                "votes": "4",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/315984.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Rebecca Romijn",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wgXgMaURH3yAugKt9gn3rHLrWdN.jpg"
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2008-01-31 10:55:02",
+                "director": [],
+                "episode": 9,
+                "episodeid": 360,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E09 - Charlotte's Web of Lies.avi",
+                "firstaired": "2007-10-11",
+                "label": "3x09. Charlotte's Web of Lies",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A spider has a one night stand with Spanky Ham, and relationship quickly turns into a fatal attraction. Meanwhile, Captain Hero comes face to face with his arch nemesis, and forges an unlikely bond. We also learn the origin of Ling-Ling's violent tendencies - he never truly wanted to be a fighter, oh no, all he wanted to do was dance.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/315984.jpg",
+                "title": "Charlotte's Web of Lies",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "315984"
+                },
+                "votes": "6",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/315985.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 18:04:08",
+                "director": [],
+                "episode": 10,
+                "episodeid": 361,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E10 - Breakfast Food Killer.divx",
+                "firstaired": "2007-10-18",
+                "label": "3x10. Breakfast Food Killer",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Wooldoor becomes the cereal mascot of Quackers cereal after the original mascot is mysteriously murdered. Wooldoor parties it up Hollywood-style with his new cereal friends, and soon finds himself addicted to Crunchberries. Toot discovers that the cereal industry is evil and tries to bring down those cereal jackasses before they lose Wooldoor forever",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/315985.jpg",
+                "title": "Breakfast Food Killer",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "315985"
+                },
+                "votes": "6",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/315986.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 16:37:44",
+                "director": [],
+                "episode": 11,
+                "episodeid": 362,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E011 - Drawn Together Babies.divx",
+                "firstaired": "2007-10-25",
+                "label": "3x11. Drawn Together Babies",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The eight housemates are living together as babies, and when Mommy and Daddy leave them with a babysitter they begin to plot against her. They end up killing her and have to cover up the whole thing.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/315986.jpg",
+                "title": "Drawn Together Babies",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "315986"
+                },
+                "votes": "5",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/315987.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Tara Strong",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2006-02-27 17:22:22",
+                "director": [],
+                "episode": 12,
+                "episodeid": 363,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E012 - Nipple Ring-Ring Goes to Foster Care.divx",
+                "firstaired": "2007-11-01",
+                "label": "3x12. Nipple Ring-Ring Goes to Foster Care",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Child Services puts Ling-Ling in foster care, where he ends up in the house of Uncle Ben. Foxxy decides to save Ling-Ling from foster care and ends up discovering who her father is. Hero is jealous of Xandir's nipple ring and decides to get one himself. After he gets hit by lighting, Hero realizes he can use his nipple ring to communicate with himself from the past.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/315987.jpg",
+                "title": "Nipple Ring-Ring Goes to Foster Care",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "315987"
+                },
+                "votes": "5",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/315988.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2008-01-24 05:38:39",
+                "director": [],
+                "episode": 13,
+                "episodeid": 364,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E13 - Toot Goes Bollywood.avi",
+                "firstaired": "2007-11-08",
+                "label": "3x13. Toot Goes Bollywood",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "An Indian family mistakes Toot for a cow. Foxxy recovers a suppressed memory about being sexually abused.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/315988.jpg",
+                "title": "Toot Goes Bollywood",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "315988"
+                },
+                "votes": "5",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/78831/315989.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adam Carolla",
+                        "order": 0,
+                        "role": "Spanky Ham",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68129.jpg"
+                    },
+                    {
+                        "name": "Jess Harnell",
+                        "order": 1,
+                        "role": "Captain Leslie Hero",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68131.jpg"
+                    },
+                    {
+                        "name": "Tara Strong",
+                        "order": 2,
+                        "role": "Princess Clara/Toot Braunstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68130.jpg"
+                    },
+                    {
+                        "name": "Abbey McBride",
+                        "order": 3,
+                        "role": "Ling-Ling",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68128.jpg"
+                    },
+                    {
+                        "name": "James Arnold Taylor",
+                        "order": 4,
+                        "role": "Wooldoor Jebediah Sockbat",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68127.jpg"
+                    },
+                    {
+                        "name": "Cree Summer",
+                        "order": 5,
+                        "role": "Foxxy Love",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68126.jpg"
+                    },
+                    {
+                        "name": "Jack Plotnick",
+                        "order": 6,
+                        "role": "Xandir P. Wifflebottom",
+                        "thumbnail": "http://thetvdb.com/banners/actors/68125.jpg"
+                    }
+                ],
+                "dateadded": "2008-01-31 11:05:59",
+                "director": [],
+                "episode": 14,
+                "episodeid": 365,
+                "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Drawn Together/Drawn Together Staffel 3/S03E14 - American Idol Best of Show.avi",
+                "firstaired": "2007-11-14",
+                "label": "3x14. American Idol Parody Clip Show",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The housemates look back at the season and compete to stay in the house in an American Idol type competition, while they are forced to sing some show favorites with some new twists.",
+                "productioncode": "",
+                "rating": 6.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1200,
+                "season": 3,
+                "showtitle": "Drawn Together",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/78831/315989.jpg",
+                "title": "American Idol Parody Clip Show",
+                "tvshowid": 27,
+                "uniqueid": {
+                    "unknown": "315989"
+                },
+                "votes": "5",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/78831-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/78831-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+            },
+            "episode": 7,
+            "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 134,
+            "showtitle": "Drawn Together",
+            "thumbnail": "http://thetvdb.com/banners/seasons/78831-1.jpg",
+            "tvshowid": 27,
+            "watchedepisodes": 0
+        },
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/78831-2-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+            },
+            "episode": 15,
+            "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+            "label": "Staffel 2",
+            "playcount": 0,
+            "season": 2,
+            "seasonid": 135,
+            "showtitle": "Drawn Together",
+            "thumbnail": "http://thetvdb.com/banners/seasons/78831-2-2.jpg",
+            "tvshowid": 27,
+            "watchedepisodes": 0
+        },
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/78831-3.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/78831-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/78831-1.jpg"
+            },
+            "episode": 14,
+            "fanart": "http://thetvdb.com/banners/fanart/original/78831-1.jpg",
+            "label": "Staffel 3",
+            "playcount": 0,
+            "season": 3,
+            "seasonid": 136,
+            "showtitle": "Drawn Together",
+            "thumbnail": "http://thetvdb.com/banners/seasons/78831-3.jpg",
+            "tvshowid": 27,
+            "watchedepisodes": 0
+        }
+    ]
+}

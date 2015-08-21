@@ -1,0 +1,818 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/248812-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+            "poster": "http://thetvdb.com/banners/posters/248812-4.jpg"
+        },
+        "cast": [
+            {
+                "name": "Krysten Ritter",
+                "order": 0,
+                "role": "Chloe",
+                "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+            },
+            {
+                "name": "Dreama Walker",
+                "order": 1,
+                "role": "June Colburn",
+                "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+            },
+            {
+                "name": "James Van Der Beek",
+                "order": 2,
+                "role": "James Van Der Beek",
+                "thumbnail": "http://thetvdb.com/banners/actors/284348.jpg"
+            },
+            {
+                "name": "Ray Ford",
+                "order": 3,
+                "role": "Luther Wilson",
+                "thumbnail": "http://thetvdb.com/banners/actors/305666.jpg"
+            },
+            {
+                "name": "Liza Lapira",
+                "order": 4,
+                "role": "Robin",
+                "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+            },
+            {
+                "name": "Eric André",
+                "order": 5,
+                "role": "Mark Reynolds",
+                "thumbnail": "http://thetvdb.com/banners/actors/291457.jpg"
+            },
+            {
+                "name": "Michael Blaiklock",
+                "order": 6,
+                "role": "Eli Webber",
+                "thumbnail": "http://thetvdb.com/banners/actors/291456.jpg"
+            }
+        ],
+        "dateadded": "2013-04-09 18:40:07",
+        "episode": 7,
+        "episodeguide": "<episodeguide><url cache=\"248812-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/248812/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/",
+        "genre": [
+            "Comedy"
+        ],
+        "imdbnumber": "248812",
+        "label": "Don't Trust the B---- in Apartment 23",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "The series revolves around the lives of two different women who are roommates in a New York City apartment, who become involved in the ultimate art of turning the tables on each other and everybody else.\r\n\r\nThe unlikely situation begins when June, a recently hired cafe barista -- and whose dream job and previous apartment were shattered by her CEO's involvement in the Bernie Madoff scandal that left her in debt -- befriends a patron named Chloe, who offers a place to stay, not knowing that she's a con artist and successfully rips June off after she moves in. Unfortunately, Chloe is stunned to learn that the supposedely naive June can also play that game as well. This prompts the two to use those talents to good use in order to survive in the city, with help from actor James Van Der Beek, who also assists in their plotting.",
+        "premiered": "2012-04-11",
+        "rating": 7.699999809265137,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "ABC (US)"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/248812-4.jpg",
+        "title": "Don't Trust the B---- in Apartment 23",
+        "tvshowid": 5,
+        "votes": "32",
+        "watchedepisodes": 0,
+        "year": 2012
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248812/4101892.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248812-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248812-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Tate Ellington",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Eve Gordon",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Peter Mackenzie",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Adrian Kali Turner",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rob Yang",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nick Puga",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rebecca Grant",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Daniel Berson",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Helmar Augustus Cooper",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Gameela Wright",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Thushari Jayasekera",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Anoush NeVart",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Zitto Kazann",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Armaan Juneja",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Katherine Tokarz",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Clement von Franckenst",
+                        "order": 16,
+                        "role": ""
+                    },
+                    {
+                        "name": "Krysten Ritter",
+                        "order": 0,
+                        "role": "Chloe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                    },
+                    {
+                        "name": "Dreama Walker",
+                        "order": 1,
+                        "role": "June Colburn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                    },
+                    {
+                        "name": "James Van Der Beek",
+                        "order": 2,
+                        "role": "James Van Der Beek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284348.jpg"
+                    },
+                    {
+                        "name": "Ray Ford",
+                        "order": 3,
+                        "role": "Luther Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305666.jpg"
+                    },
+                    {
+                        "name": "Liza Lapira",
+                        "order": 4,
+                        "role": "Robin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                    },
+                    {
+                        "name": "Eric André",
+                        "order": 5,
+                        "role": "Mark Reynolds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291457.jpg"
+                    },
+                    {
+                        "name": "Michael Blaiklock",
+                        "order": 6,
+                        "role": "Eli Webber",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291456.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-03 14:16:27",
+                "director": [
+                    "Jason Winer"
+                ],
+                "episode": 1,
+                "episodeid": 78,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E01.Dont.Trust.the.Bitch.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
+                "firstaired": "2012-04-11",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When naive June is scammed by her new roommate Chloe, she decides to turn the tables on her and by doing so earns Chloe's respect.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1800,
+                "season": 1,
+                "showtitle": "Don't Trust the B---- in Apartment 23",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248812/4101892.jpg",
+                "title": "Pilot",
+                "tvshowid": 5,
+                "uniqueid": {
+                    "unknown": "4101892"
+                },
+                "votes": "53",
+                "writer": [
+                    "Nahnatchka Khan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248812/4298286.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248812-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248812-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Krysten Ritter",
+                        "order": 0,
+                        "role": "Chloe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                    },
+                    {
+                        "name": "Dreama Walker",
+                        "order": 1,
+                        "role": "June Colburn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                    },
+                    {
+                        "name": "James Van Der Beek",
+                        "order": 2,
+                        "role": "James Van Der Beek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284348.jpg"
+                    },
+                    {
+                        "name": "Ray Ford",
+                        "order": 3,
+                        "role": "Luther Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305666.jpg"
+                    },
+                    {
+                        "name": "Liza Lapira",
+                        "order": 4,
+                        "role": "Robin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                    },
+                    {
+                        "name": "Eric André",
+                        "order": 5,
+                        "role": "Mark Reynolds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291457.jpg"
+                    },
+                    {
+                        "name": "Michael Blaiklock",
+                        "order": 6,
+                        "role": "Eli Webber",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291456.jpg"
+                    }
+                ],
+                "dateadded": "2013-04-09 18:37:10",
+                "director": [
+                    "Michael Spiller"
+                ],
+                "episode": 2,
+                "episodeid": 79,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E02.Daddys.Girl.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
+                "firstaired": "2012-04-18",
+                "label": "1x02. Daddy's Girl ...",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "June begrudgingly lets Chloe set her up on a date; James teaches an acting class in which he can't escape his Dawson persona.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1800,
+                "season": 1,
+                "showtitle": "Don't Trust the B---- in Apartment 23",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248812/4298286.jpg",
+                "title": "Daddy's Girl ...",
+                "tvshowid": 5,
+                "uniqueid": {
+                    "unknown": "4298286"
+                },
+                "votes": "47",
+                "writer": [
+                    "Nahnatchka Khan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248812/4305699.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248812-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248812-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Krysten Ritter",
+                        "order": 0,
+                        "role": "Chloe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                    },
+                    {
+                        "name": "Dreama Walker",
+                        "order": 1,
+                        "role": "June Colburn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                    },
+                    {
+                        "name": "James Van Der Beek",
+                        "order": 2,
+                        "role": "James Van Der Beek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284348.jpg"
+                    },
+                    {
+                        "name": "Ray Ford",
+                        "order": 3,
+                        "role": "Luther Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305666.jpg"
+                    },
+                    {
+                        "name": "Liza Lapira",
+                        "order": 4,
+                        "role": "Robin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                    },
+                    {
+                        "name": "Eric André",
+                        "order": 5,
+                        "role": "Mark Reynolds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291457.jpg"
+                    },
+                    {
+                        "name": "Michael Blaiklock",
+                        "order": 6,
+                        "role": "Eli Webber",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291456.jpg"
+                    }
+                ],
+                "dateadded": "2013-04-09 18:37:34",
+                "director": [
+                    "Chris Koch"
+                ],
+                "episode": 3,
+                "episodeid": 80,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E03.Rabenmutter.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
+                "firstaired": "2012-04-25",
+                "label": "1x03. Parent Trap ...",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "On top of a demanding internship and two jobs, June also must figure out how to clean up a mess created by one of Chloe's ill-conceived ideas; James is excited when he lands a role in a movie with Kiernan Shipka.",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1800,
+                "season": 1,
+                "showtitle": "Don't Trust the B---- in Apartment 23",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248812/4305699.jpg",
+                "title": "Parent Trap ...",
+                "tvshowid": 5,
+                "uniqueid": {
+                    "unknown": "4305699"
+                },
+                "votes": "45",
+                "writer": [
+                    "Sally Bradford"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248812/4305700.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248812-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248812-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Krysten Ritter",
+                        "order": 0,
+                        "role": "Chloe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                    },
+                    {
+                        "name": "Dreama Walker",
+                        "order": 1,
+                        "role": "June Colburn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                    },
+                    {
+                        "name": "James Van Der Beek",
+                        "order": 2,
+                        "role": "James Van Der Beek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284348.jpg"
+                    },
+                    {
+                        "name": "Ray Ford",
+                        "order": 3,
+                        "role": "Luther Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305666.jpg"
+                    },
+                    {
+                        "name": "Liza Lapira",
+                        "order": 4,
+                        "role": "Robin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                    },
+                    {
+                        "name": "Eric André",
+                        "order": 5,
+                        "role": "Mark Reynolds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291457.jpg"
+                    },
+                    {
+                        "name": "Michael Blaiklock",
+                        "order": 6,
+                        "role": "Eli Webber",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291456.jpg"
+                    }
+                ],
+                "dateadded": "2013-04-09 18:38:27",
+                "director": [
+                    "Chris Koch"
+                ],
+                "episode": 4,
+                "episodeid": 81,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E04.New.Cool.June.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
+                "firstaired": "2012-05-02",
+                "label": "1x04. The Wedding ...",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a wedding invitation leaves single June down in the dumps, Chloe tries to give her more confidence --but does too good of a job.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1800,
+                "season": 1,
+                "showtitle": "Don't Trust the B---- in Apartment 23",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248812/4305700.jpg",
+                "title": "The Wedding ...",
+                "tvshowid": 5,
+                "uniqueid": {
+                    "unknown": "4305700"
+                },
+                "votes": "40",
+                "writer": [
+                    "Casey Johnson",
+                    "David Windsor"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248812/4305701.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248812-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248812-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Krysten Ritter",
+                        "order": 0,
+                        "role": "Chloe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                    },
+                    {
+                        "name": "Dreama Walker",
+                        "order": 1,
+                        "role": "June Colburn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                    },
+                    {
+                        "name": "James Van Der Beek",
+                        "order": 2,
+                        "role": "James Van Der Beek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284348.jpg"
+                    },
+                    {
+                        "name": "Ray Ford",
+                        "order": 3,
+                        "role": "Luther Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305666.jpg"
+                    },
+                    {
+                        "name": "Liza Lapira",
+                        "order": 4,
+                        "role": "Robin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                    },
+                    {
+                        "name": "Eric André",
+                        "order": 5,
+                        "role": "Mark Reynolds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291457.jpg"
+                    },
+                    {
+                        "name": "Michael Blaiklock",
+                        "order": 6,
+                        "role": "Eli Webber",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291456.jpg"
+                    }
+                ],
+                "dateadded": "2013-04-09 18:38:34",
+                "director": [
+                    "Michael Spiller"
+                ],
+                "episode": 5,
+                "episodeid": 82,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E05.Marmelade.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
+                "firstaired": "2012-05-09",
+                "label": "1x05. Making Rent ...",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After struggling to make ends meet, June comes up with a creative way to make extra money; James launches a line of super-skinny jeans.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1800,
+                "season": 1,
+                "showtitle": "Don't Trust the B---- in Apartment 23",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248812/4305701.jpg",
+                "title": "Making Rent ...",
+                "tvshowid": 5,
+                "uniqueid": {
+                    "unknown": "4305701"
+                },
+                "votes": "36",
+                "writer": [
+                    "Corey Nickerson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248812/4320938.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248812-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248812-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Krysten Ritter",
+                        "order": 0,
+                        "role": "Chloe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                    },
+                    {
+                        "name": "Dreama Walker",
+                        "order": 1,
+                        "role": "June Colburn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                    },
+                    {
+                        "name": "James Van Der Beek",
+                        "order": 2,
+                        "role": "James Van Der Beek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284348.jpg"
+                    },
+                    {
+                        "name": "Ray Ford",
+                        "order": 3,
+                        "role": "Luther Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305666.jpg"
+                    },
+                    {
+                        "name": "Liza Lapira",
+                        "order": 4,
+                        "role": "Robin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                    },
+                    {
+                        "name": "Eric André",
+                        "order": 5,
+                        "role": "Mark Reynolds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291457.jpg"
+                    },
+                    {
+                        "name": "Michael Blaiklock",
+                        "order": 6,
+                        "role": "Eli Webber",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291456.jpg"
+                    }
+                ],
+                "dateadded": "2013-04-09 18:39:31",
+                "director": [
+                    "Nanette Burstein"
+                ],
+                "episode": 6,
+                "episodeid": 83,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E06.Einfach.nur.Sex.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
+                "firstaired": "2012-05-16",
+                "label": "1x06. It's Just Sex ...",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Chloe encourages June to try casual sex; an embarrassing video of James and Chloe leaks, causing James to worry about its effect on his likeability.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1800,
+                "season": 1,
+                "showtitle": "Don't Trust the B---- in Apartment 23",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248812/4320938.jpg",
+                "title": "It's Just Sex ...",
+                "tvshowid": 5,
+                "uniqueid": {
+                    "unknown": "4320938"
+                },
+                "votes": "34",
+                "writer": [
+                    "Billy Finnegan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248812/4325223.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248812-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248812-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Krysten Ritter",
+                        "order": 0,
+                        "role": "Chloe",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                    },
+                    {
+                        "name": "Dreama Walker",
+                        "order": 1,
+                        "role": "June Colburn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                    },
+                    {
+                        "name": "James Van Der Beek",
+                        "order": 2,
+                        "role": "James Van Der Beek",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284348.jpg"
+                    },
+                    {
+                        "name": "Ray Ford",
+                        "order": 3,
+                        "role": "Luther Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305666.jpg"
+                    },
+                    {
+                        "name": "Liza Lapira",
+                        "order": 4,
+                        "role": "Robin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                    },
+                    {
+                        "name": "Eric André",
+                        "order": 5,
+                        "role": "Mark Reynolds",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291457.jpg"
+                    },
+                    {
+                        "name": "Michael Blaiklock",
+                        "order": 6,
+                        "role": "Eli Webber",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291456.jpg"
+                    }
+                ],
+                "dateadded": "2013-04-09 18:40:07",
+                "director": [
+                    "Wendey Stanzler"
+                ],
+                "episode": 7,
+                "episodeid": 84,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E07.Shitagi.Nashi.GERMAN.DUBBED.WS.WEBRip.XviD-TVP.mp4",
+                "firstaired": "2012-05-23",
+                "label": "1x07. Shitagi Nashi ...",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "June tries to keep up with Chloe and her party lifestyle; James loses it when he finds out that Dean Cain has a bigger dressing room than he has.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1800,
+                "season": 1,
+                "showtitle": "Don't Trust the B---- in Apartment 23",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248812/4325223.jpg",
+                "title": "Shitagi Nashi ...",
+                "tvshowid": 5,
+                "uniqueid": {
+                    "unknown": "4325223"
+                },
+                "votes": "29",
+                "writer": [
+                    "Casey Johnson",
+                    "David Windsor"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/248812-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/248812-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/248812-4.jpg"
+            },
+            "episode": 7,
+            "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 28,
+            "showtitle": "Don't Trust the B---- in Apartment 23",
+            "thumbnail": "http://thetvdb.com/banners/seasons/248812-1.jpg",
+            "tvshowid": 5,
+            "watchedepisodes": 0
+        }
+    ]
+}

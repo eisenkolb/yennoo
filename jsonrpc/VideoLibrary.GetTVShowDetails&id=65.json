@@ -1,0 +1,484 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/248757-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
+            "poster": "http://thetvdb.com/banners/posters/248757-4.jpg"
+        },
+        "cast": [
+            {
+                "name": "Eric McCormack",
+                "order": 0,
+                "role": "Dr. Daniel Pierce",
+                "thumbnail": "http://thetvdb.com/banners/actors/284300.jpg"
+            },
+            {
+                "name": "Kelly Rowan",
+                "order": 1,
+                "role": "Natalie Vincent",
+                "thumbnail": "http://thetvdb.com/banners/actors/296485.jpg"
+            },
+            {
+                "name": "Rachael Leigh Cook",
+                "order": 2,
+                "role": "Kate Moretti",
+                "thumbnail": "http://thetvdb.com/banners/actors/284301.jpg"
+            },
+            {
+                "name": "LeVar Burton",
+                "order": 3,
+                "role": "Paul Haley",
+                "thumbnail": "http://thetvdb.com/banners/actors/336434.jpg"
+            },
+            {
+                "name": "Arjay Smith",
+                "order": 4,
+                "role": "Max Lewicki",
+                "thumbnail": "http://thetvdb.com/banners/actors/296484.jpg"
+            },
+            {
+                "name": "Scott Wolf",
+                "order": 5,
+                "role": "Donnie Ryan",
+                "thumbnail": "http://thetvdb.com/banners/actors/336435.jpg"
+            }
+        ],
+        "dateadded": "2013-11-24 13:34:17",
+        "episode": 3,
+        "episodeguide": "<episodeguide><url cache=\"248757-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/248757/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Perception/",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "imdbnumber": "248757",
+        "label": "Perception",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "This fascinating series features one of the most unique crime solvers on television, an eccentric neuroscience professor who is recruited by the FBI to help solve complex cases.\r\n\r\nEric McCormack stars as Dr. Daniel Pierce, who possesses an intimate knowledge of human behavior and a masterful understanding of the way the mind works. Although Pierce’s mind may be brilliant, it’s also damaged as he suffers from paranoid schizophrenia. Rachael Leigh Cook co-stars as FBI agent Kate Moretti, Pierce’s former student who has recruited Pierce to consult on cases.",
+        "premiered": "2012-07-09",
+        "rating": 8.100000381469727,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "TNT"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/248757-4.jpg",
+        "title": "Perception",
+        "tvshowid": 65,
+        "votes": "45",
+        "watchedepisodes": 0,
+        "year": 2012
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248757/4099762.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248757-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248757-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jonathan Scarfe",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jeremy Ratchford",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "LeVar Burton",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336434.jpg"
+                    },
+                    {
+                        "name": "Colin Cunningham",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Eric McCormack",
+                        "order": 0,
+                        "role": "Dr. Daniel Pierce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284300.jpg"
+                    },
+                    {
+                        "name": "Kelly Rowan",
+                        "order": 1,
+                        "role": "Natalie Vincent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/296485.jpg"
+                    },
+                    {
+                        "name": "Rachael Leigh Cook",
+                        "order": 2,
+                        "role": "Kate Moretti",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284301.jpg"
+                    },
+                    {
+                        "name": "Arjay Smith",
+                        "order": 4,
+                        "role": "Max Lewicki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/296484.jpg"
+                    },
+                    {
+                        "name": "Scott Wolf",
+                        "order": 5,
+                        "role": "Donnie Ryan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336435.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-09 15:54:44",
+                "director": [
+                    "Alan Poul"
+                ],
+                "episode": 1,
+                "episodeid": 1229,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Perception/Season 1/Perception.S01E01.Die.Realitaeten.des.Dr.Daniel.Pierce.German.Dubbed.DVDRip.XviD-ITG.avi",
+                "firstaired": "2012-07-09",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Neuroscience professor Daniel Pierce (Eric McCormack) is recruited by a former student, FBI Agent Kate Moretti (Rachael Leigh Cook), to help out on a case involving the death of a pharmaceutical executive. But Daniel's schizophrenic hallucinations could potentially derail the investigation.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Perception",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248757/4099762.jpg",
+                "title": "Pilot",
+                "tvshowid": 65,
+                "uniqueid": {
+                    "unknown": "4099762"
+                },
+                "votes": "54",
+                "writer": [
+                    "Kenneth Biller",
+                    "Mike Sussman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248757/4333917.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248757-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248757-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jamie Bamber",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Katherine Boecher",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Winter Ave Zoli",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336423.jpg"
+                    },
+                    {
+                        "name": "W. Earl Brown",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ygTJtQVn9R2NgE1YPybsgk33jBm.jpg"
+                    },
+                    {
+                        "name": "Jason Gerhardt",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tessa Munro",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dimitri Diatchenko",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vPScVMpccnmNQSsvYhdwGcReblD.jpg"
+                    },
+                    {
+                        "name": "Zeljka Cvjetan",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Zoran Korach",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kinga Philipps",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jonathan Scarfe",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Eric McCormack",
+                        "order": 0,
+                        "role": "Dr. Daniel Pierce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284300.jpg"
+                    },
+                    {
+                        "name": "Kelly Rowan",
+                        "order": 1,
+                        "role": "Natalie Vincent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/296485.jpg"
+                    },
+                    {
+                        "name": "Rachael Leigh Cook",
+                        "order": 2,
+                        "role": "Kate Moretti",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284301.jpg"
+                    },
+                    {
+                        "name": "LeVar Burton",
+                        "order": 3,
+                        "role": "Paul Haley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336434.jpg"
+                    },
+                    {
+                        "name": "Arjay Smith",
+                        "order": 4,
+                        "role": "Max Lewicki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/296484.jpg"
+                    },
+                    {
+                        "name": "Scott Wolf",
+                        "order": 5,
+                        "role": "Donnie Ryan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336435.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-15 21:50:46",
+                "director": [
+                    "Greg Beeman"
+                ],
+                "episode": 2,
+                "episodeid": 1230,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Perception/Season 1/Perception.S01E02.Gesichter.German.Dubbed.DVDRip.XviD-ITG.avi",
+                "firstaired": "2012-07-16",
+                "label": "1x02. Faces",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Pierce is enlisted to help crack the case of a murdered mail-order bride. A twist marks the investigation when it's discovered the prime suspect suffers from an unusual condition. Elsewhere, Moretti is drawn to a handsome new professor.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Perception",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248757/4333917.jpg",
+                "title": "Faces",
+                "tvshowid": 65,
+                "uniqueid": {
+                    "unknown": "4333917"
+                },
+                "votes": "44",
+                "writer": [
+                    "Kenneth Biller",
+                    "Mike Sussman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248757/4349957.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248757-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248757-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Patrick Cassidy",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Pete Gardner",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dan Lauria",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sheryl Lee",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Pamela Reed",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Armin Shimerman",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Richard Edson",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Paul Ganus",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Bobby Hosea",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Pat Millicano",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jonathan Scarfe",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Eric McCormack",
+                        "order": 0,
+                        "role": "Dr. Daniel Pierce",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284300.jpg"
+                    },
+                    {
+                        "name": "Kelly Rowan",
+                        "order": 1,
+                        "role": "Natalie Vincent",
+                        "thumbnail": "http://thetvdb.com/banners/actors/296485.jpg"
+                    },
+                    {
+                        "name": "Rachael Leigh Cook",
+                        "order": 2,
+                        "role": "Kate Moretti",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284301.jpg"
+                    },
+                    {
+                        "name": "LeVar Burton",
+                        "order": 3,
+                        "role": "Paul Haley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336434.jpg"
+                    },
+                    {
+                        "name": "Arjay Smith",
+                        "order": 4,
+                        "role": "Max Lewicki",
+                        "thumbnail": "http://thetvdb.com/banners/actors/296484.jpg"
+                    },
+                    {
+                        "name": "Scott Wolf",
+                        "order": 5,
+                        "role": "Donnie Ryan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/336435.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-24 13:34:17",
+                "director": [
+                    "Deran Sarafian"
+                ],
+                "episode": 3,
+                "episodeid": 1231,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Perception/Season 1/Perception.S01E03.Wir.schreiben.das.Jahr.1986.German.Dubbed.DVDRip.XviD-ITG.avi",
+                "firstaired": "2012-07-23",
+                "label": "1x03. 86'd",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Pierce and Moretti race to find clues when a serial killer from 1986 begins killing again. They catch a break when they learn that one of the victims is actually alive. Moretti's dad, one of the investigators on the original case, offers his daughter advice. Pamela Reed also guest-stars as the mother of the surviving victim, while Armin Shimerman is the victim's psychologist.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Perception",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248757/4349957.jpg",
+                "title": "86'd",
+                "tvshowid": 65,
+                "uniqueid": {
+                    "unknown": "4349957"
+                },
+                "votes": "40",
+                "writer": [
+                    "Stephen Tolkin"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/248757-1-3.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/248757-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/248757-4.jpg"
+            },
+            "episode": 3,
+            "fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 360,
+            "showtitle": "Perception",
+            "thumbnail": "http://thetvdb.com/banners/seasons/248757-1-3.jpg",
+            "tvshowid": 65,
+            "watchedepisodes": 0
+        }
+    ]
+}

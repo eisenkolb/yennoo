@@ -1,0 +1,743 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+            "poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+        },
+        "cast": [
+            {
+                "name": "Jon Bernthal",
+                "order": 0,
+                "role": "Joe Teague",
+                "thumbnail": "http://thetvdb.com/banners/actors/187971.jpg"
+            },
+            {
+                "name": "Milo Ventimiglia",
+                "order": 1,
+                "role": "Ned Stax",
+                "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+            },
+            {
+                "name": "Jeffrey DeMunn",
+                "order": 2,
+                "role": "Hal Morrison",
+                "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+            },
+            {
+                "name": "Gregory Itzin",
+                "order": 3,
+                "role": "Mayor Fletcher Bowron",
+                "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+            },
+            {
+                "name": "Robert Knepper",
+                "order": 4,
+                "role": "Sid Rothman",
+                "thumbnail": "http://thetvdb.com/banners/actors/321607.jpg"
+            },
+            {
+                "name": "Jeremy Luke",
+                "order": 5,
+                "role": "Mickey Cohen",
+                "thumbnail": "http://thetvdb.com/banners/actors/314398.jpg"
+            },
+            {
+                "name": "Alexa Davalos",
+                "order": 6,
+                "role": "Jasmine",
+                "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+            },
+            {
+                "name": "Neal McDonough",
+                "order": 7,
+                "role": "Captain William Parker",
+                "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+            },
+            {
+                "name": "Edward Burns",
+                "order": 8,
+                "role": "Ben \"Bugsy\" Siegel",
+                "thumbnail": "http://thetvdb.com/banners/actors/299593.jpg"
+            }
+        ],
+        "dateadded": "2015-02-16 23:11:30",
+        "episode": 6,
+        "episodeguide": "<episodeguide><url cache=\"259632-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/259632/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/",
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "imdbnumber": "259632",
+        "label": "Mob City",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "The true story of a decades-long conflict between the Los Angeles Police Department, under the determined leadership of Police Chief William Parker, and ruthless criminal elements led by Mickey Cohen, a one-time boxer who rose to the top of L.A.'s criminal world. The series is a fast-paced crime drama set in Los Angeles during the 1940s and '50s. It's a world of glamorous movie stars, powerful studio heads, returning war heroes, a powerful and corrupt police force and an even more dangerous criminal network determined to make L.A. its West Coast base.",
+        "premiered": "2013-12-04",
+        "rating": 8.199999809265137,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "TNT"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/259632-4.jpg",
+        "title": "Mob City",
+        "tvshowid": 54,
+        "votes": "13",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259632/4420323.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Simon Pegg",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jon Bernthal",
+                        "order": 0,
+                        "role": "Joe Teague",
+                        "thumbnail": "http://thetvdb.com/banners/actors/187971.jpg"
+                    },
+                    {
+                        "name": "Milo Ventimiglia",
+                        "order": 1,
+                        "role": "Ned Stax",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                    },
+                    {
+                        "name": "Jeffrey DeMunn",
+                        "order": 2,
+                        "role": "Hal Morrison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                    },
+                    {
+                        "name": "Gregory Itzin",
+                        "order": 3,
+                        "role": "Mayor Fletcher Bowron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                    },
+                    {
+                        "name": "Robert Knepper",
+                        "order": 4,
+                        "role": "Sid Rothman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321607.jpg"
+                    },
+                    {
+                        "name": "Jeremy Luke",
+                        "order": 5,
+                        "role": "Mickey Cohen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314398.jpg"
+                    },
+                    {
+                        "name": "Alexa Davalos",
+                        "order": 6,
+                        "role": "Jasmine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 7,
+                        "role": "Captain William Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Edward Burns",
+                        "order": 8,
+                        "role": "Ben \"Bugsy\" Siegel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299593.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-29 22:07:18",
+                "director": [
+                    "Frank Darabont"
+                ],
+                "episode": 1,
+                "episodeid": 888,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/Season 1/Mob.City.S01E01.A.Guy.Walks.Into.a.Bar.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-12-04",
+                "label": "1x01. A Guy Walks Into A Bar",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Hecky Nash bribes police detective Joe Teague  to protect him during a dangerous blackmail scheme involving the Los Angeles mob. Seeing this as a perfect opportunity to bring down one of the city’s most infamous mobsters, the Los Angeles police force looks to Teague for key information in hopes of crippling the heart of L.A.'s organized crime.",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Mob City",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259632/4420323.jpg",
+                "title": "A Guy Walks Into A Bar",
+                "tvshowid": 54,
+                "uniqueid": {
+                    "unknown": "4420323"
+                },
+                "votes": "15",
+                "writer": [
+                    "Frank Darabont"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259632/4707699.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Richard Brake",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/abAWQ1teqGMOpbdoSlha26RvmHu.jpg"
+                    },
+                    {
+                        "name": "Jon Bernthal",
+                        "order": 0,
+                        "role": "Joe Teague",
+                        "thumbnail": "http://thetvdb.com/banners/actors/187971.jpg"
+                    },
+                    {
+                        "name": "Milo Ventimiglia",
+                        "order": 1,
+                        "role": "Ned Stax",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                    },
+                    {
+                        "name": "Jeffrey DeMunn",
+                        "order": 2,
+                        "role": "Hal Morrison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                    },
+                    {
+                        "name": "Gregory Itzin",
+                        "order": 3,
+                        "role": "Mayor Fletcher Bowron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                    },
+                    {
+                        "name": "Robert Knepper",
+                        "order": 4,
+                        "role": "Sid Rothman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321607.jpg"
+                    },
+                    {
+                        "name": "Jeremy Luke",
+                        "order": 5,
+                        "role": "Mickey Cohen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314398.jpg"
+                    },
+                    {
+                        "name": "Alexa Davalos",
+                        "order": 6,
+                        "role": "Jasmine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 7,
+                        "role": "Captain William Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Edward Burns",
+                        "order": 8,
+                        "role": "Ben \"Bugsy\" Siegel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299593.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-16 22:48:58",
+                "director": [
+                    "Frank Darabont"
+                ],
+                "episode": 2,
+                "episodeid": 889,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/Season 1/Mob.City.S01E02.Reason.To.Kill.A.Man.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-12-04",
+                "label": "1x02. Reason to Kill a Man",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Hal Morrison and Captain William Parker  interrogate Jasmine in a desperate attempt to gain insight into Hecky Nash's blackmail scheme. Keeping a close eye on Jasmine, Joe discovers she's hiding a secret that could cost her her life. Meanwhile, Sid and Terry get a tip that leads to a violent display of revenge.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Mob City",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259632/4707699.jpg",
+                "title": "Reason to Kill a Man",
+                "tvshowid": 54,
+                "uniqueid": {
+                    "unknown": "4707699"
+                },
+                "votes": "12",
+                "writer": [
+                    "Frank Darabont"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259632/4707700.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jon Bernthal",
+                        "order": 0,
+                        "role": "Joe Teague",
+                        "thumbnail": "http://thetvdb.com/banners/actors/187971.jpg"
+                    },
+                    {
+                        "name": "Milo Ventimiglia",
+                        "order": 1,
+                        "role": "Ned Stax",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                    },
+                    {
+                        "name": "Jeffrey DeMunn",
+                        "order": 2,
+                        "role": "Hal Morrison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                    },
+                    {
+                        "name": "Gregory Itzin",
+                        "order": 3,
+                        "role": "Mayor Fletcher Bowron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                    },
+                    {
+                        "name": "Robert Knepper",
+                        "order": 4,
+                        "role": "Sid Rothman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321607.jpg"
+                    },
+                    {
+                        "name": "Jeremy Luke",
+                        "order": 5,
+                        "role": "Mickey Cohen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314398.jpg"
+                    },
+                    {
+                        "name": "Alexa Davalos",
+                        "order": 6,
+                        "role": "Jasmine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 7,
+                        "role": "Captain William Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Edward Burns",
+                        "order": 8,
+                        "role": "Ben \"Bugsy\" Siegel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299593.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-16 22:54:13",
+                "director": [
+                    "Frank Darabont"
+                ],
+                "episode": 3,
+                "episodeid": 890,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/Season 1/Mob.City.S01E03.Red.Light.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-12-11",
+                "label": "1x03. Red Light",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Bugsy reveals a plan that will transform the city; Bugsy uses violence to prove a point; the police force scours the city for leads; Jasmine struggles to stay out of harm's way.",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Mob City",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259632/4707700.jpg",
+                "title": "Red Light",
+                "tvshowid": 54,
+                "uniqueid": {
+                    "unknown": "4707700"
+                },
+                "votes": "13",
+                "writer": [
+                    "Michael Sloane"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259632/4707701.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jon Bernthal",
+                        "order": 0,
+                        "role": "Joe Teague",
+                        "thumbnail": "http://thetvdb.com/banners/actors/187971.jpg"
+                    },
+                    {
+                        "name": "Milo Ventimiglia",
+                        "order": 1,
+                        "role": "Ned Stax",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                    },
+                    {
+                        "name": "Jeffrey DeMunn",
+                        "order": 2,
+                        "role": "Hal Morrison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                    },
+                    {
+                        "name": "Gregory Itzin",
+                        "order": 3,
+                        "role": "Mayor Fletcher Bowron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                    },
+                    {
+                        "name": "Robert Knepper",
+                        "order": 4,
+                        "role": "Sid Rothman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321607.jpg"
+                    },
+                    {
+                        "name": "Jeremy Luke",
+                        "order": 5,
+                        "role": "Mickey Cohen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314398.jpg"
+                    },
+                    {
+                        "name": "Alexa Davalos",
+                        "order": 6,
+                        "role": "Jasmine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 7,
+                        "role": "Captain William Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Edward Burns",
+                        "order": 8,
+                        "role": "Ben \"Bugsy\" Siegel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299593.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-16 22:59:50",
+                "director": [
+                    "Guy Ferland"
+                ],
+                "episode": 4,
+                "episodeid": 891,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/Season 1/Mob.City.S01E04.New.Tempting.Ways.To.Serve.Bananas.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-12-11",
+                "label": "1x04. His Banana Majesty",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The police manage to get Bugsy Siegel behind bars; mobster Jack Dragna makes a move; Jasmine is threatened at her apartment; Joe gets an unexpected visit from Sid.",
+                "productioncode": "",
+                "rating": 8.399999618530273,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Mob City",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259632/4707701.jpg",
+                "title": "His Banana Majesty",
+                "tvshowid": 54,
+                "uniqueid": {
+                    "unknown": "4707701"
+                },
+                "votes": "10",
+                "writer": [
+                    "David J. Schow"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259632/4707702.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jon Bernthal",
+                        "order": 0,
+                        "role": "Joe Teague",
+                        "thumbnail": "http://thetvdb.com/banners/actors/187971.jpg"
+                    },
+                    {
+                        "name": "Milo Ventimiglia",
+                        "order": 1,
+                        "role": "Ned Stax",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                    },
+                    {
+                        "name": "Jeffrey DeMunn",
+                        "order": 2,
+                        "role": "Hal Morrison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                    },
+                    {
+                        "name": "Gregory Itzin",
+                        "order": 3,
+                        "role": "Mayor Fletcher Bowron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                    },
+                    {
+                        "name": "Robert Knepper",
+                        "order": 4,
+                        "role": "Sid Rothman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321607.jpg"
+                    },
+                    {
+                        "name": "Jeremy Luke",
+                        "order": 5,
+                        "role": "Mickey Cohen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314398.jpg"
+                    },
+                    {
+                        "name": "Alexa Davalos",
+                        "order": 6,
+                        "role": "Jasmine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 7,
+                        "role": "Captain William Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Edward Burns",
+                        "order": 8,
+                        "role": "Ben \"Bugsy\" Siegel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299593.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-16 23:05:28",
+                "director": [
+                    "Guy Ferland"
+                ],
+                "episode": 5,
+                "episodeid": 892,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/Season 1/Mob.City.S01E05.Oxpecker.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-12-18",
+                "label": "1x05. Oxpecker",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Bugsy Siegel's trial approaches; a violent massacre wrecks Captain Parker's plans; Jasmine realizes she has overlooked a detail that could put her in danger.",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Mob City",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259632/4707702.jpg",
+                "title": "Oxpecker",
+                "tvshowid": 54,
+                "uniqueid": {
+                    "unknown": "4707702"
+                },
+                "votes": "9",
+                "writer": [
+                    "David Leslie Johnson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259632/4707703.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jon Bernthal",
+                        "order": 0,
+                        "role": "Joe Teague",
+                        "thumbnail": "http://thetvdb.com/banners/actors/187971.jpg"
+                    },
+                    {
+                        "name": "Milo Ventimiglia",
+                        "order": 1,
+                        "role": "Ned Stax",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                    },
+                    {
+                        "name": "Jeffrey DeMunn",
+                        "order": 2,
+                        "role": "Hal Morrison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                    },
+                    {
+                        "name": "Gregory Itzin",
+                        "order": 3,
+                        "role": "Mayor Fletcher Bowron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                    },
+                    {
+                        "name": "Robert Knepper",
+                        "order": 4,
+                        "role": "Sid Rothman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321607.jpg"
+                    },
+                    {
+                        "name": "Jeremy Luke",
+                        "order": 5,
+                        "role": "Mickey Cohen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314398.jpg"
+                    },
+                    {
+                        "name": "Alexa Davalos",
+                        "order": 6,
+                        "role": "Jasmine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                    },
+                    {
+                        "name": "Neal McDonough",
+                        "order": 7,
+                        "role": "Captain William Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                    },
+                    {
+                        "name": "Edward Burns",
+                        "order": 8,
+                        "role": "Ben \"Bugsy\" Siegel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299593.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-16 23:11:30",
+                "director": [
+                    "Frank Darabont"
+                ],
+                "episode": 6,
+                "episodeid": 893,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/Season 1/Mob.City.S01E06.Stay.Down.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "firstaired": "2013-12-18",
+                "label": "1x06. Stay Down",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Joe puts his life in jeopardy to protect Jasmine; Captain Parker is determined to clean up the corruption in the LAPD; Meyer comes to Bugsy with unwelcome news.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Mob City",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259632/4707703.jpg",
+                "title": "Stay Down",
+                "tvshowid": 54,
+                "uniqueid": {
+                    "unknown": "4707703"
+                },
+                "votes": "5",
+                "writer": [
+                    "Frank Darabont",
+                    "David Leslie Johnson"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/259632-1-4.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+            },
+            "episode": 6,
+            "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 278,
+            "showtitle": "Mob City",
+            "thumbnail": "http://thetvdb.com/banners/seasons/259632-1-4.jpg",
+            "tvshowid": 54,
+            "watchedepisodes": 0
+        }
+    ]
+}

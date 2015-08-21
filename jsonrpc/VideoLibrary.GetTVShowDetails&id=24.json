@@ -1,0 +1,137 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/79275-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/79275-1.jpg",
+            "poster": "http://thetvdb.com/banners/posters/79275-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Andrew Chandler",
+                "order": 0,
+                "role": "Narrator"
+            },
+            {
+                "name": "Caitlynne Medrek",
+                "order": 1,
+                "role": "Pan (Blue Water Dub)"
+            },
+            {
+                "name": "Christopher R. Sabat",
+                "order": 2,
+                "role": "Vegeta"
+            },
+            {
+                "name": "Colleen Clinkenbeard",
+                "order": 3,
+                "role": "Colm"
+            },
+            {
+                "name": "Dameon Clarke",
+                "order": 4,
+                "role": "Cell"
+            },
+            {
+                "name": "Eric Vale",
+                "order": 5,
+                "role": "Trunks"
+            },
+            {
+                "name": "Julie Franklin",
+                "order": 6,
+                "role": "Mai"
+            },
+            {
+                "name": "Kyle Hebert",
+                "order": 7,
+                "role": "Gohan",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fiuoKaNVkpeVgBvxfEzkzpTxqTY.jpg"
+            },
+            {
+                "name": "Laurle Steele",
+                "order": 8,
+                "role": "Old Woman"
+            },
+            {
+                "name": "Masako Nozawa",
+                "order": 9,
+                "role": "Son Goku",
+                "thumbnail": "http://thetvdb.com/banners/actors/136811.jpg"
+            },
+            {
+                "name": "Phil Parsons",
+                "order": 10,
+                "role": "Nappa"
+            },
+            {
+                "name": "Robert McCollum",
+                "order": 11,
+                "role": "Goten"
+            },
+            {
+                "name": "Stephanie Nadolny",
+                "order": 12,
+                "role": "Young Goku"
+            },
+            {
+                "name": "Victor Atelevich",
+                "order": 13,
+                "role": "Suu Shenron"
+            },
+            {
+                "name": "Elise Baughman",
+                "order": 14,
+                "role": "Pan"
+            },
+            {
+                "name": "Jôji Yanami",
+                "order": 15,
+                "role": "Narrator",
+                "thumbnail": "http://image.tmdb.org/t/p/original/6PgJcEz2RgGcZ1TwfkIIuhrUaXz.jpg"
+            },
+            {
+                "name": "Takeshi Kusao",
+                "order": 16,
+                "role": "Trunks",
+                "thumbnail": "http://thetvdb.com/banners/actors/327194.jpg"
+            },
+            {
+                "name": "Yûko Minaguchi",
+                "order": 17,
+                "role": "Pan"
+            }
+        ],
+        "dateadded": "",
+        "episode": 0,
+        "episodeguide": "<episodeguide><url cache=\"79275-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/79275/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/79275-1.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Dragonball GT/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "imdbnumber": "79275",
+        "label": "Dragon Ball GT",
+        "lastplayed": "",
+        "mpaa": "TV-PG",
+        "originaltitle": "",
+        "playcount": 1,
+        "plot": "Ten years have passed since Goku left his friends and family to hone his skills. But Goku soon finds himself helpless against the mystical power of the Dragon Balls and an accidental wish made by the devious Emperor Pilaf. His desire; that Goku once again become a child! Not daunted by this small setback, Goku, together with Trunks, and his own granddaughter Pan, blast off into the outer reaches of space in search of the mysterious Blackstar Dragon Balls. But these Dragon Balls have a fatal secret: if not collected within one year Earth will be destroyed.",
+        "premiered": "1996-02-07",
+        "rating": 7.099999904632568,
+        "season": 0,
+        "sorttitle": "",
+        "studio": [
+            "Fuji TV"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/79275-3.jpg",
+        "title": "Dragon Ball GT",
+        "tvshowid": 24,
+        "votes": "41",
+        "watchedepisodes": 0,
+        "year": 1996
+    },
+    "episodes": {}
+}

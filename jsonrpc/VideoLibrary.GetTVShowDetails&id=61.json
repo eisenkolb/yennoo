@@ -1,0 +1,3490 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+            "poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Taylor Schilling",
+                "order": 0,
+                "role": "Piper Chapman",
+                "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+            },
+            {
+                "name": "Laura Prepon",
+                "order": 1,
+                "role": "Alex Vause",
+                "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+            },
+            {
+                "name": "Uzo Aduba",
+                "order": 2,
+                "role": "Suzanne \"Crazy Eyes\" Warren",
+                "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+            },
+            {
+                "name": "Natasha Lyonne",
+                "order": 3,
+                "role": "Nicole \"Nicky\" Nichols",
+                "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+            },
+            {
+                "name": "Kate Mulgrew",
+                "order": 4,
+                "role": "Galina \"Red\" Reznikov",
+                "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+            },
+            {
+                "name": "Alysia Reiner",
+                "order": 5,
+                "role": "Natalie Figueroa",
+                "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+            },
+            {
+                "name": "Lori Tan Chinn",
+                "order": 6,
+                "role": "Mei Chang",
+                "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+            },
+            {
+                "name": "Ruby Rose",
+                "order": 7,
+                "role": "Stella Carlin",
+                "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+            },
+            {
+                "name": "Jackie Cruz",
+                "order": 8,
+                "role": "Marisol \"Flaca\" Gonzales",
+                "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+            },
+            {
+                "name": "Diane Guerrero",
+                "order": 9,
+                "role": "Maritza Ramos",
+                "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+            },
+            {
+                "name": "Yael Stone",
+                "order": 10,
+                "role": "Lorna Morello",
+                "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+            },
+            {
+                "name": "Taryn Manning",
+                "order": 11,
+                "role": "Tiffany \"Pennsatucky\" Doggett",
+                "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+            },
+            {
+                "name": "Lea DeLaria",
+                "order": 12,
+                "role": "Carrie 'Big Boo' Black",
+                "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+            },
+            {
+                "name": "Laura Gómez",
+                "order": 13,
+                "role": "Blanca Flores",
+                "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+            },
+            {
+                "name": "Abigail Savage",
+                "order": 14,
+                "role": "Gina Murphy",
+                "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+            },
+            {
+                "name": "Maria Dizzia",
+                "order": 15,
+                "role": "Polly Harper",
+                "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+            },
+            {
+                "name": "Annie Golden",
+                "order": 16,
+                "role": "Norma Romano",
+                "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+            },
+            {
+                "name": "Vicky Jeudy",
+                "order": 17,
+                "role": "Janae Watson",
+                "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+            },
+            {
+                "name": "Adrienne C. Moore",
+                "order": 18,
+                "role": "Cindy Hayes",
+                "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+            },
+            {
+                "name": "Lorraine Toussaint",
+                "order": 19,
+                "role": "Vee Parker",
+                "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+            },
+            {
+                "name": "Nick Sandow",
+                "order": 20,
+                "role": "Joe Caputo",
+                "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+            },
+            {
+                "name": "Michael Harney",
+                "order": 21,
+                "role": "Sam Healy",
+                "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+            },
+            {
+                "name": "Beth Fowler",
+                "order": 22,
+                "role": "Jane Ingalls",
+                "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+            },
+            {
+                "name": "Barbara Rosenblat",
+                "order": 23,
+                "role": "Rosa Cisneros",
+                "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+            },
+            {
+                "name": "Michelle Hurst",
+                "order": 24,
+                "role": "Claudette Pelage",
+                "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+            },
+            {
+                "name": "Kimiko Glenn",
+                "order": 25,
+                "role": "Brook Soso",
+                "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+            },
+            {
+                "name": "Constance Shulman",
+                "order": 26,
+                "role": "Yoga Jones",
+                "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+            }
+        ],
+        "dateadded": "2014-12-01 21:25:38",
+        "episode": 13,
+        "episodeguide": "<episodeguide><url cache=\"264586-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/264586/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/",
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "imdbnumber": "264586",
+        "label": "Orange Is the New Black",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Piper Chapman’s wild past comes back to haunt her, resulting in her arrest and detention in a federal penitentiary. To pay her debt to society, Piper trades her comfortable New York life for an orange prison jumpsuit and finds unexpected conflict and camaraderie amidst an eccentric group of inmates.",
+        "premiered": "2013-07-11",
+        "rating": 8.199999809265137,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Netflix"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/264586-2.jpg",
+        "title": "Orange Is the New Black",
+        "tvshowid": 61,
+        "votes": "73",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4507237.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "Deborah Rush",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Todd Susman",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 2,
+                        "role": "Suzanne \"Crazy Eyes\" Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 8,
+                        "role": "Marisol \"Flaca\" Gonzales",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 9,
+                        "role": "Maritza Ramos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 10,
+                        "role": "Lorna Morello",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 11,
+                        "role": "Tiffany \"Pennsatucky\" Doggett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 12,
+                        "role": "Carrie 'Big Boo' Black",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 14,
+                        "role": "Gina Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 15,
+                        "role": "Polly Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 16,
+                        "role": "Norma Romano",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 17,
+                        "role": "Janae Watson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 18,
+                        "role": "Cindy Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 22,
+                        "role": "Jane Ingalls",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 17:28:23",
+                "director": [
+                    "Michael Trim"
+                ],
+                "episode": 1,
+                "episodeid": 1202,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E01.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x01. I Wasn't Ready",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Sentenced to fifteen months for a crime committed in her youth, Piper Chapman leaves her supportive fiance Larry for her new home: a women's prison.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4507237.jpg",
+                "title": "I Wasn't Ready",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4507237"
+                },
+                "votes": "71",
+                "writer": [
+                    "Jenji Kohan",
+                    "Liz Friedman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4550331.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Danielle Brooks",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Laverne Cox",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joel Marsh Garland",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "Matt Peters",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Elizabeth Rodriguez",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 2,
+                        "role": "Suzanne \"Crazy Eyes\" Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 8,
+                        "role": "Marisol \"Flaca\" Gonzales",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 9,
+                        "role": "Maritza Ramos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 11,
+                        "role": "Tiffany \"Pennsatucky\" Doggett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 12,
+                        "role": "Carrie 'Big Boo' Black",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 14,
+                        "role": "Gina Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 15,
+                        "role": "Polly Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 17,
+                        "role": "Janae Watson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 18,
+                        "role": "Cindy Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 22,
+                        "role": "Jane Ingalls",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 17:29:27",
+                "director": [
+                    "Uta Briesewitz"
+                ],
+                "episode": 2,
+                "episodeid": 1203,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E02.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x02. Tit Punch",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After insulting the food in front of the prison chef, Piper is starved out by the kitchen staff and struggles to offer up an acceptable apology.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4550331.jpg",
+                "title": "Tit Punch",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4550331"
+                },
+                "votes": "56",
+                "writer": [
+                    "Marco Ramirez"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4550332.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Danielle Brooks",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Laverne Cox",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Joel Marsh Garland",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "Arden Myrin",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Rainey, Jr.",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Deborah Rush",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Morgan Spector",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "|Uzo Aduba|Danielle Brooks|Laverne Cox|Maria Dizzia|Joel Marsh Garland|Natasha Lyonne|Arden Myrin|Michael Rainey",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tanya Wright",
+                        "order": 11,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91311.jpg"
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 8,
+                        "role": "Marisol \"Flaca\" Gonzales",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 9,
+                        "role": "Maritza Ramos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 10,
+                        "role": "Lorna Morello",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 11,
+                        "role": "Tiffany \"Pennsatucky\" Doggett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 12,
+                        "role": "Carrie 'Big Boo' Black",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 14,
+                        "role": "Gina Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 16,
+                        "role": "Norma Romano",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 17,
+                        "role": "Janae Watson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 18,
+                        "role": "Cindy Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 20,
+                        "role": "Joe Caputo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 22,
+                        "role": "Jane Ingalls",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 17:30:58",
+                "director": [
+                    "Jodie Foster"
+                ],
+                "episode": 3,
+                "episodeid": 1204,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E03.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x03. Lesbian Request Denied",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Targeted for romance by a fellow prisoner, Piper finds that subtlety is an ineffective approach to letting her suitor down.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4550332.jpg",
+                "title": "Lesbian Request Denied",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4550332"
+                },
+                "votes": "54",
+                "writer": [
+                    "Sian Heder"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4550333.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Danielle Brooks",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Joel Marsh Garland",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "James McDaniel",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt Peters",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Samira Wiley",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 2,
+                        "role": "Suzanne \"Crazy Eyes\" Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 8,
+                        "role": "Marisol \"Flaca\" Gonzales",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 9,
+                        "role": "Maritza Ramos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 10,
+                        "role": "Lorna Morello",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 11,
+                        "role": "Tiffany \"Pennsatucky\" Doggett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 14,
+                        "role": "Gina Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 15,
+                        "role": "Polly Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 16,
+                        "role": "Norma Romano",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 18,
+                        "role": "Cindy Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 22,
+                        "role": "Jane Ingalls",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 17:32:11",
+                "director": [
+                    "Michael Trim"
+                ],
+                "episode": 4,
+                "episodeid": 1205,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E04.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x04. Imaginary Enemies",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Piper gets to know her stern new roommate; the prisoners prepare a farewell party for one of their own; a misplaced screwdriver has dire consequences.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4550333.jpg",
+                "title": "Imaginary Enemies",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4550333"
+                },
+                "votes": "54",
+                "writer": [
+                    "Gary Lennon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4550334.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Danielle Brooks",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Laverne Cox",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Catherine Curtin",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Joel Marsh Garland",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "Matt Peters",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dascha Polanco",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Elizabeth Rodriguez",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Todd Susman",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Samira Wiley",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 2,
+                        "role": "Suzanne \"Crazy Eyes\" Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 8,
+                        "role": "Marisol \"Flaca\" Gonzales",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 9,
+                        "role": "Maritza Ramos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 10,
+                        "role": "Lorna Morello",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 14,
+                        "role": "Gina Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 15,
+                        "role": "Polly Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 17,
+                        "role": "Janae Watson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 18,
+                        "role": "Cindy Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 20,
+                        "role": "Joe Caputo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 17:32:49",
+                "director": [
+                    "Andrew McCarthy"
+                ],
+                "episode": 5,
+                "episodeid": 1206,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E05.WEBRip.AAC2.0-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x05. The Chickening",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When her sighting of a legendary feral chicken polarizes the inmates, Larry wonders if Piper is getting too absorbed in the \"fishbowl\" of prison life.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4550334.jpg",
+                "title": "The Chickening",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4550334"
+                },
+                "votes": "56",
+                "writer": [
+                    "Nick Jones"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4550335.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "David Aaron Baker",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Danielle Brooks",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Laverne Cox",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Joel Marsh Garland",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Patricia Kalember",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lauren Lapkus",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5idEC0dZcXq5bNyTrURazzHIXq.jpg"
+                    },
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 10,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "Matt McGorry",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Elizabeth Rodriguez",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Deborah Rush",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 14,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Samira Wiley",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 2,
+                        "role": "Suzanne \"Crazy Eyes\" Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 10,
+                        "role": "Lorna Morello",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 12,
+                        "role": "Carrie 'Big Boo' Black",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 14,
+                        "role": "Gina Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 15,
+                        "role": "Polly Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 17,
+                        "role": "Janae Watson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 18,
+                        "role": "Cindy Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 22,
+                        "role": "Jane Ingalls",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 19:43:09",
+                "director": [
+                    "Michael Trim"
+                ],
+                "episode": 6,
+                "episodeid": 1207,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E06.WEBRip.AAC2.0.x264-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x06. WAC Pack",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The inmates campaign along racial lines for positions on a prisoners council, but Piper tries to stay above the increasingly raucous competition.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4550335.jpg",
+                "title": "WAC Pack",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4550335"
+                },
+                "votes": "54",
+                "writer": [
+                    "Lauren Morelli"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4550336.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Danielle Brooks",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Laverne Cox",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joel Marsh Garland",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Ezra Knight",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lauren Lapkus",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5idEC0dZcXq5bNyTrURazzHIXq.jpg"
+                    },
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 10,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Constance Schulman",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Samira Wiley",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 2,
+                        "role": "Suzanne \"Crazy Eyes\" Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 8,
+                        "role": "Marisol \"Flaca\" Gonzales",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 9,
+                        "role": "Maritza Ramos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 10,
+                        "role": "Lorna Morello",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 12,
+                        "role": "Carrie 'Big Boo' Black",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 14,
+                        "role": "Gina Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 15,
+                        "role": "Polly Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 22,
+                        "role": "Jane Ingalls",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 19:44:09",
+                "director": [
+                    "Matthew Penn"
+                ],
+                "episode": 7,
+                "episodeid": 1208,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E07.WEBRip.AAC2.0.x264-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x07. Blood Donut",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Piper wants the prison's outdoor running track reopened, but in order to get it, she'll have to give her corrections officer something he wants.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4550336.jpg",
+                "title": "Blood Donut",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4550336"
+                },
+                "votes": "57",
+                "writer": [
+                    "Sara Hess"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4550337.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Danielle Brooks",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dominic Colon",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cory Fernandez",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joel Marsh Garland",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Selenis Leyva",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "Matt Peters",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Elizabeth Rodriguez",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Samira Wiley",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 2,
+                        "role": "Suzanne \"Crazy Eyes\" Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 3,
+                        "role": "Nicole \"Nicky\" Nichols",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 8,
+                        "role": "Marisol \"Flaca\" Gonzales",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 9,
+                        "role": "Maritza Ramos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 10,
+                        "role": "Lorna Morello",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 12,
+                        "role": "Carrie 'Big Boo' Black",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 14,
+                        "role": "Gina Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 15,
+                        "role": "Polly Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 17,
+                        "role": "Janae Watson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 18,
+                        "role": "Cindy Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 22,
+                        "role": "Jane Ingalls",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 19:44:45",
+                "director": [
+                    "Phil Abraham"
+                ],
+                "episode": 8,
+                "episodeid": 1209,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E08.WEBRip.AAC2.0-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x08. Moscow Mule",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Red gets pressured to smuggle drugs through her kitchen; Larry publishes an article about Piper in the \"New York Times;\" two babies come into the world.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4550337.jpg",
+                "title": "Moscow Mule",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4550337"
+                },
+                "votes": "52",
+                "writer": [
+                    "Marco Ramirez"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4550338.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Danielle Brooks",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tracee Chimo",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Laverne Cox",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kim Director",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joel Marsh Garland",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Lauren Lapkus",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5idEC0dZcXq5bNyTrURazzHIXq.jpg"
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Elizabeth Rodriguez",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 11,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 12,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Robert Stanton",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Samira Wiley",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tanya Wright",
+                        "order": 15,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/91311.jpg"
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 2,
+                        "role": "Suzanne \"Crazy Eyes\" Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 3,
+                        "role": "Nicole \"Nicky\" Nichols",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 8,
+                        "role": "Marisol \"Flaca\" Gonzales",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 9,
+                        "role": "Maritza Ramos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 10,
+                        "role": "Lorna Morello",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 12,
+                        "role": "Carrie 'Big Boo' Black",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 15,
+                        "role": "Polly Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 22,
+                        "role": "Jane Ingalls",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 21:16:14",
+                "director": [
+                    "Michael Trim"
+                ],
+                "episode": 9,
+                "episodeid": 1210,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E09.WEBRip.AAC2.0.x264-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x09. Fucksgiving",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Thanksgiving arrives with the promise of a visit by Larry, but Piper's raunchy dance moves land her in solitary with a holiday feast of moldy bologna.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4550338.jpg",
+                "title": "Fucksgiving",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4550338"
+                },
+                "votes": "52",
+                "writer": [
+                    "Sian Heder"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4550339.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Madeline Brewer",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341138.jpg"
+                    },
+                    {
+                        "name": "Michael Chernus",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tracee Chimo",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Laverne Cox",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Catherine Curtin",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joel Marsh Garland",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lauren Lapkus",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5idEC0dZcXq5bNyTrURazzHIXq.jpg"
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "James McDaniel",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt McGorry",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Elizabeth Rodriguez",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 11,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Samira Wiley",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 2,
+                        "role": "Suzanne \"Crazy Eyes\" Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 3,
+                        "role": "Nicole \"Nicky\" Nichols",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 8,
+                        "role": "Marisol \"Flaca\" Gonzales",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 9,
+                        "role": "Maritza Ramos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 10,
+                        "role": "Lorna Morello",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 12,
+                        "role": "Carrie 'Big Boo' Black",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 14,
+                        "role": "Gina Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 15,
+                        "role": "Polly Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 16,
+                        "role": "Norma Romano",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 17,
+                        "role": "Janae Watson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 18,
+                        "role": "Cindy Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 22,
+                        "role": "Jane Ingalls",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 20:02:05",
+                "director": [
+                    "Andrew McCarthy"
+                ],
+                "episode": 10,
+                "episodeid": 1211,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E10.WEBRip.AAC2.0.x264-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x10. Bora Bora Bora",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Pennsatucky discovers a new skill; the inmates try to scare delinquent teenagers straight; Pornstache's side business suffers a tragic setback.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4550339.jpg",
+                "title": "Bora Bora Bora",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4550339"
+                },
+                "votes": "57",
+                "writer": [
+                    "Nick Jones"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4550341.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "James McDaniel",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt McGorry",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt Peters",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dascha Polanco",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Elizabeth Rodriguez",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 8,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Robert Stanton",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Samira Wiley",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 2,
+                        "role": "Suzanne \"Crazy Eyes\" Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 3,
+                        "role": "Nicole \"Nicky\" Nichols",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 8,
+                        "role": "Marisol \"Flaca\" Gonzales",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 9,
+                        "role": "Maritza Ramos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 10,
+                        "role": "Lorna Morello",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 14,
+                        "role": "Gina Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 15,
+                        "role": "Polly Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 17,
+                        "role": "Janae Watson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 18,
+                        "role": "Cindy Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 22,
+                        "role": "Jane Ingalls",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 19:47:57",
+                "director": [
+                    "Constantine Makris"
+                ],
+                "episode": 11,
+                "episodeid": 1212,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E11.WEBRip.AAC2.0.x264-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x11. Tall Men with Feelings",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The prisoners mourn one of their own and even a drunken Pornstache reveals surprising emotions; Larry gives a revealing radio interview.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4550341.jpg",
+                "title": "Tall Men with Feelings",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4550341"
+                },
+                "votes": "49",
+                "writer": [
+                    "Lauren Morelli"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4550343.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Chris Beetem",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Danielle Brooks",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Michael Chernus",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tracee Chimo",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joel Marsh Garland",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Lauren Lapkus",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5idEC0dZcXq5bNyTrURazzHIXq.jpg"
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 7,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "Matt McGorry",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dascha Polanco",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 10,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Samira Wiley",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 2,
+                        "role": "Suzanne \"Crazy Eyes\" Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 3,
+                        "role": "Nicole \"Nicky\" Nichols",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 8,
+                        "role": "Marisol \"Flaca\" Gonzales",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 9,
+                        "role": "Maritza Ramos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 10,
+                        "role": "Lorna Morello",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 12,
+                        "role": "Carrie 'Big Boo' Black",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 14,
+                        "role": "Gina Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 15,
+                        "role": "Polly Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 17,
+                        "role": "Janae Watson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 18,
+                        "role": "Cindy Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 22,
+                        "role": "Jane Ingalls",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 21:25:38",
+                "director": [
+                    "Andrew McCarthy"
+                ],
+                "episode": 12,
+                "episodeid": 1213,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E12.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x12. Fool Me Once",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Painful truths reorient several relationships and careers; Pennsatucky feels disrespected by Piper, which is not good; Larry delivers an ultimatum.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4550343.jpg",
+                "title": "Fool Me Once",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4550343"
+                },
+                "votes": "47",
+                "writer": [
+                    "Sara Hess"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/264586/4550345.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Danielle Brooks",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Laverne Cox",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Catherine Curtin",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Joel Marsh Garland",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Annie Golden",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342440.jpg"
+                    },
+                    {
+                        "name": "Lauren Lapkus",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5idEC0dZcXq5bNyTrURazzHIXq.jpg"
+                    },
+                    {
+                        "name": "Taryn Manning",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346989.jpg"
+                    },
+                    {
+                        "name": "Matt McGorry",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matt Peters",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dascha Polanco",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Elizabeth Rodriguez",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nick Sandow",
+                        "order": 11,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342436.jpg"
+                    },
+                    {
+                        "name": "Todd Susman",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Samira Wiley",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Taylor Schilling",
+                        "order": 0,
+                        "role": "Piper Chapman",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346120.jpg"
+                    },
+                    {
+                        "name": "Laura Prepon",
+                        "order": 1,
+                        "role": "Alex Vause",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346987.jpg"
+                    },
+                    {
+                        "name": "Uzo Aduba",
+                        "order": 2,
+                        "role": "Suzanne \"Crazy Eyes\" Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346992.jpg"
+                    },
+                    {
+                        "name": "Natasha Lyonne",
+                        "order": 3,
+                        "role": "Nicole \"Nicky\" Nichols",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346990.jpg"
+                    },
+                    {
+                        "name": "Kate Mulgrew",
+                        "order": 4,
+                        "role": "Galina \"Red\" Reznikov",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346988.jpg"
+                    },
+                    {
+                        "name": "Alysia Reiner",
+                        "order": 5,
+                        "role": "Natalie Figueroa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352037.jpg"
+                    },
+                    {
+                        "name": "Lori Tan Chinn",
+                        "order": 6,
+                        "role": "Mei Chang",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350724.jpg"
+                    },
+                    {
+                        "name": "Ruby Rose",
+                        "order": 7,
+                        "role": "Stella Carlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350586.jpg"
+                    },
+                    {
+                        "name": "Jackie Cruz",
+                        "order": 8,
+                        "role": "Marisol \"Flaca\" Gonzales",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349305.jpg"
+                    },
+                    {
+                        "name": "Diane Guerrero",
+                        "order": 9,
+                        "role": "Maritza Ramos",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349304.jpg"
+                    },
+                    {
+                        "name": "Yael Stone",
+                        "order": 10,
+                        "role": "Lorna Morello",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346991.jpg"
+                    },
+                    {
+                        "name": "Lea DeLaria",
+                        "order": 12,
+                        "role": "Carrie 'Big Boo' Black",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343136.jpg"
+                    },
+                    {
+                        "name": "Laura Gómez",
+                        "order": 13,
+                        "role": "Blanca Flores",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343135.jpg"
+                    },
+                    {
+                        "name": "Abigail Savage",
+                        "order": 14,
+                        "role": "Gina Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343134.jpg"
+                    },
+                    {
+                        "name": "Maria Dizzia",
+                        "order": 15,
+                        "role": "Polly Harper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342441.jpg"
+                    },
+                    {
+                        "name": "Vicky Jeudy",
+                        "order": 17,
+                        "role": "Janae Watson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342439.jpg"
+                    },
+                    {
+                        "name": "Adrienne C. Moore",
+                        "order": 18,
+                        "role": "Cindy Hayes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342438.jpg"
+                    },
+                    {
+                        "name": "Lorraine Toussaint",
+                        "order": 19,
+                        "role": "Vee Parker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342437.jpg"
+                    },
+                    {
+                        "name": "Michael Harney",
+                        "order": 21,
+                        "role": "Sam Healy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342433.jpg"
+                    },
+                    {
+                        "name": "Beth Fowler",
+                        "order": 22,
+                        "role": "Jane Ingalls",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342432.jpg"
+                    },
+                    {
+                        "name": "Barbara Rosenblat",
+                        "order": 23,
+                        "role": "Rosa Cisneros",
+                        "thumbnail": "http://thetvdb.com/banners/actors/342327.jpg"
+                    },
+                    {
+                        "name": "Michelle Hurst",
+                        "order": 24,
+                        "role": "Claudette Pelage",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333998.jpg"
+                    },
+                    {
+                        "name": "Kimiko Glenn",
+                        "order": 25,
+                        "role": "Brook Soso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332737.jpg"
+                    },
+                    {
+                        "name": "Constance Shulman",
+                        "order": 26,
+                        "role": "Yoga Jones",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332558.jpg"
+                    }
+                ],
+                "dateadded": "2014-12-01 19:50:35",
+                "director": [
+                    "Michael Trim"
+                ],
+                "episode": 13,
+                "episodeid": 1214,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E13.WEBRip.AAC2.0.x264-Abjex.mp4",
+                "firstaired": "2013-07-11",
+                "label": "1x13. Can't Fix Crazy",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Red's scheme to reclaim her kitchen backfires; the inmates stage a Christmas pageant; Piper's plans unravel even as she realizes her life is in jeopardy.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Orange Is the New Black",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/264586/4550345.jpg",
+                "title": "Can't Fix Crazy",
+                "tvshowid": 61,
+                "uniqueid": {
+                    "unknown": "4550345"
+                },
+                "votes": "45",
+                "writer": [
+                    "Jenji Kohan",
+                    "Tara Herrmann"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/264586-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+            },
+            "episode": 13,
+            "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 341,
+            "showtitle": "Orange Is the New Black",
+            "thumbnail": "http://thetvdb.com/banners/seasons/264586-1-2.jpg",
+            "tvshowid": 61,
+            "watchedepisodes": 0
+        }
+    ]
+}

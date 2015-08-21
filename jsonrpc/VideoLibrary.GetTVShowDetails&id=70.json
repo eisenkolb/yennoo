@@ -1,0 +1,3197 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+            "poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+        },
+        "cast": [
+            {
+                "name": "Emily VanCamp",
+                "order": 0,
+                "role": "Emily Thorne/Amanda Clarke",
+                "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+            },
+            {
+                "name": "Madeleine Stowe",
+                "order": 1,
+                "role": "Victoria Grayson",
+                "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+            },
+            {
+                "name": "Gabriel Mann",
+                "order": 2,
+                "role": "Nolan Ross",
+                "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+            },
+            {
+                "name": "Elena Satine",
+                "order": 3,
+                "role": "Louise Ellis",
+                "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+            },
+            {
+                "name": "James Tupper",
+                "order": 4,
+                "role": "David Clarke",
+                "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+            },
+            {
+                "name": "Nick Wechsler",
+                "order": 5,
+                "role": "Jack Porter",
+                "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+            },
+            {
+                "name": "Gina Torres",
+                "order": 6,
+                "role": "Natalie Waters",
+                "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+            },
+            {
+                "name": "Carolyn Hennesy",
+                "order": 7,
+                "role": "Penelope Ellis",
+                "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+            },
+            {
+                "name": "Brian Hallisay",
+                "order": 8,
+                "role": "Ben Hunter",
+                "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+            },
+            {
+                "name": "Karine Vanasse",
+                "order": 9,
+                "role": "Margaux LeMarchal",
+                "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+            },
+            {
+                "name": "Amber Valletta",
+                "order": 10,
+                "role": "Lydia Davis",
+                "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+            },
+            {
+                "name": "Dilshad Vadsaria",
+                "order": 11,
+                "role": "Padma Lahari",
+                "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+            },
+            {
+                "name": "Margarita Levieva",
+                "order": 12,
+                "role": "Amanda Clarke/Emily Thorne",
+                "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+            },
+            {
+                "name": "Barry Sloane",
+                "order": 13,
+                "role": "Aiden Mathis",
+                "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+            },
+            {
+                "name": "Christa B. Allen",
+                "order": 14,
+                "role": "Charlotte Grayson",
+                "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+            },
+            {
+                "name": "Joshua Bowman",
+                "order": 15,
+                "role": "Daniel Grayson",
+                "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+            },
+            {
+                "name": "Henry Czerny",
+                "order": 16,
+                "role": "Conrad Grayson",
+                "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+            },
+            {
+                "name": "Ashley Madekwe",
+                "order": 17,
+                "role": "Ashley Davenport",
+                "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+            },
+            {
+                "name": "Connor Paolo",
+                "order": 18,
+                "role": "Declan Porter",
+                "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+            }
+        ],
+        "dateadded": "2013-07-06 17:51:44",
+        "episode": 18,
+        "episodeguide": "<episodeguide><url cache=\"248837-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/248837/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "imdbnumber": "248837",
+        "label": "Revenge",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Emily Thorne rents a house in the Hamptons for the summer, seemingly intent on nothing more than enjoying a break in the popular resort. But it soon becomes clear that there's more to her visit. Her real name is Amanda Clarke and her father was framed for a crime he didn't commit and sent to prison for life and she has come to the Hamptons to seek revenge against the people who betrayed him and saw him sent to jail.",
+        "premiered": "2011-09-20",
+        "rating": 8.5,
+        "season": 2,
+        "sorttitle": "",
+        "studio": [
+            "ABC (US)"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/248837-6.jpg",
+        "title": "Revenge",
+        "tvshowid": 70,
+        "votes": "116",
+        "watchedepisodes": 0,
+        "year": 2011
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4168164.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "James Tupper",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Max Martini",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fUGKNDsQnKCLzNrWyyBkx7O26XC.jpg"
+                    },
+                    {
+                        "name": "Yancey Arias",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Matthew Glave",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brian Goodman",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Robbie Amell",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-18 16:34:39",
+                "director": [
+                    "Philip Noyce"
+                ],
+                "episode": 2,
+                "episodeid": 1259,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E02.Vertrauen.GERMAN.DUBBED.WS.DVDRiP.XviD-TVP.mp4",
+                "firstaired": "2011-09-28",
+                "label": "1x02. Trust",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Emily gets to work on her next target, a former family friend who testified against her father; Victoria tries to find more information on Emily.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4168164.jpg",
+                "title": "Trust",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4168164"
+                },
+                "votes": "108",
+                "writer": [
+                    "Mike Kelley",
+                    "Joe Fazzio"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4168165.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "James Tupper",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Ashton Holmes",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Yancey Arias",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Max Martini",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fUGKNDsQnKCLzNrWyyBkx7O26XC.jpg"
+                    },
+                    {
+                        "name": "Robbie Amell",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alex Carter",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-18 16:34:11",
+                "director": [
+                    "Matt Earl Beesley"
+                ],
+                "episode": 3,
+                "episodeid": 1260,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E03.Verrat.GERMAN.DUBBED.WS.DVDRiP.XviD-TVP.mp4",
+                "firstaired": "2011-10-05",
+                "label": "1x03. Betrayal",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "With help from her new ally, Emily seeks to destroy the district attorney who convicted her father; grieving Victoria tries to confirm her suspicions about Emily's past.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4168165.jpg",
+                "title": "Betrayal",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4168165"
+                },
+                "votes": "107",
+                "writer": [
+                    "Salvatore Stabile"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4168166.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "James Tupper",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-19 16:28:12",
+                "director": [
+                    "Matt Shakman"
+                ],
+                "episode": 4,
+                "episodeid": 1261,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E04.Zwiespalt.GERMAN.DUBBED.WS.DVDRiP.XviD-TVP.mp4",
+                "firstaired": "2011-10-12",
+                "label": "1x04. Duplicity",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A charity event for mental health allows Emily to seek payback from the therapist who had her committed when she was a child. Meanwhile, the Porter brothers face more problems with the family bar; and Conrad sneaks off to see Lydia.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4168166.jpg",
+                "title": "Duplicity",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4168166"
+                },
+                "votes": "110",
+                "writer": [
+                    "Wendy Calhoun"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4168167.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-19 20:23:13",
+                "director": [
+                    "Kenneth Fink"
+                ],
+                "episode": 5,
+                "episodeid": 1262,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E05.Schuld.GERMAN.DUBBED.WS.DVDRiP.XviD-TVP.mp4",
+                "firstaired": "2011-10-19",
+                "label": "1x05. Guilt",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Victoria feels regret as she reflects on David’s downfall, and a fight with Charlotte weighs on her. Meanwhile, Lydia wants to get even with Emily and the Graysons; and Daniel rethinks his goals in the wake of Tyler and Conrad’s betrayals.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4168167.jpg",
+                "title": "Guilt",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4168167"
+                },
+                "votes": "102",
+                "writer": [
+                    "Nikki Toscano"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4187886.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-20 19:56:42",
+                "director": [
+                    "Tim Hunter"
+                ],
+                "episode": 6,
+                "episodeid": 1263,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E06.Intrigen.GERMAN.DUBBED.WS.DVDRiP.XviD.REPACK-TVP.mp4",
+                "firstaired": "2011-10-26",
+                "label": "1x06. Intrigue",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The Grayson 4th of July parties are legendary, but this year's festivities ignite the wrong kind of fireworks when an incriminating surveillance video pops up and breaks the bond of trust between the Graysons and their head of security, Frank. Frank won't go down without a fight, which will spell trouble for Nolan and Emily. Meanwhile, the tension between Emily and Tyler will come to a head, Daniel can't seem to catch a break, and both of the Porter boys make bold moves to get their girl.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4187886.jpg",
+                "title": "Intrigue",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4187886"
+                },
+                "votes": "112",
+                "writer": [
+                    "Dan Dworkin",
+                    "Jay Beattie"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4187887.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-19 20:26:11",
+                "director": [
+                    "Sanford Bookstaver"
+                ],
+                "episode": 7,
+                "episodeid": 1264,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E07.Identitaeten.German.Dubbed.DL.iTunesHD.x264-TVS.mp4",
+                "firstaired": "2011-11-02",
+                "label": "1x07. Charade",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The Graysons’ quiet anniversary plans go off track and are replaced by an explosive family dinner. Meanwhile, Frank unearths some info on Emily in an attempt to prove his devotion to Victoria.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4187887.jpg",
+                "title": "Charade",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4187887"
+                },
+                "votes": "114",
+                "writer": [
+                    "Mark B. Perry",
+                    "Joe Fazzio"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4194584.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-19 20:27:03",
+                "director": [
+                    "Bobby Roth"
+                ],
+                "episode": 8,
+                "episodeid": 1265,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E08.Treachery.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "firstaired": "2011-11-16",
+                "label": "1x08. Treachery",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Emily’s plot further unravels and Victoria’s unstable relationship with her family grows increasingly more tense when an unwanted pawn in Emily’s game heads to the Hamptons with questionable intentions. Meanwhile, Lydia’s memory is a growing concern for the Graysons and a recently embittered friend begins to play dirty, on “Revenge,”",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4194584.jpg",
+                "title": "Treachery",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4194584"
+                },
+                "votes": "110",
+                "writer": [
+                    "Ryan Scott"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4197334.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Hiroyuki Sanada",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/321213.jpg"
+                    },
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-19 20:27:29",
+                "director": [
+                    "Bethany Rooney"
+                ],
+                "episode": 9,
+                "episodeid": 1266,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E09.Suspicion.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "firstaired": "2011-11-23",
+                "label": "1x09. Suspicion",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Having discovered that her most valuable ally has turned against her, Emily desperately reaches out to her mentor for advice. Victoria's worst nightmare comes true when she finds herself totally alone both in her life and her home, while the threat of Tyler's negative influence continues to grow.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4197334.jpg",
+                "title": "Suspicion",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4197334"
+                },
+                "votes": "113",
+                "writer": [
+                    "Salvatore Stabile"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4199188.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-19 20:28:32",
+                "director": [
+                    "J. Miller Tobin"
+                ],
+                "episode": 10,
+                "episodeid": 1267,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E10.Loyalty.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "firstaired": "2011-12-07",
+                "label": "1x10. Loyalty",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Emily questions Nolan's loyalty when she discovers a secret of his. Meanwhile, Amanda makes herself more comfortable in the Hamptons as word of her presence spreads. Victoria regains some power, and things get very ugly between her and Conrad.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4199188.jpg",
+                "title": "Loyalty",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4199188"
+                },
+                "votes": "96",
+                "writer": [
+                    "Wendy Calhoun",
+                    "Nikki Toscano"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4199189.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-19 20:28:31",
+                "director": [
+                    "Jamie Babbit"
+                ],
+                "episode": 11,
+                "episodeid": 1268,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E11.Noetigung.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "firstaired": "2012-01-04",
+                "label": "1x11. Duress",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "An unstable visitor crashes Daniel's intimate birthday celebration; Conrad and Victoria use Charlotte as a pawn in their bitter divorce battle; Emily's plan starts to unravel.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4199189.jpg",
+                "title": "Duress",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4199189"
+                },
+                "votes": "98",
+                "writer": [
+                    "Elle Triedman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4199598.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Roger Bart",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/x2lNUnY0icRm2Itq4nEBscXPH43.jpg"
+                    },
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-21 19:18:25",
+                "director": [
+                    "Matt Earl Beesley"
+                ],
+                "episode": 12,
+                "episodeid": 1269,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E12.Infamy.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "firstaired": "2012-01-11",
+                "label": "1x12. Infamy",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Emily sets her sights on a new target when a famed author who has deep ties with both the Graysons and the Clarkes returns to town and Conrad proves how dirty he's willing to get when Daniel gets dragged into the divorce.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4199598.jpg",
+                "title": "Infamy",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4199598"
+                },
+                "votes": "102",
+                "writer": [
+                    "Dan Dworkin",
+                    "Jay Beattie"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4219449.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-21 19:50:11",
+                "director": [
+                    "Kenneth Fink"
+                ],
+                "episode": 13,
+                "episodeid": 1270,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E13.Commitment.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "firstaired": "2012-01-18",
+                "label": "1x13. Commitment",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Daniel's romantic proposal may come with dire ramifications; Charlotte is forced to move back in with her mother; Jack's life is in jeopardy when a person he adores betrays him; Nolan makes Emily think cautiously about her actions.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4219449.jpg",
+                "title": "Commitment",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4219449"
+                },
+                "votes": "95",
+                "writer": [
+                    "Liz Tigelaar",
+                    "Mark B. Perry"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4247160.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-21 19:51:00",
+                "director": [
+                    "Tim Hunter"
+                ],
+                "episode": 14,
+                "episodeid": 1271,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E14.Wahrnehmung.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "firstaired": "2012-02-08",
+                "label": "1x14. Perception",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In the excitement over Emily and Daniel's engagement party, things start to unravel for everyone; Victoria uses Conrad's father against him; Jack gets more involved; Charlotte and Emily both face problems.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4247160.jpg",
+                "title": "Perception",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4247160"
+                },
+                "votes": "98",
+                "writer": [
+                    "Nikki Toscano",
+                    "Sallie Patrick"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4247161.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-21 19:51:15",
+                "director": [
+                    "Sanford Bookstaver"
+                ],
+                "episode": 15,
+                "episodeid": 1272,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E15.Chaos.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "firstaired": "2012-02-15",
+                "label": "1x15. Chaos",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Emily's vendetta takes a dark turn at her and Daniel's engagement party, putting everyone in mortal danger; Jack decides to track down Amanda; Charlotte goes to extremes to relieve the pain of her family's betrayal.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4247161.jpg",
+                "title": "Chaos",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4247161"
+                },
+                "votes": "96",
+                "writer": [
+                    "Mark Fish",
+                    "Joe Fazzio"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4261691.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-21 19:55:29",
+                "director": [
+                    "Ken Fink"
+                ],
+                "episode": 16,
+                "episodeid": 1273,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E16.Scandal.German.Dubbed.DL.iTunesHD.x264-4SJ.mp4",
+                "firstaired": "2012-02-29",
+                "label": "1x16. Scandal",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The murder scandal at the Fire & Ice party rocks the Hamptons, and someone has to take the fall. The devastating turn of events call for desperate measures, as the Graysons form a united front, Emily grows more anxious, Ashley steps up for the family, and Jack is not the only one wondering where Amanda has gone.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4261691.jpg",
+                "title": "Scandal",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4261691"
+                },
+                "votes": "94",
+                "writer": [
+                    "Elle Triedman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4274284.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Roger Bart",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/x2lNUnY0icRm2Itq4nEBscXPH43.jpg"
+                    },
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-03-21 19:52:34",
+                "director": [
+                    "Matt Earl Beesley"
+                ],
+                "episode": 17,
+                "episodeid": 1274,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E17.Doubt.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "firstaired": "2012-04-18",
+                "label": "1x17. Doubt",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Daniel's imprisonment sends Victoria to depths that no one thought possible, as the surprise return of a past love provides a destructive but welcome distraction from her family's struggles. Meanwhile, Jack's search for Amanda grows more desperate as he comes under suspicion for murder.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4274284.jpg",
+                "title": "Doubt",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4274284"
+                },
+                "votes": "98",
+                "writer": [
+                    "Mike Kelley"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4357952.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-07-06 17:51:44",
+                "director": [
+                    "Kenneth Fink"
+                ],
+                "episode": 1,
+                "episodeid": 1275,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 2/Revenge.S02E01.Schicksal.GERMAN.Dubbed.HDTVRiP.XviD-idTV.mp4",
+                "firstaired": "2012-09-30",
+                "label": "2x01. Destiny",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In the wake of last summer's events in the Hamptons and with the ante even higher, what will Emily's next move be? Will she be able to manage her heart and keep her emotions from getting in the way of her resolve to avenge her father?",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4357952.jpg",
+                "title": "Destiny",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4357952"
+                },
+                "votes": "90",
+                "writer": [
+                    "Mike Kelley",
+                    "Mark B. Perry"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248837/4364094.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily VanCamp",
+                        "order": 0,
+                        "role": "Emily Thorne/Amanda Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289542.jpg"
+                    },
+                    {
+                        "name": "Madeleine Stowe",
+                        "order": 1,
+                        "role": "Victoria Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338664.jpg"
+                    },
+                    {
+                        "name": "Gabriel Mann",
+                        "order": 2,
+                        "role": "Nolan Ross",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289587.jpg"
+                    },
+                    {
+                        "name": "Elena Satine",
+                        "order": 3,
+                        "role": "Louise Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339439.jpg"
+                    },
+                    {
+                        "name": "James Tupper",
+                        "order": 4,
+                        "role": "David Clarke",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291389.jpg"
+                    },
+                    {
+                        "name": "Nick Wechsler",
+                        "order": 5,
+                        "role": "Jack Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289590.jpg"
+                    },
+                    {
+                        "name": "Gina Torres",
+                        "order": 6,
+                        "role": "Natalie Waters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345705.jpg"
+                    },
+                    {
+                        "name": "Carolyn Hennesy",
+                        "order": 7,
+                        "role": "Penelope Ellis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/344229.jpg"
+                    },
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 8,
+                        "role": "Ben Hunter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Karine Vanasse",
+                        "order": 9,
+                        "role": "Margaux LeMarchal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338665.jpg"
+                    },
+                    {
+                        "name": "Amber Valletta",
+                        "order": 10,
+                        "role": "Lydia Davis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                    },
+                    {
+                        "name": "Dilshad Vadsaria",
+                        "order": 11,
+                        "role": "Padma Lahari",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337607.jpg"
+                    },
+                    {
+                        "name": "Margarita Levieva",
+                        "order": 12,
+                        "role": "Amanda Clarke/Emily Thorne",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337605.jpg"
+                    },
+                    {
+                        "name": "Barry Sloane",
+                        "order": 13,
+                        "role": "Aiden Mathis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305674.jpg"
+                    },
+                    {
+                        "name": "Christa B. Allen",
+                        "order": 14,
+                        "role": "Charlotte Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/291388.jpg"
+                    },
+                    {
+                        "name": "Joshua Bowman",
+                        "order": 15,
+                        "role": "Daniel Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289592.jpg"
+                    },
+                    {
+                        "name": "Henry Czerny",
+                        "order": 16,
+                        "role": "Conrad Grayson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                    },
+                    {
+                        "name": "Ashley Madekwe",
+                        "order": 17,
+                        "role": "Ashley Davenport",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327804.jpg"
+                    },
+                    {
+                        "name": "Connor Paolo",
+                        "order": 18,
+                        "role": "Declan Porter",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289586.jpg"
+                    }
+                ],
+                "dateadded": "2013-07-06 17:50:22",
+                "director": [
+                    "David Grossman"
+                ],
+                "episode": 2,
+                "episodeid": 1276,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 2/Revenge.S02E02.Auferstehung.GERMAN.Dubbed.HDTVRiP.XviD-idTV.mp4",
+                "firstaired": "2012-10-07",
+                "label": "2x02. Resurrection",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Things get complicated as Emily continues to delicately weave her way back into the Graysons' lives while remaining tied to Amanda and her unborn child.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 2,
+                "showtitle": "Revenge",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248837/4364094.jpg",
+                "title": "Resurrection",
+                "tvshowid": 70,
+                "uniqueid": {
+                    "unknown": "4364094"
+                },
+                "votes": "86",
+                "writer": [
+                    "Sallie Patrick"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/248837-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/248837-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+            },
+            "episode": 16,
+            "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 384,
+            "showtitle": "Revenge",
+            "thumbnail": "http://thetvdb.com/banners/seasons/248837-1.jpg",
+            "tvshowid": 70,
+            "watchedepisodes": 0
+        },
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/248837-2-2.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/248837-2-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/248837-g11.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/248837-6.jpg"
+            },
+            "episode": 2,
+            "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
+            "label": "Staffel 2",
+            "playcount": 0,
+            "season": 2,
+            "seasonid": 385,
+            "showtitle": "Revenge",
+            "thumbnail": "http://thetvdb.com/banners/seasons/248837-2-2.jpg",
+            "tvshowid": 70,
+            "watchedepisodes": 0
+        }
+    ]
+}

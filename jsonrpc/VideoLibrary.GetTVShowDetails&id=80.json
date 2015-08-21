@@ -1,0 +1,210 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/255266-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/255266-9.jpg",
+            "poster": "http://thetvdb.com/banners/posters/255266-7.jpg"
+        },
+        "cast": [
+            {
+                "name": "Jennifer Love Hewitt",
+                "order": 0,
+                "role": "Riley",
+                "thumbnail": "http://thetvdb.com/banners/actors/294451.jpg"
+            },
+            {
+                "name": "Colin Egglesfield",
+                "order": 1,
+                "role": "Evan Parks",
+                "thumbnail": "http://thetvdb.com/banners/actors/312011.jpg"
+            },
+            {
+                "name": "Cybill Shepherd",
+                "order": 2,
+                "role": "Linette Montgomery",
+                "thumbnail": "http://thetvdb.com/banners/actors/294453.jpg"
+            },
+            {
+                "name": "Loretta Devine",
+                "order": 3,
+                "role": "Georgia Cummings",
+                "thumbnail": "http://thetvdb.com/banners/actors/312010.jpg"
+            },
+            {
+                "name": "Brian Hallisay",
+                "order": 4,
+                "role": "Kyle Parks",
+                "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+            },
+            {
+                "name": "Rebecca Field",
+                "order": 5,
+                "role": "Lacey",
+                "thumbnail": "http://thetvdb.com/banners/actors/294455.jpg"
+            }
+        ],
+        "dateadded": "2013-11-09 16:00:23",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"255266-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/255266/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/255266-9.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Client List/",
+        "genre": [
+            "Drama"
+        ],
+        "imdbnumber": "255266",
+        "label": "The Client List",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "A Texas housewife takes a job at a seemingly traditional day spa in a neighboring town after being deserted by her husband. When she realizes massages aren't the only services on the menu, she quickly grabs the opportunity to relieve her financial hardships by partnering with the parlor's feisty and disorganized owner to run the business.",
+        "premiered": "2012-04-08",
+        "rating": 7.400000095367432,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Lifetime"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/255266-7.jpg",
+        "title": "The Client List",
+        "tvshowid": 80,
+        "votes": "14",
+        "watchedepisodes": 0,
+        "year": 2012
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/255266/4269239.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/255266-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/255266-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/255266-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Brian Hallisay",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                    },
+                    {
+                        "name": "Elisabeth Roehm",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Desi Lydic",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hefkrpjs4TtM7ogAFJnRiHkZiLw.jpg"
+                    },
+                    {
+                        "name": "David Starzyk",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lea Coco",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mimi Rogers",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jennifer Love Hewitt",
+                        "order": 0,
+                        "role": "Riley",
+                        "thumbnail": "http://thetvdb.com/banners/actors/294451.jpg"
+                    },
+                    {
+                        "name": "Colin Egglesfield",
+                        "order": 1,
+                        "role": "Evan Parks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312011.jpg"
+                    },
+                    {
+                        "name": "Cybill Shepherd",
+                        "order": 2,
+                        "role": "Linette Montgomery",
+                        "thumbnail": "http://thetvdb.com/banners/actors/294453.jpg"
+                    },
+                    {
+                        "name": "Loretta Devine",
+                        "order": 3,
+                        "role": "Georgia Cummings",
+                        "thumbnail": "http://thetvdb.com/banners/actors/312010.jpg"
+                    },
+                    {
+                        "name": "Rebecca Field",
+                        "order": 5,
+                        "role": "Lacey",
+                        "thumbnail": "http://thetvdb.com/banners/actors/294455.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-09 16:00:23",
+                "director": [
+                    "Wendey Stanzler"
+                ],
+                "episode": 1,
+                "episodeid": 1651,
+                "fanart": "http://thetvdb.com/banners/fanart/original/255266-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Client List/Season 1/The.Client.List.S01E01.Neustart.mit.Happy.Ending.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "firstaired": "2012-04-08",
+                "label": "1x01. The Rub of Sugarland",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After being deserted by her husband, Texas housewife Riley Parks takes a job at a seemingly traditional day spa only to learn that sexual favors are being offered there on the side. Conflicted at first, she seizes the opportunity and takes the job, balancing two starkly different lives--one as a single mom in a conservative town struggling to provide for her family--and the other as a masseuse working with a rowdy and unpredictable group of women.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Client List",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/255266/4269239.jpg",
+                "title": "The Rub of Sugarland",
+                "tvshowid": 80,
+                "uniqueid": {
+                    "unknown": "4269239"
+                },
+                "votes": "38",
+                "writer": [
+                    "Jordan Budde"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/255266-1-5.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/255266-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/255266-9.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/255266-7.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/255266-9.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 451,
+            "showtitle": "The Client List",
+            "thumbnail": "http://thetvdb.com/banners/seasons/255266-1-5.jpg",
+            "tvshowid": 80,
+            "watchedepisodes": 0
+        }
+    ]
+}

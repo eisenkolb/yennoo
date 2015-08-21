@@ -1,0 +1,168 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/270182-g3.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/270182-2.jpg",
+            "poster": "http://thetvdb.com/banners/posters/270182-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Mark Strong",
+                "order": 0,
+                "role": "Det Sgt Frank Agnew",
+                "thumbnail": "http://thetvdb.com/banners/actors/315003.jpg"
+            },
+            {
+                "name": "Brian McCardie",
+                "order": 1,
+                "role": "Det Con Joe Geddes",
+                "thumbnail": "http://thetvdb.com/banners/actors/315004.jpg"
+            },
+            {
+                "name": "Alex Ferns",
+                "order": 2,
+                "role": "Liam Carnegie",
+                "thumbnail": "http://thetvdb.com/banners/actors/315007.jpg"
+            },
+            {
+                "name": "John Sessions",
+                "order": 3,
+                "role": "Prof Barry Lennox",
+                "thumbnail": "http://thetvdb.com/banners/actors/315006.jpg"
+            },
+            {
+                "name": "Paul Higgins",
+                "order": 4,
+                "role": "David Westwood",
+                "thumbnail": "http://thetvdb.com/banners/actors/315005.jpg"
+            }
+        ],
+        "dateadded": "2014-02-01 11:35:42",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"270182-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/270182/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/270182-2.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Low Winter Sun/",
+        "genre": [
+            "Drama"
+        ],
+        "imdbnumber": "270182",
+        "label": "Low Winter Sun",
+        "lastplayed": "",
+        "mpaa": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Frank Agnew is a police detective who kills for revenge and naively believes he's engineered the perfect crime.",
+        "premiered": "2006-01-01",
+        "rating": 7,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/270182-2.jpg",
+        "title": "Low Winter Sun",
+        "tvshowid": 53,
+        "votes": "1",
+        "watchedepisodes": 0,
+        "year": 2006
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/270182-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270182-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270182-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Mark Strong",
+                        "order": 0,
+                        "role": "Det Sgt Frank Agnew",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315003.jpg"
+                    },
+                    {
+                        "name": "Brian McCardie",
+                        "order": 1,
+                        "role": "Det Con Joe Geddes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315004.jpg"
+                    },
+                    {
+                        "name": "Alex Ferns",
+                        "order": 2,
+                        "role": "Liam Carnegie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315007.jpg"
+                    },
+                    {
+                        "name": "John Sessions",
+                        "order": 3,
+                        "role": "Prof Barry Lennox",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315006.jpg"
+                    },
+                    {
+                        "name": "Paul Higgins",
+                        "order": 4,
+                        "role": "David Westwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/315005.jpg"
+                    }
+                ],
+                "dateadded": "2014-02-01 11:35:42",
+                "director": [
+                    "Adrian Shergold"
+                ],
+                "episode": 1,
+                "episodeid": 887,
+                "fanart": "http://thetvdb.com/banners/fanart/original/270182-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Low Winter Sun/Season 1/Low.Winter.Sun.S01E01.24.lange.Stunden.DL.German.Dubbed.WS.BDRiP.AAC.x264-FREAKS.mkv",
+                "firstaired": "2006-01-01",
+                "label": "1x01. Episode 1",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Frank Agnew is a police detective who kills for revenge and naively believes he's engineered the perfect crime.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 10800,
+                "season": 1,
+                "showtitle": "Low Winter Sun",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "Episode 1",
+                "tvshowid": 53,
+                "uniqueid": {
+                    "unknown": "4577896"
+                },
+                "votes": "3",
+                "writer": [
+                    "Simon Donald"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/270182-g3.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270182-2.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/270182-2.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/270182-2.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 275,
+            "showtitle": "Low Winter Sun",
+            "thumbnail": "",
+            "tvshowid": 53,
+            "watchedepisodes": 0
+        }
+    ]
+}

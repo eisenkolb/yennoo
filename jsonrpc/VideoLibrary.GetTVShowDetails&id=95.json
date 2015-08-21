@@ -1,0 +1,236 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/280494-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/280494-11.jpg",
+            "poster": "http://thetvdb.com/banners/posters/280494-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Pisay Pao",
+                "order": 0,
+                "role": "Cassandra",
+                "thumbnail": "http://thetvdb.com/banners/actors/337143.jpg"
+            },
+            {
+                "name": "Keith Allan",
+                "order": 1,
+                "role": "Murphy",
+                "thumbnail": "http://thetvdb.com/banners/actors/337135.jpg"
+            },
+            {
+                "name": "Tom Everett Scott",
+                "order": 2,
+                "role": "Charles Garnett",
+                "thumbnail": "http://thetvdb.com/banners/actors/337131.jpg"
+            },
+            {
+                "name": "Russell Hodgkinson",
+                "order": 3,
+                "role": "Doc",
+                "thumbnail": "http://thetvdb.com/banners/actors/337142.jpg"
+            },
+            {
+                "name": "Michael Welch",
+                "order": 4,
+                "role": "Mack Thompson",
+                "thumbnail": "http://thetvdb.com/banners/actors/337136.jpg"
+            },
+            {
+                "name": "DJ Qualls",
+                "order": 5,
+                "role": "Citizen Z",
+                "thumbnail": "http://thetvdb.com/banners/actors/337134.jpg"
+            },
+            {
+                "name": "Anastasia Baranova",
+                "order": 6,
+                "role": "Addy Carver",
+                "thumbnail": "http://thetvdb.com/banners/actors/337133.jpg"
+            },
+            {
+                "name": "Kellita Smith",
+                "order": 7,
+                "role": "Roberta Warren",
+                "thumbnail": "http://thetvdb.com/banners/actors/337132.jpg"
+            },
+            {
+                "name": "Nat Zang",
+                "order": 8,
+                "role": "10K",
+                "thumbnail": "http://thetvdb.com/banners/actors/337144.jpg"
+            },
+            {
+                "name": "Harold Perrineau",
+                "order": 9,
+                "role": "Mark Hammond",
+                "thumbnail": "http://thetvdb.com/banners/actors/337130.jpg"
+            }
+        ],
+        "dateadded": "2014-11-21 23:45:41",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"280494-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/280494/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/280494-11.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Z Nation/",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Horror",
+            "Science-Fiction"
+        ],
+        "imdbnumber": "280494",
+        "label": "Z Nation",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Z Nation is a dynamic ensemble drama that will plunge viewers into a fully-imagined, post-zombie America and take them on adventures with a diverse group of richly-drawn characters. Getting to know the reluctant heroes, their flaws, idiosyncrasies, and moral dilemmas will ultimately become the heart of the show.\r\n\r\nZ Nation starts three years after the zombie virus has gutted the country, a team of everyday heroes must transport the only known survivor of the plague from New York to California, where the last functioning viral lab waits for his blood. Although the antibodies he carries are the world’s last, best hope for a vaccine, he hides a dark secret that threatens them all. With humankind’s survival at stake, the ragtag band embarks on a journey of survival across three thousand miles of rusted-out post-apocalyptic America.",
+        "premiered": "2014-09-12",
+        "rating": 6.599999904632568,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Syfy"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/280494-3.jpg",
+        "title": "Z Nation",
+        "tvshowid": 95,
+        "votes": "19",
+        "watchedepisodes": 0,
+        "year": 2014
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/280494/4882007.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/280494-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/280494-11.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/280494-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Pisay Pao",
+                        "order": 0,
+                        "role": "Cassandra",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337143.jpg"
+                    },
+                    {
+                        "name": "Keith Allan",
+                        "order": 1,
+                        "role": "Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337135.jpg"
+                    },
+                    {
+                        "name": "Tom Everett Scott",
+                        "order": 2,
+                        "role": "Charles Garnett",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337131.jpg"
+                    },
+                    {
+                        "name": "Russell Hodgkinson",
+                        "order": 3,
+                        "role": "Doc",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337142.jpg"
+                    },
+                    {
+                        "name": "Michael Welch",
+                        "order": 4,
+                        "role": "Mack Thompson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337136.jpg"
+                    },
+                    {
+                        "name": "DJ Qualls",
+                        "order": 5,
+                        "role": "Citizen Z",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337134.jpg"
+                    },
+                    {
+                        "name": "Anastasia Baranova",
+                        "order": 6,
+                        "role": "Addy Carver",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337133.jpg"
+                    },
+                    {
+                        "name": "Kellita Smith",
+                        "order": 7,
+                        "role": "Roberta Warren",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337132.jpg"
+                    },
+                    {
+                        "name": "Nat Zang",
+                        "order": 8,
+                        "role": "10K",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337144.jpg"
+                    },
+                    {
+                        "name": "Harold Perrineau",
+                        "order": 9,
+                        "role": "Mark Hammond",
+                        "thumbnail": "http://thetvdb.com/banners/actors/337130.jpg"
+                    }
+                ],
+                "dateadded": "2014-11-21 23:45:41",
+                "director": [
+                    "John Hyams"
+                ],
+                "episode": 1,
+                "episodeid": 1927,
+                "fanart": "http://thetvdb.com/banners/fanart/original/280494-11.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Z Nation/Season 1/Z.Nation.S01E01.HDTV.x264-KILLERS.SUBBED.mp4",
+                "firstaired": "2014-09-12",
+                "label": "1x01. Puppies and Kittens",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Three years into the zombie apocalypse, a ragtag team of everyday heroes comes together to transport the only known survivor of the zombie virus from Upstate New York to a lab in California, in hopes of using his blood for a vaccine.\r\n\r\nA zombie baby proves to be an early obstacle, and what they don't know is that their last, best hope for a vaccine is hiding a dark secret that threatens them all.",
+                "productioncode": "",
+                "rating": 6.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Z Nation",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/280494/4882007.jpg",
+                "title": "Puppies and Kittens",
+                "tvshowid": 95,
+                "uniqueid": {
+                    "unknown": "4882007"
+                },
+                "votes": "22",
+                "writer": [
+                    "Karl Schaefer"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/280494-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/280494-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/280494-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/280494-11.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/280494-3.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/280494-11.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 519,
+            "showtitle": "Z Nation",
+            "thumbnail": "http://thetvdb.com/banners/seasons/280494-1-2.jpg",
+            "tvshowid": 95,
+            "watchedepisodes": 0
+        }
+    ]
+}

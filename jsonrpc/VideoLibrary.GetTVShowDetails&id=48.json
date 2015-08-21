@@ -1,0 +1,532 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+            "poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+        },
+        "cast": [
+            {
+                "name": "Ben Diskin",
+                "order": 0,
+                "role": "Skaar"
+            },
+            {
+                "name": "Clancy Brown",
+                "order": 1,
+                "role": "Red Hulk"
+            },
+            {
+                "name": "Eliza Dushku",
+                "order": 2,
+                "role": "She-Hulk"
+            },
+            {
+                "name": "Fred Tatasciore",
+                "order": 3,
+                "role": "Hulk"
+            },
+            {
+                "name": "Seth Green",
+                "order": 4,
+                "role": "A-Bomb",
+                "thumbnail": "http://thetvdb.com/banners/actors/42357.jpg"
+            }
+        ],
+        "dateadded": "2014-10-11 18:35:35",
+        "episode": 6,
+        "episodeguide": "<episodeguide><url cache=\"267543-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/267543/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/",
+        "genre": [
+            "Adventure",
+            "Animation",
+            "Children"
+        ],
+        "imdbnumber": "267543",
+        "label": "Marvel's Hulk and the Agents of S.M.A.S.H.",
+        "lastplayed": "",
+        "mpaa": "TV-Y7",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Hulk has long fought alone to protect a world that sees him as a monster, but his friend Rick Jones has taken it upon himself to film the world-saving exploits of Big Green and his team to change that image. In this never before seen team up of Hulk, his cousin She-Hulk, A-Bomb, Red Hulk and Skaar, Marvel's mightiest super heroes form an eccentric family living under one roof, working together to tackle threats that are too enormous for other heroes to handle. From trying to house break their giant red pet T-Rex to stopping Ego the Living Planet from crashing into the Earth, the Agents of S.M.A.S.H. must learn to balance Hulk-sized action with everyday family-sized problems.",
+        "premiered": "2013-08-11",
+        "rating": 7.800000190734863,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Disney XD"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/267543-5.jpg",
+        "title": "Marvel's Hulk and the Agents of S.M.A.S.H.",
+        "tvshowid": 48,
+        "votes": "8",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267543/4518641.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ben Diskin",
+                        "order": 0,
+                        "role": "Skaar"
+                    },
+                    {
+                        "name": "Clancy Brown",
+                        "order": 1,
+                        "role": "Red Hulk"
+                    },
+                    {
+                        "name": "Eliza Dushku",
+                        "order": 2,
+                        "role": "She-Hulk"
+                    },
+                    {
+                        "name": "Fred Tatasciore",
+                        "order": 3,
+                        "role": "Hulk"
+                    },
+                    {
+                        "name": "Seth Green",
+                        "order": 4,
+                        "role": "A-Bomb",
+                        "thumbnail": "http://thetvdb.com/banners/actors/42357.jpg"
+                    }
+                ],
+                "dateadded": "2014-10-11 18:28:46",
+                "director": [
+                    "Dan Fausett"
+                ],
+                "episode": 1,
+                "episodeid": 806,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E01E02.Portal.des.Boesen.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
+                "firstaired": "2013-08-11",
+                "label": "1x01. Doorway to Destruction (1)",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Hulk's best pal Rick Jones begins making a web-series to show the world Hulk is a hero and Big Green gets his first chance to prove it when Annihilus invades Earth!",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Marvel's Hulk and the Agents of S.M.A.S.H.",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267543/4518641.jpg",
+                "title": "Doorway to Destruction (1)",
+                "tvshowid": 48,
+                "uniqueid": {
+                    "unknown": "4518641"
+                },
+                "votes": "5",
+                "writer": [
+                    "Paul Dini"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267543/4625730.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ben Diskin",
+                        "order": 0,
+                        "role": "Skaar"
+                    },
+                    {
+                        "name": "Clancy Brown",
+                        "order": 1,
+                        "role": "Red Hulk"
+                    },
+                    {
+                        "name": "Eliza Dushku",
+                        "order": 2,
+                        "role": "She-Hulk"
+                    },
+                    {
+                        "name": "Fred Tatasciore",
+                        "order": 3,
+                        "role": "Hulk"
+                    },
+                    {
+                        "name": "Seth Green",
+                        "order": 4,
+                        "role": "A-Bomb",
+                        "thumbnail": "http://thetvdb.com/banners/actors/42357.jpg"
+                    }
+                ],
+                "dateadded": "2014-10-11 18:28:46",
+                "director": [
+                    "Dan Fausett"
+                ],
+                "episode": 2,
+                "episodeid": 807,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E01E02.Portal.des.Boesen.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
+                "firstaired": "2013-08-11",
+                "label": "1x02. Doorway to Destruction (2)",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The newly formed Agents of S.M.A.S.H. -- including a Hulked-out Rick Jones aka A-Bomb -- invade the Negative Zone to stop Annihilus once and for all.",
+                "productioncode": "",
+                "rating": 8.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Marvel's Hulk and the Agents of S.M.A.S.H.",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267543/4625730.jpg",
+                "title": "Doorway to Destruction (2)",
+                "tvshowid": 48,
+                "uniqueid": {
+                    "unknown": "4625730"
+                },
+                "votes": "5",
+                "writer": [
+                    "Paul Dini"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267543/4628715.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ben Diskin",
+                        "order": 0,
+                        "role": "Skaar"
+                    },
+                    {
+                        "name": "Clancy Brown",
+                        "order": 1,
+                        "role": "Red Hulk"
+                    },
+                    {
+                        "name": "Eliza Dushku",
+                        "order": 2,
+                        "role": "She-Hulk"
+                    },
+                    {
+                        "name": "Fred Tatasciore",
+                        "order": 3,
+                        "role": "Hulk"
+                    },
+                    {
+                        "name": "Seth Green",
+                        "order": 4,
+                        "role": "A-Bomb",
+                        "thumbnail": "http://thetvdb.com/banners/actors/42357.jpg"
+                    }
+                ],
+                "dateadded": "2014-10-11 18:32:08",
+                "director": [
+                    "Roy Smith"
+                ],
+                "episode": 3,
+                "episodeid": 808,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E03.Freund.oder.Feind.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
+                "firstaired": "2013-08-18",
+                "label": "1x03. Hulk Busted",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When the Leader hijacks Iron Man's Hulkbuster suits to destroy the Agents of S.M.A.S.H., the team and Iron Man must learn to trust each other and work together to defeat the Leader.",
+                "productioncode": "",
+                "rating": 9,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Marvel's Hulk and the Agents of S.M.A.S.H.",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267543/4628715.jpg",
+                "title": "Hulk Busted",
+                "tvshowid": 48,
+                "uniqueid": {
+                    "unknown": "4628715"
+                },
+                "votes": "3",
+                "writer": [
+                    "Henry Gilroy"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267543/4628716.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ben Diskin",
+                        "order": 0,
+                        "role": "Skaar"
+                    },
+                    {
+                        "name": "Clancy Brown",
+                        "order": 1,
+                        "role": "Red Hulk"
+                    },
+                    {
+                        "name": "Eliza Dushku",
+                        "order": 2,
+                        "role": "She-Hulk"
+                    },
+                    {
+                        "name": "Fred Tatasciore",
+                        "order": 3,
+                        "role": "Hulk"
+                    },
+                    {
+                        "name": "Seth Green",
+                        "order": 4,
+                        "role": "A-Bomb",
+                        "thumbnail": "http://thetvdb.com/banners/actors/42357.jpg"
+                    }
+                ],
+                "dateadded": "2014-10-11 18:32:38",
+                "director": [
+                    "Dan Fausett"
+                ],
+                "episode": 4,
+                "episodeid": 809,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E04.Der.Collector.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
+                "firstaired": "2013-08-25",
+                "label": "1x04. The Collector",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Perceived by the public as \"menaces,\" Hulk and Spider-Man are the only ones left to save the planet from destruction when The Collector captures every last hero on earth.",
+                "productioncode": "",
+                "rating": 9,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Marvel's Hulk and the Agents of S.M.A.S.H.",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267543/4628716.jpg",
+                "title": "The Collector",
+                "tvshowid": 48,
+                "uniqueid": {
+                    "unknown": "4628716"
+                },
+                "votes": "3",
+                "writer": [
+                    "Eugene Son"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267543/4638849.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ben Diskin",
+                        "order": 0,
+                        "role": "Skaar"
+                    },
+                    {
+                        "name": "Clancy Brown",
+                        "order": 1,
+                        "role": "Red Hulk"
+                    },
+                    {
+                        "name": "Eliza Dushku",
+                        "order": 2,
+                        "role": "She-Hulk"
+                    },
+                    {
+                        "name": "Fred Tatasciore",
+                        "order": 3,
+                        "role": "Hulk"
+                    },
+                    {
+                        "name": "Seth Green",
+                        "order": 4,
+                        "role": "A-Bomb",
+                        "thumbnail": "http://thetvdb.com/banners/actors/42357.jpg"
+                    }
+                ],
+                "dateadded": "2014-10-11 18:33:51",
+                "director": [
+                    "Roy Smith"
+                ],
+                "episode": 5,
+                "episodeid": 810,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E05.Ego.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
+                "firstaired": "2013-09-01",
+                "label": "1x05. All About the Ego",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The Hulks face their biggest foe yet when they travel into space to battle Ego the Living Planet, who threatens to tear Earth apart! To survive, they have to tackle the second biggest ego in the galaxy -- Red Hulk's.",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Marvel's Hulk and the Agents of S.M.A.S.H.",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267543/4638849.jpg",
+                "title": "All About the Ego",
+                "tvshowid": 48,
+                "uniqueid": {
+                    "unknown": "4638849"
+                },
+                "votes": "3",
+                "writer": [
+                    "Brandon Auman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267543/4641503.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ben Diskin",
+                        "order": 0,
+                        "role": "Skaar"
+                    },
+                    {
+                        "name": "Clancy Brown",
+                        "order": 1,
+                        "role": "Red Hulk"
+                    },
+                    {
+                        "name": "Eliza Dushku",
+                        "order": 2,
+                        "role": "She-Hulk"
+                    },
+                    {
+                        "name": "Fred Tatasciore",
+                        "order": 3,
+                        "role": "Hulk"
+                    },
+                    {
+                        "name": "Seth Green",
+                        "order": 4,
+                        "role": "A-Bomb",
+                        "thumbnail": "http://thetvdb.com/banners/actors/42357.jpg"
+                    }
+                ],
+                "dateadded": "2014-10-11 18:35:35",
+                "director": [],
+                "episode": 6,
+                "episodeid": 811,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E06.Angriff.der.Dinosaurier.GERMAN.WS.SATRip.x264-TVP.mp4",
+                "firstaired": "2013-09-15",
+                "label": "1x06. Savage Land",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A-Bomb is eager to prove himself to an over-protective Hulk and finds an unlikely mentor in Red, but when Sauron and his army of dinosaurs begin to flood Earth with lava, A-Bomb finds himself facing a true trial by fire.",
+                "productioncode": "",
+                "rating": 9,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Marvel's Hulk and the Agents of S.M.A.S.H.",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267543/4641503.jpg",
+                "title": "Savage Land",
+                "tvshowid": 48,
+                "uniqueid": {
+                    "unknown": "4641503"
+                },
+                "votes": "2",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/267543-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+            },
+            "episode": 6,
+            "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 248,
+            "showtitle": "Marvel's Hulk and the Agents of S.M.A.S.H.",
+            "thumbnail": "http://thetvdb.com/banners/seasons/267543-1.jpg",
+            "tvshowid": 48,
+            "watchedepisodes": 0
+        }
+    ]
+}

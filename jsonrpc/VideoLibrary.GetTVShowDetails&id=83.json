@@ -1,0 +1,345 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/263677-g6.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/263677-4.jpg",
+            "poster": "http://thetvdb.com/banners/posters/263677-6.jpg"
+        },
+        "cast": [
+            {
+                "name": "Yara Pilartz",
+                "order": 0,
+                "role": "Camille",
+                "thumbnail": "http://thetvdb.com/banners/actors/305955.jpg"
+            },
+            {
+                "name": "Céline Sallette",
+                "order": 1,
+                "role": "Julie",
+                "thumbnail": "http://thetvdb.com/banners/actors/305947.jpg"
+            },
+            {
+                "name": "Ana Girardot",
+                "order": 2,
+                "role": "Lucy",
+                "thumbnail": "http://thetvdb.com/banners/actors/305957.jpg"
+            },
+            {
+                "name": "Jenna Thiam",
+                "order": 3,
+                "role": "Léna",
+                "thumbnail": "http://thetvdb.com/banners/actors/305956.jpg"
+            },
+            {
+                "name": "Carole Franck",
+                "order": 4,
+                "role": "Mlle Paillet",
+                "thumbnail": "http://thetvdb.com/banners/actors/306625.jpg"
+            },
+            {
+                "name": "Constance Dollé",
+                "order": 5,
+                "role": "Sandrine",
+                "thumbnail": "http://thetvdb.com/banners/actors/306591.jpg"
+            },
+            {
+                "name": "Letitia de Fombelle",
+                "order": 6,
+                "role": "Viviane Costa",
+                "thumbnail": "http://thetvdb.com/banners/actors/306590.jpg"
+            },
+            {
+                "name": "Jérôme Kircher",
+                "order": 7,
+                "role": "Le prêtre",
+                "thumbnail": "http://thetvdb.com/banners/actors/306003.jpg"
+            },
+            {
+                "name": "Brune Martin",
+                "order": 8,
+                "role": "Chloé",
+                "thumbnail": "http://thetvdb.com/banners/actors/305959.jpg"
+            },
+            {
+                "name": "Swann Nambotin",
+                "order": 9,
+                "role": "Victor",
+                "thumbnail": "http://thetvdb.com/banners/actors/305958.jpg"
+            },
+            {
+                "name": "Alix Poisson",
+                "order": 10,
+                "role": "Laure",
+                "thumbnail": "http://thetvdb.com/banners/actors/305954.jpg"
+            },
+            {
+                "name": "Jean-Francois Sivadier",
+                "order": 11,
+                "role": "Pierre",
+                "thumbnail": "http://thetvdb.com/banners/actors/305953.jpg"
+            },
+            {
+                "name": "Pierre Perrier",
+                "order": 12,
+                "role": "Simon",
+                "thumbnail": "http://thetvdb.com/banners/actors/305952.jpg"
+            },
+            {
+                "name": "Guillaume Gouix",
+                "order": 13,
+                "role": "Serge",
+                "thumbnail": "http://thetvdb.com/banners/actors/305950.jpg"
+            },
+            {
+                "name": "Grégory Gadebois",
+                "order": 14,
+                "role": "Toni",
+                "thumbnail": "http://thetvdb.com/banners/actors/305949.jpg"
+            },
+            {
+                "name": "Samir Guesmi",
+                "order": 15,
+                "role": "Thomas",
+                "thumbnail": "http://thetvdb.com/banners/actors/305948.jpg"
+            },
+            {
+                "name": "Clotilde Hesme",
+                "order": 16,
+                "role": "Adèle",
+                "thumbnail": "http://thetvdb.com/banners/actors/305946.jpg"
+            },
+            {
+                "name": "Frédéric Pierrot",
+                "order": 17,
+                "role": "Jérôme",
+                "thumbnail": "http://thetvdb.com/banners/actors/305945.jpg"
+            },
+            {
+                "name": "Anne Consigny",
+                "order": 18,
+                "role": "Claire",
+                "thumbnail": "http://thetvdb.com/banners/actors/305944.jpg"
+            }
+        ],
+        "dateadded": "2013-11-30 21:31:39",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"263677-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/263677/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/263677-4.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Returned/",
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Thriller"
+        ],
+        "imdbnumber": "263677",
+        "label": "The Returned",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "In the shadow of an enormous hydraulic dam, the lives of the residents of a small French town are changed to their core when hundreds of previously dead relatives all return home on the same day.",
+        "premiered": "2012-11-26",
+        "rating": 8.300000190734863,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Canal+"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/263677-6.jpg",
+        "title": "The Returned",
+        "tvshowid": 83,
+        "votes": "22",
+        "watchedepisodes": 0,
+        "year": 2012
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/263677/4427562.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/263677-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/263677-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/263677-6.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Anne Consigny",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305944.jpg"
+                    },
+                    {
+                        "name": "Frédéric Pierrot",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305945.jpg"
+                    },
+                    {
+                        "name": "Clotilde Hesme",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305946.jpg"
+                    },
+                    {
+                        "name": "Yara Pilartz",
+                        "order": 0,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305955.jpg"
+                    },
+                    {
+                        "name": "Céline Sallette",
+                        "order": 1,
+                        "role": "Julie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305947.jpg"
+                    },
+                    {
+                        "name": "Ana Girardot",
+                        "order": 2,
+                        "role": "Lucy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305957.jpg"
+                    },
+                    {
+                        "name": "Jenna Thiam",
+                        "order": 3,
+                        "role": "Léna",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305956.jpg"
+                    },
+                    {
+                        "name": "Carole Franck",
+                        "order": 4,
+                        "role": "Mlle Paillet",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306625.jpg"
+                    },
+                    {
+                        "name": "Constance Dollé",
+                        "order": 5,
+                        "role": "Sandrine",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306591.jpg"
+                    },
+                    {
+                        "name": "Letitia de Fombelle",
+                        "order": 6,
+                        "role": "Viviane Costa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306590.jpg"
+                    },
+                    {
+                        "name": "Jérôme Kircher",
+                        "order": 7,
+                        "role": "Le prêtre",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306003.jpg"
+                    },
+                    {
+                        "name": "Brune Martin",
+                        "order": 8,
+                        "role": "Chloé",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305959.jpg"
+                    },
+                    {
+                        "name": "Swann Nambotin",
+                        "order": 9,
+                        "role": "Victor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305958.jpg"
+                    },
+                    {
+                        "name": "Alix Poisson",
+                        "order": 10,
+                        "role": "Laure",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305954.jpg"
+                    },
+                    {
+                        "name": "Jean-Francois Sivadier",
+                        "order": 11,
+                        "role": "Pierre",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305953.jpg"
+                    },
+                    {
+                        "name": "Pierre Perrier",
+                        "order": 12,
+                        "role": "Simon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305952.jpg"
+                    },
+                    {
+                        "name": "Guillaume Gouix",
+                        "order": 13,
+                        "role": "Serge",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305950.jpg"
+                    },
+                    {
+                        "name": "Grégory Gadebois",
+                        "order": 14,
+                        "role": "Toni",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305949.jpg"
+                    },
+                    {
+                        "name": "Samir Guesmi",
+                        "order": 15,
+                        "role": "Thomas",
+                        "thumbnail": "http://thetvdb.com/banners/actors/305948.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-30 21:31:39",
+                "director": [
+                    "Fabrice Gobert"
+                ],
+                "episode": 1,
+                "episodeid": 1667,
+                "fanart": "http://thetvdb.com/banners/fanart/original/263677-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Returned/Season 1/The.Returned.S01E01.Camille.WS.XviD-CRiSP.mp4",
+                "firstaired": "2012-11-26",
+                "label": "1x01. Camille",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In a small mountain community, two local people - Camille, a teenager, and Simon - who both died years earlier, suddenly re-appear at their homes. They have not aged, and they are completely unaware of their own deaths. Camille and Simon assume they can rejoin the world of the living as though nothing has happened, but their return throws their friends and family into a state of turmoil. Camille's sister Léna has continued to grow up without her sibling beside her, and Simon's wife Adèle is just about to get remarried, to Thomas. Meanwhile, lonely nurse Julie receives a visit from a very strange little boy. Seven years ago, the town was struck by a series of bloody murders. Now it seems the killings have started up again.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3000,
+                "season": 1,
+                "showtitle": "The Returned",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/263677/4427562.jpg",
+                "title": "Camille",
+                "tvshowid": 83,
+                "uniqueid": {
+                    "unknown": "4427562"
+                },
+                "votes": "28",
+                "writer": [
+                    "Emmanuel Carrère",
+                    "Fabrice Gobert",
+                    "Nicolas Peufaillit"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/263677-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/263677-1-6.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/263677-g6.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/263677-4.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/263677-6.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/263677-4.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 462,
+            "showtitle": "The Returned",
+            "thumbnail": "http://thetvdb.com/banners/seasons/263677-1-6.jpg",
+            "tvshowid": 83,
+            "watchedepisodes": 0
+        }
+    ]
+}

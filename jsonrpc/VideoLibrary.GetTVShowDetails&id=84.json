@@ -1,0 +1,376 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/248884-g7.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/248884-3.jpg",
+            "poster": "http://thetvdb.com/banners/posters/248884-8.jpg"
+        },
+        "cast": [
+            {
+                "name": "Brittany Robertson",
+                "order": 0,
+                "role": "Cassie Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/284816.jpg"
+            },
+            {
+                "name": "Shelley Hennig",
+                "order": 1,
+                "role": "Diana Meade",
+                "thumbnail": "http://thetvdb.com/banners/actors/284820.jpg"
+            },
+            {
+                "name": "Thomas Dekker",
+                "order": 2,
+                "role": "Adam Conant",
+                "thumbnail": "http://thetvdb.com/banners/actors/284817.jpg"
+            },
+            {
+                "name": "Chris Zylka",
+                "order": 3,
+                "role": "Jake Armstrong",
+                "thumbnail": "http://thetvdb.com/banners/actors/299904.jpg"
+            },
+            {
+                "name": "Jessica Parker Kennedy",
+                "order": 4,
+                "role": "Melissa Glaser",
+                "thumbnail": "http://thetvdb.com/banners/actors/284822.jpg"
+            },
+            {
+                "name": "Phoebe Tonkin",
+                "order": 5,
+                "role": "Faye Chamberlain",
+                "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+            },
+            {
+                "name": "Natasha Henstridge",
+                "order": 6,
+                "role": "Dawn Chamberlain",
+                "thumbnail": "http://thetvdb.com/banners/actors/287223.jpg"
+            },
+            {
+                "name": "Ashley Crow",
+                "order": 7,
+                "role": "Jane Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/284824.jpg"
+            },
+            {
+                "name": "Louis Hunter",
+                "order": 8,
+                "role": "Nick Armstrong",
+                "thumbnail": "http://thetvdb.com/banners/actors/284823.jpg"
+            },
+            {
+                "name": "Gale Harold",
+                "order": 9,
+                "role": "Thomas Meade",
+                "thumbnail": "http://thetvdb.com/banners/actors/284819.jpg"
+            },
+            {
+                "name": "Adam Harrington",
+                "order": 10,
+                "role": "Ethan Conant",
+                "thumbnail": "http://thetvdb.com/banners/actors/284818.jpg"
+            }
+        ],
+        "dateadded": "2013-12-31 20:23:17",
+        "episode": 2,
+        "episodeguide": "<episodeguide><url cache=\"248884-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/248884/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/248884-3.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Secret Circle/",
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+        ],
+        "imdbnumber": "248884",
+        "label": "The Secret Circle",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Cassie Blake is a beautiful and shy, sixteen-year-old girl who moves to New Salem with her mother, to look after her sick grandmother. After being enrolled into a local high school, Cassie meets Diana Meade, a genuine and kind-hearted student who welcomes Cassie to her new school. Cassie also meets Diana's sadistic cousin, Faye Chamberlain, who promptly begins to ridicule and taunt her, all the while taking pleasure in causing Cassie pain.\r\n\r\nAfter Diana introduces Cassie to other members of the circle, they reveal themselves as witches, and that she is one as well. Initially, Cassie refuses to believe them - until Adam shows her how to unlock her magical powers. After Cassie reluctantly joins the circle, Adam, Diana, Faye, and the other members of the coven quickly discover that with Cassie in their circle, they are able to cast spells more powerful than they ever could before.",
+        "premiered": "2011-09-15",
+        "rating": 8.100000381469727,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "The CW"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/248884-8.jpg",
+        "title": "The Secret Circle",
+        "tvshowid": 84,
+        "votes": "39",
+        "watchedepisodes": 0,
+        "year": 2011
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248884/4103610.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248884-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248884-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248884-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Emily Holmes",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brittany Robertson",
+                        "order": 0,
+                        "role": "Cassie Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284816.jpg"
+                    },
+                    {
+                        "name": "Shelley Hennig",
+                        "order": 1,
+                        "role": "Diana Meade",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284820.jpg"
+                    },
+                    {
+                        "name": "Thomas Dekker",
+                        "order": 2,
+                        "role": "Adam Conant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284817.jpg"
+                    },
+                    {
+                        "name": "Chris Zylka",
+                        "order": 3,
+                        "role": "Jake Armstrong",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299904.jpg"
+                    },
+                    {
+                        "name": "Jessica Parker Kennedy",
+                        "order": 4,
+                        "role": "Melissa Glaser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284822.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 5,
+                        "role": "Faye Chamberlain",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Natasha Henstridge",
+                        "order": 6,
+                        "role": "Dawn Chamberlain",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287223.jpg"
+                    },
+                    {
+                        "name": "Ashley Crow",
+                        "order": 7,
+                        "role": "Jane Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284824.jpg"
+                    },
+                    {
+                        "name": "Louis Hunter",
+                        "order": 8,
+                        "role": "Nick Armstrong",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284823.jpg"
+                    },
+                    {
+                        "name": "Gale Harold",
+                        "order": 9,
+                        "role": "Thomas Meade",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284819.jpg"
+                    },
+                    {
+                        "name": "Adam Harrington",
+                        "order": 10,
+                        "role": "Ethan Conant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284818.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-31 20:23:17",
+                "director": [
+                    "Liz Friedlander"
+                ],
+                "episode": 1,
+                "episodeid": 1668,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248884-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Secret Circle/Season 1/The.Secret.Circle.S01E01.Pilot.480p.WEB-DL.x264-mSD.mkv",
+                "firstaired": "2011-09-15",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Cassie Blake's world is turned upside down after her mother dies in a mysterious accident, forcing Cassie to move in with her loving grandmother Jane in the small town of Chance Harbor, Washington. While trying to adjust to her new life, Cassie is quickly befriended by Diana Meade, a sweet-natured classmate who offers to show her around and introduces her to mean-girl Faye, her sidekick Melissa and Cassie's next door neighbor Nick. Things get complicated when she meets Adam, Diana's boyfriend, with whom she feels an instant and powerful connection. Upon meeting one of her mother's childhood friends, Dawn Chamberlain, the school principal and Faye's mother, Cassie begins to wonder why her mother never spoke of her hometown. When strange and dangerous things begin to happen, Cassie's new friends are forced to tell her their secret - they are all witches and her arrival will complete the Circle. However, the Circle has not been drawn together again by chance - Diana's father, Charles Meade has plans of his own for the group.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Secret Circle",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248884/4103610.jpg",
+                "title": "Pilot",
+                "tvshowid": 84,
+                "uniqueid": {
+                    "unknown": "4103610"
+                },
+                "votes": "70",
+                "writer": [
+                    "Andrew Miller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/248884/4156707.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/248884-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248884-3.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/248884-8.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Tom Butler",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Logan Browning",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Brittany Robertson",
+                        "order": 0,
+                        "role": "Cassie Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284816.jpg"
+                    },
+                    {
+                        "name": "Shelley Hennig",
+                        "order": 1,
+                        "role": "Diana Meade",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284820.jpg"
+                    },
+                    {
+                        "name": "Thomas Dekker",
+                        "order": 2,
+                        "role": "Adam Conant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284817.jpg"
+                    },
+                    {
+                        "name": "Chris Zylka",
+                        "order": 3,
+                        "role": "Jake Armstrong",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299904.jpg"
+                    },
+                    {
+                        "name": "Jessica Parker Kennedy",
+                        "order": 4,
+                        "role": "Melissa Glaser",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284822.jpg"
+                    },
+                    {
+                        "name": "Phoebe Tonkin",
+                        "order": 5,
+                        "role": "Faye Chamberlain",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284821.jpg"
+                    },
+                    {
+                        "name": "Natasha Henstridge",
+                        "order": 6,
+                        "role": "Dawn Chamberlain",
+                        "thumbnail": "http://thetvdb.com/banners/actors/287223.jpg"
+                    },
+                    {
+                        "name": "Ashley Crow",
+                        "order": 7,
+                        "role": "Jane Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284824.jpg"
+                    },
+                    {
+                        "name": "Louis Hunter",
+                        "order": 8,
+                        "role": "Nick Armstrong",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284823.jpg"
+                    },
+                    {
+                        "name": "Gale Harold",
+                        "order": 9,
+                        "role": "Thomas Meade",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284819.jpg"
+                    },
+                    {
+                        "name": "Adam Harrington",
+                        "order": 10,
+                        "role": "Ethan Conant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/284818.jpg"
+                    }
+                ],
+                "dateadded": "2013-12-31 20:22:58",
+                "director": [
+                    "Liz Friedlander"
+                ],
+                "episode": 2,
+                "episodeid": 1669,
+                "fanart": "http://thetvdb.com/banners/fanart/original/248884-3.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Secret Circle/Season 1/The.Secret.Circle.S01E02.HDTV.Xvid-2HD.avi",
+                "firstaired": "2011-09-22",
+                "label": "1x02. Bound",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In an effort to distance herself from the Circle and establish a normal teenage life in Chance Harbor, Cassie befriends Sally Matthews, a non-witch. Concerned their powers are getting out of control, Diana pushes everyone to bind the Circle, but Faye is thrilled with the increase in her powers and refuses to participate, while Melissa flirts with Nick despite Faye's warnings. Meanwhile, Adam fights his growing feelings for Cassie, but circumstances continue to throw them together, forcing Cassie to make a decision.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The Secret Circle",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/248884/4156707.jpg",
+                "title": "Bound",
+                "tvshowid": 84,
+                "uniqueid": {
+                    "unknown": "4156707"
+                },
+                "votes": "58",
+                "writer": [
+                    "Kevin Williamson",
+                    "Andrew Miller"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/248884-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/248884-g7.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/248884-3.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/248884-8.jpg"
+            },
+            "episode": 2,
+            "fanart": "http://thetvdb.com/banners/fanart/original/248884-3.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 465,
+            "showtitle": "The Secret Circle",
+            "thumbnail": "http://thetvdb.com/banners/seasons/248884-1.jpg",
+            "tvshowid": 84,
+            "watchedepisodes": 0
+        }
+    ]
+}

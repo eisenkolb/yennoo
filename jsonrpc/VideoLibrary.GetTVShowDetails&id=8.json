@@ -1,0 +1,1155 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/273181-g3.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+            "poster": "http://thetvdb.com/banners/posters/273181-7.jpg"
+        },
+        "cast": [
+            {
+                "name": "Bob Odenkirk",
+                "order": 0,
+                "role": "James \"Jimmy\" McGill",
+                "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+            },
+            {
+                "name": "Jonathan Banks",
+                "order": 1,
+                "role": "Mike Ehrmantraut",
+                "thumbnail": "http://thetvdb.com/banners/actors/289553.jpg"
+            },
+            {
+                "name": "Michael McKean",
+                "order": 2,
+                "role": "Chuck McGill",
+                "thumbnail": "http://thetvdb.com/banners/actors/334027.jpg"
+            },
+            {
+                "name": "Raymond Cruz",
+                "order": 3,
+                "role": "Tuco Salamanca",
+                "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+            },
+            {
+                "name": "Barry Shabaka Henley",
+                "order": 4,
+                "role": "Detective Sanders",
+                "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+            },
+            {
+                "name": "Michael Mando",
+                "order": 5,
+                "role": "Nacho Varga",
+                "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+            },
+            {
+                "name": "Rhea Seehorn",
+                "order": 6,
+                "role": "Kim Wexler",
+                "thumbnail": "http://thetvdb.com/banners/actors/341345.jpg"
+            },
+            {
+                "name": "Patrick Fabian",
+                "order": 7,
+                "role": "Howard Hamlin",
+                "thumbnail": "http://thetvdb.com/banners/actors/341344.jpg"
+            }
+        ],
+        "dateadded": "2015-05-31 02:26:08",
+        "episode": 10,
+        "episodeguide": "<episodeguide><url cache=\"273181-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/273181/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/",
+        "genre": [
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "imdbnumber": "273181",
+        "label": "Better Call Saul",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is ‘fixer’ Mike Erhmantraut. The series tracks Jimmy's transformation into the man who puts ‘criminal’ in ‘criminal lawyer’.",
+        "premiered": "2015-02-08",
+        "rating": 8.600000381469727,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "AMC"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/273181-7.jpg",
+        "title": "Better Call Saul",
+        "tvshowid": 8,
+        "votes": "55",
+        "watchedepisodes": 0,
+        "year": 2015
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/273181/4663020.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/273181-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/273181-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Julie Ann Emery",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jeremy Shamos",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Miriam Colon",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Eileen Fogarty",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Steven Levine",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Daniel Spenser Levine",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Raymond Cruz",
+                        "order": 6,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                    },
+                    {
+                        "name": "Nadine Marissa",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sarah Minnich",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Bob Odenkirk",
+                        "order": 0,
+                        "role": "James \"Jimmy\" McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                    },
+                    {
+                        "name": "Jonathan Banks",
+                        "order": 1,
+                        "role": "Mike Ehrmantraut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289553.jpg"
+                    },
+                    {
+                        "name": "Michael McKean",
+                        "order": 2,
+                        "role": "Chuck McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334027.jpg"
+                    },
+                    {
+                        "name": "Barry Shabaka Henley",
+                        "order": 4,
+                        "role": "Detective Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+                    },
+                    {
+                        "name": "Michael Mando",
+                        "order": 5,
+                        "role": "Nacho Varga",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+                    },
+                    {
+                        "name": "Rhea Seehorn",
+                        "order": 6,
+                        "role": "Kim Wexler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341345.jpg"
+                    },
+                    {
+                        "name": "Patrick Fabian",
+                        "order": 7,
+                        "role": "Howard Hamlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341344.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-09 22:52:11",
+                "director": [
+                    "Vince Gilligan"
+                ],
+                "episode": 1,
+                "episodeid": 136,
+                "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E01.Uno.GERMAN.DUBBED.WebHDRiP.XViD-EDE.avi",
+                "firstaired": "2015-02-08",
+                "label": "1x01. Uno",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jimmy works his magic in the courtroom. Unexpected inspiration leads him to an unconventional pursuit of potential clients.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Better Call Saul",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/273181/4663020.jpg",
+                "title": "Uno",
+                "tvshowid": 8,
+                "uniqueid": {
+                    "unknown": "4663020"
+                },
+                "votes": "64",
+                "writer": [
+                    "Vince Gilligan",
+                    "Peter Gould"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/273181/5054192.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/273181-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/273181-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Raymond Cruz",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                    },
+                    {
+                        "name": "Miriam Colon",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Eileen Fogarty",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jamie Luner",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Daniel Spenser Levine",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Steven Levine",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jesus Jr.",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Cesar Garcia",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Peter Diseth",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Bob Odenkirk",
+                        "order": 0,
+                        "role": "James \"Jimmy\" McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                    },
+                    {
+                        "name": "Jonathan Banks",
+                        "order": 1,
+                        "role": "Mike Ehrmantraut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289553.jpg"
+                    },
+                    {
+                        "name": "Michael McKean",
+                        "order": 2,
+                        "role": "Chuck McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334027.jpg"
+                    },
+                    {
+                        "name": "Barry Shabaka Henley",
+                        "order": 4,
+                        "role": "Detective Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+                    },
+                    {
+                        "name": "Michael Mando",
+                        "order": 5,
+                        "role": "Nacho Varga",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+                    },
+                    {
+                        "name": "Rhea Seehorn",
+                        "order": 6,
+                        "role": "Kim Wexler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341345.jpg"
+                    },
+                    {
+                        "name": "Patrick Fabian",
+                        "order": 7,
+                        "role": "Howard Hamlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341344.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-10 22:21:37",
+                "director": [
+                    "Michelle MacLaren"
+                ],
+                "episode": 2,
+                "episodeid": 137,
+                "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E02.Mijo.GERMAN.DUBBED.WebHDRiP.XViD-EDE.avi",
+                "firstaired": "2015-02-09",
+                "label": "1x02. Mijo",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As his troubles escalate to a boiling point, Jimmy finds himself in dire straits. An act of carelessness puts Chuck at risk.",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Better Call Saul",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/273181/5054192.jpg",
+                "title": "Mijo",
+                "tvshowid": 8,
+                "uniqueid": {
+                    "unknown": "5054192"
+                },
+                "votes": "59",
+                "writer": [
+                    "Peter Gould"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/273181/5054193.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/273181-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/273181-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Bob Odenkirk",
+                        "order": 0,
+                        "role": "James \"Jimmy\" McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                    },
+                    {
+                        "name": "Jonathan Banks",
+                        "order": 1,
+                        "role": "Mike Ehrmantraut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289553.jpg"
+                    },
+                    {
+                        "name": "Michael McKean",
+                        "order": 2,
+                        "role": "Chuck McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334027.jpg"
+                    },
+                    {
+                        "name": "Raymond Cruz",
+                        "order": 3,
+                        "role": "Tuco Salamanca",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                    },
+                    {
+                        "name": "Barry Shabaka Henley",
+                        "order": 4,
+                        "role": "Detective Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+                    },
+                    {
+                        "name": "Michael Mando",
+                        "order": 5,
+                        "role": "Nacho Varga",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+                    },
+                    {
+                        "name": "Rhea Seehorn",
+                        "order": 6,
+                        "role": "Kim Wexler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341345.jpg"
+                    },
+                    {
+                        "name": "Patrick Fabian",
+                        "order": 7,
+                        "role": "Howard Hamlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341344.jpg"
+                    }
+                ],
+                "dateadded": "2015-02-17 18:18:31",
+                "director": [
+                    "Terry McDonough"
+                ],
+                "episode": 3,
+                "episodeid": 138,
+                "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E03.Nacho.German.DD5.1.HDTVRip.XViD-EDE.avi",
+                "firstaired": "2015-02-16",
+                "label": "1x03. Nacho",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jimmy pulls out all the stops to prove that his dangerous client is innocent, even though it causes some friction with Kim.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Better Call Saul",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/273181/5054193.jpg",
+                "title": "Nacho",
+                "tvshowid": 8,
+                "uniqueid": {
+                    "unknown": "5054193"
+                },
+                "votes": "55",
+                "writer": [
+                    "Thomas Schnauz"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/273181/5114293.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/273181-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/273181-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Bob Odenkirk",
+                        "order": 0,
+                        "role": "James \"Jimmy\" McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                    },
+                    {
+                        "name": "Jonathan Banks",
+                        "order": 1,
+                        "role": "Mike Ehrmantraut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289553.jpg"
+                    },
+                    {
+                        "name": "Michael McKean",
+                        "order": 2,
+                        "role": "Chuck McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334027.jpg"
+                    },
+                    {
+                        "name": "Raymond Cruz",
+                        "order": 3,
+                        "role": "Tuco Salamanca",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                    },
+                    {
+                        "name": "Barry Shabaka Henley",
+                        "order": 4,
+                        "role": "Detective Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+                    },
+                    {
+                        "name": "Michael Mando",
+                        "order": 5,
+                        "role": "Nacho Varga",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+                    },
+                    {
+                        "name": "Rhea Seehorn",
+                        "order": 6,
+                        "role": "Kim Wexler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341345.jpg"
+                    },
+                    {
+                        "name": "Patrick Fabian",
+                        "order": 7,
+                        "role": "Howard Hamlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341344.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-18 14:42:28",
+                "director": [
+                    "Colin Bucksey"
+                ],
+                "episode": 4,
+                "episodeid": 139,
+                "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E04.Hero.German.DL.NetflixHD.x264-TVS.mkv",
+                "firstaired": "2015-02-23",
+                "label": "1x04. Hero",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jimmy conjures up a bold plan to solicit new clients, but has to face the consequences when the scheme strains his relationships with a rival firm.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Better Call Saul",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/273181/5114293.jpg",
+                "title": "Hero",
+                "tvshowid": 8,
+                "uniqueid": {
+                    "unknown": "5114293"
+                },
+                "votes": "54",
+                "writer": [
+                    "Gennifer Hutchison"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/273181/5114294.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/273181-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/273181-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Bob Odenkirk",
+                        "order": 0,
+                        "role": "James \"Jimmy\" McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                    },
+                    {
+                        "name": "Jonathan Banks",
+                        "order": 1,
+                        "role": "Mike Ehrmantraut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289553.jpg"
+                    },
+                    {
+                        "name": "Michael McKean",
+                        "order": 2,
+                        "role": "Chuck McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334027.jpg"
+                    },
+                    {
+                        "name": "Raymond Cruz",
+                        "order": 3,
+                        "role": "Tuco Salamanca",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                    },
+                    {
+                        "name": "Barry Shabaka Henley",
+                        "order": 4,
+                        "role": "Detective Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+                    },
+                    {
+                        "name": "Michael Mando",
+                        "order": 5,
+                        "role": "Nacho Varga",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+                    },
+                    {
+                        "name": "Rhea Seehorn",
+                        "order": 6,
+                        "role": "Kim Wexler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341345.jpg"
+                    },
+                    {
+                        "name": "Patrick Fabian",
+                        "order": 7,
+                        "role": "Howard Hamlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341344.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-03 19:12:47",
+                "director": [
+                    "Nicole Kassell"
+                ],
+                "episode": 5,
+                "episodeid": 140,
+                "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E05.Alpine.Shepherd.Boy.German.DD5.1.HDTVRip.XViD-EDE.avi",
+                "firstaired": "2015-03-02",
+                "label": "1x05. Alpine Shepherd Boy",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When his efforts to drum up new business are interrupted by alarming news, Jimmy is pressured to make a difficult choice.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Better Call Saul",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/273181/5114294.jpg",
+                "title": "Alpine Shepherd Boy",
+                "tvshowid": 8,
+                "uniqueid": {
+                    "unknown": "5114294"
+                },
+                "votes": "52",
+                "writer": [
+                    "Bradley Paul"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/273181/5126774.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/273181-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/273181-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Bob Odenkirk",
+                        "order": 0,
+                        "role": "James \"Jimmy\" McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                    },
+                    {
+                        "name": "Jonathan Banks",
+                        "order": 1,
+                        "role": "Mike Ehrmantraut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289553.jpg"
+                    },
+                    {
+                        "name": "Michael McKean",
+                        "order": 2,
+                        "role": "Chuck McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334027.jpg"
+                    },
+                    {
+                        "name": "Raymond Cruz",
+                        "order": 3,
+                        "role": "Tuco Salamanca",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                    },
+                    {
+                        "name": "Barry Shabaka Henley",
+                        "order": 4,
+                        "role": "Detective Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+                    },
+                    {
+                        "name": "Michael Mando",
+                        "order": 5,
+                        "role": "Nacho Varga",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+                    },
+                    {
+                        "name": "Rhea Seehorn",
+                        "order": 6,
+                        "role": "Kim Wexler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341345.jpg"
+                    },
+                    {
+                        "name": "Patrick Fabian",
+                        "order": 7,
+                        "role": "Howard Hamlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341344.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-18 14:58:07",
+                "director": [
+                    "Andrew Bernstein"
+                ],
+                "episode": 6,
+                "episodeid": 141,
+                "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E06.Five-O.German.DL.NetflixHD.x264-TVS.mkv",
+                "firstaired": "2015-03-09",
+                "label": "1x06. Five-O",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Mike's tragic past comes back to haunt him, and he's forced to seek help from an unusual source. Meanwhile, Jimmy's moral compass is put to the test.",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Better Call Saul",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/273181/5126774.jpg",
+                "title": "Five-O",
+                "tvshowid": 8,
+                "uniqueid": {
+                    "unknown": "5126774"
+                },
+                "votes": "53",
+                "writer": [
+                    "Gordon Smith"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/273181/5126775.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/273181-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/273181-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Bob Odenkirk",
+                        "order": 0,
+                        "role": "James \"Jimmy\" McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                    },
+                    {
+                        "name": "Jonathan Banks",
+                        "order": 1,
+                        "role": "Mike Ehrmantraut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289553.jpg"
+                    },
+                    {
+                        "name": "Michael McKean",
+                        "order": 2,
+                        "role": "Chuck McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334027.jpg"
+                    },
+                    {
+                        "name": "Raymond Cruz",
+                        "order": 3,
+                        "role": "Tuco Salamanca",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                    },
+                    {
+                        "name": "Barry Shabaka Henley",
+                        "order": 4,
+                        "role": "Detective Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+                    },
+                    {
+                        "name": "Michael Mando",
+                        "order": 5,
+                        "role": "Nacho Varga",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+                    },
+                    {
+                        "name": "Rhea Seehorn",
+                        "order": 6,
+                        "role": "Kim Wexler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341345.jpg"
+                    },
+                    {
+                        "name": "Patrick Fabian",
+                        "order": 7,
+                        "role": "Howard Hamlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341344.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-18 14:58:38",
+                "director": [
+                    "Larysa Kondracki"
+                ],
+                "episode": 7,
+                "episodeid": 142,
+                "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E07.Bingo.German.DL.NetflixHD.x264-TVS.mkv",
+                "firstaired": "2015-03-16",
+                "label": "1x07. Bingo",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jimmy meets with potential new clients. When given the opportunity to do the right thing, Jimmy cashes in a favor from an unlikely ally.",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Better Call Saul",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/273181/5126775.jpg",
+                "title": "Bingo",
+                "tvshowid": 8,
+                "uniqueid": {
+                    "unknown": "5126775"
+                },
+                "votes": "50",
+                "writer": [
+                    "Gennifer Hutchison"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/273181/5126776.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/273181-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/273181-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Bob Odenkirk",
+                        "order": 0,
+                        "role": "James \"Jimmy\" McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                    },
+                    {
+                        "name": "Jonathan Banks",
+                        "order": 1,
+                        "role": "Mike Ehrmantraut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289553.jpg"
+                    },
+                    {
+                        "name": "Michael McKean",
+                        "order": 2,
+                        "role": "Chuck McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334027.jpg"
+                    },
+                    {
+                        "name": "Raymond Cruz",
+                        "order": 3,
+                        "role": "Tuco Salamanca",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                    },
+                    {
+                        "name": "Barry Shabaka Henley",
+                        "order": 4,
+                        "role": "Detective Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+                    },
+                    {
+                        "name": "Michael Mando",
+                        "order": 5,
+                        "role": "Nacho Varga",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+                    },
+                    {
+                        "name": "Rhea Seehorn",
+                        "order": 6,
+                        "role": "Kim Wexler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341345.jpg"
+                    },
+                    {
+                        "name": "Patrick Fabian",
+                        "order": 7,
+                        "role": "Howard Hamlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341344.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 02:25:09",
+                "director": [
+                    "Colin Bucksey"
+                ],
+                "episode": 8,
+                "episodeid": 143,
+                "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E08.Rico.German.DL.NetflixHD.x264-TVS.mkv",
+                "firstaired": "2015-03-23",
+                "label": "1x08. RICO",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jimmy shows Chuck that he's willing to do almost anything to win a case, even if it means getting his hands dirty.",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Better Call Saul",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/273181/5126776.jpg",
+                "title": "RICO",
+                "tvshowid": 8,
+                "uniqueid": {
+                    "unknown": "5126776"
+                },
+                "votes": "42",
+                "writer": [
+                    "Gordon Smith"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/273181/5126777.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/273181-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/273181-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Bob Odenkirk",
+                        "order": 0,
+                        "role": "James \"Jimmy\" McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                    },
+                    {
+                        "name": "Jonathan Banks",
+                        "order": 1,
+                        "role": "Mike Ehrmantraut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289553.jpg"
+                    },
+                    {
+                        "name": "Michael McKean",
+                        "order": 2,
+                        "role": "Chuck McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334027.jpg"
+                    },
+                    {
+                        "name": "Raymond Cruz",
+                        "order": 3,
+                        "role": "Tuco Salamanca",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                    },
+                    {
+                        "name": "Barry Shabaka Henley",
+                        "order": 4,
+                        "role": "Detective Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+                    },
+                    {
+                        "name": "Michael Mando",
+                        "order": 5,
+                        "role": "Nacho Varga",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+                    },
+                    {
+                        "name": "Rhea Seehorn",
+                        "order": 6,
+                        "role": "Kim Wexler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341345.jpg"
+                    },
+                    {
+                        "name": "Patrick Fabian",
+                        "order": 7,
+                        "role": "Howard Hamlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341344.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 02:26:08",
+                "director": [
+                    "Thomas Schnauz"
+                ],
+                "episode": 9,
+                "episodeid": 144,
+                "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E09.Pimento.German.DL.NetflixHD.x264-TVS.mkv",
+                "firstaired": "2015-03-30",
+                "label": "1x09. Pimento",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Chuck urges Jimmy to accept a harsh truth. Meanwhile, a deal threatens to go off the rails when Mike's ability to complete a job is called into question.",
+                "productioncode": "",
+                "rating": 8.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Better Call Saul",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/273181/5126777.jpg",
+                "title": "Pimento",
+                "tvshowid": 8,
+                "uniqueid": {
+                    "unknown": "5126777"
+                },
+                "votes": "48",
+                "writer": [
+                    "Thomas Schnauz"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/273181/5126778.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/273181-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/273181-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Bob Odenkirk",
+                        "order": 0,
+                        "role": "James \"Jimmy\" McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                    },
+                    {
+                        "name": "Jonathan Banks",
+                        "order": 1,
+                        "role": "Mike Ehrmantraut",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289553.jpg"
+                    },
+                    {
+                        "name": "Michael McKean",
+                        "order": 2,
+                        "role": "Chuck McGill",
+                        "thumbnail": "http://thetvdb.com/banners/actors/334027.jpg"
+                    },
+                    {
+                        "name": "Raymond Cruz",
+                        "order": 3,
+                        "role": "Tuco Salamanca",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                    },
+                    {
+                        "name": "Barry Shabaka Henley",
+                        "order": 4,
+                        "role": "Detective Sanders",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347462.jpg"
+                    },
+                    {
+                        "name": "Michael Mando",
+                        "order": 5,
+                        "role": "Nacho Varga",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341957.jpg"
+                    },
+                    {
+                        "name": "Rhea Seehorn",
+                        "order": 6,
+                        "role": "Kim Wexler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341345.jpg"
+                    },
+                    {
+                        "name": "Patrick Fabian",
+                        "order": 7,
+                        "role": "Howard Hamlin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341344.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 02:25:29",
+                "director": [
+                    "Peter Gould"
+                ],
+                "episode": 10,
+                "episodeid": 145,
+                "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E10.German.DL.NetflixHD.x264-TVS.mkv",
+                "firstaired": "2015-04-06",
+                "label": "1x10. Marco",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In the aftermath of recent events, Jimmy seizes an opportunity to reconnect with an old friend. Chuck adjusts to a new way of life.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Better Call Saul",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/273181/5126778.jpg",
+                "title": "Marco",
+                "tvshowid": 8,
+                "uniqueid": {
+                    "unknown": "5126778"
+                },
+                "votes": "40",
+                "writer": [
+                    "Peter Gould"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/273181-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/273181-g3.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/273181-7.jpg"
+            },
+            "episode": 10,
+            "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 43,
+            "showtitle": "Better Call Saul",
+            "thumbnail": "http://thetvdb.com/banners/seasons/273181-1-2.jpg",
+            "tvshowid": 8,
+            "watchedepisodes": 0
+        }
+    ]
+}

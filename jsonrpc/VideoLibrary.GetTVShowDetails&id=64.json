@@ -1,0 +1,1314 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+            "poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+        },
+        "cast": [
+            {
+                "name": "Josh Hartnett",
+                "order": 0,
+                "role": "Ethan Chandler",
+                "thumbnail": "http://thetvdb.com/banners/actors/316926.jpg"
+            },
+            {
+                "name": "Eva Green",
+                "order": 1,
+                "role": "Vanessa Ives",
+                "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+            },
+            {
+                "name": "Harry Treadaway",
+                "order": 2,
+                "role": "Dr. Victor Frankenstein",
+                "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+            },
+            {
+                "name": "Timothy Dalton",
+                "order": 3,
+                "role": "Sir Malcolm",
+                "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+            },
+            {
+                "name": "Reeve Carney",
+                "order": 4,
+                "role": "Dorian Gray",
+                "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+            },
+            {
+                "name": "Helen McCrory",
+                "order": 5,
+                "role": "Evelyn Poole",
+                "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+            },
+            {
+                "name": "Simon Russell Beale",
+                "order": 6,
+                "role": "Ferdinand Lyle",
+                "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+            },
+            {
+                "name": "Sarah Greene",
+                "order": 7,
+                "role": "Hecate Poole",
+                "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+            },
+            {
+                "name": "Rory Kinnear",
+                "order": 8,
+                "role": "The Creature",
+                "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+            },
+            {
+                "name": "Danny Sapani",
+                "order": 9,
+                "role": "Sembene",
+                "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+            },
+            {
+                "name": "Billie Piper",
+                "order": 10,
+                "role": "Brona Croft",
+                "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+            }
+        ],
+        "dateadded": "2015-06-23 04:29:56",
+        "episode": 10,
+        "episodeguide": "<episodeguide><url cache=\"265766-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/265766/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Penny Dreadful/",
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Horror"
+        ],
+        "imdbnumber": "265766",
+        "label": "Penny Dreadful",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Penny Dreadful is a frightening psychological thriller that weaves together the monsters of classic stories. The explorer Sir Malcolm Murray, American gunslinger Ethan Chandler, Miss Vanessa Ives and others unite to combat supernatural threats in Victorian London. They encounter some of literature's most terrifying characters, including Dr. Frankenstein, Dorian Gray, the Wolfman and iconic figures from the novel Dracula.",
+        "premiered": "2014-05-11",
+        "rating": 8.300000190734863,
+        "season": 2,
+        "sorttitle": "",
+        "studio": [
+            "Showtime"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/265766-20.jpg",
+        "title": "Penny Dreadful",
+        "tvshowid": 64,
+        "votes": "62",
+        "watchedepisodes": 0,
+        "year": 2014
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265766/4536810.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Josh Hartnett",
+                        "order": 0,
+                        "role": "Ethan Chandler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316926.jpg"
+                    },
+                    {
+                        "name": "Eva Green",
+                        "order": 1,
+                        "role": "Vanessa Ives",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+                    },
+                    {
+                        "name": "Harry Treadaway",
+                        "order": 2,
+                        "role": "Dr. Victor Frankenstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+                    },
+                    {
+                        "name": "Timothy Dalton",
+                        "order": 3,
+                        "role": "Sir Malcolm",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+                    },
+                    {
+                        "name": "Reeve Carney",
+                        "order": 4,
+                        "role": "Dorian Gray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+                    },
+                    {
+                        "name": "Helen McCrory",
+                        "order": 5,
+                        "role": "Evelyn Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+                    },
+                    {
+                        "name": "Simon Russell Beale",
+                        "order": 6,
+                        "role": "Ferdinand Lyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+                    },
+                    {
+                        "name": "Sarah Greene",
+                        "order": 7,
+                        "role": "Hecate Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+                    },
+                    {
+                        "name": "Rory Kinnear",
+                        "order": 8,
+                        "role": "The Creature",
+                        "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 9,
+                        "role": "Sembene",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Billie Piper",
+                        "order": 10,
+                        "role": "Brona Croft",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+                    }
+                ],
+                "dateadded": "2014-09-17 00:11:12",
+                "director": [
+                    "Juan Antonio Bayona"
+                ],
+                "episode": 1,
+                "episodeid": 1219,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Penny Dreadful/Season 1/Penny.Dreadful.S01E01.Night.Work.German.DD20.Dubbed.DL.720p.HDTV.x264-TVS.mkv",
+                "firstaired": "2014-05-11",
+                "label": "1x01. Night Work",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "London 1891. As the police investigate a series of gruesome murders, renowned explorer Sir Malcolm Murray and the strangely beautiful Vanessa Ives know there's something darker at play. In search of someone close to them who has been lost, they recruit American sharp-shooter Ethan Chandler and Dr. Victor Frankenstein to help them on their journey.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "Penny Dreadful",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265766/4536810.jpg",
+                "title": "Night Work",
+                "tvshowid": 64,
+                "uniqueid": {
+                    "unknown": "4536810"
+                },
+                "votes": "44",
+                "writer": [
+                    "John Logan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265766/4768797.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Josh Hartnett",
+                        "order": 0,
+                        "role": "Ethan Chandler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316926.jpg"
+                    },
+                    {
+                        "name": "Eva Green",
+                        "order": 1,
+                        "role": "Vanessa Ives",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+                    },
+                    {
+                        "name": "Harry Treadaway",
+                        "order": 2,
+                        "role": "Dr. Victor Frankenstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+                    },
+                    {
+                        "name": "Timothy Dalton",
+                        "order": 3,
+                        "role": "Sir Malcolm",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+                    },
+                    {
+                        "name": "Reeve Carney",
+                        "order": 4,
+                        "role": "Dorian Gray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+                    },
+                    {
+                        "name": "Helen McCrory",
+                        "order": 5,
+                        "role": "Evelyn Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+                    },
+                    {
+                        "name": "Simon Russell Beale",
+                        "order": 6,
+                        "role": "Ferdinand Lyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+                    },
+                    {
+                        "name": "Sarah Greene",
+                        "order": 7,
+                        "role": "Hecate Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+                    },
+                    {
+                        "name": "Rory Kinnear",
+                        "order": 8,
+                        "role": "The Creature",
+                        "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 9,
+                        "role": "Sembene",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Billie Piper",
+                        "order": 10,
+                        "role": "Brona Croft",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+                    }
+                ],
+                "dateadded": "2014-09-17 00:41:25",
+                "director": [
+                    "Juan Antonio Bayona"
+                ],
+                "episode": 2,
+                "episodeid": 1220,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Penny Dreadful/Season 1/Penny.Dreadful.S01E02.Séance.German.DD20.Dubbed.DL.720p.HDTV.x264-TVS.mkv",
+                "firstaired": "2014-05-18",
+                "label": "1x02. Séance",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In pursuit of answers, Vanessa and Sir Malcolm attend a party at Egyptologist Sir Ferdinand Lyle's home where they encounter the mysteriously beautiful Dorian Gray. The party takes a turn, however, when renowned medium Madame Kali hosts a séance. Meanwhile, Ethan befriends Ms. Brona Croft, a young Irish immigrant",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "Penny Dreadful",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265766/4768797.jpg",
+                "title": "Séance",
+                "tvshowid": 64,
+                "uniqueid": {
+                    "unknown": "4768797"
+                },
+                "votes": "38",
+                "writer": [
+                    "John Logan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265766/4771438.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Olly Alexander",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Olivia Llewellyn",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Hannah Tointon",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mary Stockley",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/duzAifGRp5avCoefoDapemvBL3h.jpg"
+                    },
+                    {
+                        "name": "Josh Hartnett",
+                        "order": 0,
+                        "role": "Ethan Chandler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316926.jpg"
+                    },
+                    {
+                        "name": "Eva Green",
+                        "order": 1,
+                        "role": "Vanessa Ives",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+                    },
+                    {
+                        "name": "Harry Treadaway",
+                        "order": 2,
+                        "role": "Dr. Victor Frankenstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+                    },
+                    {
+                        "name": "Timothy Dalton",
+                        "order": 3,
+                        "role": "Sir Malcolm",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+                    },
+                    {
+                        "name": "Reeve Carney",
+                        "order": 4,
+                        "role": "Dorian Gray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+                    },
+                    {
+                        "name": "Helen McCrory",
+                        "order": 5,
+                        "role": "Evelyn Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+                    },
+                    {
+                        "name": "Simon Russell Beale",
+                        "order": 6,
+                        "role": "Ferdinand Lyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+                    },
+                    {
+                        "name": "Sarah Greene",
+                        "order": 7,
+                        "role": "Hecate Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+                    },
+                    {
+                        "name": "Rory Kinnear",
+                        "order": 8,
+                        "role": "The Creature",
+                        "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 9,
+                        "role": "Sembene",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Billie Piper",
+                        "order": 10,
+                        "role": "Brona Croft",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+                    }
+                ],
+                "dateadded": "2014-09-17 00:44:42",
+                "director": [
+                    "Dearbhla Walsh"
+                ],
+                "episode": 3,
+                "episodeid": 1221,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Penny Dreadful/Season 1/Penny.Dreadful.S01E03.Resurrection.German.DD20.Dubbed.DL.720p.HDTV.x264-TVS.mkv",
+                "firstaired": "2014-05-25",
+                "label": "1x03. Resurrection",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Dr. Frankenstein is confronted by the consequences of his past. Vanessa has a vision of Mina, which leads her, Sir Malcolm, Ethan and Sembene to a strange discovery at the London Zoo.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "Penny Dreadful",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265766/4771438.jpg",
+                "title": "Resurrection",
+                "tvshowid": 64,
+                "uniqueid": {
+                    "unknown": "4771438"
+                },
+                "votes": "36",
+                "writer": [
+                    "John Logan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265766/4771439.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Josh Hartnett",
+                        "order": 0,
+                        "role": "Ethan Chandler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316926.jpg"
+                    },
+                    {
+                        "name": "Eva Green",
+                        "order": 1,
+                        "role": "Vanessa Ives",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+                    },
+                    {
+                        "name": "Harry Treadaway",
+                        "order": 2,
+                        "role": "Dr. Victor Frankenstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+                    },
+                    {
+                        "name": "Timothy Dalton",
+                        "order": 3,
+                        "role": "Sir Malcolm",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+                    },
+                    {
+                        "name": "Reeve Carney",
+                        "order": 4,
+                        "role": "Dorian Gray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+                    },
+                    {
+                        "name": "Helen McCrory",
+                        "order": 5,
+                        "role": "Evelyn Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+                    },
+                    {
+                        "name": "Simon Russell Beale",
+                        "order": 6,
+                        "role": "Ferdinand Lyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+                    },
+                    {
+                        "name": "Sarah Greene",
+                        "order": 7,
+                        "role": "Hecate Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+                    },
+                    {
+                        "name": "Rory Kinnear",
+                        "order": 8,
+                        "role": "The Creature",
+                        "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 9,
+                        "role": "Sembene",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Billie Piper",
+                        "order": 10,
+                        "role": "Brona Croft",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+                    }
+                ],
+                "dateadded": "2014-09-20 00:42:08",
+                "director": [
+                    "Dearbhla Walsh"
+                ],
+                "episode": 4,
+                "episodeid": 1222,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Penny Dreadful/Season 1/Penny.Dreadful.S01E04.Demimonde.German.DD20.Dubbed.DL.720p.HDTV.x264-TVS.mkv",
+                "firstaired": "2014-06-01",
+                "label": "1x04. Demimonde",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Vanessa's infatuation with Dorian Gray continues to grow. Professor Abraham Van Helsing is hired to work with Dr. Frankenstein. And Fenton draws his master to Sir Malcolm's mansion.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "Penny Dreadful",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265766/4771439.jpg",
+                "title": "Demimonde",
+                "tvshowid": 64,
+                "uniqueid": {
+                    "unknown": "4771439"
+                },
+                "votes": "36",
+                "writer": [
+                    "John Logan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265766/4771440.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Josh Hartnett",
+                        "order": 0,
+                        "role": "Ethan Chandler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316926.jpg"
+                    },
+                    {
+                        "name": "Eva Green",
+                        "order": 1,
+                        "role": "Vanessa Ives",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+                    },
+                    {
+                        "name": "Harry Treadaway",
+                        "order": 2,
+                        "role": "Dr. Victor Frankenstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+                    },
+                    {
+                        "name": "Timothy Dalton",
+                        "order": 3,
+                        "role": "Sir Malcolm",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+                    },
+                    {
+                        "name": "Reeve Carney",
+                        "order": 4,
+                        "role": "Dorian Gray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+                    },
+                    {
+                        "name": "Helen McCrory",
+                        "order": 5,
+                        "role": "Evelyn Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+                    },
+                    {
+                        "name": "Simon Russell Beale",
+                        "order": 6,
+                        "role": "Ferdinand Lyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+                    },
+                    {
+                        "name": "Sarah Greene",
+                        "order": 7,
+                        "role": "Hecate Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+                    },
+                    {
+                        "name": "Rory Kinnear",
+                        "order": 8,
+                        "role": "The Creature",
+                        "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 9,
+                        "role": "Sembene",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Billie Piper",
+                        "order": 10,
+                        "role": "Brona Croft",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+                    }
+                ],
+                "dateadded": "2014-09-26 22:31:12",
+                "director": [
+                    "Coky Giedroyc"
+                ],
+                "episode": 5,
+                "episodeid": 1223,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Penny Dreadful/Season 1/Penny.Dreadful.S01E05.Closer.Than.Sisters.German.DD20.Dubbed.DL.720p.HDTV.x264-TVS.mkv",
+                "firstaired": "2014-06-08",
+                "label": "1x05. Closer Than Sisters",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Vanessa recalls her past and the events that ultimately lead to Mina's disappearance.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "Penny Dreadful",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265766/4771440.jpg",
+                "title": "Closer Than Sisters",
+                "tvshowid": 64,
+                "uniqueid": {
+                    "unknown": "4771440"
+                },
+                "votes": "33",
+                "writer": [
+                    "John Logan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265766/4771441.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Josh Hartnett",
+                        "order": 0,
+                        "role": "Ethan Chandler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316926.jpg"
+                    },
+                    {
+                        "name": "Eva Green",
+                        "order": 1,
+                        "role": "Vanessa Ives",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+                    },
+                    {
+                        "name": "Harry Treadaway",
+                        "order": 2,
+                        "role": "Dr. Victor Frankenstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+                    },
+                    {
+                        "name": "Timothy Dalton",
+                        "order": 3,
+                        "role": "Sir Malcolm",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+                    },
+                    {
+                        "name": "Reeve Carney",
+                        "order": 4,
+                        "role": "Dorian Gray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+                    },
+                    {
+                        "name": "Helen McCrory",
+                        "order": 5,
+                        "role": "Evelyn Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+                    },
+                    {
+                        "name": "Simon Russell Beale",
+                        "order": 6,
+                        "role": "Ferdinand Lyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+                    },
+                    {
+                        "name": "Sarah Greene",
+                        "order": 7,
+                        "role": "Hecate Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+                    },
+                    {
+                        "name": "Rory Kinnear",
+                        "order": 8,
+                        "role": "The Creature",
+                        "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 9,
+                        "role": "Sembene",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Billie Piper",
+                        "order": 10,
+                        "role": "Brona Croft",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+                    }
+                ],
+                "dateadded": "2014-09-26 22:33:24",
+                "director": [
+                    "Coky Giedroyc"
+                ],
+                "episode": 6,
+                "episodeid": 1224,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Penny Dreadful/Season 1/Penny.Dreadful.S01E06.What.Death.Can.Join.Together.German.DD20.Dubbed.DL.720p.HDTV.x264-TVS.mkv",
+                "firstaired": "2014-06-15",
+                "label": "1x06. What Death Can Join Together",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Vanessa's latest vision leads Sir Malcolm, Ethan and Sembene to explore a plague ship in search of Mina. Meanwhile, Van Helsing reveals to Dr. Frankenstein more details about the creature that has taken Mina. Later, Vanessa's night with Dorian unlocks something dark within her.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "Penny Dreadful",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265766/4771441.jpg",
+                "title": "What Death Can Join Together",
+                "tvshowid": 64,
+                "uniqueid": {
+                    "unknown": "4771441"
+                },
+                "votes": "28",
+                "writer": [
+                    "John Logan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265766/4771443.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Josh Hartnett",
+                        "order": 0,
+                        "role": "Ethan Chandler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316926.jpg"
+                    },
+                    {
+                        "name": "Eva Green",
+                        "order": 1,
+                        "role": "Vanessa Ives",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+                    },
+                    {
+                        "name": "Harry Treadaway",
+                        "order": 2,
+                        "role": "Dr. Victor Frankenstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+                    },
+                    {
+                        "name": "Timothy Dalton",
+                        "order": 3,
+                        "role": "Sir Malcolm",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+                    },
+                    {
+                        "name": "Reeve Carney",
+                        "order": 4,
+                        "role": "Dorian Gray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+                    },
+                    {
+                        "name": "Helen McCrory",
+                        "order": 5,
+                        "role": "Evelyn Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+                    },
+                    {
+                        "name": "Simon Russell Beale",
+                        "order": 6,
+                        "role": "Ferdinand Lyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+                    },
+                    {
+                        "name": "Sarah Greene",
+                        "order": 7,
+                        "role": "Hecate Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+                    },
+                    {
+                        "name": "Rory Kinnear",
+                        "order": 8,
+                        "role": "The Creature",
+                        "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 9,
+                        "role": "Sembene",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Billie Piper",
+                        "order": 10,
+                        "role": "Brona Croft",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+                    }
+                ],
+                "dateadded": "2015-04-13 16:57:12",
+                "director": [
+                    "James Hawes"
+                ],
+                "episode": 7,
+                "episodeid": 1225,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Penny Dreadful/Season 1/Penny.Dreadful.S01E07.Possession.German.BDRip.x264-iNTENTiON.mkv",
+                "firstaired": "2014-06-22",
+                "label": "1x07. Possession",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Sir Malcolm, Ethan and Sembene must deal with the aftermath of Vanessa's night of passion with Dorian, when she is possessed by the demon that haunts them... and who has ties to the Master who controls Mina.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "Penny Dreadful",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265766/4771443.jpg",
+                "title": "Possession",
+                "tvshowid": 64,
+                "uniqueid": {
+                    "unknown": "4771443"
+                },
+                "votes": "29",
+                "writer": [
+                    "John Logan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265766/4771444.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Josh Hartnett",
+                        "order": 0,
+                        "role": "Ethan Chandler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316926.jpg"
+                    },
+                    {
+                        "name": "Eva Green",
+                        "order": 1,
+                        "role": "Vanessa Ives",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+                    },
+                    {
+                        "name": "Harry Treadaway",
+                        "order": 2,
+                        "role": "Dr. Victor Frankenstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+                    },
+                    {
+                        "name": "Timothy Dalton",
+                        "order": 3,
+                        "role": "Sir Malcolm",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+                    },
+                    {
+                        "name": "Reeve Carney",
+                        "order": 4,
+                        "role": "Dorian Gray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+                    },
+                    {
+                        "name": "Helen McCrory",
+                        "order": 5,
+                        "role": "Evelyn Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+                    },
+                    {
+                        "name": "Simon Russell Beale",
+                        "order": 6,
+                        "role": "Ferdinand Lyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+                    },
+                    {
+                        "name": "Sarah Greene",
+                        "order": 7,
+                        "role": "Hecate Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+                    },
+                    {
+                        "name": "Rory Kinnear",
+                        "order": 8,
+                        "role": "The Creature",
+                        "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 9,
+                        "role": "Sembene",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Billie Piper",
+                        "order": 10,
+                        "role": "Brona Croft",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+                    }
+                ],
+                "dateadded": "2015-04-13 17:10:10",
+                "director": [
+                    "James Hawes"
+                ],
+                "episode": 8,
+                "episodeid": 1226,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Penny Dreadful/Season 1/Penny.Dreadful.S01E08.Grand .Guignol.German.BDRip.x264-iNTENTiON.mkv",
+                "firstaired": "2014-06-29",
+                "label": "1x08. Grand Guignol",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After a vision of the Grand Guignol, Vanessa, Sir Malcolm, Ethan, Dr. Frankenstein and Sembene explore an empty theater - only to be confronted by their worst nightmares.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "Penny Dreadful",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265766/4771444.jpg",
+                "title": "Grand Guignol",
+                "tvshowid": 64,
+                "uniqueid": {
+                    "unknown": "4771444"
+                },
+                "votes": "32",
+                "writer": [
+                    "John Logan"
+                ]
+            }
+        ],
+        "2": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265766/5101192.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Josh Hartnett",
+                        "order": 0,
+                        "role": "Ethan Chandler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316926.jpg"
+                    },
+                    {
+                        "name": "Eva Green",
+                        "order": 1,
+                        "role": "Vanessa Ives",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+                    },
+                    {
+                        "name": "Harry Treadaway",
+                        "order": 2,
+                        "role": "Dr. Victor Frankenstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+                    },
+                    {
+                        "name": "Timothy Dalton",
+                        "order": 3,
+                        "role": "Sir Malcolm",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+                    },
+                    {
+                        "name": "Reeve Carney",
+                        "order": 4,
+                        "role": "Dorian Gray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+                    },
+                    {
+                        "name": "Helen McCrory",
+                        "order": 5,
+                        "role": "Evelyn Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+                    },
+                    {
+                        "name": "Simon Russell Beale",
+                        "order": 6,
+                        "role": "Ferdinand Lyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+                    },
+                    {
+                        "name": "Sarah Greene",
+                        "order": 7,
+                        "role": "Hecate Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+                    },
+                    {
+                        "name": "Rory Kinnear",
+                        "order": 8,
+                        "role": "The Creature",
+                        "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 9,
+                        "role": "Sembene",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Billie Piper",
+                        "order": 10,
+                        "role": "Brona Croft",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-23 04:29:56",
+                "director": [
+                    "Damon Thomas"
+                ],
+                "episode": 5,
+                "episodeid": 1227,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Penny Dreadful/Season 2/Penny.Dreadful.S02E05.Der.Himmel.deckt.mich.zu.German.DD51.DL.720p.NetflixHD.x264-TVS.mkv",
+                "firstaired": "2015-05-31",
+                "label": "2x05. Above the Vaulted Sky",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Hecate returns to her mother with a gift; Evelyn works on a new totem; the mansion is attacked; the Creature grows impatient with Frankenstein; Rusk interrogates Ethan; Vanessa and the Creature's friendship deepens; Angelique is humiliated while out with Dorian.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 2,
+                "showtitle": "Penny Dreadful",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265766/5101192.jpg",
+                "title": "Above the Vaulted Sky",
+                "tvshowid": 64,
+                "uniqueid": {
+                    "unknown": "5101192"
+                },
+                "votes": "10",
+                "writer": [
+                    "John Logan"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265766/5101194.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Josh Hartnett",
+                        "order": 0,
+                        "role": "Ethan Chandler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316926.jpg"
+                    },
+                    {
+                        "name": "Eva Green",
+                        "order": 1,
+                        "role": "Vanessa Ives",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+                    },
+                    {
+                        "name": "Harry Treadaway",
+                        "order": 2,
+                        "role": "Dr. Victor Frankenstein",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+                    },
+                    {
+                        "name": "Timothy Dalton",
+                        "order": 3,
+                        "role": "Sir Malcolm",
+                        "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+                    },
+                    {
+                        "name": "Reeve Carney",
+                        "order": 4,
+                        "role": "Dorian Gray",
+                        "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+                    },
+                    {
+                        "name": "Helen McCrory",
+                        "order": 5,
+                        "role": "Evelyn Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+                    },
+                    {
+                        "name": "Simon Russell Beale",
+                        "order": 6,
+                        "role": "Ferdinand Lyle",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+                    },
+                    {
+                        "name": "Sarah Greene",
+                        "order": 7,
+                        "role": "Hecate Poole",
+                        "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+                    },
+                    {
+                        "name": "Rory Kinnear",
+                        "order": 8,
+                        "role": "The Creature",
+                        "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 9,
+                        "role": "Sembene",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Billie Piper",
+                        "order": 10,
+                        "role": "Brona Croft",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-23 04:09:50",
+                "director": [
+                    "Brian Kirk"
+                ],
+                "episode": 7,
+                "episodeid": 1228,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Penny Dreadful/Season 2/Penny.Dreadful.S02E07.Little.Scorpion.GERMAN.DL.DUBBED.720p.HDTV.x264-TVP.mkv",
+                "firstaired": "2015-06-14",
+                "label": "2x07. Little Scorpion",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Not feeling safe in London, Vanessa and Ethan flee to the Cut-Wife’s cottage on the lonely moors. While there, Vanessa and Ethan settle into a domestic life as they draw closer together until a figure from her dark past resurfaces. Meanwhile back in London, Lyle and Frankenstein uncover even more disturbing information from the Verbis Diablo relics. We soon discover that Lily isn’t what she appears to be.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 2,
+                "showtitle": "Penny Dreadful",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265766/5101194.jpg",
+                "title": "Little Scorpion",
+                "tvshowid": 64,
+                "uniqueid": {
+                    "unknown": "5101194"
+                },
+                "votes": "9",
+                "writer": [
+                    "John Logan"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/265766-1-3.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/265766-1-10.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+            },
+            "episode": 8,
+            "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 356,
+            "showtitle": "Penny Dreadful",
+            "thumbnail": "http://thetvdb.com/banners/seasons/265766-1-10.jpg",
+            "tvshowid": 64,
+            "watchedepisodes": 0
+        },
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/265766-2-4.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/265766-20.jpg"
+            },
+            "episode": 2,
+            "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+            "label": "Staffel 2",
+            "playcount": 0,
+            "season": 2,
+            "seasonid": 357,
+            "showtitle": "Penny Dreadful",
+            "thumbnail": "http://thetvdb.com/banners/seasons/265766-2-4.jpg",
+            "tvshowid": 64,
+            "watchedepisodes": 0
+        }
+    ]
+}

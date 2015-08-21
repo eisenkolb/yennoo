@@ -1,0 +1,387 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/253463-g4.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
+            "poster": "http://thetvdb.com/banners/posters/253463-7.jpg"
+        },
+        "cast": [
+            {
+                "name": "Jon Hamm",
+                "order": 0,
+                "role": "Matt Trent"
+            },
+            {
+                "name": "Natalia Tena",
+                "order": 1,
+                "role": "Jennifer",
+                "thumbnail": "http://thetvdb.com/banners/actors/299632.jpg"
+            },
+            {
+                "name": "Oona Chaplin",
+                "order": 2,
+                "role": "Greta",
+                "thumbnail": "http://thetvdb.com/banners/actors/299787.jpg"
+            },
+            {
+                "name": "Rafe Spall",
+                "order": 3,
+                "role": "Joe Potter"
+            }
+        ],
+        "dateadded": "2013-12-31 21:04:00",
+        "episode": 3,
+        "episodeguide": "<episodeguide><url cache=\"253463-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/253463/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Mirror/",
+        "genre": [
+            "Drama",
+            "Science-Fiction",
+            "Fantasy"
+        ],
+        "imdbnumber": "253463",
+        "label": "Black Mirror",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Over the last ten years, technology has transformed almost every aspect of our lives before we've had time to stop and question it. In every home; on every desk; in every palm - a plasma screen; a monitor; a smartphone - a black mirror of our 21st Century existence.\r\nBlack Mirror is a contemporary British re-working of The Twilight Zone with stories that tap into the collective unease about our modern world.",
+        "premiered": "2011-12-04",
+        "rating": 8.5,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Channel 4"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/253463-7.jpg",
+        "title": "Black Mirror",
+        "tvshowid": 9,
+        "votes": "60",
+        "watchedepisodes": 0,
+        "year": 2011
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/253463/4201395.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/253463-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/253463-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Rory Kinnear",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+                    },
+                    {
+                        "name": "Lindsay Duncan",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ddjjwMEHLBvzkZzZ5frEvJyWnZ6.jpg"
+                    },
+                    {
+                        "name": "Tom Goodman-Hill",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Donald Sumpter",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299626.jpg"
+                    },
+                    {
+                        "name": "Lydia Wilson",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Anna Wilson-Jones",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alastair MacKenzie",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jon Hamm",
+                        "order": 0,
+                        "role": "Matt Trent"
+                    },
+                    {
+                        "name": "Natalia Tena",
+                        "order": 1,
+                        "role": "Jennifer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299632.jpg"
+                    },
+                    {
+                        "name": "Oona Chaplin",
+                        "order": 2,
+                        "role": "Greta",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299787.jpg"
+                    },
+                    {
+                        "name": "Rafe Spall",
+                        "order": 3,
+                        "role": "Joe Potter"
+                    }
+                ],
+                "dateadded": "2013-12-31 20:57:18",
+                "director": [
+                    "Otto Bathurst"
+                ],
+                "episode": 1,
+                "episodeid": 146,
+                "fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Mirror/Season 1/Black.Mirror.S01E01.Der.Wille.des.Volkes.XviD-ITG.avi",
+                "firstaired": "2011-12-04",
+                "label": "1x01. The National Anthem",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A twisted parable for the Twitter age, The National Anthem looks at how life is very much harder for the rich and supposedly powerful now that information is disseminated so quickly and public opinion is so loud, powerful and quick to change. It's a political thriller in which the Prime Minister faces a huge dilemma - and that's all that can be revealed for now...",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Black Mirror",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/253463/4201395.jpg",
+                "title": "The National Anthem",
+                "tvshowid": 9,
+                "uniqueid": {
+                    "unknown": "4201395"
+                },
+                "votes": "65",
+                "writer": [
+                    "Charlie Brooker"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/253463/4201396.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/253463-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/253463-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Julia Davis",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rupert Everett",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Daniel Kaluuya",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jessica Brown-Findlay",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Allen Leech",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ashley Thomas",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Paul Popplewell",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jon Hamm",
+                        "order": 0,
+                        "role": "Matt Trent"
+                    },
+                    {
+                        "name": "Natalia Tena",
+                        "order": 1,
+                        "role": "Jennifer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299632.jpg"
+                    },
+                    {
+                        "name": "Oona Chaplin",
+                        "order": 2,
+                        "role": "Greta",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299787.jpg"
+                    },
+                    {
+                        "name": "Rafe Spall",
+                        "order": 3,
+                        "role": "Joe Potter"
+                    }
+                ],
+                "dateadded": "2013-12-31 20:44:19",
+                "director": [
+                    "Euros Lyn"
+                ],
+                "episode": 2,
+                "episodeid": 147,
+                "fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Mirror/Season 1/Black.Mirror.S01E02.Das.Leben.als.Spiel.German.Dubbed.DVDRip.XviD-ITG.avi",
+                "firstaired": "2011-12-11",
+                "label": "1x02. 15 Million Merits",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Set in a sarcastic version of a future reality, 15 Million Merits is a satire on entertainment shows and our insatiable thirst for distraction. In this world, everyone is confined to a life of strange physical drudgery. The only way to escape this life is to enter the 'Hot Shot' talent show and just pray you can impress the judges.",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Black Mirror",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/253463/4201396.jpg",
+                "title": "15 Million Merits",
+                "tvshowid": 9,
+                "uniqueid": {
+                    "unknown": "4201396"
+                },
+                "votes": "44",
+                "writer": [
+                    "Charlie Brooker",
+                    "Konnie Huq"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/253463/4201397.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/253463-g4.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/253463-7.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Toby Kebbell",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jodie Whittaker",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tom Cullen",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jon Hamm",
+                        "order": 0,
+                        "role": "Matt Trent"
+                    },
+                    {
+                        "name": "Natalia Tena",
+                        "order": 1,
+                        "role": "Jennifer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299632.jpg"
+                    },
+                    {
+                        "name": "Oona Chaplin",
+                        "order": 2,
+                        "role": "Greta",
+                        "thumbnail": "http://thetvdb.com/banners/actors/299787.jpg"
+                    },
+                    {
+                        "name": "Rafe Spall",
+                        "order": 3,
+                        "role": "Joe Potter"
+                    }
+                ],
+                "dateadded": "2013-12-31 21:04:00",
+                "director": [
+                    "Brian Welsh"
+                ],
+                "episode": 3,
+                "episodeid": 148,
+                "fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Mirror/Season 1/Black.Mirror.S01E03.Das.transparente.Ich.German.Dubbed.DVDRip.XviD-ITG.avi",
+                "firstaired": "2011-12-18",
+                "label": "1x03. The Entire History of You",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Set in an alternative reality where everyone has access to a system which records everything they do, see or hear. You need never forget a face, a holiday or a night out again... but is that always a good thing?",
+                "productioncode": "",
+                "rating": 8.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Black Mirror",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/253463/4201397.jpg",
+                "title": "The Entire History of You",
+                "tvshowid": 9,
+                "uniqueid": {
+                    "unknown": "4201397"
+                },
+                "votes": "36",
+                "writer": [
+                    "Jesse Armstrong"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/253463-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/253463-g4.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/253463-7.jpg"
+            },
+            "episode": 3,
+            "fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 46,
+            "showtitle": "Black Mirror",
+            "thumbnail": "http://thetvdb.com/banners/seasons/253463-1-2.jpg",
+            "tvshowid": 9,
+            "watchedepisodes": 0
+        }
+    ]
+}

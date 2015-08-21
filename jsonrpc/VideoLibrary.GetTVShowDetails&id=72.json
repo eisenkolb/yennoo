@@ -1,0 +1,514 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/265454-g5.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/265454-2.jpg",
+            "poster": "http://thetvdb.com/banners/posters/265454-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Thandie Newton",
+                "order": 0,
+                "role": "Grace",
+                "thumbnail": "http://thetvdb.com/banners/actors/307266.jpg"
+            },
+            {
+                "name": "Marton Csokas",
+                "order": 1,
+                "role": "Jimmy Laszlo",
+                "thumbnail": "http://thetvdb.com/banners/actors/307267.jpg"
+            },
+            {
+                "name": "Jarod Joseph",
+                "order": 2,
+                "role": "Nicholas Fleming",
+                "thumbnail": "http://thetvdb.com/banners/actors/307274.jpg"
+            },
+            {
+                "name": "Ian Tracey",
+                "order": 3,
+                "role": "Lucas 'Mitch' Mitchel",
+                "thumbnail": "http://thetvdb.com/banners/actors/307273.jpg"
+            },
+            {
+                "name": "Joshua Sasse",
+                "order": 4,
+                "role": "Alec Laszlo",
+                "thumbnail": "http://thetvdb.com/banners/actors/307270.jpg"
+            },
+            {
+                "name": "Claudia Ferri",
+                "order": 5,
+                "role": "Sophia Hernandez",
+                "thumbnail": "http://thetvdb.com/banners/actors/307269.jpg"
+            },
+            {
+                "name": "Ian Hart",
+                "order": 6,
+                "role": "Buddy Wilson",
+                "thumbnail": "http://thetvdb.com/banners/actors/307268.jpg"
+            },
+            {
+                "name": "Leah Gibson",
+                "order": 7,
+                "role": "Cathy Laszlo",
+                "thumbnail": "http://thetvdb.com/banners/actors/328143.jpg"
+            },
+            {
+                "name": "Kavan Smith",
+                "order": 8,
+                "role": "Tom Travis",
+                "thumbnail": "http://thetvdb.com/banners/actors/328142.jpg"
+            },
+            {
+                "name": "Martin Donovan",
+                "order": 9,
+                "role": "Richard Campbell",
+                "thumbnail": "http://thetvdb.com/banners/actors/307276.jpg"
+            },
+            {
+                "name": "Matthew Beard",
+                "order": 10,
+                "role": "Max Laszlo",
+                "thumbnail": "http://thetvdb.com/banners/actors/307275.jpg"
+            },
+            {
+                "name": "Sarah Jeffrey",
+                "order": 11,
+                "role": "Evie Travis",
+                "thumbnail": "http://thetvdb.com/banners/actors/307272.jpg"
+            },
+            {
+                "name": "Jonathan Holmes",
+                "order": 12,
+                "role": "Lloyd",
+                "thumbnail": "http://thetvdb.com/banners/actors/307271.jpg"
+            }
+        ],
+        "dateadded": "2015-06-03 19:54:38",
+        "episode": 3,
+        "episodeguide": "<episodeguide><url cache=\"265454-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/265454/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/265454-2.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Rogue/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "imdbnumber": "265454",
+        "label": "Rogue",
+        "lastplayed": "",
+        "mpaa": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "\"Rogue\" revolves around Grace, a morally and emotionally-conflicted undercover detective who is tormented by the possibility that her own actions contributed to her son’s death. Grace’s search for the truth is further complicated by her forbidden relationship with Jimmy, the crime boss who may have played a hand in the crime.\r\nA smart, complex, character-led thriller, \"Rogue\" explores loss, grief, identity, family bonds, second chances and redemption. Both Grace and Jimmy not only struggle with who they are, they struggle with who they want to be. Both cross the line – morally, emotionally, sexually – with devastating consequences for their own lives and those around them.",
+        "premiered": "2013-04-03",
+        "rating": 6.800000190734863,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Audience Network"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/265454-2.jpg",
+        "title": "Rogue",
+        "tvshowid": 72,
+        "votes": "5",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265454/4468322.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265454-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265454-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265454-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Thandie Newton",
+                        "order": 0,
+                        "role": "Grace",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307266.jpg"
+                    },
+                    {
+                        "name": "Marton Csokas",
+                        "order": 1,
+                        "role": "Jimmy Laszlo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307267.jpg"
+                    },
+                    {
+                        "name": "Jarod Joseph",
+                        "order": 2,
+                        "role": "Nicholas Fleming",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307274.jpg"
+                    },
+                    {
+                        "name": "Ian Tracey",
+                        "order": 3,
+                        "role": "Lucas 'Mitch' Mitchel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307273.jpg"
+                    },
+                    {
+                        "name": "Joshua Sasse",
+                        "order": 4,
+                        "role": "Alec Laszlo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307270.jpg"
+                    },
+                    {
+                        "name": "Claudia Ferri",
+                        "order": 5,
+                        "role": "Sophia Hernandez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307269.jpg"
+                    },
+                    {
+                        "name": "Ian Hart",
+                        "order": 6,
+                        "role": "Buddy Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307268.jpg"
+                    },
+                    {
+                        "name": "Leah Gibson",
+                        "order": 7,
+                        "role": "Cathy Laszlo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328143.jpg"
+                    },
+                    {
+                        "name": "Kavan Smith",
+                        "order": 8,
+                        "role": "Tom Travis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328142.jpg"
+                    },
+                    {
+                        "name": "Martin Donovan",
+                        "order": 9,
+                        "role": "Richard Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307276.jpg"
+                    },
+                    {
+                        "name": "Matthew Beard",
+                        "order": 10,
+                        "role": "Max Laszlo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307275.jpg"
+                    },
+                    {
+                        "name": "Sarah Jeffrey",
+                        "order": 11,
+                        "role": "Evie Travis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307272.jpg"
+                    },
+                    {
+                        "name": "Jonathan Holmes",
+                        "order": 12,
+                        "role": "Lloyd",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307271.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-03 19:54:13",
+                "director": [
+                    "Brian Kirk"
+                ],
+                "episode": 1,
+                "episodeid": 1281,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265454-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Rogue/Season 1/Rogue.S01E01.The.Aquarium.German.DL.Dubbed.720p.HDTV.x264-CNHD.mkv",
+                "firstaired": "2013-04-03",
+                "label": "1x01. The Aquarium",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Tragedy strikes the Travis family. Tom tries keeping the family together. Grace convinces Jimmy he has a traitor in his organization. Mitch hesitates to help Grace. Jimmy discovers his money is missing. Max returns home. Jimmy and Grace make a deal.",
+                "productioncode": "",
+                "rating": 6.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Rogue",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265454/4468322.jpg",
+                "title": "The Aquarium",
+                "tvshowid": 72,
+                "uniqueid": {
+                    "unknown": "4468322"
+                },
+                "votes": "10",
+                "writer": [
+                    "Matthew Parkhill"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265454/4468323.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265454-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265454-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265454-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Thandie Newton",
+                        "order": 0,
+                        "role": "Grace",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307266.jpg"
+                    },
+                    {
+                        "name": "Marton Csokas",
+                        "order": 1,
+                        "role": "Jimmy Laszlo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307267.jpg"
+                    },
+                    {
+                        "name": "Jarod Joseph",
+                        "order": 2,
+                        "role": "Nicholas Fleming",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307274.jpg"
+                    },
+                    {
+                        "name": "Ian Tracey",
+                        "order": 3,
+                        "role": "Lucas 'Mitch' Mitchel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307273.jpg"
+                    },
+                    {
+                        "name": "Joshua Sasse",
+                        "order": 4,
+                        "role": "Alec Laszlo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307270.jpg"
+                    },
+                    {
+                        "name": "Claudia Ferri",
+                        "order": 5,
+                        "role": "Sophia Hernandez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307269.jpg"
+                    },
+                    {
+                        "name": "Ian Hart",
+                        "order": 6,
+                        "role": "Buddy Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307268.jpg"
+                    },
+                    {
+                        "name": "Leah Gibson",
+                        "order": 7,
+                        "role": "Cathy Laszlo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328143.jpg"
+                    },
+                    {
+                        "name": "Kavan Smith",
+                        "order": 8,
+                        "role": "Tom Travis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328142.jpg"
+                    },
+                    {
+                        "name": "Martin Donovan",
+                        "order": 9,
+                        "role": "Richard Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307276.jpg"
+                    },
+                    {
+                        "name": "Matthew Beard",
+                        "order": 10,
+                        "role": "Max Laszlo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307275.jpg"
+                    },
+                    {
+                        "name": "Sarah Jeffrey",
+                        "order": 11,
+                        "role": "Evie Travis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307272.jpg"
+                    },
+                    {
+                        "name": "Jonathan Holmes",
+                        "order": 12,
+                        "role": "Lloyd",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307271.jpg"
+                    }
+                ],
+                "dateadded": "2015-03-14 14:51:18",
+                "director": [],
+                "episode": 2,
+                "episodeid": 1282,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265454-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Rogue/Season 1/Rogue.S01E02.Fireball.German.DL.Dubbed.720p.HDTV.x264-CNHD.mkv",
+                "firstaired": "2013-04-03",
+                "label": "1x02. Fireball",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jimmy Laszlo learns Grace's true identity. Alec takes revenge against a rival gang. Jimmy strikes a deal with Grace to find the traitor in his organization.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Rogue",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265454/4468323.jpg",
+                "title": "Fireball",
+                "tvshowid": 72,
+                "uniqueid": {
+                    "unknown": "4468323"
+                },
+                "votes": "1",
+                "writer": []
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/265454/4468324.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/265454-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265454-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/265454-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Thandie Newton",
+                        "order": 0,
+                        "role": "Grace",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307266.jpg"
+                    },
+                    {
+                        "name": "Marton Csokas",
+                        "order": 1,
+                        "role": "Jimmy Laszlo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307267.jpg"
+                    },
+                    {
+                        "name": "Jarod Joseph",
+                        "order": 2,
+                        "role": "Nicholas Fleming",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307274.jpg"
+                    },
+                    {
+                        "name": "Ian Tracey",
+                        "order": 3,
+                        "role": "Lucas 'Mitch' Mitchel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307273.jpg"
+                    },
+                    {
+                        "name": "Joshua Sasse",
+                        "order": 4,
+                        "role": "Alec Laszlo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307270.jpg"
+                    },
+                    {
+                        "name": "Claudia Ferri",
+                        "order": 5,
+                        "role": "Sophia Hernandez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307269.jpg"
+                    },
+                    {
+                        "name": "Ian Hart",
+                        "order": 6,
+                        "role": "Buddy Wilson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307268.jpg"
+                    },
+                    {
+                        "name": "Leah Gibson",
+                        "order": 7,
+                        "role": "Cathy Laszlo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328143.jpg"
+                    },
+                    {
+                        "name": "Kavan Smith",
+                        "order": 8,
+                        "role": "Tom Travis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328142.jpg"
+                    },
+                    {
+                        "name": "Martin Donovan",
+                        "order": 9,
+                        "role": "Richard Campbell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307276.jpg"
+                    },
+                    {
+                        "name": "Matthew Beard",
+                        "order": 10,
+                        "role": "Max Laszlo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307275.jpg"
+                    },
+                    {
+                        "name": "Sarah Jeffrey",
+                        "order": 11,
+                        "role": "Evie Travis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307272.jpg"
+                    },
+                    {
+                        "name": "Jonathan Holmes",
+                        "order": 12,
+                        "role": "Lloyd",
+                        "thumbnail": "http://thetvdb.com/banners/actors/307271.jpg"
+                    }
+                ],
+                "dateadded": "2015-06-03 19:54:38",
+                "director": [],
+                "episode": 3,
+                "episodeid": 1283,
+                "fanart": "http://thetvdb.com/banners/fanart/original/265454-2.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Rogue/Season 1/Rogue.S01E03.Cathy's.Song.German.DL.Dubbed.720p.HDTV.x264-CNHD.mkv",
+                "firstaired": "2013-04-10",
+                "label": "1x03. Cathy's Song",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A firebombing drops the Laszlos between a vengeful Chinese gang and justice-seeking police. Grace finds a link between Jimmy's organization and the shooting outside Sam's school.",
+                "productioncode": "",
+                "rating": 7,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Rogue",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/265454/4468324.jpg",
+                "title": "Cathy's Song",
+                "tvshowid": 72,
+                "uniqueid": {
+                    "unknown": "4468324"
+                },
+                "votes": "5",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/265454-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/265454-g5.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265454-2.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/265454-2.jpg"
+            },
+            "episode": 3,
+            "fanart": "http://thetvdb.com/banners/fanart/original/265454-2.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 394,
+            "showtitle": "Rogue",
+            "thumbnail": "http://thetvdb.com/banners/seasons/265454-1-2.jpg",
+            "tvshowid": 72,
+            "watchedepisodes": 0
+        }
+    ]
+}

@@ -1,0 +1,375 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/259669-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/259669-7.jpg",
+            "poster": "http://thetvdb.com/banners/posters/259669-4.jpg"
+        },
+        "cast": [
+            {
+                "name": "Tom Riley",
+                "order": 0,
+                "role": "Leonardo Da Vinci",
+                "thumbnail": "http://thetvdb.com/banners/actors/327223.jpg"
+            },
+            {
+                "name": "Laura Haddock",
+                "order": 1,
+                "role": "Lucrezia Donati",
+                "thumbnail": "http://thetvdb.com/banners/actors/327224.jpg"
+            },
+            {
+                "name": "Blake Ritson",
+                "order": 2,
+                "role": "Count Riario",
+                "thumbnail": "http://thetvdb.com/banners/actors/327225.jpg"
+            },
+            {
+                "name": "Ray Fearon",
+                "order": 3,
+                "role": "Carlo de Medici",
+                "thumbnail": "http://thetvdb.com/banners/actors/341746.jpg"
+            },
+            {
+                "name": "Kieran Bew",
+                "order": 4,
+                "role": "Duke Alfonso",
+                "thumbnail": "http://thetvdb.com/banners/actors/341744.jpg"
+            },
+            {
+                "name": "Jeany Spark",
+                "order": 5,
+                "role": "Ippolita",
+                "thumbnail": "http://thetvdb.com/banners/actors/341742.jpg"
+            },
+            {
+                "name": "Carolina Guerra",
+                "order": 6,
+                "role": "Ima",
+                "thumbnail": "http://thetvdb.com/banners/actors/341741.jpg"
+            },
+            {
+                "name": "Elliot Cowan",
+                "order": 7,
+                "role": "Lorenzo Medici",
+                "thumbnail": "http://thetvdb.com/banners/actors/327234.jpg"
+            },
+            {
+                "name": "Lara Pulver",
+                "order": 8,
+                "role": "Clarice Orsini",
+                "thumbnail": "http://thetvdb.com/banners/actors/327233.jpg"
+            },
+            {
+                "name": "Gregg Chillin",
+                "order": 9,
+                "role": "Zoroaster",
+                "thumbnail": "http://thetvdb.com/banners/actors/327231.jpg"
+            },
+            {
+                "name": "Eros Vlahos",
+                "order": 10,
+                "role": "Nico",
+                "thumbnail": "http://thetvdb.com/banners/actors/327230.jpg"
+            },
+            {
+                "name": "Hera Hilmar",
+                "order": 11,
+                "role": "Vanessa",
+                "thumbnail": "http://thetvdb.com/banners/actors/327229.jpg"
+            },
+            {
+                "name": "James Faulkner",
+                "order": 12,
+                "role": "Pope Sixtus IV",
+                "thumbnail": "http://thetvdb.com/banners/actors/327228.jpg"
+            },
+            {
+                "name": "Tom Bateman",
+                "order": 13,
+                "role": "Giuliano Medici",
+                "thumbnail": "http://thetvdb.com/banners/actors/309243.jpg"
+            },
+            {
+                "name": "Alexander Siddig",
+                "order": 14,
+                "role": "Al-Rahim",
+                "thumbnail": "http://thetvdb.com/banners/actors/348353.jpg"
+            }
+        ],
+        "dateadded": "2013-04-17 22:42:18",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"259669-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/259669/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/259669-7.jpg",
+        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Da Vinci's Demons/",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "imdbnumber": "259669",
+        "label": "Da Vinci's Demons",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "The series follows the \"untold\" story of Leonardo Da Vinci: the genius during his early years in Renaissance Florence. As a 25-year old artist, inventor, swordsman, lover, dreamer and idealist, he struggles to live within the confines of his own reality and time as he begins to not only see the future, but invent it.",
+        "premiered": "2013-04-12",
+        "rating": 7.900000095367432,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Starz!"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/259669-4.jpg",
+        "title": "Da Vinci's Demons",
+        "tvshowid": 19,
+        "votes": "58",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/259669/4398150.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259669-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259669-7.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259669-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Ken Bones",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ted Allpress",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mathew David",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Harry Attwell",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Iain Mitchell",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Mark Sumner",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Matthew Tennyson",
+                        "order": 6,
+                        "role": ""
+                    },
+                    {
+                        "name": "Jordan Bernsrde",
+                        "order": 7,
+                        "role": ""
+                    },
+                    {
+                        "name": "Roger Evans",
+                        "order": 8,
+                        "role": ""
+                    },
+                    {
+                        "name": "Ian Pirie",
+                        "order": 9,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wBQsI3PN3r0cDri8gt3z12kQgoY.jpg"
+                    },
+                    {
+                        "name": "Christopher Elson",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tim Faraday",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Grant Stimpson",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "David Mounfield",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "John Weldon",
+                        "order": 14,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nicholas Rowe",
+                        "order": 15,
+                        "role": ""
+                    },
+                    {
+                        "name": "Tom Riley",
+                        "order": 0,
+                        "role": "Leonardo Da Vinci",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327223.jpg"
+                    },
+                    {
+                        "name": "Laura Haddock",
+                        "order": 1,
+                        "role": "Lucrezia Donati",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327224.jpg"
+                    },
+                    {
+                        "name": "Blake Ritson",
+                        "order": 2,
+                        "role": "Count Riario",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327225.jpg"
+                    },
+                    {
+                        "name": "Ray Fearon",
+                        "order": 3,
+                        "role": "Carlo de Medici",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341746.jpg"
+                    },
+                    {
+                        "name": "Kieran Bew",
+                        "order": 4,
+                        "role": "Duke Alfonso",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341744.jpg"
+                    },
+                    {
+                        "name": "Jeany Spark",
+                        "order": 5,
+                        "role": "Ippolita",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341742.jpg"
+                    },
+                    {
+                        "name": "Carolina Guerra",
+                        "order": 6,
+                        "role": "Ima",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341741.jpg"
+                    },
+                    {
+                        "name": "Elliot Cowan",
+                        "order": 7,
+                        "role": "Lorenzo Medici",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327234.jpg"
+                    },
+                    {
+                        "name": "Lara Pulver",
+                        "order": 8,
+                        "role": "Clarice Orsini",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327233.jpg"
+                    },
+                    {
+                        "name": "Gregg Chillin",
+                        "order": 9,
+                        "role": "Zoroaster",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327231.jpg"
+                    },
+                    {
+                        "name": "Eros Vlahos",
+                        "order": 10,
+                        "role": "Nico",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327230.jpg"
+                    },
+                    {
+                        "name": "Hera Hilmar",
+                        "order": 11,
+                        "role": "Vanessa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327229.jpg"
+                    },
+                    {
+                        "name": "James Faulkner",
+                        "order": 12,
+                        "role": "Pope Sixtus IV",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327228.jpg"
+                    },
+                    {
+                        "name": "Tom Bateman",
+                        "order": 13,
+                        "role": "Giuliano Medici",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309243.jpg"
+                    },
+                    {
+                        "name": "Alexander Siddig",
+                        "order": 14,
+                        "role": "Al-Rahim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/348353.jpg"
+                    }
+                ],
+                "dateadded": "2013-04-17 22:42:18",
+                "director": [
+                    "David S. Goyer"
+                ],
+                "episode": 1,
+                "episodeid": 272,
+                "fanart": "http://thetvdb.com/banners/fanart/original/259669-7.jpg",
+                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Da Vinci's Demons/Season 1/Da.Vincis.Demons.S01E01.Der.Gehaengte.GERMAN.DUBBED.DL.720p.HDTV.x264-TVP.mkv",
+                "firstaired": "2013-04-12",
+                "label": "1x01. The Hanged Man",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Rising artisan Leonardo da Vinci is commissioned by the powerful Medici to create an Easter spectacle in Florence. After some maneuvering, da Vinci is hired to engineer war machines. A mysterious Turk intrigues Leonardo.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "Da Vinci's Demons",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/259669/4398150.jpg",
+                "title": "The Hanged Man",
+                "tvshowid": 19,
+                "uniqueid": {
+                    "unknown": "4398150"
+                },
+                "votes": "86",
+                "writer": [
+                    "David S. Goyer"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/259669-1-4.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/259669-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259669-7.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/259669-4.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/259669-7.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 95,
+            "showtitle": "Da Vinci's Demons",
+            "thumbnail": "http://thetvdb.com/banners/seasons/259669-1-4.jpg",
+            "tvshowid": 19,
+            "watchedepisodes": 0
+        }
+    ]
+}
