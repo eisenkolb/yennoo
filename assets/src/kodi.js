@@ -104,10 +104,16 @@
      */
     Yennoo.bootstrap = function(callback){
         angular.element(document).ready(function(){
+            if (callback && Yennoo.bootstrapped){
+                return callback.apply(null, []);
+            }
+
             angular.bootstrap(angular.element(document), ["Yennoo"]);
             if (callback && typeof callback === "function"){
                 callback.apply(null, []);
             }
+
+            Yennoo.bootstrapped = true;
         });
 
         return(this);
