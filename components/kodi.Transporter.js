@@ -36,10 +36,18 @@ angular.module("Kodi.Transporter", []).provider("Transporter", function(APIservi
     };
     self.Initialize = function()
     {
-        var method = ("WebSocket" in window) ? "WebSocket" : "HTTP";
-        if (self.Has(method)){
+        var method = self.GetName();
+        if (method && self.Has(method)){
             self.current = this.Get(method);
             Yennoo.setting.method = method;
+
+            if (self.current && Kodi.util.isFunction(self.current.Initialize)){
+                self.current.Initialize.apply(self, [null]);
+            }
+        } else {
+            console.log("Transporter::Initialize() -> Transport %h not exists, reinitialize...", method);
+            Yennoo.setting.method = ("WebSocket" in window) ? "WebSocket" : "HTTP";
+            return(self.Initialize());
         }
 
         console.log("Transporter::Initialize() -> new Transport: %h", method);
