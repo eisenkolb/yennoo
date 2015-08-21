@@ -11,8 +11,8 @@
         <div class="large-12 columns">
             <div class="columns">
                 <div class="show-for-medium-up">
-                    <div id="cover-cointainer" class="poster cover" style="background-image: url('/assets/img/media.cover.edges.png');">
-                        <img class="animated slideInUp width-280" src="/assets/img/media.cover.edges.png" onready="relpaceimage" data-image="media.poster" ng-if="media" />
+                    <div id="cover-cointainer" class="poster cover" style="background-image: url('./assets/img/media.cover.edges.png');">
+                        <img class="animated slideInUp width-280" src="./assets/img/media.cover.edges.png" onready="relpaceimage" data-image="media.poster" ng-if="media" />
                     </div>
                 </div>
             </div>
@@ -45,7 +45,7 @@
                     <!-- Media plot with poster / starts -->
                     <div class="fix-poster left show-for-medium-up"></div>
                     <div class="poster cover show-for-small">
-                        <img class="animated slideInUp width-280" ng-if="media" data-image="media.poster" onready="relpaceimage" src="/assets/img/media.cover.edges.png" style="margin-top:50px;" />
+                        <img class="animated slideInUp width-280" ng-if="media" data-image="media.poster" onready="relpaceimage" src="./assets/img/media.cover.edges.png" style="margin-top:50px;" />
                     </div>
                     <p class="plot" ng-if="media.plot">{{media.plot}}</p>
                     <!-- Media plot with poster /  ends  -->
@@ -269,7 +269,7 @@
                             <ul class="small-block-grid-{{castSize}}">
                                 <li class="item" ng-repeat="cast in media.cast" ng-if="media.cast && cast && cast.name">
                                     <a ng-href="#/people/{{cast.name.toLowerCase()}}">
-                                        <img class="people th" src="/assets/img/thumbnail.blank.gif" onready="relpaceimage" data-image="cast.image || unknown" />
+                                        <img class="people th" src="./assets/img/thumbnail.blank.gif" onready="relpaceimage" data-image="cast.image || unknown" />
                                     </a>
                                     <div class="text-center">
                                         <div class="small-12 people">

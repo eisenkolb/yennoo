@@ -9,7 +9,7 @@
     <ul class="list small-block-grid-1 medium-block-grid-2" ng-if="enums.shift">
         <li ng-repeat="enum in enums">
             <a ng-href="#/sources/list/{{enum}}" id="enum-{{enum}}">
-                <img class="cover" src="/assets/img/media.text.png">
+                <img class="cover" src="./assets/img/media.text.png">
                 <span class="normal">{{enum.toUpperCase() || "{ empty }" | translate}}</span>
             </a>
         </li>
@@ -20,7 +20,7 @@
     <ul class="list small-block-grid-1 medium-block-grid-2" ng-if="lists && lists.shift">
         <li ng-repeat="(label, source) in lists">
             <a class="truncate" ng-href="#/sources/{{route.source}}/{{source.file}}">
-                <img class="cover" src="/assets/img/media.text.png">
+                <img class="cover" src="./assets/img/media.text.png">
                 <span class="normal">{{source.label}}</span>
                 <span class="file" ng-if="source.file">{{source.file}}</span>
             </a>

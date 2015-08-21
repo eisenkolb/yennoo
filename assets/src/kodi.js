@@ -71,7 +71,7 @@
         }
 
         var register = function(route, name, template){
-            var pattern    = "/controllers/%controller%.js";
+            var pattern    = "./controllers/%controller%.js";
             var controller = pattern.replace("%controller%", name.replace("Ctrl", ""));
 
             $routeProvider.when(route.slice(1), {controller: name, templateUrl: template});
@@ -147,13 +147,13 @@
         TYPE_ALBUMS:  "albums",
         TYPE_ARTISTS: "artists",
 
-        ALBUM_COVER_EDGES: "/assets/img/media.music.edges.png",
-        ALBUM_COVER_FRAME: "/assets/img/media.music.frame.png",
-        VIDEO_COVER_EDGES: "/assets/img/media.cover.edges.png",
-        VIDEO_COVER_CRACK: "/assets/img/media.cover.crack.png",
-        VIDEO_COVER_FRAME: "/assets/img/media.cover.frame.png",
-        VIDEO_COVER_BLANK: "/assets/img/media.cover.blank.gif",
-        UNKNOWN_THUMBNAIL: "/assets/img/thumbnail.unknown.png"
+        ALBUM_COVER_EDGES: "./assets/img/media.music.edges.png",
+        ALBUM_COVER_FRAME: "./assets/img/media.music.frame.png",
+        VIDEO_COVER_EDGES: "./assets/img/media.cover.edges.png",
+        VIDEO_COVER_CRACK: "./assets/img/media.cover.crack.png",
+        VIDEO_COVER_FRAME: "./assets/img/media.cover.frame.png",
+        VIDEO_COVER_BLANK: "./assets/img/media.cover.blank.gif",
+        UNKNOWN_THUMBNAIL: "./assets/img/thumbnail.unknown.png"
     };
 
     /**

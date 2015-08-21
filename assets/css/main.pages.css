@@ -15,7 +15,7 @@
 
 #media-header .media-banner.overlay {
     background-color: #201f25;
-    background-image: url("/assets/img/overlay.background.png");
+    background-image: url("../img/overlay.background.png");
     height: 355px;
     position: absolute;
     width: 100%;
@@ -48,7 +48,7 @@
 
 #media-description .panel {
     background-color: transparent;
-    background-image: url("/assets/img/blur.white.png");
+    background-image: url("../img/blur.white.png");
     border-radius: 0 0 3px 3px;
     padding-bottom: 16px;
     padding-top: 7px;
@@ -307,7 +307,7 @@
 }
 
 #media-description #tab-seasons .season .poster.cover img.select {
-    background-image: url("/assets/img/media.cover.frame.png");
+    background-image: url("../img/media.cover.frame.png");
 }
 
 /*********************************************************************************/
@@ -944,7 +944,7 @@
 }
 
 #music .songlist li .icon {
-    background: rgba(0, 0, 0, 0) url("/assets/img/media.music.status.png") no-repeat scroll -3px top;
+    background: rgba(0, 0, 0, 0) url("../img/media.music.status.png") no-repeat scroll -3px top;
     height: 15px;
     margin: 0 0 0 3px;
     width: 12px;

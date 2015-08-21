@@ -11,8 +11,8 @@
         <div class="large-12 columns">
             <div class="columns">
                 <div class="show-for-medium-up">
-                    <div id="cover-cointainer" class="poster cover" style="background-image: url('/assets/img/media.cover.edges.png');">
-                        <img class="animated slideInUp width-280" src="/assets/img/media.cover.edges.png" onready="relpaceimage" data-image="media.poster" ng-if="media" />
+                    <div id="cover-cointainer" class="poster cover" style="background-image: url('./assets/img/media.cover.edges.png');">
+                        <img class="animated slideInUp width-280" src="./assets/img/media.cover.edges.png" onready="relpaceimage" data-image="media.poster" ng-if="media" />
                     </div>
                 </div>
             </div>
@@ -40,7 +40,7 @@
                 <div class="large-12 large-offset-0 media-plot">
                     <div class="fix-poster left show-for-medium-up"></div>
                     <div class="poster cover show-for-small">
-                        <img class="animated slideInUp width-280" ng-if="media" data-image="media.poster" onready="relpaceimage" src="/assets/img/media.cover.edges.png" />
+                        <img class="animated slideInUp width-280" ng-if="media" data-image="media.poster" onready="relpaceimage" src="./assets/img/media.cover.edges.png" />
                     </div>
                     <p class="plot">{{media.plot}}</p>
                 </div>
@@ -82,11 +82,11 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <img class="cover blur-image whitout-shadow" data-image="season.poster || unknown" src="/assets/img/media.cover.blank.gif" onready="relpaceimage" />
+                                        <img class="cover blur-image whitout-shadow" data-image="season.poster || unknown" src="./assets/img/media.cover.blank.gif" onready="relpaceimage" />
                                     </div>
 
                                     <a ng-href="{{route.series}}/{{tvshowid}}/{{(season.showtitle).toLowerCase()}}/season/{{season.season}}">
-                                        <img data-image="season.poster || unknown" onready="relpaceimage" src="/assets/img/media.cover.blank.gif" class="whitout-shadow select" />
+                                        <img data-image="season.poster || unknown" onready="relpaceimage" src="./assets/img/media.cover.blank.gif" class="whitout-shadow select" />
                                         <span class="season-label text-center">{{"TVSHOW.SEASON" | translate}} {{season.season}}</span>
                                     </a>
                                 </div>
@@ -197,7 +197,7 @@
                         <ul class="small-block-grid-{{castSize}}">
                             <li class="item" ng-repeat="cast in media.cast" ng-if="media.cast">
                                 <a ng-href="#/people/{{cast.name.toLowerCase()}}">
-                                    <img class="people th" src="/assets/img/thumbnail.blank.gif" onready="relpaceimage" data-image="cast.image || unknown" />
+                                    <img class="people th" src="./assets/img/thumbnail.blank.gif" onready="relpaceimage" data-image="cast.image || unknown" />
                                 </a>
                                 <div class="text-center">
                                     <div class="small-12 people"><a ng-href="#/people/{{cast.name.toLowerCase()}}">{{cast.name}}</a></div>

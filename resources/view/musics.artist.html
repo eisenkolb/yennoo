@@ -10,7 +10,7 @@
 
                 <ul id="character-panel-{{character}}" class="small-block-grid-4 medium-block-grid-3 large-block-grid-10">
                     <li id="artist-{{artistid}}" class="entry" ng-repeat="(name, artistid) in displayartists track by $index">
-                        <img class="cover centered" src="/assets/img/media.music.edges.png" onready="relpaceimage" data-image="artists[name][0].thumbnail">
+                        <img class="cover centered" src="./assets/img/media.music.edges.png" onready="relpaceimage" data-image="artists[name][0].thumbnail">
                         <div class="infos">
                             <div class="artist">{{name || "Unknown"}}</div>
                             <div class="album">{{artists[name].length}} Alben</div>

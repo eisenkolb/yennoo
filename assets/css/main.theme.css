@@ -597,7 +597,7 @@
 }
 
 #modal-trailer-youtube iframe {
-    background: #b3b3b3 url("/assets/img/loading.music.cover.gif") center center no-repeat;
+    background: #b3b3b3 url("../img/loading.music.cover.gif") center center no-repeat;
 }
 
 #modal-trailer-youtube h2 {
