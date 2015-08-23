@@ -10,25 +10,31 @@ Yennoo.register.controller("movies.FilterCtrl"
         $scope.$root.breadcrumb[1].title = translation;
     });
 
+    /**
+     * Retrieve all movies
+     */
     MovieFactory.GetMovies(function(data, $async)
     {
-        var movies = [];
+        var result = [];
         var filter = $routeParams.filter;
         var values = $routeParams.value;
 
         for(var index in data){
             var regex = new RegExp(values, "i");
-            if (Kodi.util.isType(data[index][filter], "undefined") === false){
-                if (!Kodi.util.isType(data[index][filter], "object")
-                && (data[index][filter] == values ||data[index][filter] !== null)
-                && (regex.test(data[index][filter].toString()))) {
-                    movies.push(data[index]);
+
+            /**
+             * Default
+             */
+            if (Kodi.util.isDefined(data[index][filter]) === true){
+                if (data[index][filter] == values || data[index][filter] !== null
+                && (regex.test(data[index][filter].toString()))){
+                    result.push(data[index]);
                 }
             }
         }
 
-        $scope.limit  = movies.length;
-        $scope.movies = movies;
+        $scope.limit  = result.length;
+        $scope.movies = result;
         $scope.timer.stop();
         $async.apply($scope);
     });
