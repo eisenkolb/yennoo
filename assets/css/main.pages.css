@@ -81,6 +81,7 @@
     font: bold 22px Verdana;
     left: 5px;
     position: relative;
+    opacity: .7;
 }
 
 #media-description .large-title .original {
@@ -100,7 +101,7 @@
 
 #media-description .large-title .summary ul,
 #media-description .large-title .summary li {
-    margin: 0;
+    margin: 1px 0 0 0;
 }
 
 #media-description .large-title .summary li a {
@@ -109,7 +110,7 @@
     cursor: default;
     color: #747474;
     line-height: 22px;
-    margin: 3px 0 0;
+    margin: 2px 0 0;
     padding: 0 5px;
 }
 
@@ -568,12 +569,6 @@
 /*********************************************************************************/
 /*** Media:Description:Movie: || Tabs:Overview:                                ***/
 /*********************************************************************************/
-
-#tabs-content #tab-overview {
-    border: 1px solid #dddddd;
-    margin-bottom: 9px;
-    background-color: #ffffff;
-}
 
 #tabs-content #tab-overview table {
     width: 100%;
