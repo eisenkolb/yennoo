@@ -1026,7 +1026,7 @@
 
                 return({
                     method: "VideoLibrary.GetGenres",
-                    params: {type: this.type, properties: this.properties, limits: this.limits}
+                    params: {type: type, properties: this.properties, limits: this.limits}
                 });
             },
 
