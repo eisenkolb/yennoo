@@ -3,7 +3,7 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-            "poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+            "poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
         },
         "cast": [
             {
@@ -173,7 +173,7 @@
         "episode": 13,
         "episodeguide": "<episodeguide><url cache=\"264586-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/264586/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/",
+        "file": "smb://Ext/Media/Serien/Orange Is the New Black/",
         "genre": [
             "Comedy",
             "Crime",
@@ -194,7 +194,7 @@
             "Netflix"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/264586-2.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/264586-3.jpg",
         "title": "Orange Is the New Black",
         "tvshowid": 61,
         "votes": "73",
@@ -208,7 +208,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4507237.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
@@ -391,7 +391,7 @@
                 "episode": 1,
                 "episodeid": 1202,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E01.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E01.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x01. I Wasn't Ready",
                 "lastplayed": "",
@@ -429,7 +429,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4550331.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
@@ -627,7 +627,7 @@
                 "episode": 2,
                 "episodeid": 1203,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E02.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E02.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x02. Tit Punch",
                 "lastplayed": "",
@@ -664,7 +664,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4550332.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
@@ -883,7 +883,7 @@
                 "episode": 3,
                 "episodeid": 1204,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E03.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E03.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x03. Lesbian Request Denied",
                 "lastplayed": "",
@@ -920,7 +920,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4550333.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
@@ -1124,7 +1124,7 @@
                 "episode": 4,
                 "episodeid": 1205,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E04.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E04.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x04. Imaginary Enemies",
                 "lastplayed": "",
@@ -1161,7 +1161,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4550334.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
@@ -1379,7 +1379,7 @@
                 "episode": 5,
                 "episodeid": 1206,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E05.WEBRip.AAC2.0-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E05.WEBRip.AAC2.0-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x05. The Chickening",
                 "lastplayed": "",
@@ -1416,13 +1416,14 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4550335.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
                         "name": "David Aaron Baker",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/b3fxKRexd28lPSEWXqSzklXZuBo.jpg"
                     },
                     {
                         "name": "Danielle Brooks",
@@ -1640,7 +1641,7 @@
                 "episode": 6,
                 "episodeid": 1207,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E06.WEBRip.AAC2.0.x264-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E06.WEBRip.AAC2.0.x264-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x06. WAC Pack",
                 "lastplayed": "",
@@ -1677,7 +1678,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4550336.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
@@ -1886,7 +1887,7 @@
                 "episode": 7,
                 "episodeid": 1208,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E07.WEBRip.AAC2.0.x264-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E07.WEBRip.AAC2.0.x264-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x07. Blood Donut",
                 "lastplayed": "",
@@ -1923,7 +1924,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4550337.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
@@ -2136,7 +2137,7 @@
                 "episode": 8,
                 "episodeid": 1209,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E08.WEBRip.AAC2.0-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E08.WEBRip.AAC2.0-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x08. Moscow Mule",
                 "lastplayed": "",
@@ -2173,7 +2174,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4550338.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
@@ -2398,7 +2399,7 @@
                 "episode": 9,
                 "episodeid": 1210,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E09.WEBRip.AAC2.0.x264-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E09.WEBRip.AAC2.0.x264-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x09. Fucksgiving",
                 "lastplayed": "",
@@ -2435,7 +2436,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4550339.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
@@ -2665,7 +2666,7 @@
                 "episode": 10,
                 "episodeid": 1211,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E10.WEBRip.AAC2.0.x264-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E10.WEBRip.AAC2.0.x264-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x10. Bora Bora Bora",
                 "lastplayed": "",
@@ -2702,7 +2703,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4550341.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
@@ -2910,7 +2911,7 @@
                 "episode": 11,
                 "episodeid": 1212,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E11.WEBRip.AAC2.0.x264-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E11.WEBRip.AAC2.0.x264-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x11. Tall Men with Feelings",
                 "lastplayed": "",
@@ -2947,7 +2948,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4550343.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
@@ -3166,7 +3167,7 @@
                 "episode": 12,
                 "episodeid": 1213,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E12.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E12.WEB-Rip.AAC2.0.H.264-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x12. Fool Me Once",
                 "lastplayed": "",
@@ -3203,7 +3204,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/264586/4550345.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
                 },
                 "cast": [
                     {
@@ -3432,7 +3433,7 @@
                 "episode": 13,
                 "episodeid": 1214,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E13.WEBRip.AAC2.0.x264-Abjex.mp4",
+                "file": "smb://Ext/Media/Serien/Orange Is the New Black/Season 1/Orange.Is.The.New.Black.S01E13.WEBRip.AAC2.0.x264-Abjex.mp4",
                 "firstaired": "2013-07-11",
                 "label": "1x13. Can't Fix Crazy",
                 "lastplayed": "",
@@ -3473,7 +3474,7 @@
                 "poster": "http://thetvdb.com/banners/seasons/264586-1-2.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/264586-g7.jpg",
                 "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/264586-2.jpg"
+                "tvshow.poster": "http://thetvdb.com/banners/posters/264586-3.jpg"
             },
             "episode": 13,
             "fanart": "http://thetvdb.com/banners/fanart/original/264586-14.jpg",

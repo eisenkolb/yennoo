@@ -125,7 +125,7 @@
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"263677-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/263677/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/263677-4.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Returned/",
+        "file": "smb://Ext/Media/Serien/The Returned/",
         "genre": [
             "Drama",
             "Fantasy",
@@ -285,7 +285,7 @@
                 "episode": 1,
                 "episodeid": 1667,
                 "fanart": "http://thetvdb.com/banners/fanart/original/263677-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Returned/Season 1/The.Returned.S01E01.Camille.WS.XviD-CRiSP.mp4",
+                "file": "smb://Ext/Media/Serien/The Returned/Season 1/The.Returned.S01E01.Camille.WS.XviD-CRiSP.mp4",
                 "firstaired": "2012-11-26",
                 "label": "1x01. Camille",
                 "lastplayed": "",

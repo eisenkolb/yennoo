@@ -1,16 +1,16 @@
 {
     "tvshowdetails": {
         "art": {
-            "banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-            "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-            "poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+            "banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+            "poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
         },
         "cast": [
             {
                 "name": "Corey Stoll",
                 "order": 0,
                 "role": "Ephraim Goodweather",
-                "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
             },
             {
                 "name": "David Bradley",
@@ -34,7 +34,7 @@
                 "name": "Robin Atkin Downes",
                 "order": 4,
                 "role": "The Master",
-                "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
             },
             {
                 "name": "Ruta Gedmintas",
@@ -52,7 +52,7 @@
                 "name": "Joaquín Cosio",
                 "order": 7,
                 "role": "Angel Guzman Hurtado",
-                "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
             },
             {
                 "name": "Sean Astin",
@@ -82,7 +82,7 @@
                 "name": "Jonathan Hyde",
                 "order": 12,
                 "role": "Eldritch Palmer",
-                "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
             },
             {
                 "name": "Jack Kesy",
@@ -100,14 +100,14 @@
                 "name": "Kevin Durand",
                 "order": 15,
                 "role": "Vasiliy Fet",
-                "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
             }
         ],
         "dateadded": "2015-05-08 18:33:40",
         "episode": 13,
         "episodeguide": "<episodeguide><url cache=\"276564-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/276564/all/en.zip</url></episodeguide>",
-        "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/",
+        "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+        "file": "smb://Ext/Media/Serien/The Strain/",
         "genre": [
             "Drama",
             "Horror"
@@ -127,7 +127,7 @@
             "FX"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/276564-8.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/276564-1.jpg",
         "title": "The Strain",
         "tvshowid": 86,
         "votes": "51",
@@ -139,16 +139,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4750432.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -172,7 +172,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -190,7 +190,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -220,7 +220,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -238,7 +238,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-02-13 18:09:11",
@@ -247,8 +247,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 1671,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E01.Flug.753.GERMAN.DUBBED.BDRip.XViD-EDE.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E01.Flug.753.GERMAN.DUBBED.BDRip.XViD-EDE.avi",
                 "firstaired": "2014-07-13",
                 "label": "1x01. Night Zero",
                 "lastplayed": "",
@@ -284,16 +284,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4768417.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -317,7 +317,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -335,7 +335,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -365,7 +365,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -383,7 +383,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-02-20 00:56:10",
@@ -392,8 +392,8 @@
                 ],
                 "episode": 2,
                 "episodeid": 1672,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E02.Blutdurst.GERMAN.DUBBED.HDRip.XViD-EDE.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E02.Blutdurst.GERMAN.DUBBED.HDRip.XViD-EDE.avi",
                 "firstaired": "2014-07-20",
                 "label": "1x02. The Box",
                 "lastplayed": "",
@@ -429,16 +429,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4768418.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -462,7 +462,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -480,7 +480,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -510,7 +510,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -528,7 +528,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-02-27 10:50:59",
@@ -537,8 +537,8 @@
                 ],
                 "episode": 3,
                 "episodeid": 1673,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E03.Ratten.GERMAN.DUBBED.HDRiP.XViD-EDE.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E03.Ratten.GERMAN.DUBBED.HDRiP.XViD-EDE.avi",
                 "firstaired": "2014-07-27",
                 "label": "1x03. Gone Smooth",
                 "lastplayed": "",
@@ -573,16 +573,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4768419.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -606,7 +606,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -624,7 +624,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -654,7 +654,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -672,7 +672,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-03-05 23:07:36",
@@ -681,8 +681,8 @@
                 ],
                 "episode": 4,
                 "episodeid": 1674,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E04.Emma.lebt.German.Dubbed.BDRip.x264-ITG.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E04.Emma.lebt.German.Dubbed.BDRip.x264-ITG.mkv",
                 "firstaired": "2014-08-03",
                 "label": "1x04. It's Not for Everyone",
                 "lastplayed": "",
@@ -717,16 +717,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4768420.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -750,7 +750,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -768,7 +768,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -798,7 +798,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -816,7 +816,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-03-12 23:20:08",
@@ -825,8 +825,8 @@
                 ],
                 "episode": 5,
                 "episodeid": 1675,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E05.Strigoi.German.Dubbed.BDRip.x264-ITG.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E05.Strigoi.German.Dubbed.BDRip.x264-ITG.mkv",
                 "firstaired": "2014-08-10",
                 "label": "1x05. Runaways",
                 "lastplayed": "",
@@ -861,16 +861,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4768421.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -894,7 +894,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -912,7 +912,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -942,7 +942,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -960,7 +960,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-03-19 23:00:26",
@@ -969,8 +969,8 @@
                 ],
                 "episode": 6,
                 "episodeid": 1676,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E06.Schwarze.Sonne.German.Dubbed.BDRip.x264-ITG.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E06.Schwarze.Sonne.German.Dubbed.BDRip.x264-ITG.mkv",
                 "firstaired": "2014-08-17",
                 "label": "1x06. Occultation",
                 "lastplayed": "",
@@ -1005,16 +1005,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4768422.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -1038,7 +1038,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -1056,7 +1056,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -1086,7 +1086,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -1104,7 +1104,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-03-27 20:16:34",
@@ -1113,8 +1113,8 @@
                 ],
                 "episode": 7,
                 "episodeid": 1677,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E07.Herr.Eichhorst.German.Dubbed.BDRip.x264-ITG.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E07.Herr.Eichhorst.German.Dubbed.BDRip.x264-ITG.mkv",
                 "firstaired": "2014-08-24",
                 "label": "1x07. For Services Rendered",
                 "lastplayed": "",
@@ -1150,16 +1150,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4768423.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -1183,7 +1183,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -1201,7 +1201,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -1231,7 +1231,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -1249,7 +1249,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-04-03 00:09:56",
@@ -1258,8 +1258,8 @@
                 ],
                 "episode": 8,
                 "episodeid": 1678,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E08.Kreaturen.der.Nacht.German.Dubbed.BDRip.x264-ITG.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E08.Kreaturen.der.Nacht.German.Dubbed.BDRip.x264-ITG.mkv",
                 "firstaired": "2014-08-31",
                 "label": "1x08. Creatures of the Night",
                 "lastplayed": "",
@@ -1294,16 +1294,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4768424.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -1327,7 +1327,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -1345,7 +1345,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -1375,7 +1375,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -1393,7 +1393,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-04-10 02:47:48",
@@ -1402,8 +1402,8 @@
                 ],
                 "episode": 9,
                 "episodeid": 1679,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E09.Die.Verschwundenen.German.Dubbed.BDRip.x264-ITG.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E09.Die.Verschwundenen.German.Dubbed.BDRip.x264-ITG.mkv",
                 "firstaired": "2014-09-07",
                 "label": "1x09. The Disappeared",
                 "lastplayed": "",
@@ -1438,16 +1438,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4768425.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -1471,7 +1471,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -1489,7 +1489,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -1519,7 +1519,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -1537,7 +1537,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-04-17 10:13:40",
@@ -1546,8 +1546,8 @@
                 ],
                 "episode": 10,
                 "episodeid": 1680,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E10.Rattenfaenger.German.Dubbed.BDRip.x264-ITG.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E10.Rattenfaenger.German.Dubbed.BDRip.x264-ITG.mkv",
                 "firstaired": "2014-09-14",
                 "label": "1x10. Loved Ones",
                 "lastplayed": "",
@@ -1582,16 +1582,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4768426.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -1615,7 +1615,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -1633,7 +1633,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -1663,7 +1663,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -1681,7 +1681,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-04-23 23:51:08",
@@ -1690,8 +1690,8 @@
                 ],
                 "episode": 11,
                 "episodeid": 1681,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E11.Der.Schlaf.der.Vampire.German.Dubbed.BDRip.x264-ITG.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E11.Der.Schlaf.der.Vampire.German.Dubbed.BDRip.x264-ITG.mkv",
                 "firstaired": "2014-09-21",
                 "label": "1x11. The Third Rail",
                 "lastplayed": "",
@@ -1727,16 +1727,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4768427.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -1760,7 +1760,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -1778,7 +1778,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -1808,7 +1808,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -1826,7 +1826,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-05-01 01:39:14",
@@ -1835,8 +1835,8 @@
                 ],
                 "episode": 12,
                 "episodeid": 1682,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E12.Miriams.Herz.German.Dubbed.BDRip.x264-ITG.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E12.Miriams.Herz.German.Dubbed.BDRip.x264-ITG.mkv",
                 "firstaired": "2014-09-28",
                 "label": "1x12. Last Rites",
                 "lastplayed": "",
@@ -1873,16 +1873,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276564/4768429.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
                 },
                 "cast": [
                     {
                         "name": "Corey Stoll",
                         "order": 0,
                         "role": "Ephraim Goodweather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330693.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
                     },
                     {
                         "name": "David Bradley",
@@ -1906,7 +1906,7 @@
                         "name": "Robin Atkin Downes",
                         "order": 4,
                         "role": "The Master",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353473.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pCnIQMMgrFc4hBOE4LJDdebqRZ4.jpg"
                     },
                     {
                         "name": "Ruta Gedmintas",
@@ -1924,7 +1924,7 @@
                         "name": "Joaquín Cosio",
                         "order": 7,
                         "role": "Angel Guzman Hurtado",
-                        "thumbnail": "http://thetvdb.com/banners/actors/353470.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nRdZ0BNi8JOG7cJ10OTZeVmDxTE.jpg"
                     },
                     {
                         "name": "Sean Astin",
@@ -1954,7 +1954,7 @@
                         "name": "Jonathan Hyde",
                         "order": 12,
                         "role": "Eldritch Palmer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330698.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7il5D76vx6QVRVlpVvBPEC40MBi.jpg"
                     },
                     {
                         "name": "Jack Kesy",
@@ -1972,7 +1972,7 @@
                         "name": "Kevin Durand",
                         "order": 15,
                         "role": "Vasiliy Fet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/330695.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8hd4SCYe27yDBFjndoW2zMBKrYj.jpg"
                     }
                 ],
                 "dateadded": "2015-05-08 18:33:40",
@@ -1981,8 +1981,8 @@
                 ],
                 "episode": 13,
                 "episodeid": 1683,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Strain/Season 1/The.Strain.S01E13.Der.Meister.German.Dubbed.BDRip.x264-ITG.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "file": "smb://Ext/Media/Serien/The Strain/Season 1/The.Strain.S01E13.Der.Meister.German.Dubbed.BDRip.x264-ITG.mkv",
                 "firstaired": "2014-10-05",
                 "label": "1x13. The Master",
                 "lastplayed": "",
@@ -2022,12 +2022,12 @@
             "art": {
                 "banner": "http://thetvdb.com/banners/seasonswide/276564-1.jpg",
                 "poster": "http://thetvdb.com/banners/seasons/276564-1-2.jpg",
-                "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g10.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/276564-8.jpg"
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/276564-g6.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/276564-1.jpg"
             },
             "episode": 13,
-            "fanart": "http://thetvdb.com/banners/fanart/original/276564-16.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/276564-9.jpg",
             "label": "Staffel 1",
             "playcount": 0,
             "season": 1,

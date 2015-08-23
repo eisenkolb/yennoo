@@ -3,7 +3,7 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/261802-g4.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
-            "poster": "http://thetvdb.com/banners/posters/261802-10.jpg"
+            "poster": "http://thetvdb.com/banners/posters/261802-6.jpg"
         },
         "cast": [
             {
@@ -16,7 +16,7 @@
                 "name": "Dania Ramirez",
                 "order": 1,
                 "role": "Rosie Falta",
-                "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
             },
             {
                 "name": "Roselyn Sanchez",
@@ -46,7 +46,7 @@
                 "name": "Melinda Page Hamilton",
                 "order": 6,
                 "role": "Odessa",
-                "thumbnail": "http://thetvdb.com/banners/actors/311132.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/8h9FAA0syyQGHvl43Lvv3DzpIRS.jpg"
             },
             {
                 "name": "Tom Irwin",
@@ -64,7 +64,7 @@
                 "name": "Brett Cullen",
                 "order": 9,
                 "role": "Michael Stappord",
-                "thumbnail": "http://thetvdb.com/banners/actors/302710.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/dSucCeOCUJy8nDjUjxmWguu3W1D.jpg"
             },
             {
                 "name": "Drew Van Acker",
@@ -76,7 +76,7 @@
                 "name": "Brianna Brown",
                 "order": 11,
                 "role": "Taylor Stappord",
-                "thumbnail": "http://thetvdb.com/banners/actors/302707.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/wtGWpYCDwOXifKSOZ1UiLjFC9Vv.jpg"
             },
             {
                 "name": "Susan Lucci",
@@ -95,7 +95,7 @@
         "episode": 2,
         "episodeguide": "<episodeguide><url cache=\"261802-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/261802/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Devious Maids/",
+        "file": "smb://Ext/Media/Serien/Devious Maids/",
         "genre": [
             "Comedy",
             "Drama"
@@ -115,7 +115,7 @@
             "Lifetime"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/261802-10.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/261802-6.jpg",
         "title": "Devious Maids",
         "tvshowid": 21,
         "votes": "16",
@@ -129,7 +129,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/261802/4448862.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/261802-g4.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/261802-10.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/261802-6.jpg"
                 },
                 "cast": [
                     {
@@ -146,7 +146,7 @@
                         "name": "Melinda Page Hamilton",
                         "order": 2,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311132.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8h9FAA0syyQGHvl43Lvv3DzpIRS.jpg"
                     },
                     {
                         "name": "Paula Garces",
@@ -168,7 +168,7 @@
                         "name": "Dania Ramirez",
                         "order": 1,
                         "role": "Rosie Falta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "Roselyn Sanchez",
@@ -210,7 +210,7 @@
                         "name": "Brett Cullen",
                         "order": 9,
                         "role": "Michael Stappord",
-                        "thumbnail": "http://thetvdb.com/banners/actors/302710.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/dSucCeOCUJy8nDjUjxmWguu3W1D.jpg"
                     },
                     {
                         "name": "Drew Van Acker",
@@ -222,7 +222,7 @@
                         "name": "Brianna Brown",
                         "order": 11,
                         "role": "Taylor Stappord",
-                        "thumbnail": "http://thetvdb.com/banners/actors/302707.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wtGWpYCDwOXifKSOZ1UiLjFC9Vv.jpg"
                     },
                     {
                         "name": "Susan Lucci",
@@ -244,7 +244,7 @@
                 "episode": 1,
                 "episodeid": 275,
                 "fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Devious Maids/Season 1/Devious.Maids.S01E01.Dienstmaedchen.auf.Abwegen.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "file": "smb://Ext/Media/Serien/Devious Maids/Season 1/Devious.Maids.S01E01.Dienstmaedchen.auf.Abwegen.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2013-06-23",
                 "label": "1x01. Pilot",
                 "lastplayed": "",
@@ -281,7 +281,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/261802/4448863.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/261802-g4.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/261802-10.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/261802-6.jpg"
                 },
                 "cast": [
                     {
@@ -293,7 +293,7 @@
                         "name": "Melinda Page Hamilton",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311132.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8h9FAA0syyQGHvl43Lvv3DzpIRS.jpg"
                     },
                     {
                         "name": "Eddie Hassell",
@@ -333,7 +333,7 @@
                         "name": "Dania Ramirez",
                         "order": 1,
                         "role": "Rosie Falta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "Roselyn Sanchez",
@@ -375,7 +375,7 @@
                         "name": "Brett Cullen",
                         "order": 9,
                         "role": "Michael Stappord",
-                        "thumbnail": "http://thetvdb.com/banners/actors/302710.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/dSucCeOCUJy8nDjUjxmWguu3W1D.jpg"
                     },
                     {
                         "name": "Drew Van Acker",
@@ -387,7 +387,7 @@
                         "name": "Brianna Brown",
                         "order": 11,
                         "role": "Taylor Stappord",
-                        "thumbnail": "http://thetvdb.com/banners/actors/302707.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wtGWpYCDwOXifKSOZ1UiLjFC9Vv.jpg"
                     },
                     {
                         "name": "Susan Lucci",
@@ -409,7 +409,7 @@
                 "episode": 2,
                 "episodeid": 276,
                 "fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Devious Maids/Season 1/Devious.Maids.S01E02.Setting.The.Table.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Devious Maids/Season 1/Devious.Maids.S01E02.Setting.The.Table.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
                 "firstaired": "2013-06-30",
                 "label": "1x02. Setting the Table",
                 "lastplayed": "",
@@ -450,7 +450,7 @@
                 "poster": "http://thetvdb.com/banners/seasons/261802-1-4.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/261802-g4.jpg",
                 "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/261802-10.jpg"
+                "tvshow.poster": "http://thetvdb.com/banners/posters/261802-6.jpg"
             },
             "episode": 2,
             "fanart": "http://thetvdb.com/banners/fanart/original/261802-11.jpg",

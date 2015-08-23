@@ -16,7 +16,7 @@
                 "name": "Donal Logue",
                 "order": 1,
                 "role": "Detective Harvey Bullock",
-                "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/h0JZ8Hyc9p6sY2jQeJkDcax6UY3.jpg"
             },
             {
                 "name": "David Mazouz",
@@ -28,7 +28,7 @@
                 "name": "Robin Lord Taylor",
                 "order": 3,
                 "role": "Oswald \"Penguin\" Cobblepot",
-                "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/du7DRDeJpLHXr0vPHnynZ6BTD9V.jpg"
             },
             {
                 "name": "Sean Pertwee",
@@ -113,7 +113,7 @@
         "episode": 8,
         "episodeguide": "<episodeguide><url cache=\"274431-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/274431/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/",
+        "file": "smb://Ext/Media/Serien/Gotham/",
         "genre": [
             "Crime",
             "Drama",
@@ -160,7 +160,8 @@
                     {
                         "name": "Richard Kind",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xpLufPiiFgoCEdIMqD4RY79PKGb.jpg"
                     },
                     {
                         "name": "Victoria Cartagena",
@@ -224,7 +225,7 @@
                         "name": "Donal Logue",
                         "order": 1,
                         "role": "Detective Harvey Bullock",
-                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/h0JZ8Hyc9p6sY2jQeJkDcax6UY3.jpg"
                     },
                     {
                         "name": "David Mazouz",
@@ -236,7 +237,7 @@
                         "name": "Robin Lord Taylor",
                         "order": 3,
                         "role": "Oswald \"Penguin\" Cobblepot",
-                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/du7DRDeJpLHXr0vPHnynZ6BTD9V.jpg"
                     },
                     {
                         "name": "Sean Pertwee",
@@ -306,7 +307,7 @@
                 "episode": 1,
                 "episodeid": 573,
                 "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E01.Jim.Gordon.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL (1).mkv",
+                "file": "smb://Ext/Media/Serien/Gotham/Season 1/Gotham.S01E01.Jim.Gordon.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL (1).mkv",
                 "firstaired": "2014-09-22",
                 "label": "1x01. Pilot",
                 "lastplayed": "",
@@ -355,7 +356,8 @@
                     {
                         "name": "Richard Kind",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xpLufPiiFgoCEdIMqD4RY79PKGb.jpg"
                     },
                     {
                         "name": "Drew Powell",
@@ -365,7 +367,8 @@
                     {
                         "name": "Wayne Duvall",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/zCgi06IEyC3BM36PuscNdcXCTAC.jpg"
                     },
                     {
                         "name": "Kyle Massey",
@@ -403,7 +406,7 @@
                         "name": "Donal Logue",
                         "order": 1,
                         "role": "Detective Harvey Bullock",
-                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/h0JZ8Hyc9p6sY2jQeJkDcax6UY3.jpg"
                     },
                     {
                         "name": "David Mazouz",
@@ -415,7 +418,7 @@
                         "name": "Robin Lord Taylor",
                         "order": 3,
                         "role": "Oswald \"Penguin\" Cobblepot",
-                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/du7DRDeJpLHXr0vPHnynZ6BTD9V.jpg"
                     },
                     {
                         "name": "Sean Pertwee",
@@ -497,7 +500,7 @@
                 "episode": 2,
                 "episodeid": 574,
                 "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E02.Selina.Kyle.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "file": "smb://Ext/Media/Serien/Gotham/Season 1/Gotham.S01E02.Selina.Kyle.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
                 "firstaired": "2014-09-29",
                 "label": "1x02. Selina Kyle",
                 "lastplayed": "",
@@ -540,7 +543,8 @@
                     {
                         "name": "David Zayas",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/eglTZ63x2lu9I2LiDmeyPxhgwc8.jpg"
                     },
                     {
                         "name": "Dan Bakkedahl",
@@ -578,7 +582,7 @@
                         "name": "Donal Logue",
                         "order": 1,
                         "role": "Detective Harvey Bullock",
-                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/h0JZ8Hyc9p6sY2jQeJkDcax6UY3.jpg"
                     },
                     {
                         "name": "David Mazouz",
@@ -590,7 +594,7 @@
                         "name": "Robin Lord Taylor",
                         "order": 3,
                         "role": "Oswald \"Penguin\" Cobblepot",
-                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/du7DRDeJpLHXr0vPHnynZ6BTD9V.jpg"
                     },
                     {
                         "name": "Sean Pertwee",
@@ -678,7 +682,7 @@
                 "episode": 3,
                 "episodeid": 575,
                 "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E03.Der.Ballonmann.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "file": "smb://Ext/Media/Serien/Gotham/Season 1/Gotham.S01E03.Der.Ballonmann.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
                 "firstaired": "2014-10-06",
                 "label": "1x03. The Balloonman",
                 "lastplayed": "",
@@ -721,12 +725,14 @@
                     {
                         "name": "David Zayas",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/eglTZ63x2lu9I2LiDmeyPxhgwc8.jpg"
                     },
                     {
                         "name": "Richard Kind",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xpLufPiiFgoCEdIMqD4RY79PKGb.jpg"
                     },
                     {
                         "name": "Drew Powell",
@@ -737,7 +743,7 @@
                         "name": "Hakeem Kae-Kazim",
                         "order": 3,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/322867.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cYHDYQbnvju1g8XIAnvwRr0bWSB.jpg"
                     },
                     {
                         "name": "Makenzie Leigh",
@@ -752,7 +758,8 @@
                     {
                         "name": "Brad Calcaterra",
                         "order": 6,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/qAMvXjgNyf6k9J5malzm6CRO4Ic.jpg"
                     },
                     {
                         "name": "Evander Duck Jr.",
@@ -769,7 +776,7 @@
                         "name": "Donal Logue",
                         "order": 1,
                         "role": "Detective Harvey Bullock",
-                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/h0JZ8Hyc9p6sY2jQeJkDcax6UY3.jpg"
                     },
                     {
                         "name": "David Mazouz",
@@ -781,7 +788,7 @@
                         "name": "Robin Lord Taylor",
                         "order": 3,
                         "role": "Oswald \"Penguin\" Cobblepot",
-                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/du7DRDeJpLHXr0vPHnynZ6BTD9V.jpg"
                     },
                     {
                         "name": "Sean Pertwee",
@@ -869,7 +876,7 @@
                 "episode": 4,
                 "episodeid": 576,
                 "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E04.Arkham.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "file": "smb://Ext/Media/Serien/Gotham/Season 1/Gotham.S01E04.Arkham.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
                 "firstaired": "2014-10-13",
                 "label": "1x04. Arkham",
                 "lastplayed": "",
@@ -912,7 +919,8 @@
                     {
                         "name": "David Zayas",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/eglTZ63x2lu9I2LiDmeyPxhgwc8.jpg"
                     },
                     {
                         "name": "Makenzie Leigh",
@@ -970,7 +978,7 @@
                         "name": "Donal Logue",
                         "order": 1,
                         "role": "Detective Harvey Bullock",
-                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/h0JZ8Hyc9p6sY2jQeJkDcax6UY3.jpg"
                     },
                     {
                         "name": "David Mazouz",
@@ -982,7 +990,7 @@
                         "name": "Robin Lord Taylor",
                         "order": 3,
                         "role": "Oswald \"Penguin\" Cobblepot",
-                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/du7DRDeJpLHXr0vPHnynZ6BTD9V.jpg"
                     },
                     {
                         "name": "Sean Pertwee",
@@ -1070,7 +1078,7 @@
                 "episode": 5,
                 "episodeid": 577,
                 "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E05.Viper.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "file": "smb://Ext/Media/Serien/Gotham/Season 1/Gotham.S01E05.Viper.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
                 "firstaired": "2014-10-20",
                 "label": "1x05. Viper",
                 "lastplayed": "",
@@ -1151,7 +1159,7 @@
                         "name": "Donal Logue",
                         "order": 1,
                         "role": "Detective Harvey Bullock",
-                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/h0JZ8Hyc9p6sY2jQeJkDcax6UY3.jpg"
                     },
                     {
                         "name": "David Mazouz",
@@ -1163,7 +1171,7 @@
                         "name": "Robin Lord Taylor",
                         "order": 3,
                         "role": "Oswald \"Penguin\" Cobblepot",
-                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/du7DRDeJpLHXr0vPHnynZ6BTD9V.jpg"
                     },
                     {
                         "name": "Sean Pertwee",
@@ -1245,7 +1253,7 @@
                 "episode": 6,
                 "episodeid": 578,
                 "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E06.Der.Geist.der.Ziege.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "file": "smb://Ext/Media/Serien/Gotham/Season 1/Gotham.S01E06.Der.Geist.der.Ziege.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
                 "firstaired": "2014-10-27",
                 "label": "1x06. Spirit of the Goat",
                 "lastplayed": "",
@@ -1288,12 +1296,14 @@
                     {
                         "name": "David Zayas",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/eglTZ63x2lu9I2LiDmeyPxhgwc8.jpg"
                     },
                     {
                         "name": "Richard Kind",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xpLufPiiFgoCEdIMqD4RY79PKGb.jpg"
                     },
                     {
                         "name": "Drew Powell",
@@ -1323,7 +1333,8 @@
                     {
                         "name": "Mekia Cox",
                         "order": 7,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mXRELWL75FqINS3V8KeRbOGmqsT.jpg"
                     },
                     {
                         "name": "Benjamin McKenzie",
@@ -1335,7 +1346,7 @@
                         "name": "Donal Logue",
                         "order": 1,
                         "role": "Detective Harvey Bullock",
-                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/h0JZ8Hyc9p6sY2jQeJkDcax6UY3.jpg"
                     },
                     {
                         "name": "David Mazouz",
@@ -1347,7 +1358,7 @@
                         "name": "Robin Lord Taylor",
                         "order": 3,
                         "role": "Oswald \"Penguin\" Cobblepot",
-                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/du7DRDeJpLHXr0vPHnynZ6BTD9V.jpg"
                     },
                     {
                         "name": "Sean Pertwee",
@@ -1435,7 +1446,7 @@
                 "episode": 7,
                 "episodeid": 579,
                 "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E07.Pinguins.Regenschirm.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "file": "smb://Ext/Media/Serien/Gotham/Season 1/Gotham.S01E07.Pinguins.Regenschirm.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
                 "firstaired": "2014-11-03",
                 "label": "1x07. Penguin's Umbrella",
                 "lastplayed": "",
@@ -1517,7 +1528,7 @@
                         "name": "Donal Logue",
                         "order": 1,
                         "role": "Detective Harvey Bullock",
-                        "thumbnail": "http://thetvdb.com/banners/actors/333595.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/h0JZ8Hyc9p6sY2jQeJkDcax6UY3.jpg"
                     },
                     {
                         "name": "David Mazouz",
@@ -1529,7 +1540,7 @@
                         "name": "Robin Lord Taylor",
                         "order": 3,
                         "role": "Oswald \"Penguin\" Cobblepot",
-                        "thumbnail": "http://thetvdb.com/banners/actors/336019.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/du7DRDeJpLHXr0vPHnynZ6BTD9V.jpg"
                     },
                     {
                         "name": "Sean Pertwee",
@@ -1611,7 +1622,7 @@
                 "episode": 8,
                 "episodeid": 580,
                 "fanart": "http://thetvdb.com/banners/fanart/original/274431-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Gotham/Season 1/Gotham.S01E08.Die.Maske.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
+                "file": "smb://Ext/Media/Serien/Gotham/Season 1/Gotham.S01E08.Die.Maske.UNCUT.GERMAN.AC3D.5.1.DL.720p.WEB-DL.h264-PRETAiL.mkv",
                 "firstaired": "2014-11-10",
                 "label": "1x08. The Mask",
                 "lastplayed": "",

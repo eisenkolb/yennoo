@@ -3,7 +3,7 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-            "poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+            "poster": "http://thetvdb.com/banners/posters/267543-1.jpg"
         },
         "cast": [
             {
@@ -14,12 +14,14 @@
             {
                 "name": "Clancy Brown",
                 "order": 1,
-                "role": "Red Hulk"
+                "role": "Red Hulk",
+                "thumbnail": "http://image.tmdb.org/t/p/original/pwiG1ljLoqfcmFH2zFp5NP2ML4B.jpg"
             },
             {
                 "name": "Eliza Dushku",
                 "order": 2,
-                "role": "She-Hulk"
+                "role": "She-Hulk",
+                "thumbnail": "http://image.tmdb.org/t/p/original/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
             },
             {
                 "name": "Fred Tatasciore",
@@ -37,7 +39,7 @@
         "episode": 6,
         "episodeguide": "<episodeguide><url cache=\"267543-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/267543/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/",
+        "file": "smb://Ext/Media/Serien/Hulk and the Agents of S.M.A.S.H/",
         "genre": [
             "Adventure",
             "Animation",
@@ -58,7 +60,7 @@
             "Disney XD"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/267543-5.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/267543-1.jpg",
         "title": "Marvel's Hulk and the Agents of S.M.A.S.H.",
         "tvshowid": 48,
         "votes": "8",
@@ -72,7 +74,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/267543/4518641.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-1.jpg"
                 },
                 "cast": [
                     {
@@ -83,12 +85,14 @@
                     {
                         "name": "Clancy Brown",
                         "order": 1,
-                        "role": "Red Hulk"
+                        "role": "Red Hulk",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pwiG1ljLoqfcmFH2zFp5NP2ML4B.jpg"
                     },
                     {
                         "name": "Eliza Dushku",
                         "order": 2,
-                        "role": "She-Hulk"
+                        "role": "She-Hulk",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
                     },
                     {
                         "name": "Fred Tatasciore",
@@ -109,7 +113,7 @@
                 "episode": 1,
                 "episodeid": 806,
                 "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E01E02.Portal.des.Boesen.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
+                "file": "smb://Ext/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E01E02.Portal.des.Boesen.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
                 "firstaired": "2013-08-11",
                 "label": "1x01. Doorway to Destruction (1)",
                 "lastplayed": "",
@@ -146,7 +150,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/267543/4625730.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-1.jpg"
                 },
                 "cast": [
                     {
@@ -157,12 +161,14 @@
                     {
                         "name": "Clancy Brown",
                         "order": 1,
-                        "role": "Red Hulk"
+                        "role": "Red Hulk",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pwiG1ljLoqfcmFH2zFp5NP2ML4B.jpg"
                     },
                     {
                         "name": "Eliza Dushku",
                         "order": 2,
-                        "role": "She-Hulk"
+                        "role": "She-Hulk",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
                     },
                     {
                         "name": "Fred Tatasciore",
@@ -183,7 +189,7 @@
                 "episode": 2,
                 "episodeid": 807,
                 "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E01E02.Portal.des.Boesen.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
+                "file": "smb://Ext/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E01E02.Portal.des.Boesen.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
                 "firstaired": "2013-08-11",
                 "label": "1x02. Doorway to Destruction (2)",
                 "lastplayed": "",
@@ -220,7 +226,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/267543/4628715.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-1.jpg"
                 },
                 "cast": [
                     {
@@ -231,12 +237,14 @@
                     {
                         "name": "Clancy Brown",
                         "order": 1,
-                        "role": "Red Hulk"
+                        "role": "Red Hulk",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pwiG1ljLoqfcmFH2zFp5NP2ML4B.jpg"
                     },
                     {
                         "name": "Eliza Dushku",
                         "order": 2,
-                        "role": "She-Hulk"
+                        "role": "She-Hulk",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
                     },
                     {
                         "name": "Fred Tatasciore",
@@ -257,7 +265,7 @@
                 "episode": 3,
                 "episodeid": 808,
                 "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E03.Freund.oder.Feind.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
+                "file": "smb://Ext/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E03.Freund.oder.Feind.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
                 "firstaired": "2013-08-18",
                 "label": "1x03. Hulk Busted",
                 "lastplayed": "",
@@ -294,7 +302,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/267543/4628716.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-1.jpg"
                 },
                 "cast": [
                     {
@@ -305,12 +313,14 @@
                     {
                         "name": "Clancy Brown",
                         "order": 1,
-                        "role": "Red Hulk"
+                        "role": "Red Hulk",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pwiG1ljLoqfcmFH2zFp5NP2ML4B.jpg"
                     },
                     {
                         "name": "Eliza Dushku",
                         "order": 2,
-                        "role": "She-Hulk"
+                        "role": "She-Hulk",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
                     },
                     {
                         "name": "Fred Tatasciore",
@@ -331,7 +341,7 @@
                 "episode": 4,
                 "episodeid": 809,
                 "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E04.Der.Collector.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
+                "file": "smb://Ext/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E04.Der.Collector.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
                 "firstaired": "2013-08-25",
                 "label": "1x04. The Collector",
                 "lastplayed": "",
@@ -368,7 +378,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/267543/4638849.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-1.jpg"
                 },
                 "cast": [
                     {
@@ -379,12 +389,14 @@
                     {
                         "name": "Clancy Brown",
                         "order": 1,
-                        "role": "Red Hulk"
+                        "role": "Red Hulk",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pwiG1ljLoqfcmFH2zFp5NP2ML4B.jpg"
                     },
                     {
                         "name": "Eliza Dushku",
                         "order": 2,
-                        "role": "She-Hulk"
+                        "role": "She-Hulk",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
                     },
                     {
                         "name": "Fred Tatasciore",
@@ -405,7 +417,7 @@
                 "episode": 5,
                 "episodeid": 810,
                 "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E05.Ego.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
+                "file": "smb://Ext/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E05.Ego.GERMAN.Dubbed.DL.480p.WEB-DL.x264-pbw.mp4",
                 "firstaired": "2013-09-01",
                 "label": "1x05. All About the Ego",
                 "lastplayed": "",
@@ -442,7 +454,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/267543/4641503.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267543-1.jpg"
                 },
                 "cast": [
                     {
@@ -453,12 +465,14 @@
                     {
                         "name": "Clancy Brown",
                         "order": 1,
-                        "role": "Red Hulk"
+                        "role": "Red Hulk",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/pwiG1ljLoqfcmFH2zFp5NP2ML4B.jpg"
                     },
                     {
                         "name": "Eliza Dushku",
                         "order": 2,
-                        "role": "She-Hulk"
+                        "role": "She-Hulk",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iYTq8KD1UDgexfelTyETOVC14Ph.jpg"
                     },
                     {
                         "name": "Fred Tatasciore",
@@ -477,7 +491,7 @@
                 "episode": 6,
                 "episodeid": 811,
                 "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E06.Angriff.der.Dinosaurier.GERMAN.WS.SATRip.x264-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Hulk and the Agents of S.M.A.S.H/Season 1/Hulk.und.das.Team.S.M.A.S.H.S01E06.Angriff.der.Dinosaurier.GERMAN.WS.SATRip.x264-TVP.mp4",
                 "firstaired": "2013-09-15",
                 "label": "1x06. Savage Land",
                 "lastplayed": "",
@@ -515,7 +529,7 @@
                 "poster": "http://thetvdb.com/banners/seasons/267543-1.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/267543-g2.jpg",
                 "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/267543-5.jpg"
+                "tvshow.poster": "http://thetvdb.com/banners/posters/267543-1.jpg"
             },
             "episode": 6,
             "fanart": "http://thetvdb.com/banners/fanart/original/267543-9.jpg",

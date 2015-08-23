@@ -3,14 +3,14 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/88031-g2.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/88031-2.jpg",
-            "poster": "http://thetvdb.com/banners/posters/88031-4.jpg"
+            "poster": "http://thetvdb.com/banners/posters/88031-3.jpg"
         },
         "cast": [
             {
                 "name": "Toshio Furukawa",
                 "order": 0,
                 "role": "Piccolo",
-                "thumbnail": "http://thetvdb.com/banners/actors/136831.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350764.jpg"
             },
             {
                 "name": "Ryo Horikawa",
@@ -22,13 +22,13 @@
                 "name": "Masako Nozawa",
                 "order": 2,
                 "role": "Son Goku",
-                "thumbnail": "http://thetvdb.com/banners/actors/136811.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/348254.jpg"
             },
             {
                 "name": "Nozawa Masako",
                 "order": 3,
                 "role": "Son Gohan",
-                "thumbnail": "http://thetvdb.com/banners/actors/350970.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350769.jpg"
             },
             {
                 "name": "Tohru Furuya",
@@ -40,13 +40,13 @@
                 "name": "Mayumi Tanaka",
                 "order": 5,
                 "role": "Kulilin",
-                "thumbnail": "http://thetvdb.com/banners/actors/75893.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350767.jpg"
             },
             {
                 "name": "Shigeru Chiba",
                 "order": 6,
                 "role": "Raditz",
-                "thumbnail": "http://thetvdb.com/banners/actors/327197.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/23GASkx3cOtzgtBkrDTj44nbpVg.jpg"
             },
             {
                 "name": "Hiroko Emori",
@@ -58,25 +58,25 @@
                 "name": "Hikaru Midorikawa",
                 "order": 8,
                 "role": "Tenshinhan",
-                "thumbnail": "http://thetvdb.com/banners/actors/136841.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/67LlDJlFDeIrZlI4o6IM23fG7Tr.jpg"
             },
             {
                 "name": "Ryoichi Tanaka",
                 "order": 9,
                 "role": "Old Kaio-Shin",
-                "thumbnail": "http://thetvdb.com/banners/actors/351930.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/351929.jpg"
             },
             {
                 "name": "Masaharu Satou",
                 "order": 10,
                 "role": "Muten Roshi",
-                "thumbnail": "http://thetvdb.com/banners/actors/350978.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350806.jpg"
             },
             {
                 "name": "Kōzō Shioya",
                 "order": 11,
                 "role": "Boo",
-                "thumbnail": "http://thetvdb.com/banners/actors/350977.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350778.jpg"
             },
             {
                 "name": "Shin Aomori",
@@ -88,19 +88,19 @@
                 "name": "Yūji Mitsuya",
                 "order": 13,
                 "role": "Kaio Shin/Kibitoshin",
-                "thumbnail": "http://thetvdb.com/banners/actors/350975.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/351636.jpg"
             },
             {
                 "name": "Shino Kakinuma",
                 "order": 14,
                 "role": "Videl",
-                "thumbnail": "http://thetvdb.com/banners/actors/350974.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350771.jpg"
             },
             {
                 "name": "Masako Tsukada",
                 "order": 15,
                 "role": "Son Goten",
-                "thumbnail": "http://thetvdb.com/banners/actors/350973.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350779.jpg"
             },
             {
                 "name": "Taiten Kusunoki",
@@ -130,19 +130,19 @@
                 "name": "Unshô Ishizuka",
                 "order": 20,
                 "role": "Mr. Satan",
-                "thumbnail": "http://thetvdb.com/banners/actors/327196.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350765.jpg"
             },
             {
                 "name": "Takeshi Kusao",
                 "order": 21,
                 "role": "Trunks",
-                "thumbnail": "http://thetvdb.com/banners/actors/327194.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350770.jpg"
             },
             {
                 "name": "Hiromi Tsuru",
                 "order": 22,
                 "role": "Bulma",
-                "thumbnail": "http://thetvdb.com/banners/actors/314012.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350766.jpg"
             },
             {
                 "name": "Norio Wakamoto",
@@ -220,7 +220,7 @@
                 "name": "Aya Hirano",
                 "order": 35,
                 "role": "Dende",
-                "thumbnail": "http://thetvdb.com/banners/actors/136921.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/1EvMdPwUI9gvuqVjfLL6WS71j4U.jpg"
             },
             {
                 "name": "Naoki Tatsuta",
@@ -233,7 +233,7 @@
         "episode": 0,
         "episodeguide": "<episodeguide><url cache=\"88031-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/88031/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/88031-2.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Dragonball Kai/",
+        "file": "smb://Ext/Media/Serien/Dragonball Kai/",
         "genre": [
             "Action",
             "Adventure",
@@ -254,7 +254,7 @@
             "Fuji TV"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/88031-4.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/88031-3.jpg",
         "title": "Dragon Ball Kai",
         "tvshowid": 25,
         "votes": "52",

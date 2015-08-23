@@ -2,8 +2,8 @@
     "tvshowdetails": {
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-            "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-            "poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+            "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+            "poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
         },
         "cast": [
             {
@@ -40,7 +40,7 @@
                 "name": "Peter Mensah",
                 "order": 5,
                 "role": "Oenomaus",
-                "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
             },
             {
                 "name": "Viva Bianca",
@@ -52,7 +52,7 @@
                 "name": "John Hannah",
                 "order": 7,
                 "role": "Batiatus",
-                "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
             },
             {
                 "name": "Lucy Lawless",
@@ -160,13 +160,13 @@
                 "name": "Anna Hutchison",
                 "order": 25,
                 "role": "Laeta",
-                "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
             },
             {
                 "name": "Cynthia Addai-Robinson",
                 "order": 26,
                 "role": "Naevia (Season 2)",
-                "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
             },
             {
                 "name": "Dustin Clare",
@@ -208,7 +208,7 @@
                 "name": "Craig Parker",
                 "order": 33,
                 "role": "Glaber",
-                "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
             },
             {
                 "name": "Erin Cummings",
@@ -220,8 +220,8 @@
         "dateadded": "2013-09-22 17:21:13",
         "episode": 33,
         "episodeguide": "<episodeguide><url cache=\"129261-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/129261/all/en.zip</url></episodeguide>",
-        "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/",
+        "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+        "file": "smb://Ext/Media/Serien/Spartacus/",
         "genre": [
             "Action",
             "Adventure",
@@ -242,7 +242,7 @@
             "Starz!"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/129261-11.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/129261-16.jpg",
         "title": "Spartacus",
         "tvshowid": 76,
         "votes": "309",
@@ -255,8 +255,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1434591.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -293,7 +293,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -305,7 +305,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -413,13 +413,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -461,7 +461,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -476,8 +476,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 1401,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E01.Die.rote.Schlange.GERMAN.WS.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E01.Die.rote.Schlange.GERMAN.WS.avi",
                 "firstaired": "2010-01-22",
                 "label": "1x01. The Red Serpent",
                 "lastplayed": "",
@@ -513,8 +513,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1434601.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -551,7 +551,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -563,7 +563,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -671,13 +671,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -719,7 +719,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -734,8 +734,8 @@
                 ],
                 "episode": 2,
                 "episodeid": 1402,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E02.Sacramentum.Gladiatorum.GERMAN.WS.BDRip.XviD-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E02.Sacramentum.Gladiatorum.GERMAN.WS.BDRip.XviD-TVP.avi",
                 "firstaired": "2010-01-29",
                 "label": "1x02. Sacramentum Gladiatorum",
                 "lastplayed": "",
@@ -771,8 +771,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1434611.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -809,7 +809,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -821,7 +821,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -929,13 +929,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -977,7 +977,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -992,8 +992,8 @@
                 ],
                 "episode": 3,
                 "episodeid": 1403,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E03.Legenden.GERMAN.WS.BDRip.XviD-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E03.Legenden.GERMAN.WS.BDRip.XviD-TVP.avi",
                 "firstaired": "2010-02-05",
                 "label": "1x03. Legends",
                 "lastplayed": "",
@@ -1029,8 +1029,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1434621.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -1067,7 +1067,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -1079,7 +1079,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -1187,13 +1187,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -1235,7 +1235,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -1250,8 +1250,8 @@
                 ],
                 "episode": 4,
                 "episodeid": 1404,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E04.Die.Hoehle.GERMAN.WS.BDRip.XviD-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E04.Die.Hoehle.GERMAN.WS.BDRip.XviD-TVP.avi",
                 "firstaired": "2010-02-12",
                 "label": "1x04. The Thing in the Pit",
                 "lastplayed": "",
@@ -1289,8 +1289,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1434891.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -1327,7 +1327,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -1339,7 +1339,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -1447,13 +1447,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -1495,7 +1495,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -1510,8 +1510,8 @@
                 ],
                 "episode": 5,
                 "episodeid": 1405,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E05.Schattenspiele.GERMAN.WS.BDRip.XviD-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E05.Schattenspiele.GERMAN.WS.BDRip.XviD-TVP.avi",
                 "firstaired": "2010-02-19",
                 "label": "1x05. Shadow Games",
                 "lastplayed": "",
@@ -1547,8 +1547,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1434901.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -1585,7 +1585,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -1597,7 +1597,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -1705,13 +1705,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -1753,7 +1753,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -1768,8 +1768,8 @@
                 ],
                 "episode": 6,
                 "episodeid": 1406,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E06.Stunde.des.Ruhms.und.der.Trauer.GERMAN.WS.BDRip.XviD-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E06.Stunde.des.Ruhms.und.der.Trauer.GERMAN.WS.BDRip.XviD-TVP.avi",
                 "firstaired": "2010-02-26",
                 "label": "1x06. Delicate Things",
                 "lastplayed": "",
@@ -1806,8 +1806,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1434911.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -1844,7 +1844,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -1856,7 +1856,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -1964,13 +1964,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -2012,7 +2012,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -2027,8 +2027,8 @@
                 ],
                 "episode": 7,
                 "episodeid": 1407,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E07.Das.Pendel.des.Schicksals.GERMAN.WS.BDRip.XviD-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E07.Das.Pendel.des.Schicksals.GERMAN.WS.BDRip.XviD-TVP.avi",
                 "firstaired": "2010-03-05",
                 "label": "1x07. Great and Unfortunate Things",
                 "lastplayed": "",
@@ -2065,8 +2065,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1434921.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -2103,7 +2103,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -2115,7 +2115,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -2223,13 +2223,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -2271,7 +2271,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -2286,8 +2286,8 @@
                 ],
                 "episode": 8,
                 "episodeid": 1408,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E08.Im.Zeichen.der.Bruderschaft.GERMAN.WS.BDRip.XviD-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E08.Im.Zeichen.der.Bruderschaft.GERMAN.WS.BDRip.XviD-TVP.avi",
                 "firstaired": "2010-03-12",
                 "label": "1x08. Mark of the Brotherhood",
                 "lastplayed": "",
@@ -2324,8 +2324,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1434931.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -2362,7 +2362,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -2374,7 +2374,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -2482,13 +2482,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -2530,7 +2530,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -2545,8 +2545,8 @@
                 ],
                 "episode": 9,
                 "episodeid": 1409,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E09.Die.Huren.Roms.GERMAN.WS.BDRip.XviD-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E09.Die.Huren.Roms.GERMAN.WS.BDRip.XviD-TVP.avi",
                 "firstaired": "2010-03-19",
                 "label": "1x09. Whore",
                 "lastplayed": "",
@@ -2582,8 +2582,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1546741.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -2620,7 +2620,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -2632,7 +2632,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -2740,13 +2740,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -2788,7 +2788,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -2803,8 +2803,8 @@
                 ],
                 "episode": 10,
                 "episodeid": 1410,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E10.Moerderisches.Opfer.GERMAN.WS.BDRip.XviD-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E10.Moerderisches.Opfer.GERMAN.WS.BDRip.XviD-TVP.avi",
                 "firstaired": "2010-03-26",
                 "label": "1x10. Party Favors",
                 "lastplayed": "",
@@ -2841,8 +2841,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1912131.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -2879,7 +2879,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -2891,7 +2891,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -2999,13 +2999,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -3047,7 +3047,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -3062,8 +3062,8 @@
                 ],
                 "episode": 11,
                 "episodeid": 1411,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E11.Alte.Wunden.GERMAN.WS.BDRip.XviD-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E11.Alte.Wunden.GERMAN.WS.BDRip.XviD-TVP.avi",
                 "firstaired": "2010-04-02",
                 "label": "1x11. Old Wounds",
                 "lastplayed": "",
@@ -3101,8 +3101,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1912141.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -3139,7 +3139,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -3151,7 +3151,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -3259,13 +3259,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -3307,7 +3307,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -3322,8 +3322,8 @@
                 ],
                 "episode": 12,
                 "episodeid": 1412,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E12.Enthuellungen.GERMAN.WS.BDRip.XviD-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E12.Enthuellungen.GERMAN.WS.BDRip.XviD-TVP.avi",
                 "firstaired": "2010-04-09",
                 "label": "1x12. Revelations",
                 "lastplayed": "",
@@ -3359,8 +3359,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/1912151.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -3397,7 +3397,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -3409,7 +3409,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -3517,13 +3517,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -3565,7 +3565,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -3580,8 +3580,8 @@
                 ],
                 "episode": 13,
                 "episodeid": 1413,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E13.Toetet.sie.alle.GERMAN.WS.BDRip.XviD-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 1/Spartacus.Blood.and.Sand.S01E13.Toetet.sie.alle.GERMAN.WS.BDRip.XviD-TVP.avi",
                 "firstaired": "2010-04-16",
                 "label": "1x13. Kill Them All",
                 "lastplayed": "",
@@ -3619,8 +3619,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4164575.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -3657,7 +3657,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -3669,7 +3669,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -3777,13 +3777,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -3825,7 +3825,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -3840,8 +3840,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 1414,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E01.Auf.der.Flucht.German.Dubbed.HDTV.XviD-ITG.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E01.Auf.der.Flucht.German.Dubbed.HDTV.XviD-ITG.mp4",
                 "firstaired": "2012-01-27",
                 "label": "2x01. Fugitivus",
                 "lastplayed": "",
@@ -3877,8 +3877,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4234720.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -3915,7 +3915,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -3927,7 +3927,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -4035,13 +4035,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -4083,7 +4083,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -4098,8 +4098,8 @@
                 ],
                 "episode": 2,
                 "episodeid": 1415,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E02.Einen.Platz.in.der.Welt.German.Dubbed.HDTV.XviD-ITG.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E02.Einen.Platz.in.der.Welt.German.Dubbed.HDTV.XviD-ITG.mp4",
                 "firstaired": "2012-02-03",
                 "label": "2x02. A Place in This World",
                 "lastplayed": "",
@@ -4135,8 +4135,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4234721.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -4173,7 +4173,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -4185,7 +4185,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -4293,13 +4293,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -4341,7 +4341,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -4356,8 +4356,8 @@
                 ],
                 "episode": 3,
                 "episodeid": 1416,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E03.Das.hoehere.Wohl.German.Dubbed.HDTV.XviD-ITG-stream-kinox.to.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E03.Das.hoehere.Wohl.German.Dubbed.HDTV.XviD-ITG-stream-kinox.to.mp4",
                 "firstaired": "2012-02-10",
                 "label": "2x03. The Greater Good",
                 "lastplayed": "",
@@ -4393,8 +4393,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4234722.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -4431,7 +4431,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -4443,7 +4443,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -4551,13 +4551,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -4599,7 +4599,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -4614,8 +4614,8 @@
                 ],
                 "episode": 4,
                 "episodeid": 1417,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E04.Mit.leeren.Haenden.German.Dubbed.HDTV.XviD-ITG.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E04.Mit.leeren.Haenden.German.Dubbed.HDTV.XviD-ITG.mp4",
                 "firstaired": "2012-02-17",
                 "label": "2x04. Empty Hands",
                 "lastplayed": "",
@@ -4651,8 +4651,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4234723.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -4689,7 +4689,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -4701,7 +4701,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -4809,13 +4809,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -4857,7 +4857,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -4872,8 +4872,8 @@
                 ],
                 "episode": 5,
                 "episodeid": 1418,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E05.Befreiung.German.Dubbed.HDTV.XviD-ITG.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E05.Befreiung.German.Dubbed.HDTV.XviD-ITG.mp4",
                 "firstaired": "2012-02-24",
                 "label": "2x05. Libertus",
                 "lastplayed": "",
@@ -4910,8 +4910,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4234724.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -4948,7 +4948,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -4960,7 +4960,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -5068,13 +5068,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -5116,7 +5116,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -5131,8 +5131,8 @@
                 ],
                 "episode": 6,
                 "episodeid": 1419,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E06.Gewaehltes.Schicksal.German.Dubbed.HDTV.XviD-ITG-stream-kinox.to.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E06.Gewaehltes.Schicksal.German.Dubbed.HDTV.XviD-ITG-stream-kinox.to.mp4",
                 "firstaired": "2012-03-02",
                 "label": "2x06. Chosen Path",
                 "lastplayed": "",
@@ -5168,8 +5168,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4234725.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -5206,7 +5206,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -5218,7 +5218,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -5326,13 +5326,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -5374,7 +5374,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -5389,8 +5389,8 @@
                 ],
                 "episode": 7,
                 "episodeid": 1420,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E07.Sacramentum.German.Dubbed.HDTV.XviD-ITG-stream-kinox.to.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E07.Sacramentum.German.Dubbed.HDTV.XviD-ITG-stream-kinox.to.mp4",
                 "firstaired": "2012-03-09",
                 "label": "2x07. Sacramentum",
                 "lastplayed": "",
@@ -5426,8 +5426,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4234726.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -5464,7 +5464,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -5476,7 +5476,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -5584,13 +5584,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -5632,7 +5632,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -5647,8 +5647,8 @@
                 ],
                 "episode": 8,
                 "episodeid": 1421,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E08.Ausgleich.German.Dubbed.HDTV.XviD-ITG.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E08.Ausgleich.German.Dubbed.HDTV.XviD-ITG.mp4",
                 "firstaired": "2012-03-16",
                 "label": "2x08. Balance",
                 "lastplayed": "",
@@ -5684,8 +5684,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4234727.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -5722,7 +5722,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -5734,7 +5734,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -5842,13 +5842,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -5890,7 +5890,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -5905,8 +5905,8 @@
                 ],
                 "episode": 9,
                 "episodeid": 1422,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E09.Monster.German.Dubbed.HDTV.XviD-ITG.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E09.Monster.German.Dubbed.HDTV.XviD-ITG.mp4",
                 "firstaired": "2012-03-23",
                 "label": "2x09. Monsters",
                 "lastplayed": "",
@@ -5942,8 +5942,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4234728.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -5980,7 +5980,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -5992,7 +5992,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -6100,13 +6100,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -6148,7 +6148,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -6163,8 +6163,8 @@
                 ],
                 "episode": 10,
                 "episodeid": 1423,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E10.Der.Zorn.der.Goetter.German.Dubbed.HDTV.XviD-ITG.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 2/Spartacus.Vengeance.S02E10.Der.Zorn.der.Goetter.German.Dubbed.HDTV.XviD-ITG.mp4",
                 "firstaired": "2012-03-30",
                 "label": "2x10. Wrath of the Gods",
                 "lastplayed": "",
@@ -6202,8 +6202,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4469907.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -6240,7 +6240,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -6252,7 +6252,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -6360,13 +6360,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -6408,7 +6408,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -6423,8 +6423,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 1424,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 3/Spartacus.S03E01.Die.Feinde.Roms.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 3/Spartacus.S03E01.Die.Feinde.Roms.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
                 "firstaired": "2013-01-25",
                 "label": "3x01. Enemies of Rome",
                 "lastplayed": "",
@@ -6460,8 +6460,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4469908.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -6498,7 +6498,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -6510,7 +6510,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -6618,13 +6618,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -6666,7 +6666,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -6681,8 +6681,8 @@
                 ],
                 "episode": 2,
                 "episodeid": 1425,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 3/Spartacus.S03E02.Woelfe.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 3/Spartacus.S03E02.Woelfe.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
                 "firstaired": "2013-02-01",
                 "label": "3x02. Wolves at the Gate",
                 "lastplayed": "",
@@ -6719,8 +6719,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4469909.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -6757,7 +6757,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -6769,7 +6769,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -6877,13 +6877,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -6925,7 +6925,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -6940,8 +6940,8 @@
                 ],
                 "episode": 3,
                 "episodeid": 1426,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 3/Spartacus.S03E03.Maenner.der.Ehre.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 3/Spartacus.S03E03.Maenner.der.Ehre.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
                 "firstaired": "2013-02-08",
                 "label": "3x03. Men of Honor",
                 "lastplayed": "",
@@ -6977,8 +6977,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4469910.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -7015,7 +7015,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -7027,7 +7027,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -7135,13 +7135,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -7183,7 +7183,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -7198,8 +7198,8 @@
                 ],
                 "episode": 4,
                 "episodeid": 1427,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 3/Spartacus.S03E04.Dezimierung.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 3/Spartacus.S03E04.Dezimierung.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
                 "firstaired": "2013-02-22",
                 "label": "3x04. Decimation",
                 "lastplayed": "",
@@ -7235,8 +7235,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4469911.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -7273,7 +7273,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -7285,7 +7285,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -7393,13 +7393,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -7441,7 +7441,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -7456,8 +7456,8 @@
                 ],
                 "episode": 5,
                 "episodeid": 1428,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 3/Spartacus.S03E05.Blutsbrueder.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 3/Spartacus.S03E05.Blutsbrueder.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
                 "firstaired": "2013-03-01",
                 "label": "3x05. Blood Brothers",
                 "lastplayed": "",
@@ -7493,8 +7493,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4469912.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -7531,7 +7531,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -7543,7 +7543,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -7651,13 +7651,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -7699,7 +7699,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -7714,8 +7714,8 @@
                 ],
                 "episode": 6,
                 "episodeid": 1429,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 3/Spartacus.S03E06.Kriegsbeute.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 3/Spartacus.S03E06.Kriegsbeute.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
                 "firstaired": "2013-03-08",
                 "label": "3x06. Spoils of War",
                 "lastplayed": "",
@@ -7751,8 +7751,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4469913.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -7789,7 +7789,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -7801,7 +7801,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -7909,13 +7909,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -7957,7 +7957,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -7972,8 +7972,8 @@
                 ],
                 "episode": 7,
                 "episodeid": 1430,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 3/Spartacus.S03E07.Mors.Indecepta.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 3/Spartacus.S03E07.Mors.Indecepta.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
                 "firstaired": "2013-03-15",
                 "label": "3x07. Mors Indecepta",
                 "lastplayed": "",
@@ -8010,8 +8010,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4469914.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -8048,7 +8048,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -8060,7 +8060,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -8168,13 +8168,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -8216,7 +8216,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -8231,8 +8231,8 @@
                 ],
                 "episode": 8,
                 "episodeid": 1431,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 3/Spartacus.S03E08.Schicksalslinien.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 3/Spartacus.S03E08.Schicksalslinien.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
                 "firstaired": "2013-03-22",
                 "label": "3x08. Separate Paths",
                 "lastplayed": "",
@@ -8268,8 +8268,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4469915.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -8306,7 +8306,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -8318,7 +8318,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -8426,13 +8426,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -8474,7 +8474,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -8489,8 +8489,8 @@
                 ],
                 "episode": 9,
                 "episodeid": 1432,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 3/Spartacus.S03E09.Der.Tod.und.das.Sterben.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 3/Spartacus.S03E09.Der.Tod.und.das.Sterben.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
                 "firstaired": "2013-04-05",
                 "label": "3x09. The Dead and the Dying",
                 "lastplayed": "",
@@ -8526,8 +8526,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/129261/4469921.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
                 },
                 "cast": [
                     {
@@ -8564,7 +8564,7 @@
                         "name": "Peter Mensah",
                         "order": 5,
                         "role": "Oenomaus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129091.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4mn8HoKONrRYlZJIizbAgEaaMte.jpg"
                     },
                     {
                         "name": "Viva Bianca",
@@ -8576,7 +8576,7 @@
                         "name": "John Hannah",
                         "order": 7,
                         "role": "Batiatus",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129051.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jnHc3tC8mzLbVVJD6xWGUsEzC2r.jpg"
                     },
                     {
                         "name": "Lucy Lawless",
@@ -8684,13 +8684,13 @@
                         "name": "Anna Hutchison",
                         "order": 25,
                         "role": "Laeta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309471.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8yAMcrMbWZS8DXpuoelIM7PxZBR.jpg"
                     },
                     {
                         "name": "Cynthia Addai-Robinson",
                         "order": 26,
                         "role": "Naevia (Season 2)",
-                        "thumbnail": "http://thetvdb.com/banners/actors/293847.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sVHW4dPZFiLjtYUnxmennc47d0l.jpg"
                     },
                     {
                         "name": "Dustin Clare",
@@ -8732,7 +8732,7 @@
                         "name": "Craig Parker",
                         "order": 33,
                         "role": "Glaber",
-                        "thumbnail": "http://thetvdb.com/banners/actors/129071.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/amJPcZnpWIABjbaN5FzW5vvTIEk.jpg"
                     },
                     {
                         "name": "Erin Cummings",
@@ -8747,8 +8747,8 @@
                 ],
                 "episode": 10,
                 "episodeid": 1433,
-                "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Spartacus/Season 3/Spartacus.S03E10.Sieg.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "file": "smb://Ext/Media/Serien/Spartacus/Season 3/Spartacus.S03E10.Sieg.GERMAN.DUBBED.720p.BLURAY.x264-ZZGtv.mkv",
                 "firstaired": "2013-04-12",
                 "label": "3x10. Victory",
                 "lastplayed": "",
@@ -8788,11 +8788,11 @@
                 "banner": "http://thetvdb.com/banners/seasonswide/129261-1-3.jpg",
                 "poster": "http://thetvdb.com/banners/seasons/129261-1-3.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
             },
             "episode": 13,
-            "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
             "label": "Staffel 1",
             "playcount": 0,
             "season": 1,
@@ -8807,11 +8807,11 @@
                 "banner": "http://thetvdb.com/banners/seasonswide/129261-2-4.jpg",
                 "poster": "http://thetvdb.com/banners/seasons/129261-2-4.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
             },
             "episode": 10,
-            "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
             "label": "Staffel 2",
             "playcount": 0,
             "season": 2,
@@ -8826,11 +8826,11 @@
                 "banner": "http://thetvdb.com/banners/seasonswide/129261-3-2.jpg",
                 "poster": "http://thetvdb.com/banners/seasons/129261-3-4.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/129261-g20.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/129261-11.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/129261-16.jpg"
             },
             "episode": 10,
-            "fanart": "http://thetvdb.com/banners/fanart/original/129261-17.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/129261-5.jpg",
             "label": "Staffel 3",
             "playcount": 0,
             "season": 3,

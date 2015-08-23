@@ -1,0 +1,205 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/281708-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/281708-6.jpg",
+            "poster": "http://thetvdb.com/banners/posters/281708-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Jennifer Beals",
+                "order": 0,
+                "role": "Dr. Carolyn Tyler",
+                "thumbnail": "http://thetvdb.com/banners/actors/332150.jpg"
+            },
+            {
+                "name": "Matthew Modine",
+                "order": 1,
+                "role": "Ivan Turig",
+                "thumbnail": "http://thetvdb.com/banners/actors/350032.jpg"
+            },
+            {
+                "name": "Callum Blue",
+                "order": 4,
+                "role": "Peter Van Owen",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jEeLPZg7GlNhdkAmtPQXLGqOMZF.jpg"
+            },
+            {
+                "name": "Caroline Rose Kaplan",
+                "order": 5,
+                "role": "Janel Ramsey"
+            },
+            {
+                "name": "David Sutcliffe",
+                "order": 6,
+                "role": "Dr. Len Barliss"
+            },
+            {
+                "name": "Edi Gathegi",
+                "order": 7,
+                "role": "Zed",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xruASZjRYdM36ml9OFfrjf6u5FJ.jpg"
+            },
+            {
+                "name": "Joe Morton",
+                "order": 8,
+                "role": "Dr. Charles Russell",
+                "thumbnail": "http://thetvdb.com/banners/actors/70871.jpg"
+            }
+        ],
+        "dateadded": "2015-08-23 03:40:43",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"281708-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/281708/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/281708-6.jpg",
+        "file": "smb://Ext/Media/Serien/Proof/",
+        "genre": [
+            "Drama",
+            "Family",
+            "Mystery"
+        ],
+        "imdbnumber": "281708",
+        "label": "Proof (2015)",
+        "lastplayed": "",
+        "mpaa": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Jennifer Beals plays Dr. Carolyn Tyler, who has suffered the recent, devastating loss of her teenage son, the breakup of her marriage and a growing estrangement from her daughter. Carolyn is persuaded by Ivan Turing (Modine), a cancer-stricken tech inventor and billionaire to investigate cases of reincarnation, near-death experiences, hauntings and other phenomena, all of it in the search for evidence that death is not the end.",
+        "premiered": "2015-06-16",
+        "rating": 7.800000190734863,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "TNT"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/281708-2.jpg",
+        "title": "Proof (2015)",
+        "tvshowid": 105,
+        "votes": "5",
+        "watchedepisodes": 0,
+        "year": 2015
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/281708/5243323.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/281708-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/281708-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/281708-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jennifer Beals",
+                        "order": 0,
+                        "role": "Dr. Carolyn Tyler",
+                        "thumbnail": "http://thetvdb.com/banners/actors/332150.jpg"
+                    },
+                    {
+                        "name": "Matthew Modine",
+                        "order": 1,
+                        "role": "Ivan Turig",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350032.jpg"
+                    },
+                    {
+                        "name": "Callum Blue",
+                        "order": 4,
+                        "role": "Peter Van Owen",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jEeLPZg7GlNhdkAmtPQXLGqOMZF.jpg"
+                    },
+                    {
+                        "name": "Caroline Rose Kaplan",
+                        "order": 5,
+                        "role": "Janel Ramsey"
+                    },
+                    {
+                        "name": "David Sutcliffe",
+                        "order": 6,
+                        "role": "Dr. Len Barliss"
+                    },
+                    {
+                        "name": "Edi Gathegi",
+                        "order": 7,
+                        "role": "Zed",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xruASZjRYdM36ml9OFfrjf6u5FJ.jpg"
+                    },
+                    {
+                        "name": "Joe Morton",
+                        "order": 8,
+                        "role": "Dr. Charles Russell",
+                        "thumbnail": "http://thetvdb.com/banners/actors/70871.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-23 03:40:43",
+                "director": [],
+                "episode": 3,
+                "episodeid": 2022,
+                "fanart": "http://thetvdb.com/banners/fanart/original/281708-6.jpg",
+                "file": "smb://Ext/Media/Serien/Proof/Season 1/Proof.US.S01E03.HDTV.x264-LOL.mp4",
+                "firstaired": "2015-06-30",
+                "label": "1x03. Showdown",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Carolyn and her team investigate the case of an Iraq war vet who claims to have PTSD from a past life experience during the Korean War. Carolyn reconnects with a medical school colleague turned \"regression therapist.",
+                "productioncode": "",
+                "rating": 8.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2535,
+                "season": 1,
+                "showtitle": "Proof (2015)",
+                "streamdetails": {
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": "und"
+                        }
+                    ],
+                    "subtitle": [],
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "avc1",
+                            "duration": 2535,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/281708/5243323.jpg",
+                "title": "Showdown",
+                "tvshowid": 105,
+                "uniqueid": {
+                    "unknown": "5243323"
+                },
+                "votes": "2",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/281708-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/281708-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/281708-6.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/281708-2.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/281708-6.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 554,
+            "showtitle": "Proof (2015)",
+            "thumbnail": "http://thetvdb.com/banners/seasons/281708-1.jpg",
+            "tvshowid": 105,
+            "watchedepisodes": 0
+        }
+    ]
+}

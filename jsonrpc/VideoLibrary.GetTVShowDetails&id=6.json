@@ -2,8 +2,8 @@
     "tvshowdetails": {
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-            "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-            "poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+            "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+            "poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
         },
         "cast": [
             {
@@ -28,7 +28,7 @@
                 "name": "Katie Cassidy",
                 "order": 3,
                 "role": "Laurel Lance",
-                "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
             },
             {
                 "name": "Katrina Law",
@@ -46,7 +46,7 @@
                 "name": "Colton Haynes",
                 "order": 6,
                 "role": "Roy Harper",
-                "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
             },
             {
                 "name": "Caity Lotz",
@@ -106,13 +106,13 @@
                 "name": "Byron Mann",
                 "order": 16,
                 "role": "Yao Fei",
-                "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
             },
             {
                 "name": "Colin Salmon",
                 "order": 17,
                 "role": "Walter Steele",
-                "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
             },
             {
                 "name": "Colin Donnell",
@@ -124,8 +124,8 @@
         "dateadded": "2015-05-31 21:15:33",
         "episode": 21,
         "episodeguide": "<episodeguide><url cache=\"257655-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/257655/all/en.zip</url></episodeguide>",
-        "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/",
+        "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+        "file": "smb://Ext/Media/Serien/Arrow/",
         "genre": [
             "Action",
             "Adventure",
@@ -146,7 +146,7 @@
             "The CW"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/257655-25.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/257655-6.jpg",
         "title": "Arrow",
         "tvshowid": 6,
         "votes": "278",
@@ -159,8 +159,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4325893.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -185,7 +185,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -203,7 +203,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -263,13 +263,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -284,8 +284,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 85,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E01.Die.Rueckkehr.GERMAN.DUBBED.720p.BLURAY.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E01.Die.Rueckkehr.GERMAN.DUBBED.720p.BLURAY.x264-euHD.mkv",
                 "firstaired": "2012-10-10",
                 "label": "1x01. Pilot",
                 "lastplayed": "",
@@ -323,8 +323,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4365918.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -349,7 +349,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -367,7 +367,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -427,13 +427,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -448,8 +448,8 @@
                 ],
                 "episode": 2,
                 "episodeid": 86,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E02.Das.Vermaechtnis.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E02.Das.Vermaechtnis.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2012-10-17",
                 "label": "1x02. Honor Thy Father",
                 "lastplayed": "",
@@ -487,8 +487,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4365919.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -513,7 +513,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -531,7 +531,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -591,13 +591,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -612,8 +612,8 @@
                 ],
                 "episode": 3,
                 "episodeid": 87,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E03.Gegengift.GERMAN.DUBBED.DL.720p.BluRay.x264.REPACK-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E03.Gegengift.GERMAN.DUBBED.DL.720p.BluRay.x264.REPACK-euHD.mkv",
                 "firstaired": "2012-10-24",
                 "label": "1x03. Lone Gunmen",
                 "lastplayed": "",
@@ -651,8 +651,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4369897.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -677,7 +677,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -695,7 +695,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -755,13 +755,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -776,8 +776,8 @@
                 ],
                 "episode": 4,
                 "episodeid": 88,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E04.Unschuldig.German.DD51.Dubbed.DL.720p.BD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E04.Unschuldig.German.DD51.Dubbed.DL.720p.BD.x264-TVS.mkv",
                 "firstaired": "2012-10-31",
                 "label": "1x04. An Innocent Man",
                 "lastplayed": "",
@@ -814,8 +814,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4378737.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -840,7 +840,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -858,7 +858,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -918,13 +918,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -939,8 +939,8 @@
                 ],
                 "episode": 5,
                 "episodeid": 89,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E05.Der.Doppelgaenger.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E05.Der.Doppelgaenger.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2012-11-07",
                 "label": "1x05. Damaged",
                 "lastplayed": "",
@@ -977,8 +977,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4386872.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -1003,7 +1003,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -1021,7 +1021,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -1081,13 +1081,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -1102,8 +1102,8 @@
                 ],
                 "episode": 6,
                 "episodeid": 90,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E06.Familienbande.GERMAN.DUBBED.DL.720p.BluRay.x264.REPACK-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E06.Familienbande.GERMAN.DUBBED.DL.720p.BluRay.x264.REPACK-euHD.mkv",
                 "firstaired": "2012-11-14",
                 "label": "1x06. Legacies",
                 "lastplayed": "",
@@ -1140,8 +1140,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4398273.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -1166,7 +1166,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -1184,7 +1184,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -1244,13 +1244,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -1265,8 +1265,8 @@
                 ],
                 "episode": 7,
                 "episodeid": 91,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E07.Die.Gefaehrtin.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E07.Die.Gefaehrtin.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2012-11-28",
                 "label": "1x07. Muse of Fire",
                 "lastplayed": "",
@@ -1304,8 +1304,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4408785.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -1330,7 +1330,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -1348,7 +1348,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -1408,13 +1408,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -1429,8 +1429,8 @@
                 ],
                 "episode": 8,
                 "episodeid": 92,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E08.Vendetta.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E08.Vendetta.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2012-12-05",
                 "label": "1x08. Vendetta",
                 "lastplayed": "",
@@ -1467,8 +1467,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4415147.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -1493,7 +1493,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -1511,7 +1511,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -1571,13 +1571,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -1592,8 +1592,8 @@
                 ],
                 "episode": 9,
                 "episodeid": 93,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E09.Schwarze.Pfeile.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E09.Schwarze.Pfeile.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2012-12-12",
                 "label": "1x09. Year's End",
                 "lastplayed": "",
@@ -1631,8 +1631,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4421415.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -1657,7 +1657,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -1675,7 +1675,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -1735,13 +1735,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -1756,8 +1756,8 @@
                 ],
                 "episode": 10,
                 "episodeid": 94,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E10.Brandwunden.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E10.Brandwunden.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2013-01-16",
                 "label": "1x10. Burned",
                 "lastplayed": "",
@@ -1794,8 +1794,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4430407.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -1820,7 +1820,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -1838,7 +1838,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -1898,13 +1898,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -1919,8 +1919,8 @@
                 ],
                 "episode": 11,
                 "episodeid": 95,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E11.Verdacht.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E11.Verdacht.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2013-01-23",
                 "label": "1x11. Trust But Verify",
                 "lastplayed": "",
@@ -1956,8 +1956,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4442088.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -1988,7 +1988,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -2006,7 +2006,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -2066,13 +2066,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -2087,8 +2087,8 @@
                 ],
                 "episode": 12,
                 "episodeid": 96,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E12.Vertigo.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E12.Vertigo.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2013-01-30",
                 "label": "1x12. Vertigo",
                 "lastplayed": "",
@@ -2125,8 +2125,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4442089.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -2163,7 +2163,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -2181,7 +2181,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -2235,13 +2235,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -2256,8 +2256,8 @@
                 ],
                 "episode": 13,
                 "episodeid": 97,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E13.Verrat.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E13.Verrat.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2013-02-06",
                 "label": "1x13. Betrayal",
                 "lastplayed": "",
@@ -2294,8 +2294,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4451617.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -2326,7 +2326,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -2344,7 +2344,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -2398,13 +2398,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -2419,8 +2419,8 @@
                 ],
                 "episode": 14,
                 "episodeid": 98,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E14.Odyssee.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E14.Odyssee.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2013-02-13",
                 "label": "1x14. The Odyssey",
                 "lastplayed": "",
@@ -2458,8 +2458,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4457361.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -2502,7 +2502,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -2520,7 +2520,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -2574,13 +2574,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -2595,8 +2595,8 @@
                 ],
                 "episode": 15,
                 "episodeid": 99,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E15.Kettenreaktion.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E15.Kettenreaktion.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2013-02-20",
                 "label": "1x15. Dodger",
                 "lastplayed": "",
@@ -2632,8 +2632,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4486515.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -2670,7 +2670,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -2688,7 +2688,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -2742,13 +2742,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -2763,8 +2763,8 @@
                 ],
                 "episode": 16,
                 "episodeid": 100,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E16.Demaskiert.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E16.Demaskiert.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2013-02-27",
                 "label": "1x16. Dead to Rights",
                 "lastplayed": "",
@@ -2800,8 +2800,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4486516.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -2838,7 +2838,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -2856,7 +2856,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -2910,13 +2910,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -2931,8 +2931,8 @@
                 ],
                 "episode": 17,
                 "episodeid": 101,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E17.Die.Raecherin.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E17.Die.Raecherin.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2013-03-20",
                 "label": "1x17. The Huntress Returns",
                 "lastplayed": "",
@@ -2969,8 +2969,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4506514.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -3001,7 +3001,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -3019,7 +3019,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -3073,13 +3073,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -3094,8 +3094,8 @@
                 ],
                 "episode": 18,
                 "episodeid": 102,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E18.Richter.und.Henker.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E18.Richter.und.Henker.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2013-03-27",
                 "label": "1x18. Salvation",
                 "lastplayed": "",
@@ -3132,8 +3132,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4506515.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -3164,7 +3164,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -3182,7 +3182,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -3236,13 +3236,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -3257,8 +3257,8 @@
                 ],
                 "episode": 19,
                 "episodeid": 103,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E19.Alte.Feinde.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E19.Alte.Feinde.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2013-04-03",
                 "label": "1x19. Unfinished Business",
                 "lastplayed": "",
@@ -3295,8 +3295,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4517894.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -3332,7 +3332,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -3350,7 +3350,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -3404,13 +3404,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -3425,8 +3425,8 @@
                 ],
                 "episode": 20,
                 "episodeid": 104,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E20.Der.Auftragskiller.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E20.Der.Auftragskiller.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2013-04-24",
                 "label": "1x20. Home Invasion",
                 "lastplayed": "",
@@ -3463,8 +3463,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/257655/4517949.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
                 },
                 "cast": [
                     {
@@ -3489,7 +3489,7 @@
                         "name": "Katie Cassidy",
                         "order": 3,
                         "role": "Laurel Lance",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321388.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lXLKqVGd3w6cYvcJw8i4z79J1NC.jpg"
                     },
                     {
                         "name": "Katrina Law",
@@ -3507,7 +3507,7 @@
                         "name": "Colton Haynes",
                         "order": 6,
                         "role": "Roy Harper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/285254.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c5s8Nbl9SbBILyc8wQINkFzJgro.jpg"
                     },
                     {
                         "name": "Caity Lotz",
@@ -3567,13 +3567,13 @@
                         "name": "Byron Mann",
                         "order": 16,
                         "role": "Yao Fei",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317563.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fF6ZlpZ8Jj5iiI5LQjSlaemeNe5.jpg"
                     },
                     {
                         "name": "Colin Salmon",
                         "order": 17,
                         "role": "Walter Steele",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304332.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/65NLTMVHkjLIMjxasspMjwa6dLu.jpg"
                     },
                     {
                         "name": "Colin Donnell",
@@ -3588,8 +3588,8 @@
                 ],
                 "episode": 21,
                 "episodeid": 105,
-                "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Arrow/Season 1/Arrow.S01E21.Enthuellungen.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "file": "smb://Ext/Media/Serien/Arrow/Season 1/Arrow.S01E21.Enthuellungen.GERMAN.DUBBED.DL.720p.BluRay.x264-euHD.mkv",
                 "firstaired": "2013-05-01",
                 "label": "1x21. The Undertaking",
                 "lastplayed": "",
@@ -3630,11 +3630,11 @@
                 "banner": "http://thetvdb.com/banners/seasonswide/257655-1.jpg",
                 "poster": "http://thetvdb.com/banners/seasons/257655-1-3.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/257655-g9.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/257655-25.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/257655-6.jpg"
             },
             "episode": 21,
-            "fanart": "http://thetvdb.com/banners/fanart/original/257655-47.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/257655-4.jpg",
             "label": "Staffel 1",
             "playcount": 0,
             "season": 1,

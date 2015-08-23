@@ -9,7 +9,8 @@
             {
                 "name": "Jon Hamm",
                 "order": 0,
-                "role": "Matt Trent"
+                "role": "Matt Trent",
+                "thumbnail": "http://image.tmdb.org/t/p/original/7sjEnFaFNOzPeu5GhCeNJWhnOLt.jpg"
             },
             {
                 "name": "Natalia Tena",
@@ -21,19 +22,20 @@
                 "name": "Oona Chaplin",
                 "order": 2,
                 "role": "Greta",
-                "thumbnail": "http://thetvdb.com/banners/actors/299787.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/25hiavig6bfXJ8DjLjbtIkM6mO1.jpg"
             },
             {
                 "name": "Rafe Spall",
                 "order": 3,
-                "role": "Joe Potter"
+                "role": "Joe Potter",
+                "thumbnail": "http://image.tmdb.org/t/p/original/mPknxP1rKnzRQOS97WISuVavZyy.jpg"
             }
         ],
         "dateadded": "2013-12-31 21:04:00",
         "episode": 3,
         "episodeguide": "<episodeguide><url cache=\"253463-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/253463/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Mirror/",
+        "file": "smb://Ext/Media/Serien/Black Mirror/",
         "genre": [
             "Drama",
             "Science-Fiction",
@@ -41,10 +43,10 @@
         ],
         "imdbnumber": "253463",
         "label": "Black Mirror",
-        "lastplayed": "",
+        "lastplayed": "2015-08-22 18:15:17",
         "mpaa": "TV-14",
         "originaltitle": "",
-        "playcount": 0,
+        "playcount": 1,
         "plot": "Over the last ten years, technology has transformed almost every aspect of our lives before we've had time to stop and question it. In every home; on every desk; in every palm - a plasma screen; a monitor; a smartphone - a black mirror of our 21st Century existence.\r\nBlack Mirror is a contemporary British re-working of The Twilight Zone with stories that tap into the collective unease about our modern world.",
         "premiered": "2011-12-04",
         "rating": 8.5,
@@ -58,7 +60,7 @@
         "title": "Black Mirror",
         "tvshowid": 9,
         "votes": "60",
-        "watchedepisodes": 0,
+        "watchedepisodes": 3,
         "year": 2011
     },
     "episodes": {
@@ -75,7 +77,7 @@
                         "name": "Rory Kinnear",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/329983.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wfBmg2FVEDQCCFnjiTC3lhg1THP.jpg"
                     },
                     {
                         "name": "Lindsay Duncan",
@@ -112,7 +114,8 @@
                     {
                         "name": "Jon Hamm",
                         "order": 0,
-                        "role": "Matt Trent"
+                        "role": "Matt Trent",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7sjEnFaFNOzPeu5GhCeNJWhnOLt.jpg"
                     },
                     {
                         "name": "Natalia Tena",
@@ -124,12 +127,13 @@
                         "name": "Oona Chaplin",
                         "order": 2,
                         "role": "Greta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299787.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/25hiavig6bfXJ8DjLjbtIkM6mO1.jpg"
                     },
                     {
                         "name": "Rafe Spall",
                         "order": 3,
-                        "role": "Joe Potter"
+                        "role": "Joe Potter",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mPknxP1rKnzRQOS97WISuVavZyy.jpg"
                     }
                 ],
                 "dateadded": "2013-12-31 20:57:18",
@@ -139,12 +143,12 @@
                 "episode": 1,
                 "episodeid": 146,
                 "fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Mirror/Season 1/Black.Mirror.S01E01.Der.Wille.des.Volkes.XviD-ITG.avi",
+                "file": "smb://Ext/Media/Serien/Black Mirror/Season 1/Black.Mirror.S01E01.Der.Wille.des.Volkes.XviD-ITG.avi",
                 "firstaired": "2011-12-04",
                 "label": "1x01. The National Anthem",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:17",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "A twisted parable for the Twitter age, The National Anthem looks at how life is very much harder for the rich and supposedly powerful now that information is disseminated so quickly and public opinion is so loud, powerful and quick to change. It's a political thriller in which the Prime Minister faces a huge dilemma - and that's all that can be revealed for now...",
                 "productioncode": "",
                 "rating": 7.900000095367432,
@@ -217,7 +221,8 @@
                     {
                         "name": "Jon Hamm",
                         "order": 0,
-                        "role": "Matt Trent"
+                        "role": "Matt Trent",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7sjEnFaFNOzPeu5GhCeNJWhnOLt.jpg"
                     },
                     {
                         "name": "Natalia Tena",
@@ -229,12 +234,13 @@
                         "name": "Oona Chaplin",
                         "order": 2,
                         "role": "Greta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299787.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/25hiavig6bfXJ8DjLjbtIkM6mO1.jpg"
                     },
                     {
                         "name": "Rafe Spall",
                         "order": 3,
-                        "role": "Joe Potter"
+                        "role": "Joe Potter",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mPknxP1rKnzRQOS97WISuVavZyy.jpg"
                     }
                 ],
                 "dateadded": "2013-12-31 20:44:19",
@@ -244,12 +250,12 @@
                 "episode": 2,
                 "episodeid": 147,
                 "fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Mirror/Season 1/Black.Mirror.S01E02.Das.Leben.als.Spiel.German.Dubbed.DVDRip.XviD-ITG.avi",
+                "file": "smb://Ext/Media/Serien/Black Mirror/Season 1/Black.Mirror.S01E02.Das.Leben.als.Spiel.German.Dubbed.DVDRip.XviD-ITG.avi",
                 "firstaired": "2011-12-11",
                 "label": "1x02. 15 Million Merits",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:17",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Set in a sarcastic version of a future reality, 15 Million Merits is a satire on entertainment shows and our insatiable thirst for distraction. In this world, everyone is confined to a life of strange physical drudgery. The only way to escape this life is to enter the 'Hot Shot' talent show and just pray you can impress the judges.",
                 "productioncode": "",
                 "rating": 8.199999809265137,
@@ -288,7 +294,8 @@
                     {
                         "name": "Toby Kebbell",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wQU3uFk2TWjT2qfs2Z6rkdbWbjx.jpg"
                     },
                     {
                         "name": "Jodie Whittaker",
@@ -303,7 +310,8 @@
                     {
                         "name": "Jon Hamm",
                         "order": 0,
-                        "role": "Matt Trent"
+                        "role": "Matt Trent",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7sjEnFaFNOzPeu5GhCeNJWhnOLt.jpg"
                     },
                     {
                         "name": "Natalia Tena",
@@ -315,12 +323,13 @@
                         "name": "Oona Chaplin",
                         "order": 2,
                         "role": "Greta",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299787.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/25hiavig6bfXJ8DjLjbtIkM6mO1.jpg"
                     },
                     {
                         "name": "Rafe Spall",
                         "order": 3,
-                        "role": "Joe Potter"
+                        "role": "Joe Potter",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mPknxP1rKnzRQOS97WISuVavZyy.jpg"
                     }
                 ],
                 "dateadded": "2013-12-31 21:04:00",
@@ -330,12 +339,12 @@
                 "episode": 3,
                 "episodeid": 148,
                 "fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Mirror/Season 1/Black.Mirror.S01E03.Das.transparente.Ich.German.Dubbed.DVDRip.XviD-ITG.avi",
+                "file": "smb://Ext/Media/Serien/Black Mirror/Season 1/Black.Mirror.S01E03.Das.transparente.Ich.German.Dubbed.DVDRip.XviD-ITG.avi",
                 "firstaired": "2011-12-18",
                 "label": "1x03. The Entire History of You",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:17",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Set in an alternative reality where everyone has access to a system which records everything they do, see or hear. You need never forget a face, a holiday or a night out again... but is that always a good thing?",
                 "productioncode": "",
                 "rating": 8.199999809265137,
@@ -375,13 +384,13 @@
             "episode": 3,
             "fanart": "http://thetvdb.com/banners/fanart/original/253463-9.jpg",
             "label": "Staffel 1",
-            "playcount": 0,
+            "playcount": 1,
             "season": 1,
             "seasonid": 46,
             "showtitle": "Black Mirror",
             "thumbnail": "http://thetvdb.com/banners/seasons/253463-1-2.jpg",
             "tvshowid": 9,
-            "watchedepisodes": 0
+            "watchedepisodes": 3
         }
     ]
 }

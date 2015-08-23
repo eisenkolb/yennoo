@@ -10,7 +10,7 @@
                 "name": "Bob Odenkirk",
                 "order": 0,
                 "role": "James \"Jimmy\" McGill",
-                "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/1NrWxUR86TnHzqxl4Cs9qTzJhtm.jpg"
             },
             {
                 "name": "Jonathan Banks",
@@ -28,7 +28,7 @@
                 "name": "Raymond Cruz",
                 "order": 3,
                 "role": "Tuco Salamanca",
-                "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/4k0r3xJjgTac5GiJoHDDBVAFYcj.jpg"
             },
             {
                 "name": "Barry Shabaka Henley",
@@ -59,7 +59,7 @@
         "episode": 10,
         "episodeguide": "<episodeguide><url cache=\"273181-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/273181/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/",
+        "file": "smb://Ext/Media/Serien/Better Call Saul/",
         "genre": [
             "Comedy",
             "Crime",
@@ -67,10 +67,10 @@
         ],
         "imdbnumber": "273181",
         "label": "Better Call Saul",
-        "lastplayed": "",
+        "lastplayed": "2015-08-22 18:15:12",
         "mpaa": "TV-14",
         "originaltitle": "",
-        "playcount": 0,
+        "playcount": 1,
         "plot": "We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is ‘fixer’ Mike Erhmantraut. The series tracks Jimmy's transformation into the man who puts ‘criminal’ in ‘criminal lawyer’.",
         "premiered": "2015-02-08",
         "rating": 8.600000381469727,
@@ -84,7 +84,7 @@
         "title": "Better Call Saul",
         "tvshowid": 8,
         "votes": "55",
-        "watchedepisodes": 0,
+        "watchedepisodes": 10,
         "year": 2015
     },
     "episodes": {
@@ -110,7 +110,8 @@
                     {
                         "name": "Miriam Colon",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vNKUyJKVIvAmXT6pv0vWrZXazlS.jpg"
                     },
                     {
                         "name": "Eileen Fogarty",
@@ -131,7 +132,7 @@
                         "name": "Raymond Cruz",
                         "order": 6,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4k0r3xJjgTac5GiJoHDDBVAFYcj.jpg"
                     },
                     {
                         "name": "Nadine Marissa",
@@ -147,7 +148,7 @@
                         "name": "Bob Odenkirk",
                         "order": 0,
                         "role": "James \"Jimmy\" McGill",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1NrWxUR86TnHzqxl4Cs9qTzJhtm.jpg"
                     },
                     {
                         "name": "Jonathan Banks",
@@ -193,12 +194,12 @@
                 "episode": 1,
                 "episodeid": 136,
                 "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E01.Uno.GERMAN.DUBBED.WebHDRiP.XViD-EDE.avi",
+                "file": "smb://Ext/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E01.Uno.GERMAN.DUBBED.WebHDRiP.XViD-EDE.avi",
                 "firstaired": "2015-02-08",
                 "label": "1x01. Uno",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:12",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Jimmy works his magic in the courtroom. Unexpected inspiration leads him to an unconventional pursuit of potential clients.",
                 "productioncode": "",
                 "rating": 8,
@@ -238,12 +239,13 @@
                         "name": "Raymond Cruz",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4k0r3xJjgTac5GiJoHDDBVAFYcj.jpg"
                     },
                     {
                         "name": "Miriam Colon",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vNKUyJKVIvAmXT6pv0vWrZXazlS.jpg"
                     },
                     {
                         "name": "Eileen Fogarty",
@@ -273,7 +275,8 @@
                     {
                         "name": "Cesar Garcia",
                         "order": 7,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/6KkknahgOIBaZfz3ip3UV89iVFO.jpg"
                     },
                     {
                         "name": "Peter Diseth",
@@ -284,7 +287,7 @@
                         "name": "Bob Odenkirk",
                         "order": 0,
                         "role": "James \"Jimmy\" McGill",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1NrWxUR86TnHzqxl4Cs9qTzJhtm.jpg"
                     },
                     {
                         "name": "Jonathan Banks",
@@ -330,12 +333,12 @@
                 "episode": 2,
                 "episodeid": 137,
                 "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E02.Mijo.GERMAN.DUBBED.WebHDRiP.XViD-EDE.avi",
+                "file": "smb://Ext/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E02.Mijo.GERMAN.DUBBED.WebHDRiP.XViD-EDE.avi",
                 "firstaired": "2015-02-09",
                 "label": "1x02. Mijo",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:12",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "As his troubles escalate to a boiling point, Jimmy finds himself in dire straits. An act of carelessness puts Chuck at risk.",
                 "productioncode": "",
                 "rating": 8.100000381469727,
@@ -374,7 +377,7 @@
                         "name": "Bob Odenkirk",
                         "order": 0,
                         "role": "James \"Jimmy\" McGill",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1NrWxUR86TnHzqxl4Cs9qTzJhtm.jpg"
                     },
                     {
                         "name": "Jonathan Banks",
@@ -392,7 +395,7 @@
                         "name": "Raymond Cruz",
                         "order": 3,
                         "role": "Tuco Salamanca",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4k0r3xJjgTac5GiJoHDDBVAFYcj.jpg"
                     },
                     {
                         "name": "Barry Shabaka Henley",
@@ -426,12 +429,12 @@
                 "episode": 3,
                 "episodeid": 138,
                 "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E03.Nacho.German.DD5.1.HDTVRip.XViD-EDE.avi",
+                "file": "smb://Ext/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E03.Nacho.German.DD5.1.HDTVRip.XViD-EDE.avi",
                 "firstaired": "2015-02-16",
                 "label": "1x03. Nacho",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:12",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Jimmy pulls out all the stops to prove that his dangerous client is innocent, even though it causes some friction with Kim.",
                 "productioncode": "",
                 "rating": 8,
@@ -470,7 +473,7 @@
                         "name": "Bob Odenkirk",
                         "order": 0,
                         "role": "James \"Jimmy\" McGill",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1NrWxUR86TnHzqxl4Cs9qTzJhtm.jpg"
                     },
                     {
                         "name": "Jonathan Banks",
@@ -488,7 +491,7 @@
                         "name": "Raymond Cruz",
                         "order": 3,
                         "role": "Tuco Salamanca",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4k0r3xJjgTac5GiJoHDDBVAFYcj.jpg"
                     },
                     {
                         "name": "Barry Shabaka Henley",
@@ -522,12 +525,12 @@
                 "episode": 4,
                 "episodeid": 139,
                 "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E04.Hero.German.DL.NetflixHD.x264-TVS.mkv",
+                "file": "smb://Ext/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E04.Hero.German.DL.NetflixHD.x264-TVS.mkv",
                 "firstaired": "2015-02-23",
                 "label": "1x04. Hero",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:12",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Jimmy conjures up a bold plan to solicit new clients, but has to face the consequences when the scheme strains his relationships with a rival firm.",
                 "productioncode": "",
                 "rating": 8,
@@ -566,7 +569,7 @@
                         "name": "Bob Odenkirk",
                         "order": 0,
                         "role": "James \"Jimmy\" McGill",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1NrWxUR86TnHzqxl4Cs9qTzJhtm.jpg"
                     },
                     {
                         "name": "Jonathan Banks",
@@ -584,7 +587,7 @@
                         "name": "Raymond Cruz",
                         "order": 3,
                         "role": "Tuco Salamanca",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4k0r3xJjgTac5GiJoHDDBVAFYcj.jpg"
                     },
                     {
                         "name": "Barry Shabaka Henley",
@@ -618,12 +621,12 @@
                 "episode": 5,
                 "episodeid": 140,
                 "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E05.Alpine.Shepherd.Boy.German.DD5.1.HDTVRip.XViD-EDE.avi",
+                "file": "smb://Ext/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E05.Alpine.Shepherd.Boy.German.DD5.1.HDTVRip.XViD-EDE.avi",
                 "firstaired": "2015-03-02",
                 "label": "1x05. Alpine Shepherd Boy",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:12",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "When his efforts to drum up new business are interrupted by alarming news, Jimmy is pressured to make a difficult choice.",
                 "productioncode": "",
                 "rating": 7.900000095367432,
@@ -662,7 +665,7 @@
                         "name": "Bob Odenkirk",
                         "order": 0,
                         "role": "James \"Jimmy\" McGill",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1NrWxUR86TnHzqxl4Cs9qTzJhtm.jpg"
                     },
                     {
                         "name": "Jonathan Banks",
@@ -680,7 +683,7 @@
                         "name": "Raymond Cruz",
                         "order": 3,
                         "role": "Tuco Salamanca",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4k0r3xJjgTac5GiJoHDDBVAFYcj.jpg"
                     },
                     {
                         "name": "Barry Shabaka Henley",
@@ -714,12 +717,12 @@
                 "episode": 6,
                 "episodeid": 141,
                 "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E06.Five-O.German.DL.NetflixHD.x264-TVS.mkv",
+                "file": "smb://Ext/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E06.Five-O.German.DL.NetflixHD.x264-TVS.mkv",
                 "firstaired": "2015-03-09",
                 "label": "1x06. Five-O",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:12",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Mike's tragic past comes back to haunt him, and he's forced to seek help from an unusual source. Meanwhile, Jimmy's moral compass is put to the test.",
                 "productioncode": "",
                 "rating": 8.100000381469727,
@@ -758,7 +761,7 @@
                         "name": "Bob Odenkirk",
                         "order": 0,
                         "role": "James \"Jimmy\" McGill",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1NrWxUR86TnHzqxl4Cs9qTzJhtm.jpg"
                     },
                     {
                         "name": "Jonathan Banks",
@@ -776,7 +779,7 @@
                         "name": "Raymond Cruz",
                         "order": 3,
                         "role": "Tuco Salamanca",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4k0r3xJjgTac5GiJoHDDBVAFYcj.jpg"
                     },
                     {
                         "name": "Barry Shabaka Henley",
@@ -810,12 +813,12 @@
                 "episode": 7,
                 "episodeid": 142,
                 "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E07.Bingo.German.DL.NetflixHD.x264-TVS.mkv",
+                "file": "smb://Ext/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E07.Bingo.German.DL.NetflixHD.x264-TVS.mkv",
                 "firstaired": "2015-03-16",
                 "label": "1x07. Bingo",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:12",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Jimmy meets with potential new clients. When given the opportunity to do the right thing, Jimmy cashes in a favor from an unlikely ally.",
                 "productioncode": "",
                 "rating": 8.100000381469727,
@@ -854,7 +857,7 @@
                         "name": "Bob Odenkirk",
                         "order": 0,
                         "role": "James \"Jimmy\" McGill",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1NrWxUR86TnHzqxl4Cs9qTzJhtm.jpg"
                     },
                     {
                         "name": "Jonathan Banks",
@@ -872,7 +875,7 @@
                         "name": "Raymond Cruz",
                         "order": 3,
                         "role": "Tuco Salamanca",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4k0r3xJjgTac5GiJoHDDBVAFYcj.jpg"
                     },
                     {
                         "name": "Barry Shabaka Henley",
@@ -906,12 +909,12 @@
                 "episode": 8,
                 "episodeid": 143,
                 "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E08.Rico.German.DL.NetflixHD.x264-TVS.mkv",
+                "file": "smb://Ext/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E08.Rico.German.DL.NetflixHD.x264-TVS.mkv",
                 "firstaired": "2015-03-23",
                 "label": "1x08. RICO",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:12",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Jimmy shows Chuck that he's willing to do almost anything to win a case, even if it means getting his hands dirty.",
                 "productioncode": "",
                 "rating": 8.100000381469727,
@@ -950,7 +953,7 @@
                         "name": "Bob Odenkirk",
                         "order": 0,
                         "role": "James \"Jimmy\" McGill",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1NrWxUR86TnHzqxl4Cs9qTzJhtm.jpg"
                     },
                     {
                         "name": "Jonathan Banks",
@@ -968,7 +971,7 @@
                         "name": "Raymond Cruz",
                         "order": 3,
                         "role": "Tuco Salamanca",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4k0r3xJjgTac5GiJoHDDBVAFYcj.jpg"
                     },
                     {
                         "name": "Barry Shabaka Henley",
@@ -1002,12 +1005,12 @@
                 "episode": 9,
                 "episodeid": 144,
                 "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E09.Pimento.German.DL.NetflixHD.x264-TVS.mkv",
+                "file": "smb://Ext/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E09.Pimento.German.DL.NetflixHD.x264-TVS.mkv",
                 "firstaired": "2015-03-30",
                 "label": "1x09. Pimento",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:12",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Chuck urges Jimmy to accept a harsh truth. Meanwhile, a deal threatens to go off the rails when Mike's ability to complete a job is called into question.",
                 "productioncode": "",
                 "rating": 8.300000190734863,
@@ -1046,7 +1049,7 @@
                         "name": "Bob Odenkirk",
                         "order": 0,
                         "role": "James \"Jimmy\" McGill",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289551.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1NrWxUR86TnHzqxl4Cs9qTzJhtm.jpg"
                     },
                     {
                         "name": "Jonathan Banks",
@@ -1064,7 +1067,7 @@
                         "name": "Raymond Cruz",
                         "order": 3,
                         "role": "Tuco Salamanca",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347464.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4k0r3xJjgTac5GiJoHDDBVAFYcj.jpg"
                     },
                     {
                         "name": "Barry Shabaka Henley",
@@ -1098,12 +1101,12 @@
                 "episode": 10,
                 "episodeid": 145,
                 "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E10.German.DL.NetflixHD.x264-TVS.mkv",
+                "file": "smb://Ext/Media/Serien/Better Call Saul/Season 1/Better.Call.Saul.S01E10.German.DL.NetflixHD.x264-TVS.mkv",
                 "firstaired": "2015-04-06",
                 "label": "1x10. Marco",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:15:12",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "In the aftermath of recent events, Jimmy seizes an opportunity to reconnect with an old friend. Chuck adjusts to a new way of life.",
                 "productioncode": "",
                 "rating": 7.800000190734863,
@@ -1143,13 +1146,13 @@
             "episode": 10,
             "fanart": "http://thetvdb.com/banners/fanart/original/273181-4.jpg",
             "label": "Staffel 1",
-            "playcount": 0,
+            "playcount": 1,
             "season": 1,
             "seasonid": 43,
             "showtitle": "Better Call Saul",
             "thumbnail": "http://thetvdb.com/banners/seasons/273181-1-2.jpg",
             "tvshowid": 8,
-            "watchedepisodes": 0
+            "watchedepisodes": 10
         }
     ]
 }

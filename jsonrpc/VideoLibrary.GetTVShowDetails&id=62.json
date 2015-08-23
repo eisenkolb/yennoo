@@ -3,14 +3,14 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/260315-g8.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
-            "poster": "http://thetvdb.com/banners/posters/260315-5.jpg"
+            "poster": "http://thetvdb.com/banners/posters/260315-12.jpg"
         },
         "cast": [
             {
                 "name": "Tatiana Maslany",
                 "order": 0,
                 "role": "Sarah Manning / Elizabeth Childs / Alison Hendrix / Cosima Niehaus / Helena /  Rachel Duncan / Krystal Goderitch / Tony Sawicki / Katja Obinger",
-                "thumbnail": "http://thetvdb.com/banners/actors/310607.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/ab7IuPThWGtcAxxwn9po9Npk5xf.jpg"
             },
             {
                 "name": "Ari Millen",
@@ -76,7 +76,7 @@
                 "name": "Matt Frewer",
                 "order": 11,
                 "role": "Dr. Aldous Leekie",
-                "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/yV2gf5TuCU8xl8AyM68HwfeWlEE.jpg"
             },
             {
                 "name": "Kevin Hanchard",
@@ -95,7 +95,7 @@
         "episode": 2,
         "episodeguide": "<episodeguide><url cache=\"260315-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/260315/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orphan Black/",
+        "file": "smb://Ext/Media/Serien/Orphan Black/",
         "genre": [
             "Action",
             "Science-Fiction",
@@ -116,7 +116,7 @@
             "Space"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/260315-5.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/260315-12.jpg",
         "title": "Orphan Black",
         "tvshowid": 62,
         "votes": "83",
@@ -130,14 +130,14 @@
                     "thumb": "http://thetvdb.com/banners/episodes/260315/4352158.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/260315-g8.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/260315-5.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260315-12.jpg"
                 },
                 "cast": [
                     {
                         "name": "Tatiana Maslany",
                         "order": 0,
                         "role": "Sarah Manning / Elizabeth Childs / Alison Hendrix / Cosima Niehaus / Helena /  Rachel Duncan / Krystal Goderitch / Tony Sawicki / Katja Obinger",
-                        "thumbnail": "http://thetvdb.com/banners/actors/310607.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ab7IuPThWGtcAxxwn9po9Npk5xf.jpg"
                     },
                     {
                         "name": "Ari Millen",
@@ -203,7 +203,7 @@
                         "name": "Matt Frewer",
                         "order": 11,
                         "role": "Dr. Aldous Leekie",
-                        "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/yV2gf5TuCU8xl8AyM68HwfeWlEE.jpg"
                     },
                     {
                         "name": "Kevin Hanchard",
@@ -225,7 +225,7 @@
                 "episode": 1,
                 "episodeid": 1215,
                 "fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orphan Black/Season 1/Orphan.Black.S01E01.GERMAN.DUBBED.DVDRip.x264-RiO.mkv",
+                "file": "smb://Ext/Media/Serien/Orphan Black/Season 1/Orphan.Black.S01E01.GERMAN.DUBBED.DVDRip.x264-RiO.mkv",
                 "firstaired": "2013-03-30",
                 "label": "1x01. Natural Selection",
                 "lastplayed": "",
@@ -262,14 +262,14 @@
                     "thumb": "http://thetvdb.com/banners/episodes/260315/4535490.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/260315-g8.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/260315-5.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/260315-12.jpg"
                 },
                 "cast": [
                     {
                         "name": "Tatiana Maslany",
                         "order": 0,
                         "role": "Sarah Manning / Elizabeth Childs / Alison Hendrix / Cosima Niehaus / Helena /  Rachel Duncan / Krystal Goderitch / Tony Sawicki / Katja Obinger",
-                        "thumbnail": "http://thetvdb.com/banners/actors/310607.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ab7IuPThWGtcAxxwn9po9Npk5xf.jpg"
                     },
                     {
                         "name": "Ari Millen",
@@ -335,7 +335,7 @@
                         "name": "Matt Frewer",
                         "order": 11,
                         "role": "Dr. Aldous Leekie",
-                        "thumbnail": "http://thetvdb.com/banners/actors/333123.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/yV2gf5TuCU8xl8AyM68HwfeWlEE.jpg"
                     },
                     {
                         "name": "Kevin Hanchard",
@@ -357,7 +357,7 @@
                 "episode": 2,
                 "episodeid": 1216,
                 "fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Orphan Black/Season 1/Orphan.Black.S01E02.Instinkt.German.Dubbed.DVDRip.x264-CRiSP.mkv",
+                "file": "smb://Ext/Media/Serien/Orphan Black/Season 1/Orphan.Black.S01E02.Instinkt.German.Dubbed.DVDRip.x264-CRiSP.mkv",
                 "firstaired": "2013-04-06",
                 "label": "1x02. Instinct",
                 "lastplayed": "",
@@ -397,7 +397,7 @@
                 "poster": "http://thetvdb.com/banners/seasons/260315-1-6.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/260315-g8.jpg",
                 "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/260315-5.jpg"
+                "tvshow.poster": "http://thetvdb.com/banners/posters/260315-12.jpg"
             },
             "episode": 2,
             "fanart": "http://thetvdb.com/banners/fanart/original/260315-28.jpg",

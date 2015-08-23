@@ -1,0 +1,210 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/267206-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/267206-7.jpg",
+            "poster": "http://thetvdb.com/banners/posters/267206-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Mark Strong",
+                "order": 0,
+                "role": "Frank Agnew",
+                "thumbnail": "http://thetvdb.com/banners/actors/310328.jpg"
+            },
+            {
+                "name": "Lennie James",
+                "order": 1,
+                "role": "Joe Geddes",
+                "thumbnail": "http://thetvdb.com/banners/actors/310330.jpg"
+            },
+            {
+                "name": "David Costabile",
+                "order": 2,
+                "role": "Simon Boyd",
+                "thumbnail": "http://thetvdb.com/banners/actors/310346.jpg"
+            },
+            {
+                "name": "James Ransone",
+                "order": 3,
+                "role": "Damon Callis",
+                "thumbnail": "http://thetvdb.com/banners/actors/316370.jpg"
+            },
+            {
+                "name": "Athena Karkanis",
+                "order": 4,
+                "role": "Dani Kahlil",
+                "thumbnail": "http://thetvdb.com/banners/actors/316369.jpg"
+            },
+            {
+                "name": "Sprague Grayden",
+                "order": 5,
+                "role": "Maya Callis",
+                "thumbnail": "http://thetvdb.com/banners/actors/316368.jpg"
+            },
+            {
+                "name": "Billy Lush",
+                "order": 6,
+                "role": "Nick Paflas",
+                "thumbnail": "http://thetvdb.com/banners/actors/316367.jpg"
+            },
+            {
+                "name": "Ruben Santiago-Hudson",
+                "order": 7,
+                "role": "Lt. Charles Dawson",
+                "thumbnail": "http://thetvdb.com/banners/actors/316366.jpg"
+            }
+        ],
+        "dateadded": "2014-02-01 11:35:42",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"267206-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/267206/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/267206-7.jpg",
+        "file": "smb://Ext/Media/Serien/Low Winter Sun/",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "imdbnumber": "267206",
+        "label": "Low Winter Sun (US)",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Low Winter Sun is an American television drama series that aired on AMC from August 11 to October 6, 2013, for one season consisting of ten episodes. The series was developed by Chris Mundy, and starred Mark Strong and Lennie James.",
+        "premiered": "2013-08-11",
+        "rating": 7.300000190734863,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "AMC"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/267206-2.jpg",
+        "title": "Low Winter Sun (US)",
+        "tvshowid": 103,
+        "votes": "7",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267206/4508594.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267206-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267206-7.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267206-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Mark Strong",
+                        "order": 0,
+                        "role": "Frank Agnew",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310328.jpg"
+                    },
+                    {
+                        "name": "Lennie James",
+                        "order": 1,
+                        "role": "Joe Geddes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310330.jpg"
+                    },
+                    {
+                        "name": "David Costabile",
+                        "order": 2,
+                        "role": "Simon Boyd",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310346.jpg"
+                    },
+                    {
+                        "name": "James Ransone",
+                        "order": 3,
+                        "role": "Damon Callis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316370.jpg"
+                    },
+                    {
+                        "name": "Athena Karkanis",
+                        "order": 4,
+                        "role": "Dani Kahlil",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316369.jpg"
+                    },
+                    {
+                        "name": "Sprague Grayden",
+                        "order": 5,
+                        "role": "Maya Callis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316368.jpg"
+                    },
+                    {
+                        "name": "Billy Lush",
+                        "order": 6,
+                        "role": "Nick Paflas",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316367.jpg"
+                    },
+                    {
+                        "name": "Ruben Santiago-Hudson",
+                        "order": 7,
+                        "role": "Lt. Charles Dawson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/316366.jpg"
+                    }
+                ],
+                "dateadded": "2014-02-01 11:35:42",
+                "director": [
+                    "Ernest Dickerson"
+                ],
+                "episode": 1,
+                "episodeid": 2017,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267206-7.jpg",
+                "file": "smb://Ext/Media/Serien/Low Winter Sun/Season 1/Low.Winter.Sun.S01E01.24.lange.Stunden.DL.German.Dubbed.WS.BDRiP.AAC.x264-FREAKS.mkv",
+                "firstaired": "2013-08-11",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Detectives Frank Agnew and Joe Geddes murder a fellow cop, the Detroit Police Department launches an investigation that filters through more than just the homicide department. Rising crime lord Damon Callis learns how far he will go to make a name for himself on the streets of Detroit.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2700,
+                "season": 1,
+                "showtitle": "Low Winter Sun (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267206/4508594.jpg",
+                "title": "Pilot",
+                "tvshowid": 103,
+                "uniqueid": {
+                    "unknown": "4508594"
+                },
+                "votes": "18",
+                "writer": [
+                    "Chris Mundy"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/267206-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/267206-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267206-7.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/267206-2.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/267206-7.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 548,
+            "showtitle": "Low Winter Sun (US)",
+            "thumbnail": "http://thetvdb.com/banners/seasons/267206-1-2.jpg",
+            "tvshowid": 103,
+            "watchedepisodes": 0
+        }
+    ]
+}

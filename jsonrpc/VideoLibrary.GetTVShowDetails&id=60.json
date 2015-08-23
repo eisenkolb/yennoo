@@ -2,7 +2,7 @@
     "tvshowdetails": {
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/81797-g2.jpg",
-            "fanart": "http://thetvdb.com/banners/fanart/original/81797-23.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/81797-10.jpg",
             "poster": "http://thetvdb.com/banners/posters/81797-5.jpg"
         },
         "cast": [
@@ -10,7 +10,7 @@
                 "name": "Mayumi Tanaka",
                 "order": 0,
                 "role": "Monkey D. Luffy, Oars & Fake Chopper",
-                "thumbnail": "http://thetvdb.com/banners/actors/75893.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350767.jpg"
             },
             {
                 "name": "Cho",
@@ -100,7 +100,7 @@
                 "name": "Tōru Furuya",
                 "order": 15,
                 "role": "Sabo (adult)",
-                "thumbnail": "http://thetvdb.com/banners/actors/338930.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/9fuENGDDd6C30IudobBV8uh2XaK.jpg"
             },
             {
                 "name": "Takeuchi Junko",
@@ -220,7 +220,7 @@
                 "name": "Hiromi Tsuru",
                 "order": 35,
                 "role": "Shakuyaku",
-                "thumbnail": "http://thetvdb.com/banners/actors/314012.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350766.jpg"
             },
             {
                 "name": "Rumi Kasahara",
@@ -364,7 +364,7 @@
                 "name": "Masakazu Morita",
                 "order": 59,
                 "role": "Marco",
-                "thumbnail": "http://thetvdb.com/banners/actors/313966.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350780.jpg"
             },
             {
                 "name": "Shinobu Satouchi",
@@ -726,7 +726,7 @@
                 "name": "Masako Nozawa",
                 "order": 238,
                 "role": "Dr. Kureha",
-                "thumbnail": "http://thetvdb.com/banners/actors/136811.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/348254.jpg"
             },
             {
                 "name": "Matsuoka Yoko",
@@ -767,8 +767,8 @@
         "dateadded": "",
         "episode": 0,
         "episodeguide": "<episodeguide><url cache=\"81797-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/81797/all/en.zip</url></episodeguide>",
-        "fanart": "http://thetvdb.com/banners/fanart/original/81797-23.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/One Piece/",
+        "fanart": "http://thetvdb.com/banners/fanart/original/81797-10.jpg",
+        "file": "smb://Ext/Media/Serien/One Piece/",
         "genre": [
             "Action",
             "Adventure",

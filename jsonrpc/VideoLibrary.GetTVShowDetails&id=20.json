@@ -3,7 +3,7 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/247997-g4.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/247997-11.jpg",
-            "poster": "http://thetvdb.com/banners/posters/247997-11.jpg"
+            "poster": "http://thetvdb.com/banners/posters/247997-10.jpg"
         },
         "cast": [
             {
@@ -38,7 +38,7 @@
         "episode": 2,
         "episodeguide": "<episodeguide><url cache=\"247997-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/247997/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/247997-11.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Deadman Wonderland/",
+        "file": "smb://Ext/Media/Serien/Deadman Wonderland/",
         "genre": [
             "Action",
             "Animation",
@@ -62,7 +62,7 @@
             "tvk"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/247997-11.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/247997-10.jpg",
         "title": "Deadman Wonderland",
         "tvshowid": 20,
         "votes": "148",
@@ -76,7 +76,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/247997/4079488.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247997-g4.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247997-11.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247997-11.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247997-10.jpg"
                 },
                 "cast": [
                     {
@@ -112,7 +112,7 @@
                 "episode": 1,
                 "episodeid": 273,
                 "fanart": "http://thetvdb.com/banners/fanart/original/247997-11.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Deadman Wonderland/Season 1/Deadman.Wonderland.Ep.01-06.German.AC3.DL.BluRay.x264.AST4u.mkv",
+                "file": "smb://Ext/Media/Serien/Deadman Wonderland/Season 1/Deadman.Wonderland.Ep.01-06.German.AC3.DL.BluRay.x264.AST4u.mkv",
                 "firstaired": "2011-04-16",
                 "label": "1x01. Dead Man Walking",
                 "lastplayed": "",
@@ -147,7 +147,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/247997/4083729.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247997-g4.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247997-11.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247997-11.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247997-10.jpg"
                 },
                 "cast": [
                     {
@@ -183,7 +183,7 @@
                 "episode": 6,
                 "episodeid": 274,
                 "fanart": "http://thetvdb.com/banners/fanart/original/247997-11.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Deadman Wonderland/Season 1/Deadman.Wonderland.Ep.01-06.German.AC3.DL.BluRay.x264.AST4u.mkv",
+                "file": "smb://Ext/Media/Serien/Deadman Wonderland/Season 1/Deadman.Wonderland.Ep.01-06.German.AC3.DL.BluRay.x264.AST4u.mkv",
                 "firstaired": "2011-05-21",
                 "label": "1x06. Hummingbird",
                 "lastplayed": "",
@@ -222,7 +222,7 @@
                 "poster": "http://thetvdb.com/banners/seasons/247997-1-2.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/247997-g4.jpg",
                 "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247997-11.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/247997-11.jpg"
+                "tvshow.poster": "http://thetvdb.com/banners/posters/247997-10.jpg"
             },
             "episode": 2,
             "fanart": "http://thetvdb.com/banners/fanart/original/247997-11.jpg",

@@ -1,0 +1,350 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/267260-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/267260-1.jpg",
+            "poster": "http://thetvdb.com/banners/posters/267260-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Josh Holloway",
+                "order": 0,
+                "role": "Gabriel",
+                "thumbnail": "http://thetvdb.com/banners/actors/313366.jpg"
+            },
+            {
+                "name": "Meghan Ory",
+                "order": 1,
+                "role": "Riley Neal",
+                "thumbnail": "http://thetvdb.com/banners/actors/313368.jpg"
+            },
+            {
+                "name": "PJ Byrne",
+                "order": 2,
+                "role": "Nelson Cassidy",
+                "thumbnail": "http://thetvdb.com/banners/actors/313372.jpg"
+            },
+            {
+                "name": "Marg Helgenberger",
+                "order": 3,
+                "role": "Lillian Strand",
+                "thumbnail": "http://thetvdb.com/banners/actors/313367.jpg"
+            },
+            {
+                "name": "John Billingsley",
+                "order": 4,
+                "role": "Dr. Shenendoah Cassidy",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fHQ6ecMufxLwUAbN3dX3yxFAn5d.jpg"
+            },
+            {
+                "name": "James Martinez",
+                "order": 5,
+                "role": "Gonzalo \"Gonzo\" Rodriguez",
+                "thumbnail": "http://thetvdb.com/banners/actors/313370.jpg"
+            },
+            {
+                "name": "Michael Rady",
+                "order": 6,
+                "role": "Chris Jameson",
+                "thumbnail": "http://thetvdb.com/banners/actors/313369.jpg"
+            }
+        ],
+        "dateadded": "2015-08-22 19:38:17",
+        "episode": 2,
+        "episodeguide": "<episodeguide><url cache=\"267260-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/267260/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/267260-1.jpg",
+        "file": "smb://Ext/Media/Serien/Intelligence/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Science-Fiction"
+        ],
+        "imdbnumber": "267260",
+        "label": "Intelligence (2014)",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "A dramatic thriller about a high-tech intelligence operative enhanced with a super-computer microchip in his brain. With this implant, Gabriel is the first human ever to be connected directly into the worldwide information grid and have complete access to Internet, WiFi, telephone and satellite data. He can hack into any data center and access key intel in the fight to protect the United States from its enemies.",
+        "premiered": "2014-02-10",
+        "rating": 7.699999809265137,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "CBS"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/267260-3.jpg",
+        "title": "Intelligence (2014)",
+        "tvshowid": 100,
+        "votes": "33",
+        "watchedepisodes": 0,
+        "year": 2014
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267260/4521168.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267260-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267260-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267260-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Elden Henson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o4yrwPvnttGEFKcfbjxaMnpy9TP.jpg"
+                    },
+                    {
+                        "name": "Will Yun Lee",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/orVsiiVI869TGclBba3dFGhqetp.jpg"
+                    },
+                    {
+                        "name": "Rosalind Chao",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Grace Huang",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ywiPjy5TbCIuvAXhxlFzkRlPH0S.jpg"
+                    },
+                    {
+                        "name": "Josh Holloway",
+                        "order": 0,
+                        "role": "Gabriel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313366.jpg"
+                    },
+                    {
+                        "name": "Meghan Ory",
+                        "order": 1,
+                        "role": "Riley Neal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313368.jpg"
+                    },
+                    {
+                        "name": "PJ Byrne",
+                        "order": 2,
+                        "role": "Nelson Cassidy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313372.jpg"
+                    },
+                    {
+                        "name": "Marg Helgenberger",
+                        "order": 3,
+                        "role": "Lillian Strand",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313367.jpg"
+                    },
+                    {
+                        "name": "John Billingsley",
+                        "order": 4,
+                        "role": "Dr. Shenendoah Cassidy",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fHQ6ecMufxLwUAbN3dX3yxFAn5d.jpg"
+                    },
+                    {
+                        "name": "James Martinez",
+                        "order": 5,
+                        "role": "Gonzalo \"Gonzo\" Rodriguez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313370.jpg"
+                    },
+                    {
+                        "name": "Michael Rady",
+                        "order": 6,
+                        "role": "Chris Jameson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313369.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-22 19:38:17",
+                "director": [
+                    "David Semel"
+                ],
+                "episode": 1,
+                "episodeid": 1953,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267260-1.jpg",
+                "file": "smb://Ext/Media/Serien/Intelligence/Season 1/Intelligence.S01E01.Pilot.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
+                "firstaired": "2014-01-07",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Gabriel and Riley must rescue a kidnapped member of CyberCom -- the man who invented the chip implanted in Gabriel's brain -- before secret technology falls into the wrong hands.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2502,
+                "season": 1,
+                "showtitle": "Intelligence (2014)",
+                "streamdetails": {
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": ""
+                        }
+                    ],
+                    "subtitle": [],
+                    "video": [
+                        {
+                            "aspect": 1.7777780294418335,
+                            "codec": "h264",
+                            "duration": 2502,
+                            "height": 720,
+                            "stereomode": "",
+                            "width": 1280
+                        }
+                    ]
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267260/4521168.jpg",
+                "title": "Pilot",
+                "tvshowid": 100,
+                "uniqueid": {
+                    "unknown": "4521168"
+                },
+                "votes": "49",
+                "writer": [
+                    "Michael Seitzman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/267260/4710704.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/267260-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267260-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/267260-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Zuleikha Robinson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/80611.jpg"
+                    },
+                    {
+                        "name": "Cas Anvar",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nicholas Massouh",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Yorgo Constantine",
+                        "order": 3,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/e5kenJiOgpX9bvldQibR8ODpm4U.jpg"
+                    },
+                    {
+                        "name": "Josh Holloway",
+                        "order": 0,
+                        "role": "Gabriel",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313366.jpg"
+                    },
+                    {
+                        "name": "Meghan Ory",
+                        "order": 1,
+                        "role": "Riley Neal",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313368.jpg"
+                    },
+                    {
+                        "name": "PJ Byrne",
+                        "order": 2,
+                        "role": "Nelson Cassidy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313372.jpg"
+                    },
+                    {
+                        "name": "Marg Helgenberger",
+                        "order": 3,
+                        "role": "Lillian Strand",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313367.jpg"
+                    },
+                    {
+                        "name": "John Billingsley",
+                        "order": 4,
+                        "role": "Dr. Shenendoah Cassidy",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fHQ6ecMufxLwUAbN3dX3yxFAn5d.jpg"
+                    },
+                    {
+                        "name": "James Martinez",
+                        "order": 5,
+                        "role": "Gonzalo \"Gonzo\" Rodriguez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313370.jpg"
+                    },
+                    {
+                        "name": "Michael Rady",
+                        "order": 6,
+                        "role": "Chris Jameson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/313369.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:21:19",
+                "director": [
+                    "Aaron Lipstadt"
+                ],
+                "episode": 2,
+                "episodeid": 1954,
+                "fanart": "http://thetvdb.com/banners/fanart/original/267260-1.jpg",
+                "file": "smb://Ext/Media/Serien/Intelligence/Season 1/Intelligence.S01E02.Red.X.German.Dubbed.HDTV.x264-ITG.flv",
+                "firstaired": "2014-01-13",
+                "label": "1x02. Red X",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "During an investigation into a suicide bombing at the U.S. Marine base, a discovery is made about a new, chemically undetectable bomb material; Gabriel is unable to finish a task.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Intelligence (2014)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/267260/4710704.jpg",
+                "title": "Red X",
+                "tvshowid": 100,
+                "uniqueid": {
+                    "unknown": "4710704"
+                },
+                "votes": "49",
+                "writer": [
+                    "Aaron Ginsburg",
+                    "Wade McIntyre"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/267260-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/267260-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267260-1.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/267260-3.jpg"
+            },
+            "episode": 2,
+            "fanart": "http://thetvdb.com/banners/fanart/original/267260-1.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 538,
+            "showtitle": "Intelligence (2014)",
+            "thumbnail": "http://thetvdb.com/banners/seasons/267260-1.jpg",
+            "tvshowid": 100,
+            "watchedepisodes": 0
+        }
+    ]
+}

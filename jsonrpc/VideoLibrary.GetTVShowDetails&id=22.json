@@ -96,7 +96,7 @@
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"290290-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/290290/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/290290-1.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Digimon Adventure/",
+        "file": "smb://Ext/Media/Serien/Digimon Adventure/",
         "genre": [
             "Action",
             "Adventure",
@@ -223,7 +223,7 @@
                 "episode": 1,
                 "episodeid": 277,
                 "fanart": "http://thetvdb.com/banners/fanart/original/290290-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Digimon Adventure/Digimon.Adventure.S01E01.So.Fing.alles.an.German.Dubbed.1999.ANiME.FS.DVDRiP.XviD-STARS.mp4",
+                "file": "smb://Ext/Media/Serien/Digimon Adventure/Digimon.Adventure.S01E01.So.Fing.alles.an.German.Dubbed.1999.ANiME.FS.DVDRiP.XviD-STARS.mp4",
                 "firstaired": "2015-11-21",
                 "label": "1x01. Reunion",
                 "lastplayed": "",

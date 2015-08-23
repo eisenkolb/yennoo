@@ -1,0 +1,657 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/264605-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/264605-7.jpg",
+            "poster": "http://thetvdb.com/banners/posters/264605-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Paul Nicholls",
+                "order": 0,
+                "role": ""
+            },
+            {
+                "name": "Peter Mullan",
+                "order": 1,
+                "role": "",
+                "thumbnail": "http://thetvdb.com/banners/actors/309902.jpg"
+            },
+            {
+                "name": "Amarildo Kola",
+                "order": 2,
+                "role": ""
+            },
+            {
+                "name": "Anastasia Hille",
+                "order": 3,
+                "role": ""
+            },
+            {
+                "name": "Catherine Winter",
+                "order": 4,
+                "role": ""
+            },
+            {
+                "name": "Danny Sapani",
+                "order": 5,
+                "role": "",
+                "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+            },
+            {
+                "name": "Demosthenes Chrysan",
+                "order": 6,
+                "role": ""
+            },
+            {
+                "name": "Dragos Bucur",
+                "order": 7,
+                "role": ""
+            },
+            {
+                "name": "Harry Lloyd",
+                "order": 8,
+                "role": "",
+                "thumbnail": "http://thetvdb.com/banners/actors/346229.jpg"
+            },
+            {
+                "name": "Julia Ragnarsson",
+                "order": 9,
+                "role": ""
+            },
+            {
+                "name": "Lisa McAllister",
+                "order": 10,
+                "role": ""
+            },
+            {
+                "name": "Nigel Lindsay",
+                "order": 11,
+                "role": ""
+            },
+            {
+                "name": "Osy Ikhile",
+                "order": 12,
+                "role": ""
+            },
+            {
+                "name": "Richard E. Grant",
+                "order": 13,
+                "role": ""
+            },
+            {
+                "name": "Sidney Kean",
+                "order": 14,
+                "role": ""
+            }
+        ],
+        "dateadded": "2014-05-04 03:08:06",
+        "episode": 4,
+        "episodeguide": "<episodeguide><url cache=\"264605-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/264605/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/264605-7.jpg",
+        "file": "smb://Ext/Media/Serien/The Fear/",
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mini-Series",
+            "Thriller"
+        ],
+        "imdbnumber": "264605",
+        "label": "The Fear (UK)",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Former gang boss turned respected businessman, Richie Beckett pledge money to help rebuild a pier. But Richie's mind is deteriorating, and the other outfit he runs with his sons is under attack by a vicious rival gang.",
+        "premiered": "2012-12-03",
+        "rating": 9,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Channel 4"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/264605-2.jpg",
+        "title": "The Fear (UK)",
+        "tvshowid": 101,
+        "votes": "1",
+        "watchedepisodes": 0,
+        "year": 2012
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264605-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264605-7.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264605-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Peter Mullan",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309902.jpg"
+                    },
+                    {
+                        "name": "Anastasia Hille",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Harry Lloyd",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346229.jpg"
+                    },
+                    {
+                        "name": "Paul Nicholl",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Demosthenes Chrysan",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dragos Bucur",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Paul Nicholls",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Amarildo Kola",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Catherine Winter",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Julia Ragnarsson",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lisa McAllister",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nigel Lindsay",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Osy Ikhile",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Richard E. Grant",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sidney Kean",
+                        "order": 14,
+                        "role": ""
+                    }
+                ],
+                "dateadded": "2014-05-04 03:08:06",
+                "director": [
+                    "Michael Samuels"
+                ],
+                "episode": 1,
+                "episodeid": 1955,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264605-7.jpg",
+                "file": "smb://Ext/Media/Serien/The Fear/Season 1/The.Fear.S01E01.Angst.German.HDTVRiP.x264-GDR.flv",
+                "firstaired": "2012-12-03",
+                "label": "1x01. Episode 1",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Erstwhile crime boss Richie Beckett is now a respected - if still feared - member of the Brighton business community. But recently he's forgetful, irritable, unable to sleep, and the less legit side of his enterprise is under threat from a newcomer, Marin.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3000,
+                "season": 1,
+                "showtitle": "The Fear (UK)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "Episode 1",
+                "tvshowid": 101,
+                "uniqueid": {
+                    "unknown": "4448200"
+                },
+                "votes": "2",
+                "writer": []
+            },
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264605-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264605-7.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264605-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Peter Mullan",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309902.jpg"
+                    },
+                    {
+                        "name": "Anastasia Hille",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Harry Lloyd",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346229.jpg"
+                    },
+                    {
+                        "name": "Paul Nicholl",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Demosthenes Chrysan",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dragos Bucur",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Paul Nicholls",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Amarildo Kola",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Catherine Winter",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Julia Ragnarsson",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lisa McAllister",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nigel Lindsay",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Osy Ikhile",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Richard E. Grant",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sidney Kean",
+                        "order": 14,
+                        "role": ""
+                    }
+                ],
+                "dateadded": "2014-05-04 02:40:59",
+                "director": [
+                    "Michael Samuels"
+                ],
+                "episode": 2,
+                "episodeid": 1956,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264605-7.jpg",
+                "file": "smb://Ext/Media/Serien/The Fear/Season 1/The.Fear.S01E02.Wut.GERMAN.WS.HDTV.x264-aWake.flv",
+                "firstaired": "2012-12-04",
+                "label": "1x02. Episode 2",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Richie's mind deteriorates and he seeks help from a former adversary. For the sake of the family, Richie's son strikes a deal with Marin's gang.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3000,
+                "season": 1,
+                "showtitle": "The Fear (UK)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "Episode 2",
+                "tvshowid": 101,
+                "uniqueid": {
+                    "unknown": "4448201"
+                },
+                "votes": "1",
+                "writer": []
+            },
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264605-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264605-7.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264605-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Peter Mullan",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309902.jpg"
+                    },
+                    {
+                        "name": "Anastasia Hille",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Harry Lloyd",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346229.jpg"
+                    },
+                    {
+                        "name": "Paul Nicholl",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Demosthenes Chrysan",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dragos Bucur",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Paul Nicholls",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Amarildo Kola",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Catherine Winter",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Julia Ragnarsson",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lisa McAllister",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nigel Lindsay",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Osy Ikhile",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Richard E. Grant",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sidney Kean",
+                        "order": 14,
+                        "role": ""
+                    }
+                ],
+                "dateadded": "2014-05-04 02:40:57",
+                "director": [
+                    "Michael Samuels"
+                ],
+                "episode": 3,
+                "episodeid": 1957,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264605-7.jpg",
+                "file": "smb://Ext/Media/Serien/The Fear/Season 1/The.Fear.S01E03.Verzweiflung.GERMAN.WS.HDTV.x264-aWake.flv",
+                "firstaired": "2012-12-05",
+                "label": "1x03. Episode 3",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Richie is diagnosed with a virulent form of early-onset dementia. Cal is forced into hiding.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3000,
+                "season": 1,
+                "showtitle": "The Fear (UK)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "Episode 3",
+                "tvshowid": 101,
+                "uniqueid": {
+                    "unknown": "4448202"
+                },
+                "votes": "1",
+                "writer": []
+            },
+            {
+                "art": {
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/264605-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264605-7.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/264605-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Peter Mullan",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/309902.jpg"
+                    },
+                    {
+                        "name": "Anastasia Hille",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Harry Lloyd",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/346229.jpg"
+                    },
+                    {
+                        "name": "Paul Nicholl",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Demosthenes Chrysan",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Dragos Bucur",
+                        "order": 5,
+                        "role": ""
+                    },
+                    {
+                        "name": "Paul Nicholls",
+                        "order": 0,
+                        "role": ""
+                    },
+                    {
+                        "name": "Amarildo Kola",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Catherine Winter",
+                        "order": 4,
+                        "role": ""
+                    },
+                    {
+                        "name": "Danny Sapani",
+                        "order": 5,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+                    },
+                    {
+                        "name": "Julia Ragnarsson",
+                        "order": 9,
+                        "role": ""
+                    },
+                    {
+                        "name": "Lisa McAllister",
+                        "order": 10,
+                        "role": ""
+                    },
+                    {
+                        "name": "Nigel Lindsay",
+                        "order": 11,
+                        "role": ""
+                    },
+                    {
+                        "name": "Osy Ikhile",
+                        "order": 12,
+                        "role": ""
+                    },
+                    {
+                        "name": "Richard E. Grant",
+                        "order": 13,
+                        "role": ""
+                    },
+                    {
+                        "name": "Sidney Kean",
+                        "order": 14,
+                        "role": ""
+                    }
+                ],
+                "dateadded": "2014-05-04 02:39:07",
+                "director": [
+                    "Michael Samuels"
+                ],
+                "episode": 4,
+                "episodeid": 1958,
+                "fanart": "http://thetvdb.com/banners/fanart/original/264605-7.jpg",
+                "file": "smb://Ext/Media/Serien/The Fear/Season 1/The.Fear.S01E04.Tod.GERMAN.WS.HDTV.x264-aWake.flv",
+                "firstaired": "2012-12-06",
+                "label": "1x04. Episode 4",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Richie is on the run, in a state of full-blown dementia, pursued by the police and Marin's gang. In Cal's hideaway Richie has a rare moment of clarity. Past and present come together as Richie finally uncovers the truth about the girl from his past.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3000,
+                "season": 1,
+                "showtitle": "The Fear (UK)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "",
+                "title": "Episode 4",
+                "tvshowid": 101,
+                "uniqueid": {
+                    "unknown": "4448203"
+                },
+                "votes": "1",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/264605-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/264605-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/264605-7.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/264605-2.jpg"
+            },
+            "episode": 4,
+            "fanart": "http://thetvdb.com/banners/fanart/original/264605-7.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 541,
+            "showtitle": "The Fear (UK)",
+            "thumbnail": "http://thetvdb.com/banners/seasons/264605-1.jpg",
+            "tvshowid": 101,
+            "watchedepisodes": 0
+        }
+    ]
+}

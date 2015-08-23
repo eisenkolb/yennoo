@@ -1,0 +1,198 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/295759-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/295759-9.jpg",
+            "poster": "http://thetvdb.com/banners/posters/295759-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Melissa Benoist",
+                "order": 0,
+                "role": "Linda Danvers",
+                "thumbnail": "http://thetvdb.com/banners/actors/351959.jpg"
+            },
+            {
+                "name": "Chyler Leigh",
+                "order": 1,
+                "role": "Alex Danvers",
+                "thumbnail": "http://thetvdb.com/banners/actors/351960.jpg"
+            },
+            {
+                "name": "David Harewood",
+                "order": 2,
+                "role": "Hank Henshaw",
+                "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
+            },
+            {
+                "name": "Mehcad Brooks",
+                "order": 3,
+                "role": "James Olsen",
+                "thumbnail": "http://thetvdb.com/banners/actors/351964.jpg"
+            },
+            {
+                "name": "Jeremy Jordan",
+                "order": 4,
+                "role": "Winn Schott",
+                "thumbnail": "http://thetvdb.com/banners/actors/351963.jpg"
+            },
+            {
+                "name": "Calista Flockhart",
+                "order": 5,
+                "role": "Cat Grant",
+                "thumbnail": "http://thetvdb.com/banners/actors/351962.jpg"
+            }
+        ],
+        "dateadded": "2015-08-23 03:37:46",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"295759-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/295759/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/295759-9.jpg",
+        "file": "smb://Ext/Media/Serien/Supergirl/",
+        "genre": [
+            "Action",
+            "Drama",
+            "Science-Fiction"
+        ],
+        "imdbnumber": "295759",
+        "label": "Supergirl",
+        "lastplayed": "",
+        "mpaa": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
+        "premiered": "2015-10-26",
+        "rating": 7.699999809265137,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "CBS"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/295759-2.jpg",
+        "title": "Supergirl",
+        "tvshowid": 106,
+        "votes": "15",
+        "watchedepisodes": 0,
+        "year": 2015
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/295759/5232057.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/295759-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/295759-9.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/295759-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Melissa Benoist",
+                        "order": 0,
+                        "role": "Linda Danvers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/351959.jpg"
+                    },
+                    {
+                        "name": "Chyler Leigh",
+                        "order": 1,
+                        "role": "Alex Danvers",
+                        "thumbnail": "http://thetvdb.com/banners/actors/351960.jpg"
+                    },
+                    {
+                        "name": "David Harewood",
+                        "order": 2,
+                        "role": "Hank Henshaw",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
+                    },
+                    {
+                        "name": "Mehcad Brooks",
+                        "order": 3,
+                        "role": "James Olsen",
+                        "thumbnail": "http://thetvdb.com/banners/actors/351964.jpg"
+                    },
+                    {
+                        "name": "Jeremy Jordan",
+                        "order": 4,
+                        "role": "Winn Schott",
+                        "thumbnail": "http://thetvdb.com/banners/actors/351963.jpg"
+                    },
+                    {
+                        "name": "Calista Flockhart",
+                        "order": 5,
+                        "role": "Cat Grant",
+                        "thumbnail": "http://thetvdb.com/banners/actors/351962.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-23 03:37:46",
+                "director": [
+                    "Glen Winter"
+                ],
+                "episode": 1,
+                "episodeid": 2023,
+                "fanart": "http://thetvdb.com/banners/fanart/original/295759-9.jpg",
+                "file": "smb://Ext/Media/Serien/Supergirl/Season 1/Supergirl.S01E01.mp4",
+                "firstaired": "2015-10-26",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Kara at age 12 was sent from her dying home planet of Krypton to Earth, where she was taken in by the Danvers, a foster family who taught her to be careful with her extraordinary powers. After repressing said skills for more than a decade, Kara is forced to bust out her super moves in public during an unexpected disaster. Energized by her heroism for the first time in her life, she begins embracing her abilities in the name of helping the people of her city, earning herself a super moniker along the way.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2561,
+                "season": 1,
+                "showtitle": "Supergirl",
+                "streamdetails": {
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": "und"
+                        }
+                    ],
+                    "subtitle": [],
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "avc1",
+                            "duration": 2561,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/295759/5232057.jpg",
+                "title": "Pilot",
+                "tvshowid": 106,
+                "uniqueid": {
+                    "unknown": "5232057"
+                },
+                "votes": "7",
+                "writer": []
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/295759-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/295759-9.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/295759-2.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/295759-9.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 557,
+            "showtitle": "Supergirl",
+            "thumbnail": "",
+            "tvshowid": 106,
+            "watchedepisodes": 0
+        }
+    ]
+}

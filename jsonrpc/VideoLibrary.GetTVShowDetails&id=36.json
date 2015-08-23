@@ -1,16 +1,16 @@
 {
     "tvshowdetails": {
         "art": {
-            "banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-            "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-            "poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+            "banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+            "poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
         },
         "cast": [
             {
                 "name": "Mads Mikkelsen",
                 "order": 0,
                 "role": "Dr. Hannibal Lecter",
-                "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
             },
             {
                 "name": "Hugh Dancy",
@@ -28,7 +28,7 @@
                 "name": "Laurence Fishburne",
                 "order": 3,
                 "role": "Agent Jack Crawford",
-                "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
             },
             {
                 "name": "Lara Jean Chorostecki",
@@ -40,7 +40,7 @@
                 "name": "Aaron Abrams",
                 "order": 5,
                 "role": "Brian Zeller",
-                "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
             },
             {
                 "name": "Scott Thompson",
@@ -52,7 +52,7 @@
                 "name": "Gillian Anderson",
                 "order": 7,
                 "role": "Dr. Bedelia Du Maurier",
-                "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
             },
             {
                 "name": "Tao Okamoto",
@@ -82,7 +82,7 @@
                 "name": "Eddie Izzard",
                 "order": 12,
                 "role": "Dr. Abel Gideon",
-                "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
             },
             {
                 "name": "Raúl Esparza",
@@ -112,8 +112,8 @@
         "dateadded": "2015-02-16 22:43:37",
         "episode": 26,
         "episodeguide": "<episodeguide><url cache=\"259063-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/259063/all/en.zip</url></episodeguide>",
-        "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/",
+        "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+        "file": "smb://Ext/Media/Serien/Hannibal/",
         "genre": [
             "Crime",
             "Drama",
@@ -134,7 +134,7 @@
             "NBC"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/259063-17.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/259063-7.jpg",
         "title": "Hannibal",
         "tvshowid": 36,
         "votes": "111",
@@ -146,9 +146,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4333901.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -161,7 +161,7 @@
                         "name": "Aaron Abrams",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Dan Fogler",
@@ -178,7 +178,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -196,7 +196,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -208,7 +208,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -238,7 +238,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -265,8 +265,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 581,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E01.Aperitif.GERMAN.DUBBED.WS.WEBRip.ViR.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E01.Aperitif.GERMAN.DUBBED.WS.WEBRip.ViR.mp4",
                 "firstaired": "2013-04-04",
                 "label": "1x01. Apéritif",
                 "lastplayed": "",
@@ -301,9 +301,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4515450.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -316,7 +316,7 @@
                         "name": "Aaron Abrams",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Kacey Rohl",
@@ -339,7 +339,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -357,13 +357,13 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -393,7 +393,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -420,8 +420,8 @@
                 ],
                 "episode": 2,
                 "episodeid": 582,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E02.Pilze.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E02.Pilze.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
                 "firstaired": "2013-04-11",
                 "label": "1x02. Amuse-Bouche",
                 "lastplayed": "",
@@ -456,9 +456,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4517952.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -487,7 +487,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -505,13 +505,13 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -523,7 +523,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -553,7 +553,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -580,8 +580,8 @@
                 ],
                 "episode": 3,
                 "episodeid": 583,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E03.Hirschgeweih.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E03.Hirschgeweih.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2013-04-18",
                 "label": "1x03. Potage",
                 "lastplayed": "",
@@ -618,9 +618,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4561500.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -633,7 +633,7 @@
                         "name": "Aaron Abrams",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Kacey Rohl",
@@ -657,7 +657,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -675,7 +675,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -687,7 +687,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -717,7 +717,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -744,8 +744,8 @@
                 ],
                 "episode": 4,
                 "episodeid": 584,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E04.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E04.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2013-04-24",
                 "label": "1x04. Œuf",
                 "lastplayed": "",
@@ -780,9 +780,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4517953.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -795,7 +795,7 @@
                         "name": "Aaron Abrams",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Gina Torres",
@@ -807,7 +807,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -825,7 +825,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -837,7 +837,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -867,7 +867,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -900,8 +900,8 @@
                 ],
                 "episode": 5,
                 "episodeid": 585,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E05.Coquilles.GERMAN.DUBBED.BDRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E05.Coquilles.GERMAN.DUBBED.BDRip.x264-TVP.mkv",
                 "firstaired": "2013-04-25",
                 "label": "1x05. Coquilles",
                 "lastplayed": "",
@@ -937,16 +937,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4517955.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
                         "name": "Eddie Izzard",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -964,7 +964,7 @@
                         "name": "Aaron Abrams",
                         "order": 3,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Anna Chlumsky",
@@ -982,7 +982,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -1000,13 +1000,13 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -1051,8 +1051,8 @@
                 ],
                 "episode": 6,
                 "episodeid": 586,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E06.Entree.GERMAN.DUBBED.BDRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E06.Entree.GERMAN.DUBBED.BDRip.x264-TVP.mkv",
                 "firstaired": "2013-05-02",
                 "label": "1x06. Entrée",
                 "lastplayed": "",
@@ -1088,16 +1088,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4517956.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
                         "name": "Gillian Anderson",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -1109,7 +1109,7 @@
                         "name": "Aaron Abrams",
                         "order": 2,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Kacey Rohl",
@@ -1137,7 +1137,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -1155,7 +1155,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -1185,7 +1185,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -1212,8 +1212,8 @@
                 ],
                 "episode": 7,
                 "episodeid": 587,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E07.Sorbet.GERMAN.DUBBED.WS.BDRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E07.Sorbet.GERMAN.DUBBED.WS.BDRip.x264-TVP.mp4",
                 "firstaired": "2013-05-09",
                 "label": "1x07. Sorbet",
                 "lastplayed": "",
@@ -1249,16 +1249,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4520365.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
                         "name": "Gillian Anderson",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -1270,7 +1270,7 @@
                         "name": "Aaron Abrams",
                         "order": 2,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Dan Fogler",
@@ -1287,7 +1287,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -1305,7 +1305,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -1341,7 +1341,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -1374,8 +1374,8 @@
                 ],
                 "episode": 8,
                 "episodeid": 588,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E08.Dunkler.Klang.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E08.Dunkler.Klang.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
                 "firstaired": "2013-05-16",
                 "label": "1x08. Fromage",
                 "lastplayed": "",
@@ -1411,9 +1411,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4520366.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -1426,7 +1426,7 @@
                         "name": "Aaron Abrams",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Kacey Rohl",
@@ -1459,7 +1459,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -1477,13 +1477,13 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -1513,7 +1513,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -1540,8 +1540,8 @@
                 ],
                 "episode": 9,
                 "episodeid": 589,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E09.Vermaechtnis.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E09.Vermaechtnis.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
                 "firstaired": "2013-05-23",
                 "label": "1x09. Trou Normand",
                 "lastplayed": "",
@@ -1577,9 +1577,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4520367.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -1592,7 +1592,7 @@
                         "name": "Aaron Abrams",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Ellen Muth",
@@ -1608,7 +1608,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -1626,7 +1626,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -1638,7 +1638,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -1668,7 +1668,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -1701,8 +1701,8 @@
                 ],
                 "episode": 10,
                 "episodeid": 590,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E10.Gesichter.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E10.Gesichter.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
                 "firstaired": "2013-05-30",
                 "label": "1x10. Buffet Froid",
                 "lastplayed": "",
@@ -1739,16 +1739,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4520368.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
                         "name": "Eddie Izzard",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -1766,7 +1766,7 @@
                         "name": "Aaron Abrams",
                         "order": 3,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -1778,13 +1778,13 @@
                         "name": "Gillian Anderson",
                         "order": 5,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -1802,7 +1802,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -1853,8 +1853,8 @@
                 ],
                 "episode": 11,
                 "episodeid": 591,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E11.Roti.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E11.Roti.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
                 "firstaired": "2013-06-06",
                 "label": "1x11. Rôti",
                 "lastplayed": "",
@@ -1891,16 +1891,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4520369.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
                         "name": "Gillian Anderson",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -1912,7 +1912,7 @@
                         "name": "Aaron Abrams",
                         "order": 2,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Kacey Rohl",
@@ -1935,7 +1935,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -1953,7 +1953,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -1983,7 +1983,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -2010,8 +2010,8 @@
                 ],
                 "episode": 12,
                 "episodeid": 592,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E12.Releves.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E12.Releves.GERMAN.DUBBED.WS.BDRip.x264-TVP.mkv",
                 "firstaired": "2013-06-13",
                 "label": "1x12. Relevés",
                 "lastplayed": "",
@@ -2047,16 +2047,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4520370.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
                         "name": "Gillian Anderson",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -2068,7 +2068,7 @@
                         "name": "Aaron Abrams",
                         "order": 2,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Kacey Rohl",
@@ -2080,7 +2080,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -2098,7 +2098,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -2134,7 +2134,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -2161,8 +2161,8 @@
                 ],
                 "episode": 13,
                 "episodeid": 593,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 1/Hannibal.S01E13.Savoureux.GERMAN.DUBBED.WS.BDRip.x264.REPACK-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 1/Hannibal.S01E13.Savoureux.GERMAN.DUBBED.WS.BDRip.x264.REPACK-TVP.mkv",
                 "firstaired": "2013-06-20",
                 "label": "1x13. Savoureux",
                 "lastplayed": "",
@@ -2201,16 +2201,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4653574.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
                         "name": "Gillian Anderson",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Cynthia Nixon",
@@ -2227,7 +2227,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -2245,7 +2245,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -2257,7 +2257,7 @@
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -2293,7 +2293,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Vladimir Jon Cubrt",
@@ -2320,8 +2320,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 594,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E01.Farbtoene.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E01.Farbtoene.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-02-28",
                 "label": "2x01. Kaiseki",
                 "lastplayed": "",
@@ -2356,16 +2356,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4748756.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
                         "name": "Gillian Anderson",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Cynthia Nixon",
@@ -2382,7 +2382,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -2400,7 +2400,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -2412,7 +2412,7 @@
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -2448,7 +2448,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -2481,8 +2481,8 @@
                 ],
                 "episode": 2,
                 "episodeid": 595,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E02.Maisstaub.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E02.Maisstaub.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-03-07",
                 "label": "2x02. Sakizuke",
                 "lastplayed": "",
@@ -2518,9 +2518,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4772307.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -2559,7 +2559,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -2577,13 +2577,13 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -2595,7 +2595,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -2625,7 +2625,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Vladimir Jon Cubrt",
@@ -2652,8 +2652,8 @@
                 ],
                 "episode": 3,
                 "episodeid": 596,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E03.Kein.Ende.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E03.Kein.Ende.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-03-14",
                 "label": "2x03. Hassun",
                 "lastplayed": "",
@@ -2689,16 +2689,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4772308.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
                         "name": "Eddie Izzard",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Gina Torres",
@@ -2728,7 +2728,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -2746,7 +2746,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -2758,7 +2758,7 @@
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -2770,7 +2770,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -2815,8 +2815,8 @@
                 ],
                 "episode": 4,
                 "episodeid": 597,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E04.Honig.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E04.Honig.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-03-21",
                 "label": "2x04. Takiawase",
                 "lastplayed": "",
@@ -2852,16 +2852,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4772309.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
                         "name": "Eddie Izzard",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -2884,7 +2884,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -2902,13 +2902,13 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -2920,7 +2920,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -2971,8 +2971,8 @@
                 ],
                 "episode": 5,
                 "episodeid": 598,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E05.Pupillen.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E05.Pupillen.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-03-28",
                 "label": "2x05. Mukōzuke",
                 "lastplayed": "",
@@ -3009,16 +3009,16 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4772310.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
                         "name": "Eddie Izzard",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -3030,7 +3030,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -3048,7 +3048,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -3060,7 +3060,7 @@
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -3072,7 +3072,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -3123,8 +3123,8 @@
                 ],
                 "episode": 6,
                 "episodeid": 599,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E06.Suite.fuer.Cembalo.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E06.Suite.fuer.Cembalo.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-04-04",
                 "label": "2x06. Futamono",
                 "lastplayed": "",
@@ -3159,9 +3159,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4772311.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -3180,7 +3180,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -3198,7 +3198,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -3210,7 +3210,7 @@
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -3222,7 +3222,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -3246,7 +3246,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Vladimir Jon Cubrt",
@@ -3273,8 +3273,8 @@
                 ],
                 "episode": 7,
                 "episodeid": 600,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E07.Theater.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E07.Theater.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-04-11",
                 "label": "2x07. Yakimono",
                 "lastplayed": "",
@@ -3310,9 +3310,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4772312.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -3337,7 +3337,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -3355,7 +3355,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -3367,7 +3367,7 @@
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -3379,7 +3379,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -3403,7 +3403,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -3436,8 +3436,8 @@
                 ],
                 "episode": 8,
                 "episodeid": 601,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E08.Pferde.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E08.Pferde.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-04-18",
                 "label": "2x08. Su-zakana",
                 "lastplayed": "",
@@ -3472,9 +3472,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4772306.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -3504,7 +3504,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -3522,7 +3522,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -3534,7 +3534,7 @@
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -3546,7 +3546,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -3570,7 +3570,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -3603,8 +3603,8 @@
                 ],
                 "episode": 9,
                 "episodeid": 602,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E09.Raubtier.Mensch.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E09.Raubtier.Mensch.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-04-25",
                 "label": "2x09. Shiizakana",
                 "lastplayed": "",
@@ -3639,9 +3639,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4795921.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -3671,7 +3671,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -3689,13 +3689,13 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -3707,7 +3707,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -3725,7 +3725,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -3758,8 +3758,8 @@
                 ],
                 "episode": 10,
                 "episodeid": 603,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E10.Hoehere.Gewalt.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E10.Hoehere.Gewalt.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-05-02",
                 "label": "2x10. Naka-Choko",
                 "lastplayed": "",
@@ -3794,9 +3794,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4795922.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -3815,7 +3815,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -3833,7 +3833,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -3845,7 +3845,7 @@
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -3857,7 +3857,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -3875,7 +3875,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -3908,8 +3908,8 @@
                 ],
                 "episode": 11,
                 "episodeid": 604,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E11.Wangenrot.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E11.Wangenrot.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-05-09",
                 "label": "2x11. Kō No Mono",
                 "lastplayed": "",
@@ -3946,9 +3946,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4810880.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -3967,7 +3967,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -3985,7 +3985,7 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Lara Jean Chorostecki",
@@ -3997,7 +3997,7 @@
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -4009,7 +4009,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -4027,7 +4027,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -4060,8 +4060,8 @@
                 ],
                 "episode": 12,
                 "episodeid": 605,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E12.Hundefutter.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E12.Hundefutter.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-05-16",
                 "label": "2x12. Tome-wan",
                 "lastplayed": "",
@@ -4098,9 +4098,9 @@
             {
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259063/4810881.jpg",
-                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
                 },
                 "cast": [
                     {
@@ -4124,7 +4124,7 @@
                         "name": "Mads Mikkelsen",
                         "order": 0,
                         "role": "Dr. Hannibal Lecter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306554.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hJTB5odoUVrVmLJdkuAMNBRvyvw.jpg"
                     },
                     {
                         "name": "Hugh Dancy",
@@ -4142,13 +4142,13 @@
                         "name": "Laurence Fishburne",
                         "order": 3,
                         "role": "Agent Jack Crawford",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306552.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mh0lZ1XsT84FayMNiT6Erh91mVu.jpg"
                     },
                     {
                         "name": "Aaron Abrams",
                         "order": 5,
                         "role": "Brian Zeller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309205.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/weVv0AxBDJvk3pCf8ADnHjJRjtC.jpg"
                     },
                     {
                         "name": "Scott Thompson",
@@ -4160,7 +4160,7 @@
                         "name": "Gillian Anderson",
                         "order": 7,
                         "role": "Dr. Bedelia Du Maurier",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306553.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/uXw82aq2bH7GUYQIaoihXwDolLK.jpg"
                     },
                     {
                         "name": "Tao Okamoto",
@@ -4190,7 +4190,7 @@
                         "name": "Eddie Izzard",
                         "order": 12,
                         "role": "Dr. Abel Gideon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/331311.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/j5hzBqmcyWG2GC754uACCoNgAvS.jpg"
                     },
                     {
                         "name": "Raúl Esparza",
@@ -4223,8 +4223,8 @@
                 ],
                 "episode": 13,
                 "episodeid": 606,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hannibal/Season 2/Hannibal.S02E13.Vergebung.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "file": "smb://Ext/Media/Serien/Hannibal/Season 2/Hannibal.S02E13.Vergebung.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mkv",
                 "firstaired": "2014-05-23",
                 "label": "2x13. Mizumono",
                 "lastplayed": "",
@@ -4262,12 +4262,12 @@
         {
             "art": {
                 "poster": "http://thetvdb.com/banners/seasons/259063-1-7.jpg",
-                "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
             },
             "episode": 13,
-            "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
             "label": "Staffel 1",
             "playcount": 0,
             "season": 1,
@@ -4280,12 +4280,12 @@
         {
             "art": {
                 "poster": "http://thetvdb.com/banners/seasons/259063-2-2.jpg",
-                "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g8.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/259063-17.jpg"
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/259063-g3.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/259063-7.jpg"
             },
             "episode": 13,
-            "fanart": "http://thetvdb.com/banners/fanart/original/259063-50.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/259063-18.jpg",
             "label": "Staffel 2",
             "playcount": 0,
             "season": 2,

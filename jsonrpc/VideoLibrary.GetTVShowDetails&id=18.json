@@ -10,13 +10,13 @@
                 "name": "William Fichtner",
                 "order": 0,
                 "role": "Carl Hickman",
-                "thumbnail": "http://thetvdb.com/banners/actors/310275.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/oIGjbztWvTqn4tnolW9rDCjpgxu.jpg"
             },
             {
                 "name": "Donald Sutherland",
                 "order": 1,
                 "role": "Mikael Lechnya Dorn",
-                "thumbnail": "http://thetvdb.com/banners/actors/310290.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/tPLVaPjxEscGPKS3ieByloa8Mqj.jpg"
             },
             {
                 "name": "Marc Lavoine",
@@ -28,7 +28,7 @@
                 "name": "Ray Stevenson",
                 "order": 3,
                 "role": "Miles Lennon",
-                "thumbnail": "http://thetvdb.com/banners/actors/336655.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/bcd9uqwfCVYsu7rduZnPVYUkyfU.jpg"
             },
             {
                 "name": "Lara Rossi",
@@ -71,7 +71,7 @@
         "episode": 2,
         "episodeguide": "<episodeguide><url cache=\"267970-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/267970/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/267970-5.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Crossing Lines/",
+        "file": "smb://Ext/Media/Serien/Crossing Lines/",
         "genre": [
             "Action",
             "Crime",
@@ -113,13 +113,13 @@
                         "name": "William Fichtner",
                         "order": 0,
                         "role": "Carl Hickman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/310275.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oIGjbztWvTqn4tnolW9rDCjpgxu.jpg"
                     },
                     {
                         "name": "Donald Sutherland",
                         "order": 1,
                         "role": "Mikael Lechnya Dorn",
-                        "thumbnail": "http://thetvdb.com/banners/actors/310290.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tPLVaPjxEscGPKS3ieByloa8Mqj.jpg"
                     },
                     {
                         "name": "Marc Lavoine",
@@ -131,7 +131,7 @@
                         "name": "Ray Stevenson",
                         "order": 3,
                         "role": "Miles Lennon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/336655.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bcd9uqwfCVYsu7rduZnPVYUkyfU.jpg"
                     },
                     {
                         "name": "Lara Rossi",
@@ -177,7 +177,7 @@
                 "episode": 1,
                 "episodeid": 270,
                 "fanart": "http://thetvdb.com/banners/fanart/original/267970-5.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Crossing Lines/Season 1/Crossing.Lines.S01E01E02.Ein.neues.Team.GERMAN.HDTVRiP.x264-SOF.mkv",
+                "file": "smb://Ext/Media/Serien/Crossing Lines/Season 1/Crossing.Lines.S01E01E02.Ein.neues.Team.GERMAN.HDTVRiP.x264-SOF.mkv",
                 "firstaired": "2013-06-23",
                 "label": "1x01. Pilot, Part 1",
                 "lastplayed": "",
@@ -221,13 +221,13 @@
                         "name": "William Fichtner",
                         "order": 0,
                         "role": "Carl Hickman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/310275.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oIGjbztWvTqn4tnolW9rDCjpgxu.jpg"
                     },
                     {
                         "name": "Donald Sutherland",
                         "order": 1,
                         "role": "Mikael Lechnya Dorn",
-                        "thumbnail": "http://thetvdb.com/banners/actors/310290.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tPLVaPjxEscGPKS3ieByloa8Mqj.jpg"
                     },
                     {
                         "name": "Marc Lavoine",
@@ -239,7 +239,7 @@
                         "name": "Ray Stevenson",
                         "order": 3,
                         "role": "Miles Lennon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/336655.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bcd9uqwfCVYsu7rduZnPVYUkyfU.jpg"
                     },
                     {
                         "name": "Lara Rossi",
@@ -285,7 +285,7 @@
                 "episode": 2,
                 "episodeid": 271,
                 "fanart": "http://thetvdb.com/banners/fanart/original/267970-5.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Crossing Lines/Season 1/Crossing.Lines.S01E01E02.Ein.neues.Team.GERMAN.HDTVRiP.x264-SOF.mkv",
+                "file": "smb://Ext/Media/Serien/Crossing Lines/Season 1/Crossing.Lines.S01E01E02.Ein.neues.Team.GERMAN.HDTVRiP.x264-SOF.mkv",
                 "firstaired": "2013-06-23",
                 "label": "1x02. Pilot, Part 2",
                 "lastplayed": "",

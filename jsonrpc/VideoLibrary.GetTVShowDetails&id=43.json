@@ -10,13 +10,13 @@
                 "name": "Hayden Panettiere",
                 "order": 0,
                 "role": "Claire Bennet",
-                "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
             },
             {
                 "name": "Milo Ventimiglia",
                 "order": 1,
                 "role": "Peter Petrelli",
-                "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
             },
             {
                 "name": "Zachary Quinto",
@@ -40,13 +40,13 @@
                 "name": "Malcolm McDowell",
                 "order": 5,
                 "role": "Linderman",
-                "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
             },
             {
                 "name": "Ali Larter",
                 "order": 6,
                 "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
             },
             {
                 "name": "Jack Coleman",
@@ -70,7 +70,7 @@
                 "name": "Dania Ramirez",
                 "order": 10,
                 "role": "Maya Herrera",
-                "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
             },
             {
                 "name": "David Anders",
@@ -142,7 +142,7 @@
                 "name": "Eric Roberts",
                 "order": 22,
                 "role": "Thompson",
-                "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
             },
             {
                 "name": "Stephen Tobolowsky",
@@ -172,7 +172,7 @@
         "episode": 50,
         "episodeguide": "<episodeguide><url cache=\"79501-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/79501/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/",
+        "file": "smb://Ext/Media/Serien/Heroes/",
         "genre": [
             "Drama",
             "Fantasy",
@@ -293,13 +293,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -323,13 +323,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -353,7 +353,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "Dana Davis",
@@ -419,7 +419,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -446,7 +446,7 @@
                 "episode": 1,
                 "episodeid": 700,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 2/Heroes.S02E01.Vier.Monate.speater.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 2/Heroes.S02E01.Vier.Monate.speater.avi",
                 "firstaired": "2007-09-24",
                 "label": "2x01. Four Months Later...",
                 "lastplayed": "",
@@ -528,13 +528,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -558,13 +558,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -588,7 +588,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "Dana Davis",
@@ -654,7 +654,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -687,7 +687,7 @@
                 "episode": 2,
                 "episodeid": 701,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 2/Heroes.S02E02.Eidechsen.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 2/Heroes.S02E02.Eidechsen.avi",
                 "firstaired": "2007-10-01",
                 "label": "2x02. Lizards",
                 "lastplayed": "",
@@ -815,13 +815,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -845,13 +845,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -875,7 +875,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "Dana Davis",
@@ -941,7 +941,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -975,7 +975,7 @@
                 "episode": 3,
                 "episodeid": 702,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 2/Heroes.S02E03.Verwandte.Seelen.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 2/Heroes.S02E03.Verwandte.Seelen.avi",
                 "firstaired": "2007-10-08",
                 "label": "2x03. Kindred",
                 "lastplayed": "",
@@ -1056,13 +1056,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -1086,13 +1086,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -1116,7 +1116,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -1188,7 +1188,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -1221,7 +1221,7 @@
                 "episode": 4,
                 "episodeid": 703,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 2/Heroes.S02E04.Der.Trost.von.Fremden.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 2/Heroes.S02E04.Der.Trost.von.Fremden.avi",
                 "firstaired": "2007-10-15",
                 "label": "2x04. The Kindness of Strangers",
                 "lastplayed": "",
@@ -1291,13 +1291,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -1321,13 +1321,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -1351,7 +1351,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -1423,7 +1423,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -1456,7 +1456,7 @@
                 "episode": 5,
                 "episodeid": 704,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 2/Heroes.S02E05.Kampf.oder.Flucht.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 2/Heroes.S02E05.Kampf.oder.Flucht.avi",
                 "firstaired": "2007-10-22",
                 "label": "2x05. Fight or Flight",
                 "lastplayed": "",
@@ -1523,13 +1523,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -1553,13 +1553,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -1583,7 +1583,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -1655,7 +1655,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -1688,7 +1688,7 @@
                 "episode": 6,
                 "episodeid": 705,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 2/Heroes.S02E06.Grenzen.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 2/Heroes.S02E06.Grenzen.avi",
                 "firstaired": "2007-10-29",
                 "label": "2x06. The Line",
                 "lastplayed": "",
@@ -1760,13 +1760,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -1790,13 +1790,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -1820,7 +1820,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -1892,7 +1892,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -1925,7 +1925,7 @@
                 "episode": 7,
                 "episodeid": 706,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 2/Heroes.S02E07.Zeitenwanderer.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 2/Heroes.S02E07.Zeitenwanderer.avi",
                 "firstaired": "2007-11-05",
                 "label": "2x07. Out of Time",
                 "lastplayed": "",
@@ -1979,13 +1979,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -2009,13 +2009,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -2039,7 +2039,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -2111,7 +2111,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -2144,7 +2144,7 @@
                 "episode": 8,
                 "episodeid": 707,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 2/Heroes.S02E08.Vier.Monate.zuvor.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 2/Heroes.S02E08.Vier.Monate.zuvor.avi",
                 "firstaired": "2007-11-12",
                 "label": "2x08. Four Months Ago...",
                 "lastplayed": "",
@@ -2193,13 +2193,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -2223,13 +2223,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -2253,7 +2253,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -2325,7 +2325,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -2358,7 +2358,7 @@
                 "episode": 9,
                 "episodeid": 708,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 2/Heroes.S02E09.Lektionen.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 2/Heroes.S02E09.Lektionen.avi",
                 "firstaired": "2007-11-19",
                 "label": "2x09. Cautionary Tales",
                 "lastplayed": "",
@@ -2437,13 +2437,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -2467,13 +2467,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -2497,7 +2497,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -2569,7 +2569,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -2602,7 +2602,7 @@
                 "episode": 10,
                 "episodeid": 709,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 2/Heroes.S02E10.Im Bund mit dem Bösen.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 2/Heroes.S02E10.Im Bund mit dem Bösen.avi",
                 "firstaired": "2007-11-26",
                 "label": "2x10. Truth & Consequences",
                 "lastplayed": "",
@@ -2656,13 +2656,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -2686,13 +2686,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -2716,7 +2716,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -2788,7 +2788,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -2821,7 +2821,7 @@
                 "episode": 11,
                 "episodeid": 710,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 2/Heroes.S02E11.Machtlos.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 2/Heroes.S02E11.Machtlos.avi",
                 "firstaired": "2007-12-03",
                 "label": "2x11. Powerless",
                 "lastplayed": "",
@@ -2883,13 +2883,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -2913,13 +2913,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -2943,7 +2943,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -3015,7 +3015,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -3048,7 +3048,7 @@
                 "episode": 1,
                 "episodeid": 711,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E01.Die.Wiederkunft.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E01.Die.Wiederkunft.avi",
                 "firstaired": "2008-09-22",
                 "label": "3x01. The Second Coming",
                 "lastplayed": "",
@@ -3091,7 +3091,8 @@
                     {
                         "name": "Brea Grant",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Kristen Bell",
@@ -3108,13 +3109,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -3138,13 +3139,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -3162,7 +3163,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -3234,7 +3235,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -3267,7 +3268,7 @@
                 "episode": 2,
                 "episodeid": 712,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E02.Der.Schmetterlingseffekt.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E02.Der.Schmetterlingseffekt.avi",
                 "firstaired": "2008-09-22",
                 "label": "3x02. The Butterfly Effect",
                 "lastplayed": "",
@@ -3330,7 +3331,8 @@
                     {
                         "name": "Brea Grant",
                         "order": 4,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Jimmy Jean-Louis",
@@ -3353,13 +3355,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -3383,13 +3385,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -3407,7 +3409,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -3479,7 +3481,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -3512,7 +3514,7 @@
                 "episode": 3,
                 "episodeid": 713,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E03.Einer.von.uns.einer.von.ihnen.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E03.Einer.von.uns.einer.von.ihnen.avi",
                 "firstaired": "2008-09-29",
                 "label": "3x03. One of Us, One of Them",
                 "lastplayed": "",
@@ -3556,7 +3558,7 @@
                         "name": "Malcolm McDowell",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -3572,7 +3574,8 @@
                     {
                         "name": "Brea Grant",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Randall Bentley",
@@ -3600,13 +3603,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -3630,7 +3633,7 @@
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -3654,7 +3657,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "Dana Davis",
@@ -3720,7 +3723,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -3747,7 +3750,7 @@
                 "episode": 4,
                 "episodeid": 714,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E04.Tödlicher.Hunger.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E04.Tödlicher.Hunger.avi",
                 "firstaired": "2008-10-06",
                 "label": "3x04. I Am Become Death",
                 "lastplayed": "",
@@ -3801,7 +3804,8 @@
                     {
                         "name": "Brea Grant",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Jaime Hector",
@@ -3812,7 +3816,7 @@
                         "name": "Malcolm McDowell",
                         "order": 4,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Alan Blumenfeld",
@@ -3835,13 +3839,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -3865,7 +3869,7 @@
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -3889,7 +3893,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "Dana Davis",
@@ -3955,7 +3959,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -3982,7 +3986,7 @@
                 "episode": 5,
                 "episodeid": 715,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E05.Engel.und.Monster.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E05.Engel.und.Monster.avi",
                 "firstaired": "2008-10-13",
                 "label": "3x05. Angels and Monsters",
                 "lastplayed": "",
@@ -4038,7 +4042,7 @@
                         "name": "Robert Forster",
                         "order": 2,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Blake Shields",
@@ -4049,13 +4053,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -4079,13 +4083,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -4109,7 +4113,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "Dana Davis",
@@ -4175,7 +4179,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -4208,7 +4212,7 @@
                 "episode": 6,
                 "episodeid": 716,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E06.Marionetten.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E06.Marionetten.avi",
                 "firstaired": "2008-10-20",
                 "label": "3x06. Dying of the Light",
                 "lastplayed": "",
@@ -4268,7 +4272,8 @@
                     {
                         "name": "Brea Grant",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Jamie Hector",
@@ -4285,7 +4290,7 @@
                         "name": "Robert Forster",
                         "order": 6,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Kristen Bell",
@@ -4297,13 +4302,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -4327,13 +4332,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -4351,7 +4356,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -4423,7 +4428,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -4450,7 +4455,7 @@
                 "episode": 7,
                 "episodeid": 717,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E07.Eris.quod.Sum.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E07.Eris.quod.Sum.avi",
                 "firstaired": "2008-10-27",
                 "label": "3x07. Eris Quod Sum",
                 "lastplayed": "",
@@ -4494,13 +4499,13 @@
                         "name": "Robert Forster",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Eric Roberts",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Kristen Bell",
@@ -4524,7 +4529,7 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ntare Guma Mbaho Mwine",
@@ -4540,13 +4545,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -4570,7 +4575,7 @@
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -4582,7 +4587,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -4681,7 +4686,7 @@
                 "episode": 8,
                 "episodeid": 718,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E08.Schurken.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E08.Schurken.avi",
                 "firstaired": "2008-11-10",
                 "label": "3x08. Villains",
                 "lastplayed": "",
@@ -4731,7 +4736,7 @@
                         "name": "Robert Forster",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Kristen Bell",
@@ -4742,7 +4747,8 @@
                     {
                         "name": "Brea Grant",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Ntare Guma Mbaho Mwine",
@@ -4753,13 +4759,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -4783,13 +4789,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -4807,7 +4813,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -4879,7 +4885,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -4912,7 +4918,7 @@
                 "episode": 9,
                 "episodeid": 719,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E09.Zeit.der.Schatten.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E09.Zeit.der.Schatten.avi",
                 "firstaired": "2008-11-17",
                 "label": "3x09. It's Coming",
                 "lastplayed": "",
@@ -4972,7 +4978,8 @@
                     {
                         "name": "Brea Grant",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Jamie Hector",
@@ -4989,7 +4996,7 @@
                         "name": "Robert Forster",
                         "order": 6,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jimmy Jean-Louis",
@@ -5001,13 +5008,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -5031,13 +5038,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -5049,7 +5056,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -5121,7 +5128,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -5154,7 +5161,7 @@
                 "episode": 10,
                 "episodeid": 720,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E10.Die.Sonnenfinsternis-Teil.1.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E10.Die.Sonnenfinsternis-Teil.1.avi",
                 "firstaired": "2008-11-24",
                 "label": "3x10. The Eclipse (1)",
                 "lastplayed": "",
@@ -5236,19 +5243,20 @@
                     {
                         "name": "Brea Grant",
                         "order": 7,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -5272,13 +5280,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -5290,7 +5298,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -5362,7 +5370,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -5395,7 +5403,7 @@
                 "episode": 11,
                 "episodeid": 721,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E11.Die.Sonnenfinsternis-Teil.1.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E11.Die.Sonnenfinsternis-Teil.1.avi",
                 "firstaired": "2008-12-01",
                 "label": "3x11. The Eclipse (2)",
                 "lastplayed": "",
@@ -5461,7 +5469,8 @@
                     {
                         "name": "Brea Grant",
                         "order": 4,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Seth Green",
@@ -5477,13 +5486,14 @@
                     {
                         "name": "Tamlyn Tomita",
                         "order": 7,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iX6zGWXFWLdUnxaVebXGzXXwgft.jpg"
                     },
                     {
                         "name": "Robert Forster",
                         "order": 8,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "George Takei",
@@ -5512,13 +5522,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -5542,13 +5552,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -5560,7 +5570,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -5632,7 +5642,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -5659,7 +5669,7 @@
                 "episode": 12,
                 "episodeid": 722,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E12.Vater.unser.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E12.Vater.unser.avi",
                 "firstaired": "2008-12-08",
                 "label": "3x12. Our Father",
                 "lastplayed": "",
@@ -5730,13 +5740,14 @@
                     {
                         "name": "Brea Grant",
                         "order": 5,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Robert Forster",
                         "order": 6,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "George Takei",
@@ -5763,13 +5774,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -5793,13 +5804,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -5823,7 +5834,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -5895,7 +5906,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -5928,7 +5939,7 @@
                 "episode": 13,
                 "episodeid": 723,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E13.Feuer.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E13.Feuer.avi",
                 "firstaired": "2008-12-15",
                 "label": "3x13. Dual",
                 "lastplayed": "",
@@ -5981,19 +5992,20 @@
                     {
                         "name": "Brea Grant",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -6017,13 +6029,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -6047,7 +6059,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -6119,7 +6131,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -6152,7 +6164,7 @@
                 "episode": 14,
                 "episodeid": 724,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E14.Unmittelbare.Gefahr.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E14.Unmittelbare.Gefahr.avi",
                 "firstaired": "2009-02-02",
                 "label": "3x14. A Clear and Present Danger",
                 "lastplayed": "",
@@ -6206,7 +6218,8 @@
                     {
                         "name": "Brea Grant",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Ashley Crow",
@@ -6223,13 +6236,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -6253,13 +6266,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -6283,7 +6296,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -6355,7 +6368,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -6382,7 +6395,7 @@
                 "episode": 15,
                 "episodeid": 725,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E15.Blut.und.Vertrauen.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E15.Blut.und.Vertrauen.avi",
                 "firstaired": "2009-02-09",
                 "label": "3x15. Trust and Blood",
                 "lastplayed": "",
@@ -6463,13 +6476,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -6493,13 +6506,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -6523,7 +6536,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -6595,7 +6608,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -6622,7 +6635,7 @@
                 "episode": 16,
                 "episodeid": 726,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E16.Gebäude.26.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E16.Gebäude.26.avi",
                 "firstaired": "2009-02-16",
                 "label": "3x16. Building 26",
                 "lastplayed": "",
@@ -6676,7 +6689,8 @@
                     {
                         "name": "Brea Grant",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "David H. Lawrence XVII",
@@ -6713,13 +6727,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -6743,13 +6757,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -6773,7 +6787,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -6845,7 +6859,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -6872,7 +6886,7 @@
                 "episode": 17,
                 "episodeid": 727,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E17.Kalter.Krieg.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E17.Kalter.Krieg.avi",
                 "firstaired": "2009-02-23",
                 "label": "3x17. Cold Wars",
                 "lastplayed": "",
@@ -7000,13 +7014,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -7030,13 +7044,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -7060,7 +7074,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -7132,7 +7146,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -7159,7 +7173,7 @@
                 "episode": 18,
                 "episodeid": 728,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E18.Bloßgestellt.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E18.Bloßgestellt.avi",
                 "firstaired": "2009-03-02",
                 "label": "3x18. Exposed",
                 "lastplayed": "",
@@ -7251,13 +7265,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -7281,13 +7295,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -7311,7 +7325,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -7383,7 +7397,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -7410,7 +7424,7 @@
                 "episode": 19,
                 "episodeid": 729,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E19.Wurzel.des.Bösen.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E19.Wurzel.des.Bösen.avi",
                 "firstaired": "2009-03-09",
                 "label": "3x19. Shades of Gray",
                 "lastplayed": "",
@@ -7463,7 +7477,8 @@
                     {
                         "name": "Brea Grant",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oa6i5753PMFESeZ7W05Fw7AW8eo.jpg"
                     },
                     {
                         "name": "Zeljko Ivanek",
@@ -7479,13 +7494,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -7509,13 +7524,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -7539,7 +7554,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -7611,7 +7626,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -7644,7 +7659,7 @@
                 "episode": 20,
                 "episodeid": 730,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E20.Hauch.des.Todes.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E20.Hauch.des.Todes.avi",
                 "firstaired": "2009-03-23",
                 "label": "3x20. Cold Snap",
                 "lastplayed": "",
@@ -7693,7 +7708,8 @@
                     {
                         "name": "Jake McLaughlin",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ocDxrwFDqbDmkpmgXpwpwdSzl7T.jpg"
                     },
                     {
                         "name": "Zeljko Ivanek",
@@ -7704,13 +7720,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -7734,13 +7750,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -7764,7 +7780,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -7836,7 +7852,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -7869,7 +7885,7 @@
                 "episode": 21,
                 "episodeid": 731,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E21.Zuflucht.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E21.Zuflucht.avi",
                 "firstaired": "2009-03-30",
                 "label": "3x21. Into Asylum",
                 "lastplayed": "",
@@ -7934,13 +7950,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -7964,13 +7980,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -7994,7 +8010,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -8066,7 +8082,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -8099,7 +8115,7 @@
                 "episode": 22,
                 "episodeid": 732,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E22.Verwandlungen.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E22.Verwandlungen.avi",
                 "firstaired": "2009-04-06",
                 "label": "3x22. Turn and Face the Strange",
                 "lastplayed": "",
@@ -8189,13 +8205,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -8219,13 +8235,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -8249,7 +8265,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -8321,7 +8337,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -8354,7 +8370,7 @@
                 "episode": 23,
                 "episodeid": 733,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E23.1961.German.DL.WS.DVDRip.XviD-TVS.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E23.1961.German.DL.WS.DVDRip.XviD-TVS.avi",
                 "firstaired": "2009-04-13",
                 "label": "3x23. 1961",
                 "lastplayed": "",
@@ -8419,13 +8435,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -8449,13 +8465,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -8479,7 +8495,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -8551,7 +8567,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -8584,7 +8600,7 @@
                 "episode": 24,
                 "episodeid": 734,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E24.Ich.bin.Sylar.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E24.Ich.bin.Sylar.avi",
                 "firstaired": "2009-04-20",
                 "label": "3x24. I Am Sylar",
                 "lastplayed": "",
@@ -8650,13 +8666,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -8680,13 +8696,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -8710,7 +8726,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -8782,7 +8798,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -8815,7 +8831,7 @@
                 "episode": 25,
                 "episodeid": 735,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 3/Heroes.S03E25.Unsichtbare.Bedrohung.German.DL.WS.DVDRip.XviD-TVS.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 3/Heroes.S03E25.Unsichtbare.Bedrohung.German.DL.WS.DVDRip.XviD-TVS.avi",
                 "firstaired": "2009-04-27",
                 "label": "3x25. An Invisible Thread",
                 "lastplayed": "",
@@ -8870,7 +8886,8 @@
                     {
                         "name": "Ray Park",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wfaFcFbtjX9MbuGl4AiijSzXazd.jpg"
                     },
                     {
                         "name": "Dawn Olivieri",
@@ -8892,13 +8909,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -8922,13 +8939,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -8952,7 +8969,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -9024,7 +9041,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -9057,7 +9074,7 @@
                 "episode": 1,
                 "episodeid": 736,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E01-02.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E01-02.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
                 "firstaired": "2009-09-21",
                 "label": "4x01. Orientation",
                 "lastplayed": "",
@@ -9110,7 +9127,8 @@
                     {
                         "name": "Ray Park",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wfaFcFbtjX9MbuGl4AiijSzXazd.jpg"
                     },
                     {
                         "name": "Dawn Olivieri",
@@ -9153,13 +9171,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -9183,13 +9201,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -9213,7 +9231,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -9285,7 +9303,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -9318,7 +9336,7 @@
                 "episode": 2,
                 "episodeid": 737,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E01-02.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E01-02.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
                 "firstaired": "2009-09-21",
                 "label": "4x02. Jump, Push, Fall",
                 "lastplayed": "",
@@ -9367,7 +9385,8 @@
                     {
                         "name": "Ray Park",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wfaFcFbtjX9MbuGl4AiijSzXazd.jpg"
                     },
                     {
                         "name": "Dawn Olivieri",
@@ -9399,13 +9418,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -9429,13 +9448,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -9459,7 +9478,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -9531,7 +9550,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -9564,7 +9583,7 @@
                 "episode": 4,
                 "episodeid": 738,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E04.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E04.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
                 "firstaired": "2009-10-05",
                 "label": "4x04. Acceptance",
                 "lastplayed": "",
@@ -9617,7 +9636,8 @@
                     {
                         "name": "Ray Park",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wfaFcFbtjX9MbuGl4AiijSzXazd.jpg"
                     },
                     {
                         "name": "Dawn Olivieri",
@@ -9648,7 +9668,8 @@
                     {
                         "name": "Ernie Hudson",
                         "order": 8,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wrMGBA4eNTUj2ympGsxaqcRpHBS.jpg"
                     },
                     {
                         "name": "Jack Wallace",
@@ -9664,13 +9685,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -9694,13 +9715,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -9724,7 +9745,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -9796,7 +9817,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -9829,7 +9850,7 @@
                 "episode": 5,
                 "episodeid": 739,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E05.German.Dubbed.HDTV.XviD-ITG.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E05.German.Dubbed.HDTV.XviD-ITG.avi",
                 "firstaired": "2009-10-12",
                 "label": "4x05. Hysterical Blindness",
                 "lastplayed": "",
@@ -9882,7 +9903,8 @@
                     {
                         "name": "Ray Park",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wfaFcFbtjX9MbuGl4AiijSzXazd.jpg"
                     },
                     {
                         "name": "Dawn Olivieri",
@@ -9908,19 +9930,20 @@
                     {
                         "name": "Ernie Hudson",
                         "order": 7,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wrMGBA4eNTUj2ympGsxaqcRpHBS.jpg"
                     },
                     {
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -9944,13 +9967,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -9974,7 +9997,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -10046,7 +10069,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -10074,7 +10097,7 @@
                 "episode": 6,
                 "episodeid": 740,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E06.German.Dubbed.DVDRip.XviD-MiRAMAX.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E06.German.Dubbed.DVDRip.XviD-MiRAMAX.avi",
                 "firstaired": "2009-10-19",
                 "label": "4x06. Tabula Rasa",
                 "lastplayed": "",
@@ -10199,13 +10222,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -10229,13 +10252,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -10259,7 +10282,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -10331,7 +10354,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -10364,7 +10387,7 @@
                 "episode": 7,
                 "episodeid": 741,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E07.German.Dubbed.DVDRip.READNFO.XviD-MiRAMAX.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E07.German.Dubbed.DVDRip.READNFO.XviD-MiRAMAX.avi",
                 "firstaired": "2009-10-26",
                 "label": "4x07. Strange Attractors",
                 "lastplayed": "",
@@ -10455,13 +10478,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -10485,13 +10508,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -10515,7 +10538,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -10581,7 +10604,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -10609,7 +10632,7 @@
                 "episode": 8,
                 "episodeid": 742,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E08.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E08.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
                 "firstaired": "2009-11-02",
                 "label": "4x08. Once Upon a Time in Texas",
                 "lastplayed": "",
@@ -10751,13 +10774,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -10781,13 +10804,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -10811,7 +10834,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -10883,7 +10906,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -10916,7 +10939,7 @@
                 "episode": 9,
                 "episodeid": 743,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E09.Shadowboxing.German.Dubbed.BDRip.REPACK.XviD-MiRAMAX.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E09.Shadowboxing.German.Dubbed.BDRip.REPACK.XviD-MiRAMAX.avi",
                 "firstaired": "2009-11-09",
                 "label": "4x09. Shadowboxing",
                 "lastplayed": "",
@@ -10992,13 +11015,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -11022,13 +11045,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -11046,7 +11069,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -11118,7 +11141,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -11151,7 +11174,7 @@
                 "episode": 10,
                 "episodeid": 744,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E10.German.Dubbed.BDRip.XviD-ITG.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E10.German.Dubbed.BDRip.XviD-ITG.avi",
                 "firstaired": "2009-11-16",
                 "label": "4x10. Brother's Keeper",
                 "lastplayed": "",
@@ -11200,7 +11223,8 @@
                     {
                         "name": "Ray Park",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wfaFcFbtjX9MbuGl4AiijSzXazd.jpg"
                     },
                     {
                         "name": "Dawn Olivieri",
@@ -11243,13 +11267,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -11273,13 +11297,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -11303,7 +11327,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -11375,7 +11399,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -11408,7 +11432,7 @@
                 "episode": 11,
                 "episodeid": 745,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E11.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E11.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
                 "firstaired": "2009-11-23",
                 "label": "4x11. Thanksgiving",
                 "lastplayed": "",
@@ -11500,13 +11524,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -11530,13 +11554,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -11560,7 +11584,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -11632,7 +11656,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -11665,7 +11689,7 @@
                 "episode": 13,
                 "episodeid": 746,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E13.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E13.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
                 "firstaired": "2010-01-04",
                 "label": "4x13. Upon This Rock",
                 "lastplayed": "",
@@ -11708,7 +11732,8 @@
                     {
                         "name": "Ray Park",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wfaFcFbtjX9MbuGl4AiijSzXazd.jpg"
                     },
                     {
                         "name": "Dawn Olivieri",
@@ -11755,13 +11780,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -11785,13 +11810,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -11815,7 +11840,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -11887,7 +11912,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -11920,7 +11945,7 @@
                 "episode": 14,
                 "episodeid": 747,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E14.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E14.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
                 "firstaired": "2010-01-04",
                 "label": "4x14. Let it Bleed",
                 "lastplayed": "",
@@ -12001,13 +12026,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -12031,13 +12056,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -12061,7 +12086,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "David Anders",
@@ -12133,7 +12158,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -12166,7 +12191,7 @@
                 "episode": 15,
                 "episodeid": 748,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E15.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E15.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
                 "firstaired": "2010-01-11",
                 "label": "4x15. Close To You",
                 "lastplayed": "",
@@ -12230,7 +12255,8 @@
                     {
                         "name": "Tamlyn Tomita",
                         "order": 4,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iX6zGWXFWLdUnxaVebXGzXXwgft.jpg"
                     },
                     {
                         "name": "Danielle Savre",
@@ -12288,13 +12314,13 @@
                         "name": "Hayden Panettiere",
                         "order": 0,
                         "role": "Claire Bennet",
-                        "thumbnail": "http://thetvdb.com/banners/actors/71339.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/14qZLXI0Py3nfSyiXTQVOEu65i3.jpg"
                     },
                     {
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Peter Petrelli",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Zachary Quinto",
@@ -12318,13 +12344,13 @@
                         "name": "Malcolm McDowell",
                         "order": 5,
                         "role": "Linderman",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78590.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/AalAO1Do9egUr07klE78PWw6Hyq.jpg"
                     },
                     {
                         "name": "Ali Larter",
                         "order": 6,
                         "role": "Tracy Strauss | Nicole \"Niki\" Sanders | Jessica Sanders",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78588.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4MVvnnOcZYb7rxfZQnK2EPDhokW.jpg"
                     },
                     {
                         "name": "Jack Coleman",
@@ -12348,7 +12374,7 @@
                         "name": "Dania Ramirez",
                         "order": 10,
                         "role": "Maya Herrera",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77763.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/r07yPtTqrjwKQORyzpCpD6OVXFp.jpg"
                     },
                     {
                         "name": "Dana Davis",
@@ -12414,7 +12440,7 @@
                         "name": "Eric Roberts",
                         "order": 22,
                         "role": "Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/217481.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
                     },
                     {
                         "name": "Stephen Tobolowsky",
@@ -12447,7 +12473,7 @@
                 "episode": 16,
                 "episodeid": 749,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79501-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Heroes/Season 4/Heroes.S04E16.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
+                "file": "smb://Ext/Media/Serien/Heroes/Season 4/Heroes.S04E16.German.Dubbed.BDRip.XviD-MiRAMAX.avi",
                 "firstaired": "2010-01-18",
                 "label": "4x16. Pass/Fail",
                 "lastplayed": "",

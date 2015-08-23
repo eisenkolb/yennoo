@@ -8,14 +8,14 @@
 
 <div id="media-detail" class="large-12 columns">
     <div id="media-description" class="movie small-12 large-offset-1 large-10 columns left">
-        <div class="large-12 columns">
-            <div class="columns">
-                <div class="show-for-medium-up">
-                    <div id="cover-cointainer" class="poster cover" style="background-image: url('./assets/img/media.cover.edges.png');">
-                        <img class="animated slideInUp width-280" src="./assets/img/media.cover.edges.png" onready="relpaceimage" data-image="media.poster" ng-if="media" />
-                    </div>
+        <div class="large-12">
+            <!-- Media cover / starts -->
+            <div class="show-for-medium-up columns">
+                <div id="cover-cointainer" class="poster cover" style="background-image: url('./assets/img/media.cover.edges.png');">
+                    <img class="animated slideInUp width-280" src="./assets/img/media.cover.edges.png" onready="relpaceimage" data-image="media.poster" ng-if="media" />
                 </div>
             </div>
+            <!-- Media cover /  ends  -->
 
             <!-- Media title in header / starts -->
             <div class="large-title row show-for-large-up column">
@@ -23,7 +23,7 @@
                     <div class="large-12 columns row">{{media.originaltitle}}</div>
                 </div>
                 <div class="title">
-                    <h1 class="left truncate truncate-85">{{media.title}}</h1>
+                    <h1 class="normal left truncate truncate-85">{{media.title}}</h1>
                     <small ng-if="media.year" class="year left">({{media.year}})</small>
                 </div>
 
@@ -47,7 +47,7 @@
                     <div class="poster cover show-for-small">
                         <img class="animated slideInUp width-280" ng-if="media" data-image="media.poster" onready="relpaceimage" src="./assets/img/media.cover.edges.png" style="margin-top:50px;" />
                     </div>
-                    <p class="plot" ng-if="media.plot">{{media.plot}}</p>
+                    <p class="plot normal" ng-if="media.plot">{{media.plot}}</p>
                     <!-- Media plot with poster /  ends  -->
 
                     <!-- Media action list / starts -->
@@ -202,12 +202,10 @@
                                 </table>
                             </div>
 
+                            <hr class="show-for-small" />
+
                             <div class="small-12 medium-6 large-6 left">
                                 <table>
-                                    <tr ng-repeat="name in ['tagline']" ng-if="media[name]">
-                                        <td>{{"PROPERTY."+ name.toUpperCase() | translate}}</td>
-                                        <td>{{media[name]}}</td>
-                                    </tr>
                                     <tr ng-if="media.duration && media.duration.time">
                                         <td>{{"PROPERTY.DURATION" | translate}}</td>
                                         <td>
@@ -245,6 +243,10 @@
                                         <td>
                                             <a href="{{route.movies}}/filter/lastplayed/{{media.lastplayed.split(' ')[0]}}">{{media.time.lastplayed.toLocaleFormat()}}</a>
                                         </td>
+                                    </tr>
+                                    <tr ng-repeat="name in ['tagline']" ng-if="media[name]">
+                                        <td>{{"PROPERTY."+ name.toUpperCase() | translate}}</td>
+                                        <td>{{media[name]}}</td>
                                     </tr>
                                 </table>
                             </div>

@@ -3,7 +3,7 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-            "poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+            "poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
         },
         "cast": [
             {
@@ -63,7 +63,7 @@
         "episode": 13,
         "episodeguide": "<episodeguide><url cache=\"71278-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/71278/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/",
+        "file": "smb://Ext/Media/Serien/Hellsing/",
         "genre": [
             "Action",
             "Animation",
@@ -72,10 +72,10 @@
         ],
         "imdbnumber": "71278",
         "label": "Hellsing",
-        "lastplayed": "",
+        "lastplayed": "2015-08-22 19:38:43",
         "mpaa": "TV-14",
         "originaltitle": "",
-        "playcount": 0,
+        "playcount": 1,
         "plot": "Vampires exist. It is the duty of Hellsing, an organization sponsored by the British government, to hide that frightening fact and protect the blissfully unaware populace. Along with its own personal army, Hellsing also has a few secret weapons. Alucard, an incredibly powerful vampire, has been controlled by Hellsing for years. Although he dislikes being a servant to the Hellsing family, he certainly enjoys his job as Hellsing’s vampire exterminator. Seras is a fledgling vampire and a former police woman. Although reluctant to embrace her new self, she is still a valuable member of the organization. Integra Hellsing, the current leader, is usually fully capable of fulfilling her duty, but lately, vampire activity has been on the rise. Unfortunately, the cause is more alarming than anything she could have imagined...",
         "premiered": "2001-10-04",
         "rating": 7.800000190734863,
@@ -85,11 +85,11 @@
             "Fuji TV"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/71278-4.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/71278-5.jpg",
         "title": "Hellsing",
         "tvshowid": 41,
         "votes": "65",
-        "watchedepisodes": 0,
+        "watchedepisodes": 13,
         "year": 2001
     },
     "episodes": {
@@ -99,7 +99,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41162.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -163,12 +163,12 @@
                 "episode": 1,
                 "episodeid": 674,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E01.The.Undead.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E01.The.Undead.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-04",
                 "label": "1x01. The Undead",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Integra Hellsing takes command of a small Hellsing unit in Cheddar after reports of people in the village going missing by a seemingly normal priest reaches the authorities. After D11 teams were deployed to investigate with several deaths, Alucard is deployed. Seras Victoria, a female D11 operator, is fighting her ex-D11 colleagues that turned into zombies after getting into a previous fight with ghouls. Alucard eliminates the ghouls and the priest, who was the vampire, when Seras was wounded in the gunfight. Alucard turns her into a vampire after he bites her neck to save her life.",
                 "productioncode": "",
                 "rating": 8.5,
@@ -198,7 +198,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41163.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -262,12 +262,12 @@
                 "episode": 2,
                 "episodeid": 675,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E02.Club.M.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E02.Club.M.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-04",
                 "label": "1x02. Club M",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Seras' new life in the Hellsing organization is a bit tough. Having been counted as 'lost' at the Cheddar incident, she now serves for a group dedicated to the eradication of vampires. Though she seems to have trouble adjusting, many are tolerant of her, and her new life, though the tolerance only goes so far. And she'll soon have a chance to prove herself, when a new threat is discovered, in the form of Rafe and Jessica.\r\nThe two lovers are having a lot of fun! Killing families, using their blood to write obscenities and blasphemy on the wall - it's all good fun. That is, until their actions catch the eye of Hellsing, and particularly Arucard, who has no tolerance for the 'low-class' vampires. Seras' chance to prove herself becomes apparent when she's ordered to shoot Jessica, though she hesitates - Jessica's only a young girl. Would killing her make her any better, or make her worse than the monsters Hellsing hunts?",
                 "productioncode": "",
                 "rating": 8,
@@ -297,7 +297,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41164.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -361,12 +361,12 @@
                 "episode": 3,
                 "episodeid": 676,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E03.Sword.Dancer.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E03.Sword.Dancer.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-04",
                 "label": "1x03. Sword Dancer",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Something odd is happening - vampires seem to be growing in number. And when an Italian college student is found to have a computer chip, which has apparently made him into an 'artificial' vampire, it raises more than a few eyebrows. Even though the chip is removed, the student revives, killing many on his search for his lover, who he was caught in the act of making one of his own. Hellsing moves to put a stop to this, but there seems to be more than one person interested in the boy.\r\nHellsing's agents are killed, and Seras is severely wounded. Not by the student, but by a man called Alexander Anderson, a member of the Vatican's section 13 - the Iscariot organization. Though having the same mission as Hellsing, the two organizations are sworn enemies, and when Arucard shows up, a heated battle takes place. One would think a human would be no match for the likes of a vampire, Anderson proves to have more than one trick up his sleeve.",
                 "productioncode": "",
                 "rating": 8.199999809265137,
@@ -396,7 +396,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41165.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -460,12 +460,12 @@
                 "episode": 4,
                 "episodeid": 677,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E04.Innocent.As.A.Human.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E04.Innocent.As.A.Human.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-11",
                 "label": "1x04. Innocent as a Human",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "The Hellsing Organization sets out to investigate a series of \"\"snuff films\"\" floating about the Internet, after footage of one of their own being killed begins to make the rounds. Meanwhile, Seras deploys with her unit, now under the command of a former SAS officer who seem to have a particularly distasteful attitude towards her, to silence an apartment building crawling with ghouls. As the raid unfolds, the secrecy surrounding the very existence of the Hellsing Organization is thrown in jeopardy when a mole broadcasts footage of the assault on live television.\r\nSeeking answers, Seras sets out on her own to investigate the scene of the previous night's raid for clues about what transpired. During her investigation, she manages to uncover clues about the origin of the snuff films and goes to put a stop to it. Seras isn't the only one on the trail, as Arucard and the Hellsing Organization are also on the scene to attend to the vicious vampire behind the camera, and the TV investigative rep",
                 "productioncode": "",
                 "rating": 8.199999809265137,
@@ -495,7 +495,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41166.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -559,12 +559,12 @@
                 "episode": 5,
                 "episodeid": 678,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E05.Brotherhood.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E05.Brotherhood.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-11",
                 "label": "1x05. Brotherhood",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Seras is still having a hard time dealing with the fact that she's a vampire, but is slowly adapting. However, the real bad news is the violent and crazy Valentine Brothers who decide to take out the Hellsing crew once and for all by means of infiltrating their headquarters with their Ghoul Army.",
                 "productioncode": "",
                 "rating": 8.300000190734863,
@@ -594,7 +594,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41167.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -658,12 +658,12 @@
                 "episode": 6,
                 "episodeid": 679,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E06.Dead.Zone.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E06.Dead.Zone.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-11",
                 "label": "1x06. Dead Zone",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Picking up where Brotherhood left off. Luke and Jan, the Valentine Brothers, lay siege to the headquarters of the Hellsing organization, the Royal Order of Religious Knights. After numerous humans have been killed and eaten by an army of ghouls, Victoria, Walter, and Arucard finally get around to striking back. Victoria and Walter eliminate hundreds of ghouls with a combination of deadly threads and heavy artillery. The lead flies when Arucard and Luke face off, but Luke is devoured by a canine monster Arucard summons up. Jan sets himself afire rather than reveal the mastermind of their plot to Sir Integra Hellsing.",
                 "productioncode": "",
                 "rating": 8.600000381469727,
@@ -693,7 +693,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41168.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -757,12 +757,12 @@
                 "episode": 7,
                 "episodeid": 680,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E07.Duel.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E07.Duel.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-18",
                 "label": "1x07. Duel",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "More than half of the members of the Royal Order of Religious Knights were massacred due to the last attack on them that was conducted by the Valentine Brothers. Sir Integra Hellsing, Arucard, and Seras must now hunt down the perpetrators. The suspects include the Vatican's Iscariot Organization. Arucard must do battle once again with the notorious Alexander Anderson.",
                 "productioncode": "",
                 "rating": 8.300000190734863,
@@ -792,7 +792,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41169.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -856,12 +856,12 @@
                 "episode": 8,
                 "episodeid": 681,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E08.Kill.House.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E08.Kill.House.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-18",
                 "label": "1x08. Kill House",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Victoria learns more about whoever is making the \"artificial vampirization catalyst semiconductor\" or \"freak chips\" that turn humans into second-class ghouls.",
                 "productioncode": "",
                 "rating": 7.400000095367432,
@@ -891,7 +891,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41170.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -955,12 +955,12 @@
                 "episode": 9,
                 "episodeid": 682,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E09.Red.Rose.Vertigo.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E09.Red.Rose.Vertigo.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-18",
                 "label": "1x09. Red Rose Vertigo",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Alucard meets a new enemy. that could be more powerful than he. An original undead, Incognito. And things take a drastic turn for the worst when Sir Integra's life is in jeopardy.",
                 "productioncode": "",
                 "rating": 8.300000190734863,
@@ -990,7 +990,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41171.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -1054,12 +1054,12 @@
                 "episode": 10,
                 "episodeid": 683,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E10.Master.of.Monster.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E10.Master.of.Monster.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-25",
                 "label": "1x10. Master of Monster",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Almost commiting suicide, Integra is being operated on to save her life.  While the operation is going on, we see the history of Integra's ascension to power.  We learn that her uncle tried to take her father's place as head of the Hellsing organization, and in attempt to assume power, tried to kill off Integra while Walter was away (presumably on duty).  Integra recalls her father's words of her going to a prison cell on the bottom floor if she ever found herself in a moment of insurmountable peril.  There she finds Arucard, while at the same time found and attacked by her uncle and associates.  After being shot in the shoulder, her blood awakens Arucard, who quickly takes care of her uncle's goons, and recognizes her as her father's successor.  As her first encounter with Arucard concludes, she awakens from her state to find that the operation was a success... Walter has already set up her afternoon tea for her.",
                 "productioncode": "",
                 "rating": 8.300000190734863,
@@ -1089,7 +1089,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41172.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -1153,12 +1153,12 @@
                 "episode": 11,
                 "episodeid": 684,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E11.Transcend.Force.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E11.Transcend.Force.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-25",
                 "label": "1x11. Transcend Force",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "With the freak problems getting much worse, the Royal Knights arrange a meeting at Westminster with Integra to discuss the matter.  In addition, the Queen will be meeting with them so they can conduct a ceremony with Integra.  Because of the danger that the freaks may pose, the media is told that the meeting will take place at the Tower of London while in truth Integra's ritual is at the Hellsing castle.  What is at the tower are Fargason and his men waiting for the freaks.  However, it is they who are being waited on as Incognito and his freaks attack the tower.  While waiting for the Queen, Alucard butts in and says that her queen isn't coming and heads off to fight.",
                 "productioncode": "",
                 "rating": 8.300000190734863,
@@ -1188,7 +1188,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41173.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -1252,12 +1252,12 @@
                 "episode": 12,
                 "episodeid": 685,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E12.Total.Destruction.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E12.Total.Destruction.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-25",
                 "label": "1x12. Total Destruction",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "All out war breaks out at the Tower of London and Integra's meeting with her majesty is cancelled.  The remaining Hellsing members are at the decoy spot of the meeting, battling ghouls of the S.A.S. from Red House Vertigo.  Due to the vast coverage of the \"terrorist attacks\" and the required secrecy of the undead, Hellsing organization is pinned by an unknwon source in the media as the terrorist organization itself.  The British military is called in to stop these \"terrorists.\"  Fargason purposely gets himself killed so he looked like a terrorist, preventing the media from investigating the London Tower destruction any further, thus keeping both the vampires and Hellsing out of the public eye (for now). Seras Victoria is finally makes it to the tower only to see Fargason get shot.  After paying her final respects, she grabs her Halkonnen and rushes into the tower area.  While that is happening, Alucard was making his way through the tower to meet with Incognito for one big battle.",
                 "productioncode": "",
                 "rating": 9,
@@ -1287,7 +1287,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/71278/41174.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
                 },
                 "cast": [
                     {
@@ -1351,12 +1351,12 @@
                 "episode": 13,
                 "episodeid": 686,
                 "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hellsing/Season 1/Hellsing.E13.Hellfire.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
+                "file": "smb://Ext/Media/Serien/Hellsing/Season 1/Hellsing.E13.Hellfire.GERMAN.UNCUT.ANiME.DVDRiP.XviD.iNTERNAL-HACO.mp4",
                 "firstaired": "2003-10-25",
                 "label": "1x13. Hellfire",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:38:43",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "This episode opens with the fierce battle between Incognito and Lord Alucard. Eventually, as the battle ensues, Incognito manages to \"destroy\" Alucard with his own \"bullets that store the power of the human God\". Near the beginning of this battle Ceras Victoria became injured and realizes she must drink blood to heal herself, she discovers her first taste of true blood from her fallen master. Disgusted at her display of ignorance, Incognito leaves the scene to summon a demon from Hell.\r\nIncognito manages to summon Set, a snake-like creature who is the Egyptian God of Evil and of Chaos, the Desert, and Foreign Lands, from which he plans to merge his body with and develop insurmountable levels of power.\r\nAs Integra Hellsing flees, her servant and closest friend, Walter, sacrifices himself so that Integra might live. Unfortunately for Walter, his sacrafice seems to be in vein as Integra is captured by Incognito and used to assist in the summoning of Set. As her blood is drained by the No",
                 "productioncode": "",
                 "rating": 8.5,
@@ -1390,18 +1390,18 @@
                 "poster": "http://thetvdb.com/banners/seasons/13012-1.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/71278-g.jpg",
                 "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/71278-4.jpg"
+                "tvshow.poster": "http://thetvdb.com/banners/posters/71278-5.jpg"
             },
             "episode": 13,
             "fanart": "http://thetvdb.com/banners/fanart/original/71278-14.jpg",
             "label": "Staffel 1",
-            "playcount": 0,
+            "playcount": 1,
             "season": 1,
             "seasonid": 214,
             "showtitle": "Hellsing",
             "thumbnail": "http://thetvdb.com/banners/seasons/13012-1.jpg",
             "tvshowid": 41,
-            "watchedepisodes": 0
+            "watchedepisodes": 13
         }
     ]
 }

@@ -10,7 +10,7 @@
                 "name": "Dylan McDermott",
                 "order": 0,
                 "role": "Duncan Carlisle",
-                "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
             },
             {
                 "name": "Toni Collette",
@@ -28,7 +28,7 @@
                 "name": "Sandrine Holt",
                 "order": 3,
                 "role": "Sandrine",
-                "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
             },
             {
                 "name": "Tate Donovan",
@@ -58,7 +58,7 @@
                 "name": "Billy Brown",
                 "order": 8,
                 "role": "Archer",
-                "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
             },
             {
                 "name": "Hilarie Burton",
@@ -70,14 +70,14 @@
         "episode": 15,
         "episodeguide": "<episodeguide><url cache=\"269642-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/269642/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/",
+        "file": "smb://Ext/Media/Serien/Hostages/",
         "genre": [
             "Drama",
             "Thriller"
         ],
         "imdbnumber": "269642",
         "label": "Hostages",
-        "lastplayed": "",
+        "lastplayed": "2015-08-23 00:43:42",
         "mpaa": "TV-14",
         "originaltitle": "",
         "playcount": 0,
@@ -94,7 +94,7 @@
         "title": "Hostages",
         "tvshowid": 45,
         "votes": "13",
-        "watchedepisodes": 0,
+        "watchedepisodes": 2,
         "year": 2013
     },
     "episodes": {
@@ -111,7 +111,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -129,7 +129,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -159,7 +159,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -174,12 +174,12 @@
                 "episode": 1,
                 "episodeid": 786,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E01.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E01.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
                 "firstaired": "2013-09-23",
                 "label": "1x01. Pilot",
-                "lastplayed": "",
+                "lastplayed": "2015-08-23 00:43:15",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "After Dr. Ellen Sanders, a prominent Washington D.C. surgeon, is handpicked to operate on the President of the United States, rogue FBI agent Duncan Carlisle and armed intruders suddenly take her and her family hostage. Scared and bewildered, Ellen soon learns the reason: unless she assassinates the President during surgery, her captors will kill them all.",
                 "productioncode": "",
                 "rating": 7.300000190734863,
@@ -187,13 +187,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2481,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": "ger"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2481,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4570030.jpg",
                 "title": "Pilot",
@@ -218,7 +233,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -236,7 +251,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -266,7 +281,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -281,12 +296,12 @@
                 "episode": 2,
                 "episodeid": 787,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E02.GERMAN.DUBBED.WEBRiP.XviD.avi",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E02.GERMAN.DUBBED.WEBRiP.XviD.avi",
                 "firstaired": "2013-09-30",
                 "label": "1x02. Invisible Leash",
-                "lastplayed": "",
+                "lastplayed": "2015-08-23 00:43:21",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Duncan promises to kill a member of Ellen's family when she refuses to assassinate the president during surgery. Duncan also informs the family to go about their normal lives for the next two weeks until the commander in chief's operation.",
                 "productioncode": "",
                 "rating": 7.400000095367432,
@@ -294,13 +309,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2333,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "xvid",
+                            "duration": 2333,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4644625.jpg",
                 "title": "Invisible Leash",
@@ -326,7 +356,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -344,7 +374,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -374,7 +404,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -389,26 +419,41 @@
                 "episode": 3,
                 "episodeid": 788,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E03.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E03.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
                 "firstaired": "2013-10-07",
                 "label": "1x03. Power of Persuasion",
-                "lastplayed": "",
+                "lastplayed": "2015-08-23 00:43:42",
                 "originaltitle": "",
                 "playcount": 0,
                 "plot": "When the President decides to use another doctor for his surgery, Ellen is threatened by Duncan to make him change his mind. Also, Ellen meets Duncan's daughter which could help her get more insight into him.",
                 "productioncode": "",
                 "rating": 7.5,
                 "resume": {
-                    "position": 0,
-                    "total": 0
+                    "position": 1043,
+                    "total": 2509
                 },
-                "runtime": 3600,
+                "runtime": 2509,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": "ger"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2509,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4644626.jpg",
                 "title": "Power of Persuasion",
@@ -434,7 +479,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -452,7 +497,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -482,7 +527,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -497,7 +542,7 @@
                 "episode": 4,
                 "episodeid": 789,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E04.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E04.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
                 "firstaired": "2013-10-14",
                 "label": "1x04. 2:45 PM",
                 "lastplayed": "",
@@ -510,13 +555,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2384,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": "ger"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2384,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4660827.jpg",
                 "title": "2:45 PM",
@@ -541,7 +601,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -559,7 +619,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -589,7 +649,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -604,7 +664,7 @@
                 "episode": 5,
                 "episodeid": 790,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E05.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E05.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
                 "firstaired": "2013-10-21",
                 "label": "1x05. Truth and Consequences",
                 "lastplayed": "",
@@ -617,13 +677,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2399,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": "ger"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2399,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4660828.jpg",
                 "title": "Truth and Consequences",
@@ -648,7 +723,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -666,7 +741,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -696,7 +771,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -711,7 +786,7 @@
                 "episode": 6,
                 "episodeid": 791,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E06.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E06.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
                 "firstaired": "2013-10-28",
                 "label": "1x06. Sister's Keeper",
                 "lastplayed": "",
@@ -724,13 +799,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2478,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": "ger"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2478,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4660829.jpg",
                 "title": "Sister's Keeper",
@@ -755,7 +845,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -773,7 +863,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -803,7 +893,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -818,7 +908,7 @@
                 "episode": 7,
                 "episodeid": 792,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E07.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E07.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
                 "firstaired": "2013-11-04",
                 "label": "1x07. Hail Mary",
                 "lastplayed": "",
@@ -831,13 +921,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2477,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": "ger"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2477,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4690051.jpg",
                 "title": "Hail Mary",
@@ -863,7 +968,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -881,7 +986,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -911,7 +1016,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -926,7 +1031,7 @@
                 "episode": 8,
                 "episodeid": 793,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E08.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E08.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
                 "firstaired": "2013-11-11",
                 "label": "1x08. The Good Reason",
                 "lastplayed": "",
@@ -939,13 +1044,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2448,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": "ger"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2448,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4695966.jpg",
                 "title": "The Good Reason",
@@ -970,7 +1090,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -988,7 +1108,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -1018,7 +1138,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -1033,7 +1153,7 @@
                 "episode": 9,
                 "episodeid": 794,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E09.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E09.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
                 "firstaired": "2013-11-18",
                 "label": "1x09. Loose Ends",
                 "lastplayed": "",
@@ -1046,13 +1166,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2479,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": "ger"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2479,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4702132.jpg",
                 "title": "Loose Ends",
@@ -1078,7 +1213,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -1096,7 +1231,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -1126,7 +1261,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -1139,7 +1274,7 @@
                 "episode": 10,
                 "episodeid": 795,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E10.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E10.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mkv",
                 "firstaired": "2013-11-25",
                 "label": "1x10. Burden Of Truth",
                 "lastplayed": "",
@@ -1152,13 +1287,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2435,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": "ger"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2435,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4705390.jpg",
                 "title": "Burden Of Truth",
@@ -1181,7 +1331,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -1199,7 +1349,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -1229,7 +1379,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -1242,7 +1392,7 @@
                 "episode": 11,
                 "episodeid": 796,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E11.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E11.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
                 "firstaired": "2013-12-02",
                 "label": "1x11. Off The Record",
                 "lastplayed": "",
@@ -1255,13 +1405,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2423,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2423,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4705391.jpg",
                 "title": "Off The Record",
@@ -1284,7 +1449,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -1302,7 +1467,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -1332,7 +1497,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -1345,7 +1510,7 @@
                 "episode": 12,
                 "episodeid": 797,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E12.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E12.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
                 "firstaired": "2013-12-09",
                 "label": "1x12. The Cost Of Living",
                 "lastplayed": "",
@@ -1358,13 +1523,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2500,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": "ger"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "avc1",
+                            "duration": 2500,
+                            "height": 360,
+                            "stereomode": "",
+                            "width": 640
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4718189.jpg",
                 "title": "The Cost Of Living",
@@ -1387,7 +1567,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -1405,7 +1585,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -1435,7 +1615,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -1448,7 +1628,7 @@
                 "episode": 13,
                 "episodeid": 798,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E13.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E13.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
                 "firstaired": "2013-12-16",
                 "label": "1x13. Fight Or Flight",
                 "lastplayed": "",
@@ -1461,13 +1641,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2394,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2394,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4719636.jpg",
                 "title": "Fight Or Flight",
@@ -1490,7 +1685,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -1508,7 +1703,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -1538,7 +1733,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -1551,7 +1746,7 @@
                 "episode": 14,
                 "episodeid": 799,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E14.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E14.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
                 "firstaired": "2014-01-06",
                 "label": "1x14. Suspicious Minds",
                 "lastplayed": "",
@@ -1564,13 +1759,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2516,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": "ger"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7833329439163208,
+                            "codec": "avc1",
+                            "duration": 2516,
+                            "height": 240,
+                            "stereomode": "",
+                            "width": 428
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4728702.jpg",
                 "title": "Suspicious Minds",
@@ -1593,7 +1803,7 @@
                         "name": "Dylan McDermott",
                         "order": 0,
                         "role": "Duncan Carlisle",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317635.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4VVyvrxVVrrX9GsKlkSnUz32Ft6.jpg"
                     },
                     {
                         "name": "Toni Collette",
@@ -1611,7 +1821,7 @@
                         "name": "Sandrine Holt",
                         "order": 3,
                         "role": "Sandrine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317642.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
                     },
                     {
                         "name": "Tate Donovan",
@@ -1641,7 +1851,7 @@
                         "name": "Billy Brown",
                         "order": 8,
                         "role": "Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/317637.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEyVvi3dY3LDxSpTA3a7nK6nMGv.jpg"
                     },
                     {
                         "name": "Hilarie Burton",
@@ -1654,7 +1864,7 @@
                 "episode": 15,
                 "episodeid": 800,
                 "fanart": "http://thetvdb.com/banners/fanart/original/269642-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hostages/Season 1/Hostages.S01E15.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
+                "file": "smb://Ext/Media/Serien/Hostages/Season 1/Hostages.S01E15.GERMAN.DUBBED.WEBRiP.x264-iNFOTv.mp4",
                 "firstaired": "2014-01-06",
                 "label": "1x15. Endgame",
                 "lastplayed": "",
@@ -1667,13 +1877,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2385,
                 "season": 1,
                 "showtitle": "Hostages",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2385,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/269642/4731167.jpg",
                 "title": "Endgame",
@@ -1703,7 +1928,7 @@
             "showtitle": "Hostages",
             "thumbnail": "http://thetvdb.com/banners/seasons/269642-1-2.jpg",
             "tvshowid": 45,
-            "watchedepisodes": 0
+            "watchedepisodes": 2
         }
     ]
 }

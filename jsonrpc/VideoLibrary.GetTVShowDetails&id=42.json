@@ -3,7 +3,7 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-            "poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+            "poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
         },
         "cast": [
             {
@@ -22,13 +22,13 @@
                 "name": "Famke Janssen",
                 "order": 2,
                 "role": "Olivia Godfrey",
-                "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
             },
             {
                 "name": "Dougray Scott",
                 "order": 3,
                 "role": "Dr. Norman Godfrey",
-                "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
             },
             {
                 "name": "Demore Barnes",
@@ -107,7 +107,7 @@
         "episode": 13,
         "episodeguide": "<episodeguide><url cache=\"259948-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/259948/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/",
+        "file": "smb://Ext/Media/Serien/Hemlock Grove/",
         "genre": [
             "Horror",
             "Mystery",
@@ -129,7 +129,7 @@
             "Netflix"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/259948-6.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/259948-3.jpg",
         "title": "Hemlock Grove",
         "tvshowid": 42,
         "votes": "19",
@@ -143,7 +143,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343867.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -162,13 +162,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -250,7 +250,7 @@
                 "episode": 1,
                 "episodeid": 687,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E01.Das.Element.der.Seele.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E01.Das.Element.der.Seele.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x01. Jellyfish in the Sky",
                 "lastplayed": "",
@@ -288,7 +288,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343868.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -307,13 +307,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -395,7 +395,7 @@
                 "episode": 2,
                 "episodeid": 688,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E02.Die.Verwandlung.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E02.Die.Verwandlung.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x02. The Angel",
                 "lastplayed": "",
@@ -432,7 +432,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343869.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -451,13 +451,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -539,7 +539,7 @@
                 "episode": 3,
                 "episodeid": 689,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E03.Der.Orden.des.Drachen.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E03.Der.Orden.des.Drachen.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x03. The Order of the Dragon",
                 "lastplayed": "",
@@ -576,7 +576,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343870.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -595,13 +595,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -683,7 +683,7 @@
                 "episode": 4,
                 "episodeid": 690,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E04.Der.Daemonenhund.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E04.Der.Daemonenhund.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x04. In Poor Taste",
                 "lastplayed": "",
@@ -720,7 +720,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343871.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -739,13 +739,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -827,7 +827,7 @@
                 "episode": 5,
                 "episodeid": 691,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E05.Blick.in.den.Abgrund.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E05.Blick.in.den.Abgrund.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x05. Hello, Handsome",
                 "lastplayed": "",
@@ -864,7 +864,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343872.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -883,13 +883,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -971,7 +971,7 @@
                 "episode": 6,
                 "episodeid": 692,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E06.Angst.hat.ein.Zuhause.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E06.Angst.hat.ein.Zuhause.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x06. The Crucible",
                 "lastplayed": "",
@@ -1008,7 +1008,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343873.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -1027,13 +1027,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -1115,7 +1115,7 @@
                 "episode": 7,
                 "episodeid": 693,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E07.Grenzenlose.Wut.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E07.Grenzenlose.Wut.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x07. Measure of Disorder",
                 "lastplayed": "",
@@ -1153,7 +1153,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343874.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -1172,13 +1172,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -1260,7 +1260,7 @@
                 "episode": 8,
                 "episodeid": 694,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E08.Die.Aufgabe.Gottes.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E08.Die.Aufgabe.Gottes.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x08. Catabasis",
                 "lastplayed": "",
@@ -1298,7 +1298,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343875.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -1317,13 +1317,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -1405,7 +1405,7 @@
                 "episode": 9,
                 "episodeid": 695,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E09.Abstieg.in.die.Unterwelt.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E09.Abstieg.in.die.Unterwelt.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x09. What Peter Can Live Without",
                 "lastplayed": "",
@@ -1443,7 +1443,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343876.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -1462,13 +1462,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -1550,7 +1550,7 @@
                 "episode": 10,
                 "episodeid": 696,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E10.Vollmond.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E10.Vollmond.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x10. What God Wants",
                 "lastplayed": "",
@@ -1587,7 +1587,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343877.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -1606,13 +1606,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -1694,7 +1694,7 @@
                 "episode": 11,
                 "episodeid": 697,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E11.Die.Jagd.beginnt.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E11.Die.Jagd.beginnt.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x11. The Price",
                 "lastplayed": "",
@@ -1731,7 +1731,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343878.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -1750,13 +1750,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -1838,7 +1838,7 @@
                 "episode": 12,
                 "episodeid": 698,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E12.Kinder.der.Nacht.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E12.Kinder.der.Nacht.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x12. Children of the Night",
                 "lastplayed": "",
@@ -1876,7 +1876,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/259948/4343879.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
                 },
                 "cast": [
                     {
@@ -1895,13 +1895,13 @@
                         "name": "Famke Janssen",
                         "order": 2,
                         "role": "Olivia Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/311963.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bGB7Ty6iJOPbXdmSGCZtjipvQAz.jpg"
                     },
                     {
                         "name": "Dougray Scott",
                         "order": 3,
                         "role": "Dr. Norman Godfrey",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300015.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/shnhe5iUvVdZVuenshhW6aVlDXT.jpg"
                     },
                     {
                         "name": "Demore Barnes",
@@ -1983,7 +1983,7 @@
                 "episode": 13,
                 "episodeid": 699,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E13.Die.Geburt.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Hemlock Grove/Season 1/Hemlock.Grove.S01E13.Die.Geburt.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-04-19",
                 "label": "1x13. Birth",
                 "lastplayed": "",
@@ -2025,7 +2025,7 @@
                 "poster": "http://thetvdb.com/banners/seasons/259948-1-2.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/259948-g3.jpg",
                 "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/259948-6.jpg"
+                "tvshow.poster": "http://thetvdb.com/banners/posters/259948-3.jpg"
             },
             "episode": 13,
             "fanart": "http://thetvdb.com/banners/fanart/original/259948-8.jpg",

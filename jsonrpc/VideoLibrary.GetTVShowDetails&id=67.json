@@ -65,7 +65,7 @@
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"268126-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/268126/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/268126-2.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Ravenswood/",
+        "file": "smb://Ext/Media/Serien/Ravenswood/",
         "genre": [
             "Drama",
             "Horror"
@@ -162,7 +162,7 @@
                 "episode": 1,
                 "episodeid": 1251,
                 "fanart": "http://thetvdb.com/banners/fanart/original/268126-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Ravenswood/Season 1/Ravenswood.S01E01.720p.WEB.DL.DD5.1.H.264-KiNGS.mp4",
+                "file": "smb://Ext/Media/Serien/Ravenswood/Season 1/Ravenswood.S01E01.720p.WEB.DL.DD5.1.H.264-KiNGS.mp4",
                 "firstaired": "2013-10-22",
                 "label": "1x01. Pilot",
                 "lastplayed": "",

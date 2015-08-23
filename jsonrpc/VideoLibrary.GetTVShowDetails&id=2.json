@@ -28,7 +28,7 @@
                 "name": "Jonny Coyne",
                 "order": 3,
                 "role": "Warden Edwin James",
-                "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
             },
             {
                 "name": "Parminder Nagra",
@@ -40,7 +40,7 @@
                 "name": "Robert Forster",
                 "order": 5,
                 "role": "Ray Archer",
-                "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
             },
             {
                 "name": "Jason Butler Harner",
@@ -64,7 +64,7 @@
         "episode": 13,
         "episodeguide": "<episodeguide><url cache=\"248646-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/248646/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/",
+        "file": "smb://Ext/Media/Serien/Alcatraz/",
         "genre": [
             "Action",
             "Crime",
@@ -73,7 +73,7 @@
         ],
         "imdbnumber": "248646",
         "label": "Alcatraz",
-        "lastplayed": "",
+        "lastplayed": "2015-08-22 19:43:59",
         "mpaa": "TV-14",
         "originaltitle": "",
         "playcount": 0,
@@ -90,7 +90,7 @@
         "title": "Alcatraz",
         "tvshowid": 2,
         "votes": "76",
-        "watchedepisodes": 0,
+        "watchedepisodes": 3,
         "year": 2012
     },
     "episodes": {
@@ -141,7 +141,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -153,7 +153,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -169,12 +169,12 @@
                 "episode": 1,
                 "episodeid": 7,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E01.Jack.Sylvane.German.Dubbed.REPACK.HDTV.XviD-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E01.Jack.Sylvane.German.Dubbed.REPACK.HDTV.XviD-ITG.mp4",
                 "firstaired": "2012-01-16",
                 "label": "1x01. Pilot",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:43:47",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Detective Rebecca Madsen and Alcatraz historian Dr Diego Soto team up with a secret agency that is dedicated to finding and catching inmates from the infamous prison who went missing 50 years ago and are reappearing today.",
                 "productioncode": "",
                 "rating": 7.599999904632568,
@@ -182,13 +182,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2557,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7727270126342773,
+                            "codec": "h264",
+                            "duration": 2557,
+                            "height": 352,
+                            "stereomode": "",
+                            "width": 624
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4098243.jpg",
                 "title": "Pilot",
@@ -243,7 +258,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -255,7 +270,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -282,12 +297,12 @@
                 "episode": 2,
                 "episodeid": 8,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E02.Ernest.Cobb.German.Dubbed.HDTV.XviD-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E02.Ernest.Cobb.German.Dubbed.HDTV.XviD-ITG.mp4",
                 "firstaired": "2012-01-16",
                 "label": "1x02. Ernest Cobb",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:43:53",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "When a sniper begins targeting young victims, the team is forced to retrace the steps of the past in order to solve this modern day mystery.",
                 "productioncode": "",
                 "rating": 7.5,
@@ -295,13 +310,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2494,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7727270126342773,
+                            "codec": "h264",
+                            "duration": 2494,
+                            "height": 352,
+                            "stereomode": "",
+                            "width": 624
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4218955.jpg",
                 "title": "Ernest Cobb",
@@ -372,7 +402,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -384,7 +414,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -400,12 +430,12 @@
                 "episode": 3,
                 "episodeid": 9,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E03.Kit.Nelson.German.Dubbed.HDTV.XviD-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E03.Kit.Nelson.German.Dubbed.HDTV.XviD-ITG.mp4",
                 "firstaired": "2012-01-23",
                 "label": "1x03. Kit Nelson",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:43:59",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "When child killer Kit Nelson, a terrifying kidnapper who always returns his victims home - after he's killed them - reappears from the past, the team is in a race against time to catch the man before he kills again.",
                 "productioncode": "",
                 "rating": 7.5,
@@ -413,13 +443,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2489,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7727270126342773,
+                            "codec": "h264",
+                            "duration": 2489,
+                            "height": 352,
+                            "stereomode": "",
+                            "width": 624
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4218957.jpg",
                 "title": "Kit Nelson",
@@ -484,7 +529,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -496,7 +541,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -517,7 +562,7 @@
                 "episode": 4,
                 "episodeid": 10,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E04.Cal.Sweeney.German.Dubbed.DVDRip.XviD-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E04.Cal.Sweeney.German.Dubbed.DVDRip.XviD-ITG.mp4",
                 "firstaired": "2012-01-30",
                 "label": "1x04. Cal Sweeney",
                 "lastplayed": "",
@@ -530,13 +575,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2527,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7727270126342773,
+                            "codec": "h264",
+                            "duration": 2527,
+                            "height": 352,
+                            "stereomode": "",
+                            "width": 624
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4218958.jpg",
                 "title": "Cal Sweeney",
@@ -601,7 +661,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -613,7 +673,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -629,7 +689,7 @@
                 "episode": 5,
                 "episodeid": 11,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E05.Guy.Hastings.German.Dubbed.DVDRip.XviD-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E05.Guy.Hastings.German.Dubbed.DVDRip.XviD-ITG.mp4",
                 "firstaired": "2012-02-06",
                 "label": "1x05. Guy Hastings",
                 "lastplayed": "",
@@ -642,13 +702,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2470,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7727270126342773,
+                            "codec": "h264",
+                            "duration": 2470,
+                            "height": 352,
+                            "stereomode": "",
+                            "width": 624
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4218960.jpg",
                 "title": "Guy Hastings",
@@ -674,7 +749,7 @@
                         "name": "Mehcad Brooks",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/107841.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/351964.jpg"
                     },
                     {
                         "name": "David Hoflin",
@@ -725,7 +800,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -737,7 +812,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -753,7 +828,7 @@
                 "episode": 6,
                 "episodeid": 12,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E06.Paxton.Petty.German.Dubbed.DVDRip.XviD-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E06.Paxton.Petty.German.Dubbed.DVDRip.XviD-ITG.mp4",
                 "firstaired": "2012-02-13",
                 "label": "1x06. Paxton Petty",
                 "lastplayed": "",
@@ -766,13 +841,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2504,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 1,
+                            "codec": "aac",
+                            "language": "und"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7722220420837402,
+                            "codec": "avc1",
+                            "duration": 2504,
+                            "height": 360,
+                            "stereomode": "",
+                            "width": 640
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4218959.jpg",
                 "title": "Paxton Petty",
@@ -841,7 +931,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -853,7 +943,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -874,7 +964,7 @@
                 "episode": 7,
                 "episodeid": 13,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E07.Johnny.McKee.German.Dubbed.BDRip.XviD-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E07.Johnny.McKee.German.Dubbed.BDRip.XviD-ITG.mp4",
                 "firstaired": "2012-02-20",
                 "label": "1x07. Johnny McKee",
                 "lastplayed": "",
@@ -887,13 +977,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2527,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 1,
+                            "codec": "aac",
+                            "language": "und"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7722220420837402,
+                            "codec": "avc1",
+                            "duration": 2527,
+                            "height": 360,
+                            "stereomode": "",
+                            "width": 640
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4218961.jpg",
                 "title": "Johnny McKee",
@@ -968,7 +1073,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -980,7 +1085,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -996,7 +1101,7 @@
                 "episode": 8,
                 "episodeid": 14,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E08.Herman.und.Pinky.Ames.German.Dubbed.BDRip.XviD-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E08.Herman.und.Pinky.Ames.German.Dubbed.BDRip.XviD-ITG.mp4",
                 "firstaired": "2012-03-05",
                 "label": "1x08. The Ames Brothers",
                 "lastplayed": "",
@@ -1009,13 +1114,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2529,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 1,
+                            "codec": "aac",
+                            "language": "und"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7722220420837402,
+                            "codec": "avc1",
+                            "duration": 2529,
+                            "height": 360,
+                            "stereomode": "",
+                            "width": 640
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4242009.jpg",
                 "title": "The Ames Brothers",
@@ -1061,7 +1181,7 @@
                         "name": "Theo Rossi",
                         "order": 4,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/291069.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ge1Kgy8mwNI9KatdtBbqRP0SHL6.jpg"
                     },
                     {
                         "name": "Sarah Jones",
@@ -1085,7 +1205,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -1097,7 +1217,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -1111,7 +1231,7 @@
                 "episode": 9,
                 "episodeid": 15,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E09.Sonny.Burnett.German.Dubbed.BDRip.XviD-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E09.Sonny.Burnett.German.Dubbed.BDRip.XviD-ITG.mp4",
                 "firstaired": "2012-03-05",
                 "label": "1x09. Sonny Burnett",
                 "lastplayed": "",
@@ -1124,13 +1244,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2506,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 1,
+                            "codec": "aac",
+                            "language": "und"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7722220420837402,
+                            "codec": "avc1",
+                            "duration": 2506,
+                            "height": 360,
+                            "stereomode": "",
+                            "width": 640
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4240668.jpg",
                 "title": "Sonny Burnett",
@@ -1155,7 +1290,7 @@
                         "name": "Mahershala Ali",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
                     },
                     {
                         "name": "Leon Rippy",
@@ -1202,7 +1337,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -1214,7 +1349,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -1235,7 +1370,7 @@
                 "episode": 10,
                 "episodeid": 16,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E10.Clarence.Montgomery.German.Dubbed.BDRip.XviD.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E10.Clarence.Montgomery.German.Dubbed.BDRip.XviD.mp4",
                 "firstaired": "2012-03-12",
                 "label": "1x10. Clarence Montgomery",
                 "lastplayed": "",
@@ -1248,13 +1383,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2470,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 1,
+                            "codec": "aac",
+                            "language": "und"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7722220420837402,
+                            "codec": "avc1",
+                            "duration": 2470,
+                            "height": 360,
+                            "stereomode": "",
+                            "width": 640
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4251974.jpg",
                 "title": "Clarence Montgomery",
@@ -1318,7 +1468,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -1330,7 +1480,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -1351,7 +1501,7 @@
                 "episode": 11,
                 "episodeid": 17,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E11.Webb.Porter.German.Dubbed.BDRip.XviD-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E11.Webb.Porter.German.Dubbed.BDRip.XviD-ITG.mp4",
                 "firstaired": "2012-03-19",
                 "label": "1x11. Webb Porter",
                 "lastplayed": "",
@@ -1364,13 +1514,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2528,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 1,
+                            "codec": "aac",
+                            "language": "und"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7722220420837402,
+                            "codec": "avc1",
+                            "duration": 2528,
+                            "height": 360,
+                            "stereomode": "",
+                            "width": 640
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4251975.jpg",
                 "title": "Webb Porter",
@@ -1442,7 +1607,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -1454,7 +1619,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -1475,7 +1640,7 @@
                 "episode": 12,
                 "episodeid": 18,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E12.Garrett.Stillman.German.Dubbed.REPACK.BDRip.XviD-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E12.Garrett.Stillman.German.Dubbed.REPACK.BDRip.XviD-ITG.mp4",
                 "firstaired": "2012-03-26",
                 "label": "1x12. Garrett Stillman",
                 "lastplayed": "",
@@ -1488,13 +1653,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2529,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 1,
+                            "codec": "aac",
+                            "language": "und"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7722220420837402,
+                            "codec": "avc1",
+                            "duration": 2529,
+                            "height": 360,
+                            "stereomode": "",
+                            "width": 640
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4253440.jpg",
                 "title": "Garrett Stillman",
@@ -1524,7 +1704,8 @@
                     {
                         "name": "Matt Craven",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/atUkssC0DowpBbFvsnRf92cEf9y.jpg"
                     },
                     {
                         "name": "David Hoflin",
@@ -1570,7 +1751,7 @@
                         "name": "Jonny Coyne",
                         "order": 3,
                         "role": "Warden Edwin James",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287460.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ahErjJI8W9RGBCky2rB3W2vFbIm.jpg"
                     },
                     {
                         "name": "Parminder Nagra",
@@ -1582,7 +1763,7 @@
                         "name": "Robert Forster",
                         "order": 5,
                         "role": "Ray Archer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/287461.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/82v4FngEiGvtTHQm399t6eaLfXw.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -1598,7 +1779,7 @@
                 "episode": 13,
                 "episodeid": 19,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248646-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E13.Tommy.Madsen.German.Dubbed.BDRip.XviD-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Alcatraz/Season 1/Alcatraz.S01E13.Tommy.Madsen.German.Dubbed.BDRip.XviD-ITG.mp4",
                 "firstaired": "2012-03-26",
                 "label": "1x13. Tommy Madsen",
                 "lastplayed": "",
@@ -1611,13 +1792,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2529,
                 "season": 1,
                 "showtitle": "Alcatraz",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 1,
+                            "codec": "aac",
+                            "language": "und"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7722220420837402,
+                            "codec": "avc1",
+                            "duration": 2529,
+                            "height": 360,
+                            "stereomode": "",
+                            "width": 640
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/248646/4253441.jpg",
                 "title": "Tommy Madsen",
@@ -1650,7 +1846,7 @@
             "showtitle": "Alcatraz",
             "thumbnail": "http://thetvdb.com/banners/seasons/248646-1-5.jpg",
             "tvshowid": 2,
-            "watchedepisodes": 0
+            "watchedepisodes": 3
         }
     ]
 }

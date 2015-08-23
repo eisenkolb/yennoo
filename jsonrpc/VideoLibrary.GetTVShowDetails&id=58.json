@@ -2,8 +2,8 @@
     "tvshowdetails": {
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/95731-g6.jpg",
-            "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
-            "poster": "http://thetvdb.com/banners/posters/95731-3.jpg"
+            "fanart": "http://thetvdb.com/banners/fanart/original/95731-25.jpg",
+            "poster": "http://thetvdb.com/banners/posters/95731-5.jpg"
         },
         "cast": [
             {
@@ -28,7 +28,7 @@
                 "name": "Bobby Cannavale",
                 "order": 3,
                 "role": "Dr. Mike Cruz",
-                "thumbnail": "http://thetvdb.com/banners/actors/306095.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/iolNhMnWOFXlLTdyVvkvfW7RpNN.jpg"
             },
             {
                 "name": "Arjun Gupta",
@@ -52,13 +52,13 @@
                 "name": "Peter Facinelli",
                 "order": 7,
                 "role": "Dr. Fitch \"Coop\" Cooper",
-                "thumbnail": "http://thetvdb.com/banners/actors/146861.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/jVlwcMxC0mtWttvvSbovybpLrBX.jpg"
             },
             {
                 "name": "Paul Schulze",
                 "order": 8,
                 "role": "Eddie Walzer",
-                "thumbnail": "http://thetvdb.com/banners/actors/146851.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/tcGHCA2seYFju3RBKItpyLHAPHc.jpg"
             },
             {
                 "name": "Haaz Sleiman",
@@ -76,8 +76,8 @@
         "dateadded": "2013-12-31 22:08:50",
         "episode": 4,
         "episodeguide": "<episodeguide><url cache=\"95731-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/95731/all/en.zip</url></episodeguide>",
-        "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nurse Jackie/",
+        "fanart": "http://thetvdb.com/banners/fanart/original/95731-25.jpg",
+        "file": "smb://Ext/Media/Serien/Nurse Jackie/",
         "genre": [
             "Comedy",
             "Drama"
@@ -97,7 +97,7 @@
             "Showtime"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/95731-3.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/95731-5.jpg",
         "title": "Nurse Jackie",
         "tvshowid": 58,
         "votes": "53",
@@ -110,8 +110,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/95731/673771.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/95731-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/95731-3.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-25.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/95731-5.jpg"
                 },
                 "cast": [
                     {
@@ -136,7 +136,7 @@
                         "name": "Bobby Cannavale",
                         "order": 3,
                         "role": "Dr. Mike Cruz",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306095.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iolNhMnWOFXlLTdyVvkvfW7RpNN.jpg"
                     },
                     {
                         "name": "Arjun Gupta",
@@ -160,13 +160,13 @@
                         "name": "Peter Facinelli",
                         "order": 7,
                         "role": "Dr. Fitch \"Coop\" Cooper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/146861.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jVlwcMxC0mtWttvvSbovybpLrBX.jpg"
                     },
                     {
                         "name": "Paul Schulze",
                         "order": 8,
                         "role": "Eddie Walzer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/146851.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tcGHCA2seYFju3RBKItpyLHAPHc.jpg"
                     },
                     {
                         "name": "Haaz Sleiman",
@@ -187,8 +187,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 1186,
-                "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nurse Jackie/Season 1/Nurse.Jackie.S01E01.Bittere.Pillen.GERMAN.DUBBED.WS.BLURAYRiP.XviD-SOF.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/95731-25.jpg",
+                "file": "smb://Ext/Media/Serien/Nurse Jackie/Season 1/Nurse.Jackie.S01E01.Bittere.Pillen.GERMAN.DUBBED.WS.BLURAYRiP.XviD-SOF.mp4",
                 "firstaired": "2009-06-08",
                 "label": "1x01. Pilot",
                 "lastplayed": "",
@@ -225,8 +225,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/95731/736981.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/95731-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/95731-3.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-25.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/95731-5.jpg"
                 },
                 "cast": [
                     {
@@ -251,7 +251,7 @@
                         "name": "Bobby Cannavale",
                         "order": 3,
                         "role": "Dr. Mike Cruz",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306095.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iolNhMnWOFXlLTdyVvkvfW7RpNN.jpg"
                     },
                     {
                         "name": "Arjun Gupta",
@@ -275,13 +275,13 @@
                         "name": "Peter Facinelli",
                         "order": 7,
                         "role": "Dr. Fitch \"Coop\" Cooper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/146861.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jVlwcMxC0mtWttvvSbovybpLrBX.jpg"
                     },
                     {
                         "name": "Paul Schulze",
                         "order": 8,
                         "role": "Eddie Walzer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/146851.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tcGHCA2seYFju3RBKItpyLHAPHc.jpg"
                     },
                     {
                         "name": "Haaz Sleiman",
@@ -302,8 +302,8 @@
                 ],
                 "episode": 2,
                 "episodeid": 1187,
-                "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nurse Jackie/Season 1/Nurse.Jackie.S01E02.Von.wegen.Suess.GERMAN.DUBBED.WS.BLURAYRiP.XviD-SOF.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/95731-25.jpg",
+                "file": "smb://Ext/Media/Serien/Nurse Jackie/Season 1/Nurse.Jackie.S01E02.Von.wegen.Suess.GERMAN.DUBBED.WS.BLURAYRiP.XviD-SOF.mp4",
                 "firstaired": "2009-06-15",
                 "label": "1x02. Sweet 'n All",
                 "lastplayed": "",
@@ -339,8 +339,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/95731/736991.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/95731-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/95731-3.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-25.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/95731-5.jpg"
                 },
                 "cast": [
                     {
@@ -365,7 +365,7 @@
                         "name": "Bobby Cannavale",
                         "order": 3,
                         "role": "Dr. Mike Cruz",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306095.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iolNhMnWOFXlLTdyVvkvfW7RpNN.jpg"
                     },
                     {
                         "name": "Arjun Gupta",
@@ -389,13 +389,13 @@
                         "name": "Peter Facinelli",
                         "order": 7,
                         "role": "Dr. Fitch \"Coop\" Cooper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/146861.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jVlwcMxC0mtWttvvSbovybpLrBX.jpg"
                     },
                     {
                         "name": "Paul Schulze",
                         "order": 8,
                         "role": "Eddie Walzer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/146851.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tcGHCA2seYFju3RBKItpyLHAPHc.jpg"
                     },
                     {
                         "name": "Haaz Sleiman",
@@ -416,8 +416,8 @@
                 ],
                 "episode": 3,
                 "episodeid": 1188,
-                "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nurse Jackie/Season 1/Nurse.Jackie.S01E03.Huehnersuppe.GERMAN.DUBBED.WS.BLURAYRiP.XviD-SOF.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/95731-25.jpg",
+                "file": "smb://Ext/Media/Serien/Nurse Jackie/Season 1/Nurse.Jackie.S01E03.Huehnersuppe.GERMAN.DUBBED.WS.BLURAYRiP.XviD-SOF.mp4",
                 "firstaired": "2009-06-22",
                 "label": "1x03. Chicken Soup",
                 "lastplayed": "",
@@ -453,8 +453,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/95731/737001.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/95731-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/95731-3.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-25.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/95731-5.jpg"
                 },
                 "cast": [
                     {
@@ -479,7 +479,7 @@
                         "name": "Bobby Cannavale",
                         "order": 3,
                         "role": "Dr. Mike Cruz",
-                        "thumbnail": "http://thetvdb.com/banners/actors/306095.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iolNhMnWOFXlLTdyVvkvfW7RpNN.jpg"
                     },
                     {
                         "name": "Arjun Gupta",
@@ -503,13 +503,13 @@
                         "name": "Peter Facinelli",
                         "order": 7,
                         "role": "Dr. Fitch \"Coop\" Cooper",
-                        "thumbnail": "http://thetvdb.com/banners/actors/146861.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jVlwcMxC0mtWttvvSbovybpLrBX.jpg"
                     },
                     {
                         "name": "Paul Schulze",
                         "order": 8,
                         "role": "Eddie Walzer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/146851.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tcGHCA2seYFju3RBKItpyLHAPHc.jpg"
                     },
                     {
                         "name": "Haaz Sleiman",
@@ -530,8 +530,8 @@
                 ],
                 "episode": 4,
                 "episodeid": 1189,
-                "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nurse Jackie/Season 1/Nurse.Jackie.S01E04.Farben.der.Angst.GERMAN.DUBBED.WS.BLURAYRiP.XviD-SOF.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/95731-25.jpg",
+                "file": "smb://Ext/Media/Serien/Nurse Jackie/Season 1/Nurse.Jackie.S01E04.Farben.der.Angst.GERMAN.DUBBED.WS.BLURAYRiP.XviD-SOF.mp4",
                 "firstaired": "2009-06-29",
                 "label": "1x04. School Nurse",
                 "lastplayed": "",
@@ -571,11 +571,11 @@
                 "banner": "http://thetvdb.com/banners/seasonswide/95731-1.jpg",
                 "poster": "http://thetvdb.com/banners/seasons/95731-1-5.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/95731-g6.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/95731-3.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/95731-25.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/95731-5.jpg"
             },
             "episode": 4,
-            "fanart": "http://thetvdb.com/banners/fanart/original/95731-20.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/95731-25.jpg",
             "label": "Staffel 1",
             "playcount": 0,
             "season": 1,

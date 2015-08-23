@@ -10,13 +10,13 @@
                 "name": "James Spader",
                 "order": 0,
                 "role": "Alan Shore",
-                "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
             },
             {
                 "name": "William Shatner",
                 "order": 1,
                 "role": "Denny Crane",
-                "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
             },
             {
                 "name": "Candice Bergen",
@@ -64,19 +64,19 @@
                 "name": "Craig Bierko",
                 "order": 9,
                 "role": "Jeffrey Coho",
-                "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
             },
             {
                 "name": "Constance Zimmer",
                 "order": 10,
                 "role": "Claire Simms",
-                "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
             },
             {
                 "name": "Lake Bell",
                 "order": 11,
                 "role": "Sally Heep",
-                "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
             },
             {
                 "name": "Mark Valley",
@@ -88,7 +88,7 @@
                 "name": "Monica Potter",
                 "order": 13,
                 "role": "Lori Colson",
-                "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
             },
             {
                 "name": "Rene Auberjonois",
@@ -100,13 +100,13 @@
                 "name": "Rhona Mitra",
                 "order": 15,
                 "role": "Tara Wilson",
-                "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
             },
             {
                 "name": "Julie Bowen",
                 "order": 16,
                 "role": "Denise Bauer",
-                "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
             },
             {
                 "name": "Tamara Feldman",
@@ -119,7 +119,7 @@
         "episode": 17,
         "episodeguide": "<episodeguide><url cache=\"74058-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/74058/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/",
+        "file": "smb://Ext/Media/Serien/Boston Legal/",
         "genre": [
             "Comedy",
             "Drama"
@@ -224,7 +224,8 @@
                     {
                         "name": "Don McManus",
                         "order": 13,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8JOjJkZBQmhVb6n8yHw70LIgC7i.jpg"
                     },
                     {
                         "name": "Aisha Hinds",
@@ -246,13 +247,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -300,19 +301,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -324,7 +325,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -336,13 +337,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -358,7 +359,7 @@
                 "episode": 1,
                 "episodeid": 200,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E01.Revierkaempfe.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E01.Revierkaempfe.avi",
                 "firstaired": "2004-10-03",
                 "label": "1x01. Head Cases",
                 "lastplayed": "",
@@ -403,7 +404,8 @@
                     {
                         "name": "John Michael Higgins",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5vGRr36gOQIwDXq9JKu9FBozAKi.jpg"
                     },
                     {
                         "name": "Andy Milder",
@@ -444,7 +446,7 @@
                         "name": "Frances Fisher",
                         "order": 8,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78173.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/yaBISljHMuNpq58hXIOET8WfEEO.jpg"
                     },
                     {
                         "name": "Erika Greenspan",
@@ -475,19 +477,19 @@
                         "name": "Elizabeth Mitchell",
                         "order": 14,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/303082.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/rtvX8AN60JS9wMTdC4SZ8HRn33c.jpg"
                     },
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -535,19 +537,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -559,7 +561,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -571,13 +573,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -593,7 +595,7 @@
                 "episode": 2,
                 "episodeid": 201,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E02.Durchgedreht.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E02.Durchgedreht.avi",
                 "firstaired": "2004-10-10",
                 "label": "1x02. Still Crazy After All These Years",
                 "lastplayed": "",
@@ -694,7 +696,7 @@
                         "name": "Elizabeth Mitchell",
                         "order": 11,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/303082.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/rtvX8AN60JS9wMTdC4SZ8HRn33c.jpg"
                     },
                     {
                         "name": "Dean Norris",
@@ -706,13 +708,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -760,19 +762,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -784,7 +786,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -796,13 +798,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -818,7 +820,7 @@
                 "episode": 3,
                 "episodeid": 202,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E03.Vertrauter.Feind.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E03.Vertrauter.Feind.avi",
                 "firstaired": "2004-10-17",
                 "label": "1x03. Catch and Release",
                 "lastplayed": "",
@@ -945,13 +947,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -999,19 +1001,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -1023,7 +1025,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -1035,13 +1037,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -1057,7 +1059,7 @@
                 "episode": 4,
                 "episodeid": 203,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E04.Anwalt.entlaufen.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E04.Anwalt.entlaufen.avi",
                 "firstaired": "2004-10-24",
                 "label": "1x04. Change of Course",
                 "lastplayed": "",
@@ -1105,7 +1107,8 @@
                     {
                         "name": "Fred Koehler",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/f52RmqmKKbHS9JFb2sJ28dnyaUr.jpg"
                     },
                     {
                         "name": "Karl T. Wright",
@@ -1141,7 +1144,8 @@
                     {
                         "name": "Rusty Schwimmer",
                         "order": 8,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5syOxoKZboIDq5r5cQCfOpDyaoQ.jpg"
                     },
                     {
                         "name": "David Brisbin",
@@ -1187,13 +1191,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -1241,19 +1245,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -1265,7 +1269,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -1277,13 +1281,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -1299,7 +1303,7 @@
                 "episode": 5,
                 "episodeid": 204,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E05.Schlag.auf.Schlag.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E05.Schlag.auf.Schlag.avi",
                 "firstaired": "2004-10-31",
                 "label": "1x05. An Eye for an Eye",
                 "lastplayed": "",
@@ -1435,13 +1439,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -1489,19 +1493,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -1513,7 +1517,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -1525,13 +1529,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -1547,7 +1551,7 @@
                 "episode": 6,
                 "episodeid": 205,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E06.Bis.aufs.Blut.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E06.Bis.aufs.Blut.avi",
                 "firstaired": "2004-11-07",
                 "label": "1x06. Truth Be Told",
                 "lastplayed": "",
@@ -1677,13 +1681,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -1731,19 +1735,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -1755,7 +1759,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -1767,13 +1771,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -1789,7 +1793,7 @@
                 "episode": 7,
                 "episodeid": 206,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E07.Tief.getroffen.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E07.Tief.getroffen.avi",
                 "firstaired": "2004-11-21",
                 "label": "1x07. Questionable Characters",
                 "lastplayed": "",
@@ -1872,7 +1876,8 @@
                     {
                         "name": "George Newbern",
                         "order": 8,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/48Ouqe1g8QrZ6qjvap5NvhfKuly.jpg"
                     },
                     {
                         "name": "Steven M. Gagnon",
@@ -1893,13 +1898,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -1947,19 +1952,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -1971,7 +1976,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -1983,13 +1988,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -2005,7 +2010,7 @@
                 "episode": 8,
                 "episodeid": 207,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E08.Schweigen.ist.Gold.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E08.Schweigen.ist.Gold.avi",
                 "firstaired": "2004-11-28",
                 "label": "1x08. Loose Lips",
                 "lastplayed": "",
@@ -2090,13 +2095,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -2144,19 +2149,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -2168,7 +2173,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -2180,13 +2185,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -2202,7 +2207,7 @@
                 "episode": 9,
                 "episodeid": 208,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E09.Bittere.Pillen.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E09.Bittere.Pillen.avi",
                 "firstaired": "2004-12-12",
                 "label": "1x09. A Greater Good",
                 "lastplayed": "",
@@ -2322,13 +2327,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -2376,19 +2381,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -2400,7 +2405,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -2412,13 +2417,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -2434,7 +2439,7 @@
                 "episode": 10,
                 "episodeid": 209,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E10.In.Flagranti.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E10.In.Flagranti.avi",
                 "firstaired": "2004-12-19",
                 "label": "1x10. Hired Guns",
                 "lastplayed": "",
@@ -2563,13 +2568,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -2617,19 +2622,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -2641,7 +2646,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -2653,13 +2658,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -2675,7 +2680,7 @@
                 "episode": 11,
                 "episodeid": 210,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E11.Schmidt.Happens.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E11.Schmidt.Happens.avi",
                 "firstaired": "2005-01-09",
                 "label": "1x11. Schmidt Happens",
                 "lastplayed": "",
@@ -2766,13 +2771,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -2820,19 +2825,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -2844,7 +2849,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -2856,13 +2861,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -2878,7 +2883,7 @@
                 "episode": 12,
                 "episodeid": 211,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E12.Alte.Schule.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E12.Alte.Schule.avi",
                 "firstaired": "2005-01-16",
                 "label": "1x12. From Whence We Came",
                 "lastplayed": "",
@@ -2952,7 +2957,7 @@
                         "name": "Michael O'Neill",
                         "order": 6,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337485.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jm8iT6YrP0waMjv9ZYVvtYXd66i.jpg"
                     },
                     {
                         "name": "Gibby Brand",
@@ -2978,13 +2983,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -3032,19 +3037,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -3056,7 +3061,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -3068,13 +3073,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -3090,7 +3095,7 @@
                 "episode": 13,
                 "episodeid": 212,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E13.Dicke.Luft.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E13.Dicke.Luft.avi",
                 "firstaired": "2005-01-23",
                 "label": "1x13. It Girls and Beyond",
                 "lastplayed": "",
@@ -3144,7 +3149,8 @@
                     {
                         "name": "Pat Skipper",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/yz3OrX0JKWcNDLLc8TBoRUhWAcC.jpg"
                     },
                     {
                         "name": "Holmes Osborne",
@@ -3213,13 +3219,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -3267,19 +3273,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -3291,7 +3297,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -3303,13 +3309,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -3325,7 +3331,7 @@
                 "episode": 14,
                 "episodeid": 213,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E14.Ein.Mann.sieht.Rot.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E14.Ein.Mann.sieht.Rot.avi",
                 "firstaired": "2005-02-13",
                 "label": "1x14. Til We Meat Again",
                 "lastplayed": "",
@@ -3435,13 +3441,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -3489,19 +3495,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -3513,7 +3519,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -3525,13 +3531,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -3547,7 +3553,7 @@
                 "episode": 15,
                 "episodeid": 214,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E15.Im.Eifer.des.Gefechts.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E15.Im.Eifer.des.Gefechts.avi",
                 "firstaired": "2005-02-20",
                 "label": "1x15. Tortured Souls",
                 "lastplayed": "",
@@ -3595,12 +3601,14 @@
                     {
                         "name": "Chi McBride",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tOziRGI7cCAVduyIHXFaqfId47L.jpg"
                     },
                     {
                         "name": "Carl Reiner",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mG0YcJ72Dw0jwFvg44lncv21mut.jpg"
                     },
                     {
                         "name": "Ray Laska",
@@ -3616,7 +3624,8 @@
                     {
                         "name": "Christina Chang",
                         "order": 5,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gwUBGb6l1Qr1l1Q5yVQ3nbMHxhA.jpg"
                     },
                     {
                         "name": "Victor McCay",
@@ -3643,13 +3652,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -3697,19 +3706,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -3721,7 +3730,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -3733,13 +3742,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -3755,7 +3764,7 @@
                 "episode": 16,
                 "episodeid": 215,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E16.Auf.Eis.gelegt.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E16.Auf.Eis.gelegt.avi",
                 "firstaired": "2005-03-13",
                 "label": "1x16. Let Sales Ring",
                 "lastplayed": "",
@@ -3854,13 +3863,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Alan Shore",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "William Shatner",
                         "order": 1,
                         "role": "Denny Crane",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29993.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5hWNPFmnzlFAkGMleBKkeFFcxhY.jpg"
                     },
                     {
                         "name": "Candice Bergen",
@@ -3908,19 +3917,19 @@
                         "name": "Craig Bierko",
                         "order": 9,
                         "role": "Jeffrey Coho",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77902.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/if81Ym3HF45GhIJs9qYc1grdCuL.jpg"
                     },
                     {
                         "name": "Constance Zimmer",
                         "order": 10,
                         "role": "Claire Simms",
-                        "thumbnail": "http://thetvdb.com/banners/actors/77901.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
                     },
                     {
                         "name": "Lake Bell",
                         "order": 11,
                         "role": "Sally Heep",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29997.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mUB3J8qVWXvpxbVWfwjXiTt3bGk.jpg"
                     },
                     {
                         "name": "Mark Valley",
@@ -3932,7 +3941,7 @@
                         "name": "Monica Potter",
                         "order": 13,
                         "role": "Lori Colson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29995.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mWzTy9Ip5CYemu92jT1N3yUOW2g.jpg"
                     },
                     {
                         "name": "Rene Auberjonois",
@@ -3944,13 +3953,13 @@
                         "name": "Rhona Mitra",
                         "order": 15,
                         "role": "Tara Wilson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29991.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5iaixWY0qTK9ouHA1wmlXi3t0ie.jpg"
                     },
                     {
                         "name": "Julie Bowen",
                         "order": 16,
                         "role": "Denise Bauer",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29989.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ad7u7IYpUZbhQPdzQ688fCSk0OX.jpg"
                     },
                     {
                         "name": "Tamara Feldman",
@@ -3966,7 +3975,7 @@
                 "episode": 17,
                 "episodeid": 216,
                 "fanart": "http://thetvdb.com/banners/fanart/original/74058-6.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boston Legal/Season 1/S01E17.Auf.Leben.und.Tod.avi",
+                "file": "smb://Ext/Media/Serien/Boston Legal/Season 1/S01E17.Auf.Leben.und.Tod.avi",
                 "firstaired": "2005-03-20",
                 "label": "1x17. Death Be Not Proud",
                 "lastplayed": "",

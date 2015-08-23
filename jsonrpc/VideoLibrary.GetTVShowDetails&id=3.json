@@ -16,7 +16,7 @@
                 "name": "Laura Mennell",
                 "order": 1,
                 "role": "Nina Theroux",
-                "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/2wk93WP1T1YZNNkn3bwEhc1tXwZ.jpg"
             },
             {
                 "name": "Azita Ghanizada",
@@ -28,7 +28,7 @@
                 "name": "David Strathairn",
                 "order": 3,
                 "role": "Dr. Lee Rosen",
-                "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/5P9hWKVBXVD6bNdDO3O7upa1A6S.jpg"
             },
             {
                 "name": "Ryan Cartwright",
@@ -52,7 +52,7 @@
                 "name": "Mahershala Ali",
                 "order": 7,
                 "role": "Nathan Clay",
-                "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
             },
             {
                 "name": "Skyler Wexler",
@@ -65,7 +65,7 @@
         "episode": 6,
         "episodeguide": "<episodeguide><url cache=\"210841-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/210841/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/",
+        "file": "smb://Ext/Media/Serien/Alphas/",
         "genre": [
             "Action",
             "Drama",
@@ -73,10 +73,10 @@
         ],
         "imdbnumber": "210841",
         "label": "Alphas",
-        "lastplayed": "",
+        "lastplayed": "2015-08-22 18:14:30",
         "mpaa": "TV-14",
         "originaltitle": "",
-        "playcount": 0,
+        "playcount": 1,
         "plot": "Alphas is an action-packed thriller about five ordinary people who are brought together to form one extraordinary team of Alphas -- people with the unique power to stretch the capabilities of the human mind giving them superhuman physical and mental abilities.",
         "premiered": "2011-07-11",
         "rating": 7.800000190734863,
@@ -90,7 +90,7 @@
         "title": "Alphas",
         "tvshowid": 3,
         "votes": "77",
-        "watchedepisodes": 0,
+        "watchedepisodes": 6,
         "year": 2011
     },
     "episodes": {
@@ -145,7 +145,7 @@
                         "name": "Laura Mennell",
                         "order": 1,
                         "role": "Nina Theroux",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/2wk93WP1T1YZNNkn3bwEhc1tXwZ.jpg"
                     },
                     {
                         "name": "Azita Ghanizada",
@@ -157,7 +157,7 @@
                         "name": "David Strathairn",
                         "order": 3,
                         "role": "Dr. Lee Rosen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5P9hWKVBXVD6bNdDO3O7upa1A6S.jpg"
                     },
                     {
                         "name": "Ryan Cartwright",
@@ -181,7 +181,7 @@
                         "name": "Mahershala Ali",
                         "order": 7,
                         "role": "Nathan Clay",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
                     },
                     {
                         "name": "Skyler Wexler",
@@ -197,12 +197,12 @@
                 "episode": 1,
                 "episodeid": 20,
                 "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/Season 1/Alphas.S01E01.avi",
+                "file": "smb://Ext/Media/Serien/Alphas/Season 1/Alphas.S01E01.avi",
                 "firstaired": "2011-07-11",
                 "label": "1x01. Pilot",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:14:30",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Operating within the Defense Criminal Investigation Service of the U.S. Department of Defense and led by preeminent neurologist and psychiatrist Dr. Lee Rosen, an expert in Alpha phenomena, the team investigates cases that point to others with Alpha abilities. As they work against the clock to solve this new brand of crime, they must prevent their own personality differences and disparate backgrounds from interfering with their ultimate mission to catch the enemy.",
                 "productioncode": "",
                 "rating": 7.400000095367432,
@@ -257,7 +257,7 @@
                         "name": "Mahershala Ali",
                         "order": 3,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
                     },
                     {
                         "name": "Raoul Bhajena",
@@ -279,7 +279,7 @@
                         "name": "Laura Mennell",
                         "order": 1,
                         "role": "Nina Theroux",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/2wk93WP1T1YZNNkn3bwEhc1tXwZ.jpg"
                     },
                     {
                         "name": "Azita Ghanizada",
@@ -291,7 +291,7 @@
                         "name": "David Strathairn",
                         "order": 3,
                         "role": "Dr. Lee Rosen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5P9hWKVBXVD6bNdDO3O7upa1A6S.jpg"
                     },
                     {
                         "name": "Ryan Cartwright",
@@ -325,12 +325,12 @@
                 "episode": 2,
                 "episodeid": 21,
                 "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/Season 1/Alphas.S01E02.Ursache.und.Wirkung.GERMAN.Dubbed.DVDRiP.XviD-idTV.avi",
+                "file": "smb://Ext/Media/Serien/Alphas/Season 1/Alphas.S01E02.Ursache.und.Wirkung.GERMAN.Dubbed.DVDRiP.XviD-idTV.avi",
                 "firstaired": "2011-07-18",
                 "label": "1x02. Cause & Effect",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:14:30",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "A problematic former patient of Rosen's escapes as Rosen is getting acquainted with his Department of Defense liaison, and the rest of the team tries to balance their normal lives with their work as Alphas.",
                 "productioncode": "",
                 "rating": 7.599999904632568,
@@ -374,13 +374,13 @@
                         "name": "Tatiana Maslany",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/310607.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ab7IuPThWGtcAxxwn9po9Npk5xf.jpg"
                     },
                     {
                         "name": "Mahershala Ali",
                         "order": 2,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
                     },
                     {
                         "name": "Callum Keith Rennie",
@@ -408,7 +408,7 @@
                         "name": "Laura Mennell",
                         "order": 1,
                         "role": "Nina Theroux",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/2wk93WP1T1YZNNkn3bwEhc1tXwZ.jpg"
                     },
                     {
                         "name": "Azita Ghanizada",
@@ -420,7 +420,7 @@
                         "name": "David Strathairn",
                         "order": 3,
                         "role": "Dr. Lee Rosen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5P9hWKVBXVD6bNdDO3O7upa1A6S.jpg"
                     },
                     {
                         "name": "Ryan Cartwright",
@@ -454,12 +454,12 @@
                 "episode": 3,
                 "episodeid": 22,
                 "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/Season 1/Alphas.S01E03.Aggressionsbewaeltigung.GERMAN.Dubbed.DVDRiP.XviD-idTV.avi",
+                "file": "smb://Ext/Media/Serien/Alphas/Season 1/Alphas.S01E03.Aggressionsbewaeltigung.GERMAN.Dubbed.DVDRiP.XviD-idTV.avi",
                 "firstaired": "2011-07-25",
                 "label": "1x03. Anger Management",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:14:30",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "The team moves to new offices following the attack on Rosen; violent riots break out on the east coast, which are linked to a runaway teen.",
                 "productioncode": "",
                 "rating": 7.800000190734863,
@@ -530,7 +530,7 @@
                         "name": "Laura Mennell",
                         "order": 1,
                         "role": "Nina Theroux",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/2wk93WP1T1YZNNkn3bwEhc1tXwZ.jpg"
                     },
                     {
                         "name": "Azita Ghanizada",
@@ -542,7 +542,7 @@
                         "name": "David Strathairn",
                         "order": 3,
                         "role": "Dr. Lee Rosen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5P9hWKVBXVD6bNdDO3O7upa1A6S.jpg"
                     },
                     {
                         "name": "Ryan Cartwright",
@@ -566,7 +566,7 @@
                         "name": "Mahershala Ali",
                         "order": 7,
                         "role": "Nathan Clay",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
                     },
                     {
                         "name": "Skyler Wexler",
@@ -582,12 +582,12 @@
                 "episode": 4,
                 "episodeid": 23,
                 "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/Season 1/Alphas.S01E04.Rosetta.GERMAN.Dubbed.DVDRiP.XviD-idTV.avi",
+                "file": "smb://Ext/Media/Serien/Alphas/Season 1/Alphas.S01E04.Rosetta.GERMAN.Dubbed.DVDRiP.XviD-idTV.avi",
                 "firstaired": "2011-08-01",
                 "label": "1x04. Rosetta",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:14:30",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "The Alpha team closes in on Red Flag and rescues an autistic woman, Anna, with the ability to translate any language. The team tries to figure out Red Flag’s plan while Gary bonds with Anna.",
                 "productioncode": "",
                 "rating": 7.699999809265137,
@@ -667,7 +667,7 @@
                         "name": "Laura Mennell",
                         "order": 1,
                         "role": "Nina Theroux",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/2wk93WP1T1YZNNkn3bwEhc1tXwZ.jpg"
                     },
                     {
                         "name": "Azita Ghanizada",
@@ -679,7 +679,7 @@
                         "name": "David Strathairn",
                         "order": 3,
                         "role": "Dr. Lee Rosen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5P9hWKVBXVD6bNdDO3O7upa1A6S.jpg"
                     },
                     {
                         "name": "Ryan Cartwright",
@@ -703,7 +703,7 @@
                         "name": "Mahershala Ali",
                         "order": 7,
                         "role": "Nathan Clay",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
                     },
                     {
                         "name": "Skyler Wexler",
@@ -719,12 +719,12 @@
                 "episode": 5,
                 "episodeid": 24,
                 "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/Season 1/Alphas.S01E05.Zu.viel.Liebe.GERMAN.Dubbed.DVDRiP.XviD-idTV.avi",
+                "file": "smb://Ext/Media/Serien/Alphas/Season 1/Alphas.S01E05.Zu.viel.Liebe.GERMAN.Dubbed.DVDRiP.XviD-idTV.avi",
                 "firstaired": "2011-08-08",
                 "label": "1x05. Never Let Me Go",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:14:30",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Rachel goes on a date that ends with a powerful kiss; Rosen's team officially joins the Defense Criminal Investigation Service, and their first case is to probe a series of deaths linked to a high school in Pennsylvania.",
                 "productioncode": "",
                 "rating": 7.5,
@@ -762,7 +762,8 @@
                     {
                         "name": "Garret Dillahunt",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/72VwNIJ7s9LhdsDHTNdsbkEsVyK.jpg"
                     },
                     {
                         "name": "Daniel Kash",
@@ -809,7 +810,7 @@
                         "name": "Laura Mennell",
                         "order": 1,
                         "role": "Nina Theroux",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253811.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/2wk93WP1T1YZNNkn3bwEhc1tXwZ.jpg"
                     },
                     {
                         "name": "Azita Ghanizada",
@@ -821,7 +822,7 @@
                         "name": "David Strathairn",
                         "order": 3,
                         "role": "Dr. Lee Rosen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5P9hWKVBXVD6bNdDO3O7upa1A6S.jpg"
                     },
                     {
                         "name": "Ryan Cartwright",
@@ -845,7 +846,7 @@
                         "name": "Mahershala Ali",
                         "order": 7,
                         "role": "Nathan Clay",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299781.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
                     },
                     {
                         "name": "Skyler Wexler",
@@ -861,12 +862,12 @@
                 "episode": 8,
                 "episodeid": 25,
                 "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Alphas/Season 1/Alphas.S01E08.Paradies.in.Flammen.GERMAN.Dubbed.DVDRiP.XviD-idTV.mp4",
+                "file": "smb://Ext/Media/Serien/Alphas/Season 1/Alphas.S01E08.Paradies.in.Flammen.GERMAN.Dubbed.DVDRiP.XviD-idTV.mp4",
                 "firstaired": "2011-08-29",
                 "label": "1x08. A Short Time in Paradise",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 18:14:30",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 1,
                 "plot": "Hicks and Nina are entranced by a deadly cult leader named Jonas.",
                 "productioncode": "",
                 "rating": 7.599999904632568,
@@ -906,13 +907,13 @@
             "episode": 6,
             "fanart": "http://thetvdb.com/banners/fanart/original/210841-18.jpg",
             "label": "Staffel 1",
-            "playcount": 0,
+            "playcount": 1,
             "season": 1,
             "seasonid": 17,
             "showtitle": "Alphas",
             "thumbnail": "http://thetvdb.com/banners/seasons/210841-1-6.jpg",
             "tvshowid": 3,
-            "watchedepisodes": 0
+            "watchedepisodes": 6
         }
     ]
 }

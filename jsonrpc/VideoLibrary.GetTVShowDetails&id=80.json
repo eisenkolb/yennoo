@@ -2,7 +2,7 @@
     "tvshowdetails": {
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/255266-g2.jpg",
-            "fanart": "http://thetvdb.com/banners/fanart/original/255266-9.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/255266-7.jpg",
             "poster": "http://thetvdb.com/banners/posters/255266-7.jpg"
         },
         "cast": [
@@ -34,7 +34,7 @@
                 "name": "Brian Hallisay",
                 "order": 4,
                 "role": "Kyle Parks",
-                "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
             },
             {
                 "name": "Rebecca Field",
@@ -46,8 +46,8 @@
         "dateadded": "2013-11-09 16:00:23",
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"255266-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/255266/all/en.zip</url></episodeguide>",
-        "fanart": "http://thetvdb.com/banners/fanart/original/255266-9.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Client List/",
+        "fanart": "http://thetvdb.com/banners/fanart/original/255266-7.jpg",
+        "file": "smb://Ext/Media/Serien/The Client List/",
         "genre": [
             "Drama"
         ],
@@ -79,7 +79,7 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/255266/4269239.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/255266-g2.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/255266-9.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/255266-7.jpg",
                     "tvshow.poster": "http://thetvdb.com/banners/posters/255266-7.jpg"
                 },
                 "cast": [
@@ -87,7 +87,7 @@
                         "name": "Brian Hallisay",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Elisabeth Roehm",
@@ -152,8 +152,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 1651,
-                "fanart": "http://thetvdb.com/banners/fanart/original/255266-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Client List/Season 1/The.Client.List.S01E01.Neustart.mit.Happy.Ending.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/255266-7.jpg",
+                "file": "smb://Ext/Media/Serien/The Client List/Season 1/The.Client.List.S01E01.Neustart.mit.Happy.Ending.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
                 "firstaired": "2012-04-08",
                 "label": "1x01. The Rub of Sugarland",
                 "lastplayed": "",
@@ -192,11 +192,11 @@
             "art": {
                 "poster": "http://thetvdb.com/banners/seasons/255266-1-5.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/255266-g2.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/255266-9.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/255266-7.jpg",
                 "tvshow.poster": "http://thetvdb.com/banners/posters/255266-7.jpg"
             },
             "episode": 1,
-            "fanart": "http://thetvdb.com/banners/fanart/original/255266-9.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/255266-7.jpg",
             "label": "Staffel 1",
             "playcount": 0,
             "season": 1,

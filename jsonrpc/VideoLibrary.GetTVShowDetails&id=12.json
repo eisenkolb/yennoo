@@ -10,7 +10,7 @@
                 "name": "Steve Buscemi",
                 "order": 0,
                 "role": "Nucky Thompson",
-                "thumbnail": "http://thetvdb.com/banners/actors/81242.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/7sDzFRScCv85usSwPG01BTac7UY.jpg"
             },
             {
                 "name": "Michael Pitt",
@@ -34,13 +34,13 @@
                 "name": "Stephen Graham",
                 "order": 4,
                 "role": "Al Capone",
-                "thumbnail": "http://thetvdb.com/banners/actors/81241.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/81VZiCA6w8nXG0UjqXCgSJare5N.jpg"
             },
             {
                 "name": "Michael Shannon",
                 "order": 5,
                 "role": "Agent Nelson Van Alden",
-                "thumbnail": "http://thetvdb.com/banners/actors/81240.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/5yGCJ6znHM96zTfW2LNP6uPPDCZ.jpg"
             },
             {
                 "name": "Greg Antonacci",
@@ -70,7 +70,7 @@
                 "name": "Dabney Coleman",
                 "order": 10,
                 "role": "Commodore Louis Kaestner",
-                "thumbnail": "http://thetvdb.com/banners/actors/299774.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/92D3w0JA9QBlbns9XKiH9YPagVs.jpg"
             },
             {
                 "name": "Paul Sparks (II)",
@@ -112,7 +112,7 @@
                 "name": "Shea Whigham",
                 "order": 17,
                 "role": "Elias 'Eli' Thompson",
-                "thumbnail": "http://thetvdb.com/banners/actors/299760.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/xlLI0hrutcyKOIHs4b47iSh65NU.jpg"
             },
             {
                 "name": "Anatol Yusef",
@@ -124,7 +124,7 @@
         "episode": 3,
         "episodeguide": "<episodeguide><url cache=\"84947-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/84947/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boardwalk Empire/",
+        "file": "smb://Ext/Media/Serien/Boardwalk Empire/",
         "genre": [
             "Crime",
             "Drama"
@@ -165,7 +165,7 @@
                         "name": "Steve Buscemi",
                         "order": 0,
                         "role": "Nucky Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/81242.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7sDzFRScCv85usSwPG01BTac7UY.jpg"
                     },
                     {
                         "name": "Michael Pitt",
@@ -189,13 +189,13 @@
                         "name": "Stephen Graham",
                         "order": 4,
                         "role": "Al Capone",
-                        "thumbnail": "http://thetvdb.com/banners/actors/81241.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/81VZiCA6w8nXG0UjqXCgSJare5N.jpg"
                     },
                     {
                         "name": "Michael Shannon",
                         "order": 5,
                         "role": "Agent Nelson Van Alden",
-                        "thumbnail": "http://thetvdb.com/banners/actors/81240.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5yGCJ6znHM96zTfW2LNP6uPPDCZ.jpg"
                     },
                     {
                         "name": "Greg Antonacci",
@@ -225,7 +225,7 @@
                         "name": "Dabney Coleman",
                         "order": 10,
                         "role": "Commodore Louis Kaestner",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299774.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/92D3w0JA9QBlbns9XKiH9YPagVs.jpg"
                     },
                     {
                         "name": "Paul Sparks (II)",
@@ -267,7 +267,7 @@
                         "name": "Shea Whigham",
                         "order": 17,
                         "role": "Elias 'Eli' Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299760.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xlLI0hrutcyKOIHs4b47iSh65NU.jpg"
                     },
                     {
                         "name": "Anatol Yusef",
@@ -282,7 +282,7 @@
                 "episode": 1,
                 "episodeid": 197,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boardwalk Empire/Season 1/Boardwalk.Empire.S01E01.Boardwalk.Empire.DL.German.Dubbed.WS.HDTVRiP.XviD-FREAKS.mp4",
+                "file": "smb://Ext/Media/Serien/Boardwalk Empire/Season 1/Boardwalk.Empire.S01E01.Boardwalk.Empire.DL.German.Dubbed.WS.HDTVRiP.XviD-FREAKS.mp4",
                 "firstaired": "2010-09-19",
                 "label": "1x01. Boardwalk Empire",
                 "lastplayed": "",
@@ -326,7 +326,7 @@
                         "name": "Steve Buscemi",
                         "order": 0,
                         "role": "Nucky Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/81242.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7sDzFRScCv85usSwPG01BTac7UY.jpg"
                     },
                     {
                         "name": "Michael Pitt",
@@ -350,13 +350,13 @@
                         "name": "Stephen Graham",
                         "order": 4,
                         "role": "Al Capone",
-                        "thumbnail": "http://thetvdb.com/banners/actors/81241.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/81VZiCA6w8nXG0UjqXCgSJare5N.jpg"
                     },
                     {
                         "name": "Michael Shannon",
                         "order": 5,
                         "role": "Agent Nelson Van Alden",
-                        "thumbnail": "http://thetvdb.com/banners/actors/81240.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5yGCJ6znHM96zTfW2LNP6uPPDCZ.jpg"
                     },
                     {
                         "name": "Greg Antonacci",
@@ -386,7 +386,7 @@
                         "name": "Dabney Coleman",
                         "order": 10,
                         "role": "Commodore Louis Kaestner",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299774.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/92D3w0JA9QBlbns9XKiH9YPagVs.jpg"
                     },
                     {
                         "name": "Paul Sparks (II)",
@@ -428,7 +428,7 @@
                         "name": "Shea Whigham",
                         "order": 17,
                         "role": "Elias 'Eli' Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299760.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xlLI0hrutcyKOIHs4b47iSh65NU.jpg"
                     },
                     {
                         "name": "Anatol Yusef",
@@ -443,7 +443,7 @@
                 "episode": 2,
                 "episodeid": 198,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boardwalk Empire/Season 1/Boardwalk.Empire.S01E02.Elfenbeinturm.DL.German.Dubbed.WS.HDTVRiP.XviD-FREAKS.mp4",
+                "file": "smb://Ext/Media/Serien/Boardwalk Empire/Season 1/Boardwalk.Empire.S01E02.Elfenbeinturm.DL.German.Dubbed.WS.HDTVRiP.XviD-FREAKS.mp4",
                 "firstaired": "2010-09-26",
                 "label": "1x02. The Ivory Tower",
                 "lastplayed": "",
@@ -487,7 +487,7 @@
                         "name": "Steve Buscemi",
                         "order": 0,
                         "role": "Nucky Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/81242.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7sDzFRScCv85usSwPG01BTac7UY.jpg"
                     },
                     {
                         "name": "Michael Pitt",
@@ -511,13 +511,13 @@
                         "name": "Stephen Graham",
                         "order": 4,
                         "role": "Al Capone",
-                        "thumbnail": "http://thetvdb.com/banners/actors/81241.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/81VZiCA6w8nXG0UjqXCgSJare5N.jpg"
                     },
                     {
                         "name": "Michael Shannon",
                         "order": 5,
                         "role": "Agent Nelson Van Alden",
-                        "thumbnail": "http://thetvdb.com/banners/actors/81240.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5yGCJ6znHM96zTfW2LNP6uPPDCZ.jpg"
                     },
                     {
                         "name": "Greg Antonacci",
@@ -547,7 +547,7 @@
                         "name": "Dabney Coleman",
                         "order": 10,
                         "role": "Commodore Louis Kaestner",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299774.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/92D3w0JA9QBlbns9XKiH9YPagVs.jpg"
                     },
                     {
                         "name": "Paul Sparks (II)",
@@ -589,7 +589,7 @@
                         "name": "Shea Whigham",
                         "order": 17,
                         "role": "Elias 'Eli' Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299760.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xlLI0hrutcyKOIHs4b47iSh65NU.jpg"
                     },
                     {
                         "name": "Anatol Yusef",
@@ -604,7 +604,7 @@
                 "episode": 3,
                 "episodeid": 199,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84947-12.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Boardwalk Empire/Season 1/Boardwalk.Empire.S01E03.Endstation.Chicago.DL.German.Dubbed.WS.HDTVRiP.XviD-FREAKS.mp4",
+                "file": "smb://Ext/Media/Serien/Boardwalk Empire/Season 1/Boardwalk.Empire.S01E03.Endstation.Chicago.DL.German.Dubbed.WS.HDTVRiP.XviD-FREAKS.mp4",
                 "firstaired": "2010-10-03",
                 "label": "1x03. Broadway Limited",
                 "lastplayed": "",

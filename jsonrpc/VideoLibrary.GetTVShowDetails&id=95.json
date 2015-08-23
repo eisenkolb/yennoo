@@ -34,7 +34,7 @@
                 "name": "Michael Welch",
                 "order": 4,
                 "role": "Mack Thompson",
-                "thumbnail": "http://thetvdb.com/banners/actors/337136.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/93sABnjY1mJyFLW12W51vJJ5lrr.jpg"
             },
             {
                 "name": "DJ Qualls",
@@ -64,14 +64,14 @@
                 "name": "Harold Perrineau",
                 "order": 9,
                 "role": "Mark Hammond",
-                "thumbnail": "http://thetvdb.com/banners/actors/337130.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/kHdfkvm6KAmYQaoCMegLp9303D2.jpg"
             }
         ],
         "dateadded": "2014-11-21 23:45:41",
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"280494-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/280494/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/280494-11.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Z Nation/",
+        "file": "smb://Ext/Media/Serien/Z Nation/",
         "genre": [
             "Comedy",
             "Drama",
@@ -138,7 +138,7 @@
                         "name": "Michael Welch",
                         "order": 4,
                         "role": "Mack Thompson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337136.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/93sABnjY1mJyFLW12W51vJJ5lrr.jpg"
                     },
                     {
                         "name": "DJ Qualls",
@@ -168,7 +168,7 @@
                         "name": "Harold Perrineau",
                         "order": 9,
                         "role": "Mark Hammond",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337130.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kHdfkvm6KAmYQaoCMegLp9303D2.jpg"
                     }
                 ],
                 "dateadded": "2014-11-21 23:45:41",
@@ -178,7 +178,7 @@
                 "episode": 1,
                 "episodeid": 1927,
                 "fanart": "http://thetvdb.com/banners/fanart/original/280494-11.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Z Nation/Season 1/Z.Nation.S01E01.HDTV.x264-KILLERS.SUBBED.mp4",
+                "file": "smb://Ext/Media/Serien/Z Nation/Season 1/Z.Nation.S01E01.HDTV.x264-KILLERS.SUBBED.mp4",
                 "firstaired": "2014-09-12",
                 "label": "1x01. Puppies and Kittens",
                 "lastplayed": "",

@@ -93,8 +93,6 @@
                         </li>
                     </div>
                 </ul>
-
-
             </li>
         </ul>
     </div>
@@ -108,7 +106,7 @@
                  data-dropdown="drop-{{entry.albumid}}" aria-expanded="false" ng-click="loadSonglist($event)">
 
             <!-- Show current filter / starts -->
-            <div class="title-movie filter text-left" ng-if="$root.filter.property && $root.filter.property !== 'title' && $root.filter.property !== 'displayartist' ">&nbsp;
+            <div class="title-movie filter text-left" ng-if="$root.filter.property && $root.filter.property !== 'title' && $root.filter.property !== 'displayartist'">&nbsp;
                 <div ng-include="'./resources/view/shared/media.filter.html'" class="inline"></div>
             </div>
             <!-- Show current filter /  ends  -->

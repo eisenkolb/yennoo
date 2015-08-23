@@ -2,8 +2,8 @@
     "tvshowdetails": {
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/274897-g.jpg",
-            "fanart": "http://thetvdb.com/banners/fanart/original/274897-8.jpg",
-            "poster": "http://thetvdb.com/banners/posters/274897-10.jpg"
+            "fanart": "http://thetvdb.com/banners/fanart/original/274897-11.jpg",
+            "poster": "http://thetvdb.com/banners/posters/274897-1.jpg"
         },
         "cast": [
             {
@@ -46,7 +46,7 @@
                 "name": "Jeremy Crutchley",
                 "order": 6,
                 "role": "Wendell Hathorne",
-                "thumbnail": "http://thetvdb.com/banners/actors/349209.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/17aHojCYOmUyoyuPgLd4di0fdvm.jpg"
             },
             {
                 "name": "Stuart Townsend",
@@ -82,7 +82,7 @@
                 "name": "Stephen Lang",
                 "order": 12,
                 "role": "Increase Mather",
-                "thumbnail": "http://thetvdb.com/banners/actors/343895.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/tqF6ibURpLvRPlgvLRvjCQqWaa2.jpg"
             },
             {
                 "name": "Iddo Goldberg",
@@ -94,14 +94,14 @@
                 "name": "Xander Berkeley",
                 "order": 14,
                 "role": "Magistrate Hale",
-                "thumbnail": "http://thetvdb.com/banners/actors/327802.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/vlZ9FDMk2Xd1WHixPKxnheZoXgR.jpg"
             }
         ],
         "dateadded": "2014-11-22 00:13:17",
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"274897-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/274897/all/en.zip</url></episodeguide>",
-        "fanart": "http://thetvdb.com/banners/fanart/original/274897-8.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Salem/",
+        "fanart": "http://thetvdb.com/banners/fanart/original/274897-11.jpg",
+        "file": "smb://Ext/Media/Serien/Salem/",
         "genre": [
             "Adventure",
             "Fantasy"
@@ -121,7 +121,7 @@
             "WGN America"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/274897-10.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/274897-1.jpg",
         "title": "Salem",
         "tvshowid": 73,
         "votes": "31",
@@ -134,8 +134,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/274897/4701927.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/274897-g.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274897-8.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/274897-10.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274897-11.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/274897-1.jpg"
                 },
                 "cast": [
                     {
@@ -147,7 +147,8 @@
                     {
                         "name": "Lara Grice",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5bVR1UvnPyLgCcJqGHCnRCeLKPI.jpg"
                     },
                     {
                         "name": "Azure Parsons",
@@ -204,7 +205,7 @@
                         "name": "Jeremy Crutchley",
                         "order": 6,
                         "role": "Wendell Hathorne",
-                        "thumbnail": "http://thetvdb.com/banners/actors/349209.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/17aHojCYOmUyoyuPgLd4di0fdvm.jpg"
                     },
                     {
                         "name": "Stuart Townsend",
@@ -234,7 +235,7 @@
                         "name": "Stephen Lang",
                         "order": 12,
                         "role": "Increase Mather",
-                        "thumbnail": "http://thetvdb.com/banners/actors/343895.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tqF6ibURpLvRPlgvLRvjCQqWaa2.jpg"
                     },
                     {
                         "name": "Iddo Goldberg",
@@ -246,7 +247,7 @@
                         "name": "Xander Berkeley",
                         "order": 14,
                         "role": "Magistrate Hale",
-                        "thumbnail": "http://thetvdb.com/banners/actors/327802.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vlZ9FDMk2Xd1WHixPKxnheZoXgR.jpg"
                     }
                 ],
                 "dateadded": "2014-11-22 00:13:17",
@@ -255,8 +256,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 1284,
-                "fanart": "http://thetvdb.com/banners/fanart/original/274897-8.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Salem/Season 1/Salem.S01E01.Hexensabbat.German.AC3.HDTVRip.x264-ARC.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/274897-11.jpg",
+                "file": "smb://Ext/Media/Serien/Salem/Season 1/Salem.S01E01.Hexensabbat.German.AC3.HDTVRip.x264-ARC.mkv",
                 "firstaired": "2014-04-20",
                 "label": "1x01. The Vow",
                 "lastplayed": "",
@@ -297,11 +298,11 @@
                 "banner": "http://thetvdb.com/banners/seasonswide/274897-1.jpg",
                 "poster": "http://thetvdb.com/banners/seasons/274897-1-4.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/274897-g.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274897-8.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/274897-10.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/274897-11.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/274897-1.jpg"
             },
             "episode": 1,
-            "fanart": "http://thetvdb.com/banners/fanart/original/274897-8.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/274897-11.jpg",
             "label": "Staffel 1",
             "playcount": 0,
             "season": 1,

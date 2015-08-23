@@ -83,7 +83,7 @@
         "episode": 0,
         "episodeguide": "<episodeguide><url cache=\"75941-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/75941/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/75941-8.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Elfen Lied/",
+        "file": "smb://Ext/Media/Serien/Elfen Lied/",
         "genre": [
             "Animation",
             "Drama"

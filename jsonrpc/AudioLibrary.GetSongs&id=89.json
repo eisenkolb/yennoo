@@ -1,0 +1,86 @@
+[
+    {
+        "album": "title",
+        "albumartist": [
+            "artist"
+        ],
+        "albumartistid": [
+            44
+        ],
+        "albumid": 89,
+        "artist": [
+            "artist"
+        ],
+        "artistid": [
+            44
+        ],
+        "comment": "",
+        "disc": 0,
+        "displayartist": "artist",
+        "duration": 180,
+        "fanart": "",
+        "file": "nfs:\\Music\\Marilyn Manson - Holy Wood\\03 The Fight Song.mp3",
+        "genre": [
+            "Alternative Metal"
+        ],
+        "genreid": [
+            22
+        ],
+        "label": "Track 03",
+        "lastplayed": "",
+        "lyrics": "",
+        "musicbrainzalbumartistid": "",
+        "musicbrainzalbumid": "",
+        "musicbrainzartistid": "",
+        "musicbrainztrackid": "",
+        "playcount": 0,
+        "rating": 0,
+        "songid": 1188,
+        "thumbnail": "",
+        "title": "Track 03",
+        "track": 3,
+        "year": 0
+    },
+    {
+        "album": "title",
+        "albumartist": [
+            "artist"
+        ],
+        "albumartistid": [
+            44
+        ],
+        "albumid": 89,
+        "artist": [
+            "artist"
+        ],
+        "artistid": [
+            44
+        ],
+        "comment": "",
+        "disc": 0,
+        "displayartist": "artist",
+        "duration": 202,
+        "fanart": "",
+        "file": "nfs:\\Music\\Marilyn Manson - Holy Wood\\14 Burning Flag.mp3",
+        "genre": [
+            "Alternative Metal"
+        ],
+        "genreid": [
+            22
+        ],
+        "label": "Track 14",
+        "lastplayed": "",
+        "lyrics": "",
+        "musicbrainzalbumartistid": "",
+        "musicbrainzalbumid": "",
+        "musicbrainzartistid": "",
+        "musicbrainztrackid": "",
+        "playcount": 0,
+        "rating": 0,
+        "songid": 1189,
+        "thumbnail": "",
+        "title": "Track 14",
+        "track": 14,
+        "year": 0
+    }
+]

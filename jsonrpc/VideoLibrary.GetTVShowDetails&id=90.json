@@ -16,7 +16,7 @@
                 "name": "Colin Farrell",
                 "order": 1,
                 "role": "Ray Velcoro",
-                "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/9FDzNq8cixv5PzJwjNXx1mJKAhU.jpg"
             },
             {
                 "name": "Rachel McAdams",
@@ -28,13 +28,13 @@
                 "name": "Taylor Kitsch",
                 "order": 3,
                 "role": "Paul Woodrugh",
-                "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/scE7HxVtFhgeoF7BkaJbNeSeMCw.jpg"
             },
             {
                 "name": "Woody Harrelson",
                 "order": 4,
                 "role": "Detective Marty Hart",
-                "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/ivfalpnvELPaSILqP6K6rabXfsU.jpg"
             },
             {
                 "name": "Matthew McConaughey",
@@ -46,13 +46,13 @@
                 "name": "Michelle Monaghan",
                 "order": 6,
                 "role": "Maggie Hart",
-                "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/9W7xBcdBeFjoZVCwP2iROk1jtkV.jpg"
             },
             {
                 "name": "Kevin Dunn",
                 "order": 7,
                 "role": "Major Ken Quesada",
-                "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/85thH2pUn2tPP97QhnYQI7MBiCW.jpg"
             },
             {
                 "name": "Michael Potts",
@@ -64,13 +64,13 @@
                 "name": "Tory Kittles",
                 "order": 9,
                 "role": "Detective Thomas Papania",
-                "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/jlR3xLuJug176VllNLgyZGvozhz.jpg"
             },
             {
                 "name": "Kelly Reilly",
                 "order": 10,
                 "role": "Jordan Semyon",
-                "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/utp6IT1cLk80RgJzehBIWkSQ8FJ.jpg"
             },
             {
                 "name": "Alexandra Daddario",
@@ -83,7 +83,7 @@
         "episode": 8,
         "episodeguide": "<episodeguide><url cache=\"270633-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/270633/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/",
+        "file": "smb://Ext/Media/Serien/True Detective/",
         "genre": [
             "Crime",
             "Drama",
@@ -131,7 +131,7 @@
                         "name": "Kevin Dunn",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/85thH2pUn2tPP97QhnYQI7MBiCW.jpg"
                     },
                     {
                         "name": "Clarke Peters",
@@ -142,7 +142,8 @@
                     {
                         "name": "Jay O. Sanders",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wgCFAatAtmfN5zWgwzGgA48wwXu.jpg"
                     },
                     {
                         "name": "Christopher Berry",
@@ -168,7 +169,8 @@
                     {
                         "name": "J.D. Evermore",
                         "order": 8,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iNn9JV3Kk7VJ9ICYKdjgwFq8EpF.jpg"
                     },
                     {
                         "name": "Dana Gourrier",
@@ -222,7 +224,7 @@
                         "name": "Colin Farrell",
                         "order": 1,
                         "role": "Ray Velcoro",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9FDzNq8cixv5PzJwjNXx1mJKAhU.jpg"
                     },
                     {
                         "name": "Rachel McAdams",
@@ -234,13 +236,13 @@
                         "name": "Taylor Kitsch",
                         "order": 3,
                         "role": "Paul Woodrugh",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/scE7HxVtFhgeoF7BkaJbNeSeMCw.jpg"
                     },
                     {
                         "name": "Woody Harrelson",
                         "order": 4,
                         "role": "Detective Marty Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ivfalpnvELPaSILqP6K6rabXfsU.jpg"
                     },
                     {
                         "name": "Matthew McConaughey",
@@ -252,7 +254,7 @@
                         "name": "Michelle Monaghan",
                         "order": 6,
                         "role": "Maggie Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9W7xBcdBeFjoZVCwP2iROk1jtkV.jpg"
                     },
                     {
                         "name": "Michael Potts",
@@ -264,13 +266,13 @@
                         "name": "Tory Kittles",
                         "order": 9,
                         "role": "Detective Thomas Papania",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jlR3xLuJug176VllNLgyZGvozhz.jpg"
                     },
                     {
                         "name": "Kelly Reilly",
                         "order": 10,
                         "role": "Jordan Semyon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/utp6IT1cLk80RgJzehBIWkSQ8FJ.jpg"
                     }
                 ],
                 "dateadded": "2014-05-04 04:28:38",
@@ -280,7 +282,7 @@
                 "episode": 1,
                 "episodeid": 1816,
                 "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E01.Die.lange.strahlende.Dunkelheit.German.DL.HDTV.x264-TVS.mp4",
+                "file": "smb://Ext/Media/Serien/True Detective/Season 1/True.Detective.S01E01.Die.lange.strahlende.Dunkelheit.German.DL.HDTV.x264-TVS.mp4",
                 "firstaired": "2014-01-12",
                 "label": "1x01. The Long Bright Dark",
                 "lastplayed": "",
@@ -330,7 +332,7 @@
                         "name": "Kevin Dunn",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/85thH2pUn2tPP97QhnYQI7MBiCW.jpg"
                     },
                     {
                         "name": "Tess Harper",
@@ -376,7 +378,8 @@
                     {
                         "name": "Andrea Frankle",
                         "order": 10,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nyT3rKJzK7egF7lyhRXa1Xb8N6V.jpg"
                     },
                     {
                         "name": "Patricia French",
@@ -420,7 +423,7 @@
                         "name": "Colin Farrell",
                         "order": 1,
                         "role": "Ray Velcoro",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9FDzNq8cixv5PzJwjNXx1mJKAhU.jpg"
                     },
                     {
                         "name": "Rachel McAdams",
@@ -432,13 +435,13 @@
                         "name": "Taylor Kitsch",
                         "order": 3,
                         "role": "Paul Woodrugh",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/scE7HxVtFhgeoF7BkaJbNeSeMCw.jpg"
                     },
                     {
                         "name": "Woody Harrelson",
                         "order": 4,
                         "role": "Detective Marty Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ivfalpnvELPaSILqP6K6rabXfsU.jpg"
                     },
                     {
                         "name": "Matthew McConaughey",
@@ -450,7 +453,7 @@
                         "name": "Michelle Monaghan",
                         "order": 6,
                         "role": "Maggie Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9W7xBcdBeFjoZVCwP2iROk1jtkV.jpg"
                     },
                     {
                         "name": "Michael Potts",
@@ -462,13 +465,13 @@
                         "name": "Tory Kittles",
                         "order": 9,
                         "role": "Detective Thomas Papania",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jlR3xLuJug176VllNLgyZGvozhz.jpg"
                     },
                     {
                         "name": "Kelly Reilly",
                         "order": 10,
                         "role": "Jordan Semyon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/utp6IT1cLk80RgJzehBIWkSQ8FJ.jpg"
                     }
                 ],
                 "dateadded": "2014-05-04 04:32:11",
@@ -478,7 +481,7 @@
                 "episode": 2,
                 "episodeid": 1817,
                 "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E02.Visionen.REPACK.German.DL.HDTV.x264-TVS.mp4",
+                "file": "smb://Ext/Media/Serien/True Detective/Season 1/True.Detective.S01E02.Visionen.REPACK.German.DL.HDTV.x264-TVS.mp4",
                 "firstaired": "2014-01-19",
                 "label": "1x02. Seeing Things",
                 "lastplayed": "",
@@ -528,13 +531,13 @@
                         "name": "Kevin Dunn",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/85thH2pUn2tPP97QhnYQI7MBiCW.jpg"
                     },
                     {
                         "name": "Shea Whigham",
                         "order": 2,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299760.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xlLI0hrutcyKOIHs4b47iSh65NU.jpg"
                     },
                     {
                         "name": "Robert Beitzel",
@@ -555,7 +558,8 @@
                     {
                         "name": "J.D. Evermore",
                         "order": 6,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iNn9JV3Kk7VJ9ICYKdjgwFq8EpF.jpg"
                     },
                     {
                         "name": "Glenn Fleshler",
@@ -618,7 +622,7 @@
                         "name": "Colin Farrell",
                         "order": 1,
                         "role": "Ray Velcoro",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9FDzNq8cixv5PzJwjNXx1mJKAhU.jpg"
                     },
                     {
                         "name": "Rachel McAdams",
@@ -630,13 +634,13 @@
                         "name": "Taylor Kitsch",
                         "order": 3,
                         "role": "Paul Woodrugh",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/scE7HxVtFhgeoF7BkaJbNeSeMCw.jpg"
                     },
                     {
                         "name": "Woody Harrelson",
                         "order": 4,
                         "role": "Detective Marty Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ivfalpnvELPaSILqP6K6rabXfsU.jpg"
                     },
                     {
                         "name": "Matthew McConaughey",
@@ -648,7 +652,7 @@
                         "name": "Michelle Monaghan",
                         "order": 6,
                         "role": "Maggie Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9W7xBcdBeFjoZVCwP2iROk1jtkV.jpg"
                     },
                     {
                         "name": "Michael Potts",
@@ -660,13 +664,13 @@
                         "name": "Tory Kittles",
                         "order": 9,
                         "role": "Detective Thomas Papania",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jlR3xLuJug176VllNLgyZGvozhz.jpg"
                     },
                     {
                         "name": "Kelly Reilly",
                         "order": 10,
                         "role": "Jordan Semyon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/utp6IT1cLk80RgJzehBIWkSQ8FJ.jpg"
                     }
                 ],
                 "dateadded": "2014-06-29 12:01:09",
@@ -676,7 +680,7 @@
                 "episode": 3,
                 "episodeid": 1818,
                 "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E03.Der.verschlossene.Raum.German.Dubbed.HDTV.x264-4SJ.mp4",
+                "file": "smb://Ext/Media/Serien/True Detective/Season 1/True.Detective.S01E03.Der.verschlossene.Raum.German.Dubbed.HDTV.x264-4SJ.mp4",
                 "firstaired": "2014-01-26",
                 "label": "1x03. The Locked Room",
                 "lastplayed": "",
@@ -726,7 +730,7 @@
                         "name": "Kevin Dunn",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/85thH2pUn2tPP97QhnYQI7MBiCW.jpg"
                     },
                     {
                         "name": "Jackson Beals",
@@ -768,7 +772,8 @@
                     {
                         "name": "J.D. Evermore",
                         "order": 9,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iNn9JV3Kk7VJ9ICYKdjgwFq8EpF.jpg"
                     },
                     {
                         "name": "Jon Eyez",
@@ -826,7 +831,7 @@
                         "name": "Colin Farrell",
                         "order": 1,
                         "role": "Ray Velcoro",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9FDzNq8cixv5PzJwjNXx1mJKAhU.jpg"
                     },
                     {
                         "name": "Rachel McAdams",
@@ -838,13 +843,13 @@
                         "name": "Taylor Kitsch",
                         "order": 3,
                         "role": "Paul Woodrugh",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/scE7HxVtFhgeoF7BkaJbNeSeMCw.jpg"
                     },
                     {
                         "name": "Woody Harrelson",
                         "order": 4,
                         "role": "Detective Marty Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ivfalpnvELPaSILqP6K6rabXfsU.jpg"
                     },
                     {
                         "name": "Matthew McConaughey",
@@ -856,7 +861,7 @@
                         "name": "Michelle Monaghan",
                         "order": 6,
                         "role": "Maggie Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9W7xBcdBeFjoZVCwP2iROk1jtkV.jpg"
                     },
                     {
                         "name": "Michael Potts",
@@ -868,13 +873,13 @@
                         "name": "Tory Kittles",
                         "order": 9,
                         "role": "Detective Thomas Papania",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jlR3xLuJug176VllNLgyZGvozhz.jpg"
                     },
                     {
                         "name": "Kelly Reilly",
                         "order": 10,
                         "role": "Jordan Semyon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/utp6IT1cLk80RgJzehBIWkSQ8FJ.jpg"
                     }
                 ],
                 "dateadded": "2014-06-29 12:07:58",
@@ -884,7 +889,7 @@
                 "episode": 4,
                 "episodeid": 1819,
                 "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E04.Wer.ist.da.GERMAN.DUBBED.WS.HDTVRip.x264-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/True Detective/Season 1/True.Detective.S01E04.Wer.ist.da.GERMAN.DUBBED.WS.HDTVRip.x264-TVP.mp4",
                 "firstaired": "2014-02-09",
                 "label": "1x04. Who Goes There",
                 "lastplayed": "",
@@ -928,12 +933,13 @@
                         "name": "Kevin Dunn",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/85thH2pUn2tPP97QhnYQI7MBiCW.jpg"
                     },
                     {
                         "name": "Elizabeth Reaser",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xwMhNtsH7ebNVcNS5aaXCt9riP.jpg"
                     },
                     {
                         "name": "Jackson Beals",
@@ -959,7 +965,8 @@
                     {
                         "name": "J.D. Evermore",
                         "order": 6,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iNn9JV3Kk7VJ9ICYKdjgwFq8EpF.jpg"
                     },
                     {
                         "name": "Dana Gourrier",
@@ -1022,7 +1029,7 @@
                         "name": "Colin Farrell",
                         "order": 1,
                         "role": "Ray Velcoro",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9FDzNq8cixv5PzJwjNXx1mJKAhU.jpg"
                     },
                     {
                         "name": "Rachel McAdams",
@@ -1034,13 +1041,13 @@
                         "name": "Taylor Kitsch",
                         "order": 3,
                         "role": "Paul Woodrugh",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/scE7HxVtFhgeoF7BkaJbNeSeMCw.jpg"
                     },
                     {
                         "name": "Woody Harrelson",
                         "order": 4,
                         "role": "Detective Marty Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ivfalpnvELPaSILqP6K6rabXfsU.jpg"
                     },
                     {
                         "name": "Matthew McConaughey",
@@ -1052,7 +1059,7 @@
                         "name": "Michelle Monaghan",
                         "order": 6,
                         "role": "Maggie Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9W7xBcdBeFjoZVCwP2iROk1jtkV.jpg"
                     },
                     {
                         "name": "Michael Potts",
@@ -1064,13 +1071,13 @@
                         "name": "Tory Kittles",
                         "order": 9,
                         "role": "Detective Thomas Papania",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jlR3xLuJug176VllNLgyZGvozhz.jpg"
                     },
                     {
                         "name": "Kelly Reilly",
                         "order": 10,
                         "role": "Jordan Semyon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/utp6IT1cLk80RgJzehBIWkSQ8FJ.jpg"
                     },
                     {
                         "name": "Alexandra Daddario",
@@ -1086,7 +1093,7 @@
                 "episode": 5,
                 "episodeid": 1820,
                 "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E05.Das.geheime.Schicksal.allen.Lebens.GERMAN.DUBBED.WS.HDTVRip.x264-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/True Detective/Season 1/True.Detective.S01E05.Das.geheime.Schicksal.allen.Lebens.GERMAN.DUBBED.WS.HDTVRip.x264-TVP.mp4",
                 "firstaired": "2014-02-16",
                 "label": "1x05. The Secret Fate of All Life",
                 "lastplayed": "",
@@ -1134,7 +1141,8 @@
                     {
                         "name": "Jay O. Sanders",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wgCFAatAtmfN5zWgwzGgA48wwXu.jpg"
                     },
                     {
                         "name": "Lili Simmons",
@@ -1145,7 +1153,7 @@
                         "name": "Shea Whigham",
                         "order": 3,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299760.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xlLI0hrutcyKOIHs4b47iSh65NU.jpg"
                     },
                     {
                         "name": "Gabe Begneaud",
@@ -1165,7 +1173,8 @@
                     {
                         "name": "J.D. Evermore",
                         "order": 7,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iNn9JV3Kk7VJ9ICYKdjgwFq8EpF.jpg"
                     },
                     {
                         "name": "Henry Frost",
@@ -1223,7 +1232,7 @@
                         "name": "Colin Farrell",
                         "order": 1,
                         "role": "Ray Velcoro",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9FDzNq8cixv5PzJwjNXx1mJKAhU.jpg"
                     },
                     {
                         "name": "Rachel McAdams",
@@ -1235,13 +1244,13 @@
                         "name": "Taylor Kitsch",
                         "order": 3,
                         "role": "Paul Woodrugh",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/scE7HxVtFhgeoF7BkaJbNeSeMCw.jpg"
                     },
                     {
                         "name": "Woody Harrelson",
                         "order": 4,
                         "role": "Detective Marty Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ivfalpnvELPaSILqP6K6rabXfsU.jpg"
                     },
                     {
                         "name": "Matthew McConaughey",
@@ -1253,13 +1262,13 @@
                         "name": "Michelle Monaghan",
                         "order": 6,
                         "role": "Maggie Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9W7xBcdBeFjoZVCwP2iROk1jtkV.jpg"
                     },
                     {
                         "name": "Kevin Dunn",
                         "order": 7,
                         "role": "Major Ken Quesada",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/85thH2pUn2tPP97QhnYQI7MBiCW.jpg"
                     },
                     {
                         "name": "Michael Potts",
@@ -1271,13 +1280,13 @@
                         "name": "Tory Kittles",
                         "order": 9,
                         "role": "Detective Thomas Papania",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jlR3xLuJug176VllNLgyZGvozhz.jpg"
                     },
                     {
                         "name": "Kelly Reilly",
                         "order": 10,
                         "role": "Jordan Semyon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/utp6IT1cLk80RgJzehBIWkSQ8FJ.jpg"
                     },
                     {
                         "name": "Alexandra Daddario",
@@ -1293,7 +1302,7 @@
                 "episode": 6,
                 "episodeid": 1821,
                 "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E06.GERMAN.DUBBED.WS.HDTVRip.x264-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/True Detective/Season 1/True.Detective.S01E06.GERMAN.DUBBED.WS.HDTVRip.x264-TVP.mp4",
                 "firstaired": "2014-02-23",
                 "label": "1x06. Haunted Houses",
                 "lastplayed": "",
@@ -1346,7 +1355,8 @@
                     {
                         "name": "J.D. Evermore",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iNn9JV3Kk7VJ9ICYKdjgwFq8EpF.jpg"
                     },
                     {
                         "name": "Glenn Fleshler",
@@ -1394,7 +1404,7 @@
                         "name": "Colin Farrell",
                         "order": 1,
                         "role": "Ray Velcoro",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9FDzNq8cixv5PzJwjNXx1mJKAhU.jpg"
                     },
                     {
                         "name": "Rachel McAdams",
@@ -1406,13 +1416,13 @@
                         "name": "Taylor Kitsch",
                         "order": 3,
                         "role": "Paul Woodrugh",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/scE7HxVtFhgeoF7BkaJbNeSeMCw.jpg"
                     },
                     {
                         "name": "Woody Harrelson",
                         "order": 4,
                         "role": "Detective Marty Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ivfalpnvELPaSILqP6K6rabXfsU.jpg"
                     },
                     {
                         "name": "Matthew McConaughey",
@@ -1424,13 +1434,13 @@
                         "name": "Michelle Monaghan",
                         "order": 6,
                         "role": "Maggie Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9W7xBcdBeFjoZVCwP2iROk1jtkV.jpg"
                     },
                     {
                         "name": "Kevin Dunn",
                         "order": 7,
                         "role": "Major Ken Quesada",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/85thH2pUn2tPP97QhnYQI7MBiCW.jpg"
                     },
                     {
                         "name": "Michael Potts",
@@ -1442,13 +1452,13 @@
                         "name": "Tory Kittles",
                         "order": 9,
                         "role": "Detective Thomas Papania",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jlR3xLuJug176VllNLgyZGvozhz.jpg"
                     },
                     {
                         "name": "Kelly Reilly",
                         "order": 10,
                         "role": "Jordan Semyon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/utp6IT1cLk80RgJzehBIWkSQ8FJ.jpg"
                     },
                     {
                         "name": "Alexandra Daddario",
@@ -1464,7 +1474,7 @@
                 "episode": 7,
                 "episodeid": 1822,
                 "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E07.Nachdem.du.weg.warst.GERMAN.DUBBED.WS.BDRip.x264-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/True Detective/Season 1/True.Detective.S01E07.Nachdem.du.weg.warst.GERMAN.DUBBED.WS.BDRip.x264-TVP.mp4",
                 "firstaired": "2014-03-02",
                 "label": "1x07. After You've Gone",
                 "lastplayed": "",
@@ -1570,7 +1580,7 @@
                         "name": "Colin Farrell",
                         "order": 1,
                         "role": "Ray Velcoro",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347376.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9FDzNq8cixv5PzJwjNXx1mJKAhU.jpg"
                     },
                     {
                         "name": "Rachel McAdams",
@@ -1582,13 +1592,13 @@
                         "name": "Taylor Kitsch",
                         "order": 3,
                         "role": "Paul Woodrugh",
-                        "thumbnail": "http://thetvdb.com/banners/actors/347378.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/scE7HxVtFhgeoF7BkaJbNeSeMCw.jpg"
                     },
                     {
                         "name": "Woody Harrelson",
                         "order": 4,
                         "role": "Detective Marty Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316933.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ivfalpnvELPaSILqP6K6rabXfsU.jpg"
                     },
                     {
                         "name": "Matthew McConaughey",
@@ -1600,13 +1610,13 @@
                         "name": "Michelle Monaghan",
                         "order": 6,
                         "role": "Maggie Hart",
-                        "thumbnail": "http://thetvdb.com/banners/actors/324739.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9W7xBcdBeFjoZVCwP2iROk1jtkV.jpg"
                     },
                     {
                         "name": "Kevin Dunn",
                         "order": 7,
                         "role": "Major Ken Quesada",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/85thH2pUn2tPP97QhnYQI7MBiCW.jpg"
                     },
                     {
                         "name": "Michael Potts",
@@ -1618,13 +1628,13 @@
                         "name": "Tory Kittles",
                         "order": 9,
                         "role": "Detective Thomas Papania",
-                        "thumbnail": "http://thetvdb.com/banners/actors/316937.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/jlR3xLuJug176VllNLgyZGvozhz.jpg"
                     },
                     {
                         "name": "Kelly Reilly",
                         "order": 10,
                         "role": "Jordan Semyon",
-                        "thumbnail": "http://thetvdb.com/banners/actors/352822.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/utp6IT1cLk80RgJzehBIWkSQ8FJ.jpg"
                     },
                     {
                         "name": "Alexandra Daddario",
@@ -1640,7 +1650,7 @@
                 "episode": 8,
                 "episodeid": 1823,
                 "fanart": "http://thetvdb.com/banners/fanart/original/270633-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/True Detective/Season 1/True.Detective.S01E08.Form.und.Leere.GERMAN.WEBRiP.x264.mp4",
+                "file": "smb://Ext/Media/Serien/True Detective/Season 1/True.Detective.S01E08.Form.und.Leere.GERMAN.WEBRiP.x264.mp4",
                 "firstaired": "2014-03-09",
                 "label": "1x08. Form and Void",
                 "lastplayed": "",

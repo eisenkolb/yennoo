@@ -22,7 +22,7 @@
                 "name": "Thomas Dekker",
                 "order": 2,
                 "role": "Adam Conant",
-                "thumbnail": "http://thetvdb.com/banners/actors/284817.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/1wDz8UVkG7rx6t96QKuMrKCo9wj.jpg"
             },
             {
                 "name": "Chris Zylka",
@@ -77,7 +77,7 @@
         "episode": 2,
         "episodeguide": "<episodeguide><url cache=\"248884-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/248884/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/248884-3.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Secret Circle/",
+        "file": "smb://Ext/Media/Serien/The Secret Circle/",
         "genre": [
             "Drama",
             "Fantasy",
@@ -136,7 +136,7 @@
                         "name": "Thomas Dekker",
                         "order": 2,
                         "role": "Adam Conant",
-                        "thumbnail": "http://thetvdb.com/banners/actors/284817.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1wDz8UVkG7rx6t96QKuMrKCo9wj.jpg"
                     },
                     {
                         "name": "Chris Zylka",
@@ -194,7 +194,7 @@
                 "episode": 1,
                 "episodeid": 1668,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248884-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Secret Circle/Season 1/The.Secret.Circle.S01E01.Pilot.480p.WEB-DL.x264-mSD.mkv",
+                "file": "smb://Ext/Media/Serien/The Secret Circle/Season 1/The.Secret.Circle.S01E01.Pilot.480p.WEB-DL.x264-mSD.mkv",
                 "firstaired": "2011-09-15",
                 "label": "1x01. Pilot",
                 "lastplayed": "",
@@ -260,7 +260,7 @@
                         "name": "Thomas Dekker",
                         "order": 2,
                         "role": "Adam Conant",
-                        "thumbnail": "http://thetvdb.com/banners/actors/284817.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1wDz8UVkG7rx6t96QKuMrKCo9wj.jpg"
                     },
                     {
                         "name": "Chris Zylka",
@@ -318,7 +318,7 @@
                 "episode": 2,
                 "episodeid": 1669,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248884-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Secret Circle/Season 1/The.Secret.Circle.S01E02.HDTV.Xvid-2HD.avi",
+                "file": "smb://Ext/Media/Serien/The Secret Circle/Season 1/The.Secret.Circle.S01E02.HDTV.Xvid-2HD.avi",
                 "firstaired": "2011-09-22",
                 "label": "1x02. Bound",
                 "lastplayed": "",

@@ -10,13 +10,13 @@
                 "name": "Krysten Ritter",
                 "order": 0,
                 "role": "Chloe",
-                "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/e1RzQfMHsWVB3IIjAbsc07nMA4c.jpg"
             },
             {
                 "name": "Dreama Walker",
                 "order": 1,
                 "role": "June Colburn",
-                "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/s0d0pYG4ZECFGt87bBu4iEORh0K.jpg"
             },
             {
                 "name": "James Van Der Beek",
@@ -34,7 +34,7 @@
                 "name": "Liza Lapira",
                 "order": 4,
                 "role": "Robin",
-                "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/tV55n4QH4BJcdBvwhqBfBxqyDW0.jpg"
             },
             {
                 "name": "Eric André",
@@ -53,7 +53,7 @@
         "episode": 7,
         "episodeguide": "<episodeguide><url cache=\"248812-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/248812/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/",
+        "file": "smb://Ext/Media/Serien/Apartment 23/",
         "genre": [
             "Comedy"
         ],
@@ -102,7 +102,8 @@
                     {
                         "name": "Peter Mackenzie",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mAnOLlLQDEtUvAqEjKPLiQSJ0w5.jpg"
                     },
                     {
                         "name": "Adrian Kali Turner",
@@ -173,13 +174,13 @@
                         "name": "Krysten Ritter",
                         "order": 0,
                         "role": "Chloe",
-                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/e1RzQfMHsWVB3IIjAbsc07nMA4c.jpg"
                     },
                     {
                         "name": "Dreama Walker",
                         "order": 1,
                         "role": "June Colburn",
-                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/s0d0pYG4ZECFGt87bBu4iEORh0K.jpg"
                     },
                     {
                         "name": "James Van Der Beek",
@@ -197,7 +198,7 @@
                         "name": "Liza Lapira",
                         "order": 4,
                         "role": "Robin",
-                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tV55n4QH4BJcdBvwhqBfBxqyDW0.jpg"
                     },
                     {
                         "name": "Eric André",
@@ -219,7 +220,7 @@
                 "episode": 1,
                 "episodeid": 78,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E01.Dont.Trust.the.Bitch.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
+                "file": "smb://Ext/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E01.Dont.Trust.the.Bitch.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
                 "firstaired": "2012-04-11",
                 "label": "1x01. Pilot",
                 "lastplayed": "",
@@ -263,13 +264,13 @@
                         "name": "Krysten Ritter",
                         "order": 0,
                         "role": "Chloe",
-                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/e1RzQfMHsWVB3IIjAbsc07nMA4c.jpg"
                     },
                     {
                         "name": "Dreama Walker",
                         "order": 1,
                         "role": "June Colburn",
-                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/s0d0pYG4ZECFGt87bBu4iEORh0K.jpg"
                     },
                     {
                         "name": "James Van Der Beek",
@@ -287,7 +288,7 @@
                         "name": "Liza Lapira",
                         "order": 4,
                         "role": "Robin",
-                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tV55n4QH4BJcdBvwhqBfBxqyDW0.jpg"
                     },
                     {
                         "name": "Eric André",
@@ -309,7 +310,7 @@
                 "episode": 2,
                 "episodeid": 79,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E02.Daddys.Girl.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
+                "file": "smb://Ext/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E02.Daddys.Girl.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
                 "firstaired": "2012-04-18",
                 "label": "1x02. Daddy's Girl ...",
                 "lastplayed": "",
@@ -353,13 +354,13 @@
                         "name": "Krysten Ritter",
                         "order": 0,
                         "role": "Chloe",
-                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/e1RzQfMHsWVB3IIjAbsc07nMA4c.jpg"
                     },
                     {
                         "name": "Dreama Walker",
                         "order": 1,
                         "role": "June Colburn",
-                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/s0d0pYG4ZECFGt87bBu4iEORh0K.jpg"
                     },
                     {
                         "name": "James Van Der Beek",
@@ -377,7 +378,7 @@
                         "name": "Liza Lapira",
                         "order": 4,
                         "role": "Robin",
-                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tV55n4QH4BJcdBvwhqBfBxqyDW0.jpg"
                     },
                     {
                         "name": "Eric André",
@@ -399,7 +400,7 @@
                 "episode": 3,
                 "episodeid": 80,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E03.Rabenmutter.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
+                "file": "smb://Ext/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E03.Rabenmutter.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
                 "firstaired": "2012-04-25",
                 "label": "1x03. Parent Trap ...",
                 "lastplayed": "",
@@ -443,13 +444,13 @@
                         "name": "Krysten Ritter",
                         "order": 0,
                         "role": "Chloe",
-                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/e1RzQfMHsWVB3IIjAbsc07nMA4c.jpg"
                     },
                     {
                         "name": "Dreama Walker",
                         "order": 1,
                         "role": "June Colburn",
-                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/s0d0pYG4ZECFGt87bBu4iEORh0K.jpg"
                     },
                     {
                         "name": "James Van Der Beek",
@@ -467,7 +468,7 @@
                         "name": "Liza Lapira",
                         "order": 4,
                         "role": "Robin",
-                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tV55n4QH4BJcdBvwhqBfBxqyDW0.jpg"
                     },
                     {
                         "name": "Eric André",
@@ -489,7 +490,7 @@
                 "episode": 4,
                 "episodeid": 81,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E04.New.Cool.June.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
+                "file": "smb://Ext/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E04.New.Cool.June.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
                 "firstaired": "2012-05-02",
                 "label": "1x04. The Wedding ...",
                 "lastplayed": "",
@@ -534,13 +535,13 @@
                         "name": "Krysten Ritter",
                         "order": 0,
                         "role": "Chloe",
-                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/e1RzQfMHsWVB3IIjAbsc07nMA4c.jpg"
                     },
                     {
                         "name": "Dreama Walker",
                         "order": 1,
                         "role": "June Colburn",
-                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/s0d0pYG4ZECFGt87bBu4iEORh0K.jpg"
                     },
                     {
                         "name": "James Van Der Beek",
@@ -558,7 +559,7 @@
                         "name": "Liza Lapira",
                         "order": 4,
                         "role": "Robin",
-                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tV55n4QH4BJcdBvwhqBfBxqyDW0.jpg"
                     },
                     {
                         "name": "Eric André",
@@ -580,7 +581,7 @@
                 "episode": 5,
                 "episodeid": 82,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E05.Marmelade.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
+                "file": "smb://Ext/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E05.Marmelade.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
                 "firstaired": "2012-05-09",
                 "label": "1x05. Making Rent ...",
                 "lastplayed": "",
@@ -624,13 +625,13 @@
                         "name": "Krysten Ritter",
                         "order": 0,
                         "role": "Chloe",
-                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/e1RzQfMHsWVB3IIjAbsc07nMA4c.jpg"
                     },
                     {
                         "name": "Dreama Walker",
                         "order": 1,
                         "role": "June Colburn",
-                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/s0d0pYG4ZECFGt87bBu4iEORh0K.jpg"
                     },
                     {
                         "name": "James Van Der Beek",
@@ -648,7 +649,7 @@
                         "name": "Liza Lapira",
                         "order": 4,
                         "role": "Robin",
-                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tV55n4QH4BJcdBvwhqBfBxqyDW0.jpg"
                     },
                     {
                         "name": "Eric André",
@@ -670,7 +671,7 @@
                 "episode": 6,
                 "episodeid": 83,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E06.Einfach.nur.Sex.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
+                "file": "smb://Ext/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E06.Einfach.nur.Sex.GERMAN.DUBBED.DL.iTunesHD.XviD-4SJ.mp4",
                 "firstaired": "2012-05-16",
                 "label": "1x06. It's Just Sex ...",
                 "lastplayed": "",
@@ -714,13 +715,13 @@
                         "name": "Krysten Ritter",
                         "order": 0,
                         "role": "Chloe",
-                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/e1RzQfMHsWVB3IIjAbsc07nMA4c.jpg"
                     },
                     {
                         "name": "Dreama Walker",
                         "order": 1,
                         "role": "June Colburn",
-                        "thumbnail": "http://thetvdb.com/banners/actors/291455.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/s0d0pYG4ZECFGt87bBu4iEORh0K.jpg"
                     },
                     {
                         "name": "James Van Der Beek",
@@ -738,7 +739,7 @@
                         "name": "Liza Lapira",
                         "order": 4,
                         "role": "Robin",
-                        "thumbnail": "http://thetvdb.com/banners/actors/305665.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tV55n4QH4BJcdBvwhqBfBxqyDW0.jpg"
                     },
                     {
                         "name": "Eric André",
@@ -760,7 +761,7 @@
                 "episode": 7,
                 "episodeid": 84,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248812-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E07.Shitagi.Nashi.GERMAN.DUBBED.WS.WEBRip.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Apartment 23/Season 1/Apartment.23.S01E07.Shitagi.Nashi.GERMAN.DUBBED.WS.WEBRip.XviD-TVP.mp4",
                 "firstaired": "2012-05-23",
                 "label": "1x07. Shitagi Nashi ...",
                 "lastplayed": "",

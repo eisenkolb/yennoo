@@ -1,0 +1,4992 @@
+[
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/sxZllU78hMBfFKzLoVKMWPKgtpT.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/lBAvHoYuTjsZgLAWERFarEfRbGl.jpg"
+        },
+        "cast": [
+            {
+                "name": "Robert Downey Jr.",
+                "order": 0,
+                "role": "Tony Stark / Iron Man",
+                "thumbnail": "http://image.tmdb.org/t/p/original/r7WLn4Kbnqb6oJ8TmSI0e4LkWTj.jpg"
+            },
+            {
+                "name": "Chris Evans",
+                "order": 1,
+                "role": "Steve Rogers / Captain America",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ueIzur9vURNLoqZCdfWltnpuZTq.jpg"
+            },
+            {
+                "name": "Chris Hemsworth",
+                "order": 2,
+                "role": "Thor",
+                "thumbnail": "http://image.tmdb.org/t/p/original/kolnZraa1UaD6NS8Ic8guFmOUPZ.jpg"
+            },
+            {
+                "name": "Mark Ruffalo",
+                "order": 3,
+                "role": "Bruce Banner / The Hulk",
+                "thumbnail": "http://image.tmdb.org/t/p/original/isQ747u0MU8U9gdsNlPngjABclH.jpg"
+            },
+            {
+                "name": "Scarlett Johansson",
+                "order": 4,
+                "role": "Natasha Romanoff / Black Widow",
+                "thumbnail": "http://image.tmdb.org/t/p/original/f3c1rwcOoeU0v6Ak5loUvMyifR0.jpg"
+            },
+            {
+                "name": "Jeremy Renner",
+                "order": 5,
+                "role": "Clint Barton / Hawkeye",
+                "thumbnail": "http://image.tmdb.org/t/p/original/pFOLCHkbTDzJ79dri1Iyz0cpAi4.jpg"
+            },
+            {
+                "name": "James Spader",
+                "order": 6,
+                "role": "Ultron (voice)",
+                "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
+            },
+            {
+                "name": "Elizabeth Olsen",
+                "order": 7,
+                "role": "Wanda Maximoff / Scarlet Witch",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jNS9KvsupdxW3s05mk6LezoB93T.jpg"
+            },
+            {
+                "name": "Aaron Taylor-Johnson",
+                "order": 8,
+                "role": "Pietro Maximoff / Quicksilver",
+                "thumbnail": "http://image.tmdb.org/t/p/original/iQrBTHUtKVI2kN4u0hRKQz667cx.jpg"
+            },
+            {
+                "name": "Paul Bettany",
+                "order": 9,
+                "role": "J.A.R.V.I.S. (voice) / The Vision",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xN2pJ3DIPacYviSSwDovxizPS2w.jpg"
+            },
+            {
+                "name": "Samuel L. Jackson",
+                "order": 10,
+                "role": "Nick Fury",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dlW6prW9HwYDsIRXNoFYtyHpSny.jpg"
+            },
+            {
+                "name": "Cobie Smulders",
+                "order": 11,
+                "role": "Maria Hill",
+                "thumbnail": "http://image.tmdb.org/t/p/original/73BwQTcaaPjUxf0zHRVGWOx6v1J.jpg"
+            },
+            {
+                "name": "Don Cheadle",
+                "order": 12,
+                "role": "Colonel James \"Rhodey\" Rhodes / War Machine",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4PvWfLvABO5n1ZfzK76vol9Bqae.jpg"
+            },
+            {
+                "name": "Anthony Mackie",
+                "order": 13,
+                "role": "Sam Wilson / Falcon",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5VGGJ0Co8SC94iiedWb2o3C36T.jpg"
+            },
+            {
+                "name": "Stellan Skarsgård",
+                "order": 14,
+                "role": "Erik Selvig",
+                "thumbnail": "http://image.tmdb.org/t/p/original/hjWdhX7zEI0DkF7gA4hcEVcYCZl.jpg"
+            },
+            {
+                "name": "Thomas Kretschmann",
+                "order": 15,
+                "role": "Baron Wolfgang von Strucker",
+                "thumbnail": "http://image.tmdb.org/t/p/original/allahLWNWLQpeY46nUg1d6zSO7T.jpg"
+            },
+            {
+                "name": "Andy Serkis",
+                "order": 16,
+                "role": "Ulysses Klaue",
+                "thumbnail": "http://image.tmdb.org/t/p/original/nQRsxFveJaUIlZ4GYWDe9uJ6u2f.jpg"
+            },
+            {
+                "name": "Linda Cardellini",
+                "order": 17,
+                "role": "Laura Barton",
+                "thumbnail": "http://image.tmdb.org/t/p/original/bC7fSXBPEfE51caLH5e1Ka5URc7.jpg"
+            },
+            {
+                "name": "Claudia Kim",
+                "order": 18,
+                "role": "Dr. Helen Cho",
+                "thumbnail": "http://image.tmdb.org/t/p/original/um1pGqhglgtF5OcKmRhA90kS25A.jpg"
+            },
+            {
+                "name": "Hayley Atwell",
+                "order": 19,
+                "role": "Peggy Carter",
+                "thumbnail": "http://image.tmdb.org/t/p/original/w6xp5nvj8boZTJ24ZH4bhh4Lx7B.jpg"
+            },
+            {
+                "name": "Idris Elba",
+                "order": 20,
+                "role": "Heimdall",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4fuJRkT2TdfznRONUvQmdcayTTx.jpg"
+            },
+            {
+                "name": "Josh Brolin",
+                "order": 21,
+                "role": "Thanos",
+                "thumbnail": "http://image.tmdb.org/t/p/original/x8KKnvHyPvH16M6waAnY1OeCtA8.jpg"
+            },
+            {
+                "name": "Julie Delpy",
+                "order": 22,
+                "role": "Madame B",
+                "thumbnail": "http://image.tmdb.org/t/p/original/bAshalmOTtoSKlM17F281I8SMTn.jpg"
+            },
+            {
+                "name": "Henry Goodman",
+                "order": 23,
+                "role": "Dr. List",
+                "thumbnail": "http://image.tmdb.org/t/p/original/6aubyjy4zS8CCGEbWuHp8QgMhJv.jpg"
+            },
+            {
+                "name": "Nick W. Nicholson",
+                "order": 24,
+                "role": "Dr. Taryl Jenkins",
+                "thumbnail": "http://image.tmdb.org/t/p/original/46fAvvECH3mNzszXD8evBdWjOza.jpg"
+            },
+            {
+                "name": "Kerry Condon",
+                "order": 25,
+                "role": "F.R.I.D.A.Y. (voice)",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xkkZOXsL04UfKhTIzsDae9oAxCl.jpg"
+            },
+            {
+                "name": "Stan Lee",
+                "order": 26,
+                "role": "World War II Veteran",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dTr2gJPL7jELKVkcjtoNx80uVKR.jpg"
+            },
+            {
+                "name": "Dominique Provost-Chalkley",
+                "order": 27,
+                "role": "Zrinka",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yTTh9yVyxwRBbjS24bUKwmaU2e8.jpg"
+            },
+            {
+                "name": "Isaac Andrews",
+                "order": 28,
+                "role": "Costel",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5R8RheJGkn7lY6qgiHvQ5YhRLpY.jpg"
+            },
+            {
+                "name": "Aaron Himelstein",
+                "order": 29,
+                "role": "Cameron Klein",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dx7qDc6tMxsfP9jAYkCVClX6p8q.jpg"
+            },
+            {
+                "name": "Dilyana Bouklieva",
+                "order": 30,
+                "role": "Sokovian Citizen",
+                "thumbnail": "http://image.tmdb.org/t/p/original/qHRXVqpzPiIcdiWigFKw7HyUL27.jpg"
+            },
+            {
+                "name": "Daniel Westwood",
+                "order": 31,
+                "role": "Asgardian God",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yvblj5nqxW7QOTnDWEooKLyGfB3.jpg"
+            },
+            {
+                "name": "Julian Bleach",
+                "order": 32,
+                "role": "Balett Instructor",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3FTgXt3Vy8vLaKK7E6kVviOBYgk.jpg"
+            },
+            {
+                "name": "Imogen Poynton",
+                "order": 33,
+                "role": "Lila Barton",
+                "thumbnail": "http://image.tmdb.org/t/p/original/AlqJB5o6kLnBUYQCxEbmKir2rQt.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-08-21 18:48:51",
+        "director": [
+            "Joss Whedon"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/sxZllU78hMBfFKzLoVKMWPKgtpT.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Marvel's The Avengers - Age of Ultron/Avengers.Age.of.Ultron.2015.German.AC3.Dubbed.DL.720p.Amazo.mkv",
+        "genre": [
+            "Adventure",
+            "Science Fiction",
+            "Action"
+        ],
+        "imdbnumber": "tt2395427",
+        "label": "Marvel's The Avengers: Age of Ultron",
+        "lastplayed": "",
+        "movieid": 472,
+        "mpaa": "Rated PG-13",
+        "originaltitle": "Avengers: Age of Ultron",
+        "playcount": 0,
+        "plot": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
+        "plotoutline": "",
+        "rating": 7.699999809265137,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 8500,
+        "set": "The Avengers Collection",
+        "setid": 32,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": "ger"
+                },
+                {
+                    "channels": 6,
+                    "codec": "ac3",
+                    "language": "eng"
+                }
+            ],
+            "subtitle": [
+                {
+                    "language": "eng"
+                }
+            ],
+            "video": [
+                {
+                    "aspect": 2.361624002456665,
+                    "codec": "h264",
+                    "duration": 8500,
+                    "height": 542,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Marvel Studios"
+        ],
+        "tag": [],
+        "tagline": "A New Age Has Come.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/lBAvHoYuTjsZgLAWERFarEfRbGl.jpg",
+        "title": "Marvel's The Avengers: Age of Ultron",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=tmeOjFno6Do",
+        "votes": "1888",
+        "writer": [
+            "Joss Whedon"
+        ],
+        "year": 2015
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/cyoXM1K3PW2IuMI9NyU3Q9gCcUW.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/ce9vGDMexoihZ8ta3Zt60k4FChb.jpg"
+        },
+        "cast": [
+            {
+                "name": "Chris Pratt",
+                "order": 0,
+                "role": "Owen",
+                "thumbnail": "http://image.tmdb.org/t/p/original/n4DD1AYU7WEMNPLga1TxqnHivn1.jpg"
+            },
+            {
+                "name": "Bryce Dallas Howard",
+                "order": 1,
+                "role": "Claire",
+                "thumbnail": "http://image.tmdb.org/t/p/original/unTaOfAs7zOptJp5j0Xy5PgWNur.jpg"
+            },
+            {
+                "name": "Jake Johnson",
+                "order": 2,
+                "role": "Lowery",
+                "thumbnail": "http://image.tmdb.org/t/p/original/7X6pb4SDs9RoXi5gI4Nl8ZiPO4l.jpg"
+            },
+            {
+                "name": "Judy Greer",
+                "order": 3,
+                "role": "Karen Mitchell",
+                "thumbnail": "http://image.tmdb.org/t/p/original/uJxpiQvhQ1r3cko3cg06YYMxFQu.jpg"
+            },
+            {
+                "name": "Vincent D'Onofrio",
+                "order": 4,
+                "role": "Morton",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4pgzL6eP5Qdf2PhagqTNVEshv5e.jpg"
+            },
+            {
+                "name": "Nick Robinson",
+                "order": 6,
+                "role": "Zach",
+                "thumbnail": "http://image.tmdb.org/t/p/original/lpruCzyNpXzSmvCSBwQfOOG30Rx.jpg"
+            },
+            {
+                "name": "Lauren Lapkus",
+                "order": 7,
+                "role": "Vivian",
+                "thumbnail": "http://image.tmdb.org/t/p/original/j5idEC0dZcXq5bNyTrURazzHIXq.jpg"
+            },
+            {
+                "name": "Omar Sy",
+                "order": 8,
+                "role": "Barry",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fsI7UQYwgOUDMLODv5nfRj8Oeaq.jpg"
+            },
+            {
+                "name": "BD Wong",
+                "order": 9,
+                "role": "Henry Wu",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dfIfhsoZVkJSf1XcHbRWwIeJ4Ud.jpg"
+            },
+            {
+                "name": "Irrfan Khan",
+                "order": 10,
+                "role": "Masrani",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9O71WSILj1af9smwuN44nGd198Q.jpg"
+            },
+            {
+                "name": "Brian Tee",
+                "order": 11,
+                "role": "Hamada",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rKo9U4Swi0t4IqUKOU0bhl5BuiZ.jpg"
+            },
+            {
+                "name": "Ty Simpkins",
+                "order": 12,
+                "role": "Gray",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zkjGHGH47wm8iNpnoyKBRW2LDV6.jpg"
+            },
+            {
+                "name": "Andy Buckley",
+                "order": 13,
+                "role": "Scott Mitchell",
+                "thumbnail": "http://image.tmdb.org/t/p/original/pi1D8yQVmo0K5rXaq9dUo3Ic5oR.jpg"
+            },
+            {
+                "name": "Katie McGrath",
+                "order": 14,
+                "role": "Zara Young",
+                "thumbnail": "http://thetvdb.com/banners/actors/318519.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-07-12 16:49:41",
+        "director": [
+            "Colin Trevorrow"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/cyoXM1K3PW2IuMI9NyU3Q9gCcUW.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Jurassic World/Jurassic.World.German.DL.AC3.Dubbed.720p.WebHD.h264-PsO.mkv",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Science Fiction",
+            "Thriller"
+        ],
+        "imdbnumber": "tt0369610",
+        "label": "Jurassic World",
+        "lastplayed": "",
+        "movieid": 41,
+        "mpaa": "Rated PG-13",
+        "originaltitle": "Jurassic World",
+        "playcount": 0,
+        "plot": "Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.",
+        "plotoutline": "",
+        "rating": 7,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 7442,
+        "set": "Jurassic Park Collection",
+        "setid": 13,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2,
+                    "codec": "h264",
+                    "duration": 7442,
+                    "height": 640,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Universal Studios"
+        ],
+        "tag": [],
+        "tagline": "The park is open.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/ce9vGDMexoihZ8ta3Zt60k4FChb.jpg",
+        "title": "Jurassic World",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=lP-sUUUfamw",
+        "votes": "1851",
+        "writer": [
+            "Rick Jaffa",
+            "Mark Protosevich",
+            "Amanda Silver",
+            "Derek Connolly"
+        ],
+        "year": 2015
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/nkwoiSVJLeK0NI8kTqioBna61bm.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/A7HtCxFe7Ms8H7e7o2zawppbuDT.jpg"
+        },
+        "cast": [
+            {
+                "name": "Mark Wahlberg",
+                "order": 0,
+                "role": "John Bennett",
+                "thumbnail": "http://image.tmdb.org/t/p/original/1h1oWGOy9j2JjoXVfFivOAdHsuQ.jpg"
+            },
+            {
+                "name": "Seth MacFarlane",
+                "order": 2,
+                "role": "Ted (stem)",
+                "thumbnail": "http://thetvdb.com/banners/actors/42361.jpg"
+            },
+            {
+                "name": "Amanda Seyfried",
+                "order": 3,
+                "role": "Samantha Leslie Jackson",
+                "thumbnail": "http://image.tmdb.org/t/p/original/kCm8BdLvnxzSodMU8K3QCctV40l.jpg"
+            },
+            {
+                "name": "Jessica Barth",
+                "order": 4,
+                "role": "Tami-Lynn McCafferty",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zYkr25I5Wk7tbow4JrSfRngBYb7.jpg"
+            },
+            {
+                "name": "Patrick Warburton",
+                "order": 5,
+                "role": "Guy",
+                "thumbnail": "http://image.tmdb.org/t/p/original/cq8zZ6YfBrq2k4F4aHYLSP9QOJS.jpg"
+            },
+            {
+                "name": "Morgan Freeman",
+                "order": 6,
+                "role": "Patrick Meighan",
+                "thumbnail": "http://image.tmdb.org/t/p/original/oGJQhOpT8S1M56tvSsbEBePV5O1.jpg"
+            },
+            {
+                "name": "Michael Dorn",
+                "order": 7,
+                "role": "Rick",
+                "thumbnail": "http://image.tmdb.org/t/p/original/d89cHhByE4kpzQcUB7z51YV3EjA.jpg"
+            },
+            {
+                "name": "Dennis Haysbert",
+                "order": 8,
+                "role": "Vruchtbaarheidsdokter",
+                "thumbnail": "http://thetvdb.com/banners/actors/44924.jpg"
+            },
+            {
+                "name": "Lexi Atkins",
+                "order": 9,
+                "role": "Serveerster"
+            },
+            {
+                "name": "Sam J. Jones",
+                "order": 10,
+                "role": "Zichzelf",
+                "thumbnail": "http://image.tmdb.org/t/p/original/w0C7aONaeB6a5DqdzTa23TzcvPm.jpg"
+            },
+            {
+                "name": "Nana Visitor",
+                "order": 11,
+                "role": "Adoptie Agente",
+                "thumbnail": "http://image.tmdb.org/t/p/original/eYTdVwerH5LmX0yPZCrI3TMId23.jpg"
+            },
+            {
+                "name": "Tina Grimm",
+                "order": 12,
+                "role": "Comic Con Stand medewerkster",
+                "thumbnail": "http://image.tmdb.org/t/p/original/13HxiaxoB2GnJRwNgUL7vPYtu8p.jpg"
+            },
+            {
+                "name": "Patrick Stewart",
+                "order": 13,
+                "role": "Verteller (stem)",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9APDd4HgEasZemAcSEBETY9DQoL.jpg"
+            },
+            {
+                "name": "Liam Neeson",
+                "order": 14,
+                "role": "Klant",
+                "thumbnail": "http://image.tmdb.org/t/p/original/m91YLsFZlL5KcjyRa1Oq81zR1Vg.jpg"
+            },
+            {
+                "name": "Tom Brady",
+                "order": 15,
+                "role": "Tom Brady",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fM7tZ2FZWGDPAc0onW3nCPO8HWQ.jpg"
+            },
+            {
+                "name": "Ron Canada",
+                "order": 16,
+                "role": "Rechter",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wN1myF7qnxJCks6OuS3BXVlShSG.jpg"
+            },
+            {
+                "name": "John Carroll Lynch",
+                "order": 17,
+                "role": "Tom Jessup",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5eEGOANKnCCj7FLa3oV28gGYWkW.jpg"
+            },
+            {
+                "name": "John Slattery",
+                "order": 18,
+                "role": "Shep Wild",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jKlkyLBTSQH3AIEkITGaplFdbj.jpg"
+            },
+            {
+                "name": "Bill Smitrovich",
+                "order": 19,
+                "role": "Frank",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rO5wJpx7ZlT6RaunZw20OGF6O2Y.jpg"
+            },
+            {
+                "name": "Giovanni Ribisi",
+                "order": 20,
+                "role": "Donny",
+                "thumbnail": "http://image.tmdb.org/t/p/original/mLQrEU7X7GD5V7i1clGRqpg8PVk.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-07-10 17:13:37",
+        "director": [
+            "Seth MacFarlane"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/nkwoiSVJLeK0NI8kTqioBna61bm.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Ted 2/Ted.2.German.AC3.Dubbed.720p.WebHD.h264.READ.NFO-PsO.mkv",
+        "genre": [
+            "Comedy"
+        ],
+        "imdbnumber": "tt2637276",
+        "label": "Ted 2",
+        "lastplayed": "",
+        "movieid": 63,
+        "mpaa": "Rated R",
+        "originaltitle": "Ted 2",
+        "playcount": 0,
+        "plot": "Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.",
+        "plotoutline": "",
+        "rating": 6.900000095367432,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 6927,
+        "set": "Ted Collection",
+        "setid": 19,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": "ger"
+                },
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": "eng"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.4242420196533203,
+                    "codec": "h264",
+                    "duration": 6927,
+                    "height": 528,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Universal Pictures"
+        ],
+        "tag": [],
+        "tagline": "Ted is Coming, Again.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/A7HtCxFe7Ms8H7e7o2zawppbuDT.jpg",
+        "title": "Ted 2",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=S3AVcCggRnU",
+        "votes": "516",
+        "writer": [
+            "Seth MacFarlane",
+            "Alec Sulkin",
+            "Wellesley Wild"
+        ],
+        "year": 2015
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/9X3cDZb4GYGQeOnZHLwMcCFz2Ro.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/x0ngzJaIOkxyMna2ZasTfqIfHG0.jpg"
+        },
+        "cast": [
+            {
+                "name": "Domhnall Gleeson",
+                "order": 0,
+                "role": "Caleb",
+                "thumbnail": "http://image.tmdb.org/t/p/original/8mgGT0ydyBlo0mDX59VMO3e13IW.jpg"
+            },
+            {
+                "name": "Oscar Isaac",
+                "order": 1,
+                "role": "Nathan",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5dAYYV83K3cvsjFqHLbruV3GBmx.jpg"
+            },
+            {
+                "name": "Alicia Vikander",
+                "order": 2,
+                "role": "Ava",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rZKIXQBxNjBhYSHuOt0tnP8kBks.jpg"
+            },
+            {
+                "name": "Sonoya Mizuno",
+                "order": 3,
+                "role": "Kyoko",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5L2imdNah6Pooq3jOJc8wod9jFd.jpg"
+            },
+            {
+                "name": "Corey Johnson",
+                "order": 4,
+                "role": "Jay",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9NHJWAnCfTIFzocGQdHvny6sIet.jpg"
+            },
+            {
+                "name": "Claire Selby",
+                "order": 5,
+                "role": "Lily",
+                "thumbnail": "http://image.tmdb.org/t/p/original/hBvu5Q60xGL5nOKDsPb7ohehwCK.jpg"
+            },
+            {
+                "name": "Symara A. Templeman",
+                "order": 6,
+                "role": "Jasmine",
+                "thumbnail": "http://image.tmdb.org/t/p/original/2ewZwYyVACCiAXkVzyhpOwXjlxr.jpg"
+            },
+            {
+                "name": "Gana Bayarsaikhan",
+                "order": 7,
+                "role": "Jade",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rc7jskbwC1Bn1Uy8iIL4dU0NqFH.jpg"
+            },
+            {
+                "name": "Tiffany Pisani",
+                "order": 8,
+                "role": "Katya",
+                "thumbnail": "http://image.tmdb.org/t/p/original/clvKSrWZ5cz7f1cZERPIsfM4hFw.jpg"
+            },
+            {
+                "name": "Elina Alminas",
+                "order": 9,
+                "role": "Amber",
+                "thumbnail": "http://image.tmdb.org/t/p/original/uAVhy0csTRmzMfqOqzTWM5esDS3.jpg"
+            },
+            {
+                "name": "Chelsea Li",
+                "order": 10,
+                "role": "Office Girl",
+                "thumbnail": "http://image.tmdb.org/t/p/original/mVmomKUgTCK10tWWMK8CpY5GfzR.jpg"
+            }
+        ],
+        "country": [
+            "United Kingdom"
+        ],
+        "dateadded": "2015-07-03 03:07:19",
+        "director": [
+            "Alex Garland"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/9X3cDZb4GYGQeOnZHLwMcCFz2Ro.jpg",
+        "file": "smb://Ext/Media/DVDRiP/Ex Machina/Ex.Machina.BDRip.LD.German.x264-PsO.mkv",
+        "genre": [
+            "Drama",
+            "Science Fiction"
+        ],
+        "imdbnumber": "tt0470752",
+        "label": "Ex Machina",
+        "lastplayed": "",
+        "movieid": 156,
+        "mpaa": "Rated R",
+        "originaltitle": "Ex Machina",
+        "playcount": 0,
+        "plot": "Caleb, a 24 year old coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
+        "plotoutline": "",
+        "rating": 7.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 6480,
+        "set": "",
+        "setid": 0,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "aac",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.384105920791626,
+                    "codec": "h264",
+                    "duration": 6480,
+                    "height": 302,
+                    "stereomode": "",
+                    "width": 720
+                }
+            ]
+        },
+        "studio": [
+            "DNA Films"
+        ],
+        "tag": [],
+        "tagline": "There is nothing more human than the will to survive",
+        "thumbnail": "http://image.tmdb.org/t/p/original/x0ngzJaIOkxyMna2ZasTfqIfHG0.jpg",
+        "title": "Ex Machina",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=EoQuVnKhxaM",
+        "votes": "862",
+        "writer": [
+            "Alex Garland"
+        ],
+        "year": 2015
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/tbhdm8UJAb4ViCTsulYFL3lxMCd.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/dywDjqAJoWudjgtHHIndmY9xvj9.jpg"
+        },
+        "cast": [
+            {
+                "name": "Tom Hardy",
+                "order": 0,
+                "role": "Max Rockatansky",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5KwHVwrr982YSsCf4HaSFMLrsYf.jpg"
+            },
+            {
+                "name": "Charlize Theron",
+                "order": 1,
+                "role": "Imperator Furiosa",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fG0mtmBm3OsvKFucvoQyqBnVwya.jpg"
+            },
+            {
+                "name": "Hugh Keays-Byrne",
+                "order": 2,
+                "role": "Immortan Joe",
+                "thumbnail": "http://image.tmdb.org/t/p/original/lhYUcPimMMy7Ltp58NkB3RuJzSv.jpg"
+            },
+            {
+                "name": "Nicholas Hoult",
+                "order": 3,
+                "role": "Nux",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rKLlBCBJb3GjOMeKdGtpWIsCRJc.jpg"
+            },
+            {
+                "name": "Josh Helman",
+                "order": 4,
+                "role": "Slit",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rmj2HHc1uNESTlHk50qnCHK11jD.jpg"
+            },
+            {
+                "name": "Rosie Huntington-Whiteley",
+                "order": 5,
+                "role": "The Splendid Angharad",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9pSJ9WJBxcQ7shFeU1t1UNtLhXg.jpg"
+            },
+            {
+                "name": "Zoë Kravitz",
+                "order": 6,
+                "role": "Toast the Knowing",
+                "thumbnail": "http://image.tmdb.org/t/p/original/mbaNkULOCXCHo9TKfLXPSSbTbdv.jpg"
+            },
+            {
+                "name": "Riley Keough",
+                "order": 7,
+                "role": "Capable",
+                "thumbnail": "http://image.tmdb.org/t/p/original/u9mRvBkmeUYYWuNHNylmAPZic15.jpg"
+            },
+            {
+                "name": "Nathan Jones",
+                "order": 8,
+                "role": "Rictus Erectus",
+                "thumbnail": "http://image.tmdb.org/t/p/original/8JGCYgqGbFYXsp0wLbwSCEW0BUB.jpg"
+            },
+            {
+                "name": "Richard Norton",
+                "order": 10,
+                "role": "The Prime Imperator",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yrNyqJ9vhTdtgKhlGhPMtEOySLy.jpg"
+            },
+            {
+                "name": "Abbey Lee",
+                "order": 11,
+                "role": "The Dag",
+                "thumbnail": "http://image.tmdb.org/t/p/original/107fpMvXq1Wac4EY2AviaYyYMun.jpg"
+            },
+            {
+                "name": "Courtney Eaton",
+                "order": 12,
+                "role": "Cheedo the Fragile",
+                "thumbnail": "http://image.tmdb.org/t/p/original/8mZQoo5xiPfW2W8fsuEy16OOFlx.jpg"
+            },
+            {
+                "name": "Megan Gale",
+                "order": 13,
+                "role": "The Valkyrie",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5iBI17039rU8s55F2Kc6XhIwo9n.jpg"
+            },
+            {
+                "name": "Melissa Jaffer",
+                "order": 14,
+                "role": "Keeper of the Seeds",
+                "thumbnail": "http://image.tmdb.org/t/p/original/s7Nuh9cO2a57l4XpfT23DOTt99g.jpg"
+            },
+            {
+                "name": "Richard Carter",
+                "order": 15,
+                "role": "The Bullet Farmer",
+                "thumbnail": "http://image.tmdb.org/t/p/original/8Qo8Gp5zwKM82MK0Gh6rF1ullrx.jpg"
+            },
+            {
+                "name": "John Howard",
+                "order": 16,
+                "role": "The People Eater",
+                "thumbnail": "http://image.tmdb.org/t/p/original/id5ucdglU6oPIibTzrLrtWBxTbw.jpg"
+            },
+            {
+                "name": "Angus Sampson",
+                "order": 17,
+                "role": "The Organic Mechanic",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jbUAdNqytgyuPPpEBvM4onQWt3Q.jpg"
+            },
+            {
+                "name": "Jennifer Hagan",
+                "order": 18,
+                "role": "Miss Giddy"
+            }
+        ],
+        "country": [
+            "Australia"
+        ],
+        "dateadded": "2015-06-24 18:37:19",
+        "director": [
+            "George Miller"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/tbhdm8UJAb4ViCTsulYFL3lxMCd.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Mad Max - Fury Road/Mad.Max.Fury.Road.German.DL.AC3.Dubbed.720p.WebHD.h264-PsO.mkv",
+        "genre": [
+            "Thriller",
+            "Action",
+            "Adventure"
+        ],
+        "imdbnumber": "tt1392190",
+        "label": "Mad Max: Fury Road",
+        "lastplayed": "",
+        "movieid": 49,
+        "mpaa": "Rated R",
+        "originaltitle": "Mad Max: Fury Road",
+        "playcount": 0,
+        "plot": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order. There's Max, a man of action and a man of few words, who seeks peace of mind following the loss of his wife and child in the aftermath of the chaos. And Furiosa, a woman of action and a woman who believes her path to survival may be achieved if she can make it across the desert back to her childhood homeland.",
+        "plotoutline": "",
+        "rating": 7.800000190734863,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 7221,
+        "set": "Mad Max Collection",
+        "setid": 15,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.4150938987731934,
+                    "codec": "h264",
+                    "duration": 7221,
+                    "height": 530,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Village Roadshow Pictures"
+        ],
+        "tag": [],
+        "tagline": "What a Lovely Day.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/dywDjqAJoWudjgtHHIndmY9xvj9.jpg",
+        "title": "Mad Max: Fury Road",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=FRDdRto_3SA",
+        "votes": "1655",
+        "writer": [
+            "George Miller",
+            "Nick Lathouris",
+            "Brendan McCarthy"
+        ],
+        "year": 2015
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/hdHgIcljPHli4xaJGt0INz8Gn3J.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/iwvyZBRD7qfDQ8ylRmf5NbLC5Oi.jpg"
+        },
+        "cast": [
+            {
+                "name": "Johnny Depp",
+                "order": 0,
+                "role": "Captain Jack Sparrow",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ctaca3ALycPP0vPhRSYK5DTBEPF.jpg"
+            },
+            {
+                "name": "Orlando Bloom",
+                "order": 1,
+                "role": "Will Turner",
+                "thumbnail": "http://image.tmdb.org/t/p/original/vq90ECKinICxJYYZpbga4pMwch.jpg"
+            },
+            {
+                "name": "Keira Knightley",
+                "order": 2,
+                "role": "Elizabeth Swann",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yPuSzncAAPgPI8ut6MqGGXTBGpH.jpg"
+            },
+            {
+                "name": "Bill Nighy",
+                "order": 3,
+                "role": "Davy Jones",
+                "thumbnail": "http://image.tmdb.org/t/p/original/x3R0shSJbrssotuWIwWSxfJRQls.jpg"
+            },
+            {
+                "name": "Jack Davenport",
+                "order": 4,
+                "role": "James Norrington",
+                "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+            },
+            {
+                "name": "Stellan Skarsgård",
+                "order": 5,
+                "role": "Bootstrap Bill",
+                "thumbnail": "http://image.tmdb.org/t/p/original/hjWdhX7zEI0DkF7gA4hcEVcYCZl.jpg"
+            },
+            {
+                "name": "Tom Hollander",
+                "order": 6,
+                "role": "Lord Beckett",
+                "thumbnail": "http://image.tmdb.org/t/p/original/8htmKElTa8dauMN8c3JWPQliNTW.jpg"
+            },
+            {
+                "name": "Jonathan Pryce",
+                "order": 7,
+                "role": "Governor Weatherby Swann",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dAgcoPcDtlhIUTrksPtsWdlfBX.jpg"
+            },
+            {
+                "name": "Naomie Harris",
+                "order": 8,
+                "role": "Tia Dalma",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3Y55D8wZgg4CkKadhXvSh91Q121.jpg"
+            },
+            {
+                "name": "Geoffrey Rush",
+                "order": 9,
+                "role": "Captain Barbossa",
+                "thumbnail": "http://image.tmdb.org/t/p/original/c0jbNjWb9DHm5xfBIeEtHZdZJmI.jpg"
+            },
+            {
+                "name": "Kevin McNally",
+                "order": 10,
+                "role": "Joshamee Gibbs",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9EuxiogkiqQfdjB5fsqUTOIjvVZ.jpg"
+            },
+            {
+                "name": "Lee Arenberg",
+                "order": 11,
+                "role": "Pintel",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ziQH86o2BInPEUF7VW0gYte35Tw.jpg"
+            },
+            {
+                "name": "Mackenzie Crook",
+                "order": 12,
+                "role": "Ragetti",
+                "thumbnail": "http://thetvdb.com/banners/actors/321733.jpg"
+            },
+            {
+                "name": "David Bailie",
+                "order": 13,
+                "role": "Cotton",
+                "thumbnail": "http://image.tmdb.org/t/p/original/iUKR4K7ftO6xj6ExewkIBlL9tYw.jpg"
+            },
+            {
+                "name": "Lauren Maher",
+                "order": 14,
+                "role": "Scarlet",
+                "thumbnail": "http://image.tmdb.org/t/p/original/6lOXL14xydRIplYqVv6KBdNs9MG.jpg"
+            },
+            {
+                "name": "Alex Norton",
+                "order": 15,
+                "role": "Captain Bellamy",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yqmwlDs8CDxCJNa72lNxNwRKoSa.jpg"
+            },
+            {
+                "name": "Vanessa Branch",
+                "order": 16,
+                "role": "Giselle",
+                "thumbnail": "http://image.tmdb.org/t/p/original/we5DEoTqeJznGe8m7ssRgmVXmwB.jpg"
+            },
+            {
+                "name": "Luke de Woolfson",
+                "order": 18,
+                "role": "Frightened Sailor",
+                "thumbnail": "http://image.tmdb.org/t/p/original/lsJ51EAV14lf0F39nGnlHz7CdM8.jpg"
+            },
+            {
+                "name": "Jonathan Kite",
+                "order": 19,
+                "role": "Black Pearl Pirate",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yjCvcUO8DnhlFcLVzIQsbBrbxsV.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-06-23 07:54:15",
+        "director": [
+            "Gore Verbinski"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/hdHgIcljPHli4xaJGt0INz8Gn3J.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Fluch der Karibik 2/Fluch.der.Karibik.2.2006.German.720p.BluRay.x264.mkv",
+        "genre": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "imdbnumber": "tt0383574",
+        "label": "Pirates of the Caribbean: Dead Man's Chest",
+        "lastplayed": "",
+        "movieid": 24,
+        "mpaa": "Rated PG-13",
+        "originaltitle": "Pirates of the Caribbean: Dead Man's Chest",
+        "playcount": 0,
+        "plot": "The high-seas adventures of happy-go-lucky troublemaker Captain Jack Sparrow, young Will Turner and headstrong beauty Elizabeth Swann continues as Sparrow works his way out of a blood debt with the ghostly Davey Jones, he also attempts to avoid eternal damnation.",
+        "plotoutline": "",
+        "rating": 6.699999809265137,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 9039,
+        "set": "Pirates of the Caribbean Collection",
+        "setid": 8,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "dca",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.4014790058135986,
+                    "codec": "h264",
+                    "duration": 9039,
+                    "height": 528,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Walt Disney Pictures"
+        ],
+        "tag": [],
+        "tagline": "Jack is back!",
+        "thumbnail": "http://image.tmdb.org/t/p/original/iwvyZBRD7qfDQ8ylRmf5NbLC5Oi.jpg",
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=wXCs8qDWEMk",
+        "votes": "2161",
+        "writer": [
+            "Ted Elliott",
+            "Terry Rossio",
+            "Ted Elliott",
+            "Terry Rossio"
+        ],
+        "year": 2006
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/nL1Q0micYpF5nNkaI2ZNeLuOLGZ.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/5czyTOaVSY9WaOZjn3x3xsAcR8s.jpg"
+        },
+        "cast": [
+            {
+                "name": "Vin Diesel",
+                "order": 0,
+                "role": "Dominic Toretto",
+                "thumbnail": "http://image.tmdb.org/t/p/original/qwyfzMKIhxJ7ols66FgEf7eGdcI.jpg"
+            },
+            {
+                "name": "Paul Walker",
+                "order": 1,
+                "role": "Brian O'Conner",
+                "thumbnail": "http://image.tmdb.org/t/p/original/iqvYezRoEY5k8wnlfHriHQfl5dX.jpg"
+            },
+            {
+                "name": "Dwayne Johnson",
+                "order": 2,
+                "role": "Luke Hobbs",
+                "thumbnail": "http://image.tmdb.org/t/p/original/akweMz59qsSoPUJYe7QpjAc2rQp.jpg"
+            },
+            {
+                "name": "Jordana Brewster",
+                "order": 3,
+                "role": "Mia Toretto",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dORwXZWWmDgG66I5i2Fnr27g3fO.jpg"
+            },
+            {
+                "name": "Tyrese Gibson",
+                "order": 4,
+                "role": "Roman Pearce",
+                "thumbnail": "http://image.tmdb.org/t/p/original/2eQsxfTHsARKXOtPu3W4c2n5RzQ.jpg"
+            },
+            {
+                "name": "Elsa Pataky",
+                "order": 5,
+                "role": "Elena Neves",
+                "thumbnail": "http://image.tmdb.org/t/p/original/c1km2kqasJT9GTISMbBZpp3jbuR.jpg"
+            },
+            {
+                "name": "Ludacris",
+                "order": 6,
+                "role": "Tej",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xLfq9wFO6dtYuUK96hbJ8I8EKFw.jpg"
+            },
+            {
+                "name": "Sung Kang",
+                "order": 7,
+                "role": "Han",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fqt53KEfHWsRDcbV2YAY2lKlKrM.jpg"
+            },
+            {
+                "name": "Gal Gadot",
+                "order": 8,
+                "role": "Gisele Harabo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/2cg8JtFg7WhUkYTNKXqlL9F1M3v.jpg"
+            },
+            {
+                "name": "Matt Schulze",
+                "order": 9,
+                "role": "Vince",
+                "thumbnail": "http://image.tmdb.org/t/p/original/aVXQNuSE7990114QZisNrkK8mJt.jpg"
+            },
+            {
+                "name": "Joaquim de Almeida",
+                "order": 10,
+                "role": "Hernan Reyes",
+                "thumbnail": "http://image.tmdb.org/t/p/original/d4nAEoUEiXnKGLW0ughHQX3fkzw.jpg"
+            },
+            {
+                "name": "Tego Calderon",
+                "order": 11,
+                "role": "Leo Tego",
+                "thumbnail": "http://image.tmdb.org/t/p/original/pz7i7LV35XRC5Si8liRoYWdrcr0.jpg"
+            },
+            {
+                "name": "Don Omar",
+                "order": 12,
+                "role": "Rico Santos",
+                "thumbnail": "http://image.tmdb.org/t/p/original/f1INIG2TE9jXXp5A3gGJR9UkePK.jpg"
+            },
+            {
+                "name": "Michael Irby",
+                "order": 13,
+                "role": "Zizi",
+                "thumbnail": "http://image.tmdb.org/t/p/original/6LET9IafZO6BHT0iO1wifdmYb8w.jpg"
+            },
+            {
+                "name": "Fernando Chien",
+                "order": 14,
+                "role": "Wilkes",
+                "thumbnail": "http://image.tmdb.org/t/p/original/lnMvhgE5ZKBaWvGN6beUJUqeHxD.jpg"
+            },
+            {
+                "name": "Alimi Ballard",
+                "order": 15,
+                "role": "Fusco",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zCYjN3Lkkx9GmhEoT9lUV6Dt2hR.jpg"
+            },
+            {
+                "name": "Yorgo Constantine",
+                "order": 16,
+                "role": "Chato",
+                "thumbnail": "http://image.tmdb.org/t/p/original/e5kenJiOgpX9bvldQibR8ODpm4U.jpg"
+            },
+            {
+                "name": "Geoff Meed",
+                "order": 17,
+                "role": "Macroy",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rv3ClSULRuvxuQvvXpC6Ki8BAKD.jpg"
+            },
+            {
+                "name": "Joseph Melendez",
+                "order": 18,
+                "role": "Chief of Police Alemeida",
+                "thumbnail": "http://image.tmdb.org/t/p/original/l0bsVQaWCpowRhqI2h0aO7aIaL6.jpg"
+            },
+            {
+                "name": "Jeirmarie Osorio",
+                "order": 19,
+                "role": "Rosa",
+                "thumbnail": "http://image.tmdb.org/t/p/original/gxFfZDaVVyGbNfX6J3dm3TfRv4h.jpg"
+            },
+            {
+                "name": "Mark Hicks",
+                "order": 20,
+                "role": "Capa",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xPXK9kXnKh97eES0SSxx83QKTfw.jpg"
+            },
+            {
+                "name": "Esteban Cueto",
+                "order": 21,
+                "role": "Berto",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jJYm6K3g3lQvic2Sgjh9SPb4FDq.jpg"
+            },
+            {
+                "name": "Corey Michael Eubanks",
+                "order": 22,
+                "role": "Lanzo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/kLm0RuB7J5SBnKL8oLoyIBMwL3f.jpg"
+            },
+            {
+                "name": "Luis Da Silva Jr.",
+                "order": 23,
+                "role": "Diogo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/6VADPoVvQTFqiFhmHMJovneXX26.jpg"
+            },
+            {
+                "name": "Luis Gonzaga",
+                "order": 24,
+                "role": "Cash House Door Guard",
+                "thumbnail": "http://image.tmdb.org/t/p/original/mQahpzXaMSO71D2AyCZVY8DVfPa.jpg"
+            },
+            {
+                "name": "Carlos Sanchez",
+                "order": 25,
+                "role": "Evidence Technician",
+                "thumbnail": "http://image.tmdb.org/t/p/original/uMTRNudOKcpASr1WlIlgbS8FjP8.jpg"
+            },
+            {
+                "name": "Benjamin Blankenship",
+                "order": 26,
+                "role": "Lead DEA Agent",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xl0O9d7xS6XGSRqQl16StOxtkOR.jpg"
+            },
+            {
+                "name": "Pedro García",
+                "order": 27,
+                "role": "Conductor"
+            },
+            {
+                "name": "Arturo Gaskins",
+                "order": 28,
+                "role": "Croupier"
+            },
+            {
+                "name": "Jay Jackson",
+                "order": 29,
+                "role": "Field Reporter",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xudGrbxeRjngwGZFubQ02kKQmNr.jpg"
+            },
+            {
+                "name": "Arlene Santana",
+                "order": 30,
+                "role": "Field Reporter",
+                "thumbnail": "http://image.tmdb.org/t/p/original/x96NJ31fHxtqhkbQzB83HCBJsC5.jpg"
+            },
+            {
+                "name": "Kent Shocknek",
+                "order": 31,
+                "role": "News Anchor",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zmX6fNZ7zH18FokBGv5r1sfPmGw.jpg"
+            },
+            {
+                "name": "Sharon Tay",
+                "order": 32,
+                "role": "News Anchor",
+                "thumbnail": "http://image.tmdb.org/t/p/original/qJhvCSCXHD9Duvz5pP0sLQQl6n2.jpg"
+            },
+            {
+                "name": "Andy Rosa Adler",
+                "order": 33,
+                "role": "News Anchor",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dFW4zpOYAOfsVyguGvJAafyraSe.jpg"
+            },
+            {
+                "name": "Eva Mendes",
+                "order": 34,
+                "role": "Monica Fuentes (uncredited)",
+                "thumbnail": "http://image.tmdb.org/t/p/original/6JoVMpn0CcZwb6JK7XW2E6ntU52.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-06-09 23:08:13",
+        "director": [
+            "Justin Lin"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/nL1Q0micYpF5nNkaI2ZNeLuOLGZ.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Fast and Furious 5/Fast.and.Furious.5.German.AC3D.720p.BluRay.x264–LameHD.mkv",
+        "genre": [
+            "Action",
+            "Thriller",
+            "Crime"
+        ],
+        "imdbnumber": "tt1596343",
+        "label": "Fast Five",
+        "lastplayed": "",
+        "movieid": 21,
+        "mpaa": "Rated PG-13",
+        "originaltitle": "Fast Five",
+        "playcount": 0,
+        "plot": "Former cop Brian O'Conner partners with ex-con Dom Toretto on the opposite side of the law. Since Brian and Mia Toretto broke Dom out of custody, they've blown across many borders to elude authorities. Now backed into a corner in Rio de Janeiro, they must pull one last job in order to gain their freedom.",
+        "plotoutline": "",
+        "rating": 7.099999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 7821,
+        "set": "The Fast and the Furious Collection",
+        "setid": 7,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.3529410362243652,
+                    "codec": "h264",
+                    "duration": 7821,
+                    "height": 544,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Universal Pictures"
+        ],
+        "tag": [],
+        "tagline": "Get the Fifth Gear.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/5czyTOaVSY9WaOZjn3x3xsAcR8s.jpg",
+        "title": "Fast Five",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=uSDNZeRX_1Y",
+        "votes": "891",
+        "writer": [
+            "Chris Morgan"
+        ],
+        "year": 2011
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/nnMC0BM6XbjIIrT4miYmMtPGcQV.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg"
+        },
+        "cast": [
+            {
+                "name": "Christian Bale",
+                "order": 0,
+                "role": "Bruce Wayne",
+                "thumbnail": "http://image.tmdb.org/t/p/original/pPXnqoGD91znz4FwQ6aKuxi6Pcy.jpg"
+            },
+            {
+                "name": "Heath Ledger",
+                "order": 1,
+                "role": "Joker",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zCemB5iknCmtSCcyNhkSA0LOgp1.jpg"
+            },
+            {
+                "name": "Aaron Eckhart",
+                "order": 2,
+                "role": "Harvey Dent",
+                "thumbnail": "http://image.tmdb.org/t/p/original/aRSofX2rMpOhPanB9Wh7veYmFn4.jpg"
+            },
+            {
+                "name": "Michael Caine",
+                "order": 3,
+                "role": "Alfred",
+                "thumbnail": "http://image.tmdb.org/t/p/original/nlIjMLp9zvvYM2eFm77UhI7s1nW.jpg"
+            },
+            {
+                "name": "Maggie Gyllenhaal",
+                "order": 4,
+                "role": "Rachel Dawes",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dgFGI8y7QUKkwI1o0pJaZtjR30m.jpg"
+            },
+            {
+                "name": "Gary Oldman",
+                "order": 5,
+                "role": "Lt. James Gordon",
+                "thumbnail": "http://image.tmdb.org/t/p/original/kCWUeBkZ2sf8LObSpUFgRngawQb.jpg"
+            },
+            {
+                "name": "Morgan Freeman",
+                "order": 6,
+                "role": "Lucius Fox",
+                "thumbnail": "http://image.tmdb.org/t/p/original/oGJQhOpT8S1M56tvSsbEBePV5O1.jpg"
+            },
+            {
+                "name": "Ron Dean",
+                "order": 7,
+                "role": "Wuertz",
+                "thumbnail": "http://image.tmdb.org/t/p/original/a910oOgeYR0IxutHf3GeyDNw3qY.jpg"
+            },
+            {
+                "name": "Cillian Murphy",
+                "order": 8,
+                "role": "Scarecrow",
+                "thumbnail": "http://image.tmdb.org/t/p/original/tEERcmKFHXypcwkP28MxVfvf6Ph.jpg"
+            },
+            {
+                "name": "Chin Han",
+                "order": 9,
+                "role": "Lau",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xvMCVDvrQ2WlAB2LmkG6HAzlYag.jpg"
+            },
+            {
+                "name": "Nestor Carbonell",
+                "order": 10,
+                "role": "Mayor of Gotham",
+                "thumbnail": "http://thetvdb.com/banners/actors/79780.jpg"
+            },
+            {
+                "name": "Eric Roberts",
+                "order": 11,
+                "role": "Salvatore Maroni",
+                "thumbnail": "http://image.tmdb.org/t/p/original/45i6fsxBwH1UyA74tWQ6am0DntC.jpg"
+            },
+            {
+                "name": "Ritchie Coster",
+                "order": 12,
+                "role": "Chechen",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4E22BWQJfR48SKx0qTcDSOyDGSw.jpg"
+            },
+            {
+                "name": "Anthony Michael Hall",
+                "order": 13,
+                "role": "Engel",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ui3mCBPiNiDlYvhztJ0F1onSB4j.jpg"
+            },
+            {
+                "name": "Keith Szarabajka",
+                "order": 14,
+                "role": "Stephen",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rNeAyOrLNiP1YeCWXpBLTa7pLxZ.jpg"
+            },
+            {
+                "name": "Colin McFarlane",
+                "order": 15,
+                "role": "Loeb",
+                "thumbnail": "http://image.tmdb.org/t/p/original/7jzQFnBDALhTclwIohM78bGoFzF.jpg"
+            },
+            {
+                "name": "Melinda McGraw",
+                "order": 16,
+                "role": "Barbara Gordon",
+                "thumbnail": "http://image.tmdb.org/t/p/original/6FlZftxpIQ0PoJKvtEL9lSbgI63.jpg"
+            },
+            {
+                "name": "William Fichtner",
+                "order": 17,
+                "role": "The bank manager",
+                "thumbnail": "http://image.tmdb.org/t/p/original/oIGjbztWvTqn4tnolW9rDCjpgxu.jpg"
+            },
+            {
+                "name": "David Dastmalchian",
+                "order": 18,
+                "role": "Joker's henchman",
+                "thumbnail": "http://image.tmdb.org/t/p/original/kl4bxkrd9yc6oPYZGs4jKHLI3f2.jpg"
+            },
+            {
+                "name": "William Smillie",
+                "order": 19,
+                "role": "Happy",
+                "thumbnail": "http://image.tmdb.org/t/p/original/peKlOZUvgfeA9lBVzYTnS1GBCIv.jpg"
+            },
+            {
+                "name": "Danny Goldring",
+                "order": 20,
+                "role": "Grumpy",
+                "thumbnail": "http://image.tmdb.org/t/p/original/nufdKuciAuJ1vzwXnVQcUDeAsoA.jpg"
+            },
+            {
+                "name": "Michael Stoyanov",
+                "order": 21,
+                "role": "Dopey",
+                "thumbnail": "http://image.tmdb.org/t/p/original/hywQ6MpqibcyS0h5HaOek39tEn1.jpg"
+            },
+            {
+                "name": "Beatrice Rosen",
+                "order": 22,
+                "role": "Natascha",
+                "thumbnail": "http://image.tmdb.org/t/p/original/897MnsgQUwXuN0OfMwY19BMFULl.jpg"
+            },
+            {
+                "name": "Matthew Leitch",
+                "order": 23,
+                "role": "Prisoner on Ferry",
+                "thumbnail": "http://image.tmdb.org/t/p/original/94OPadjJLEp4FzeXndx24mUyF0o.jpg"
+            },
+            {
+                "name": "Amit Shah",
+                "order": 24,
+                "role": "Party Guest (uncredited)"
+            },
+            {
+                "name": "Michael Jai White",
+                "order": 25,
+                "role": "",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5iJ5lnq2ttl0uP7MORd6dUHUrIf.jpg"
+            }
+        ],
+        "country": [
+            "United Kingdom"
+        ],
+        "dateadded": "2015-06-05 15:04:40",
+        "director": [
+            "Christopher Nolan"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/nnMC0BM6XbjIIrT4miYmMtPGcQV.jpg",
+        "file": "smb://Ext/Media/Blu-ray/The Dark Knight/The.Dark.Knight.German.2008.DTS.720p.BluRay.x264-DEFUSED.mkv",
+        "genre": [
+            "Drama",
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "imdbnumber": "tt0468569",
+        "label": "The Dark Knight",
+        "lastplayed": "",
+        "movieid": 68,
+        "mpaa": "Rated PG-13",
+        "originaltitle": "The Dark Knight",
+        "playcount": 0,
+        "plot": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "plotoutline": "",
+        "rating": 7.900000095367432,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 9133,
+        "set": "The Dark Knight Collection",
+        "setid": 21,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7777780294418335,
+                    "codec": "h264",
+                    "duration": 9133,
+                    "height": 720,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "DC Comics"
+        ],
+        "tag": [],
+        "tagline": "Why So Serious?",
+        "thumbnail": "http://image.tmdb.org/t/p/original/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg",
+        "title": "The Dark Knight",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=GVx5K8WfFJY",
+        "votes": "5875",
+        "writer": [
+            "Jonathan Nolan",
+            "Christopher Nolan"
+        ],
+        "year": 2008
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/c9GlsmZsZ9DR0G3LhRNip2wF06Y.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/vLSnWLCnqk5j3oLnMnBHJGL3bO0.jpg"
+        },
+        "cast": [
+            {
+                "name": "Scott Adkins",
+                "order": 0,
+                "role": "Uri Boyka",
+                "thumbnail": "http://image.tmdb.org/t/p/original/mX5vlgiyJ8XdvBUMlFe6FVQ9YDh.jpg"
+            },
+            {
+                "name": "Mykel Shannon Jenkins",
+                "order": 1,
+                "role": "Turbo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/mTZLDPHuyo2cZkrgxGcm2pBWWdQ.jpg"
+            },
+            {
+                "name": "Mark Ivanir",
+                "order": 2,
+                "role": "Gaga",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fFfosXJqRNBMU3wg2WrO3bCnom7.jpg"
+            },
+            {
+                "name": "Hristo Shopov",
+                "order": 3,
+                "role": "Warden Kuss",
+                "thumbnail": "http://image.tmdb.org/t/p/original/vl6bSONRmHmyVgjQcUqyDaRxNzz.jpg"
+            },
+            {
+                "name": "Marko Zaror",
+                "order": 4,
+                "role": "Raul 'Dolor' Quinones"
+            },
+            {
+                "name": "Michael Baral",
+                "order": 5,
+                "role": "Casino Manager"
+            },
+            {
+                "name": "Ilram Choi",
+                "order": 6,
+                "role": "The Asian Fighter",
+                "thumbnail": "http://image.tmdb.org/t/p/original/p6NmIraf9A22qtrp3p9PnikFWV.jpg"
+            },
+            {
+                "name": "Robert Costanzo",
+                "order": 7,
+                "role": "Farnatti",
+                "thumbnail": "http://image.tmdb.org/t/p/original/o8B9lwbDUUT7DwWKixoTUFMKlyf.jpg"
+            },
+            {
+                "name": "Lateef Crowder",
+                "order": 8,
+                "role": "Santiago Silva",
+                "thumbnail": "http://image.tmdb.org/t/p/original/pnsFjc7igJi0SdNs7pDjxpy32yu.jpg"
+            },
+            {
+                "name": "Esteban Cueto",
+                "order": 9,
+                "role": "Sykov",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jJYm6K3g3lQvic2Sgjh9SPb4FDq.jpg"
+            },
+            {
+                "name": "Vernon Dobtcheff",
+                "order": 10,
+                "role": "Rezo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/lcPki2IDdmRvqiBbv2RUBfgm3IH.jpg"
+            },
+            {
+                "name": "Valentin Ganev",
+                "order": 11,
+                "role": "Warden Markov",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9VKnIVL7pouxEowRia9TyWaKa8c.jpg"
+            },
+            {
+                "name": "Velislav Pavlov",
+                "order": 12,
+                "role": "Chief Guard",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fHX4kmpoGkdixhZNui28KwXpUUu.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-06-05 14:10:47",
+        "director": [
+            "Isaac Florentine"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/c9GlsmZsZ9DR0G3LhRNip2wF06Y.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Undisputed III - Redemption/Undisputed.III.Redemption.2010.German.720p.BluRay.x264.mkv",
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "imdbnumber": "tt1156466",
+        "label": "Undisputed III: Redemption",
+        "lastplayed": "",
+        "movieid": 77,
+        "mpaa": "Rated R",
+        "originaltitle": "Undisputed III: Redemption",
+        "playcount": 0,
+        "plot": "Russian inmate Boyka, now severely hobbled by the knee injury suffered at the end of Undisputed 2. No longer the feared prison fighter he was, he has declined so far that he is now good only for cleaning toilets. But when a new prison fight tournament begins - an international affair, matching the best fighters from prisons around the globe, enticing them with the promise of freedom for the winner - Boyka must reclaim his dignity and fight for his position in the tournament.",
+        "plotoutline": "",
+        "rating": 7.5,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 5758,
+        "set": "Undisputed Collection",
+        "setid": 27,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "dca",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7777780294418335,
+                    "codec": "h264",
+                    "duration": 5758,
+                    "height": 720,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Nu Image Films"
+        ],
+        "tag": [],
+        "tagline": "One deadly tournament. Last fight for freedom.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/vLSnWLCnqk5j3oLnMnBHJGL3bO0.jpg",
+        "title": "Undisputed III: Redemption",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=v-9H1A66SxI",
+        "votes": "53",
+        "writer": [
+            "David N. White"
+        ],
+        "year": 2010
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/hUgCX8CeRQiAyrYqvdkeHT7eVjN.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/ej1yxLuhME7PJyGsXJjEMcQGI37.jpg"
+        },
+        "cast": [
+            {
+                "name": "Shia LaBeouf",
+                "order": 0,
+                "role": "Jerry Shaw",
+                "thumbnail": "http://image.tmdb.org/t/p/original/anP0tygzniIok6L3OxcSZ9TYCF3.jpg"
+            },
+            {
+                "name": "Michelle Monaghan",
+                "order": 1,
+                "role": "Rachel Holloman",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9W7xBcdBeFjoZVCwP2iROk1jtkV.jpg"
+            },
+            {
+                "name": "Rosario Dawson",
+                "order": 2,
+                "role": "Zoe Perez",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yPcCEVh82D62PAWFXJw7rXvFR1h.jpg"
+            },
+            {
+                "name": "Michael Chiklis",
+                "order": 3,
+                "role": "Defense Secretary Callister",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fkJnjCERaqOky0gJrSHmwjQ9oOZ.jpg"
+            },
+            {
+                "name": "Anthony Mackie",
+                "order": 4,
+                "role": "Major William Bowman",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5VGGJ0Co8SC94iiedWb2o3C36T.jpg"
+            },
+            {
+                "name": "Billy Bob Thornton",
+                "order": 5,
+                "role": "Thomas Morgan",
+                "thumbnail": "http://image.tmdb.org/t/p/original/gPCPKXh7HvobcrldRGj5QchW34p.jpg"
+            },
+            {
+                "name": "Ethan Embry",
+                "order": 6,
+                "role": "Agent Toby Grant",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xlsgPUEuDg87sG4Yb4mcqTQdKxC.jpg"
+            },
+            {
+                "name": "Anthony Azizi",
+                "order": 7,
+                "role": "Ranim Khalid",
+                "thumbnail": "http://image.tmdb.org/t/p/original/2TPYadVaT1gOQN62dA4xapEaeuG.jpg"
+            },
+            {
+                "name": "Cameron Boyce",
+                "order": 8,
+                "role": "Sam Holloman",
+                "thumbnail": "http://image.tmdb.org/t/p/original/374sfaE0nrXUlddVhOn2uydoiBl.jpg"
+            },
+            {
+                "name": "Lynn Cohen",
+                "order": 9,
+                "role": "Mrs. Wierzbowski",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5lllNLrQLlxozRCbJrgnCAhOee6.jpg"
+            },
+            {
+                "name": "Bill Smitrovich",
+                "order": 10,
+                "role": "Admiral Thompson",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rO5wJpx7ZlT6RaunZw20OGF6O2Y.jpg"
+            },
+            {
+                "name": "Charles Carroll",
+                "order": 11,
+                "role": "Mr. Miller",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5sGsNA3iVsjt3vXxNH5aK3P7toG.jpg"
+            },
+            {
+                "name": "William Sadler",
+                "order": 12,
+                "role": "Jerry's Dad",
+                "thumbnail": "http://image.tmdb.org/t/p/original/deRJUFbO8uqPSQT3B6Vgp4jiJir.jpg"
+            },
+            {
+                "name": "Dariush Kashani",
+                "order": 14,
+                "role": "Translator"
+            },
+            {
+                "name": "Julianne Moore",
+                "order": 15,
+                "role": "ARIIA (voice)",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zfHsSarMGjwuvfiWoVslIQm05Ho.jpg"
+            },
+            {
+                "name": "Marc Singer",
+                "order": 16,
+                "role": "Explosives Developer",
+                "thumbnail": "http://image.tmdb.org/t/p/original/nX6E58a4qZn7InvNcmIG7WTkYBH.jpg"
+            },
+            {
+                "name": "Deborah Strang",
+                "order": 17,
+                "role": "Jerry's Mom",
+                "thumbnail": "http://image.tmdb.org/t/p/original/e1SpEAvMeJiyTbojxM14VXl1SaW.jpg"
+            },
+            {
+                "name": "Nathan Geist",
+                "order": 18,
+                "role": "Chase Bystander (uncredited)",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zH94pvccp7TPNQqHcE5uGqKBQKQ.jpg"
+            },
+            {
+                "name": "Madylin Sweeten",
+                "order": 19,
+                "role": "Becky",
+                "thumbnail": "http://image.tmdb.org/t/p/original/hHC9UUjrLbP39HZr8sulaYJdwkI.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-06-05 13:36:44",
+        "director": [
+            "D.J. Caruso"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/hUgCX8CeRQiAyrYqvdkeHT7eVjN.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Eagle Eye - Ausser Kontrolle/Eagle.Eye.Ausser.Kontrolle.German.720p.BluRay.x264-DEFUSED.mkv",
+        "genre": [
+            "Mystery",
+            "Thriller",
+            "Action"
+        ],
+        "imdbnumber": "tt1059786",
+        "label": "Eagle Eye",
+        "lastplayed": "",
+        "movieid": 16,
+        "mpaa": "Rated PG-13",
+        "originaltitle": "Eagle Eye",
+        "playcount": 0,
+        "plot": "Jerry Shaw (Shia LaBeouf) and Rachel Holloman (Michelle Monaghan) are two strangers whose lives are suddenly thrown into turmoil by a mysterious woman they have never met. Threatening their lives and family, the unseen caller uses everyday technology to control their actions and push them into increasing danger. As events escalate, Jerry and Rachel become the country's most-wanted fugitives and must figure out what is happening to them.",
+        "plotoutline": "",
+        "rating": 6.099999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 7055,
+        "set": "",
+        "setid": 0,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.4014790058135986,
+                    "codec": "h264",
+                    "duration": 7055,
+                    "height": 528,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "DreamWorks SKG"
+        ],
+        "tag": [],
+        "tagline": "Don't walk. Run.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/ej1yxLuhME7PJyGsXJjEMcQGI37.jpg",
+        "title": "Eagle Eye",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=_wkqo_Rd3_Q",
+        "votes": "425",
+        "writer": [
+            "John Glen",
+            "Travis Wright"
+        ],
+        "year": 2008
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/vSbjlX9y8S2hKNURHEO4GsoIOay.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/tHkjoAxmhp3Eau1h0Ir7maKMwUz.jpg"
+        },
+        "cast": [
+            {
+                "name": "Matt Damon",
+                "order": 0,
+                "role": "Max",
+                "thumbnail": "http://image.tmdb.org/t/p/original/eLAWpp5BLbTwjj35MbGzpL0QkWv.jpg"
+            },
+            {
+                "name": "Jodie Foster",
+                "order": 1,
+                "role": "Delacourt",
+                "thumbnail": "http://image.tmdb.org/t/p/original/eAIE6bnOQ8rm0f933gyeAQdIwrP.jpg"
+            },
+            {
+                "name": "Adam S. Gottbetter",
+                "order": 2,
+                "role": "Murto",
+                "thumbnail": "http://image.tmdb.org/t/p/original/mf8jKshykbLDRBvqtlyCn85ipWp.jpg"
+            },
+            {
+                "name": "Sharlto Copley",
+                "order": 3,
+                "role": "Kruger",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3ket3t8OFC3o1EYcpypMgJ41Q27.jpg"
+            },
+            {
+                "name": "Alice Braga",
+                "order": 4,
+                "role": "Frey",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dVpARhbbj7Ci7KlXgpowVHYhT0g.jpg"
+            },
+            {
+                "name": "Diego Luna",
+                "order": 5,
+                "role": "Julio",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9f1y0pLqohP8U3eEVCa4di1tESb.jpg"
+            },
+            {
+                "name": "Wagner Moura",
+                "order": 6,
+                "role": "Spider",
+                "thumbnail": "http://image.tmdb.org/t/p/original/bESNWiGHjMhMGoqBMVtbpJBazKx.jpg"
+            },
+            {
+                "name": "William Fichtner",
+                "order": 7,
+                "role": "John Carlyle",
+                "thumbnail": "http://image.tmdb.org/t/p/original/oIGjbztWvTqn4tnolW9rDCjpgxu.jpg"
+            },
+            {
+                "name": "Faran Tahir",
+                "order": 8,
+                "role": "President Patel",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zEcur3BBkXD0gosZQ1nAZRyQZUq.jpg"
+            },
+            {
+                "name": "Jose Pablo Cantillo",
+                "order": 9,
+                "role": "Sandro",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xYIoTIVroBdW7HoZzxvbsxjcau4.jpg"
+            },
+            {
+                "name": "Maxwell Perry Cotton",
+                "order": 10,
+                "role": "Young Max",
+                "thumbnail": "http://image.tmdb.org/t/p/original/nhVxraRhGDmWHgEU0I0gBjpp8pI.jpg"
+            },
+            {
+                "name": "Brandon Auret",
+                "order": 11,
+                "role": "Drake",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ne7Q7CodcxZnkE9oQiJhzkdcJ8D.jpg"
+            },
+            {
+                "name": "Josh Blacker",
+                "order": 12,
+                "role": "Crowe",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yfSQdXChDb4DmHyikHLldazF55V.jpg"
+            },
+            {
+                "name": "Emma Tremblay",
+                "order": 13,
+                "role": "Matilda",
+                "thumbnail": "http://image.tmdb.org/t/p/original/p6sRtFi1cNmR2qOXWX6buzDTFIr.jpg"
+            },
+            {
+                "name": "Adrian Holmes",
+                "order": 14,
+                "role": "Manuel",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jGvsYbrvsok5QAYEJ9V8VHvDy9I.jpg"
+            },
+            {
+                "name": "Jared Keeso",
+                "order": 15,
+                "role": "Rico",
+                "thumbnail": "http://image.tmdb.org/t/p/original/hRoPfKnk8adZUfQqmi1O109BrFp.jpg"
+            },
+            {
+                "name": "Talisa Soto",
+                "order": 16,
+                "role": "(uncredited)",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3VWf8501ubov43OfPJEGMZH8LJ5.jpg"
+            },
+            {
+                "name": "Michael Shanks",
+                "order": 17,
+                "role": "CCB Agent",
+                "thumbnail": "http://image.tmdb.org/t/p/original/68CBHM3SELxDh9SBgts7tSaqg7Z.jpg"
+            },
+            {
+                "name": "Carly Pope",
+                "order": 18,
+                "role": "CCB Agent",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4KLHkJZKFtVdmMkHtCSD1Ridku4.jpg"
+            },
+            {
+                "name": "Ona Grauer",
+                "order": 19,
+                "role": "CCB Agent",
+                "thumbnail": "http://thetvdb.com/banners/actors/144451.jpg"
+            },
+            {
+                "name": "Terry Chen",
+                "order": 20,
+                "role": "Technician",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zHmlacDItyaJ0uFmormpVeN06mU.jpg"
+            },
+            {
+                "name": "Chris Shields",
+                "order": 21,
+                "role": "Dr. Faizel",
+                "thumbnail": "http://image.tmdb.org/t/p/original/cKxfPfZMqCingbrn6MK3OSUhUVF.jpg"
+            },
+            {
+                "name": "Christina Cox",
+                "order": 22,
+                "role": "CCB Agent",
+                "thumbnail": "http://image.tmdb.org/t/p/original/qkbxOma6tBghX6sYJW0avfYaimV.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-06-05 13:01:09",
+        "director": [
+            "Neill Blomkamp"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/vSbjlX9y8S2hKNURHEO4GsoIOay.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Elysium/Elysium.GERMAN.AC3.Dubbed.720p.WebHD.h264.iNTERNAL-SOV.mkv",
+        "genre": [
+            "Science Fiction",
+            "Action",
+            "Drama",
+            "Thriller"
+        ],
+        "imdbnumber": "tt1535108",
+        "label": "Elysium",
+        "lastplayed": "",
+        "movieid": 18,
+        "mpaa": "Rated R",
+        "originaltitle": "Elysium",
+        "playcount": 0,
+        "plot": "In the year 2159, two classes of people exist: the very wealthy who live on a pristine man-made space station called Elysium, and the rest, who live on an overpopulated, ruined Earth. Secretary Rhodes (Jodie Foster), a hard line government ofﬁcial, will stop at nothing to enforce anti-immigration laws and preserve the luxurious lifestyle of the citizens of Elysium. That doesn’t stop the people of Earth from trying to get in, by any means they can. When unlucky Max (Matt Damon) is backed into a corner, he agrees to take on a daunting mission that, if successful, will not only save his life, but could bring equality to these polarized worlds.",
+        "plotoutline": "",
+        "rating": 6.5,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 6572,
+        "set": "",
+        "setid": 0,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.406014919281006,
+                    "codec": "h264",
+                    "duration": 6572,
+                    "height": 532,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "TriStar Pictures"
+        ],
+        "tag": [],
+        "tagline": "He can save us all.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/tHkjoAxmhp3Eau1h0Ir7maKMwUz.jpg",
+        "title": "Elysium",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=oIBtePb-dGY",
+        "votes": "1624",
+        "writer": [
+            "Neill Blomkamp"
+        ],
+        "year": 2013
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/8ZgpAftUiYTU76IhUADITa3Ur9n.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/cKbR9EuchlPVQEOty02DazxVz7e.jpg"
+        },
+        "cast": [
+            {
+                "name": "Johnny Depp",
+                "order": 0,
+                "role": "Jack Sparrow",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ctaca3ALycPP0vPhRSYK5DTBEPF.jpg"
+            },
+            {
+                "name": "Orlando Bloom",
+                "order": 1,
+                "role": "Will Turner",
+                "thumbnail": "http://image.tmdb.org/t/p/original/vq90ECKinICxJYYZpbga4pMwch.jpg"
+            },
+            {
+                "name": "Keira Knightley",
+                "order": 2,
+                "role": "Elizabeth Swann",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yPuSzncAAPgPI8ut6MqGGXTBGpH.jpg"
+            },
+            {
+                "name": "Chow Yun-Fat",
+                "order": 3,
+                "role": "Captain Sao Feng",
+                "thumbnail": "http://image.tmdb.org/t/p/original/c9QcWUSfHjNrH5dQQobqCKfHzUj.jpg"
+            },
+            {
+                "name": "Geoffrey Rush",
+                "order": 4,
+                "role": "Barbossa",
+                "thumbnail": "http://image.tmdb.org/t/p/original/c0jbNjWb9DHm5xfBIeEtHZdZJmI.jpg"
+            },
+            {
+                "name": "Jonathan Pryce",
+                "order": 5,
+                "role": "Governor Weatherby Swann",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dAgcoPcDtlhIUTrksPtsWdlfBX.jpg"
+            },
+            {
+                "name": "Bill Nighy",
+                "order": 6,
+                "role": "Davy Jones",
+                "thumbnail": "http://image.tmdb.org/t/p/original/x3R0shSJbrssotuWIwWSxfJRQls.jpg"
+            },
+            {
+                "name": "Tom Hollander",
+                "order": 7,
+                "role": "Lord Cutler Beckett",
+                "thumbnail": "http://image.tmdb.org/t/p/original/8htmKElTa8dauMN8c3JWPQliNTW.jpg"
+            },
+            {
+                "name": "Stellan Skarsgård",
+                "order": 8,
+                "role": "Bootstrap' Bill Turner",
+                "thumbnail": "http://image.tmdb.org/t/p/original/hjWdhX7zEI0DkF7gA4hcEVcYCZl.jpg"
+            },
+            {
+                "name": "Kevin McNally",
+                "order": 9,
+                "role": "Joshamee Gibbs",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9EuxiogkiqQfdjB5fsqUTOIjvVZ.jpg"
+            },
+            {
+                "name": "Jack Davenport",
+                "order": 10,
+                "role": "Admiral James Norrington",
+                "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+            },
+            {
+                "name": "Mackenzie Crook",
+                "order": 11,
+                "role": "Ragetti",
+                "thumbnail": "http://thetvdb.com/banners/actors/321733.jpg"
+            },
+            {
+                "name": "Lee Arenberg",
+                "order": 12,
+                "role": "Pintel",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ziQH86o2BInPEUF7VW0gYte35Tw.jpg"
+            },
+            {
+                "name": "Martin Klebba",
+                "order": 13,
+                "role": "Marty",
+                "thumbnail": "http://image.tmdb.org/t/p/original/amlhUrXQ7t1NEPajdj2dQdbC0rt.jpg"
+            },
+            {
+                "name": "Greg Ellis",
+                "order": 14,
+                "role": "Lieutenant Groves",
+                "thumbnail": "http://image.tmdb.org/t/p/original/qQvPe0TO5yYJCSNIM8KRf55F5cw.jpg"
+            },
+            {
+                "name": "Naomie Harris",
+                "order": 15,
+                "role": "Tia Dalma",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3Y55D8wZgg4CkKadhXvSh91Q121.jpg"
+            },
+            {
+                "name": "Keith Richards",
+                "order": 16,
+                "role": "Teague Sparrow",
+                "thumbnail": "http://image.tmdb.org/t/p/original/uGF4AHKqaTI8K98n1lzqtRfv4N2.jpg"
+            },
+            {
+                "name": "Takayo Fischer",
+                "order": 17,
+                "role": "Mistress Ching",
+                "thumbnail": "http://image.tmdb.org/t/p/original/gNIFc8rWnFzplkisEonefyxjmG1.jpg"
+            },
+            {
+                "name": "David Meunier",
+                "order": 18,
+                "role": "Lieutenant Greitzer",
+                "thumbnail": "http://thetvdb.com/banners/actors/309633.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-06-04 20:56:17",
+        "director": [
+            "Gore Verbinski"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/8ZgpAftUiYTU76IhUADITa3Ur9n.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Fluch der Karibik 3 - Am Ende der Welt/Pirates.of.the.Caribbean.Am.Ende.der.Welt.2007.German.DTS.720p.BluRay.x264.mkv",
+        "genre": [
+            "Adventure",
+            "Fantasy",
+            "Action"
+        ],
+        "imdbnumber": "tt0449088",
+        "label": "Pirates of the Caribbean: At World's End",
+        "lastplayed": "",
+        "movieid": 25,
+        "mpaa": "Rated PG-13",
+        "originaltitle": "Pirates of the Caribbean: At World's End",
+        "playcount": 0,
+        "plot": "Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with brave Will Turner and feisty Elizabeth Swann. And what of Jack Sparrow? Nothing is as it seems.",
+        "plotoutline": "",
+        "rating": 6.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 10110,
+        "set": "Pirates of the Caribbean Collection",
+        "setid": 8,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "dca",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.4014790058135986,
+                    "codec": "h264",
+                    "duration": 10110,
+                    "height": 528,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Walt Disney Pictures"
+        ],
+        "tag": [],
+        "tagline": "At the end of the world, the adventure begins.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/cKbR9EuchlPVQEOty02DazxVz7e.jpg",
+        "title": "Pirates of the Caribbean: At World's End",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=8iHrEOiuoyw",
+        "votes": "1698",
+        "writer": [
+            "Ted Elliott",
+            "Terry Rossio"
+        ],
+        "year": 2007
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/8PGvHXXkoZkCaVqRYllsXz1uC4N.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/svMkz5Q8WboahjBOEFH4eplWud6.jpg"
+        },
+        "cast": [
+            {
+                "name": "Stephen Dorff",
+                "order": 0,
+                "role": "Wade Porter",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5rY1hkIpxOg0dWvhGFXCdcCUfM3.jpg"
+            },
+            {
+                "name": "Val Kilmer",
+                "order": 1,
+                "role": "John Smith",
+                "thumbnail": "http://image.tmdb.org/t/p/original/AlhPeiH8R4reMNGNQ9ag1FPbuW9.jpg"
+            },
+            {
+                "name": "Marisol Nichols",
+                "order": 2,
+                "role": "Laura Porter",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zMeWeIF42BY97pZmwBvNKAzrm3L.jpg"
+            },
+            {
+                "name": "Vincent Miller",
+                "order": 3,
+                "role": "Michael Porter"
+            },
+            {
+                "name": "Anne Archer",
+                "order": 4,
+                "role": "Maggie",
+                "thumbnail": "http://image.tmdb.org/t/p/original/1dEu7fqOSogHivUjnXRFnnaOJNR.jpg"
+            },
+            {
+                "name": "Larnell Stovall",
+                "order": 5,
+                "role": "Viper"
+            },
+            {
+                "name": "Sam Shepard",
+                "order": 6,
+                "role": "Gordon",
+                "thumbnail": "http://image.tmdb.org/t/p/original/6KincXfDKVQaRHwtX6qMUAwOsR0.jpg"
+            },
+            {
+                "name": "Johnny Lewis",
+                "order": 7,
+                "role": "Snowman",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5NvVe84K4vgLxtUQpZhweVInbEb.jpg"
+            },
+            {
+                "name": "Harold Perrineau",
+                "order": 8,
+                "role": "Lt. Jackson",
+                "thumbnail": "http://image.tmdb.org/t/p/original/kHdfkvm6KAmYQaoCMegLp9303D2.jpg"
+            },
+            {
+                "name": "Shawn Prince",
+                "order": 9,
+                "role": "Todd Jackson"
+            },
+            {
+                "name": "Chris Browning",
+                "order": 10,
+                "role": "Danny Samson",
+                "thumbnail": "http://image.tmdb.org/t/p/original/coja80Y3B1XJeCJpW6l1ReCH7Zh.jpg"
+            },
+            {
+                "name": "Nick Chinlund",
+                "order": 11,
+                "role": "Sgt. Roberts",
+                "thumbnail": "http://image.tmdb.org/t/p/original/7x7DFGRV3Z8RAfTiMsMvU1vOtdP.jpg"
+            },
+            {
+                "name": "Greg Serano",
+                "order": 12,
+                "role": "Officer Diaz",
+                "thumbnail": "http://image.tmdb.org/t/p/original/2HUQm4OLQUNqPf9E8I6ypZpGHGG.jpg"
+            },
+            {
+                "name": "Jake Walker",
+                "order": 13,
+                "role": "Warden Harris"
+            },
+            {
+                "name": "Nate Parker",
+                "order": 14,
+                "role": "Officer Collins",
+                "thumbnail": "http://image.tmdb.org/t/p/original/tgE3z5WbXyaxKcgEEIaaEic988h.jpg"
+            },
+            {
+                "name": "Mike Seal",
+                "order": 15,
+                "role": "Williams",
+                "thumbnail": "http://image.tmdb.org/t/p/original/1vikAAQB3xx4olisIu4JptQzFDV.jpg"
+            },
+            {
+                "name": "Louie Pescador",
+                "order": 17,
+                "role": "Oso"
+            },
+            {
+                "name": "Gabriel Merendon",
+                "order": 18,
+                "role": "Oso's Lieutenant"
+            },
+            {
+                "name": "Mark Sivertsen",
+                "order": 19,
+                "role": "Agent Skiletti"
+            },
+            {
+                "name": "Mara Holguin",
+                "order": 20,
+                "role": "Public Defender"
+            },
+            {
+                "name": "Carrie Fleming",
+                "order": 21,
+                "role": "Kelly Collins",
+                "thumbnail": "http://image.tmdb.org/t/p/original/vDKtHr181M2GoMOpPVw0oRLy6xt.jpg"
+            },
+            {
+                "name": "Roman Mitichyan",
+                "order": 22,
+                "role": "Swamper Deputy"
+            },
+            {
+                "name": "Adam Taylor",
+                "order": 23,
+                "role": "Investigator Hammond"
+            },
+            {
+                "name": "Brittany Perrineau",
+                "order": 24,
+                "role": "Stacy Jackson"
+            },
+            {
+                "name": "Harry Zimmerman",
+                "order": 25,
+                "role": "LA Judge"
+            },
+            {
+                "name": "Kevin Wiggins",
+                "order": 26,
+                "role": "SQ Guard"
+            },
+            {
+                "name": "Brian Keith Gamble",
+                "order": 27,
+                "role": "Joe"
+            },
+            {
+                "name": "Rosalia de Aragon",
+                "order": 28,
+                "role": "IRC Deputy"
+            },
+            {
+                "name": "Jesus Payan Jr.",
+                "order": 29,
+                "role": "Lead Hispanic"
+            },
+            {
+                "name": "Ivan Brutsche",
+                "order": 30,
+                "role": "Invited Guard"
+            },
+            {
+                "name": "John Trejo",
+                "order": 31,
+                "role": "ADSEG Guard"
+            },
+            {
+                "name": "Cynthia Ruffin",
+                "order": 32,
+                "role": "Female Guard"
+            },
+            {
+                "name": "Christien Tinsley",
+                "order": 33,
+                "role": "Belligerent Man"
+            },
+            {
+                "name": "Christopher Dempsey",
+                "order": 34,
+                "role": "Deputy District Attorney",
+                "thumbnail": "http://image.tmdb.org/t/p/original/nOX8sCxl0LRFYMkYauWFD0xwaDm.jpg"
+            },
+            {
+                "name": "Esodie Geiger",
+                "order": 36,
+                "role": "Female Judge"
+            },
+            {
+                "name": "Richard Caruso",
+                "order": 37,
+                "role": "Bodie"
+            },
+            {
+                "name": "Erik Gomez",
+                "order": 39,
+                "role": "Bodie"
+            },
+            {
+                "name": "Elton Walker",
+                "order": 40,
+                "role": "Corn Rows"
+            },
+            {
+                "name": "Tait Fletcher",
+                "order": 41,
+                "role": "White Inmate",
+                "thumbnail": "http://image.tmdb.org/t/p/original/b70bowmWAiXqlSCBXy0IFC1Mcw4.jpg"
+            },
+            {
+                "name": "Adrian Ponce",
+                "order": 42,
+                "role": "Hispanic Fighter One"
+            },
+            {
+                "name": "Ben James Roybal",
+                "order": 43,
+                "role": "Hispanic Fighter Two"
+            },
+            {
+                "name": "Joey Villasenor",
+                "order": 44,
+                "role": "Loco"
+            },
+            {
+                "name": "Antonio Leyba",
+                "order": 45,
+                "role": "Gonzales"
+            },
+            {
+                "name": "John Koyoma",
+                "order": 46,
+                "role": "Asian Fighter"
+            },
+            {
+                "name": "Jermaine Washington",
+                "order": 47,
+                "role": "Large Black Inmate",
+                "thumbnail": "http://image.tmdb.org/t/p/original/euCpGATxR0ncFXsuuW5tAyKB8U0.jpg"
+            },
+            {
+                "name": "Shawn Rosales",
+                "order": 49,
+                "role": "CSI Tech"
+            },
+            {
+                "name": "Steve Ulibarri",
+                "order": 50,
+                "role": "Intruder"
+            },
+            {
+                "name": "Tommy Truez",
+                "order": 51,
+                "role": "Wade Double"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-06-04 20:06:37",
+        "director": [
+            "Ric Roman Waugh"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/8PGvHXXkoZkCaVqRYllsXz1uC4N.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Felon/Felon.2008.German.720p.BluRay.x264.mkv",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "imdbnumber": "tt1117385",
+        "label": "Felon",
+        "lastplayed": "",
+        "movieid": 23,
+        "mpaa": "Rated R",
+        "originaltitle": "Felon",
+        "playcount": 0,
+        "plot": "A family man convicted of killing an intruder must cope with life afterward in the violent penal system.",
+        "plotoutline": "",
+        "rating": 7.099999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 6244,
+        "set": "",
+        "setid": 0,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.8497109413146973,
+                    "codec": "h264",
+                    "duration": 6244,
+                    "height": 688,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Pantry Films"
+        ],
+        "tag": [],
+        "tagline": "No rule. No hope. No way out.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/svMkz5Q8WboahjBOEFH4eplWud6.jpg",
+        "title": "Felon",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=Sr0zDhqfOVo",
+        "votes": "49",
+        "writer": [
+            "Ric Roman Waugh",
+            "Ric Roman Waugh"
+        ],
+        "year": 2008
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/AtCGEku6kLUFmZ6JWkvXphQBQXx.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/9GSGg4McYID6Ld0OMwimLr1Zx4J.jpg"
+        },
+        "cast": [
+            {
+                "name": "Elyas M’Barek",
+                "order": 0,
+                "role": "Zeki Müller",
+                "thumbnail": "http://image.tmdb.org/t/p/original/Arh8aKvYeJfigN0sAtNWt0GIZRo.jpg"
+            },
+            {
+                "name": "Karoline Herfurth",
+                "order": 1,
+                "role": "Lisi Schnabelstedt",
+                "thumbnail": "http://image.tmdb.org/t/p/original/8HVqhIaLQA3MOTO88Ncn6VOCzdp.jpg"
+            },
+            {
+                "name": "Katja Riemann",
+                "order": 2,
+                "role": "Direktorin Gudrun",
+                "thumbnail": "http://image.tmdb.org/t/p/original/sPvCj1IxlhjI61BVlIuwsXuXEl7.jpg"
+            },
+            {
+                "name": "Jana Pallaske",
+                "order": 3,
+                "role": "Charlie",
+                "thumbnail": "http://image.tmdb.org/t/p/original/mzeBCXN3vcU6gIc8p7otO85Cbo6.jpg"
+            },
+            {
+                "name": "Alwara Höfels",
+                "order": 4,
+                "role": "Caro",
+                "thumbnail": "http://image.tmdb.org/t/p/original/pnb77qJKydpmJFpD4pLEm3YgPHq.jpg"
+            },
+            {
+                "name": "Jonas Holdenrieder",
+                "order": 5,
+                "role": "Peter Paker"
+            },
+            {
+                "name": "Uschi Glas",
+                "order": 6,
+                "role": "Frau Leimbach-Knorrs",
+                "thumbnail": "http://image.tmdb.org/t/p/original/v0xiN0Vr8EHF2G0WnaZSI9O0XIO.jpg"
+            },
+            {
+                "name": "Jella Haase",
+                "order": 7,
+                "role": "Chantal",
+                "thumbnail": "http://image.tmdb.org/t/p/original/cUwroAb4WwOKIalxP3aQvOgcmdQ.jpg"
+            },
+            {
+                "name": "Max von der Groeben",
+                "order": 8,
+                "role": "Daniel (Danger)",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yORNcpIJZ4d9WfH3ku6eq42ccFS.jpg"
+            },
+            {
+                "name": "Margarita Broich",
+                "order": 9,
+                "role": "Frau Sieberts / Jugenamtfrau",
+                "thumbnail": "http://image.tmdb.org/t/p/original/pSEClpsqZNQ4E8c3Phs7RPM0PGA.jpg"
+            },
+            {
+                "name": "Bernd Stegemann",
+                "order": 10,
+                "role": "Mr. Gundlach",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ibxmCB1wBx0KkfrDqirHfq8b3VJ.jpg"
+            },
+            {
+                "name": "Farid Bang",
+                "order": 11,
+                "role": "Paco"
+            },
+            {
+                "name": "Stefan Gödde",
+                "order": 12,
+                "role": "Veranstalter"
+            },
+            {
+                "name": "Christian Näthe",
+                "order": 13,
+                "role": "Biologie-Lehrer"
+            }
+        ],
+        "country": [
+            "Germany"
+        ],
+        "dateadded": "2015-06-04 19:24:44",
+        "director": [
+            "Bora Dağtekin"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/AtCGEku6kLUFmZ6JWkvXphQBQXx.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Fack ju Göhte/Fack.ju.Goehte.2013.German.DTS.720p.BluRay.x264-HDLoad.mkv",
+        "genre": [
+            "Comedy"
+        ],
+        "imdbnumber": "tt2987732",
+        "label": "F*ck You, Goethe",
+        "lastplayed": "",
+        "movieid": 20,
+        "mpaa": "",
+        "originaltitle": "Fack ju Göhte",
+        "playcount": 0,
+        "plot": "A comedy that follows an ex-con who lands a position at a school that sits over the spot where money from one of his earlier robberies was stashed.",
+        "plotoutline": "",
+        "rating": 7.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 7028,
+        "set": "F*ck You, Goethe Collection",
+        "setid": 6,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "dca",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7777780294418335,
+                    "codec": "h264",
+                    "duration": 7028,
+                    "height": 720,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Rat Pack Filmproduktion"
+        ],
+        "tag": [],
+        "tagline": "",
+        "thumbnail": "http://image.tmdb.org/t/p/original/9GSGg4McYID6Ld0OMwimLr1Zx4J.jpg",
+        "title": "F*ck You, Goethe",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=p7a1h0V1AhI",
+        "votes": "170",
+        "writer": [
+            "Bora Dağtekin"
+        ],
+        "year": 2013
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/8Gdz9wYYrCHW4T3cloOhcD62hPQ.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/4trULrbj4AoPLKSiIoQUTm2tPAG.jpg"
+        },
+        "cast": [
+            {
+                "name": "Alison Lohman",
+                "order": 0,
+                "role": "Christine Brown",
+                "thumbnail": "http://image.tmdb.org/t/p/original/x8KPiTYjzQalziiPsR9plq7xEMi.jpg"
+            },
+            {
+                "name": "Justin Long",
+                "order": 1,
+                "role": "Clay Dalton",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4mG8e1MAtkHAFewm2yJI3M1f59s.jpg"
+            },
+            {
+                "name": "Lorna Raver",
+                "order": 2,
+                "role": "Mrs. Ganush",
+                "thumbnail": "http://image.tmdb.org/t/p/original/iXlz30cBxvyn66fPTFOgbrrlsqT.jpg"
+            },
+            {
+                "name": "Dileep Rao",
+                "order": 3,
+                "role": "Rham Jas",
+                "thumbnail": "http://image.tmdb.org/t/p/original/f9xQkvWw5guOePcCxkso1i09w12.jpg"
+            },
+            {
+                "name": "David Paymer",
+                "order": 4,
+                "role": "Mr. Jacks",
+                "thumbnail": "http://image.tmdb.org/t/p/original/x7XfS0b6g6tf6X6RTH6HJZksPRl.jpg"
+            },
+            {
+                "name": "Adriana Barraza",
+                "order": 5,
+                "role": "Shaun San Dena",
+                "thumbnail": "http://image.tmdb.org/t/p/original/8g2uMVkzZSTSvmeBbCaYLmByVAS.jpg"
+            },
+            {
+                "name": "Chelcie Ross",
+                "order": 6,
+                "role": "Leonard Dalton",
+                "thumbnail": "http://image.tmdb.org/t/p/original/gtUOc36bK5MrjdRPQJi1b0cc0LT.jpg"
+            },
+            {
+                "name": "Reggie Lee",
+                "order": 7,
+                "role": "Stu Rubin",
+                "thumbnail": "http://image.tmdb.org/t/p/original/t3kM9otyaduJseoqFgfBXndtKa5.jpg"
+            },
+            {
+                "name": "Molly Cheek",
+                "order": 8,
+                "role": "Trudy Dalton",
+                "thumbnail": "http://image.tmdb.org/t/p/original/47iPOiKc0otACk0vIDm6VnlQBO6.jpg"
+            },
+            {
+                "name": "Bojana Novaković",
+                "order": 9,
+                "role": "Ilenka Ganush",
+                "thumbnail": "http://image.tmdb.org/t/p/original/huxuKuGq26pHRE6nO0WJu3aS0hU.jpg"
+            },
+            {
+                "name": "Kevin Foster",
+                "order": 10,
+                "role": "Milos",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9YZigxSi9V4mdpzxvs6G1nVRPbC.jpg"
+            },
+            {
+                "name": "Jay Gordon",
+                "order": 11,
+                "role": "Family at Diner"
+            },
+            {
+                "name": "Alexis Cruz",
+                "order": 12,
+                "role": "Farm Worker",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3vTlvOsUx5UfrOMhayQljM8AsVV.jpg"
+            },
+            {
+                "name": "Ruth Livier",
+                "order": 13,
+                "role": "Farm Worker's Wife"
+            },
+            {
+                "name": "Shiloh Selassie",
+                "order": 14,
+                "role": "Farm Worker's Son"
+            },
+            {
+                "name": "Octavia Spencer",
+                "order": 15,
+                "role": "Bank Co-Worker",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4FEVru6fBFyJECqwqjHwlZdsL4c.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-06-04 13:03:10",
+        "director": [
+            "Sam Raimi"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/8Gdz9wYYrCHW4T3cloOhcD62hPQ.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Drag Me To Hell/Drag.Me.To.Hell.2009.German.DTS.720p.BluRay.x264-SoW.mkv",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "imdbnumber": "tt1127180",
+        "label": "Drag Me to Hell",
+        "lastplayed": "",
+        "movieid": 15,
+        "mpaa": "Rated PG-13",
+        "originaltitle": "Drag Me to Hell",
+        "playcount": 0,
+        "plot": "After denying a woman the extension she needs to keep her home, loan officer Christine Brown sees her once-promising life take a startling turn for the worse. Christine is convinced she's been cursed by a Gypsy, but her boyfriend is skeptical. Her only hope seems to lie in a psychic who claims he can help her lift the curse and keep her soul from being dragged straight to hell.",
+        "plotoutline": "",
+        "rating": 6.099999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 5931,
+        "set": "",
+        "setid": 0,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "dca",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.4014790058135986,
+                    "codec": "h264",
+                    "duration": 5931,
+                    "height": 528,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Universal Pictures"
+        ],
+        "tag": [],
+        "tagline": "Christine Brown has a good job, a great boyfriend, and a bright future. But in three days, she's going to hell.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/4trULrbj4AoPLKSiIoQUTm2tPAG.jpg",
+        "title": "Drag Me to Hell",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=BUZTybLlWKI",
+        "votes": "279",
+        "writer": [
+            "Sam Raimi",
+            "Ivan Raimi"
+        ],
+        "year": 2009
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/5WVCXiuJPMsRbRFRsH7khHszswF.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/3n9FYKLJVqwrZ7Wf96eoF2cAowU.jpg"
+        },
+        "cast": [
+            {
+                "name": "Adam Sandler",
+                "order": 0,
+                "role": "Zohan",
+                "thumbnail": "http://image.tmdb.org/t/p/original/tv9V6QsuZ3bcp4ciUJjwjcc4qAg.jpg"
+            },
+            {
+                "name": "John Turturro",
+                "order": 1,
+                "role": "The Phantom",
+                "thumbnail": "http://image.tmdb.org/t/p/original/qRa3TH8o6NCUntdF1hiiVSLZOy.jpg"
+            },
+            {
+                "name": "Emmanuelle Chriqui",
+                "order": 2,
+                "role": "Dalia",
+                "thumbnail": "http://image.tmdb.org/t/p/original/d2PyTKZyt5Ndk9am6PJ8u6jRdjH.jpg"
+            },
+            {
+                "name": "Nick Swardson",
+                "order": 3,
+                "role": "Michael",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5RinKDUSsSUNP9l5SzQ7GhXDvVJ.jpg"
+            },
+            {
+                "name": "Lainie Kazan",
+                "order": 4,
+                "role": "Gail",
+                "thumbnail": "http://image.tmdb.org/t/p/original/qI20obSkCyWbo13xh20rWeUuMXp.jpg"
+            },
+            {
+                "name": "Daoud Heidami",
+                "order": 5,
+                "role": "Nasi",
+                "thumbnail": "http://image.tmdb.org/t/p/original/83wsAMfFqXsBXOqP8yYj4BfRd9Y.jpg"
+            },
+            {
+                "name": "Dave Matthews",
+                "order": 6,
+                "role": "James",
+                "thumbnail": "http://image.tmdb.org/t/p/original/izo0HKZEdaJiZ1zW8bizpopMfmz.jpg"
+            },
+            {
+                "name": "Charlotte Rae",
+                "order": 7,
+                "role": "Mrs. Greenhouse",
+                "thumbnail": "http://image.tmdb.org/t/p/original/t6UyU97bkrGreYvLlUutomhTyIP.jpg"
+            },
+            {
+                "name": "Michael Buffer",
+                "order": 8,
+                "role": "Walbridge",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yOqMbIPkf6HtbVRBxu1o1RK7jZd.jpg"
+            },
+            {
+                "name": "Rob Schneider",
+                "order": 9,
+                "role": "Salim",
+                "thumbnail": "http://image.tmdb.org/t/p/original/vDbjHkAc4OMKObi9W5xW9OuDhDI.jpg"
+            },
+            {
+                "name": "Ido Mosseri",
+                "order": 10,
+                "role": "Oori",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rTtzDCYcSJA7asnbNVIUtqg9Hx7.jpg"
+            },
+            {
+                "name": "Sayed Badreya",
+                "order": 11,
+                "role": "Hamdi",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wMpSb8QfErr5a0NBKWc2a3Zxj47.jpg"
+            },
+            {
+                "name": "Kevin Nealon",
+                "order": 12,
+                "role": "Kevin",
+                "thumbnail": "http://image.tmdb.org/t/p/original/aVp6F3hliJp7dOZsIdwTRIaRx71.jpg"
+            },
+            {
+                "name": "Robert Smigel",
+                "order": 13,
+                "role": "Yosi",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fBJaWXCzwnzrdZx6PkFiwhEClSh.jpg"
+            },
+            {
+                "name": "Mariah Carey",
+                "order": 14,
+                "role": "Mariah Carey",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3z4TOe9qzpgmQ2xwLp6Kmv4A7Gq.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-06-04 11:28:32",
+        "director": [
+            "Dennis Dugan"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/5WVCXiuJPMsRbRFRsH7khHszswF.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Leg dich nicht mit Zohan an/Leg.dich.nicht.mit.Zohan.an.UNRATED.720p.BluRay.x264.mkv",
+        "genre": [
+            "Comedy",
+            "Action"
+        ],
+        "imdbnumber": "tt0960144",
+        "label": "You Don't Mess With the Zohan",
+        "lastplayed": "",
+        "movieid": 46,
+        "mpaa": "Rated PG-13",
+        "originaltitle": "You Don't Mess With the Zohan",
+        "playcount": 0,
+        "plot": "An Israeli counterterrorism soldier with a secretly fabulous ambition to become a Manhattan hairstylist. Zohan's desire runs so deep that he'll do anything -- including faking his own death and going head-to-head with an Arab cab driver -- to make his dreams come true.",
+        "plotoutline": "",
+        "rating": 5.699999809265137,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 7013,
+        "set": "",
+        "setid": 0,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.8497109413146973,
+                    "codec": "h264",
+                    "duration": 7013,
+                    "height": 688,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Columbia Pictures"
+        ],
+        "tag": [],
+        "tagline": "Lather. Rinse. Save the world.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/3n9FYKLJVqwrZ7Wf96eoF2cAowU.jpg",
+        "title": "You Don't Mess With the Zohan",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=ucmnTmYpGhI",
+        "votes": "351",
+        "writer": [
+            "Adam Sandler",
+            "Judd Apatow"
+        ],
+        "year": 2008
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/4jv4TsBccZt60ltlPYmL8vaG8cu.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/7qzLIcYR7ev7iXngY8NKHBZHwwT.jpg"
+        },
+        "cast": [
+            {
+                "name": "James Franco",
+                "order": 0,
+                "role": "Oz",
+                "thumbnail": "http://image.tmdb.org/t/p/original/m9he3UnbmAAxkV1XH2EmzkNfkaS.jpg"
+            },
+            {
+                "name": "Mila Kunis",
+                "order": 1,
+                "role": "Theodora",
+                "thumbnail": "http://thetvdb.com/banners/actors/42358.jpg"
+            },
+            {
+                "name": "Rachel Weisz",
+                "order": 2,
+                "role": "Evanora",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4DMvR5get0liIs7Bi3uTRIIdLkw.jpg"
+            },
+            {
+                "name": "Michelle Williams",
+                "order": 3,
+                "role": "Annie / Glinda",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zUvxAK66dVIOMH7M0yZWGkkwZGL.jpg"
+            },
+            {
+                "name": "Zach Braff",
+                "order": 4,
+                "role": "Frank / Finley",
+                "thumbnail": "http://image.tmdb.org/t/p/original/92orTaDC4b6siqCgfR8068uVNCp.jpg"
+            },
+            {
+                "name": "Bill Cobbs",
+                "order": 5,
+                "role": "Master Tinker",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ECNKEckbLF2m56COMxKn3U8Ytp.jpg"
+            },
+            {
+                "name": "Joey King",
+                "order": 6,
+                "role": "Girl in Wheelchair / China Girl",
+                "thumbnail": "http://image.tmdb.org/t/p/original/lGoCVFe0M2Gbt9Q61SVefwnxVPX.jpg"
+            },
+            {
+                "name": "Tony Cox",
+                "order": 7,
+                "role": "Knuck",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5b7fTm33ZblMhMhnwK8KqTJ3nry.jpg"
+            },
+            {
+                "name": "Stephen R. Hart",
+                "order": 8,
+                "role": "Winkie General",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ug7iJfFhZXTmB7UoBhQKrkB09Ia.jpg"
+            },
+            {
+                "name": "Abigail Spencer",
+                "order": 9,
+                "role": "May",
+                "thumbnail": "http://thetvdb.com/banners/actors/310966.jpg"
+            },
+            {
+                "name": "Bruce Campbell",
+                "order": 10,
+                "role": "Winkie Gate Keeper",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ox3Mf0pXGEiWfRO2TYcua0EHUQN.jpg"
+            },
+            {
+                "name": "Ted Raimi",
+                "order": 11,
+                "role": "Skeptic in Audience",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wUrSeqdOq5iDgbrpmnHCKAWMNwK.jpg"
+            },
+            {
+                "name": "Toni Wynne",
+                "order": 12,
+                "role": "Strong Man's Wife"
+            },
+            {
+                "name": "Rob Crites",
+                "order": 13,
+                "role": "Firebreather"
+            },
+            {
+                "name": "Martin Klebba",
+                "order": 14,
+                "role": "Munchkin Rebel",
+                "thumbnail": "http://image.tmdb.org/t/p/original/amlhUrXQ7t1NEPajdj2dQdbC0rt.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-06-04 04:05:46",
+        "director": [
+            "Sam Raimi"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/4jv4TsBccZt60ltlPYmL8vaG8cu.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Die fantastische Welt von Oz/Die.fantastische.Welt.von.Oz.2013.German.RETAiL.AC3D.DL.720p.BluRay.x264-PS.mkv",
+        "genre": [
+            "Fantasy",
+            "Adventure",
+            "Family"
+        ],
+        "imdbnumber": "tt1623205",
+        "label": "Oz: The Great and Powerful",
+        "lastplayed": "",
+        "movieid": 12,
+        "mpaa": "Rated PG",
+        "originaltitle": "Oz: The Great and Powerful",
+        "playcount": 0,
+        "plot": "Oscar Diggs, a small-time circus illusionist and con-artist, is whisked from Kansas to the Land of Oz where the inhabitants assume he's the great wizard of prophecy, there to save Oz from the clutches of evil.",
+        "plotoutline": "",
+        "rating": 5.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 7830,
+        "set": "",
+        "setid": 0,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.399271011352539,
+                    "codec": "h264",
+                    "duration": 7830,
+                    "height": 536,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Miller Roth Films"
+        ],
+        "tag": [],
+        "tagline": "In Oz, nothing is what it seems",
+        "thumbnail": "http://image.tmdb.org/t/p/original/7qzLIcYR7ev7iXngY8NKHBZHwwT.jpg",
+        "title": "Oz: The Great and Powerful",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=yyywumlnhdw",
+        "votes": "2426",
+        "writer": [
+            "L. Frank Baum",
+            "Mitchell Kapner",
+            "David Lindsay-Abaire"
+        ],
+        "year": 2013
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/33E1uX8tOvaUI1NKZqQZIonQzai.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/swFCNfNo6hgXygRJ7l1Y2aYKKky.jpg"
+        },
+        "cast": [
+            {
+                "name": "Johanna Braddy",
+                "order": 0,
+                "role": "Lisa",
+                "thumbnail": "http://image.tmdb.org/t/p/original/a2Q4TJu13J8UVUPb5wgJKhIgJgK.jpg"
+            },
+            {
+                "name": "Gil McKinney",
+                "order": 1,
+                "role": "Max",
+                "thumbnail": "http://image.tmdb.org/t/p/original/glmi1MYtgMxaOlAam8keqAH3MBs.jpg"
+            },
+            {
+                "name": "Emi Ikehata",
+                "order": 2,
+                "role": "Naoko"
+            },
+            {
+                "name": "Jadie-Rose Hobson",
+                "order": 3,
+                "role": "Rose"
+            },
+            {
+                "name": "Beau Mirchoff",
+                "order": 4,
+                "role": "Andy",
+                "thumbnail": "http://image.tmdb.org/t/p/original/w10y537nHhL4Zd4JdKXyKPJRTMl.jpg"
+            },
+            {
+                "name": "Matthew Knight",
+                "order": 5,
+                "role": "Jake",
+                "thumbnail": "http://image.tmdb.org/t/p/original/704cnOP2UV3oTCRET3yex7WpNhJ.jpg"
+            },
+            {
+                "name": "Shawnee Smith",
+                "order": 6,
+                "role": "Dr.Sullivan",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yx1HYEalFsiNVc2imDDfhIZthkn.jpg"
+            },
+            {
+                "name": "Marina Sirtis",
+                "order": 7,
+                "role": "Gretchen",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ueHzqv6uN6Mhf1DC3IjTPhNafYq.jpg"
+            },
+            {
+                "name": "Aiko Horiuchi",
+                "order": 8,
+                "role": "Kayako Saeki"
+            },
+            {
+                "name": "Shimba Tsuchiya",
+                "order": 9,
+                "role": "Toshio Saeki"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-05-31 12:20:44",
+        "director": [
+            "Toby Wilkins"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/33E1uX8tOvaUI1NKZqQZIonQzai.jpg",
+        "file": "smb://Ext/Media/Blu-ray/The Grudge 3/The.Grudge.3.2009.German.DTS.DL.1080p.BluRay.x264-SoW.mkv",
+        "genre": [
+            "Horror",
+            "Thriller"
+        ],
+        "imdbnumber": "tt1053859",
+        "label": "The Grudge 3",
+        "lastplayed": "",
+        "movieid": 69,
+        "mpaa": "Rated R",
+        "originaltitle": "The Grudge 3",
+        "playcount": 0,
+        "plot": "Jake, the sole survivor of The Grudge 2 massacre, is tortured by chilling visions of Kayako and Toshio that have led to his hospitalization. Jake's caretaker, Dr. Sullivan is determined to investigate his horrifying tales. She explores his Chicago home, finding another family on the brink of succumbing to the curse. It becomes clear that Jake's terrifying stories are true, and a mysterious Japanese woman may be the only hope of banishing the spirits forever...unless her plan destroys them all.",
+        "plotoutline": "",
+        "rating": 5.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 5415,
+        "set": "The Grudge Collection",
+        "setid": 22,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "dca",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.8499720096588135,
+                    "codec": "h264",
+                    "duration": 5415,
+                    "height": 720,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Columbia Pictures"
+        ],
+        "tag": [],
+        "tagline": "You can't escape the curse.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/swFCNfNo6hgXygRJ7l1Y2aYKKky.jpg",
+        "title": "The Grudge 3",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=gwbOej9r6K4",
+        "votes": "43",
+        "writer": [
+            "Brad Keene"
+        ],
+        "year": 2009
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/7LMp3YY6WrJEExwKEyVaQnRlC76.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/8x7ej0LnHdKUqilNNJXYOeyB6L9.jpg"
+        },
+        "cast": [
+            {
+                "name": "Taron Egerton",
+                "order": 0,
+                "role": "Gary 'Eggsy' Unwin",
+                "thumbnail": "http://image.tmdb.org/t/p/original/bVsLVoO3BGoHRLjWoM4Gjav2hNb.jpg"
+            },
+            {
+                "name": "Colin Firth",
+                "order": 1,
+                "role": "Harry Hart",
+                "thumbnail": "http://image.tmdb.org/t/p/original/kbs5HzE2KjzbKiGYQw2aXFpdvaX.jpg"
+            },
+            {
+                "name": "Samuel L. Jackson",
+                "order": 2,
+                "role": "Valentine",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dlW6prW9HwYDsIRXNoFYtyHpSny.jpg"
+            },
+            {
+                "name": "Michael Caine",
+                "order": 3,
+                "role": "Arthur",
+                "thumbnail": "http://image.tmdb.org/t/p/original/nlIjMLp9zvvYM2eFm77UhI7s1nW.jpg"
+            },
+            {
+                "name": "Mark Strong",
+                "order": 4,
+                "role": "Merlin",
+                "thumbnail": "http://thetvdb.com/banners/actors/310328.jpg"
+            },
+            {
+                "name": "Sofia Boutella",
+                "order": 5,
+                "role": "Gazelle",
+                "thumbnail": "http://image.tmdb.org/t/p/original/oRHVvy2K17iS9mAsZAE5lAS5oVf.jpg"
+            },
+            {
+                "name": "Sophie Cookson",
+                "order": 6,
+                "role": "Roxy",
+                "thumbnail": "http://image.tmdb.org/t/p/original/gaHxEnDxiQnU1ioXTILwe93zZmb.jpg"
+            },
+            {
+                "name": "Jack Davenport",
+                "order": 7,
+                "role": "Lancelot",
+                "thumbnail": "http://thetvdb.com/banners/actors/81080.jpg"
+            },
+            {
+                "name": "Mark Hamill",
+                "order": 8,
+                "role": "James Arnold",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zUXHs0t0rhRNg7rD1pQm09KXAKP.jpg"
+            },
+            {
+                "name": "Geoff Bell",
+                "order": 9,
+                "role": "Dean",
+                "thumbnail": "http://image.tmdb.org/t/p/original/1zWgEcKr25XSfHGuXdCuFLUvEoX.jpg"
+            },
+            {
+                "name": "Samantha Zoe Womack",
+                "order": 10,
+                "role": "Michelle",
+                "thumbnail": "http://image.tmdb.org/t/p/original/meylSWBDezTf9sZ7DQv664imNp5.jpg"
+            },
+            {
+                "name": "Tom Prior",
+                "order": 11,
+                "role": "Hugo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/oHHV5txGjAXBTVIj7kkkqoy3hUC.jpg"
+            },
+            {
+                "name": "Hanna Alström",
+                "order": 12,
+                "role": "Princess Tilde",
+                "thumbnail": "http://image.tmdb.org/t/p/original/7b6b5nrRYtMaIkX0gUu1BHSLOut.jpg"
+            },
+            {
+                "name": "Jaymes Butler",
+                "order": 14,
+                "role": "Dean's Gang member #2",
+                "thumbnail": "http://image.tmdb.org/t/p/original/eKIytH97XBE8Oe87qGsmKTifHVF.jpg"
+            },
+            {
+                "name": "Corey Johnson",
+                "order": 15,
+                "role": "Church Leader",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9NHJWAnCfTIFzocGQdHvny6sIet.jpg"
+            },
+            {
+                "name": "Neve Gachev",
+                "order": 16,
+                "role": "Reporter",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rMkCANQP59CaTG8t1FlehuhIepw.jpg"
+            },
+            {
+                "name": "Bjørn Floberg",
+                "order": 17,
+                "role": "Swedish Prime Minister",
+                "thumbnail": "http://image.tmdb.org/t/p/original/53XYly3kVMLlYbYgM5Rf84DVBuR.jpg"
+            }
+        ],
+        "country": [
+            "United Kingdom"
+        ],
+        "dateadded": "2015-05-22 09:58:01",
+        "director": [
+            "Matthew Vaughn"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/7LMp3YY6WrJEExwKEyVaQnRlC76.jpg",
+        "file": "smb://Ext/Media/DVDRiP/Kingsman - The Secret Service/Kingsman.The.Secret.Service.German.AC3.Dubbed.WEBRip.x264-PsO.mp4",
+        "genre": [
+            "Crime",
+            "Comedy",
+            "Action",
+            "Adventure"
+        ],
+        "imdbnumber": "tt2802144",
+        "label": "Kingsman: The Secret Service",
+        "lastplayed": "",
+        "movieid": 199,
+        "mpaa": "Rated R",
+        "originaltitle": "Kingsman: The Secret Service",
+        "playcount": 0,
+        "plot": "Kingsman: The Secret Service tells the story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+        "plotoutline": "",
+        "rating": 7.699999809265137,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 7759,
+        "set": "",
+        "setid": 0,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "aac",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.4000000953674316,
+                    "codec": "h264",
+                    "duration": 7759,
+                    "height": 352,
+                    "stereomode": "",
+                    "width": 832
+                }
+            ]
+        },
+        "studio": [
+            "Marv Films"
+        ],
+        "tag": [],
+        "tagline": "Put the King, back in Kingsman!",
+        "thumbnail": "http://image.tmdb.org/t/p/original/8x7ej0LnHdKUqilNNJXYOeyB6L9.jpg",
+        "title": "Kingsman: The Secret Service",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=kl8F-8tR8to",
+        "votes": "1733",
+        "writer": [
+            "Jane Goldman",
+            "Matthew Vaughn"
+        ],
+        "year": 2015
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/oJNu8vS6Wf10Cv2996KO65jt4C0.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/svPHnYE7N5NAGO49dBmRhq0vDQ3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Bradley Cooper",
+                "order": 0,
+                "role": "Chris Kyle",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ifjdzZtkR5S5ifSSNQZsVarqFxD.jpg"
+            },
+            {
+                "name": "Sienna Miller",
+                "order": 1,
+                "role": "Taya Renae Kyle",
+                "thumbnail": "http://image.tmdb.org/t/p/original/83YFewW40Irf6hk6MP5vJa8yKiP.jpg"
+            },
+            {
+                "name": "Jake McDorman",
+                "order": 2,
+                "role": "Ryan Job",
+                "thumbnail": "http://image.tmdb.org/t/p/original/7DHDZrBne3diRwoWirg9djgKzTg.jpg"
+            },
+            {
+                "name": "Luke Grimes",
+                "order": 3,
+                "role": "Marc Lee",
+                "thumbnail": "http://image.tmdb.org/t/p/original/exWEhmQhrUXl4zQ1lnBiSMUvOYF.jpg"
+            },
+            {
+                "name": "Kyle Gallner",
+                "order": 4,
+                "role": "Winston",
+                "thumbnail": "http://image.tmdb.org/t/p/original/vwZAjscP6YUMc8HNuyCzXazyz1f.jpg"
+            },
+            {
+                "name": "Navid Negahban",
+                "order": 5,
+                "role": "Sheikh al-Obeidi",
+                "thumbnail": "http://image.tmdb.org/t/p/original/qxp9X0SIA0FWts2qK60IcrmUhnF.jpg"
+            },
+            {
+                "name": "Keir O'Donnell",
+                "order": 6,
+                "role": "Jeff Kyle",
+                "thumbnail": "http://image.tmdb.org/t/p/original/uGNKMREdVeNALjCFKjaPSgNIfNV.jpg"
+            },
+            {
+                "name": "Max Charles",
+                "order": 7,
+                "role": "Colton Kyle",
+                "thumbnail": "http://thetvdb.com/banners/actors/353471.jpg"
+            },
+            {
+                "name": "Brando Eaton",
+                "order": 8,
+                "role": "Dapper Navy Man",
+                "thumbnail": "http://image.tmdb.org/t/p/original/2FGegT5jzhD94616bMZ7k5ExyXT.jpg"
+            },
+            {
+                "name": "Brian Hallisay",
+                "order": 9,
+                "role": "Captain Gillespie",
+                "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
+            },
+            {
+                "name": "Sam Jaeger",
+                "order": 10,
+                "role": "Captain Martens",
+                "thumbnail": "http://image.tmdb.org/t/p/original/u1b6eyeGBYOrYGidPBWBxjWI6TX.jpg"
+            },
+            {
+                "name": "E.R. Ruiz",
+                "order": 11,
+                "role": "Carjacker #2",
+                "thumbnail": "http://image.tmdb.org/t/p/original/pWmXu0Smq0HufpAz0mXA4uGuCTb.jpg"
+            },
+            {
+                "name": "Eric Close",
+                "order": 12,
+                "role": "DIA Agent Snead",
+                "thumbnail": "http://image.tmdb.org/t/p/original/pMpkLILUIcWHNwTvDmrJ7AKM3Jd.jpg"
+            },
+            {
+                "name": "Owain Yeoman",
+                "order": 13,
+                "role": "Ranger One",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5ZyPXgyJF18zpOjwnvpWbSS8Bgr.jpg"
+            },
+            {
+                "name": "Marnette Patterson",
+                "order": 14,
+                "role": "Sarah",
+                "thumbnail": "http://image.tmdb.org/t/p/original/tuVcwHuiWXF8KOqGD04y8BHuQuI.jpg"
+            },
+            {
+                "name": "Cory Hardrict",
+                "order": 15,
+                "role": "'D' / Dandridge",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zxorRz2Gjdyp4qXH2BHGMuKWoBy.jpg"
+            },
+            {
+                "name": "Chance Kelly",
+                "order": 16,
+                "role": "Lt. Col. Jones",
+                "thumbnail": "http://image.tmdb.org/t/p/original/hUfIviyweiBZk4JKoCIKyuo6HGH.jpg"
+            },
+            {
+                "name": "Leonard Roberts",
+                "order": 18,
+                "role": "Instructor Rolle",
+                "thumbnail": "http://thetvdb.com/banners/actors/71335.jpg"
+            },
+            {
+                "name": "Eric Ladin",
+                "order": 19,
+                "role": "Squirrel",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jkQhi2rrGGSmIZyGo7IAsToeEL.jpg"
+            },
+            {
+                "name": "Emerson Brooks",
+                "order": 20,
+                "role": "Marine Sniper",
+                "thumbnail": "http://image.tmdb.org/t/p/original/gW6TNF1smdOXsiXe6xEM6tBZDWa.jpg"
+            },
+            {
+                "name": "Evan Gamble",
+                "order": 21,
+                "role": "Jag Officer #1",
+                "thumbnail": "http://image.tmdb.org/t/p/original/eBiVP13iVzpcyLm9DlauPGjFCws.jpg"
+            },
+            {
+                "name": "Assaf Cohen",
+                "order": 22,
+                "role": "Terp #2",
+                "thumbnail": "http://image.tmdb.org/t/p/original/oomyDwiJ6LxMH6CCx8oyzDC6kZZ.jpg"
+            },
+            {
+                "name": "Tim Griffin",
+                "order": 23,
+                "role": "Colonel Gronski",
+                "thumbnail": "http://image.tmdb.org/t/p/original/hwGjdnFT8MAowE4oYsIGQovqUsD.jpg"
+            },
+            {
+                "name": "Sammy Sheik",
+                "order": 24,
+                "role": "Mustafa",
+                "thumbnail": "http://image.tmdb.org/t/p/original/6v7kafnGC2c3lJyW6IRMsXrXjRB.jpg"
+            },
+            {
+                "name": "Robert Clotworthy",
+                "order": 25,
+                "role": "Navy Doctor",
+                "thumbnail": "http://image.tmdb.org/t/p/original/m4poS8cn91Gz2uxSRqve5xrgkGI.jpg"
+            },
+            {
+                "name": "Reynaldo Gallegos",
+                "order": 26,
+                "role": "Tony",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9Auh1zaVGGBTYSDwjBs5PRChju1.jpg"
+            },
+            {
+                "name": "Zack Duhame",
+                "order": 27,
+                "role": "Contractor",
+                "thumbnail": "http://image.tmdb.org/t/p/original/vewRMKCtxTL0x3HlG3bKZMm6KpU.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-05-03 01:22:15",
+        "director": [
+            "Clint Eastwood"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/oJNu8vS6Wf10Cv2996KO65jt4C0.jpg",
+        "file": "smb://Ext/Media/DVDRiP/American Sniper/American.Sniper.2014.German.BDRiP.AC3.XViD-BM.mkv",
+        "genre": [
+            "War",
+            "Action"
+        ],
+        "imdbnumber": "tt2179136",
+        "label": "American Sniper",
+        "lastplayed": "",
+        "movieid": 103,
+        "mpaa": "Rated R",
+        "originaltitle": "American Sniper",
+        "playcount": 0,
+        "plot": "U.S. Navy SEAL Chris Kyle (Bradley Cooper) takes his sole mission—protect his comrades—to heart and becomes one of the most lethal snipers in American history. His pinpoint accuracy not only saves countless lives but also makes him a prime target of insurgents. Despite grave danger and his struggle to be a good husband and father to his family back in the States, Kyle serves four tours of duty in Iraq. However, when he finally returns home, he finds that he cannot leave the war behind.",
+        "plotoutline": "",
+        "rating": 7.5,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 7959,
+        "set": "",
+        "setid": 0,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "ac3",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.3684210777282715,
+                    "codec": "h264",
+                    "duration": 7959,
+                    "height": 360,
+                    "stereomode": "",
+                    "width": 852
+                }
+            ]
+        },
+        "studio": [
+            "Village Roadshow Pictures"
+        ],
+        "tag": [],
+        "tagline": "The most lethal sniper in U.S. history.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/svPHnYE7N5NAGO49dBmRhq0vDQ3.jpg",
+        "title": "American Sniper",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=cRbAXWfthtA",
+        "votes": "1556",
+        "writer": [
+            "Jason Hall",
+            "Scott McEwen",
+            "Chris Kyle",
+            "James Defelice"
+        ],
+        "year": 2014
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/zw3fM9KYYhYGsIQUJOyQNbeZSnn.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/iRAYKRj2KN0vuXGiCVsl4qPgxlZ.jpg"
+        },
+        "cast": [
+            {
+                "name": "Dakota Johnson",
+                "order": 0,
+                "role": "Anastasia Steele",
+                "thumbnail": "http://image.tmdb.org/t/p/original/cpdHT7nJgIO6cQwq2pkBggz2otM.jpg"
+            },
+            {
+                "name": "Jamie Dornan",
+                "order": 1,
+                "role": "Christian Grey",
+                "thumbnail": "http://image.tmdb.org/t/p/original/11sPIeECW74loLh3tconPk842c2.jpg"
+            },
+            {
+                "name": "Jennifer Ehle",
+                "order": 2,
+                "role": "Carla",
+                "thumbnail": "http://image.tmdb.org/t/p/original/lZsU6KrXXkIVtcvJmlPKwPRtBkn.jpg"
+            },
+            {
+                "name": "Eloise Mumford",
+                "order": 3,
+                "role": "Kate Kavanagh",
+                "thumbnail": "http://image.tmdb.org/t/p/original/6yT9OjHcnG55iGjq7XFvd2qpYT2.jpg"
+            },
+            {
+                "name": "Victor Rasuk",
+                "order": 4,
+                "role": "Jose Rodriguez",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zrNF2SQpnsOQsFHTKVs69x1TjEW.jpg"
+            },
+            {
+                "name": "Luke Grimes",
+                "order": 5,
+                "role": "Elliot Grey",
+                "thumbnail": "http://image.tmdb.org/t/p/original/exWEhmQhrUXl4zQ1lnBiSMUvOYF.jpg"
+            },
+            {
+                "name": "Marcia Gay Harden",
+                "order": 6,
+                "role": "Dr. Grace Trevelyan Grey",
+                "thumbnail": "http://image.tmdb.org/t/p/original/9TYI6LAu4S0vkn47RjLLgFrhtrc.jpg"
+            },
+            {
+                "name": "Rita Ora",
+                "order": 7,
+                "role": "Mia Grey",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4olIRqYmdXf56ZDsjBCs3VMmJXi.jpg"
+            },
+            {
+                "name": "Max Martini",
+                "order": 8,
+                "role": "Jason Taylor",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fUGKNDsQnKCLzNrWyyBkx7O26XC.jpg"
+            },
+            {
+                "name": "Callum Keith Rennie",
+                "order": 9,
+                "role": "Ray Steele",
+                "thumbnail": "http://image.tmdb.org/t/p/original/slLsdWFDpxueDbV0l1QWK2gG24x.jpg"
+            },
+            {
+                "name": "Andrew Airlie",
+                "order": 10,
+                "role": "Mr. Grey",
+                "thumbnail": "http://image.tmdb.org/t/p/original/cHjR5zfMfUiiMVSKBnlbxNklcFL.jpg"
+            },
+            {
+                "name": "Dylan Neal",
+                "order": 11,
+                "role": "Bob",
+                "thumbnail": "http://thetvdb.com/banners/actors/325913.jpg"
+            },
+            {
+                "name": "Elliat Albrecht",
+                "order": 12,
+                "role": "Olivia",
+                "thumbnail": "http://image.tmdb.org/t/p/original/d4y91DViQoRFaxlZHtY5TtzrEUp.jpg"
+            },
+            {
+                "name": "Rachel Skarsten",
+                "order": 13,
+                "role": "Andrea",
+                "thumbnail": "http://image.tmdb.org/t/p/original/6eDPJFpVX58ADPnLixa2Nax736G.jpg"
+            },
+            {
+                "name": "Emily Fonda",
+                "order": 14,
+                "role": "Martina",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xcEU2br6ee5plZBfNQziL992I77.jpg"
+            },
+            {
+                "name": "Anthony Konechny",
+                "order": 15,
+                "role": "Paul Clayton",
+                "thumbnail": "http://image.tmdb.org/t/p/original/l1qSfyINOFQSUwGt05sQ3XVPqRr.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-04-30 08:40:31",
+        "director": [
+            "Sam Taylor-Johnson"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/zw3fM9KYYhYGsIQUJOyQNbeZSnn.jpg",
+        "file": "smb://Ext/Media/DVDRiP/Fifty Shades of Grey/Fifty.Shades.of.Grey.2015.UNRATED.German.BDRiP.AC3LD.XViD-BM.avi",
+        "genre": [
+            "Romance",
+            "Drama"
+        ],
+        "imdbnumber": "tt2322441",
+        "label": "Fifty Shades of Grey",
+        "lastplayed": "",
+        "movieid": 159,
+        "mpaa": "Rated R",
+        "originaltitle": "Fifty Shades of Grey",
+        "playcount": 0,
+        "plot": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+        "plotoutline": "",
+        "rating": 5.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 7709,
+        "set": "Fifty Shades of Grey Collection",
+        "setid": 47,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.3684210777282715,
+                    "codec": "xvid",
+                    "duration": 7709,
+                    "height": 304,
+                    "stereomode": "",
+                    "width": 720
+                }
+            ]
+        },
+        "studio": [
+            "Universal Pictures"
+        ],
+        "tag": [],
+        "tagline": "Are you curious?",
+        "thumbnail": "http://image.tmdb.org/t/p/original/iRAYKRj2KN0vuXGiCVsl4qPgxlZ.jpg",
+        "title": "Fifty Shades of Grey",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=S7jE27USh68",
+        "votes": "865",
+        "writer": [
+            "Kelly Marcel"
+        ],
+        "year": 2015
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/sRJjliXA7ZqHCr7HCK0ZB83xxjr.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/tAhSyLxpaZJCr1oc2a3flvC2B7x.jpg"
+        },
+        "cast": [
+            {
+                "name": "Jennifer Lawrence",
+                "order": 0,
+                "role": "Katniss Everdeen",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yXjoM50kT79GZqZu8mOjsmXGxXX.jpg"
+            },
+            {
+                "name": "Josh Hutcherson",
+                "order": 1,
+                "role": "Peeta Mellark",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fuLYoaiiFhkJzAVj5jOtdZ8FlEl.jpg"
+            },
+            {
+                "name": "Sam Claflin",
+                "order": 2,
+                "role": "Finnick Odair",
+                "thumbnail": "http://image.tmdb.org/t/p/original/uJds0AFjHpirDjxPPVZoflw39Ht.jpg"
+            },
+            {
+                "name": "Elizabeth Banks",
+                "order": 3,
+                "role": "Effie Trinket",
+                "thumbnail": "http://image.tmdb.org/t/p/original/w2RrVNLQa4ApXhpIgWTkpNVS2kd.jpg"
+            },
+            {
+                "name": "Alan Ritchson",
+                "order": 4,
+                "role": "Gloss",
+                "thumbnail": "http://image.tmdb.org/t/p/original/aCyp11i8yTFqa8vOAksarDkRfR7.jpg"
+            },
+            {
+                "name": "Jena Malone",
+                "order": 5,
+                "role": "Johanna Mason",
+                "thumbnail": "http://thetvdb.com/banners/actors/299328.jpg"
+            },
+            {
+                "name": "Stanley Tucci",
+                "order": 6,
+                "role": "Caeser Flickerman",
+                "thumbnail": "http://image.tmdb.org/t/p/original/omGlTJF2IW5r3L3c5y0qkCt3hFr.jpg"
+            },
+            {
+                "name": "Willow Shields",
+                "order": 7,
+                "role": "Primrose Everdeen",
+                "thumbnail": "http://image.tmdb.org/t/p/original/bKMAnqGbyVeiRBG3im1Y33Vtrgx.jpg"
+            },
+            {
+                "name": "Woody Harrelson",
+                "order": 8,
+                "role": "Haymitch Abernathy",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ivfalpnvELPaSILqP6K6rabXfsU.jpg"
+            },
+            {
+                "name": "Philip Seymour Hoffman",
+                "order": 9,
+                "role": "Plutarch Heavensbee",
+                "thumbnail": "http://image.tmdb.org/t/p/original/de37JbzZ80KP1LOhzIkVe5XfSwe.jpg"
+            },
+            {
+                "name": "Donald Sutherland",
+                "order": 10,
+                "role": "President Snow",
+                "thumbnail": "http://image.tmdb.org/t/p/original/tPLVaPjxEscGPKS3ieByloa8Mqj.jpg"
+            },
+            {
+                "name": "Jeffrey Wright",
+                "order": 11,
+                "role": "Beetee",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wBh9rwK3aRr1hCrSRLxxPHKzGeU.jpg"
+            },
+            {
+                "name": "Amanda Plummer",
+                "order": 12,
+                "role": "Wiress",
+                "thumbnail": "http://image.tmdb.org/t/p/original/uICpVUj29yBcwCEGVZzE77FL98W.jpg"
+            },
+            {
+                "name": "Meta Golding",
+                "order": 13,
+                "role": "Enobaria",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fvIy2cWlYs2PcuXjTLMt4QpOQnf.jpg"
+            },
+            {
+                "name": "Lenny Kravitz",
+                "order": 14,
+                "role": "Cinna",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dGtP6VFtjHkvoDaEGktzTC7oDOQ.jpg"
+            },
+            {
+                "name": "Lynn Cohen",
+                "order": 15,
+                "role": "Mags",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5lllNLrQLlxozRCbJrgnCAhOee6.jpg"
+            },
+            {
+                "name": "Toby Jones",
+                "order": 16,
+                "role": "Claudius Templesmith",
+                "thumbnail": "http://image.tmdb.org/t/p/original/7Flo5oYhQmcX5vc0TfAA6FB4ncS.jpg"
+            },
+            {
+                "name": "Stephanie Leigh Schlund",
+                "order": 17,
+                "role": "Cashmere",
+                "thumbnail": "http://image.tmdb.org/t/p/original/x90FxHKLJRpGxKf06fFAcs0fUZe.jpg"
+            },
+            {
+                "name": "Bruno Gunn",
+                "order": 18,
+                "role": "Brutus",
+                "thumbnail": "http://image.tmdb.org/t/p/original/gvjIPGaYREusDXwGIgK4H2aMFyM.jpg"
+            },
+            {
+                "name": "Maria Howell",
+                "order": 19,
+                "role": "Seeder",
+                "thumbnail": "http://thetvdb.com/banners/actors/303086.jpg"
+            },
+            {
+                "name": "E. Roger Mitchell",
+                "order": 20,
+                "role": "Chaff",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xRK7BDFGrwKWvA8sFkyGShWav3y.jpg"
+            },
+            {
+                "name": "Patrick St. Esprit",
+                "order": 21,
+                "role": "Romulus Thread",
+                "thumbnail": "http://image.tmdb.org/t/p/original/bcbLFQUGDcgrlbJz0blywlfGutL.jpg"
+            },
+            {
+                "name": "Liam Hemsworth",
+                "order": 22,
+                "role": "Gale Hawthorne",
+                "thumbnail": "http://image.tmdb.org/t/p/original/eVeBiqx1vTsd1QCHOr24Cf13wb.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-04-18 23:52:46",
+        "director": [
+            "Francis Lawrence"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/sRJjliXA7ZqHCr7HCK0ZB83xxjr.jpg",
+        "file": "smb://Ext/Media/DVDRiP/Die Tribute von Panem - Catching Fire/Die.Tribute.von.Panem.Catching.Fire.German.BDRiP.x264-EXQUiSiTE.mkv",
+        "genre": [
+            "Science Fiction",
+            "Thriller",
+            "Action",
+            "Adventure"
+        ],
+        "imdbnumber": "tt1951264",
+        "label": "The Hunger Games: Catching Fire",
+        "lastplayed": "",
+        "movieid": 136,
+        "mpaa": "Rated PG-13",
+        "originaltitle": "The Hunger Games: Catching Fire",
+        "playcount": 0,
+        "plot": "Katniss Everdeen has returned home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark. Winning means that they must turn around and leave their family and close friends, embarking on a \"Victor's Tour\" of the districts. Along the way Katniss senses that a rebellion is simmering, but the Capitol is still very much in control as President Snow prepares the 75th Annual Hunger Games (The Quarter Quell) - a competition that could change Panem forever.",
+        "plotoutline": "",
+        "rating": 7.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 8795,
+        "set": "The Hunger Games Collection",
+        "setid": 44,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.4000000953674316,
+                    "codec": "h264",
+                    "duration": 8795,
+                    "height": 300,
+                    "stereomode": "",
+                    "width": 720
+                }
+            ]
+        },
+        "studio": [
+            "Lionsgate"
+        ],
+        "tag": [],
+        "tagline": "Every revolution begins with a spark.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/tAhSyLxpaZJCr1oc2a3flvC2B7x.jpg",
+        "title": "The Hunger Games: Catching Fire",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=jyPnQw_Lqds",
+        "votes": "2279",
+        "writer": [
+            "Simon Beaufoy",
+            "Michael Arndt"
+        ],
+        "year": 2013
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/sVv4VXJ7Vd9qDPncs0zu2XepWQr.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/oJUC2p8ejAl04hym5vIWFAksUDT.jpg"
+        },
+        "cast": [
+            {
+                "name": "Jennifer Lawrence",
+                "order": 0,
+                "role": "Katniss Everdeen",
+                "thumbnail": "http://image.tmdb.org/t/p/original/yXjoM50kT79GZqZu8mOjsmXGxXX.jpg"
+            },
+            {
+                "name": "Josh Hutcherson",
+                "order": 1,
+                "role": "Peeta Mellark",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fuLYoaiiFhkJzAVj5jOtdZ8FlEl.jpg"
+            },
+            {
+                "name": "Liam Hemsworth",
+                "order": 2,
+                "role": "Gale Hawthorne",
+                "thumbnail": "http://image.tmdb.org/t/p/original/eVeBiqx1vTsd1QCHOr24Cf13wb.jpg"
+            },
+            {
+                "name": "Stanley Tucci",
+                "order": 3,
+                "role": "Caesar Flickerman",
+                "thumbnail": "http://image.tmdb.org/t/p/original/omGlTJF2IW5r3L3c5y0qkCt3hFr.jpg"
+            },
+            {
+                "name": "Elizabeth Banks",
+                "order": 4,
+                "role": "Effie Trinket",
+                "thumbnail": "http://image.tmdb.org/t/p/original/w2RrVNLQa4ApXhpIgWTkpNVS2kd.jpg"
+            },
+            {
+                "name": "Woody Harrelson",
+                "order": 5,
+                "role": "Haymitch Abernathy",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ivfalpnvELPaSILqP6K6rabXfsU.jpg"
+            },
+            {
+                "name": "Willow Shields",
+                "order": 6,
+                "role": "Primrose Everdeen",
+                "thumbnail": "http://image.tmdb.org/t/p/original/bKMAnqGbyVeiRBG3im1Y33Vtrgx.jpg"
+            },
+            {
+                "name": "Wes Bentley",
+                "order": 7,
+                "role": "Seneca Crane",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zQMEswmsafMRXjydPAKQRfvS9YT.jpg"
+            },
+            {
+                "name": "Paula Malcomson",
+                "order": 8,
+                "role": "Katniss' Mother",
+                "thumbnail": "http://image.tmdb.org/t/p/original/mqiiy0HXExPYaIczPxWFRDGqhwA.jpg"
+            },
+            {
+                "name": "Amandla Stenberg",
+                "order": 9,
+                "role": "Rue",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zbsIVoRHTw3VmQ18O7xUaSfIQBE.jpg"
+            },
+            {
+                "name": "Lenny Kravitz",
+                "order": 10,
+                "role": "Cinna",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dGtP6VFtjHkvoDaEGktzTC7oDOQ.jpg"
+            },
+            {
+                "name": "Alexander Ludwig",
+                "order": 11,
+                "role": "Cato",
+                "thumbnail": "http://thetvdb.com/banners/actors/345612.jpg"
+            },
+            {
+                "name": "Isabelle Fuhrman",
+                "order": 12,
+                "role": "Clove",
+                "thumbnail": "http://image.tmdb.org/t/p/original/bZslEz0bSkA7lxVZfK4zMoNny7I.jpg"
+            },
+            {
+                "name": "Donald Sutherland",
+                "order": 13,
+                "role": "President Snow",
+                "thumbnail": "http://image.tmdb.org/t/p/original/tPLVaPjxEscGPKS3ieByloa8Mqj.jpg"
+            },
+            {
+                "name": "Leven Rambin",
+                "order": 14,
+                "role": "Glimmer",
+                "thumbnail": "http://image.tmdb.org/t/p/original/5jdHzpHDYXmMdNoCtXSf4axrqb7.jpg"
+            },
+            {
+                "name": "Nelson Ascencio",
+                "order": 15,
+                "role": "Flavius",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xdxsCTSOATrUmXsGUloTOtjIO1J.jpg"
+            },
+            {
+                "name": "Jack Quaid",
+                "order": 17,
+                "role": "Marvel",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jPBmqN3eNPHBh04AkK5ruGFFcOi.jpg"
+            },
+            {
+                "name": "Mackenzie Lintz",
+                "order": 18,
+                "role": "Tribute Girl District 8",
+                "thumbnail": "http://thetvdb.com/banners/actors/314580.jpg"
+            },
+            {
+                "name": "Ian Nelson",
+                "order": 19,
+                "role": "Tribute Boy District 3",
+                "thumbnail": "http://image.tmdb.org/t/p/original/e5UxvFTHRFI2o8RDiTAjb9tJXLL.jpg"
+            },
+            {
+                "name": "Dayo Okeniyi",
+                "order": 20,
+                "role": "Thresh",
+                "thumbnail": "http://image.tmdb.org/t/p/original/vRZ0pA5b7lePzHDWL3UPgGGFEdT.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-04-06 21:12:30",
+        "director": [
+            "Gary Ross"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/sVv4VXJ7Vd9qDPncs0zu2XepWQr.jpg",
+        "file": "smb://Ext/Media/DVDRiP/Die Tribute von Panem/Die.Tribute.von.Panem.2012.German.BDRiP.AC3.XViD-FB-1.avi",
+        "genre": [
+            "Science Fiction",
+            "Adventure",
+            "Fantasy"
+        ],
+        "imdbnumber": "tt1392170",
+        "label": "The Hunger Games",
+        "lastplayed": "",
+        "movieid": 135,
+        "mpaa": "Rated PG-13",
+        "originaltitle": "The Hunger Games",
+        "playcount": 0,
+        "plot": "Every year in the ruins of what was once North America, the nation of Panem forces each of its twelve districts to send a teenage boy and girl to compete in the Hunger Games.  Part twisted entertainment, part government intimidation tactic, the Hunger Games are a nationally televised event in which “Tributes” must fight with one another until one survivor remains.  Pitted against highly-trained Tributes who have prepared for these Games their entire lives, Katniss is forced to rely upon her sharp instincts as well as the mentorship of drunken former victor Haymitch Abernathy.  If she’s ever to return home to District 12, Katniss must make impossible choices in the arena that weigh survival against humanity and life against love. The world will be watching.",
+        "plotoutline": "",
+        "rating": 6.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 4183,
+        "set": "The Hunger Games Collection",
+        "setid": 44,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "ac3",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 2.4242420196533203,
+                    "codec": "fmp4",
+                    "duration": 4183,
+                    "height": 528,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Lionsgate"
+        ],
+        "tag": [],
+        "tagline": "May The Odds Be Ever In Your Favor.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/oJUC2p8ejAl04hym5vIWFAksUDT.jpg",
+        "title": "The Hunger Games",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=fkxcftwKwfI",
+        "votes": "5541",
+        "writer": [
+            "Gary Ross"
+        ],
+        "year": 2012
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/scVPsqO1MryjgbJuGg2JsWTE3WD.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/6Lc57s0KftGf75p7sqAgTGeVPWP.jpg"
+        },
+        "cast": [
+            {
+                "name": "Jeff Bridges",
+                "order": 0,
+                "role": "Master Gregory",
+                "thumbnail": "http://image.tmdb.org/t/p/original/orLtq2zGw7C8cfByDobPz5BCHnD.jpg"
+            },
+            {
+                "name": "Julianne Moore",
+                "order": 1,
+                "role": "Mother Malkin",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zfHsSarMGjwuvfiWoVslIQm05Ho.jpg"
+            },
+            {
+                "name": "Ben Barnes",
+                "order": 2,
+                "role": "Tom Ward",
+                "thumbnail": "http://image.tmdb.org/t/p/original/uaqyZo945YT0TScQgiaui5v0iTn.jpg"
+            },
+            {
+                "name": "Alicia Vikander",
+                "order": 3,
+                "role": "Alice",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rZKIXQBxNjBhYSHuOt0tnP8kBks.jpg"
+            },
+            {
+                "name": "Kit Harington",
+                "order": 4,
+                "role": "Billy Bradley",
+                "thumbnail": "http://thetvdb.com/banners/actors/346212.jpg"
+            },
+            {
+                "name": "Djimon Hounsou",
+                "order": 5,
+                "role": "Radu",
+                "thumbnail": "http://image.tmdb.org/t/p/original/y22Pb0XAVqC0l7ukzKKtXzPEuHk.jpg"
+            },
+            {
+                "name": "Olivia Williams",
+                "order": 6,
+                "role": "Mam Ward",
+                "thumbnail": "http://image.tmdb.org/t/p/original/sFPpzOuDOLyB0YmTstS7MTSzEb6.jpg"
+            },
+            {
+                "name": "Antje Traue",
+                "order": 7,
+                "role": "Bony Lizzie",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xWbtFJyN8ynIpdKNCB0KpsKldM7.jpg"
+            },
+            {
+                "name": "Jason Scott Lee",
+                "order": 8,
+                "role": "Urag",
+                "thumbnail": "http://image.tmdb.org/t/p/original/1efvolWhMCbbT6qXOlbwieOusbx.jpg"
+            },
+            {
+                "name": "David Cubitt",
+                "order": 9,
+                "role": "Rogue Knight",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ibAM06dGc04FL9XD0Y03k05O2sC.jpg"
+            },
+            {
+                "name": "Eric Keenleyside",
+                "order": 10,
+                "role": "Old Guard",
+                "thumbnail": "http://image.tmdb.org/t/p/original/iYZq5nqJxcU3PPSkKBe3NH88w8Z.jpg"
+            },
+            {
+                "name": "Thai-Hoa Le",
+                "order": 11,
+                "role": "Fisherman",
+                "thumbnail": "http://image.tmdb.org/t/p/original/nQlNNcG18Ddy7ludyi3E8MwbNmF.jpg"
+            },
+            {
+                "name": "Carmel Amit",
+                "order": 12,
+                "role": "Member of Mob",
+                "thumbnail": "http://image.tmdb.org/t/p/original/8uTwuzwq8Ny7I0yG5bYqV4MZmCw.jpg"
+            },
+            {
+                "name": "Gerard Plunkett",
+                "order": 13,
+                "role": "Prelate",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4HLZrDmeWMgxeMRtDDnb4OrFeLj.jpg"
+            },
+            {
+                "name": "Jim Shield",
+                "order": 14,
+                "role": "Leader Soldier",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wIumEHhYR8ZLKysrtG4TLVxC4hR.jpg"
+            },
+            {
+                "name": "Timothy Webber",
+                "order": 15,
+                "role": "Malcom Ward",
+                "thumbnail": "http://image.tmdb.org/t/p/original/aUB7F6LlfbWaExVRVARAfrUrcpS.jpg"
+            },
+            {
+                "name": "Julian Black Antelope",
+                "order": 16,
+                "role": "Tomb Robber",
+                "thumbnail": "http://image.tmdb.org/t/p/original/pYtm0h1Y5FNMW2s5CqBlzVawzol.jpg"
+            },
+            {
+                "name": "Luc Roderique",
+                "order": 17,
+                "role": "Strix",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jxnwn6u8RFNo9U9lcBFm0UORypT.jpg"
+            },
+            {
+                "name": "Sean Carey",
+                "order": 18,
+                "role": "Soldier",
+                "thumbnail": "http://image.tmdb.org/t/p/original/cHPQ2J1ksbo2RJO6eg74EAssR0E.jpg"
+            },
+            {
+                "name": "Fraser Aitcheson",
+                "order": 19,
+                "role": "Grave Robber",
+                "thumbnail": "http://image.tmdb.org/t/p/original/o9kl9aGxbW8D8Kx4YKn1Pebfdlv.jpg"
+            },
+            {
+                "name": "Zahf Paroo",
+                "order": 20,
+                "role": "Virahadra",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jFrVBricxCWGIRYV7XxvNYM9Jcp.jpg"
+            },
+            {
+                "name": "Loyd Catlett",
+                "order": 21,
+                "role": "Grave-robber",
+                "thumbnail": "http://image.tmdb.org/t/p/original/kdoZBvpFfVnsIsEhT76HF5Aj2zS.jpg"
+            },
+            {
+                "name": "Primo Allon",
+                "order": 22,
+                "role": "Simon Ward",
+                "thumbnail": "http://image.tmdb.org/t/p/original/tsMc3e9Mqm0BcqWfX5pCMRDHbze.jpg"
+            },
+            {
+                "name": "Lilah Fitzgerald",
+                "order": 23,
+                "role": "Cate Ward",
+                "thumbnail": "http://image.tmdb.org/t/p/original/tR5ZCcwhSlJLtFcx8ExbNYIR4LW.jpg"
+            },
+            {
+                "name": "Taya Clyne",
+                "order": 25,
+                "role": "Little Girl",
+                "thumbnail": "http://image.tmdb.org/t/p/original/qOkwhJTWoxZ3rVnm7KfdJebiT4Y.jpg"
+            },
+            {
+                "name": "Faustino Di Bauda",
+                "order": 26,
+                "role": "Innkeeper",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fi2seiryBvvYPvk4etv2TkgrCod.jpg"
+            },
+            {
+                "name": "Billy Wickman",
+                "order": 27,
+                "role": "Young Guard",
+                "thumbnail": "http://image.tmdb.org/t/p/original/iEcjrowtU4xExVvk1cBGBsdOO5E.jpg"
+            },
+            {
+                "name": "Duffy",
+                "order": 28,
+                "role": "Stray Dog",
+                "thumbnail": "http://image.tmdb.org/t/p/original/deNVIYnej2osauRN1h0RyXz7WqY.jpg"
+            },
+            {
+                "name": "Marcel Bridges",
+                "order": 29,
+                "role": "Jack Ward",
+                "thumbnail": "http://image.tmdb.org/t/p/original/qccK707gaeEtp9G8K55Myz2UtVk.jpg"
+            },
+            {
+                "name": "Yaroslav Poverlo",
+                "order": 30,
+                "role": "Head Counselor",
+                "thumbnail": "http://image.tmdb.org/t/p/original/sG6h94BHWoJOGK5PqF1jSt0aZJl.jpg"
+            },
+            {
+                "name": "Isabelle Landry",
+                "order": 31,
+                "role": "Priest's Wife"
+            },
+            {
+                "name": "Jason Asuncion",
+                "order": 32,
+                "role": "Mongolian",
+                "thumbnail": "http://image.tmdb.org/t/p/original/nNK2UihM5M23nUpekR7IjNsMxjK.jpg"
+            },
+            {
+                "name": "Joanne Bentley",
+                "order": 33,
+                "role": "Noblewoman"
+            },
+            {
+                "name": "Anthony Welch",
+                "order": 34,
+                "role": "Soldier",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xOqwU1rkdNiNYk5l6f0fz3RwIuI.jpg"
+            },
+            {
+                "name": "Brenda McDonald",
+                "order": 35,
+                "role": "Timeless Hag",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wlRF7hHwPe3RV3TxdeLcDR1t0pS.jpg"
+            }
+        ],
+        "country": [
+            "Canada"
+        ],
+        "dateadded": "2015-03-21 00:17:04",
+        "director": [
+            "Sergey Bodrov"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/scVPsqO1MryjgbJuGg2JsWTE3WD.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Seventh Son/Seventh.Son.GERMAN.AC3.Dubbed.720p.WebHD.x264-RELiABLE.mkv",
+        "genre": [
+            "Family",
+            "Fantasy",
+            "Adventure"
+        ],
+        "imdbnumber": "tt1121096",
+        "label": "Seventh Son",
+        "lastplayed": "",
+        "movieid": 58,
+        "mpaa": "Rated PG-13",
+        "originaltitle": "Seventh Son",
+        "playcount": 0,
+        "plot": "John Gregory, who is a seventh son of a seventh son and also the local spook, has protected he country from witches, boggarts, ghouls and all manner of things that go bump in the night. However John is not young anymore, and has been seeking an apprentice to carry on his trade. Most have failed to survive. The last hope is a young farmer's son named Thomas Ward. Will he survive the training to become the spook that so many others couldn't?",
+        "plotoutline": "",
+        "rating": 5.300000190734863,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 6121,
+        "set": "",
+        "setid": 0,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [
+                {
+                    "language": "ger"
+                }
+            ],
+            "video": [
+                {
+                    "aspect": 2.4242420196533203,
+                    "codec": "h264",
+                    "duration": 6121,
+                    "height": 528,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "Universal Pictures"
+        ],
+        "tag": [],
+        "tagline": "When darkness falls, the son will rise. When the son falls, the dark knight will rise.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/6Lc57s0KftGf75p7sqAgTGeVPWP.jpg",
+        "title": "Seventh Son",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=F4zX--5Ils8",
+        "votes": "361",
+        "writer": [
+            "Max Borenstein",
+            "Matt Greenberg",
+            "Charles Leavitt"
+        ],
+        "year": 2015
+    },
+    {
+        "art": {
+            "fanart": "http://image.tmdb.org/t/p/original/bd8RdP2OduLBGkUMdc8PZPjdtbI.jpg",
+            "poster": "http://image.tmdb.org/t/p/original/a4bDdCh2fh9hpc6aK0ghKzUZ2dl.jpg"
+        },
+        "cast": [
+            {
+                "name": "Will Smith",
+                "order": 1,
+                "role": "Nicky",
+                "thumbnail": "http://image.tmdb.org/t/p/original/2iYXDlCvLyVO49louRyDDXagZ0G.jpg"
+            },
+            {
+                "name": "Margot Robbie",
+                "order": 2,
+                "role": "Jess Barrett",
+                "thumbnail": "http://image.tmdb.org/t/p/original/iykyn6Ap1PmHJFp3UP10Mhw2pqE.jpg"
+            },
+            {
+                "name": "Rodrigo Santoro",
+                "order": 3,
+                "role": "Garriga",
+                "thumbnail": "http://thetvdb.com/banners/actors/77856.jpg"
+            },
+            {
+                "name": "Robert Taylor",
+                "order": 4,
+                "role": "McEwen",
+                "thumbnail": "http://image.tmdb.org/t/p/original/aqRJQj0KBPhGLDxfmOAXCUzCcSJ.jpg"
+            },
+            {
+                "name": "Gerald McRaney",
+                "order": 5,
+                "role": "Ownes",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jPS0hN9T3JFhfMLEJ36LEwedTAz.jpg"
+            },
+            {
+                "name": "Adrian Martinez",
+                "order": 6,
+                "role": "Farhad",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zDnnzak4BLb5dNc9taqLNprkRvw.jpg"
+            },
+            {
+                "name": "BD Wong",
+                "order": 7,
+                "role": "Liyuan",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dfIfhsoZVkJSf1XcHbRWwIeJ4Ud.jpg"
+            },
+            {
+                "name": "Brennan Brown",
+                "order": 8,
+                "role": "Horst",
+                "thumbnail": "http://image.tmdb.org/t/p/original/si4VTKGM6dFyZ6liBSDbjCkn3bf.jpg"
+            },
+            {
+                "name": "Dotan Bonen",
+                "order": 9,
+                "role": "Gordon"
+            },
+            {
+                "name": "Griff Furst",
+                "order": 10,
+                "role": "Gareth",
+                "thumbnail": "http://image.tmdb.org/t/p/original/rRAtuKLOq27DFZ0MWu6FCVbbhS8.jpg"
+            },
+            {
+                "name": "Stephanie Honoré",
+                "order": 11,
+                "role": "Janice",
+                "thumbnail": "http://image.tmdb.org/t/p/original/nSMMEmAcTy9D9XK9recqarOrBg2.jpg"
+            },
+            {
+                "name": "David Stanford",
+                "order": 12,
+                "role": "Drunken Stranger",
+                "thumbnail": "http://image.tmdb.org/t/p/original/93Dhqa27w6X01eIkKS7slPaHq6U.jpg"
+            },
+            {
+                "name": "Dominic Fumusa",
+                "order": 13,
+                "role": "Jared",
+                "thumbnail": "http://thetvdb.com/banners/actors/306091.jpg"
+            },
+            {
+                "name": "Steve Kim",
+                "order": 14,
+                "role": "Liyuans Bodyguard",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fLSs02S4X3iL1nLSaR7pc4q1eY9.jpg"
+            },
+            {
+                "name": "Don Yesso",
+                "order": 15,
+                "role": "Card Player / Football Coach",
+                "thumbnail": "http://image.tmdb.org/t/p/original/l9ZWhtJtPv5fGgL0tQDZJgsQGAp.jpg"
+            }
+        ],
+        "country": [
+            "United States of America"
+        ],
+        "dateadded": "2015-03-20 20:10:50",
+        "director": [
+            "Glenn Ficarra",
+            "John Requa"
+        ],
+        "fanart": "http://image.tmdb.org/t/p/original/bd8RdP2OduLBGkUMdc8PZPjdtbI.jpg",
+        "file": "smb://Ext/Media/Blu-ray/Focus/Focus.German.DL.AC3.Dubbed.720p.WebHD.h264-PsO.mkv",
+        "genre": [
+            "Romance",
+            "Comedy",
+            "Crime",
+            "Drama"
+        ],
+        "imdbnumber": "tt2381941",
+        "label": "Focus",
+        "lastplayed": "",
+        "movieid": 27,
+        "mpaa": "Rated R",
+        "originaltitle": "Focus",
+        "playcount": 0,
+        "plot": "A veteran grifter takes a young, attractive woman under his wing, but things get complicated when they become romantically involved.",
+        "plotoutline": "",
+        "rating": 6.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 6276,
+        "set": "",
+        "setid": 0,
+        "showlink": [],
+        "sorttitle": "",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7927169799804688,
+                    "codec": "h264",
+                    "duration": 6276,
+                    "height": 714,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "studio": [
+            "DiNovi Pictures"
+        ],
+        "tag": [],
+        "tagline": "Never Drop The Con.",
+        "thumbnail": "http://image.tmdb.org/t/p/original/a4bDdCh2fh9hpc6aK0ghKzUZ2dl.jpg",
+        "title": "Focus",
+        "top250": 0,
+        "trailer": "plugin://plugin.video.youtube/?action=play_video&videoid=6vY9UPiI4eQ",
+        "votes": "743",
+        "writer": [
+            "John Requa",
+            "Glenn Ficarra"
+        ],
+        "year": 2015
+    }
+]

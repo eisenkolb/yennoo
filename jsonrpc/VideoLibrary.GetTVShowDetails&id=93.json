@@ -28,13 +28,13 @@
                 "name": "Allison Scagliotti",
                 "order": 3,
                 "role": "Claudia Donovan",
-                "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
             },
             {
                 "name": "CCH Pounder",
                 "order": 4,
                 "role": "Mrs. Frederic",
-                "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
             },
             {
                 "name": "Jaime Murray",
@@ -52,14 +52,14 @@
                 "name": "Genelle Williams",
                 "order": 7,
                 "role": "Leena",
-                "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
             }
         ],
         "dateadded": "2014-08-13 23:49:45",
         "episode": 58,
         "episodeguide": "<episodeguide><url cache=\"84676-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/84676/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/",
+        "file": "smb://Ext/Media/Serien/Warehouse 13/",
         "genre": [
             "Adventure",
             "Drama",
@@ -102,7 +102,8 @@
                     {
                         "name": "Tom Barnett",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wYaR2hgl9mgOvgygR59c6WxqjCl.jpg"
                     },
                     {
                         "name": "Michael Boatman",
@@ -136,13 +137,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -160,7 +161,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-12 20:39:17",
@@ -170,7 +171,7 @@
                 "episode": 1,
                 "episodeid": 1859,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E01.Der.Kamm.der.Borgia.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E01.Der.Kamm.der.Borgia.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
                 "firstaired": "2009-07-07",
                 "label": "1x01. Pilot",
                 "lastplayed": "",
@@ -239,13 +240,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -263,7 +264,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-12 20:39:48",
@@ -273,7 +274,7 @@
                 "episode": 2,
                 "episodeid": 1860,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E02.Der.Kamm.der.Borgia.Teil.2.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E02.Der.Kamm.der.Borgia.Teil.2.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
                 "firstaired": "2009-07-14",
                 "label": "1x02. Resonance",
                 "lastplayed": "",
@@ -335,13 +336,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -359,7 +360,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-12 22:00:24",
@@ -369,7 +370,7 @@
                 "episode": 3,
                 "episodeid": 1861,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E03.Der.Klang.der.Musik.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E03.Der.Klang.der.Musik.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
                 "firstaired": "2009-07-21",
                 "label": "1x03. Magnetism",
                 "lastplayed": "",
@@ -431,13 +432,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -455,7 +456,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-12 20:41:59",
@@ -465,7 +466,7 @@
                 "episode": 4,
                 "episodeid": 1862,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E04.Unterbewusstes.Verlangen.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E04.Unterbewusstes.Verlangen.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
                 "firstaired": "2009-07-28",
                 "label": "1x04. Claudia",
                 "lastplayed": "",
@@ -527,13 +528,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -551,7 +552,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-12 20:43:32",
@@ -561,7 +562,7 @@
                 "episode": 5,
                 "episodeid": 1863,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E05.Das.Rheticus.Experiment.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E05.Das.Rheticus.Experiment.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
                 "firstaired": "2009-08-04",
                 "label": "1x05. Elements",
                 "lastplayed": "",
@@ -624,13 +625,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -648,7 +649,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-12 22:40:36",
@@ -658,7 +659,7 @@
                 "episode": 6,
                 "episodeid": 1864,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E06.Die.Elemente.der.Macht.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E06.Die.Elemente.der.Macht.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
                 "firstaired": "2009-08-11",
                 "label": "1x06. Burnout",
                 "lastplayed": "",
@@ -731,13 +732,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -755,7 +756,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-12 22:41:12",
@@ -765,7 +766,7 @@
                 "episode": 7,
                 "episodeid": 1865,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E07.Das.Rueckgrat.des.Sarazenen.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E07.Das.Rueckgrat.des.Sarazenen.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
                 "firstaired": "2009-08-18",
                 "label": "1x07. Implosion",
                 "lastplayed": "",
@@ -838,13 +839,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -862,7 +863,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-12 22:42:12",
@@ -872,7 +873,7 @@
                 "episode": 8,
                 "episodeid": 1866,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E08.Das.Schwert.des.Samurai.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E08.Das.Schwert.des.Samurai.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
                 "firstaired": "2009-08-25",
                 "label": "1x08. Duped",
                 "lastplayed": "",
@@ -935,13 +936,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -959,7 +960,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-12 22:46:23",
@@ -969,7 +970,7 @@
                 "episode": 9,
                 "episodeid": 1867,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E09.Gefangen.im.Spiegel.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E09.Gefangen.im.Spiegel.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
                 "firstaired": "2009-09-01",
                 "label": "1x09. Regrets",
                 "lastplayed": "",
@@ -1031,13 +1032,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -1055,7 +1056,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-12 22:47:00",
@@ -1065,7 +1066,7 @@
                 "episode": 10,
                 "episodeid": 1868,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E10.Die.Visionen.der.Reue.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E10.Die.Visionen.der.Reue.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
                 "firstaired": "2009-09-08",
                 "label": "1x10. Breakdown",
                 "lastplayed": "",
@@ -1138,13 +1139,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -1162,7 +1163,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-12 22:47:34",
@@ -1172,7 +1173,7 @@
                 "episode": 11,
                 "episodeid": 1869,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E11.Das.Tribunal.der.Raete.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E11.Das.Tribunal.der.Raete.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
                 "firstaired": "2009-09-15",
                 "label": "1x11. Nevermore",
                 "lastplayed": "",
@@ -1239,13 +1240,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -1263,7 +1264,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-12 22:47:58",
@@ -1273,7 +1274,7 @@
                 "episode": 12,
                 "episodeid": 1870,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E12.Die.Macht.der.Worte.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 1/Warehouse.13.S01E12.Die.Macht.der.Worte.German.WS.DVDRip.XviD-DELiCiOUS.mp4",
                 "firstaired": "2009-09-22",
                 "label": "1x12. MacPherson",
                 "lastplayed": "",
@@ -1318,7 +1319,8 @@
                     {
                         "name": "Roger Rees",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gOUeYKeHwYeFULO5SXFN8BSUjaW.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -1353,13 +1355,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Aaron Ashmore",
@@ -1371,7 +1373,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:03:45",
@@ -1381,7 +1383,7 @@
                 "episode": 1,
                 "episodeid": 1871,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E01.Die.Perle.der.Weisheit.GERMAN.WS.DVDRiP.XViD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E01.Die.Perle.der.Weisheit.GERMAN.WS.DVDRiP.XViD-GTVG.mp4",
                 "firstaired": "2010-07-06",
                 "label": "2x01. Time Will Tell",
                 "lastplayed": "",
@@ -1424,7 +1426,8 @@
                     {
                         "name": "Roger Rees",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gOUeYKeHwYeFULO5SXFN8BSUjaW.jpg"
                     },
                     {
                         "name": "Sean Maher",
@@ -1458,13 +1461,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -1482,7 +1485,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:01:52",
@@ -1492,7 +1495,7 @@
                 "episode": 2,
                 "episodeid": 1872,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E02.In.der.Maske.des.Helden.GERMAN.WS.DVDRiP.XViD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E02.In.der.Maske.des.Helden.GERMAN.WS.DVDRiP.XViD-GTVG.mp4",
                 "firstaired": "2010-07-13",
                 "label": "2x02. Mild Mannered",
                 "lastplayed": "",
@@ -1558,7 +1561,7 @@
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -1582,7 +1585,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -1600,7 +1603,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:02:38",
@@ -1610,7 +1613,7 @@
                 "episode": 3,
                 "episodeid": 1873,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E03.Unheimliches.in.Univille.GERMAN.WS.DVDRiP.XViD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E03.Unheimliches.in.Univille.GERMAN.WS.DVDRiP.XViD-GTVG.mp4",
                 "firstaired": "2010-07-20",
                 "label": "2x03. Beyond Our Control",
                 "lastplayed": "",
@@ -1714,13 +1717,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -1738,7 +1741,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:03:18",
@@ -1748,7 +1751,7 @@
                 "episode": 4,
                 "episodeid": 1874,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E04.Der.Preis.der.Jugend.GERMAN.WS.DVDRiP.XViD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E04.Der.Preis.der.Jugend.GERMAN.WS.DVDRiP.XViD-GTVG.mp4",
                 "firstaired": "2010-07-27",
                 "label": "2x04. Age Before Beauty",
                 "lastplayed": "",
@@ -1832,13 +1835,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -1856,7 +1859,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:03:53",
@@ -1866,7 +1869,7 @@
                 "episode": 5,
                 "episodeid": 1875,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E05.Das.Hirn.des.Konstrukteurs.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E05.Das.Hirn.des.Konstrukteurs.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
                 "firstaired": "2010-08-03",
                 "label": "2x05. 13.1",
                 "lastplayed": "",
@@ -1920,7 +1923,7 @@
                         "name": "CCH Pounder",
                         "order": 2,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -1944,7 +1947,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -1962,7 +1965,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:13:23",
@@ -1972,7 +1975,7 @@
                 "episode": 6,
                 "episodeid": 1876,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E06.Am.Rande.des.Wahnsinns.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E06.Am.Rande.des.Wahnsinns.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
                 "firstaired": "2010-08-10",
                 "label": "2x06. Around the Bend",
                 "lastplayed": "",
@@ -2050,13 +2053,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Aaron Ashmore",
@@ -2068,7 +2071,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:13:51",
@@ -2078,7 +2081,7 @@
                 "episode": 7,
                 "episodeid": 1877,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E07.Der.Zaubertrank.der.Wikinger.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E07.Der.Zaubertrank.der.Wikinger.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
                 "firstaired": "2010-08-17",
                 "label": "2x07. For the Team",
                 "lastplayed": "",
@@ -2156,13 +2159,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -2180,7 +2183,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:14:50",
@@ -2190,7 +2193,7 @@
                 "episode": 8,
                 "episodeid": 1878,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E08.Im.Koerper.des.Kollegen.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E08.Im.Koerper.des.Kollegen.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
                 "firstaired": "2010-08-24",
                 "label": "2x08. Merge With Caution",
                 "lastplayed": "",
@@ -2244,7 +2247,8 @@
                     {
                         "name": "Simon Reynolds",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xVUL9ylIi7Cad2vmJx2vb6RgnWr.jpg"
                     },
                     {
                         "name": "Faran Tahir",
@@ -2280,13 +2284,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Aaron Ashmore",
@@ -2298,7 +2302,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:15:32",
@@ -2308,7 +2312,7 @@
                 "episode": 9,
                 "episodeid": 1879,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E09.Der.Raecher.aus.der.Vergangenheit.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E09.Der.Raecher.aus.der.Vergangenheit.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
                 "firstaired": "2010-08-31",
                 "label": "2x09. Vendetta",
                 "lastplayed": "",
@@ -2392,13 +2396,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Aaron Ashmore",
@@ -2410,7 +2414,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:52:45",
@@ -2420,7 +2424,7 @@
                 "episode": 10,
                 "episodeid": 1880,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E10.Zeitreise.in.die.Sechziger.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E10.Zeitreise.in.die.Sechziger.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
                 "firstaired": "2010-09-07",
                 "label": "2x10. Where and When",
                 "lastplayed": "",
@@ -2486,7 +2490,7 @@
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -2510,7 +2514,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Aaron Ashmore",
@@ -2522,7 +2526,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:53:48",
@@ -2532,7 +2536,7 @@
                 "episode": 11,
                 "episodeid": 1881,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E11.Das.Vermaechtnis.der.Aegypter.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E11.Das.Vermaechtnis.der.Aegypter.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
                 "firstaired": "2010-09-14",
                 "label": "2x11. Buried (1)",
                 "lastplayed": "",
@@ -2594,7 +2598,7 @@
                         "name": "CCH Pounder",
                         "order": 3,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -2618,7 +2622,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Aaron Ashmore",
@@ -2630,7 +2634,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:52:03",
@@ -2640,7 +2644,7 @@
                 "episode": 12,
                 "episodeid": 1882,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E12.Der.Dreizack.der.Verdammnis.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E12.Der.Dreizack.der.Verdammnis.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
                 "firstaired": "2010-09-21",
                 "label": "2x12. Reset (2)",
                 "lastplayed": "",
@@ -2714,13 +2718,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -2738,7 +2742,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 00:56:21",
@@ -2748,7 +2752,7 @@
                 "episode": 13,
                 "episodeid": 1883,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E13.Der.Geist.der.Weihnacht.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 2/Warehouse.13.S02E13.Der.Geist.der.Weihnacht.GERMAN.WS.DVDRip.XviD-GTVG.mp4",
                 "firstaired": "2010-12-07",
                 "label": "2x13. Secret Santa",
                 "lastplayed": "",
@@ -2834,19 +2838,19 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:22:29",
@@ -2856,7 +2860,7 @@
                 "episode": 1,
                 "episodeid": 1884,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E01.Das.Buch.der.Mimen.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E01.Das.Buch.der.Mimen.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
                 "firstaired": "2011-07-11",
                 "label": "3x01. The New Guy",
                 "lastplayed": "",
@@ -2930,13 +2934,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -2948,7 +2952,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:22:01",
@@ -2958,7 +2962,7 @@
                 "episode": 2,
                 "episodeid": 1885,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E02.Die.Zeit.des.Vergessens.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E02.Die.Zeit.des.Vergessens.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
                 "firstaired": "2011-07-18",
                 "label": "3x02. Trials",
                 "lastplayed": "",
@@ -3052,13 +3056,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -3070,7 +3074,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:22:29",
@@ -3080,7 +3084,7 @@
                 "episode": 3,
                 "episodeid": 1886,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E03.Der.Fluch.des.Golem.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E03.Der.Fluch.des.Golem.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
                 "firstaired": "2011-07-25",
                 "label": "3x03. Love Sick",
                 "lastplayed": "",
@@ -3158,13 +3162,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -3176,7 +3180,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:23:54",
@@ -3186,7 +3190,7 @@
                 "episode": 4,
                 "episodeid": 1887,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E04.Der.Stachel.der.Koenigin.German.DVDRip.XviD-GZCrew.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E04.Der.Stachel.der.Koenigin.German.DVDRip.XviD-GZCrew.mp4",
                 "firstaired": "2011-08-01",
                 "label": "3x04. Queen for a Day",
                 "lastplayed": "",
@@ -3264,13 +3268,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Aaron Ashmore",
@@ -3282,7 +3286,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:24:23",
@@ -3292,7 +3296,7 @@
                 "episode": 5,
                 "episodeid": 1888,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E05.Das.Horn.von.Jericho.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E05.Das.Horn.von.Jericho.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
                 "firstaired": "2011-08-08",
                 "label": "3x05. 3...2...1...",
                 "lastplayed": "",
@@ -3382,13 +3386,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -3400,7 +3404,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:25:02",
@@ -3410,7 +3414,7 @@
                 "episode": 6,
                 "episodeid": 1889,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E06.Das.Spiel.der.Angst.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E06.Das.Spiel.der.Angst.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
                 "firstaired": "2011-08-15",
                 "label": "3x06. Don't Hate the Player",
                 "lastplayed": "",
@@ -3459,7 +3463,8 @@
                     {
                         "name": "Yancey Arias",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/yXePNE3sFAHk1CAgdObHhUrWsKL.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -3483,13 +3488,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -3501,7 +3506,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:24:20",
@@ -3511,7 +3516,7 @@
                 "episode": 7,
                 "episodeid": 1890,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E07.Die.Wunden.der.Vergangenheit.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E07.Die.Wunden.der.Vergangenheit.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
                 "firstaired": "2011-08-22",
                 "label": "3x07. Past Imperfect",
                 "lastplayed": "",
@@ -3583,7 +3588,7 @@
                         "name": "CCH Pounder",
                         "order": 5,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Paula Boudreau",
@@ -3617,7 +3622,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -3629,7 +3634,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:26:40",
@@ -3639,7 +3644,7 @@
                 "episode": 8,
                 "episodeid": 1891,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E08.Das.Symbol.der.Anarchie.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E08.Das.Symbol.der.Anarchie.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
                 "firstaired": "2011-08-29",
                 "label": "3x08. The 40th Floor",
                 "lastplayed": "",
@@ -3706,7 +3711,7 @@
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Emily Andrews",
@@ -3735,7 +3740,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -3753,7 +3758,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:34:28",
@@ -3763,7 +3768,7 @@
                 "episode": 9,
                 "episodeid": 1892,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E09.Die.Schatten.des.Schreckens.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E09.Die.Schatten.des.Schreckens.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
                 "firstaired": "2011-09-12",
                 "label": "3x09. Shadows",
                 "lastplayed": "",
@@ -3847,13 +3852,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -3865,7 +3870,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:30:51",
@@ -3875,7 +3880,7 @@
                 "episode": 10,
                 "episodeid": 1893,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E10.Der.Hunger.der.lebenden.Toten.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E10.Der.Hunger.der.lebenden.Toten.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
                 "firstaired": "2011-09-19",
                 "label": "3x10. Insatiable",
                 "lastplayed": "",
@@ -3978,19 +3983,19 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:32:53",
@@ -4000,7 +4005,7 @@
                 "episode": 11,
                 "episodeid": 1894,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E11.Die.Muenze.des.Janus.German.DVDRip.XviD-GZCrew.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E11.Die.Muenze.des.Janus.German.DVDRip.XviD-GZCrew.mp4",
                 "firstaired": "2011-10-03",
                 "label": "3x11. Emily Lake (1)",
                 "lastplayed": "",
@@ -4062,7 +4067,8 @@
                     {
                         "name": "Erick Avari",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ZtoLoKTlsZbCxc0JVqb8UeSIBS.jpg"
                     },
                     {
                         "name": "Sasha Roiz",
@@ -4079,7 +4085,7 @@
                         "name": "CCH Pounder",
                         "order": 6,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Max Morrow",
@@ -4108,13 +4114,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:35:52",
@@ -4124,7 +4130,7 @@
                 "episode": 12,
                 "episodeid": 1895,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E12.Die.Saat.des.Boesen.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E12.Die.Saat.des.Boesen.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
                 "firstaired": "2011-10-03",
                 "label": "3x12. Stand (2)",
                 "lastplayed": "",
@@ -4168,7 +4174,8 @@
                     {
                         "name": "Roger Rees",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gOUeYKeHwYeFULO5SXFN8BSUjaW.jpg"
                     },
                     {
                         "name": "Charles Malik Whitfield",
@@ -4184,7 +4191,7 @@
                         "name": "CCH Pounder",
                         "order": 3,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Skyler Wexler",
@@ -4214,7 +4221,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -4232,7 +4239,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 01:36:37",
@@ -4242,7 +4249,7 @@
                 "episode": 13,
                 "episodeid": 1896,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E13.Ist.das.Agentenleben.nicht.schoen.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 3/Warehouse.13.S03E13.Ist.das.Agentenleben.nicht.schoen.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
                 "firstaired": "2011-12-06",
                 "label": "3x13. The Greatest Gift",
                 "lastplayed": "",
@@ -4316,7 +4323,7 @@
                         "name": "CCH Pounder",
                         "order": 5,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -4371,7 +4378,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Aaron Ashmore",
@@ -4383,7 +4390,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:02:34",
@@ -4393,7 +4400,7 @@
                 "episode": 1,
                 "episodeid": 1897,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E01.Der.Funke.Hoffnung.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E01.Der.Funke.Hoffnung.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
                 "firstaired": "2012-07-23",
                 "label": "4x01. A New Hope",
                 "lastplayed": "",
@@ -4472,13 +4479,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -4496,7 +4503,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:03:44",
@@ -4506,7 +4513,7 @@
                 "episode": 2,
                 "episodeid": 1898,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E02.Die.Rueckkehr.von.den.Toten.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E02.Die.Rueckkehr.von.den.Toten.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
                 "firstaired": "2012-07-30",
                 "label": "4x02. An Evil Within",
                 "lastplayed": "",
@@ -4554,7 +4561,8 @@
                     {
                         "name": "Dee Wallace",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/iEgXsPaNVK3ByosROC3zFu3gk7R.jpg"
                     },
                     {
                         "name": "Laura Miyata",
@@ -4588,13 +4596,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -4612,7 +4620,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:04:47",
@@ -4622,7 +4630,7 @@
                 "episode": 3,
                 "episodeid": 1899,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E03.Die.Jagd.auf.die.Artefakte,German.DVDRip.x264-iNTENTiON.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E03.Die.Jagd.auf.die.Artefakte,German.DVDRip.x264-iNTENTiON.mp4",
                 "firstaired": "2012-08-06",
                 "label": "4x03. Personal Effects",
                 "lastplayed": "",
@@ -4705,13 +4713,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -4729,7 +4737,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:05:16",
@@ -4739,7 +4747,7 @@
                 "episode": 4,
                 "episodeid": 1900,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E04.Das.Leiden.der.Anderen.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E04.Das.Leiden.der.Anderen.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
                 "firstaired": "2012-08-13",
                 "label": "4x04. There's Always a Downside",
                 "lastplayed": "",
@@ -4782,7 +4790,8 @@
                     {
                         "name": "Mike Dopud",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/2AWev6Jib3VJ3p2FPTxm7Erx81o.jpg"
                     },
                     {
                         "name": "Kristen Nelson",
@@ -4798,7 +4807,7 @@
                         "name": "CCH Pounder",
                         "order": 3,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -4822,7 +4831,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -4840,7 +4849,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:06:57",
@@ -4850,7 +4859,7 @@
                 "episode": 5,
                 "episodeid": 1901,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E05.Wenn.Wuensche.wahr.werden.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E05.Wenn.Wuensche.wahr.werden.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
                 "firstaired": "2012-08-20",
                 "label": "4x05. No Pain, No Gain",
                 "lastplayed": "",
@@ -4903,7 +4912,8 @@
                     {
                         "name": "Niamh Wilson",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/sjJYmaNr3ylWrsSGONeo42E4Anm.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -4927,13 +4937,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -4951,7 +4961,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:07:43",
@@ -4961,7 +4971,7 @@
                 "episode": 6,
                 "episodeid": 1902,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E06.Die.Scherbe.des.Spiegels.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E06.Die.Scherbe.des.Spiegels.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
                 "firstaired": "2012-08-27",
                 "label": "4x06. Fractures",
                 "lastplayed": "",
@@ -5051,13 +5061,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Aaron Ashmore",
@@ -5069,7 +5079,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:08:01",
@@ -5079,7 +5089,7 @@
                 "episode": 7,
                 "episodeid": 1903,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E07.Das.Geheimnis.der.Riesen.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E07.Das.Geheimnis.der.Riesen.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mp4",
                 "firstaired": "2012-09-10",
                 "label": "4x07. Endless Wonder",
                 "lastplayed": "",
@@ -5139,7 +5149,7 @@
                         "name": "CCH Pounder",
                         "order": 3,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -5163,7 +5173,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Aaron Ashmore",
@@ -5175,7 +5185,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:34:12",
@@ -5185,7 +5195,7 @@
                 "episode": 8,
                 "episodeid": 1904,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E08.Die.Ruestung.der.Spartaner.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E08.Die.Ruestung.der.Spartaner.XviD-SOF.mp4",
                 "firstaired": "2012-09-17",
                 "label": "4x08. Second Chance",
                 "lastplayed": "",
@@ -5233,7 +5243,8 @@
                     {
                         "name": "Amy Acker",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/dEjVHDwZ50VUjH9rxHjoKqrfA9e.jpg"
                     },
                     {
                         "name": "Jeri Ryan",
@@ -5262,13 +5273,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -5286,7 +5297,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:36:51",
@@ -5296,7 +5307,7 @@
                 "episode": 9,
                 "episodeid": 1905,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E09.Die.Rettung.der.Liebsten.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E09.Die.Rettung.der.Liebsten.XviD-SOF.mp4",
                 "firstaired": "2012-09-24",
                 "label": "4x09. The Ones You Love",
                 "lastplayed": "",
@@ -5345,13 +5356,13 @@
                         "name": "CCH Pounder",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Genelle Williams",
                         "order": 2,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -5375,7 +5386,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -5397,7 +5408,7 @@
                 "episode": 10,
                 "episodeid": 1906,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E10.Das.Gift.der.Orchidee.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E10.Das.Gift.der.Orchidee.XviD-SOF.mp4",
                 "firstaired": "2012-10-01",
                 "label": "4x10. We All Fall Down",
                 "lastplayed": "",
@@ -5440,7 +5451,8 @@
                     {
                         "name": "Polly Walker",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/swfioO83iyf5aB2svD0tgIWlCSr.jpg"
                     },
                     {
                         "name": "James Marsters",
@@ -5451,7 +5463,8 @@
                     {
                         "name": "Roger Rees",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gOUeYKeHwYeFULO5SXFN8BSUjaW.jpg"
                     },
                     {
                         "name": "Kate Mulgrew",
@@ -5473,13 +5486,13 @@
                         "name": "CCH Pounder",
                         "order": 6,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -5503,7 +5516,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -5525,7 +5538,7 @@
                 "episode": 11,
                 "episodeid": 1907,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E11.Das.Artefakt.des.Grafen.German.DVDRip.x264-iNTENTiON.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E11.Das.Artefakt.des.Grafen.German.DVDRip.x264-iNTENTiON.mp4",
                 "firstaired": "2013-04-29",
                 "label": "4x11. The Living and the Dead",
                 "lastplayed": "",
@@ -5585,7 +5598,7 @@
                         "name": "Genelle Williams",
                         "order": 3,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -5609,13 +5622,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -5637,7 +5650,7 @@
                 "episode": 12,
                 "episodeid": 1908,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E12.Die.letzten.Menschen.auf.der.Erde.German.DVDRip.x264-iNTENTiON.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E12.Die.letzten.Menschen.auf.der.Erde.German.DVDRip.x264-iNTENTiON.mp4",
                 "firstaired": "2013-05-06",
                 "label": "4x12. Parks and Rehabilitation",
                 "lastplayed": "",
@@ -5727,13 +5740,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -5751,7 +5764,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:38:46",
@@ -5761,7 +5774,7 @@
                 "episode": 13,
                 "episodeid": 1909,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E13.Der.Fall.des.vermissten.Jade-Elefanten.German.DVDRip.x264-iNTENTiON.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E13.Der.Fall.des.vermissten.Jade-Elefanten.German.DVDRip.x264-iNTENTiON.mp4",
                 "firstaired": "2013-05-13",
                 "label": "4x13. The Big Snag",
                 "lastplayed": "",
@@ -5804,7 +5817,8 @@
                     {
                         "name": "Polly Walker",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/swfioO83iyf5aB2svD0tgIWlCSr.jpg"
                     },
                     {
                         "name": "Joel Grey",
@@ -5814,7 +5828,8 @@
                     {
                         "name": "Kelly Hu",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ldIqkVNQoig6tFdF6b1ql1iylAD.jpg"
                     },
                     {
                         "name": "Nora Zehetner",
@@ -5830,7 +5845,7 @@
                         "name": "CCH Pounder",
                         "order": 5,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Goldy Notay",
@@ -5864,7 +5879,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -5882,7 +5897,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:40:18",
@@ -5892,7 +5907,7 @@
                 "episode": 14,
                 "episodeid": 1910,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E14.Die.Magie.des.Schwebens.German.DVDRip.x264-iNTENTiON.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E14.Die.Magie.des.Schwebens.German.DVDRip.x264-iNTENTiON.mp4",
                 "firstaired": "2013-05-20",
                 "label": "4x14. The Sky's the Limit",
                 "lastplayed": "",
@@ -5935,7 +5950,8 @@
                     {
                         "name": "Kelly Hu",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ldIqkVNQoig6tFdF6b1ql1iylAD.jpg"
                     },
                     {
                         "name": "Todd Stashwick",
@@ -5990,13 +6006,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Aaron Ashmore",
@@ -6008,7 +6024,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:46:43",
@@ -6018,7 +6034,7 @@
                 "episode": 15,
                 "episodeid": 1911,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E15.Im.Bann.der.Urangst.German.DVDRip.x264-iNTENTiON.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E15.Im.Bann.der.Urangst.German.DVDRip.x264-iNTENTiON.mp4",
                 "firstaired": "2013-06-03",
                 "label": "4x15. Instinct",
                 "lastplayed": "",
@@ -6106,13 +6122,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -6130,7 +6146,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:46:57",
@@ -6140,7 +6156,7 @@
                 "episode": 16,
                 "episodeid": 1912,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E16.Die.Amphore.von.Pompeji.German.DVDRip.x264-iNTENTiON.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E16.Die.Amphore.von.Pompeji.German.DVDRip.x264-iNTENTiON.mp4",
                 "firstaired": "2013-06-10",
                 "label": "4x16. Runaway",
                 "lastplayed": "",
@@ -6184,12 +6200,14 @@
                     {
                         "name": "Kelly Hu",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ldIqkVNQoig6tFdF6b1ql1iylAD.jpg"
                     },
                     {
                         "name": "Chris Ellis",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vbltM7DQXON9xvpiyNuUCglNRmz.jpg"
                     },
                     {
                         "name": "Cynthia Watros",
@@ -6224,13 +6242,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -6248,7 +6266,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:47:11",
@@ -6258,7 +6276,7 @@
                 "episode": 17,
                 "episodeid": 1913,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E17.Die.Last.der.Sünden.German.DVDRip.x264-iNTENTiON.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E17.Die.Last.der.Sünden.German.DVDRip.x264-iNTENTiON.mp4",
                 "firstaired": "2013-06-17",
                 "label": "4x17. What Matters Most",
                 "lastplayed": "",
@@ -6301,7 +6319,8 @@
                     {
                         "name": "Polly Walker",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/swfioO83iyf5aB2svD0tgIWlCSr.jpg"
                     },
                     {
                         "name": "Anthony Head",
@@ -6345,13 +6364,13 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "Mrs. Frederic",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -6369,7 +6388,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:47:50",
@@ -6379,7 +6398,7 @@
                 "episode": 18,
                 "episodeid": 1914,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E18.Der.Schatz.des.Piraten.German.DVDRip.x264-iNTENTiON.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E18.Der.Schatz.des.Piraten.German.DVDRip.x264-iNTENTiON.mp4",
                 "firstaired": "2013-06-24",
                 "label": "4x18. Lost and Found",
                 "lastplayed": "",
@@ -6423,7 +6442,8 @@
                     {
                         "name": "Polly Walker",
                         "order": 0,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/swfioO83iyf5aB2svD0tgIWlCSr.jpg"
                     },
                     {
                         "name": "Anthony Head",
@@ -6439,7 +6459,8 @@
                     {
                         "name": "Kelly Hu",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ldIqkVNQoig6tFdF6b1ql1iylAD.jpg"
                     },
                     {
                         "name": "Faran Tahir",
@@ -6456,7 +6477,7 @@
                         "name": "CCH Pounder",
                         "order": 6,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -6480,7 +6501,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -6498,7 +6519,7 @@
                         "name": "Genelle Williams",
                         "order": 7,
                         "role": "Leena",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     }
                 ],
                 "dateadded": "2014-08-13 23:48:45",
@@ -6508,7 +6529,7 @@
                 "episode": 19,
                 "episodeid": 1915,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E19.Der.Stein.der.Weisen.German.DVDRip.x264-iNTENTiON.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E19.Der.Stein.der.Weisen.German.DVDRip.x264-iNTENTiON.mp4",
                 "firstaired": "2013-07-01",
                 "label": "4x19. All the Time in the World",
                 "lastplayed": "",
@@ -6562,7 +6583,8 @@
                     {
                         "name": "Kelly Hu",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ldIqkVNQoig6tFdF6b1ql1iylAD.jpg"
                     },
                     {
                         "name": "Josh Blaylock",
@@ -6573,13 +6595,13 @@
                         "name": "CCH Pounder",
                         "order": 4,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/82601.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Xu155Rt87p42HVxI2L6Hf9AB4w.jpg"
                     },
                     {
                         "name": "Genelle Williams",
                         "order": 5,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/103871.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/kIes099gCcRGxusOeRLlyE9RoZF.jpg"
                     },
                     {
                         "name": "Eddie McClintock",
@@ -6603,7 +6625,7 @@
                         "name": "Allison Scagliotti",
                         "order": 3,
                         "role": "Claudia Donovan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/104651.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
                     },
                     {
                         "name": "Jaime Murray",
@@ -6625,7 +6647,7 @@
                 "episode": 20,
                 "episodeid": 1916,
                 "fanart": "http://thetvdb.com/banners/fanart/original/84676-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E20.Der.Weg.zur.Unsterblichkeit.German.DVDRip.x264-iNTENTiON.mp4",
+                "file": "smb://Ext/Media/Serien/Warehouse 13/Season 4/Warehouse.13.S04E20.Der.Weg.zur.Unsterblichkeit.German.DVDRip.x264-iNTENTiON.mp4",
                 "firstaired": "2013-07-08",
                 "label": "4x20. The Truth Hurts",
                 "lastplayed": "",

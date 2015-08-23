@@ -2,21 +2,21 @@
     "tvshowdetails": {
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-            "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-            "poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+            "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+            "poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
         },
         "cast": [
             {
                 "name": "James Spader",
                 "order": 0,
                 "role": "Raymond \"Red\" Reddington",
-                "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
             },
             {
                 "name": "Megan Boone",
                 "order": 1,
                 "role": "Elizabeth Keen",
-                "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
             },
             {
                 "name": "Harry Lennix",
@@ -63,8 +63,8 @@
         "dateadded": "2015-05-30 16:16:00",
         "episode": 40,
         "episodeguide": "<episodeguide><url cache=\"266189-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/266189/all/en.zip</url></episodeguide>",
-        "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/",
+        "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+        "file": "smb://Ext/Media/Serien/Blacklist/",
         "genre": [
             "Action",
             "Crime",
@@ -73,7 +73,7 @@
         ],
         "imdbnumber": "266189",
         "label": "The Blacklist",
-        "lastplayed": "",
+        "lastplayed": "2015-08-22 19:42:34",
         "mpaa": "TV-14",
         "originaltitle": "",
         "playcount": 0,
@@ -86,11 +86,11 @@
             "NBC"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/266189-7.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/266189-3.jpg",
         "title": "The Blacklist",
         "tvshowid": 11,
         "votes": "120",
-        "watchedepisodes": 0,
+        "watchedepisodes": 36,
         "year": 2013
     },
     "episodes": {
@@ -99,8 +99,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4484792.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -128,13 +128,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -184,13 +184,13 @@
                 ],
                 "episode": 1,
                 "episodeid": 157,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E01.Raymond.Reddingtons.schwarze.Liste.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E01.Raymond.Reddingtons.schwarze.Liste.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
                 "firstaired": "2013-09-23",
                 "label": "1x01. Pilot",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "A criminal mastermind surrenders to the FBI with a stunning offer - but he'll only talk to a rookie profiler.",
                 "productioncode": "",
                 "rating": 7.900000095367432,
@@ -221,8 +221,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4644627.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -249,19 +249,20 @@
                     {
                         "name": "Jane Alexander",
                         "order": 4,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/2pP8uZPdLTARHCMjGphUo4iH0je.jpg"
                     },
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -305,13 +306,13 @@
                 ],
                 "episode": 2,
                 "episodeid": 158,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E02.The.Freelancer.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E02.The.Freelancer.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
                 "firstaired": "2013-09-30",
                 "label": "1x02. The Freelancer",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "Liz and Red track an assassin who disguises his kills in large-scale catastrophes.",
                 "productioncode": "",
                 "rating": 7.699999809265137,
@@ -342,8 +343,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4660808.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -398,13 +399,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -442,13 +443,13 @@
                 ],
                 "episode": 3,
                 "episodeid": 159,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E03.Wujing.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E03.Wujing.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
                 "firstaired": "2013-10-07",
                 "label": "1x03. Wujing",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "Liz and Red go undercover to take down an assassin who's been decimating the ranks of the CIA.",
                 "productioncode": "",
                 "rating": 7.800000190734863,
@@ -479,8 +480,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4660809.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -519,13 +520,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -569,13 +570,13 @@
                 ],
                 "episode": 4,
                 "episodeid": 160,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E04.The.Stewmaker.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E04.The.Stewmaker.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
                 "firstaired": "2013-10-14",
                 "label": "1x04. The Stewmaker",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "When Liz's key witness disappears, Red suspects a killer who literally stews his victims, making them disappear forever...",
                 "productioncode": "",
                 "rating": 7.699999809265137,
@@ -607,8 +608,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4660810.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -619,7 +620,8 @@
                     {
                         "name": "Charles Baker",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lZ5fOVbTVvHkpSX9PUXNfkYLPUt.jpg"
                     },
                     {
                         "name": "Hisham Tawfiq",
@@ -652,13 +654,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -702,13 +704,13 @@
                 ],
                 "episode": 5,
                 "episodeid": 161,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E05.The.Courier.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E05.The.Courier.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
                 "firstaired": "2013-10-21",
                 "label": "1x05. The Courier",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "A sinister middleman with a unique ability puts the FBI on the trail of a missing NSA analyst.",
                 "productioncode": "",
                 "rating": 7.599999904632568,
@@ -739,8 +741,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4660812.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -763,7 +765,8 @@
                     {
                         "name": "Charles Baker",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lZ5fOVbTVvHkpSX9PUXNfkYLPUt.jpg"
                     },
                     {
                         "name": "Hisham Tawfiq",
@@ -785,13 +788,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -829,13 +832,13 @@
                 ],
                 "episode": 6,
                 "episodeid": 162,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E06.Gina.Zanetakos.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP (1).mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E06.Gina.Zanetakos.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP (1).mkv",
                 "firstaired": "2013-10-28",
                 "label": "1x06. Gina Zanetakos",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "Eager to clear Tom's name, Liz turns him in to the FBI.",
                 "productioncode": "",
                 "rating": 7.599999904632568,
@@ -866,8 +869,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4686172.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -889,12 +892,14 @@
                     {
                         "name": "Geraldine Hughes",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c1RaGjdaoRdX6n5BidukIg26J1A.jpg"
                     },
                     {
                         "name": "David Zayas",
                         "order": 4,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/eglTZ63x2lu9I2LiDmeyPxhgwc8.jpg"
                     },
                     {
                         "name": "Aja Naomi King",
@@ -921,13 +926,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -965,13 +970,13 @@
                 ],
                 "episode": 7,
                 "episodeid": 163,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E07.Frederick.Barnes.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E07.Frederick.Barnes.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
                 "firstaired": "2013-11-04",
                 "label": "1x07. Frederick Barnes",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "Following a chemical attack on the subway, Liz and the team hunt a mad scientist.",
                 "productioncode": "",
                 "rating": 7.5,
@@ -1002,8 +1007,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4692606.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -1058,13 +1063,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -1102,13 +1107,13 @@
                 ],
                 "episode": 8,
                 "episodeid": 164,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E08.Nathaniel.Wolff.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E08.Nathaniel.Wolff.GERMAN.DUBBED.WS.WEBRip.x264-TVP.mp4",
                 "firstaired": "2013-11-11",
                 "label": "1x08. General Ludd",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "Liz and the FBI go after an anti-capitalist cabal that's intent on bringing the U.S. economy to its knees.",
                 "productioncode": "",
                 "rating": 7.599999904632568,
@@ -1139,8 +1144,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4699801.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -1175,13 +1180,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -1219,13 +1224,13 @@
                 ],
                 "episode": 9,
                 "episodeid": 165,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E09.Anslo.Garrick.Nr.16.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E09.Anslo.Garrick.Nr.16.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
                 "firstaired": "2013-11-25",
                 "label": "1x09. Anslo Garrick (1)",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "An assassination attempt on Red brings the FBI under siege.",
                 "productioncode": "",
                 "rating": 7.900000095367432,
@@ -1256,8 +1261,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4711148.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -1301,19 +1306,20 @@
                     {
                         "name": "Jane Alexander",
                         "order": 7,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/2pP8uZPdLTARHCMjGphUo4iH0je.jpg"
                     },
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -1351,13 +1357,13 @@
                 ],
                 "episode": 10,
                 "episodeid": 166,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E10.Anslo.Garrick.Nr.16.Teil.2.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E10.Anslo.Garrick.Nr.16.Teil.2.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
                 "firstaired": "2013-12-02",
                 "label": "1x10. Anslo Garrick (2)",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "Liz and a mysterious stranger fight to save Red and Ressler.",
                 "productioncode": "",
                 "rating": 8,
@@ -1389,8 +1395,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4727775.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -1418,7 +1424,8 @@
                     {
                         "name": "Charles Baker",
                         "order": 4,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lZ5fOVbTVvHkpSX9PUXNfkYLPUt.jpg"
                     },
                     {
                         "name": "Shirley Roeca",
@@ -1468,19 +1475,20 @@
                     {
                         "name": "Jane Alexander",
                         "order": 14,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/2pP8uZPdLTARHCMjGphUo4iH0je.jpg"
                     },
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -1518,13 +1526,13 @@
                 ],
                 "episode": 11,
                 "episodeid": 167,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E11.Der.gute.Samariter.Nr.106.GERMAN.DUBBED.WEBRip.x264-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E11.Der.gute.Samariter.Nr.106.GERMAN.DUBBED.WEBRip.x264-TVP.avi",
                 "firstaired": "2014-01-13",
                 "label": "1x11. The Good Samaritan",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "A serial killer from Liz's past strikes again while Red hunts for his betrayer.",
                 "productioncode": "",
                 "rating": 7.800000190734863,
@@ -1556,8 +1564,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4743893.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -1606,13 +1614,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -1650,13 +1658,13 @@
                 ],
                 "episode": 12,
                 "episodeid": 168,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E12.Der.Alchemist.Nr.101.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E12.Der.Alchemist.Nr.101.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
                 "firstaired": "2014-01-20",
                 "label": "1x12. The Alchemist",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "The FBI's next target protects the guilty by preying on the DNA of the innocent.",
                 "productioncode": "",
                 "rating": 7.599999904632568,
@@ -1687,8 +1695,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4764625.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -1758,19 +1766,20 @@
                     {
                         "name": "Jane Alexander",
                         "order": 12,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/2pP8uZPdLTARHCMjGphUo4iH0je.jpg"
                     },
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -1808,13 +1817,13 @@
                 ],
                 "episode": 13,
                 "episodeid": 169,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E13.The.Cyprus.Agency.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E13.The.Cyprus.Agency.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
                 "firstaired": "2014-01-27",
                 "label": "1x13. The Cyprus Agency",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "On the eve of Liz's adoption, Red puts her on the trail of an adoption agency gone evil.",
                 "productioncode": "",
                 "rating": 8,
@@ -1845,8 +1854,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4775672.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -1887,13 +1896,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -1931,13 +1940,13 @@
                 ],
                 "episode": 14,
                 "episodeid": 170,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E14.Madeline.Pratt.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E14.Madeline.Pratt.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
                 "firstaired": "2014-02-24",
                 "label": "1x14. Madeline Pratt",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "A femme fatale from Red's past leads the FBI on a snipe hunt.",
                 "productioncode": "",
                 "rating": 7.699999809265137,
@@ -1968,8 +1977,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4775673.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -2030,13 +2039,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -2074,13 +2083,13 @@
                 ],
                 "episode": 15,
                 "episodeid": 171,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E15.Der.Richter.Nr.57.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E15.Der.Richter.Nr.57.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
                 "firstaired": "2014-03-03",
                 "label": "1x15. The Judge",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "The FBI pursues a Blacklister who metes out \"justice\" for those who are wrongly imprisoned.",
                 "productioncode": "",
                 "rating": 7.800000190734863,
@@ -2112,8 +2121,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4789862.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -2168,13 +2177,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -2212,13 +2221,13 @@
                 ],
                 "episode": 16,
                 "episodeid": 172,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E16.Mako.Tanida.Nr.83.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E16.Mako.Tanida.Nr.83.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
                 "firstaired": "2014-03-17",
                 "label": "1x16. Mako Tanida",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "As a Yakuza crime lord seeks deadly revenge on Ressler Tom and Jolene face off.",
                 "productioncode": "",
                 "rating": 7.800000190734863,
@@ -2253,8 +2262,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4818034.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -2321,13 +2330,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -2365,13 +2374,13 @@
                 ],
                 "episode": 17,
                 "episodeid": 173,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E17.Ivan.Nr.88.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E17.Ivan.Nr.88.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
                 "firstaired": "2014-03-24",
                 "label": "1x17. Ivan",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "While chasing a cyber-terrorist, Liz investigates Jolene's disappearance.",
                 "productioncode": "",
                 "rating": 7.900000095367432,
@@ -2403,8 +2412,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4819661.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -2458,13 +2467,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -2502,13 +2511,13 @@
                 ],
                 "episode": 18,
                 "episodeid": 174,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E18.Milton.Bobbit.Nr.135.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E18.Milton.Bobbit.Nr.135.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
                 "firstaired": "2014-03-31",
                 "label": "1x18. Milton Bobbit",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "While working with Red to find Tom's true identity, Liz searches for The Undertaker, a claims adjuster who convinces ordinary people to become contract",
                 "productioncode": "",
                 "rating": 7.800000190734863,
@@ -2539,8 +2548,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4823183.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -2589,13 +2598,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -2633,13 +2642,13 @@
                 ],
                 "episode": 19,
                 "episodeid": 175,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E19.The.Pavlovich.Brothers.GERMAN.DUBBED.WEBRip.x264-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E19.The.Pavlovich.Brothers.GERMAN.DUBBED.WEBRip.x264-TVP.avi",
                 "firstaired": "2014-04-21",
                 "label": "1x19. The Pavlovich Brothers",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "While the FBI searches for a Serbian family of kidnappers, Red uses them in a scheme to out Tom, leading to a fateful confrontation with Liz.",
                 "productioncode": "",
                 "rating": 7.900000095367432,
@@ -2670,8 +2679,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4823180.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -2745,7 +2754,8 @@
                     {
                         "name": "Dan Ziskie",
                         "order": 13,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
                     },
                     {
                         "name": "Alexandra Neil",
@@ -2756,13 +2766,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -2800,13 +2810,13 @@
                 ],
                 "episode": 20,
                 "episodeid": 176,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E20.The.Kingmaker.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E20.The.Kingmaker.GERMAN.DUBBED.WEBRip.x264-TVP.mp4",
                 "firstaired": "2014-04-28",
                 "label": "1x20. The Kingmaker",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "As the FBI pursues a political fixer known as The Kingmaker, Red seeks Fitch's protection against an unknown enemy who's trying to take him down.",
                 "productioncode": "",
                 "rating": 7.699999809265137,
@@ -2838,8 +2848,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4823181.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -2869,7 +2879,8 @@
                     {
                         "name": "Geraldine Hughes",
                         "order": 4,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/c1RaGjdaoRdX6n5BidukIg26J1A.jpg"
                     },
                     {
                         "name": "Jason Butler Harner",
@@ -2891,13 +2902,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -2935,13 +2946,13 @@
                 ],
                 "episode": 21,
                 "episodeid": 177,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E21.Berlin.GERMAN.DUBBED.WEBRip.x264-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E21.Berlin.GERMAN.DUBBED.WEBRip.x264-TVP.avi",
                 "firstaired": "2014-05-05",
                 "label": "1x21. Berlin (1)",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "After discovering the truth behind her father's death, Liz refuses to work with Red, just as his situation grows desperate.",
                 "productioncode": "",
                 "rating": 7.900000095367432,
@@ -2973,8 +2984,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4823182.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -2986,7 +2997,7 @@
                         "name": "Andrew Howard",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299312.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/qXEWZDXQRX7UsGlJzKO9dLoCLhq.jpg"
                     },
                     {
                         "name": "Peter Stormare",
@@ -3031,13 +3042,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -3075,13 +3086,13 @@
                 ],
                 "episode": 22,
                 "episodeid": 178,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E22.Berlin.Conclusion.GERMAN.DUBBED.WEBRip.x264-TVP.avi",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 1/The.Blacklist.S01E22.Berlin.Conclusion.GERMAN.DUBBED.WEBRip.x264-TVP.avi",
                 "firstaired": "2014-05-12",
                 "label": "1x22. Berlin: Conclusion (2)",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "With the crashing of the mysterious prisoner transport plane, the city is on lock down as the authorities are on the hunt for all the escapees. Meanwhile, with Red  in custody, Liz uses her power to get him out since he is their best chance at finding all the suspects. Elsewhere, their main objective is to track down Berlin, a prisoner on the plane who is somehow involved.",
                 "productioncode": "",
                 "rating": 7.900000095367432,
@@ -3118,8 +3129,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4899484.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -3132,7 +3143,7 @@
                         "name": "Krysten Ritter",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/284347.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/e1RzQfMHsWVB3IIjAbsc07nMA4c.jpg"
                     },
                     {
                         "name": "Peter Stormare",
@@ -3150,13 +3161,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -3206,13 +3217,13 @@
                 ],
                 "episode": 1,
                 "episodeid": 179,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E01.Lord.Baltimore.(Nr.104).REPACK.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E01.Lord.Baltimore.(Nr.104).REPACK.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2014-09-22",
                 "label": "2x01. Lord Baltimore",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "While continuing to battle Berlin, Red faces a new threat in the form of Lord Baltimore. A figure from Red's past returns. Liz tries to move on after her showdown with Tom.",
                 "productioncode": "",
                 "rating": 7.699999809265137,
@@ -3220,13 +3231,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2469,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": "ger"
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2469,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/4899484.jpg",
                 "title": "Lord Baltimore",
@@ -3244,8 +3270,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4948191.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -3264,13 +3290,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -3320,13 +3346,13 @@
                 ],
                 "episode": 2,
                 "episodeid": 180,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E02.Monarch.Douglas.Bank.(Nr.112).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E02.Monarch.Douglas.Bank.(Nr.112).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2014-09-29",
                 "label": "2x02. Monarch Douglas Bank",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "A robbery provides Red with an opportunity to take down a questionable bank. Liz questions Red's intentions during the course of her investigation. An impressive addition is made to Cooper's team.",
                 "productioncode": "",
                 "rating": 7.5,
@@ -3334,13 +3360,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2476,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2476,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/4948191.jpg",
                 "title": "Monarch Douglas Bank",
@@ -3359,8 +3400,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4990453.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -3389,13 +3430,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -3445,13 +3486,13 @@
                 ],
                 "episode": 3,
                 "episodeid": 181,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E03.Dr.James.Covington.(Nr.89).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E03.Dr.James.Covington.(Nr.89).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2014-10-06",
                 "label": "2x03. Dr. James Covington",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "When a body is found missing a heart, Liz and Ressler join forces with Samar Navabi to investigate Dr. Covington's operation. Red and an associate try to take advantage of an opportunity in Indonesia.",
                 "productioncode": "",
                 "rating": 7.400000095367432,
@@ -3459,13 +3500,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2490,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2490,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/4990453.jpg",
                 "title": "Dr. James Covington",
@@ -3483,8 +3539,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/4998540.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -3502,19 +3558,20 @@
                     {
                         "name": "David Costabile",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/310346.jpg"
                     },
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -3564,13 +3621,13 @@
                 ],
                 "episode": 4,
                 "episodeid": 182,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E04.Dr.Linus.Creel.(Nr.82).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E04.Dr.Linus.Creel.(Nr.82).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2014-10-13",
                 "label": "2x04. Dr. Linus Creel",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "Red thinks a dangerous sociopsychological experiment may be taking place when several previously nonviolent citizens become killers. Red has a complicated proposition for Naomi and her husband.",
                 "productioncode": "",
                 "rating": 7.400000095367432,
@@ -3578,13 +3635,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2464,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2464,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/4998540.jpg",
                 "title": "Dr. Linus Creel",
@@ -3601,8 +3673,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5002571.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -3613,7 +3685,8 @@
                     {
                         "name": "Scottie Thompson",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/o7S0MQHMiylNurOcdxAT85NXJP.jpg"
                     },
                     {
                         "name": "Amber Skye Noyes",
@@ -3624,13 +3697,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -3680,13 +3753,13 @@
                 ],
                 "episode": 5,
                 "episodeid": 183,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E05.Die.Front.(Nr.74).REPACK.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E05.Die.Front.(Nr.74).REPACK.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2014-10-20",
                 "label": "2x05. The Front",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "The team targets an eco-terrorist cell seeking a deadly weapon. Liz attempts to lose her guardian. Red resorts to manipulation to pursue a special someone.",
                 "productioncode": "",
                 "rating": 7.400000095367432,
@@ -3694,13 +3767,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2475,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2475,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5002571.jpg",
                 "title": "The Front",
@@ -3718,21 +3806,21 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5005450.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -3782,13 +3870,13 @@
                 ],
                 "episode": 6,
                 "episodeid": 184,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E06.Das.Mombasa.Cartel.(Nr.114).REPACK.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E06.Das.Mombasa.Cartel.(Nr.114).REPACK.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2014-10-27",
                 "label": "2x06. The Mombasa Cartel",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "Liz asks Red for information about deadly wildlife poachers after a mutilated corpse washes ashore. Ressler forms a dangerous habit.",
                 "productioncode": "",
                 "rating": 7.699999809265137,
@@ -3796,13 +3884,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2485,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2485,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5005450.jpg",
                 "title": "The Mombasa Cartel",
@@ -3819,21 +3922,21 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5005451.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -3883,13 +3986,13 @@
                 ],
                 "episode": 7,
                 "episodeid": 185,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E07.Der.Krummsaebel.(Nr. 22).REPACK.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E07.Der.Krummsaebel.(Nr. 22).REPACK.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2014-11-03",
                 "label": "2x07. The Scimitar",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "A plot for revenge emerges after an Iranian nuclear scientist is assassinated. Liz and Ressler wind up in a predicament.",
                 "productioncode": "",
                 "rating": 7.699999809265137,
@@ -3897,13 +4000,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2475,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2475,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5005451.jpg",
                 "title": "The Scimitar",
@@ -3921,8 +4039,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5005452.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -3935,13 +4053,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -3991,13 +4109,13 @@
                 ],
                 "episode": 8,
                 "episodeid": 186,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E08.Der.Dekabrist.(Nr.12).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E08.Der.Dekabrist.(Nr.12).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2014-11-10",
                 "label": "2x08. The Decembrist",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "Red’s motives for Berlin take a sudden turn when he learns Berlin was manipulated by the latest Blacklister to avenge Red. Red and Berlin travel to Moscow to track down a high ranking Russian official who they believe is responsible. Liz struggles to keep her secret from unraveling.",
                 "productioncode": "",
                 "rating": 7.900000095367432,
@@ -4005,13 +4123,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2487,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2487,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5005452.jpg",
                 "title": "The Decembrist",
@@ -4029,21 +4162,21 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5041678.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
                         "name": "Ron Perlman",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78490.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xZyrXT2iEmSOokQRc1hedmxrbTi.jpg"
                     },
                     {
                         "name": "David Strathairn",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5P9hWKVBXVD6bNdDO3O7upa1A6S.jpg"
                     },
                     {
                         "name": "Janel Maloney",
@@ -4054,13 +4187,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -4110,13 +4243,13 @@
                 ],
                 "episode": 9,
                 "episodeid": 187,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E09.Luther.Braxton.(Nr.21).-.Teil.1.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E09.Luther.Braxton.(Nr.21).-.Teil.1.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2015-02-01",
                 "label": "2x09. Luther Braxton (1)",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "When Red is arrested and taken to a secret detention facility, Liz and the task force set out to save him before he disappears forever. At the facility, Red encounters a thief with whom he shares a complicated history.",
                 "productioncode": "",
                 "rating": 7.599999904632568,
@@ -4124,13 +4257,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2480,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2480,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5041678.jpg",
                 "title": "Luther Braxton (1)",
@@ -4150,21 +4298,21 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5041679.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
                         "name": "Ron Perlman",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/78490.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xZyrXT2iEmSOokQRc1hedmxrbTi.jpg"
                     },
                     {
                         "name": "David Strathairn",
                         "order": 1,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/253791.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5P9hWKVBXVD6bNdDO3O7upa1A6S.jpg"
                     },
                     {
                         "name": "Janel Maloney",
@@ -4175,13 +4323,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -4231,13 +4379,13 @@
                 ],
                 "episode": 10,
                 "episodeid": 188,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E10.Luther.Braxton.(Nr.21).-.Teil.2.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E10.Luther.Braxton.(Nr.21).-.Teil.2.German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2015-02-05",
                 "label": "2x10. Luther Braxton: Conclusion (2)",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "As chaos ensues at the Factory, leaving the fate of Red and the task force unknown, Cooper struggles to rescue his team from the detention facility. It’s a race against time to prevent Luther Braxton attaining confidential information.",
                 "productioncode": "",
                 "rating": 7.5,
@@ -4245,13 +4393,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2428,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2428,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5041679.jpg",
                 "title": "Luther Braxton: Conclusion (2)",
@@ -4271,8 +4434,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5111292.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -4284,13 +4447,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -4340,13 +4503,13 @@
                 ],
                 "episode": 11,
                 "episodeid": 189,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E11.Ruslan.Denisov.(Nr.67).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E11.Ruslan.Denisov.(Nr.67).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2015-02-12",
                 "label": "2x11. Ruslan Denisov",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "When an undercover CIA agent is kidnapped by a band of separatists in Uzbekistan, the task force sets a rescue mission in motion. Red informs Liz and Ressler that they are up against a very dangerous former associate.",
                 "productioncode": "",
                 "rating": 7.599999904632568,
@@ -4354,13 +4517,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2457,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2457,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5111292.jpg",
                 "title": "Ruslan Denisov",
@@ -4378,8 +4556,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5112730.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -4396,13 +4574,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -4452,13 +4630,13 @@
                 ],
                 "episode": 12,
                 "episodeid": 190,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E12.Die.Kenyon.Familie.(Nr.71).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E12.Die.Kenyon.Familie.(Nr.71).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2015-02-19",
                 "label": "2x12. The Kenyon Family",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "When Red tips Liz off about the disappearance of a polygamous cult leader with dangerous shipping containers buried on his property, the task force sets out to investigate. Red utilizes his sources to appease Fitch’s last words and tries to track down his hidden safe.",
                 "productioncode": "",
                 "rating": 7.400000095367432,
@@ -4466,13 +4644,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2471,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2471,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5112730.jpg",
                 "title": "The Kenyon Family",
@@ -4490,21 +4683,21 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5112731.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -4554,13 +4747,13 @@
                 ],
                 "episode": 13,
                 "episodeid": 191,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E13.Der.Hirschjaeger.(Nr.93).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E13.Der.Hirschjaeger.(Nr.93).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2015-02-26",
                 "label": "2x13. The Deer Hunter",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "Red helps Liz and the task force find a killer — the Deer Hunter — who tracks victims like prey. Meanwhile, the local DC police suspect the city Harbormaster was murdered as Liz struggles to keep her secret from unraveling.",
                 "productioncode": "",
                 "rating": 7.400000095367432,
@@ -4568,13 +4761,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2418,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2418,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5112731.jpg",
                 "title": "The Deer Hunter",
@@ -4591,21 +4799,21 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5112732.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -4655,13 +4863,13 @@
                 ],
                 "episode": 14,
                 "episodeid": 192,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E14.T.Earl.King.VI.(Nr.94).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E14.T.Earl.King.VI.(Nr.94).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2015-03-05",
                 "label": "2x14. T. Earl King VI",
-                "lastplayed": "",
+                "lastplayed": "2015-08-22 19:42:34",
                 "originaltitle": "",
-                "playcount": 0,
+                "playcount": 2,
                 "plot": "A former paramour involves Reddington in a deadly game with a wealthy, powerful family dynasty whose ill-begotten fortune was amassed from an underground auction of human and material contraband. Meanwhile, Tom takes on a new mission.",
                 "productioncode": "",
                 "rating": 7.699999809265137,
@@ -4669,13 +4877,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2467,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2467,
+                            "height": 352,
+                            "stereomode": "",
+                            "width": 632
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5112732.jpg",
                 "title": "T. Earl King VI",
@@ -4693,21 +4916,21 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5113218.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -4757,8 +4980,8 @@
                 ],
                 "episode": 15,
                 "episodeid": 193,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E15.Der.Major.(Nr.75).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E15.Der.Major.(Nr.75).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2015-03-12",
                 "label": "2x15. The Major",
                 "lastplayed": "",
@@ -4771,13 +4994,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2441,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2441,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5113218.jpg",
                 "title": "The Major",
@@ -4796,21 +5034,21 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5142629.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -4860,8 +5098,8 @@
                 ],
                 "episode": 16,
                 "episodeid": 194,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E16.Tom.Keen.(Nr.7).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E16.Tom.Keen.(Nr.7).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2015-03-19",
                 "label": "2x16. Tom Keen",
                 "lastplayed": "",
@@ -4874,13 +5112,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2417,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2417,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5142629.jpg",
                 "title": "Tom Keen",
@@ -4900,21 +5153,21 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5148945.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -4964,8 +5217,8 @@
                 ],
                 "episode": 17,
                 "episodeid": 195,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E17.Das.Projekt.Ewiges.Leben.(Nr.97).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E17.Das.Projekt.Ewiges.Leben.(Nr.97).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2015-03-26",
                 "label": "2x17. The Longevity Initiative",
                 "lastplayed": "",
@@ -4978,13 +5231,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2471,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2471,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5148945.jpg",
                 "title": "The Longevity Initiative",
@@ -5002,8 +5270,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/266189/5154024.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
                 },
                 "cast": [
                     {
@@ -5015,13 +5283,13 @@
                         "name": "James Spader",
                         "order": 0,
                         "role": "Raymond \"Red\" Reddington",
-                        "thumbnail": "http://thetvdb.com/banners/actors/29990.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/gFDjZje8P0S3MzHuw1cxiYuHBX5.jpg"
                     },
                     {
                         "name": "Megan Boone",
                         "order": 1,
                         "role": "Elizabeth Keen",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337453.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/fqCZZb33w8RhWl2GVGdWOqXBQNO.jpg"
                     },
                     {
                         "name": "Harry Lennix",
@@ -5071,8 +5339,8 @@
                 ],
                 "episode": 18,
                 "episodeid": 196,
-                "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E18.Vanessa.Cruz.(Nr.117).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "file": "smb://Ext/Media/Serien/Blacklist/Season 2/The.Blacklist.S02E18.Vanessa.Cruz.(Nr.117).German.Dubbed.DL.iTunesHD.x264-TVS.mkv",
                 "firstaired": "2015-04-02",
                 "label": "2x18. Vanessa Cruz",
                 "lastplayed": "",
@@ -5085,13 +5353,28 @@
                     "position": 0,
                     "total": 0
                 },
-                "runtime": 3600,
+                "runtime": 2498,
                 "season": 2,
                 "showtitle": "The Blacklist",
                 "streamdetails": {
-                    "audio": [],
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": ""
+                        }
+                    ],
                     "subtitle": [],
-                    "video": []
+                    "video": [
+                        {
+                            "aspect": 1.7910449504852295,
+                            "codec": "h264",
+                            "duration": 2498,
+                            "height": 402,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
                 },
                 "thumbnail": "http://thetvdb.com/banners/episodes/266189/5154024.jpg",
                 "title": "Vanessa Cruz",
@@ -5112,29 +5395,29 @@
             "art": {
                 "poster": "http://thetvdb.com/banners/seasons/266189-1-4.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
             },
             "episode": 22,
-            "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
             "label": "Staffel 1",
-            "playcount": 0,
+            "playcount": 1,
             "season": 1,
             "seasonid": 54,
             "showtitle": "The Blacklist",
             "thumbnail": "http://thetvdb.com/banners/seasons/266189-1-4.jpg",
             "tvshowid": 11,
-            "watchedepisodes": 0
+            "watchedepisodes": 22
         },
         {
             "art": {
                 "poster": "http://thetvdb.com/banners/seasons/266189-2.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/266189-g6.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/266189-7.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/266189-3.jpg"
             },
             "episode": 18,
-            "fanart": "http://thetvdb.com/banners/fanart/original/266189-10.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/266189-1.jpg",
             "label": "Staffel 2",
             "playcount": 0,
             "season": 2,
@@ -5142,7 +5425,7 @@
             "showtitle": "The Blacklist",
             "thumbnail": "http://thetvdb.com/banners/seasons/266189-2.jpg",
             "tvshowid": 11,
-            "watchedepisodes": 0
+            "watchedepisodes": 14
         }
     ]
 }

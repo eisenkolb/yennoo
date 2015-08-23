@@ -10,7 +10,7 @@
                 "name": "Don Cheadle",
                 "order": 0,
                 "role": "Marty Kaan",
-                "thumbnail": "http://thetvdb.com/banners/actors/283236.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/4PvWfLvABO5n1ZfzK76vol9Bqae.jpg"
             },
             {
                 "name": "Kristen Bell",
@@ -59,7 +59,7 @@
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"247909-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/247909/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/247909-3.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/House of Lies/",
+        "file": "smb://Ext/Media/Serien/House of Lies/",
         "genre": [
             "Comedy",
             "Drama"
@@ -105,7 +105,7 @@
                         "name": "Don Cheadle",
                         "order": 0,
                         "role": "Marty Kaan",
-                        "thumbnail": "http://thetvdb.com/banners/actors/283236.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4PvWfLvABO5n1ZfzK76vol9Bqae.jpg"
                     },
                     {
                         "name": "Kristen Bell",
@@ -157,7 +157,7 @@
                 "episode": 1,
                 "episodeid": 805,
                 "fanart": "http://thetvdb.com/banners/fanart/original/247909-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/House of Lies/Season 1/House.of.Lies.S01E01.Die.Bank.zahlt.alles.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
+                "file": "smb://Ext/Media/Serien/House of Lies/Season 1/House.of.Lies.S01E01.Die.Bank.zahlt.alles.GERMAN.DUBBED.HDTVRiP.XviD-SOF.mp4",
                 "firstaired": "2012-01-08",
                 "label": "1x01. Gods of Dangerous Financial Instruments",
                 "lastplayed": "",

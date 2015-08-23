@@ -1,0 +1,194 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/292745-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/292745-6.jpg",
+            "poster": "http://thetvdb.com/banners/posters/292745-4.jpg"
+        },
+        "cast": [
+            {
+                "name": "Emma Ishta",
+                "order": 0,
+                "role": "Kirsten",
+                "thumbnail": "http://thetvdb.com/banners/actors/348813.jpg"
+            },
+            {
+                "name": "Kyle Harris",
+                "order": 1,
+                "role": "Cameron",
+                "thumbnail": "http://thetvdb.com/banners/actors/348814.jpg"
+            },
+            {
+                "name": "Allison Scagliotti",
+                "order": 2,
+                "role": "Camille",
+                "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
+            },
+            {
+                "name": "Salli Richardson-Whitfield",
+                "order": 3,
+                "role": "Maggie",
+                "thumbnail": "http://thetvdb.com/banners/actors/348816.jpg"
+            },
+            {
+                "name": "Ritesh Rajan",
+                "order": 4,
+                "role": "Linus",
+                "thumbnail": "http://thetvdb.com/banners/actors/348815.jpg"
+            }
+        ],
+        "dateadded": "2015-08-23 03:37:46",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"292745-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/292745/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/292745-6.jpg",
+        "file": "smb://Ext/Media/Serien/Stitchers/",
+        "genre": [
+            "Drama",
+            "Science-Fiction"
+        ],
+        "imdbnumber": "292745",
+        "label": "Stitchers",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Stitchers follows Kirsten, a young woman recruited into a covert government agency to be 'stitched' into the minds of the recently deceased, using their memories to investigate murders and decipher mysteries that otherwise would have gone to the grave. Working alongside Kirsten is Cameron, a brilliant neuroscientist whose passion for the program is evident in his work. The secret program is headed by Maggie, a skilled veteran of covert operations, and includes Linus, a socially immature bioelectrical engineer and communications technician. Kirsten's roommate, Camille, a gifted computer science grad student, is also recruited to use her skills to assist Kirsten in her new role as a 'stitcher.'",
+        "premiered": "2015-06-02",
+        "rating": 6.900000095367432,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "ABC Family"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/292745-4.jpg",
+        "title": "Stitchers",
+        "tvshowid": 107,
+        "votes": "8",
+        "watchedepisodes": 0,
+        "year": 2015
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/292745/5197791.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/292745-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/292745-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/292745-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Oded Fehr",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wPeeUd4AzWG0JNmS0okWsWADgps.jpg"
+                    },
+                    {
+                        "name": "Emma Ishta",
+                        "order": 0,
+                        "role": "Kirsten",
+                        "thumbnail": "http://thetvdb.com/banners/actors/348813.jpg"
+                    },
+                    {
+                        "name": "Kyle Harris",
+                        "order": 1,
+                        "role": "Cameron",
+                        "thumbnail": "http://thetvdb.com/banners/actors/348814.jpg"
+                    },
+                    {
+                        "name": "Allison Scagliotti",
+                        "order": 2,
+                        "role": "Camille",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
+                    },
+                    {
+                        "name": "Salli Richardson-Whitfield",
+                        "order": 3,
+                        "role": "Maggie",
+                        "thumbnail": "http://thetvdb.com/banners/actors/348816.jpg"
+                    },
+                    {
+                        "name": "Ritesh Rajan",
+                        "order": 4,
+                        "role": "Linus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/348815.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-23 03:37:46",
+                "director": [
+                    "Janice Cooke"
+                ],
+                "episode": 5,
+                "episodeid": 2024,
+                "fanart": "http://thetvdb.com/banners/fanart/original/292745-6.jpg",
+                "file": "smb://Ext/Media/Serien/Stitchers/Season 1/Stitchers.S01E05.HDTV.x264-2HD.mp4",
+                "firstaired": "2015-06-30",
+                "label": "1x05. The Stitcher in the Rye",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When the algorithm for the Stitchers program turns up among thousands of classified documents hidden by a conspiracy theorist, Kirsten starts to suspect her colleagues. Meanwhile, Kirsten starts getting cryptic messages from an unexpected source.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2561,
+                "season": 1,
+                "showtitle": "Stitchers",
+                "streamdetails": {
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "aac",
+                            "language": "und"
+                        }
+                    ],
+                    "subtitle": [],
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "avc1",
+                            "duration": 2561,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/292745/5197791.jpg",
+                "title": "The Stitcher in the Rye",
+                "tvshowid": 107,
+                "uniqueid": {
+                    "unknown": "5197791"
+                },
+                "votes": "3",
+                "writer": [
+                    "Lynne E. Litt"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/292745-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/292745-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/292745-6.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/292745-4.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/292745-6.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 560,
+            "showtitle": "Stitchers",
+            "thumbnail": "http://thetvdb.com/banners/seasons/292745-1-2.jpg",
+            "tvshowid": 107,
+            "watchedepisodes": 0
+        }
+    ]
+}

@@ -3,14 +3,14 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/270915-g5.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
-            "poster": "http://thetvdb.com/banners/posters/270915-7.jpg"
+            "poster": "http://thetvdb.com/banners/posters/270915-3.jpg"
         },
         "cast": [
             {
                 "name": "Cillian Murphy",
                 "order": 0,
                 "role": "Tommy Shelby",
-                "thumbnail": "http://thetvdb.com/banners/actors/318772.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/tEERcmKFHXypcwkP28MxVfvf6Ph.jpg"
             },
             {
                 "name": "Annabelle Wallis",
@@ -28,7 +28,7 @@
                 "name": "Tom Hardy",
                 "order": 3,
                 "role": "Alfie Solomons",
-                "thumbnail": "http://thetvdb.com/banners/actors/338328.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/5KwHVwrr982YSsCf4HaSFMLrsYf.jpg"
             },
             {
                 "name": "Helen McCrory",
@@ -86,7 +86,7 @@
         "episode": 2,
         "episodeguide": "<episodeguide><url cache=\"270915-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/270915/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Peaky Blinders/",
+        "file": "smb://Ext/Media/Serien/Peaky Blinders/",
         "genre": [
             "Crime",
             "Drama"
@@ -106,7 +106,7 @@
             "BBC Two"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/270915-7.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/270915-3.jpg",
         "title": "Peaky Blinders",
         "tvshowid": 63,
         "votes": "14",
@@ -120,14 +120,14 @@
                     "thumb": "http://thetvdb.com/banners/episodes/270915/4645420.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/270915-g5.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/270915-7.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270915-3.jpg"
                 },
                 "cast": [
                     {
                         "name": "Cillian Murphy",
                         "order": 0,
                         "role": "Tommy Shelby",
-                        "thumbnail": "http://thetvdb.com/banners/actors/318772.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEERcmKFHXypcwkP28MxVfvf6Ph.jpg"
                     },
                     {
                         "name": "Annabelle Wallis",
@@ -145,7 +145,7 @@
                         "name": "Tom Hardy",
                         "order": 3,
                         "role": "Alfie Solomons",
-                        "thumbnail": "http://thetvdb.com/banners/actors/338328.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5KwHVwrr982YSsCf4HaSFMLrsYf.jpg"
                     },
                     {
                         "name": "Helen McCrory",
@@ -206,7 +206,7 @@
                 "episode": 1,
                 "episodeid": 1217,
                 "fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Peaky Blinders/Season 1/Peaky.Blinders.Gangs.of.Birmingham.S01E01.Geschenk.des.Teufels.GERMAN.DUBBED.WS.BDRip.x264.REPACK-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Peaky Blinders/Season 1/Peaky.Blinders.Gangs.of.Birmingham.S01E01.Geschenk.des.Teufels.GERMAN.DUBBED.WS.BDRip.x264.REPACK-TVP.mp4",
                 "firstaired": "2013-09-12",
                 "label": "1x01. Episode 1",
                 "lastplayed": "",
@@ -243,14 +243,14 @@
                     "thumb": "http://thetvdb.com/banners/episodes/270915/4652814.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/270915-g5.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/270915-7.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/270915-3.jpg"
                 },
                 "cast": [
                     {
                         "name": "Cillian Murphy",
                         "order": 0,
                         "role": "Tommy Shelby",
-                        "thumbnail": "http://thetvdb.com/banners/actors/318772.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tEERcmKFHXypcwkP28MxVfvf6Ph.jpg"
                     },
                     {
                         "name": "Annabelle Wallis",
@@ -268,7 +268,7 @@
                         "name": "Tom Hardy",
                         "order": 3,
                         "role": "Alfie Solomons",
-                        "thumbnail": "http://thetvdb.com/banners/actors/338328.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/5KwHVwrr982YSsCf4HaSFMLrsYf.jpg"
                     },
                     {
                         "name": "Helen McCrory",
@@ -329,7 +329,7 @@
                 "episode": 2,
                 "episodeid": 1218,
                 "fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Peaky Blinders/Season 1/Peaky.Blinders.Gangs.of.Birmingham.S01E02.Waffenpoker.GERMAN.DUBBED.WS.BDRip.x264-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Peaky Blinders/Season 1/Peaky.Blinders.Gangs.of.Birmingham.S01E02.Waffenpoker.GERMAN.DUBBED.WS.BDRip.x264-TVP.mp4",
                 "firstaired": "2013-09-19",
                 "label": "1x02. Episode 2",
                 "lastplayed": "",
@@ -369,7 +369,7 @@
                 "poster": "http://thetvdb.com/banners/seasons/270915-1-5.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/270915-g5.jpg",
                 "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/270915-7.jpg"
+                "tvshow.poster": "http://thetvdb.com/banners/posters/270915-3.jpg"
             },
             "episode": 2,
             "fanart": "http://thetvdb.com/banners/fanart/original/270915-10.jpg",

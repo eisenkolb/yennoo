@@ -1,0 +1,1465 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+            "poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+        },
+        "cast": [
+            {
+                "name": "Eliza Taylor",
+                "order": 0,
+                "role": "Clarke Griffin",
+                "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+            },
+            {
+                "name": "Bob Morley",
+                "order": 1,
+                "role": "Bellamy Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+            },
+            {
+                "name": "Thomas McDonell",
+                "order": 2,
+                "role": "Finn Collins",
+                "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+            },
+            {
+                "name": "Devon Bostick",
+                "order": 3,
+                "role": "Jasper Jordan",
+                "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+            },
+            {
+                "name": "Christopher Larkin",
+                "order": 4,
+                "role": "Monty Green",
+                "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+            },
+            {
+                "name": "Marie Avgeropoulos",
+                "order": 5,
+                "role": "Octavia Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+            },
+            {
+                "name": "Lindsey Morgan",
+                "order": 6,
+                "role": "Raven Reyes",
+                "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+            },
+            {
+                "name": "Steve Talley",
+                "order": 7,
+                "role": "Kyle Wick",
+                "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+            },
+            {
+                "name": "Richard Harmon",
+                "order": 8,
+                "role": "John Murphy",
+                "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+            },
+            {
+                "name": "Alycia Debnam Carey",
+                "order": 9,
+                "role": "Lexa",
+                "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+            },
+            {
+                "name": "Ricky Whittle",
+                "order": 10,
+                "role": "Lincoln",
+                "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+            },
+            {
+                "name": "Paige Turco",
+                "order": 11,
+                "role": "Abigail Walters",
+                "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+            },
+            {
+                "name": "Isaiah Washington",
+                "order": 12,
+                "role": "Thelonious Jaha",
+                "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+            },
+            {
+                "name": "Henry Ian Cusick",
+                "order": 13,
+                "role": "Marcus Kane",
+                "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+            }
+        ],
+        "dateadded": "2015-08-15 19:28:30",
+        "episode": 9,
+        "episodeguide": "<episodeguide><url cache=\"268592-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/268592/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+        "file": "smb://Ext/Media/Serien/The 100/",
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Science-Fiction"
+        ],
+        "imdbnumber": "268592",
+        "label": "The 100",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "100 years in the future Earth has been abandoned due to radioactivity. The last surviving humans live on an ark orbiting the planet - but the ark won't last forever. So the repressive regime picks 100 expendable juvenile delinquents to send down to Earth to see if the planet is still habitable.",
+        "premiered": "2014-03-19",
+        "rating": 7.599999904632568,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "The CW"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/268592-9.jpg",
+        "title": "The 100",
+        "tvshowid": 102,
+        "votes": "77",
+        "watchedepisodes": 0,
+        "year": 2014
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/268592/4543295.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kelly Hu",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/ldIqkVNQoig6tFdF6b1ql1iylAD.jpg"
+                    },
+                    {
+                        "name": "Terry Chen",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/zHmlacDItyaJ0uFmormpVeN06mU.jpg"
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+                    },
+                    {
+                        "name": "Sachin Sahel",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Alessandro Juliani",
+                        "order": 4,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/eTF7C0HA5M31J9gvoupyPt3sedX.jpg"
+                    },
+                    {
+                        "name": "Eliza Taylor",
+                        "order": 0,
+                        "role": "Clarke Griffin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+                    },
+                    {
+                        "name": "Bob Morley",
+                        "order": 1,
+                        "role": "Bellamy Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+                    },
+                    {
+                        "name": "Thomas McDonell",
+                        "order": 2,
+                        "role": "Finn Collins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+                    },
+                    {
+                        "name": "Devon Bostick",
+                        "order": 3,
+                        "role": "Jasper Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+                    },
+                    {
+                        "name": "Christopher Larkin",
+                        "order": 4,
+                        "role": "Monty Green",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+                    },
+                    {
+                        "name": "Marie Avgeropoulos",
+                        "order": 5,
+                        "role": "Octavia Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+                    },
+                    {
+                        "name": "Lindsey Morgan",
+                        "order": 6,
+                        "role": "Raven Reyes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+                    },
+                    {
+                        "name": "Steve Talley",
+                        "order": 7,
+                        "role": "Kyle Wick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+                    },
+                    {
+                        "name": "Alycia Debnam Carey",
+                        "order": 9,
+                        "role": "Lexa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+                    },
+                    {
+                        "name": "Ricky Whittle",
+                        "order": 10,
+                        "role": "Lincoln",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+                    },
+                    {
+                        "name": "Paige Turco",
+                        "order": 11,
+                        "role": "Abigail Walters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+                    },
+                    {
+                        "name": "Isaiah Washington",
+                        "order": 12,
+                        "role": "Thelonious Jaha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+                    },
+                    {
+                        "name": "Henry Ian Cusick",
+                        "order": 13,
+                        "role": "Marcus Kane",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-15 18:31:03",
+                "director": [
+                    "Bharat Nalluri"
+                ],
+                "episode": 1,
+                "episodeid": 2008,
+                "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E01.Die.Landung.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-03-19",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ninety-seven years ago, nuclear Armageddon decimated planet Earth, destroying civilization. The only survivors were the 400 inhabitants of 12 international space stations that were in orbit at the time. Three generations have been born in space, the survivors now number 4,000, and resources are running out on their dying \"Ark.\" Among the 100 young exiles are Clarke, the bright teenage daughter of the Ark’s chief medical officer; the daredevil Finn; the brother/sister duo of Bellamy and Octavia, whose illegal sibling status has always led them to flaunt the rules, the lighthearted Jasper and the resourceful Monty. Technologically blind to what’s happening on the planet below them, the Ark’s leaders — Clarke’s widowed mother, Abby; Chancellor Jaha; and his shadowy second in command, Kane — are faced with difficult decisions about life, death and the continued existence of the human race.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The 100",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/268592/4543295.jpg",
+                "title": "Pilot",
+                "tvshowid": 102,
+                "uniqueid": {
+                    "unknown": "4543295"
+                },
+                "votes": "87",
+                "writer": [
+                    "Jason Rothenberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/268592/4735398.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Lindsey Morgan",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+                    },
+                    {
+                        "name": "Rhys Ward",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 2,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+                    },
+                    {
+                        "name": "Sachin Sahel",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Eliza Taylor",
+                        "order": 0,
+                        "role": "Clarke Griffin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+                    },
+                    {
+                        "name": "Bob Morley",
+                        "order": 1,
+                        "role": "Bellamy Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+                    },
+                    {
+                        "name": "Thomas McDonell",
+                        "order": 2,
+                        "role": "Finn Collins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+                    },
+                    {
+                        "name": "Devon Bostick",
+                        "order": 3,
+                        "role": "Jasper Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+                    },
+                    {
+                        "name": "Christopher Larkin",
+                        "order": 4,
+                        "role": "Monty Green",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+                    },
+                    {
+                        "name": "Marie Avgeropoulos",
+                        "order": 5,
+                        "role": "Octavia Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+                    },
+                    {
+                        "name": "Steve Talley",
+                        "order": 7,
+                        "role": "Kyle Wick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+                    },
+                    {
+                        "name": "Alycia Debnam Carey",
+                        "order": 9,
+                        "role": "Lexa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+                    },
+                    {
+                        "name": "Ricky Whittle",
+                        "order": 10,
+                        "role": "Lincoln",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+                    },
+                    {
+                        "name": "Paige Turco",
+                        "order": 11,
+                        "role": "Abigail Walters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+                    },
+                    {
+                        "name": "Isaiah Washington",
+                        "order": 12,
+                        "role": "Thelonious Jaha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+                    },
+                    {
+                        "name": "Henry Ian Cusick",
+                        "order": 13,
+                        "role": "Marcus Kane",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-15 18:32:20",
+                "director": [
+                    "Dean White"
+                ],
+                "episode": 2,
+                "episodeid": 2009,
+                "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E02.Wir.sind.nicht.allein.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-03-26",
+                "label": "1x02. Earth Skills",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Having discovered that Jasper may still be alive, Clarke, Bellamy, Octavia, Finn and Monty set out on a mission to locate their friend and are shocked at what they find. Meanwhile, on the Ark, Abby is determined to get to Earth, and enlists Raven to craft an escape pod.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The 100",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/268592/4735398.jpg",
+                "title": "Earth Skills",
+                "tvshowid": 102,
+                "uniqueid": {
+                    "unknown": "4735398"
+                },
+                "votes": "74",
+                "writer": [
+                    "Jason Rothenberg"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/268592/4735399.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Eliza Taylor",
+                        "order": 0,
+                        "role": "Clarke Griffin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+                    },
+                    {
+                        "name": "Bob Morley",
+                        "order": 1,
+                        "role": "Bellamy Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+                    },
+                    {
+                        "name": "Thomas McDonell",
+                        "order": 2,
+                        "role": "Finn Collins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+                    },
+                    {
+                        "name": "Devon Bostick",
+                        "order": 3,
+                        "role": "Jasper Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+                    },
+                    {
+                        "name": "Christopher Larkin",
+                        "order": 4,
+                        "role": "Monty Green",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+                    },
+                    {
+                        "name": "Marie Avgeropoulos",
+                        "order": 5,
+                        "role": "Octavia Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+                    },
+                    {
+                        "name": "Lindsey Morgan",
+                        "order": 6,
+                        "role": "Raven Reyes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+                    },
+                    {
+                        "name": "Steve Talley",
+                        "order": 7,
+                        "role": "Kyle Wick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 8,
+                        "role": "John Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+                    },
+                    {
+                        "name": "Alycia Debnam Carey",
+                        "order": 9,
+                        "role": "Lexa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+                    },
+                    {
+                        "name": "Ricky Whittle",
+                        "order": 10,
+                        "role": "Lincoln",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+                    },
+                    {
+                        "name": "Paige Turco",
+                        "order": 11,
+                        "role": "Abigail Walters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+                    },
+                    {
+                        "name": "Isaiah Washington",
+                        "order": 12,
+                        "role": "Thelonious Jaha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+                    },
+                    {
+                        "name": "Henry Ian Cusick",
+                        "order": 13,
+                        "role": "Marcus Kane",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-15 18:45:00",
+                "director": [
+                    "Dean White"
+                ],
+                "episode": 3,
+                "episodeid": 2010,
+                "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E03.Wozu.hat.man.Freunde.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-04-02",
+                "label": "1x03. Earth Kills",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "In a desperate attempt to treat Jasper’s festering wounds, Clarke, Finn and Wells set out in search of a seaweed antibiotic. Bellamy and his crew go hunting for food, and are joined by Charlotte, a lovable 13-year-old, who feels safe under Bellamy’s protection. A thick, acidic fog appears, forcing Clarke, Finn and Wells to seek shelter inside an ancient van. While they are trapped, Clarke confronts Wells on his betrayal that resulted in her father’s death.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The 100",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/268592/4735399.jpg",
+                "title": "Earth Kills",
+                "tvshowid": 102,
+                "uniqueid": {
+                    "unknown": "4735399"
+                },
+                "votes": "73",
+                "writer": [
+                    "Elizabeth Craft",
+                    "Sarah Fain"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/268592/4740979.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Eliza Taylor",
+                        "order": 0,
+                        "role": "Clarke Griffin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+                    },
+                    {
+                        "name": "Bob Morley",
+                        "order": 1,
+                        "role": "Bellamy Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+                    },
+                    {
+                        "name": "Thomas McDonell",
+                        "order": 2,
+                        "role": "Finn Collins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+                    },
+                    {
+                        "name": "Devon Bostick",
+                        "order": 3,
+                        "role": "Jasper Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+                    },
+                    {
+                        "name": "Christopher Larkin",
+                        "order": 4,
+                        "role": "Monty Green",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+                    },
+                    {
+                        "name": "Marie Avgeropoulos",
+                        "order": 5,
+                        "role": "Octavia Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+                    },
+                    {
+                        "name": "Lindsey Morgan",
+                        "order": 6,
+                        "role": "Raven Reyes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+                    },
+                    {
+                        "name": "Steve Talley",
+                        "order": 7,
+                        "role": "Kyle Wick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 8,
+                        "role": "John Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+                    },
+                    {
+                        "name": "Alycia Debnam Carey",
+                        "order": 9,
+                        "role": "Lexa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+                    },
+                    {
+                        "name": "Ricky Whittle",
+                        "order": 10,
+                        "role": "Lincoln",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+                    },
+                    {
+                        "name": "Paige Turco",
+                        "order": 11,
+                        "role": "Abigail Walters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+                    },
+                    {
+                        "name": "Isaiah Washington",
+                        "order": 12,
+                        "role": "Thelonious Jaha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+                    },
+                    {
+                        "name": "Henry Ian Cusick",
+                        "order": 13,
+                        "role": "Marcus Kane",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-15 18:47:30",
+                "director": [
+                    "PJ Pesce"
+                ],
+                "episode": 4,
+                "episodeid": 2011,
+                "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E04.Murphys.Gesetz.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-04-09",
+                "label": "1x04. Murphy's Law",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After the shocking death of one of their own, Clarke and Finn grow closer as they try to figure out a way to communicate with the Ark. Bellamy must keep the group from turning on one another as life on Earth takes a desperate turn. Meanwhile, Abby risks having herself floated in order to give Raven the chance to stow-away in the escape pod bound for Earth.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "The 100",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/268592/4740979.jpg",
+                "title": "Murphy's Law",
+                "tvshowid": 102,
+                "uniqueid": {
+                    "unknown": "4740979"
+                },
+                "votes": "70",
+                "writer": [
+                    "T.J. Brady",
+                    "Rasheed Newson"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/268592/4740980.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Eliza Taylor",
+                        "order": 0,
+                        "role": "Clarke Griffin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+                    },
+                    {
+                        "name": "Bob Morley",
+                        "order": 1,
+                        "role": "Bellamy Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+                    },
+                    {
+                        "name": "Thomas McDonell",
+                        "order": 2,
+                        "role": "Finn Collins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+                    },
+                    {
+                        "name": "Devon Bostick",
+                        "order": 3,
+                        "role": "Jasper Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+                    },
+                    {
+                        "name": "Christopher Larkin",
+                        "order": 4,
+                        "role": "Monty Green",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+                    },
+                    {
+                        "name": "Marie Avgeropoulos",
+                        "order": 5,
+                        "role": "Octavia Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+                    },
+                    {
+                        "name": "Lindsey Morgan",
+                        "order": 6,
+                        "role": "Raven Reyes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+                    },
+                    {
+                        "name": "Steve Talley",
+                        "order": 7,
+                        "role": "Kyle Wick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 8,
+                        "role": "John Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+                    },
+                    {
+                        "name": "Alycia Debnam Carey",
+                        "order": 9,
+                        "role": "Lexa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+                    },
+                    {
+                        "name": "Ricky Whittle",
+                        "order": 10,
+                        "role": "Lincoln",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+                    },
+                    {
+                        "name": "Paige Turco",
+                        "order": 11,
+                        "role": "Abigail Walters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+                    },
+                    {
+                        "name": "Isaiah Washington",
+                        "order": 12,
+                        "role": "Thelonious Jaha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+                    },
+                    {
+                        "name": "Henry Ian Cusick",
+                        "order": 13,
+                        "role": "Marcus Kane",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-15 19:03:48",
+                "director": [
+                    "Milan Cheylov"
+                ],
+                "episode": 5,
+                "episodeid": 2012,
+                "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E05.Ein.Licht.am.Horizont.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-04-16",
+                "label": "1x05. Twilight's Last Gleaming",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Clarke’s newfound romance with Finn is threatened. Octavia suffers a blow to the head and wakes up to find a Grounder watching her. On the Ark, Abby exposes Kane’s plan to reduce the population of the Ark. Jaha and Abby notice a signal and realize at least some of the 100 must still be alive on Earth.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2361,
+                "season": 1,
+                "showtitle": "The 100",
+                "streamdetails": {
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": ""
+                        }
+                    ],
+                    "subtitle": [],
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2361,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/268592/4740980.jpg",
+                "title": "Twilight's Last Gleaming",
+                "tvshowid": 102,
+                "uniqueid": {
+                    "unknown": "4740980"
+                },
+                "votes": "66",
+                "writer": [
+                    "Bruce Miller"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/268592/4828423.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Eliza Taylor",
+                        "order": 0,
+                        "role": "Clarke Griffin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+                    },
+                    {
+                        "name": "Bob Morley",
+                        "order": 1,
+                        "role": "Bellamy Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+                    },
+                    {
+                        "name": "Thomas McDonell",
+                        "order": 2,
+                        "role": "Finn Collins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+                    },
+                    {
+                        "name": "Devon Bostick",
+                        "order": 3,
+                        "role": "Jasper Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+                    },
+                    {
+                        "name": "Christopher Larkin",
+                        "order": 4,
+                        "role": "Monty Green",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+                    },
+                    {
+                        "name": "Marie Avgeropoulos",
+                        "order": 5,
+                        "role": "Octavia Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+                    },
+                    {
+                        "name": "Lindsey Morgan",
+                        "order": 6,
+                        "role": "Raven Reyes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+                    },
+                    {
+                        "name": "Steve Talley",
+                        "order": 7,
+                        "role": "Kyle Wick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 8,
+                        "role": "John Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+                    },
+                    {
+                        "name": "Alycia Debnam Carey",
+                        "order": 9,
+                        "role": "Lexa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+                    },
+                    {
+                        "name": "Ricky Whittle",
+                        "order": 10,
+                        "role": "Lincoln",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+                    },
+                    {
+                        "name": "Paige Turco",
+                        "order": 11,
+                        "role": "Abigail Walters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+                    },
+                    {
+                        "name": "Isaiah Washington",
+                        "order": 12,
+                        "role": "Thelonious Jaha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+                    },
+                    {
+                        "name": "Henry Ian Cusick",
+                        "order": 13,
+                        "role": "Marcus Kane",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-15 19:00:54",
+                "director": [
+                    "Wayne Rose"
+                ],
+                "episode": 6,
+                "episodeid": 2013,
+                "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E06.Ein.Sturm.zieht.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-04-23",
+                "label": "1x06. His Sister's Keeper",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Bellamy leads his crew into Grounder territory as they search for Octavia. Raven can't help but notice the deep connection between Finn and Clarke. Meanwhile, flashbacks reveal Bellamy's and Octavia's childhood on the Ark.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2439,
+                "season": 1,
+                "showtitle": "The 100",
+                "streamdetails": {
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": ""
+                        }
+                    ],
+                    "subtitle": [],
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2439,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/268592/4828423.jpg",
+                "title": "His Sister's Keeper",
+                "tvshowid": 102,
+                "uniqueid": {
+                    "unknown": "4828423"
+                },
+                "votes": "69",
+                "writer": [
+                    "Tracy Bellomo",
+                    "Dorothy Fortenberry"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/268592/4828424.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Eliza Taylor",
+                        "order": 0,
+                        "role": "Clarke Griffin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+                    },
+                    {
+                        "name": "Bob Morley",
+                        "order": 1,
+                        "role": "Bellamy Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+                    },
+                    {
+                        "name": "Thomas McDonell",
+                        "order": 2,
+                        "role": "Finn Collins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+                    },
+                    {
+                        "name": "Devon Bostick",
+                        "order": 3,
+                        "role": "Jasper Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+                    },
+                    {
+                        "name": "Christopher Larkin",
+                        "order": 4,
+                        "role": "Monty Green",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+                    },
+                    {
+                        "name": "Marie Avgeropoulos",
+                        "order": 5,
+                        "role": "Octavia Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+                    },
+                    {
+                        "name": "Lindsey Morgan",
+                        "order": 6,
+                        "role": "Raven Reyes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+                    },
+                    {
+                        "name": "Steve Talley",
+                        "order": 7,
+                        "role": "Kyle Wick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 8,
+                        "role": "John Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+                    },
+                    {
+                        "name": "Alycia Debnam Carey",
+                        "order": 9,
+                        "role": "Lexa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+                    },
+                    {
+                        "name": "Ricky Whittle",
+                        "order": 10,
+                        "role": "Lincoln",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+                    },
+                    {
+                        "name": "Paige Turco",
+                        "order": 11,
+                        "role": "Abigail Walters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+                    },
+                    {
+                        "name": "Isaiah Washington",
+                        "order": 12,
+                        "role": "Thelonious Jaha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+                    },
+                    {
+                        "name": "Henry Ian Cusick",
+                        "order": 13,
+                        "role": "Marcus Kane",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-15 19:01:37",
+                "director": [
+                    "John Showalter"
+                ],
+                "episode": 7,
+                "episodeid": 2014,
+                "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E07.Der.Druck.steigt.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-04-30",
+                "label": "1x07. Contents Under Pressure",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Clarke and Raven make contact with the Ark, and Abby guides Clarke through a dangerous procedure in a desperate move to save one of their own. Meanwhile, on the Ark, Abby is removed from the council, and former Chancellor Diana Sydney takes her place. Jaha reveals to Abby that there are not enough drop ships for everyone on the Ark to go down to Earth, and Kane begins to deal with his guilt over his recent decision.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2419,
+                "season": 1,
+                "showtitle": "The 100",
+                "streamdetails": {
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": ""
+                        }
+                    ],
+                    "subtitle": [],
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2419,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/268592/4828424.jpg",
+                "title": "Contents Under Pressure",
+                "tvshowid": 102,
+                "uniqueid": {
+                    "unknown": "4828424"
+                },
+                "votes": "65",
+                "writer": [
+                    "Akela Cooper",
+                    "Kira Snyder"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/268592/4828425.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Terry Chen",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/zHmlacDItyaJ0uFmormpVeN06mU.jpg"
+                    },
+                    {
+                        "name": "Kate Vernon",
+                        "order": 1,
+                        "role": ""
+                    },
+                    {
+                        "name": "Eliza Taylor",
+                        "order": 0,
+                        "role": "Clarke Griffin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+                    },
+                    {
+                        "name": "Bob Morley",
+                        "order": 1,
+                        "role": "Bellamy Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+                    },
+                    {
+                        "name": "Thomas McDonell",
+                        "order": 2,
+                        "role": "Finn Collins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+                    },
+                    {
+                        "name": "Devon Bostick",
+                        "order": 3,
+                        "role": "Jasper Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+                    },
+                    {
+                        "name": "Christopher Larkin",
+                        "order": 4,
+                        "role": "Monty Green",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+                    },
+                    {
+                        "name": "Marie Avgeropoulos",
+                        "order": 5,
+                        "role": "Octavia Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+                    },
+                    {
+                        "name": "Lindsey Morgan",
+                        "order": 6,
+                        "role": "Raven Reyes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+                    },
+                    {
+                        "name": "Steve Talley",
+                        "order": 7,
+                        "role": "Kyle Wick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 8,
+                        "role": "John Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+                    },
+                    {
+                        "name": "Alycia Debnam Carey",
+                        "order": 9,
+                        "role": "Lexa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+                    },
+                    {
+                        "name": "Ricky Whittle",
+                        "order": 10,
+                        "role": "Lincoln",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+                    },
+                    {
+                        "name": "Paige Turco",
+                        "order": 11,
+                        "role": "Abigail Walters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+                    },
+                    {
+                        "name": "Isaiah Washington",
+                        "order": 12,
+                        "role": "Thelonious Jaha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+                    },
+                    {
+                        "name": "Henry Ian Cusick",
+                        "order": 13,
+                        "role": "Marcus Kane",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-15 19:26:46",
+                "director": [
+                    "Matt Barber"
+                ],
+                "episode": 8,
+                "episodeid": 2015,
+                "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E08.Konfrontationen.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-05-07",
+                "label": "1x08. Day Trip",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Clarke and Bellamy go on a mission to find supplies for approaching winter. Some of the 100 accidentally eat nuts with powerfully hallucinogenic properties and lose their grasp on reality. Meanwhile, Octavia seizes the opportunity to help a friend escape, and a terrifying event brings Clarke and Bellamy closer. On the Ark, Commander Shumway secretly assigns one of the 100 to kill one of his own, and the treacherous actions of Diane Sydney are revealed.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2434,
+                "season": 1,
+                "showtitle": "The 100",
+                "streamdetails": {
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": ""
+                        }
+                    ],
+                    "subtitle": [],
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2434,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/268592/4828425.jpg",
+                "title": "Day Trip",
+                "tvshowid": 102,
+                "uniqueid": {
+                    "unknown": "4828425"
+                },
+                "votes": "61",
+                "writer": [
+                    "Elizabeth Craft",
+                    "Sarah Fain",
+                    "Andrei Haq"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/268592/4828426.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Eliza Taylor",
+                        "order": 0,
+                        "role": "Clarke Griffin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+                    },
+                    {
+                        "name": "Bob Morley",
+                        "order": 1,
+                        "role": "Bellamy Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+                    },
+                    {
+                        "name": "Thomas McDonell",
+                        "order": 2,
+                        "role": "Finn Collins",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+                    },
+                    {
+                        "name": "Devon Bostick",
+                        "order": 3,
+                        "role": "Jasper Jordan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+                    },
+                    {
+                        "name": "Christopher Larkin",
+                        "order": 4,
+                        "role": "Monty Green",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+                    },
+                    {
+                        "name": "Marie Avgeropoulos",
+                        "order": 5,
+                        "role": "Octavia Blake",
+                        "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+                    },
+                    {
+                        "name": "Lindsey Morgan",
+                        "order": 6,
+                        "role": "Raven Reyes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+                    },
+                    {
+                        "name": "Steve Talley",
+                        "order": 7,
+                        "role": "Kyle Wick",
+                        "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+                    },
+                    {
+                        "name": "Richard Harmon",
+                        "order": 8,
+                        "role": "John Murphy",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+                    },
+                    {
+                        "name": "Alycia Debnam Carey",
+                        "order": 9,
+                        "role": "Lexa",
+                        "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+                    },
+                    {
+                        "name": "Ricky Whittle",
+                        "order": 10,
+                        "role": "Lincoln",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+                    },
+                    {
+                        "name": "Paige Turco",
+                        "order": 11,
+                        "role": "Abigail Walters",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+                    },
+                    {
+                        "name": "Isaiah Washington",
+                        "order": 12,
+                        "role": "Thelonious Jaha",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+                    },
+                    {
+                        "name": "Henry Ian Cusick",
+                        "order": 13,
+                        "role": "Marcus Kane",
+                        "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-15 19:28:30",
+                "director": [
+                    "John Behring"
+                ],
+                "episode": 9,
+                "episodeid": 2016,
+                "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E09.Der.Anschlag.German.Dubbed.BDRip.x264-ITG.mkv",
+                "firstaired": "2014-05-14",
+                "label": "1x09. Unity Day",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Clarke and Finn attempt to broker peace with the Grounders but all hell breaks loose when Bellamy, Jasper and Raven show up armed and ready for battle. Octavia and Lincoln grow closer. Meanwhile, tragedy strikes during the Unity Day celebration on the Ark.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2380,
+                "season": 1,
+                "showtitle": "The 100",
+                "streamdetails": {
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": ""
+                        }
+                    ],
+                    "subtitle": [],
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2380,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/268592/4828426.jpg",
+                "title": "Unity Day",
+                "tvshowid": 102,
+                "uniqueid": {
+                    "unknown": "4828426"
+                },
+                "votes": "60",
+                "writer": [
+                    "Kim Shumway",
+                    "Kira Snyder"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/268592-1.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/268592-1-4.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+            },
+            "episode": 9,
+            "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 544,
+            "showtitle": "The 100",
+            "thumbnail": "http://thetvdb.com/banners/seasons/268592-1-4.jpg",
+            "tvshowid": 102,
+            "watchedepisodes": 0
+        }
+    ]
+}

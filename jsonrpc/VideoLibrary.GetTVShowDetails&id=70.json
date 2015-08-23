@@ -58,7 +58,7 @@
                 "name": "Brian Hallisay",
                 "order": 8,
                 "role": "Ben Hunter",
-                "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
             },
             {
                 "name": "Karine Vanasse",
@@ -70,7 +70,7 @@
                 "name": "Amber Valletta",
                 "order": 10,
                 "role": "Lydia Davis",
-                "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
             },
             {
                 "name": "Dilshad Vadsaria",
@@ -106,7 +106,7 @@
                 "name": "Henry Czerny",
                 "order": 16,
                 "role": "Conrad Grayson",
-                "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
             },
             {
                 "name": "Ashley Madekwe",
@@ -125,7 +125,7 @@
         "episode": 18,
         "episodeguide": "<episodeguide><url cache=\"248837-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/248837/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/",
+        "file": "smb://Ext/Media/Serien/Revenge/",
         "genre": [
             "Drama",
             "Mystery",
@@ -178,13 +178,14 @@
                     {
                         "name": "Yancey Arias",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/yXePNE3sFAHk1CAgdObHhUrWsKL.jpg"
                     },
                     {
                         "name": "Amber Valletta",
                         "order": 3,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Matthew Glave",
@@ -247,7 +248,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -289,7 +290,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -311,7 +312,7 @@
                 "episode": 2,
                 "episodeid": 1259,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E02.Vertrauen.GERMAN.DUBBED.WS.DVDRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E02.Vertrauen.GERMAN.DUBBED.WS.DVDRiP.XviD-TVP.mp4",
                 "firstaired": "2011-09-28",
                 "label": "1x02. Trust",
                 "lastplayed": "",
@@ -366,7 +367,8 @@
                     {
                         "name": "Yancey Arias",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/yXePNE3sFAHk1CAgdObHhUrWsKL.jpg"
                     },
                     {
                         "name": "Max Martini",
@@ -430,7 +432,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -442,7 +444,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -478,7 +480,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -500,7 +502,7 @@
                 "episode": 3,
                 "episodeid": 1260,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E03.Verrat.GERMAN.DUBBED.WS.DVDRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E03.Verrat.GERMAN.DUBBED.WS.DVDRiP.XviD-TVP.mp4",
                 "firstaired": "2011-10-05",
                 "label": "1x03. Betrayal",
                 "lastplayed": "",
@@ -592,7 +594,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -604,7 +606,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -640,7 +642,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -662,7 +664,7 @@
                 "episode": 4,
                 "episodeid": 1261,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E04.Zwiespalt.GERMAN.DUBBED.WS.DVDRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E04.Zwiespalt.GERMAN.DUBBED.WS.DVDRiP.XviD-TVP.mp4",
                 "firstaired": "2011-10-12",
                 "label": "1x04. Duplicity",
                 "lastplayed": "",
@@ -754,7 +756,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -766,7 +768,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -802,7 +804,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -824,7 +826,7 @@
                 "episode": 5,
                 "episodeid": 1262,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E05.Schuld.GERMAN.DUBBED.WS.DVDRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E05.Schuld.GERMAN.DUBBED.WS.DVDRiP.XviD-TVP.mp4",
                 "firstaired": "2011-10-19",
                 "label": "1x05. Guilt",
                 "lastplayed": "",
@@ -916,7 +918,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -928,7 +930,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -964,7 +966,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -986,7 +988,7 @@
                 "episode": 6,
                 "episodeid": 1263,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E06.Intrigen.GERMAN.DUBBED.WS.DVDRiP.XviD.REPACK-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E06.Intrigen.GERMAN.DUBBED.WS.DVDRiP.XviD.REPACK-TVP.mp4",
                 "firstaired": "2011-10-26",
                 "label": "1x06. Intrigue",
                 "lastplayed": "",
@@ -1079,7 +1081,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -1091,7 +1093,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -1127,7 +1129,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -1149,7 +1151,7 @@
                 "episode": 7,
                 "episodeid": 1264,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E07.Identitaeten.German.Dubbed.DL.iTunesHD.x264-TVS.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E07.Identitaeten.German.Dubbed.DL.iTunesHD.x264-TVS.mp4",
                 "firstaired": "2011-11-02",
                 "label": "1x07. Charade",
                 "lastplayed": "",
@@ -1242,7 +1244,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -1254,7 +1256,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -1290,7 +1292,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -1312,7 +1314,7 @@
                 "episode": 8,
                 "episodeid": 1265,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E08.Treachery.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E08.Treachery.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
                 "firstaired": "2011-11-16",
                 "label": "1x08. Treachery",
                 "lastplayed": "",
@@ -1410,7 +1412,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -1422,7 +1424,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -1458,7 +1460,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -1480,7 +1482,7 @@
                 "episode": 9,
                 "episodeid": 1266,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E09.Suspicion.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E09.Suspicion.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
                 "firstaired": "2011-11-23",
                 "label": "1x09. Suspicion",
                 "lastplayed": "",
@@ -1572,7 +1574,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -1584,7 +1586,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -1620,7 +1622,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -1642,7 +1644,7 @@
                 "episode": 10,
                 "episodeid": 1267,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E10.Loyalty.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E10.Loyalty.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
                 "firstaired": "2011-12-07",
                 "label": "1x10. Loyalty",
                 "lastplayed": "",
@@ -1735,7 +1737,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -1747,7 +1749,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -1783,7 +1785,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -1805,7 +1807,7 @@
                 "episode": 11,
                 "episodeid": 1268,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E11.Noetigung.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E11.Noetigung.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
                 "firstaired": "2012-01-04",
                 "label": "1x11. Duress",
                 "lastplayed": "",
@@ -1903,7 +1905,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -1915,7 +1917,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -1951,7 +1953,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -1973,7 +1975,7 @@
                 "episode": 12,
                 "episodeid": 1269,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E12.Infamy.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E12.Infamy.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
                 "firstaired": "2012-01-11",
                 "label": "1x12. Infamy",
                 "lastplayed": "",
@@ -2066,7 +2068,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -2078,7 +2080,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -2114,7 +2116,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -2136,7 +2138,7 @@
                 "episode": 13,
                 "episodeid": 1270,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E13.Commitment.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E13.Commitment.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
                 "firstaired": "2012-01-18",
                 "label": "1x13. Commitment",
                 "lastplayed": "",
@@ -2229,7 +2231,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -2241,7 +2243,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -2277,7 +2279,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -2299,7 +2301,7 @@
                 "episode": 14,
                 "episodeid": 1271,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E14.Wahrnehmung.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E14.Wahrnehmung.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
                 "firstaired": "2012-02-08",
                 "label": "1x14. Perception",
                 "lastplayed": "",
@@ -2392,7 +2394,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -2404,7 +2406,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -2440,7 +2442,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -2462,7 +2464,7 @@
                 "episode": 15,
                 "episodeid": 1272,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E15.Chaos.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E15.Chaos.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
                 "firstaired": "2012-02-15",
                 "label": "1x15. Chaos",
                 "lastplayed": "",
@@ -2555,7 +2557,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -2567,7 +2569,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -2603,7 +2605,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -2625,7 +2627,7 @@
                 "episode": 16,
                 "episodeid": 1273,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E16.Scandal.German.Dubbed.DL.iTunesHD.x264-4SJ.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E16.Scandal.German.Dubbed.DL.iTunesHD.x264-4SJ.mp4",
                 "firstaired": "2012-02-29",
                 "label": "1x16. Scandal",
                 "lastplayed": "",
@@ -2723,7 +2725,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -2735,7 +2737,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -2771,7 +2773,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -2793,7 +2795,7 @@
                 "episode": 17,
                 "episodeid": 1274,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 1/Revenge.S01E17.Doubt.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 1/Revenge.S01E17.Doubt.GERMAN.DUBBED.WS.WEBRiP.XviD-TVP.mp4",
                 "firstaired": "2012-04-18",
                 "label": "1x17. Doubt",
                 "lastplayed": "",
@@ -2887,7 +2889,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -2899,7 +2901,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -2935,7 +2937,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -2957,7 +2959,7 @@
                 "episode": 1,
                 "episodeid": 1275,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 2/Revenge.S02E01.Schicksal.GERMAN.Dubbed.HDTVRiP.XviD-idTV.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 2/Revenge.S02E01.Schicksal.GERMAN.Dubbed.HDTVRiP.XviD-idTV.mp4",
                 "firstaired": "2012-09-30",
                 "label": "2x01. Destiny",
                 "lastplayed": "",
@@ -3050,7 +3052,7 @@
                         "name": "Brian Hallisay",
                         "order": 8,
                         "role": "Ben Hunter",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312008.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oFPwpghpgIcqKV3Qb9YV8NMCKaq.jpg"
                     },
                     {
                         "name": "Karine Vanasse",
@@ -3062,7 +3064,7 @@
                         "name": "Amber Valletta",
                         "order": 10,
                         "role": "Lydia Davis",
-                        "thumbnail": "http://thetvdb.com/banners/actors/337608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/339jYuXYKYQnz2NlsADDNY5tRn1.jpg"
                     },
                     {
                         "name": "Dilshad Vadsaria",
@@ -3098,7 +3100,7 @@
                         "name": "Henry Czerny",
                         "order": 16,
                         "role": "Conrad Grayson",
-                        "thumbnail": "http://thetvdb.com/banners/actors/289591.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/tRhRecHzqpbZfro5P1BpErf37d5.jpg"
                     },
                     {
                         "name": "Ashley Madekwe",
@@ -3120,7 +3122,7 @@
                 "episode": 2,
                 "episodeid": 1276,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248837-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Revenge/Season 2/Revenge.S02E02.Auferstehung.GERMAN.Dubbed.HDTVRiP.XviD-idTV.mp4",
+                "file": "smb://Ext/Media/Serien/Revenge/Season 2/Revenge.S02E02.Auferstehung.GERMAN.Dubbed.HDTVRiP.XviD-idTV.mp4",
                 "firstaired": "2012-10-07",
                 "label": "2x02. Resurrection",
                 "lastplayed": "",

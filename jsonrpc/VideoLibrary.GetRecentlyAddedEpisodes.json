@@ -1,0 +1,3527 @@
+[
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/281708/5243323.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/281708-g2.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/281708-6.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/281708-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Jennifer Beals",
+                "order": 0,
+                "role": "Dr. Carolyn Tyler",
+                "thumbnail": "http://thetvdb.com/banners/actors/332150.jpg"
+            },
+            {
+                "name": "Matthew Modine",
+                "order": 1,
+                "role": "Ivan Turig",
+                "thumbnail": "http://thetvdb.com/banners/actors/350032.jpg"
+            },
+            {
+                "name": "Callum Blue",
+                "order": 4,
+                "role": "Peter Van Owen",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jEeLPZg7GlNhdkAmtPQXLGqOMZF.jpg"
+            },
+            {
+                "name": "Caroline Rose Kaplan",
+                "order": 5,
+                "role": "Janel Ramsey"
+            },
+            {
+                "name": "David Sutcliffe",
+                "order": 6,
+                "role": "Dr. Len Barliss"
+            },
+            {
+                "name": "Edi Gathegi",
+                "order": 7,
+                "role": "Zed",
+                "thumbnail": "http://image.tmdb.org/t/p/original/xruASZjRYdM36ml9OFfrjf6u5FJ.jpg"
+            },
+            {
+                "name": "Joe Morton",
+                "order": 8,
+                "role": "Dr. Charles Russell",
+                "thumbnail": "http://thetvdb.com/banners/actors/70871.jpg"
+            }
+        ],
+        "dateadded": "2015-08-23 03:40:43",
+        "director": [],
+        "episode": 3,
+        "episodeid": 2022,
+        "fanart": "http://thetvdb.com/banners/fanart/original/281708-6.jpg",
+        "file": "smb://Ext/Media/Serien/Proof/Season 1/Proof.US.S01E03.HDTV.x264-LOL.mp4",
+        "firstaired": "2015-06-30",
+        "label": "1x03. Showdown",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Carolyn and her team investigate the case of an Iraq war vet who claims to have PTSD from a past life experience during the Korean War. Carolyn reconnects with a medical school colleague turned \"regression therapist.",
+        "productioncode": "",
+        "rating": 8.5,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2535,
+        "season": 1,
+        "showtitle": "Proof (2015)",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "aac",
+                    "language": "und"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7821780443191528,
+                    "codec": "avc1",
+                    "duration": 2535,
+                    "height": 404,
+                    "stereomode": "",
+                    "width": 720
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/281708/5243323.jpg",
+        "title": "Showdown",
+        "tvshowid": 105,
+        "uniqueid": {
+            "unknown": "5243323"
+        },
+        "votes": "2",
+        "writer": []
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/247897/4893639.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
+        },
+        "cast": [
+            {
+                "name": "Claire Danes",
+                "order": 0,
+                "role": "Carrie Mathison",
+                "thumbnail": "http://thetvdb.com/banners/actors/319703.jpg"
+            },
+            {
+                "name": "Damian Lewis",
+                "order": 1,
+                "role": "Nicholas Brody",
+                "thumbnail": "http://thetvdb.com/banners/actors/319706.jpg"
+            },
+            {
+                "name": "Mandy Patinkin",
+                "order": 2,
+                "role": "Saul Berenson",
+                "thumbnail": "http://thetvdb.com/banners/actors/319704.jpg"
+            },
+            {
+                "name": "Numan Acar",
+                "order": 3,
+                "role": "Haissam Haqqani",
+                "thumbnail": "http://thetvdb.com/banners/actors/341359.jpg"
+            },
+            {
+                "name": "Nimrat Kaur",
+                "order": 4,
+                "role": "Tasneem Qureshi",
+                "thumbnail": "http://thetvdb.com/banners/actors/339723.jpg"
+            },
+            {
+                "name": "Suraj Sharma",
+                "order": 5,
+                "role": "Aayan Ibrahim",
+                "thumbnail": "http://thetvdb.com/banners/actors/339722.jpg"
+            },
+            {
+                "name": "Laila Robins",
+                "order": 6,
+                "role": "Martha Boyd",
+                "thumbnail": "http://thetvdb.com/banners/actors/339721.jpg"
+            },
+            {
+                "name": "Sarita Choudhury",
+                "order": 7,
+                "role": "Mira Berenson",
+                "thumbnail": "http://thetvdb.com/banners/actors/339720.jpg"
+            },
+            {
+                "name": "Tracy Letts",
+                "order": 8,
+                "role": "Senator Andrew Lockhart",
+                "thumbnail": "http://thetvdb.com/banners/actors/339719.jpg"
+            },
+            {
+                "name": "F. Murray Abraham",
+                "order": 9,
+                "role": "Dar Adal",
+                "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
+            },
+            {
+                "name": "Nazanin Boniadi",
+                "order": 10,
+                "role": "Fara Sherazi",
+                "thumbnail": "http://thetvdb.com/banners/actors/335557.jpg"
+            },
+            {
+                "name": "Rupert Friend",
+                "order": 11,
+                "role": "Peter Quinn",
+                "thumbnail": "http://thetvdb.com/banners/actors/319950.jpg"
+            },
+            {
+                "name": "Jackson Pace",
+                "order": 12,
+                "role": "Chris Brody",
+                "thumbnail": "http://thetvdb.com/banners/actors/319949.jpg"
+            },
+            {
+                "name": "Diego Klattenhoff",
+                "order": 13,
+                "role": "Mike Faber",
+                "thumbnail": "http://thetvdb.com/banners/actors/319707.jpg"
+            },
+            {
+                "name": "David Harewood",
+                "order": 14,
+                "role": "David Estes",
+                "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
+            },
+            {
+                "name": "Morena Baccarin",
+                "order": 15,
+                "role": "Jessica Brody",
+                "thumbnail": "http://thetvdb.com/banners/actors/318686.jpg"
+            },
+            {
+                "name": "Morgan Saylor",
+                "order": 16,
+                "role": "Dana Brody",
+                "thumbnail": "http://thetvdb.com/banners/actors/289357.jpg"
+            }
+        ],
+        "dateadded": "2015-08-23 03:39:36",
+        "director": [
+            "Lesli Linka Glatter"
+        ],
+        "episode": 1,
+        "episodeid": 2018,
+        "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+        "file": "smb://Ext/Media/Serien/Homeland/Season 4/Homeland.S04E01.Bluthochzeit.GERMAN.DUBBED.BLURAYRiP.x264-SOF.mkv",
+        "firstaired": "2014-10-05",
+        "label": "4x01. The Drone Queen",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "As CIA Chief of Station in Kabul, Carrie makes a critical decision when her counterpart in Islamabad delivers urgent intelligence on a high value target. Saul struggles to adjust to his new role in the private sector.",
+        "productioncode": "",
+        "rating": 7.699999809265137,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2813,
+        "season": 4,
+        "showtitle": "Homeland",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": "ger"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7821780443191528,
+                    "codec": "h264",
+                    "duration": 2813,
+                    "height": 404,
+                    "stereomode": "",
+                    "width": 720
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/247897/4893639.jpg",
+        "title": "The Drone Queen",
+        "tvshowid": 44,
+        "uniqueid": {
+            "unknown": "4893639"
+        },
+        "votes": "58",
+        "writer": [
+            "Alex Gansa"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/292745/5197791.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/292745-g.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/292745-6.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/292745-4.jpg"
+        },
+        "cast": [
+            {
+                "name": "Oded Fehr",
+                "order": 0,
+                "role": "",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wPeeUd4AzWG0JNmS0okWsWADgps.jpg"
+            },
+            {
+                "name": "Emma Ishta",
+                "order": 0,
+                "role": "Kirsten",
+                "thumbnail": "http://thetvdb.com/banners/actors/348813.jpg"
+            },
+            {
+                "name": "Kyle Harris",
+                "order": 1,
+                "role": "Cameron",
+                "thumbnail": "http://thetvdb.com/banners/actors/348814.jpg"
+            },
+            {
+                "name": "Allison Scagliotti",
+                "order": 2,
+                "role": "Camille",
+                "thumbnail": "http://thetvdb.com/banners/actors/345354.jpg"
+            },
+            {
+                "name": "Salli Richardson-Whitfield",
+                "order": 3,
+                "role": "Maggie",
+                "thumbnail": "http://thetvdb.com/banners/actors/348816.jpg"
+            },
+            {
+                "name": "Ritesh Rajan",
+                "order": 4,
+                "role": "Linus",
+                "thumbnail": "http://thetvdb.com/banners/actors/348815.jpg"
+            }
+        ],
+        "dateadded": "2015-08-23 03:37:46",
+        "director": [
+            "Janice Cooke"
+        ],
+        "episode": 5,
+        "episodeid": 2024,
+        "fanart": "http://thetvdb.com/banners/fanart/original/292745-6.jpg",
+        "file": "smb://Ext/Media/Serien/Stitchers/Season 1/Stitchers.S01E05.HDTV.x264-2HD.mp4",
+        "firstaired": "2015-06-30",
+        "label": "1x05. The Stitcher in the Rye",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "When the algorithm for the Stitchers program turns up among thousands of classified documents hidden by a conspiracy theorist, Kirsten starts to suspect her colleagues. Meanwhile, Kirsten starts getting cryptic messages from an unexpected source.",
+        "productioncode": "",
+        "rating": 7.300000190734863,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2561,
+        "season": 1,
+        "showtitle": "Stitchers",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "aac",
+                    "language": "und"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7821780443191528,
+                    "codec": "avc1",
+                    "duration": 2561,
+                    "height": 404,
+                    "stereomode": "",
+                    "width": 720
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/292745/5197791.jpg",
+        "title": "The Stitcher in the Rye",
+        "tvshowid": 107,
+        "uniqueid": {
+            "unknown": "5197791"
+        },
+        "votes": "3",
+        "writer": [
+            "Lynne E. Litt"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/295759/5232057.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/295759-g2.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/295759-9.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/295759-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Melissa Benoist",
+                "order": 0,
+                "role": "Linda Danvers",
+                "thumbnail": "http://thetvdb.com/banners/actors/351959.jpg"
+            },
+            {
+                "name": "Chyler Leigh",
+                "order": 1,
+                "role": "Alex Danvers",
+                "thumbnail": "http://thetvdb.com/banners/actors/351960.jpg"
+            },
+            {
+                "name": "David Harewood",
+                "order": 2,
+                "role": "Hank Henshaw",
+                "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
+            },
+            {
+                "name": "Mehcad Brooks",
+                "order": 3,
+                "role": "James Olsen",
+                "thumbnail": "http://thetvdb.com/banners/actors/351964.jpg"
+            },
+            {
+                "name": "Jeremy Jordan",
+                "order": 4,
+                "role": "Winn Schott",
+                "thumbnail": "http://thetvdb.com/banners/actors/351963.jpg"
+            },
+            {
+                "name": "Calista Flockhart",
+                "order": 5,
+                "role": "Cat Grant",
+                "thumbnail": "http://thetvdb.com/banners/actors/351962.jpg"
+            }
+        ],
+        "dateadded": "2015-08-23 03:37:46",
+        "director": [
+            "Glen Winter"
+        ],
+        "episode": 1,
+        "episodeid": 2023,
+        "fanart": "http://thetvdb.com/banners/fanart/original/295759-9.jpg",
+        "file": "smb://Ext/Media/Serien/Supergirl/Season 1/Supergirl.S01E01.mp4",
+        "firstaired": "2015-10-26",
+        "label": "1x01. Pilot",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Kara at age 12 was sent from her dying home planet of Krypton to Earth, where she was taken in by the Danvers, a foster family who taught her to be careful with her extraordinary powers. After repressing said skills for more than a decade, Kara is forced to bust out her super moves in public during an unexpected disaster. Energized by her heroism for the first time in her life, she begins embracing her abilities in the name of helping the people of her city, earning herself a super moniker along the way.",
+        "productioncode": "",
+        "rating": 7.400000095367432,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2561,
+        "season": 1,
+        "showtitle": "Supergirl",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "aac",
+                    "language": "und"
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7821780443191528,
+                    "codec": "avc1",
+                    "duration": 2561,
+                    "height": 404,
+                    "stereomode": "",
+                    "width": 720
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/295759/5232057.jpg",
+        "title": "Pilot",
+        "tvshowid": 106,
+        "uniqueid": {
+            "unknown": "5232057"
+        },
+        "votes": "7",
+        "writer": []
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/267260/4521168.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/267260-g2.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/267260-1.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/267260-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Elden Henson",
+                "order": 0,
+                "role": "",
+                "thumbnail": "http://image.tmdb.org/t/p/original/o4yrwPvnttGEFKcfbjxaMnpy9TP.jpg"
+            },
+            {
+                "name": "Will Yun Lee",
+                "order": 1,
+                "role": "",
+                "thumbnail": "http://image.tmdb.org/t/p/original/orVsiiVI869TGclBba3dFGhqetp.jpg"
+            },
+            {
+                "name": "Rosalind Chao",
+                "order": 2,
+                "role": ""
+            },
+            {
+                "name": "Grace Huang",
+                "order": 3,
+                "role": "",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ywiPjy5TbCIuvAXhxlFzkRlPH0S.jpg"
+            },
+            {
+                "name": "Josh Holloway",
+                "order": 0,
+                "role": "Gabriel",
+                "thumbnail": "http://thetvdb.com/banners/actors/313366.jpg"
+            },
+            {
+                "name": "Meghan Ory",
+                "order": 1,
+                "role": "Riley Neal",
+                "thumbnail": "http://thetvdb.com/banners/actors/313368.jpg"
+            },
+            {
+                "name": "PJ Byrne",
+                "order": 2,
+                "role": "Nelson Cassidy",
+                "thumbnail": "http://thetvdb.com/banners/actors/313372.jpg"
+            },
+            {
+                "name": "Marg Helgenberger",
+                "order": 3,
+                "role": "Lillian Strand",
+                "thumbnail": "http://thetvdb.com/banners/actors/313367.jpg"
+            },
+            {
+                "name": "John Billingsley",
+                "order": 4,
+                "role": "Dr. Shenendoah Cassidy",
+                "thumbnail": "http://image.tmdb.org/t/p/original/fHQ6ecMufxLwUAbN3dX3yxFAn5d.jpg"
+            },
+            {
+                "name": "James Martinez",
+                "order": 5,
+                "role": "Gonzalo \"Gonzo\" Rodriguez",
+                "thumbnail": "http://thetvdb.com/banners/actors/313370.jpg"
+            },
+            {
+                "name": "Michael Rady",
+                "order": 6,
+                "role": "Chris Jameson",
+                "thumbnail": "http://thetvdb.com/banners/actors/313369.jpg"
+            }
+        ],
+        "dateadded": "2015-08-22 19:38:17",
+        "director": [
+            "David Semel"
+        ],
+        "episode": 1,
+        "episodeid": 1953,
+        "fanart": "http://thetvdb.com/banners/fanart/original/267260-1.jpg",
+        "file": "smb://Ext/Media/Serien/Intelligence/Season 1/Intelligence.S01E01.Pilot.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
+        "firstaired": "2014-01-07",
+        "label": "1x01. Pilot",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Gabriel and Riley must rescue a kidnapped member of CyberCom -- the man who invented the chip implanted in Gabriel's brain -- before secret technology falls into the wrong hands.",
+        "productioncode": "",
+        "rating": 7.5,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2502,
+        "season": 1,
+        "showtitle": "Intelligence (2014)",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7777780294418335,
+                    "codec": "h264",
+                    "duration": 2502,
+                    "height": 720,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/267260/4521168.jpg",
+        "title": "Pilot",
+        "tvshowid": 100,
+        "uniqueid": {
+            "unknown": "4521168"
+        },
+        "votes": "49",
+        "writer": [
+            "Michael Seitzman"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/268592/4828426.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+        },
+        "cast": [
+            {
+                "name": "Eliza Taylor",
+                "order": 0,
+                "role": "Clarke Griffin",
+                "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+            },
+            {
+                "name": "Bob Morley",
+                "order": 1,
+                "role": "Bellamy Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+            },
+            {
+                "name": "Thomas McDonell",
+                "order": 2,
+                "role": "Finn Collins",
+                "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+            },
+            {
+                "name": "Devon Bostick",
+                "order": 3,
+                "role": "Jasper Jordan",
+                "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+            },
+            {
+                "name": "Christopher Larkin",
+                "order": 4,
+                "role": "Monty Green",
+                "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+            },
+            {
+                "name": "Marie Avgeropoulos",
+                "order": 5,
+                "role": "Octavia Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+            },
+            {
+                "name": "Lindsey Morgan",
+                "order": 6,
+                "role": "Raven Reyes",
+                "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+            },
+            {
+                "name": "Steve Talley",
+                "order": 7,
+                "role": "Kyle Wick",
+                "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+            },
+            {
+                "name": "Richard Harmon",
+                "order": 8,
+                "role": "John Murphy",
+                "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+            },
+            {
+                "name": "Alycia Debnam Carey",
+                "order": 9,
+                "role": "Lexa",
+                "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+            },
+            {
+                "name": "Ricky Whittle",
+                "order": 10,
+                "role": "Lincoln",
+                "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+            },
+            {
+                "name": "Paige Turco",
+                "order": 11,
+                "role": "Abigail Walters",
+                "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+            },
+            {
+                "name": "Isaiah Washington",
+                "order": 12,
+                "role": "Thelonious Jaha",
+                "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+            },
+            {
+                "name": "Henry Ian Cusick",
+                "order": 13,
+                "role": "Marcus Kane",
+                "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+            }
+        ],
+        "dateadded": "2015-08-15 19:28:30",
+        "director": [
+            "John Behring"
+        ],
+        "episode": 9,
+        "episodeid": 2016,
+        "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+        "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E09.Der.Anschlag.German.Dubbed.BDRip.x264-ITG.mkv",
+        "firstaired": "2014-05-14",
+        "label": "1x09. Unity Day",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Clarke and Finn attempt to broker peace with the Grounders but all hell breaks loose when Bellamy, Jasper and Raven show up armed and ready for battle. Octavia and Lincoln grow closer. Meanwhile, tragedy strikes during the Unity Day celebration on the Ark.",
+        "productioncode": "",
+        "rating": 7.5,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2380,
+        "season": 1,
+        "showtitle": "The 100",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7821780443191528,
+                    "codec": "h264",
+                    "duration": 2380,
+                    "height": 404,
+                    "stereomode": "",
+                    "width": 720
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/268592/4828426.jpg",
+        "title": "Unity Day",
+        "tvshowid": 102,
+        "uniqueid": {
+            "unknown": "4828426"
+        },
+        "votes": "60",
+        "writer": [
+            "Kim Shumway",
+            "Kira Snyder"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/268592/4828425.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+        },
+        "cast": [
+            {
+                "name": "Terry Chen",
+                "order": 0,
+                "role": "",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zHmlacDItyaJ0uFmormpVeN06mU.jpg"
+            },
+            {
+                "name": "Kate Vernon",
+                "order": 1,
+                "role": ""
+            },
+            {
+                "name": "Eliza Taylor",
+                "order": 0,
+                "role": "Clarke Griffin",
+                "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+            },
+            {
+                "name": "Bob Morley",
+                "order": 1,
+                "role": "Bellamy Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+            },
+            {
+                "name": "Thomas McDonell",
+                "order": 2,
+                "role": "Finn Collins",
+                "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+            },
+            {
+                "name": "Devon Bostick",
+                "order": 3,
+                "role": "Jasper Jordan",
+                "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+            },
+            {
+                "name": "Christopher Larkin",
+                "order": 4,
+                "role": "Monty Green",
+                "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+            },
+            {
+                "name": "Marie Avgeropoulos",
+                "order": 5,
+                "role": "Octavia Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+            },
+            {
+                "name": "Lindsey Morgan",
+                "order": 6,
+                "role": "Raven Reyes",
+                "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+            },
+            {
+                "name": "Steve Talley",
+                "order": 7,
+                "role": "Kyle Wick",
+                "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+            },
+            {
+                "name": "Richard Harmon",
+                "order": 8,
+                "role": "John Murphy",
+                "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+            },
+            {
+                "name": "Alycia Debnam Carey",
+                "order": 9,
+                "role": "Lexa",
+                "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+            },
+            {
+                "name": "Ricky Whittle",
+                "order": 10,
+                "role": "Lincoln",
+                "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+            },
+            {
+                "name": "Paige Turco",
+                "order": 11,
+                "role": "Abigail Walters",
+                "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+            },
+            {
+                "name": "Isaiah Washington",
+                "order": 12,
+                "role": "Thelonious Jaha",
+                "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+            },
+            {
+                "name": "Henry Ian Cusick",
+                "order": 13,
+                "role": "Marcus Kane",
+                "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+            }
+        ],
+        "dateadded": "2015-08-15 19:26:46",
+        "director": [
+            "Matt Barber"
+        ],
+        "episode": 8,
+        "episodeid": 2015,
+        "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+        "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E08.Konfrontationen.German.Dubbed.BDRip.x264-ITG.mkv",
+        "firstaired": "2014-05-07",
+        "label": "1x08. Day Trip",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Clarke and Bellamy go on a mission to find supplies for approaching winter. Some of the 100 accidentally eat nuts with powerfully hallucinogenic properties and lose their grasp on reality. Meanwhile, Octavia seizes the opportunity to help a friend escape, and a terrifying event brings Clarke and Bellamy closer. On the Ark, Commander Shumway secretly assigns one of the 100 to kill one of his own, and the treacherous actions of Diane Sydney are revealed.",
+        "productioncode": "",
+        "rating": 7.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2434,
+        "season": 1,
+        "showtitle": "The 100",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7821780443191528,
+                    "codec": "h264",
+                    "duration": 2434,
+                    "height": 404,
+                    "stereomode": "",
+                    "width": 720
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/268592/4828425.jpg",
+        "title": "Day Trip",
+        "tvshowid": 102,
+        "uniqueid": {
+            "unknown": "4828425"
+        },
+        "votes": "61",
+        "writer": [
+            "Elizabeth Craft",
+            "Sarah Fain",
+            "Andrei Haq"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/268592/4740980.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+        },
+        "cast": [
+            {
+                "name": "Eliza Taylor",
+                "order": 0,
+                "role": "Clarke Griffin",
+                "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+            },
+            {
+                "name": "Bob Morley",
+                "order": 1,
+                "role": "Bellamy Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+            },
+            {
+                "name": "Thomas McDonell",
+                "order": 2,
+                "role": "Finn Collins",
+                "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+            },
+            {
+                "name": "Devon Bostick",
+                "order": 3,
+                "role": "Jasper Jordan",
+                "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+            },
+            {
+                "name": "Christopher Larkin",
+                "order": 4,
+                "role": "Monty Green",
+                "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+            },
+            {
+                "name": "Marie Avgeropoulos",
+                "order": 5,
+                "role": "Octavia Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+            },
+            {
+                "name": "Lindsey Morgan",
+                "order": 6,
+                "role": "Raven Reyes",
+                "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+            },
+            {
+                "name": "Steve Talley",
+                "order": 7,
+                "role": "Kyle Wick",
+                "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+            },
+            {
+                "name": "Richard Harmon",
+                "order": 8,
+                "role": "John Murphy",
+                "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+            },
+            {
+                "name": "Alycia Debnam Carey",
+                "order": 9,
+                "role": "Lexa",
+                "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+            },
+            {
+                "name": "Ricky Whittle",
+                "order": 10,
+                "role": "Lincoln",
+                "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+            },
+            {
+                "name": "Paige Turco",
+                "order": 11,
+                "role": "Abigail Walters",
+                "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+            },
+            {
+                "name": "Isaiah Washington",
+                "order": 12,
+                "role": "Thelonious Jaha",
+                "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+            },
+            {
+                "name": "Henry Ian Cusick",
+                "order": 13,
+                "role": "Marcus Kane",
+                "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+            }
+        ],
+        "dateadded": "2015-08-15 19:03:48",
+        "director": [
+            "Milan Cheylov"
+        ],
+        "episode": 5,
+        "episodeid": 2012,
+        "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+        "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E05.Ein.Licht.am.Horizont.German.Dubbed.BDRip.x264-ITG.mkv",
+        "firstaired": "2014-04-16",
+        "label": "1x05. Twilight's Last Gleaming",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Clarke’s newfound romance with Finn is threatened. Octavia suffers a blow to the head and wakes up to find a Grounder watching her. On the Ark, Abby exposes Kane’s plan to reduce the population of the Ark. Jaha and Abby notice a signal and realize at least some of the 100 must still be alive on Earth.",
+        "productioncode": "",
+        "rating": 7.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2361,
+        "season": 1,
+        "showtitle": "The 100",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7821780443191528,
+                    "codec": "h264",
+                    "duration": 2361,
+                    "height": 404,
+                    "stereomode": "",
+                    "width": 720
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/268592/4740980.jpg",
+        "title": "Twilight's Last Gleaming",
+        "tvshowid": 102,
+        "uniqueid": {
+            "unknown": "4740980"
+        },
+        "votes": "66",
+        "writer": [
+            "Bruce Miller"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/268592/4828424.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+        },
+        "cast": [
+            {
+                "name": "Eliza Taylor",
+                "order": 0,
+                "role": "Clarke Griffin",
+                "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+            },
+            {
+                "name": "Bob Morley",
+                "order": 1,
+                "role": "Bellamy Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+            },
+            {
+                "name": "Thomas McDonell",
+                "order": 2,
+                "role": "Finn Collins",
+                "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+            },
+            {
+                "name": "Devon Bostick",
+                "order": 3,
+                "role": "Jasper Jordan",
+                "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+            },
+            {
+                "name": "Christopher Larkin",
+                "order": 4,
+                "role": "Monty Green",
+                "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+            },
+            {
+                "name": "Marie Avgeropoulos",
+                "order": 5,
+                "role": "Octavia Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+            },
+            {
+                "name": "Lindsey Morgan",
+                "order": 6,
+                "role": "Raven Reyes",
+                "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+            },
+            {
+                "name": "Steve Talley",
+                "order": 7,
+                "role": "Kyle Wick",
+                "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+            },
+            {
+                "name": "Richard Harmon",
+                "order": 8,
+                "role": "John Murphy",
+                "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+            },
+            {
+                "name": "Alycia Debnam Carey",
+                "order": 9,
+                "role": "Lexa",
+                "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+            },
+            {
+                "name": "Ricky Whittle",
+                "order": 10,
+                "role": "Lincoln",
+                "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+            },
+            {
+                "name": "Paige Turco",
+                "order": 11,
+                "role": "Abigail Walters",
+                "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+            },
+            {
+                "name": "Isaiah Washington",
+                "order": 12,
+                "role": "Thelonious Jaha",
+                "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+            },
+            {
+                "name": "Henry Ian Cusick",
+                "order": 13,
+                "role": "Marcus Kane",
+                "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+            }
+        ],
+        "dateadded": "2015-08-15 19:01:37",
+        "director": [
+            "John Showalter"
+        ],
+        "episode": 7,
+        "episodeid": 2014,
+        "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+        "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E07.Der.Druck.steigt.German.Dubbed.BDRip.x264-ITG.mkv",
+        "firstaired": "2014-04-30",
+        "label": "1x07. Contents Under Pressure",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Clarke and Raven make contact with the Ark, and Abby guides Clarke through a dangerous procedure in a desperate move to save one of their own. Meanwhile, on the Ark, Abby is removed from the council, and former Chancellor Diana Sydney takes her place. Jaha reveals to Abby that there are not enough drop ships for everyone on the Ark to go down to Earth, and Kane begins to deal with his guilt over his recent decision.",
+        "productioncode": "",
+        "rating": 7.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2419,
+        "season": 1,
+        "showtitle": "The 100",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7821780443191528,
+                    "codec": "h264",
+                    "duration": 2419,
+                    "height": 404,
+                    "stereomode": "",
+                    "width": 720
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/268592/4828424.jpg",
+        "title": "Contents Under Pressure",
+        "tvshowid": 102,
+        "uniqueid": {
+            "unknown": "4828424"
+        },
+        "votes": "65",
+        "writer": [
+            "Akela Cooper",
+            "Kira Snyder"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/268592/4828423.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+        },
+        "cast": [
+            {
+                "name": "Eliza Taylor",
+                "order": 0,
+                "role": "Clarke Griffin",
+                "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+            },
+            {
+                "name": "Bob Morley",
+                "order": 1,
+                "role": "Bellamy Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+            },
+            {
+                "name": "Thomas McDonell",
+                "order": 2,
+                "role": "Finn Collins",
+                "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+            },
+            {
+                "name": "Devon Bostick",
+                "order": 3,
+                "role": "Jasper Jordan",
+                "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+            },
+            {
+                "name": "Christopher Larkin",
+                "order": 4,
+                "role": "Monty Green",
+                "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+            },
+            {
+                "name": "Marie Avgeropoulos",
+                "order": 5,
+                "role": "Octavia Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+            },
+            {
+                "name": "Lindsey Morgan",
+                "order": 6,
+                "role": "Raven Reyes",
+                "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+            },
+            {
+                "name": "Steve Talley",
+                "order": 7,
+                "role": "Kyle Wick",
+                "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+            },
+            {
+                "name": "Richard Harmon",
+                "order": 8,
+                "role": "John Murphy",
+                "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+            },
+            {
+                "name": "Alycia Debnam Carey",
+                "order": 9,
+                "role": "Lexa",
+                "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+            },
+            {
+                "name": "Ricky Whittle",
+                "order": 10,
+                "role": "Lincoln",
+                "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+            },
+            {
+                "name": "Paige Turco",
+                "order": 11,
+                "role": "Abigail Walters",
+                "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+            },
+            {
+                "name": "Isaiah Washington",
+                "order": 12,
+                "role": "Thelonious Jaha",
+                "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+            },
+            {
+                "name": "Henry Ian Cusick",
+                "order": 13,
+                "role": "Marcus Kane",
+                "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+            }
+        ],
+        "dateadded": "2015-08-15 19:00:54",
+        "director": [
+            "Wayne Rose"
+        ],
+        "episode": 6,
+        "episodeid": 2013,
+        "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+        "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E06.Ein.Sturm.zieht.German.Dubbed.BDRip.x264-ITG.mkv",
+        "firstaired": "2014-04-23",
+        "label": "1x06. His Sister's Keeper",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Bellamy leads his crew into Grounder territory as they search for Octavia. Raven can't help but notice the deep connection between Finn and Clarke. Meanwhile, flashbacks reveal Bellamy's and Octavia's childhood on the Ark.",
+        "productioncode": "",
+        "rating": 7.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2439,
+        "season": 1,
+        "showtitle": "The 100",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7821780443191528,
+                    "codec": "h264",
+                    "duration": 2439,
+                    "height": 404,
+                    "stereomode": "",
+                    "width": 720
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/268592/4828423.jpg",
+        "title": "His Sister's Keeper",
+        "tvshowid": 102,
+        "uniqueid": {
+            "unknown": "4828423"
+        },
+        "votes": "69",
+        "writer": [
+            "Tracy Bellomo",
+            "Dorothy Fortenberry"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/268592/4740979.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+        },
+        "cast": [
+            {
+                "name": "Eliza Taylor",
+                "order": 0,
+                "role": "Clarke Griffin",
+                "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+            },
+            {
+                "name": "Bob Morley",
+                "order": 1,
+                "role": "Bellamy Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+            },
+            {
+                "name": "Thomas McDonell",
+                "order": 2,
+                "role": "Finn Collins",
+                "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+            },
+            {
+                "name": "Devon Bostick",
+                "order": 3,
+                "role": "Jasper Jordan",
+                "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+            },
+            {
+                "name": "Christopher Larkin",
+                "order": 4,
+                "role": "Monty Green",
+                "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+            },
+            {
+                "name": "Marie Avgeropoulos",
+                "order": 5,
+                "role": "Octavia Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+            },
+            {
+                "name": "Lindsey Morgan",
+                "order": 6,
+                "role": "Raven Reyes",
+                "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+            },
+            {
+                "name": "Steve Talley",
+                "order": 7,
+                "role": "Kyle Wick",
+                "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+            },
+            {
+                "name": "Richard Harmon",
+                "order": 8,
+                "role": "John Murphy",
+                "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+            },
+            {
+                "name": "Alycia Debnam Carey",
+                "order": 9,
+                "role": "Lexa",
+                "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+            },
+            {
+                "name": "Ricky Whittle",
+                "order": 10,
+                "role": "Lincoln",
+                "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+            },
+            {
+                "name": "Paige Turco",
+                "order": 11,
+                "role": "Abigail Walters",
+                "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+            },
+            {
+                "name": "Isaiah Washington",
+                "order": 12,
+                "role": "Thelonious Jaha",
+                "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+            },
+            {
+                "name": "Henry Ian Cusick",
+                "order": 13,
+                "role": "Marcus Kane",
+                "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+            }
+        ],
+        "dateadded": "2015-08-15 18:47:30",
+        "director": [
+            "PJ Pesce"
+        ],
+        "episode": 4,
+        "episodeid": 2011,
+        "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+        "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E04.Murphys.Gesetz.German.Dubbed.BDRip.x264-ITG.mkv",
+        "firstaired": "2014-04-09",
+        "label": "1x04. Murphy's Law",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "After the shocking death of one of their own, Clarke and Finn grow closer as they try to figure out a way to communicate with the Ark. Bellamy must keep the group from turning on one another as life on Earth takes a desperate turn. Meanwhile, Abby risks having herself floated in order to give Raven the chance to stow-away in the escape pod bound for Earth.",
+        "productioncode": "",
+        "rating": 7.5,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 3600,
+        "season": 1,
+        "showtitle": "The 100",
+        "streamdetails": {
+            "audio": [],
+            "subtitle": [],
+            "video": []
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/268592/4740979.jpg",
+        "title": "Murphy's Law",
+        "tvshowid": 102,
+        "uniqueid": {
+            "unknown": "4740979"
+        },
+        "votes": "70",
+        "writer": [
+            "T.J. Brady",
+            "Rasheed Newson"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/268592/4735399.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+        },
+        "cast": [
+            {
+                "name": "Eliza Taylor",
+                "order": 0,
+                "role": "Clarke Griffin",
+                "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+            },
+            {
+                "name": "Bob Morley",
+                "order": 1,
+                "role": "Bellamy Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+            },
+            {
+                "name": "Thomas McDonell",
+                "order": 2,
+                "role": "Finn Collins",
+                "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+            },
+            {
+                "name": "Devon Bostick",
+                "order": 3,
+                "role": "Jasper Jordan",
+                "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+            },
+            {
+                "name": "Christopher Larkin",
+                "order": 4,
+                "role": "Monty Green",
+                "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+            },
+            {
+                "name": "Marie Avgeropoulos",
+                "order": 5,
+                "role": "Octavia Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+            },
+            {
+                "name": "Lindsey Morgan",
+                "order": 6,
+                "role": "Raven Reyes",
+                "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+            },
+            {
+                "name": "Steve Talley",
+                "order": 7,
+                "role": "Kyle Wick",
+                "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+            },
+            {
+                "name": "Richard Harmon",
+                "order": 8,
+                "role": "John Murphy",
+                "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+            },
+            {
+                "name": "Alycia Debnam Carey",
+                "order": 9,
+                "role": "Lexa",
+                "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+            },
+            {
+                "name": "Ricky Whittle",
+                "order": 10,
+                "role": "Lincoln",
+                "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+            },
+            {
+                "name": "Paige Turco",
+                "order": 11,
+                "role": "Abigail Walters",
+                "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+            },
+            {
+                "name": "Isaiah Washington",
+                "order": 12,
+                "role": "Thelonious Jaha",
+                "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+            },
+            {
+                "name": "Henry Ian Cusick",
+                "order": 13,
+                "role": "Marcus Kane",
+                "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+            }
+        ],
+        "dateadded": "2015-08-15 18:45:00",
+        "director": [
+            "Dean White"
+        ],
+        "episode": 3,
+        "episodeid": 2010,
+        "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+        "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E03.Wozu.hat.man.Freunde.German.Dubbed.BDRip.x264-ITG.mkv",
+        "firstaired": "2014-04-02",
+        "label": "1x03. Earth Kills",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "In a desperate attempt to treat Jasper’s festering wounds, Clarke, Finn and Wells set out in search of a seaweed antibiotic. Bellamy and his crew go hunting for food, and are joined by Charlotte, a lovable 13-year-old, who feels safe under Bellamy’s protection. A thick, acidic fog appears, forcing Clarke, Finn and Wells to seek shelter inside an ancient van. While they are trapped, Clarke confronts Wells on his betrayal that resulted in her father’s death.",
+        "productioncode": "",
+        "rating": 7.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 3600,
+        "season": 1,
+        "showtitle": "The 100",
+        "streamdetails": {
+            "audio": [],
+            "subtitle": [],
+            "video": []
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/268592/4735399.jpg",
+        "title": "Earth Kills",
+        "tvshowid": 102,
+        "uniqueid": {
+            "unknown": "4735399"
+        },
+        "votes": "73",
+        "writer": [
+            "Elizabeth Craft",
+            "Sarah Fain"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/268592/4735398.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+        },
+        "cast": [
+            {
+                "name": "Lindsey Morgan",
+                "order": 0,
+                "role": "",
+                "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+            },
+            {
+                "name": "Rhys Ward",
+                "order": 1,
+                "role": ""
+            },
+            {
+                "name": "Richard Harmon",
+                "order": 2,
+                "role": "",
+                "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+            },
+            {
+                "name": "Sachin Sahel",
+                "order": 3,
+                "role": ""
+            },
+            {
+                "name": "Eliza Taylor",
+                "order": 0,
+                "role": "Clarke Griffin",
+                "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+            },
+            {
+                "name": "Bob Morley",
+                "order": 1,
+                "role": "Bellamy Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+            },
+            {
+                "name": "Thomas McDonell",
+                "order": 2,
+                "role": "Finn Collins",
+                "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+            },
+            {
+                "name": "Devon Bostick",
+                "order": 3,
+                "role": "Jasper Jordan",
+                "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+            },
+            {
+                "name": "Christopher Larkin",
+                "order": 4,
+                "role": "Monty Green",
+                "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+            },
+            {
+                "name": "Marie Avgeropoulos",
+                "order": 5,
+                "role": "Octavia Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+            },
+            {
+                "name": "Steve Talley",
+                "order": 7,
+                "role": "Kyle Wick",
+                "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+            },
+            {
+                "name": "Alycia Debnam Carey",
+                "order": 9,
+                "role": "Lexa",
+                "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+            },
+            {
+                "name": "Ricky Whittle",
+                "order": 10,
+                "role": "Lincoln",
+                "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+            },
+            {
+                "name": "Paige Turco",
+                "order": 11,
+                "role": "Abigail Walters",
+                "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+            },
+            {
+                "name": "Isaiah Washington",
+                "order": 12,
+                "role": "Thelonious Jaha",
+                "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+            },
+            {
+                "name": "Henry Ian Cusick",
+                "order": 13,
+                "role": "Marcus Kane",
+                "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+            }
+        ],
+        "dateadded": "2015-08-15 18:32:20",
+        "director": [
+            "Dean White"
+        ],
+        "episode": 2,
+        "episodeid": 2009,
+        "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+        "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E02.Wir.sind.nicht.allein.German.Dubbed.BDRip.x264-ITG.mkv",
+        "firstaired": "2014-03-26",
+        "label": "1x02. Earth Skills",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Having discovered that Jasper may still be alive, Clarke, Bellamy, Octavia, Finn and Monty set out on a mission to locate their friend and are shocked at what they find. Meanwhile, on the Ark, Abby is determined to get to Earth, and enlists Raven to craft an escape pod.",
+        "productioncode": "",
+        "rating": 7.699999809265137,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 3600,
+        "season": 1,
+        "showtitle": "The 100",
+        "streamdetails": {
+            "audio": [],
+            "subtitle": [],
+            "video": []
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/268592/4735398.jpg",
+        "title": "Earth Skills",
+        "tvshowid": 102,
+        "uniqueid": {
+            "unknown": "4735398"
+        },
+        "votes": "74",
+        "writer": [
+            "Jason Rothenberg"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/268592/4543295.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/268592-g8.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/268592-9.jpg"
+        },
+        "cast": [
+            {
+                "name": "Kelly Hu",
+                "order": 0,
+                "role": "",
+                "thumbnail": "http://image.tmdb.org/t/p/original/ldIqkVNQoig6tFdF6b1ql1iylAD.jpg"
+            },
+            {
+                "name": "Terry Chen",
+                "order": 1,
+                "role": "",
+                "thumbnail": "http://image.tmdb.org/t/p/original/zHmlacDItyaJ0uFmormpVeN06mU.jpg"
+            },
+            {
+                "name": "Richard Harmon",
+                "order": 2,
+                "role": "",
+                "thumbnail": "http://thetvdb.com/banners/actors/343653.jpg"
+            },
+            {
+                "name": "Sachin Sahel",
+                "order": 3,
+                "role": ""
+            },
+            {
+                "name": "Alessandro Juliani",
+                "order": 4,
+                "role": "",
+                "thumbnail": "http://image.tmdb.org/t/p/original/eTF7C0HA5M31J9gvoupyPt3sedX.jpg"
+            },
+            {
+                "name": "Eliza Taylor",
+                "order": 0,
+                "role": "Clarke Griffin",
+                "thumbnail": "http://thetvdb.com/banners/actors/323867.jpg"
+            },
+            {
+                "name": "Bob Morley",
+                "order": 1,
+                "role": "Bellamy Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/327439.jpg"
+            },
+            {
+                "name": "Thomas McDonell",
+                "order": 2,
+                "role": "Finn Collins",
+                "thumbnail": "http://thetvdb.com/banners/actors/327447.jpg"
+            },
+            {
+                "name": "Devon Bostick",
+                "order": 3,
+                "role": "Jasper Jordan",
+                "thumbnail": "http://thetvdb.com/banners/actors/327441.jpg"
+            },
+            {
+                "name": "Christopher Larkin",
+                "order": 4,
+                "role": "Monty Green",
+                "thumbnail": "http://thetvdb.com/banners/actors/327440.jpg"
+            },
+            {
+                "name": "Marie Avgeropoulos",
+                "order": 5,
+                "role": "Octavia Blake",
+                "thumbnail": "http://thetvdb.com/banners/actors/323868.jpg"
+            },
+            {
+                "name": "Lindsey Morgan",
+                "order": 6,
+                "role": "Raven Reyes",
+                "thumbnail": "http://thetvdb.com/banners/actors/345934.jpg"
+            },
+            {
+                "name": "Steve Talley",
+                "order": 7,
+                "role": "Kyle Wick",
+                "thumbnail": "http://thetvdb.com/banners/actors/345583.jpg"
+            },
+            {
+                "name": "Alycia Debnam Carey",
+                "order": 9,
+                "role": "Lexa",
+                "thumbnail": "http://thetvdb.com/banners/actors/343652.jpg"
+            },
+            {
+                "name": "Ricky Whittle",
+                "order": 10,
+                "role": "Lincoln",
+                "thumbnail": "http://thetvdb.com/banners/actors/333230.jpg"
+            },
+            {
+                "name": "Paige Turco",
+                "order": 11,
+                "role": "Abigail Walters",
+                "thumbnail": "http://thetvdb.com/banners/actors/327446.jpg"
+            },
+            {
+                "name": "Isaiah Washington",
+                "order": 12,
+                "role": "Thelonious Jaha",
+                "thumbnail": "http://thetvdb.com/banners/actors/327444.jpg"
+            },
+            {
+                "name": "Henry Ian Cusick",
+                "order": 13,
+                "role": "Marcus Kane",
+                "thumbnail": "http://thetvdb.com/banners/actors/327443.jpg"
+            }
+        ],
+        "dateadded": "2015-08-15 18:31:03",
+        "director": [
+            "Bharat Nalluri"
+        ],
+        "episode": 1,
+        "episodeid": 2008,
+        "fanart": "http://thetvdb.com/banners/fanart/original/268592-5.jpg",
+        "file": "smb://Ext/Media/Serien/The 100/Season 1/The.100.S01E01.Die.Landung.German.Dubbed.BDRip.x264-ITG.mkv",
+        "firstaired": "2014-03-19",
+        "label": "1x01. Pilot",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Ninety-seven years ago, nuclear Armageddon decimated planet Earth, destroying civilization. The only survivors were the 400 inhabitants of 12 international space stations that were in orbit at the time. Three generations have been born in space, the survivors now number 4,000, and resources are running out on their dying \"Ark.\" Among the 100 young exiles are Clarke, the bright teenage daughter of the Ark’s chief medical officer; the daredevil Finn; the brother/sister duo of Bellamy and Octavia, whose illegal sibling status has always led them to flaunt the rules, the lighthearted Jasper and the resourceful Monty. Technologically blind to what’s happening on the planet below them, the Ark’s leaders — Clarke’s widowed mother, Abby; Chancellor Jaha; and his shadowy second in command, Kane — are faced with difficult decisions about life, death and the continued existence of the human race.",
+        "productioncode": "",
+        "rating": 7.400000095367432,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 3600,
+        "season": 1,
+        "showtitle": "The 100",
+        "streamdetails": {
+            "audio": [],
+            "subtitle": [],
+            "video": []
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/268592/4543295.jpg",
+        "title": "Pilot",
+        "tvshowid": 102,
+        "uniqueid": {
+            "unknown": "4543295"
+        },
+        "votes": "87",
+        "writer": [
+            "Jason Rothenberg"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/262414/5146545.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/262414-g3.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/262414-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Vera Farmiga",
+                "order": 0,
+                "role": "Norma Bates",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dNeyqIgD29efuzdoDFGqPZYa1Y0.jpg"
+            },
+            {
+                "name": "Freddie Highmore",
+                "order": 1,
+                "role": "Norman Bates",
+                "thumbnail": "http://thetvdb.com/banners/actors/305915.jpg"
+            },
+            {
+                "name": "Max Thieriot",
+                "order": 2,
+                "role": "Dylan Massett",
+                "thumbnail": "http://thetvdb.com/banners/actors/305917.jpg"
+            },
+            {
+                "name": "Nestor Carbonell",
+                "order": 3,
+                "role": "Sheriff Alex Romero",
+                "thumbnail": "http://thetvdb.com/banners/actors/79780.jpg"
+            },
+            {
+                "name": "Olivia Cooke",
+                "order": 4,
+                "role": "Emma Decody",
+                "thumbnail": "http://thetvdb.com/banners/actors/305916.jpg"
+            },
+            {
+                "name": "Michael Eklund",
+                "order": 5,
+                "role": "Zane Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337488.jpg"
+            },
+            {
+                "name": "Kenny Johnson",
+                "order": 6,
+                "role": "Caleb Calhoun",
+                "thumbnail": "http://thetvdb.com/banners/actors/337487.jpg"
+            },
+            {
+                "name": "Rebecca Creskoff",
+                "order": 7,
+                "role": "Christine Heldens",
+                "thumbnail": "http://thetvdb.com/banners/actors/337486.jpg"
+            },
+            {
+                "name": "Michael O'Neill",
+                "order": 8,
+                "role": "Nick Ford",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jm8iT6YrP0waMjv9ZYVvtYXd66i.jpg"
+            },
+            {
+                "name": "Kathleen Robertson",
+                "order": 9,
+                "role": "Jodi Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337484.jpg"
+            },
+            {
+                "name": "Michael Vartan",
+                "order": 10,
+                "role": "George Heldens",
+                "thumbnail": "http://image.tmdb.org/t/p/original/22ahSJZMUzedwmxVeCzofrlPVQw.jpg"
+            },
+            {
+                "name": "Paloma Kwiatkowski",
+                "order": 11,
+                "role": "Cody Brennan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337482.jpg"
+            },
+            {
+                "name": "Ian Tracey",
+                "order": 12,
+                "role": "Remo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/p2JEHCudpbZNOeNo3lYpLPOCaCD.jpg"
+            },
+            {
+                "name": "Keegan Connor Tracy",
+                "order": 13,
+                "role": "Miss Watson",
+                "thumbnail": "http://image.tmdb.org/t/p/original/LSq3wiNbQunsvUmGBeRPu0AoOM.jpg"
+            },
+            {
+                "name": "Nicola Peltz",
+                "order": 14,
+                "role": "Bradley Martin",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3NLYsEVZON71ceR01bb6gf13iRJ.jpg"
+            },
+            {
+                "name": "Mike Vogel",
+                "order": 15,
+                "role": "Deputy Zach Shelby",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
+            }
+        ],
+        "dateadded": "2015-08-09 19:45:05",
+        "director": [
+            "Ed Bianchi"
+        ],
+        "episode": 7,
+        "episodeid": 1959,
+        "fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+        "file": "smb://Ext/Media/Serien/Bates Motel/Season 3/Bates.Motel.S03E07.The.Last.Supper.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv_1.mkv",
+        "firstaired": "2015-04-20",
+        "label": "3x07. The Last Supper",
+        "lastplayed": "2015-08-22 19:43:37",
+        "originaltitle": "",
+        "playcount": 2,
+        "plot": "Norman agrees to get help. Dylan learns disturbing news about Emma's health.",
+        "productioncode": "",
+        "rating": 7.800000190734863,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2437,
+        "season": 3,
+        "showtitle": "Bates Motel",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "aac",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7777780294418335,
+                    "codec": "h264",
+                    "duration": 2437,
+                    "height": 720,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/262414/5146545.jpg",
+        "title": "The Last Supper",
+        "tvshowid": 7,
+        "uniqueid": {
+            "unknown": "5146545"
+        },
+        "votes": "4",
+        "writer": [
+            "Philip Buiser"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/262414/5146547.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/262414-g3.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/262414-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Vera Farmiga",
+                "order": 0,
+                "role": "Norma Bates",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dNeyqIgD29efuzdoDFGqPZYa1Y0.jpg"
+            },
+            {
+                "name": "Freddie Highmore",
+                "order": 1,
+                "role": "Norman Bates",
+                "thumbnail": "http://thetvdb.com/banners/actors/305915.jpg"
+            },
+            {
+                "name": "Max Thieriot",
+                "order": 2,
+                "role": "Dylan Massett",
+                "thumbnail": "http://thetvdb.com/banners/actors/305917.jpg"
+            },
+            {
+                "name": "Nestor Carbonell",
+                "order": 3,
+                "role": "Sheriff Alex Romero",
+                "thumbnail": "http://thetvdb.com/banners/actors/79780.jpg"
+            },
+            {
+                "name": "Olivia Cooke",
+                "order": 4,
+                "role": "Emma Decody",
+                "thumbnail": "http://thetvdb.com/banners/actors/305916.jpg"
+            },
+            {
+                "name": "Michael Eklund",
+                "order": 5,
+                "role": "Zane Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337488.jpg"
+            },
+            {
+                "name": "Kenny Johnson",
+                "order": 6,
+                "role": "Caleb Calhoun",
+                "thumbnail": "http://thetvdb.com/banners/actors/337487.jpg"
+            },
+            {
+                "name": "Rebecca Creskoff",
+                "order": 7,
+                "role": "Christine Heldens",
+                "thumbnail": "http://thetvdb.com/banners/actors/337486.jpg"
+            },
+            {
+                "name": "Michael O'Neill",
+                "order": 8,
+                "role": "Nick Ford",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jm8iT6YrP0waMjv9ZYVvtYXd66i.jpg"
+            },
+            {
+                "name": "Kathleen Robertson",
+                "order": 9,
+                "role": "Jodi Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337484.jpg"
+            },
+            {
+                "name": "Michael Vartan",
+                "order": 10,
+                "role": "George Heldens",
+                "thumbnail": "http://image.tmdb.org/t/p/original/22ahSJZMUzedwmxVeCzofrlPVQw.jpg"
+            },
+            {
+                "name": "Paloma Kwiatkowski",
+                "order": 11,
+                "role": "Cody Brennan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337482.jpg"
+            },
+            {
+                "name": "Ian Tracey",
+                "order": 12,
+                "role": "Remo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/p2JEHCudpbZNOeNo3lYpLPOCaCD.jpg"
+            },
+            {
+                "name": "Keegan Connor Tracy",
+                "order": 13,
+                "role": "Miss Watson",
+                "thumbnail": "http://image.tmdb.org/t/p/original/LSq3wiNbQunsvUmGBeRPu0AoOM.jpg"
+            },
+            {
+                "name": "Nicola Peltz",
+                "order": 14,
+                "role": "Bradley Martin",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3NLYsEVZON71ceR01bb6gf13iRJ.jpg"
+            },
+            {
+                "name": "Mike Vogel",
+                "order": 15,
+                "role": "Deputy Zach Shelby",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
+            }
+        ],
+        "dateadded": "2015-08-09 19:31:24",
+        "director": [
+            "Tucker Gates"
+        ],
+        "episode": 9,
+        "episodeid": 134,
+        "fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+        "file": "smb://Ext/Media/Serien/Bates Motel/Season 3/Bates.Motel.S03E09.Crazy.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
+        "firstaired": "2015-05-04",
+        "label": "3x09. Crazy",
+        "lastplayed": "2015-08-22 19:43:37",
+        "originaltitle": "",
+        "playcount": 2,
+        "plot": "Norman spends the day with a surprise visitor. Norma attempts to keep secrets from being revealed.",
+        "productioncode": "",
+        "rating": 7.800000190734863,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2357,
+        "season": 3,
+        "showtitle": "Bates Motel",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "aac",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7777780294418335,
+                    "codec": "h264",
+                    "duration": 2357,
+                    "height": 720,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/262414/5146547.jpg",
+        "title": "Crazy",
+        "tvshowid": 7,
+        "uniqueid": {
+            "unknown": "5146547"
+        },
+        "votes": "5",
+        "writer": [
+            "Steve Kornacki",
+            "Alyson Evans",
+            "Torrey Speer"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/262414/5146546.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/262414-g3.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/262414-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Vera Farmiga",
+                "order": 0,
+                "role": "Norma Bates",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dNeyqIgD29efuzdoDFGqPZYa1Y0.jpg"
+            },
+            {
+                "name": "Freddie Highmore",
+                "order": 1,
+                "role": "Norman Bates",
+                "thumbnail": "http://thetvdb.com/banners/actors/305915.jpg"
+            },
+            {
+                "name": "Max Thieriot",
+                "order": 2,
+                "role": "Dylan Massett",
+                "thumbnail": "http://thetvdb.com/banners/actors/305917.jpg"
+            },
+            {
+                "name": "Nestor Carbonell",
+                "order": 3,
+                "role": "Sheriff Alex Romero",
+                "thumbnail": "http://thetvdb.com/banners/actors/79780.jpg"
+            },
+            {
+                "name": "Olivia Cooke",
+                "order": 4,
+                "role": "Emma Decody",
+                "thumbnail": "http://thetvdb.com/banners/actors/305916.jpg"
+            },
+            {
+                "name": "Michael Eklund",
+                "order": 5,
+                "role": "Zane Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337488.jpg"
+            },
+            {
+                "name": "Kenny Johnson",
+                "order": 6,
+                "role": "Caleb Calhoun",
+                "thumbnail": "http://thetvdb.com/banners/actors/337487.jpg"
+            },
+            {
+                "name": "Rebecca Creskoff",
+                "order": 7,
+                "role": "Christine Heldens",
+                "thumbnail": "http://thetvdb.com/banners/actors/337486.jpg"
+            },
+            {
+                "name": "Michael O'Neill",
+                "order": 8,
+                "role": "Nick Ford",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jm8iT6YrP0waMjv9ZYVvtYXd66i.jpg"
+            },
+            {
+                "name": "Kathleen Robertson",
+                "order": 9,
+                "role": "Jodi Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337484.jpg"
+            },
+            {
+                "name": "Michael Vartan",
+                "order": 10,
+                "role": "George Heldens",
+                "thumbnail": "http://image.tmdb.org/t/p/original/22ahSJZMUzedwmxVeCzofrlPVQw.jpg"
+            },
+            {
+                "name": "Paloma Kwiatkowski",
+                "order": 11,
+                "role": "Cody Brennan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337482.jpg"
+            },
+            {
+                "name": "Ian Tracey",
+                "order": 12,
+                "role": "Remo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/p2JEHCudpbZNOeNo3lYpLPOCaCD.jpg"
+            },
+            {
+                "name": "Keegan Connor Tracy",
+                "order": 13,
+                "role": "Miss Watson",
+                "thumbnail": "http://image.tmdb.org/t/p/original/LSq3wiNbQunsvUmGBeRPu0AoOM.jpg"
+            },
+            {
+                "name": "Nicola Peltz",
+                "order": 14,
+                "role": "Bradley Martin",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3NLYsEVZON71ceR01bb6gf13iRJ.jpg"
+            },
+            {
+                "name": "Mike Vogel",
+                "order": 15,
+                "role": "Deputy Zach Shelby",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
+            }
+        ],
+        "dateadded": "2015-08-09 18:35:45",
+        "director": [],
+        "episode": 8,
+        "episodeid": 1960,
+        "fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+        "file": "smb://Ext/Media/Serien/Bates Motel/Season 3/Bates.Motel.S03E08.The.Pit.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
+        "firstaired": "2015-04-27",
+        "label": "3x08. The Pit",
+        "lastplayed": "2015-08-22 19:43:37",
+        "originaltitle": "",
+        "playcount": 2,
+        "plot": "Romero confronts Norma about newly learned information. Caleb and Dylan take a risky job.",
+        "productioncode": "",
+        "rating": 7.800000190734863,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2438,
+        "season": 3,
+        "showtitle": "Bates Motel",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "aac",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7777780294418335,
+                    "codec": "h264",
+                    "duration": 2438,
+                    "height": 720,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/262414/5146546.jpg",
+        "title": "The Pit",
+        "tvshowid": 7,
+        "uniqueid": {
+            "unknown": "5146546"
+        },
+        "votes": "4",
+        "writer": [
+            "Bill Balas"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/262414/5146546.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/262414-g3.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/262414-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Vera Farmiga",
+                "order": 0,
+                "role": "Norma Bates",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dNeyqIgD29efuzdoDFGqPZYa1Y0.jpg"
+            },
+            {
+                "name": "Freddie Highmore",
+                "order": 1,
+                "role": "Norman Bates",
+                "thumbnail": "http://thetvdb.com/banners/actors/305915.jpg"
+            },
+            {
+                "name": "Max Thieriot",
+                "order": 2,
+                "role": "Dylan Massett",
+                "thumbnail": "http://thetvdb.com/banners/actors/305917.jpg"
+            },
+            {
+                "name": "Nestor Carbonell",
+                "order": 3,
+                "role": "Sheriff Alex Romero",
+                "thumbnail": "http://thetvdb.com/banners/actors/79780.jpg"
+            },
+            {
+                "name": "Olivia Cooke",
+                "order": 4,
+                "role": "Emma Decody",
+                "thumbnail": "http://thetvdb.com/banners/actors/305916.jpg"
+            },
+            {
+                "name": "Michael Eklund",
+                "order": 5,
+                "role": "Zane Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337488.jpg"
+            },
+            {
+                "name": "Kenny Johnson",
+                "order": 6,
+                "role": "Caleb Calhoun",
+                "thumbnail": "http://thetvdb.com/banners/actors/337487.jpg"
+            },
+            {
+                "name": "Rebecca Creskoff",
+                "order": 7,
+                "role": "Christine Heldens",
+                "thumbnail": "http://thetvdb.com/banners/actors/337486.jpg"
+            },
+            {
+                "name": "Michael O'Neill",
+                "order": 8,
+                "role": "Nick Ford",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jm8iT6YrP0waMjv9ZYVvtYXd66i.jpg"
+            },
+            {
+                "name": "Kathleen Robertson",
+                "order": 9,
+                "role": "Jodi Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337484.jpg"
+            },
+            {
+                "name": "Michael Vartan",
+                "order": 10,
+                "role": "George Heldens",
+                "thumbnail": "http://image.tmdb.org/t/p/original/22ahSJZMUzedwmxVeCzofrlPVQw.jpg"
+            },
+            {
+                "name": "Paloma Kwiatkowski",
+                "order": 11,
+                "role": "Cody Brennan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337482.jpg"
+            },
+            {
+                "name": "Ian Tracey",
+                "order": 12,
+                "role": "Remo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/p2JEHCudpbZNOeNo3lYpLPOCaCD.jpg"
+            },
+            {
+                "name": "Keegan Connor Tracy",
+                "order": 13,
+                "role": "Miss Watson",
+                "thumbnail": "http://image.tmdb.org/t/p/original/LSq3wiNbQunsvUmGBeRPu0AoOM.jpg"
+            },
+            {
+                "name": "Nicola Peltz",
+                "order": 14,
+                "role": "Bradley Martin",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3NLYsEVZON71ceR01bb6gf13iRJ.jpg"
+            },
+            {
+                "name": "Mike Vogel",
+                "order": 15,
+                "role": "Deputy Zach Shelby",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
+            }
+        ],
+        "dateadded": "2015-08-09 18:35:45",
+        "director": [],
+        "episode": 8,
+        "episodeid": 133,
+        "fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+        "file": "smb://Ext/Media/Serien/Bates Motel/Season 3/Bates.Motel.S03E08.The.Pit.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv_1.mkv",
+        "firstaired": "2015-04-27",
+        "label": "3x08. The Pit",
+        "lastplayed": "2015-08-22 19:43:37",
+        "originaltitle": "",
+        "playcount": 2,
+        "plot": "Romero confronts Norma about newly learned information. Caleb and Dylan take a risky job.",
+        "productioncode": "",
+        "rating": 7.800000190734863,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2438,
+        "season": 3,
+        "showtitle": "Bates Motel",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "aac",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7777780294418335,
+                    "codec": "h264",
+                    "duration": 2438,
+                    "height": 720,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/262414/5146546.jpg",
+        "title": "The Pit",
+        "tvshowid": 7,
+        "uniqueid": {
+            "unknown": "5146546"
+        },
+        "votes": "4",
+        "writer": [
+            "Bill Balas"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/265766/4968250.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/265766-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Josh Hartnett",
+                "order": 0,
+                "role": "Ethan Chandler",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4c5rLeOe33DXm6ayqX1uGocumsc.jpg"
+            },
+            {
+                "name": "Eva Green",
+                "order": 1,
+                "role": "Vanessa Ives",
+                "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+            },
+            {
+                "name": "Harry Treadaway",
+                "order": 2,
+                "role": "Dr. Victor Frankenstein",
+                "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+            },
+            {
+                "name": "Timothy Dalton",
+                "order": 3,
+                "role": "Sir Malcolm",
+                "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+            },
+            {
+                "name": "Reeve Carney",
+                "order": 4,
+                "role": "Dorian Gray",
+                "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+            },
+            {
+                "name": "Helen McCrory",
+                "order": 5,
+                "role": "Evelyn Poole",
+                "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+            },
+            {
+                "name": "Simon Russell Beale",
+                "order": 6,
+                "role": "Ferdinand Lyle",
+                "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+            },
+            {
+                "name": "Sarah Greene",
+                "order": 7,
+                "role": "Hecate Poole",
+                "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+            },
+            {
+                "name": "Rory Kinnear",
+                "order": 8,
+                "role": "The Creature",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wfBmg2FVEDQCCFnjiTC3lhg1THP.jpg"
+            },
+            {
+                "name": "Danny Sapani",
+                "order": 9,
+                "role": "Sembene",
+                "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+            },
+            {
+                "name": "Billie Piper",
+                "order": 10,
+                "role": "Brona Croft",
+                "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+            }
+        ],
+        "dateadded": "2015-08-09 12:17:41",
+        "director": [
+            "James Hawes"
+        ],
+        "episode": 1,
+        "episodeid": 2004,
+        "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+        "file": "smb://Ext/Media/Serien/Penny Dreadful/Season 2/Penny.Dreadful.S02E01.GERMAN.DL.DUBBED.720p.HDTV.x264-TVP.mkv",
+        "firstaired": "2015-05-03",
+        "label": "2x01. Fresh Hell",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Vanessa Ives is barraged by an onslaught of disturbing occult images brought on by the mysterious Evelyn Poole. Because of the massacre he committed in the Mariner’s Inn, Ethan Chandler decides to leave London. Under pressure from The Creature, Dr. Frankenstein works to bring Brona back to life. After Mina’s funeral, Sir Malcolm returns to London to discover that a whole new evil is hunting Vanessa.",
+        "productioncode": "",
+        "rating": 8.100000381469727,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 3300,
+        "season": 2,
+        "showtitle": "Penny Dreadful",
+        "streamdetails": {
+            "audio": [],
+            "subtitle": [],
+            "video": []
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/265766/4968250.jpg",
+        "title": "Fresh Hell",
+        "tvshowid": 64,
+        "uniqueid": {
+            "unknown": "4968250"
+        },
+        "votes": "11",
+        "writer": [
+            "John Logan"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/265766/5101190.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/265766-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Patti LuPone",
+                "order": 0,
+                "role": "",
+                "thumbnail": "http://thetvdb.com/banners/actors/324324.jpg"
+            },
+            {
+                "name": "Ronan Vibert",
+                "order": 1,
+                "role": "",
+                "thumbnail": "http://thetvdb.com/banners/actors/299310.jpg"
+            },
+            {
+                "name": "Josh Hartnett",
+                "order": 0,
+                "role": "Ethan Chandler",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4c5rLeOe33DXm6ayqX1uGocumsc.jpg"
+            },
+            {
+                "name": "Eva Green",
+                "order": 1,
+                "role": "Vanessa Ives",
+                "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+            },
+            {
+                "name": "Harry Treadaway",
+                "order": 2,
+                "role": "Dr. Victor Frankenstein",
+                "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+            },
+            {
+                "name": "Timothy Dalton",
+                "order": 3,
+                "role": "Sir Malcolm",
+                "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+            },
+            {
+                "name": "Reeve Carney",
+                "order": 4,
+                "role": "Dorian Gray",
+                "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+            },
+            {
+                "name": "Helen McCrory",
+                "order": 5,
+                "role": "Evelyn Poole",
+                "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+            },
+            {
+                "name": "Simon Russell Beale",
+                "order": 6,
+                "role": "Ferdinand Lyle",
+                "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+            },
+            {
+                "name": "Sarah Greene",
+                "order": 7,
+                "role": "Hecate Poole",
+                "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+            },
+            {
+                "name": "Rory Kinnear",
+                "order": 8,
+                "role": "The Creature",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wfBmg2FVEDQCCFnjiTC3lhg1THP.jpg"
+            },
+            {
+                "name": "Danny Sapani",
+                "order": 9,
+                "role": "Sembene",
+                "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+            },
+            {
+                "name": "Billie Piper",
+                "order": 10,
+                "role": "Brona Croft",
+                "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+            }
+        ],
+        "dateadded": "2015-08-09 11:40:04",
+        "director": [
+            "Brian Kirk"
+        ],
+        "episode": 3,
+        "episodeid": 2006,
+        "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+        "file": "smb://Ext/Media/Serien/Penny Dreadful/Season 2/Penny.Dreadful.S02E03.GERMAN.DL.DUBBED.720p.HDTV.x264-TVP.mkv",
+        "firstaired": "2015-05-17",
+        "label": "2x03. The Nightcomers",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "In a flashback, Vanessa meets The Cut-Wife, who teaches her how to harness her powers. Isolated at her lonely cottage on the moors, The Cut-Wife quickly realizes the extent of Vanessa’s powers and warns her of the danger that lies ahead and the evil that pursues her.",
+        "productioncode": "",
+        "rating": 8.199999809265137,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 3300,
+        "season": 2,
+        "showtitle": "Penny Dreadful",
+        "streamdetails": {
+            "audio": [],
+            "subtitle": [],
+            "video": []
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/265766/5101190.jpg",
+        "title": "The Nightcomers",
+        "tvshowid": 64,
+        "uniqueid": {
+            "unknown": "5101190"
+        },
+        "votes": "10",
+        "writer": [
+            "John Logan"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/265766/5101191.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/265766-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Douglas Hodge",
+                "order": 0,
+                "role": ""
+            },
+            {
+                "name": "Sarah Greene",
+                "order": 1,
+                "role": "",
+                "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+            },
+            {
+                "name": "David Haig",
+                "order": 2,
+                "role": ""
+            },
+            {
+                "name": "Stephen Lord",
+                "order": 3,
+                "role": ""
+            },
+            {
+                "name": "Jonny Beauchamp",
+                "order": 4,
+                "role": ""
+            },
+            {
+                "name": "Ruth Gemmell",
+                "order": 5,
+                "role": ""
+            },
+            {
+                "name": "Tamsin Topolski",
+                "order": 6,
+                "role": ""
+            },
+            {
+                "name": "Josh Hartnett",
+                "order": 0,
+                "role": "Ethan Chandler",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4c5rLeOe33DXm6ayqX1uGocumsc.jpg"
+            },
+            {
+                "name": "Eva Green",
+                "order": 1,
+                "role": "Vanessa Ives",
+                "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+            },
+            {
+                "name": "Harry Treadaway",
+                "order": 2,
+                "role": "Dr. Victor Frankenstein",
+                "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+            },
+            {
+                "name": "Timothy Dalton",
+                "order": 3,
+                "role": "Sir Malcolm",
+                "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+            },
+            {
+                "name": "Reeve Carney",
+                "order": 4,
+                "role": "Dorian Gray",
+                "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+            },
+            {
+                "name": "Helen McCrory",
+                "order": 5,
+                "role": "Evelyn Poole",
+                "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+            },
+            {
+                "name": "Simon Russell Beale",
+                "order": 6,
+                "role": "Ferdinand Lyle",
+                "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+            },
+            {
+                "name": "Rory Kinnear",
+                "order": 8,
+                "role": "The Creature",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wfBmg2FVEDQCCFnjiTC3lhg1THP.jpg"
+            },
+            {
+                "name": "Danny Sapani",
+                "order": 9,
+                "role": "Sembene",
+                "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+            },
+            {
+                "name": "Billie Piper",
+                "order": 10,
+                "role": "Brona Croft",
+                "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+            }
+        ],
+        "dateadded": "2015-08-09 11:19:37",
+        "director": [
+            "Damon Thomas"
+        ],
+        "episode": 4,
+        "episodeid": 2007,
+        "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+        "file": "smb://Ext/Media/Serien/Penny Dreadful/Season 2/Penny.Dreadful.S02E04.GERMAN.DL.DUBBED.720p.HDTV.x264-TVP.mkv",
+        "firstaired": "2015-05-24",
+        "label": "2x04. Evil Spirits in Heavenly Places",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Lyle reveals that the Verbis Diablo relics tell a very dark and disturbing story that affects Vanessa; Rusk interviews the survivor of the attack at the Mariner's Inn; Hecate tries to get closer to Ethan; Angelique and Dorian's romance grows. Back at Sir Malcolm's mansion, Vanessa, Ethan, Sir Malcolm, Sembene and Lyle carry on their evening as something evil lurks within, ready to strike.",
+        "productioncode": "",
+        "rating": 7.599999904632568,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 3300,
+        "season": 2,
+        "showtitle": "Penny Dreadful",
+        "streamdetails": {
+            "audio": [],
+            "subtitle": [],
+            "video": []
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/265766/5101191.jpg",
+        "title": "Evil Spirits in Heavenly Places",
+        "tvshowid": 64,
+        "uniqueid": {
+            "unknown": "5101191"
+        },
+        "votes": "11",
+        "writer": [
+            "John Logan"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/265766/5101189.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/265766-g6.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/265766-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Douglas Hodge",
+                "order": 0,
+                "role": ""
+            },
+            {
+                "name": "Sarah Greene",
+                "order": 1,
+                "role": "",
+                "thumbnail": "http://thetvdb.com/banners/actors/349129.jpg"
+            },
+            {
+                "name": "Stephen Lord",
+                "order": 2,
+                "role": ""
+            },
+            {
+                "name": "Jonny Beauchamp",
+                "order": 3,
+                "role": ""
+            },
+            {
+                "name": "Josh Hartnett",
+                "order": 0,
+                "role": "Ethan Chandler",
+                "thumbnail": "http://image.tmdb.org/t/p/original/4c5rLeOe33DXm6ayqX1uGocumsc.jpg"
+            },
+            {
+                "name": "Eva Green",
+                "order": 1,
+                "role": "Vanessa Ives",
+                "thumbnail": "http://thetvdb.com/banners/actors/316925.jpg"
+            },
+            {
+                "name": "Harry Treadaway",
+                "order": 2,
+                "role": "Dr. Victor Frankenstein",
+                "thumbnail": "http://thetvdb.com/banners/actors/318685.jpg"
+            },
+            {
+                "name": "Timothy Dalton",
+                "order": 3,
+                "role": "Sir Malcolm",
+                "thumbnail": "http://thetvdb.com/banners/actors/317799.jpg"
+            },
+            {
+                "name": "Reeve Carney",
+                "order": 4,
+                "role": "Dorian Gray",
+                "thumbnail": "http://thetvdb.com/banners/actors/325040.jpg"
+            },
+            {
+                "name": "Helen McCrory",
+                "order": 5,
+                "role": "Evelyn Poole",
+                "thumbnail": "http://thetvdb.com/banners/actors/349131.jpg"
+            },
+            {
+                "name": "Simon Russell Beale",
+                "order": 6,
+                "role": "Ferdinand Lyle",
+                "thumbnail": "http://thetvdb.com/banners/actors/349130.jpg"
+            },
+            {
+                "name": "Rory Kinnear",
+                "order": 8,
+                "role": "The Creature",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wfBmg2FVEDQCCFnjiTC3lhg1THP.jpg"
+            },
+            {
+                "name": "Danny Sapani",
+                "order": 9,
+                "role": "Sembene",
+                "thumbnail": "http://thetvdb.com/banners/actors/318979.jpg"
+            },
+            {
+                "name": "Billie Piper",
+                "order": 10,
+                "role": "Brona Croft",
+                "thumbnail": "http://thetvdb.com/banners/actors/318961.jpg"
+            }
+        ],
+        "dateadded": "2015-08-09 11:03:30",
+        "director": [
+            "James Hawes"
+        ],
+        "episode": 2,
+        "episodeid": 2005,
+        "fanart": "http://thetvdb.com/banners/fanart/original/265766-19.jpg",
+        "file": "smb://Ext/Media/Serien/Penny Dreadful/Season 2/Penny.Dreadful.S02E02.GERMAN.DL.DUBBED.720p.HDTV.x264-TVP.mkv",
+        "firstaired": "2015-05-10",
+        "label": "2x02. Verbis Diablo",
+        "lastplayed": "",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Haunted by the witches, Vanessa seeks solace from Sir Malcolm. Scotland Yard Inspector Rusk searches for the sole survivor of the Mariner’s Inn Massacre. Evelyn Poole enchants Sir Malcolm. Dr. Frankenstein gives the re-born Brona a new identity. The Creature gets a new job. Dorian Gray meets an intriguing woman with a secret. Ferdinand Lyle reveals the disturbing backstory of the Verbis Diablo. Evelyn’s daughter, Hecate, hunts down a prize for her mother.",
+        "productioncode": "",
+        "rating": 7.800000190734863,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 3300,
+        "season": 2,
+        "showtitle": "Penny Dreadful",
+        "streamdetails": {
+            "audio": [],
+            "subtitle": [],
+            "video": []
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/265766/5101189.jpg",
+        "title": "Verbis Diablo",
+        "tvshowid": 64,
+        "uniqueid": {
+            "unknown": "5101189"
+        },
+        "votes": "11",
+        "writer": [
+            "John Logan"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/262414/5146548.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/262414-g3.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/262414-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Vera Farmiga",
+                "order": 0,
+                "role": "Norma Bates",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dNeyqIgD29efuzdoDFGqPZYa1Y0.jpg"
+            },
+            {
+                "name": "Freddie Highmore",
+                "order": 1,
+                "role": "Norman Bates",
+                "thumbnail": "http://thetvdb.com/banners/actors/305915.jpg"
+            },
+            {
+                "name": "Max Thieriot",
+                "order": 2,
+                "role": "Dylan Massett",
+                "thumbnail": "http://thetvdb.com/banners/actors/305917.jpg"
+            },
+            {
+                "name": "Nestor Carbonell",
+                "order": 3,
+                "role": "Sheriff Alex Romero",
+                "thumbnail": "http://thetvdb.com/banners/actors/79780.jpg"
+            },
+            {
+                "name": "Olivia Cooke",
+                "order": 4,
+                "role": "Emma Decody",
+                "thumbnail": "http://thetvdb.com/banners/actors/305916.jpg"
+            },
+            {
+                "name": "Michael Eklund",
+                "order": 5,
+                "role": "Zane Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337488.jpg"
+            },
+            {
+                "name": "Kenny Johnson",
+                "order": 6,
+                "role": "Caleb Calhoun",
+                "thumbnail": "http://thetvdb.com/banners/actors/337487.jpg"
+            },
+            {
+                "name": "Rebecca Creskoff",
+                "order": 7,
+                "role": "Christine Heldens",
+                "thumbnail": "http://thetvdb.com/banners/actors/337486.jpg"
+            },
+            {
+                "name": "Michael O'Neill",
+                "order": 8,
+                "role": "Nick Ford",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jm8iT6YrP0waMjv9ZYVvtYXd66i.jpg"
+            },
+            {
+                "name": "Kathleen Robertson",
+                "order": 9,
+                "role": "Jodi Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337484.jpg"
+            },
+            {
+                "name": "Michael Vartan",
+                "order": 10,
+                "role": "George Heldens",
+                "thumbnail": "http://image.tmdb.org/t/p/original/22ahSJZMUzedwmxVeCzofrlPVQw.jpg"
+            },
+            {
+                "name": "Paloma Kwiatkowski",
+                "order": 11,
+                "role": "Cody Brennan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337482.jpg"
+            },
+            {
+                "name": "Ian Tracey",
+                "order": 12,
+                "role": "Remo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/p2JEHCudpbZNOeNo3lYpLPOCaCD.jpg"
+            },
+            {
+                "name": "Keegan Connor Tracy",
+                "order": 13,
+                "role": "Miss Watson",
+                "thumbnail": "http://image.tmdb.org/t/p/original/LSq3wiNbQunsvUmGBeRPu0AoOM.jpg"
+            },
+            {
+                "name": "Nicola Peltz",
+                "order": 14,
+                "role": "Bradley Martin",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3NLYsEVZON71ceR01bb6gf13iRJ.jpg"
+            },
+            {
+                "name": "Mike Vogel",
+                "order": 15,
+                "role": "Deputy Zach Shelby",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
+            }
+        ],
+        "dateadded": "2015-08-05 22:59:16",
+        "director": [],
+        "episode": 10,
+        "episodeid": 135,
+        "fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+        "file": "smb://Ext/Media/Serien/Bates Motel/Season 3/Bates.Motel.S03E10.Psycho.GERMAN.HDTV.720p.x264-ZZGtv.mkv",
+        "firstaired": "2015-05-11",
+        "label": "3x10. Unconscious",
+        "lastplayed": "2015-08-22 19:43:37",
+        "originaltitle": "",
+        "playcount": 2,
+        "plot": "Season Finale- Norman's issues push Norma to the breaking point. Emma has an unexpected reaction to good news.",
+        "productioncode": "",
+        "rating": 8,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2494,
+        "season": 3,
+        "showtitle": "Bates Motel",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 6,
+                    "codec": "ac3",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7777780294418335,
+                    "codec": "h264",
+                    "duration": 2494,
+                    "height": 720,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/262414/5146548.jpg",
+        "title": "Unconscious",
+        "tvshowid": 7,
+        "uniqueid": {
+            "unknown": "5146548"
+        },
+        "votes": "3",
+        "writer": [
+            "Carlton Cuse",
+            "Kerry Ehrin"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/262414/5146545.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/262414-g3.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/262414-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Vera Farmiga",
+                "order": 0,
+                "role": "Norma Bates",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dNeyqIgD29efuzdoDFGqPZYa1Y0.jpg"
+            },
+            {
+                "name": "Freddie Highmore",
+                "order": 1,
+                "role": "Norman Bates",
+                "thumbnail": "http://thetvdb.com/banners/actors/305915.jpg"
+            },
+            {
+                "name": "Max Thieriot",
+                "order": 2,
+                "role": "Dylan Massett",
+                "thumbnail": "http://thetvdb.com/banners/actors/305917.jpg"
+            },
+            {
+                "name": "Nestor Carbonell",
+                "order": 3,
+                "role": "Sheriff Alex Romero",
+                "thumbnail": "http://thetvdb.com/banners/actors/79780.jpg"
+            },
+            {
+                "name": "Olivia Cooke",
+                "order": 4,
+                "role": "Emma Decody",
+                "thumbnail": "http://thetvdb.com/banners/actors/305916.jpg"
+            },
+            {
+                "name": "Michael Eklund",
+                "order": 5,
+                "role": "Zane Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337488.jpg"
+            },
+            {
+                "name": "Kenny Johnson",
+                "order": 6,
+                "role": "Caleb Calhoun",
+                "thumbnail": "http://thetvdb.com/banners/actors/337487.jpg"
+            },
+            {
+                "name": "Rebecca Creskoff",
+                "order": 7,
+                "role": "Christine Heldens",
+                "thumbnail": "http://thetvdb.com/banners/actors/337486.jpg"
+            },
+            {
+                "name": "Michael O'Neill",
+                "order": 8,
+                "role": "Nick Ford",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jm8iT6YrP0waMjv9ZYVvtYXd66i.jpg"
+            },
+            {
+                "name": "Kathleen Robertson",
+                "order": 9,
+                "role": "Jodi Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337484.jpg"
+            },
+            {
+                "name": "Michael Vartan",
+                "order": 10,
+                "role": "George Heldens",
+                "thumbnail": "http://image.tmdb.org/t/p/original/22ahSJZMUzedwmxVeCzofrlPVQw.jpg"
+            },
+            {
+                "name": "Paloma Kwiatkowski",
+                "order": 11,
+                "role": "Cody Brennan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337482.jpg"
+            },
+            {
+                "name": "Ian Tracey",
+                "order": 12,
+                "role": "Remo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/p2JEHCudpbZNOeNo3lYpLPOCaCD.jpg"
+            },
+            {
+                "name": "Keegan Connor Tracy",
+                "order": 13,
+                "role": "Miss Watson",
+                "thumbnail": "http://image.tmdb.org/t/p/original/LSq3wiNbQunsvUmGBeRPu0AoOM.jpg"
+            },
+            {
+                "name": "Nicola Peltz",
+                "order": 14,
+                "role": "Bradley Martin",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3NLYsEVZON71ceR01bb6gf13iRJ.jpg"
+            },
+            {
+                "name": "Mike Vogel",
+                "order": 15,
+                "role": "Deputy Zach Shelby",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
+            }
+        ],
+        "dateadded": "2015-07-29 21:01:30",
+        "director": [
+            "Ed Bianchi"
+        ],
+        "episode": 7,
+        "episodeid": 132,
+        "fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+        "file": "smb://Ext/Media/Serien/Bates Motel/Season 3/Bates.Motel.S03E07.The.Last.Supper.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
+        "firstaired": "2015-04-20",
+        "label": "3x07. The Last Supper",
+        "lastplayed": "2015-08-22 19:43:37",
+        "originaltitle": "",
+        "playcount": 2,
+        "plot": "Norman agrees to get help. Dylan learns disturbing news about Emma's health.",
+        "productioncode": "",
+        "rating": 7.800000190734863,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2437,
+        "season": 3,
+        "showtitle": "Bates Motel",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7777780294418335,
+                    "codec": "h264",
+                    "duration": 2437,
+                    "height": 720,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/262414/5146545.jpg",
+        "title": "The Last Supper",
+        "tvshowid": 7,
+        "uniqueid": {
+            "unknown": "5146545"
+        },
+        "votes": "4",
+        "writer": [
+            "Philip Buiser"
+        ]
+    },
+    {
+        "art": {
+            "thumb": "http://thetvdb.com/banners/episodes/262414/5114690.jpg",
+            "tvshow.banner": "http://thetvdb.com/banners/graphical/262414-g3.jpg",
+            "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+            "tvshow.poster": "http://thetvdb.com/banners/posters/262414-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Vera Farmiga",
+                "order": 0,
+                "role": "Norma Bates",
+                "thumbnail": "http://image.tmdb.org/t/p/original/dNeyqIgD29efuzdoDFGqPZYa1Y0.jpg"
+            },
+            {
+                "name": "Freddie Highmore",
+                "order": 1,
+                "role": "Norman Bates",
+                "thumbnail": "http://thetvdb.com/banners/actors/305915.jpg"
+            },
+            {
+                "name": "Max Thieriot",
+                "order": 2,
+                "role": "Dylan Massett",
+                "thumbnail": "http://thetvdb.com/banners/actors/305917.jpg"
+            },
+            {
+                "name": "Nestor Carbonell",
+                "order": 3,
+                "role": "Sheriff Alex Romero",
+                "thumbnail": "http://thetvdb.com/banners/actors/79780.jpg"
+            },
+            {
+                "name": "Olivia Cooke",
+                "order": 4,
+                "role": "Emma Decody",
+                "thumbnail": "http://thetvdb.com/banners/actors/305916.jpg"
+            },
+            {
+                "name": "Michael Eklund",
+                "order": 5,
+                "role": "Zane Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337488.jpg"
+            },
+            {
+                "name": "Kenny Johnson",
+                "order": 6,
+                "role": "Caleb Calhoun",
+                "thumbnail": "http://thetvdb.com/banners/actors/337487.jpg"
+            },
+            {
+                "name": "Rebecca Creskoff",
+                "order": 7,
+                "role": "Christine Heldens",
+                "thumbnail": "http://thetvdb.com/banners/actors/337486.jpg"
+            },
+            {
+                "name": "Michael O'Neill",
+                "order": 8,
+                "role": "Nick Ford",
+                "thumbnail": "http://image.tmdb.org/t/p/original/jm8iT6YrP0waMjv9ZYVvtYXd66i.jpg"
+            },
+            {
+                "name": "Kathleen Robertson",
+                "order": 9,
+                "role": "Jodi Morgan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337484.jpg"
+            },
+            {
+                "name": "Michael Vartan",
+                "order": 10,
+                "role": "George Heldens",
+                "thumbnail": "http://image.tmdb.org/t/p/original/22ahSJZMUzedwmxVeCzofrlPVQw.jpg"
+            },
+            {
+                "name": "Paloma Kwiatkowski",
+                "order": 11,
+                "role": "Cody Brennan",
+                "thumbnail": "http://thetvdb.com/banners/actors/337482.jpg"
+            },
+            {
+                "name": "Ian Tracey",
+                "order": 12,
+                "role": "Remo",
+                "thumbnail": "http://image.tmdb.org/t/p/original/p2JEHCudpbZNOeNo3lYpLPOCaCD.jpg"
+            },
+            {
+                "name": "Keegan Connor Tracy",
+                "order": 13,
+                "role": "Miss Watson",
+                "thumbnail": "http://image.tmdb.org/t/p/original/LSq3wiNbQunsvUmGBeRPu0AoOM.jpg"
+            },
+            {
+                "name": "Nicola Peltz",
+                "order": 14,
+                "role": "Bradley Martin",
+                "thumbnail": "http://image.tmdb.org/t/p/original/3NLYsEVZON71ceR01bb6gf13iRJ.jpg"
+            },
+            {
+                "name": "Mike Vogel",
+                "order": 15,
+                "role": "Deputy Zach Shelby",
+                "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
+            }
+        ],
+        "dateadded": "2015-07-22 00:11:12",
+        "director": [
+            "Phil Abraham"
+        ],
+        "episode": 6,
+        "episodeid": 131,
+        "fanart": "http://thetvdb.com/banners/fanart/original/262414-8.jpg",
+        "file": "smb://Ext/Media/Serien/Bates Motel/Season 3/Bates.Motel.S03E06.Norma.Louise.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
+        "firstaired": "2015-04-13",
+        "label": "3x06. Norma Louise",
+        "lastplayed": "2015-08-22 19:43:37",
+        "originaltitle": "",
+        "playcount": 2,
+        "plot": "Norma contemplates a life outside of White Pine Bay. Emma and Dylan bond while helping Norman.",
+        "productioncode": "",
+        "rating": 8.199999809265137,
+        "resume": {
+            "position": 0,
+            "total": 0
+        },
+        "runtime": 2439,
+        "season": 3,
+        "showtitle": "Bates Motel",
+        "streamdetails": {
+            "audio": [
+                {
+                    "channels": 2,
+                    "codec": "ac3",
+                    "language": ""
+                }
+            ],
+            "subtitle": [],
+            "video": [
+                {
+                    "aspect": 1.7777780294418335,
+                    "codec": "h264",
+                    "duration": 2439,
+                    "height": 720,
+                    "stereomode": "",
+                    "width": 1280
+                }
+            ]
+        },
+        "thumbnail": "http://thetvdb.com/banners/episodes/262414/5114690.jpg",
+        "title": "Norma Louise",
+        "tvshowid": 7,
+        "uniqueid": {
+            "unknown": "5114690"
+        },
+        "votes": "6",
+        "writer": [
+            "Kerry Ehrin"
+        ]
+    }
+]

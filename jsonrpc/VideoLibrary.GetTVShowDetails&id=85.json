@@ -33,7 +33,7 @@
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"252325-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/252325/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/252325-3.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Slap/",
+        "file": "smb://Ext/Media/Serien/The Slap/",
         "genre": [
             "Drama"
         ],
@@ -99,7 +99,7 @@
                 "episode": 1,
                 "episodeid": 1670,
                 "fanart": "http://thetvdb.com/banners/fanart/original/252325-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/The Slap/Season 1/The.Slap.S01E01.Hector.German.DL.AC3.5.1.Synced.BluRay.x264-GDR.mkv",
+                "file": "smb://Ext/Media/Serien/The Slap/Season 1/The.Slap.S01E01.Hector.German.DL.AC3.5.1.Synced.BluRay.x264-GDR.mkv",
                 "firstaired": "2011-10-06",
                 "label": "1x01. Hector",
                 "lastplayed": "",

@@ -6,6 +6,7 @@
 
 #main {
     height: 100%;
+    font-family: "Sarala", sans-serif;
 }
 
 #main #container {
@@ -31,6 +32,14 @@
 
 #main #content .page-margin {
     margin-top: 59px;
+}
+
+#main .button,
+#main .top-bar-section ul li > a,
+#main .tabs a,
+#main .accordion .accordion-navigation > a,
+#main h1, #main h2, #main h3, #main h4, #main h5, #main h6{
+    font-family: inherit;
 }
 
 /*********************************************************************************/
@@ -428,6 +437,10 @@
     display:inline
 }
 
+#main .normal {
+    font-family: "Marmelad", sans-serif !important;
+}
+
 /*********************************************************************************/
 /*** Global: || Poster:                                                        ***/
 /*********************************************************************************/
@@ -581,9 +594,9 @@
 /*********************************************************************************/
 
 #media-description i.play-youtube.fa-youtube-play {
-    position: relative;
-    font-size: 17px;
-    top: 1px;
+    position: absolute;
+    font-size: 18px;
+    margin-top: -1px;
     color: #d51a1a;
 }
 
@@ -734,9 +747,8 @@
 /*********************************************************************************/
 
 html {
-    font-family: sans-serif; /* 1 */
-    -ms-text-size-adjust: 100%; /* 2 */
-    -webkit-text-size-adjust: 100%; /* 2 */
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -802,6 +814,24 @@ td, th {
 
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
     display: none !important;
+}
+
+/*********************************************************************************/
+/*** Global: || Fonts                                                          ***/
+/*********************************************************************************/
+
+@font-face {
+    font-family: "Marmelad";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Marmelad"), url("../font/Marmelad-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Sarala";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Sarala"), url("../font/Sarala-Regular.ttf") format("truetype");
 }
 
 /*********************************************************************************/

@@ -10,7 +10,7 @@
                 "name": "Tom Riley",
                 "order": 0,
                 "role": "Leonardo Da Vinci",
-                "thumbnail": "http://thetvdb.com/banners/actors/327223.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/1mF35RKhcOCjDtG9RRtMXQ7Evrd.jpg"
             },
             {
                 "name": "Laura Haddock",
@@ -34,7 +34,7 @@
                 "name": "Kieran Bew",
                 "order": 4,
                 "role": "Duke Alfonso",
-                "thumbnail": "http://thetvdb.com/banners/actors/341744.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/7M8zEhrRMEKwOij0rrUDV9t70FT.jpg"
             },
             {
                 "name": "Jeany Spark",
@@ -94,14 +94,14 @@
                 "name": "Alexander Siddig",
                 "order": 14,
                 "role": "Al-Rahim",
-                "thumbnail": "http://thetvdb.com/banners/actors/348353.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/8siT9u88QIdybk45RAbZWlyxk6u.jpg"
             }
         ],
         "dateadded": "2013-04-17 22:42:18",
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"259669-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/259669/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/259669-7.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Da Vinci's Demons/",
+        "file": "smb://Ext/Media/Serien/Da Vinci's Demons/",
         "genre": [
             "Adventure",
             "Drama",
@@ -224,7 +224,7 @@
                         "name": "Tom Riley",
                         "order": 0,
                         "role": "Leonardo Da Vinci",
-                        "thumbnail": "http://thetvdb.com/banners/actors/327223.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/1mF35RKhcOCjDtG9RRtMXQ7Evrd.jpg"
                     },
                     {
                         "name": "Laura Haddock",
@@ -248,7 +248,7 @@
                         "name": "Kieran Bew",
                         "order": 4,
                         "role": "Duke Alfonso",
-                        "thumbnail": "http://thetvdb.com/banners/actors/341744.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/7M8zEhrRMEKwOij0rrUDV9t70FT.jpg"
                     },
                     {
                         "name": "Jeany Spark",
@@ -308,7 +308,7 @@
                         "name": "Alexander Siddig",
                         "order": 14,
                         "role": "Al-Rahim",
-                        "thumbnail": "http://thetvdb.com/banners/actors/348353.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8siT9u88QIdybk45RAbZWlyxk6u.jpg"
                     }
                 ],
                 "dateadded": "2013-04-17 22:42:18",
@@ -318,7 +318,7 @@
                 "episode": 1,
                 "episodeid": 272,
                 "fanart": "http://thetvdb.com/banners/fanart/original/259669-7.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Da Vinci's Demons/Season 1/Da.Vincis.Demons.S01E01.Der.Gehaengte.GERMAN.DUBBED.DL.720p.HDTV.x264-TVP.mkv",
+                "file": "smb://Ext/Media/Serien/Da Vinci's Demons/Season 1/Da.Vincis.Demons.S01E01.Der.Gehaengte.GERMAN.DUBBED.DL.720p.HDTV.x264-TVP.mkv",
                 "firstaired": "2013-04-12",
                 "label": "1x01. The Hanged Man",
                 "lastplayed": "",

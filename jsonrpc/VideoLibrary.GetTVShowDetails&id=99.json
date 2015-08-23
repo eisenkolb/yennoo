@@ -1,0 +1,916 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/246281-g2.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+            "poster": "http://thetvdb.com/banners/posters/246281-1.jpg"
+        },
+        "cast": [
+            {
+                "name": "Amy Price-Francis",
+                "order": 0,
+                "role": "Detective Sergeant Jessica King",
+                "thumbnail": "http://thetvdb.com/banners/actors/283518.jpg"
+            },
+            {
+                "name": "Alan Van Sprang",
+                "order": 1,
+                "role": "Detective Sergeant Derek Spears",
+                "thumbnail": "http://thetvdb.com/banners/actors/283520.jpg"
+            },
+            {
+                "name": "Gabriel Hogan",
+                "order": 2,
+                "role": "Detective Danny Sless",
+                "thumbnail": "http://thetvdb.com/banners/actors/283519.jpg"
+            },
+            {
+                "name": "Tony Nardi",
+                "order": 3,
+                "role": "Police Chief Peter Graci",
+                "thumbnail": "http://thetvdb.com/banners/actors/283521.jpg"
+            },
+            {
+                "name": "Rossif Sutherland",
+                "order": 4,
+                "role": "Martin Carr",
+                "thumbnail": "http://thetvdb.com/banners/actors/295217.jpg"
+            },
+            {
+                "name": "Karen Robinson",
+                "order": 5,
+                "role": "Ingrid Evans",
+                "thumbnail": "http://thetvdb.com/banners/actors/295216.jpg"
+            },
+            {
+                "name": "Romina D’Ugo",
+                "order": 6,
+                "role": "Alessandra Taylor",
+                "thumbnail": "http://thetvdb.com/banners/actors/295215.jpg"
+            },
+            {
+                "name": "Aaron Poole",
+                "order": 7,
+                "role": "Detective Jason Collier",
+                "thumbnail": "http://thetvdb.com/banners/actors/283524.jpg"
+            },
+            {
+                "name": "Zoe Doyle",
+                "order": 8,
+                "role": "Detective MK Gordon",
+                "thumbnail": "http://thetvdb.com/banners/actors/283523.jpg"
+            },
+            {
+                "name": "Ari Cohen",
+                "order": 18,
+                "role": "Jim Lowell"
+            },
+            {
+                "name": "Suzanne Coy",
+                "order": 19,
+                "role": "Officer Eleni Demaris"
+            }
+        ],
+        "dateadded": "2012-11-30 17:23:08",
+        "episode": 7,
+        "episodeguide": "<episodeguide><url cache=\"246281-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/246281/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+        "file": "smb://Ext/Media/Serien/King/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "imdbnumber": "246281",
+        "label": "King (2011)",
+        "lastplayed": "",
+        "mpaa": "TV-PG",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Sergeant Detective Jessica King – Jess for short – survived eight years in Homicide, three motorcycle accidents, two marriages and every shoe style since the 90s. Will she survive her new job as head of the Major Crimes Task Force? Jess is a powerhouse and a force of nature, a cop who sees things that everyone else misses. She says what she thinks, and she never stops thinking – about a crime scene, about evidence, about the motivations of the suspects. Professionally and in private, Jess faces two challenges: to save her third marriage and to prove that she’s the best cop in town.\r\nJess’ unit takes over cases already in progress: murder, rape, robbery, gang violence, serial crime – the most volatile and challenging cases that the ordinary police force has failed to solve. Jess can take over any case in the city, whether the original investigating officers want her to or not. She gets to work with a different squad in every case – from the elite Homicide department to the intimidating hulks of Hold-Up, and from the rock-star heroes of the Drug Squad to the shadowy denizens of Organized Crime.",
+        "premiered": "2011-04-17",
+        "rating": 8.399999618530273,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Showcase (CA)"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/246281-1.jpg",
+        "title": "King (2011)",
+        "tvshowid": 99,
+        "votes": "10",
+        "watchedepisodes": 0,
+        "year": 2011
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/246281/4042421.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/246281-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/246281-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Amy Price-Francis",
+                        "order": 0,
+                        "role": "Detective Sergeant Jessica King",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283518.jpg"
+                    },
+                    {
+                        "name": "Alan Van Sprang",
+                        "order": 1,
+                        "role": "Detective Sergeant Derek Spears",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283520.jpg"
+                    },
+                    {
+                        "name": "Gabriel Hogan",
+                        "order": 2,
+                        "role": "Detective Danny Sless",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283519.jpg"
+                    },
+                    {
+                        "name": "Tony Nardi",
+                        "order": 3,
+                        "role": "Police Chief Peter Graci",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283521.jpg"
+                    },
+                    {
+                        "name": "Rossif Sutherland",
+                        "order": 4,
+                        "role": "Martin Carr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295217.jpg"
+                    },
+                    {
+                        "name": "Karen Robinson",
+                        "order": 5,
+                        "role": "Ingrid Evans",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295216.jpg"
+                    },
+                    {
+                        "name": "Romina D’Ugo",
+                        "order": 6,
+                        "role": "Alessandra Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295215.jpg"
+                    },
+                    {
+                        "name": "Aaron Poole",
+                        "order": 7,
+                        "role": "Detective Jason Collier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283524.jpg"
+                    },
+                    {
+                        "name": "Zoe Doyle",
+                        "order": 8,
+                        "role": "Detective MK Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283523.jpg"
+                    },
+                    {
+                        "name": "Ari Cohen",
+                        "order": 18,
+                        "role": "Jim Lowell"
+                    },
+                    {
+                        "name": "Suzanne Coy",
+                        "order": 19,
+                        "role": "Officer Eleni Demaris"
+                    }
+                ],
+                "dateadded": "2012-11-12 20:06:12",
+                "director": [
+                    "Clark Johnson"
+                ],
+                "episode": 1,
+                "episodeid": 1946,
+                "fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                "file": "smb://Ext/Media/Serien/King/Season 1/King.S01E01.Neue.Schuhe.German.Dubbed.DL.iTunesHD.XviD-4SJ.mp4",
+                "firstaired": "2011-04-17",
+                "label": "1x01. Lori Gilbert",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Detective Jess King must find a missing girl and prove to Chief Graci that she can handle her new job as head of the Major Crimes Task Force.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "King (2011)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/246281/4042421.jpg",
+                "title": "Lori Gilbert",
+                "tvshowid": 99,
+                "uniqueid": {
+                    "unknown": "4042421"
+                },
+                "votes": "13",
+                "writer": [
+                    "Greg Spottiswood"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/246281/4079789.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/246281-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/246281-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Amy Price-Francis",
+                        "order": 0,
+                        "role": "Detective Sergeant Jessica King",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283518.jpg"
+                    },
+                    {
+                        "name": "Alan Van Sprang",
+                        "order": 1,
+                        "role": "Detective Sergeant Derek Spears",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283520.jpg"
+                    },
+                    {
+                        "name": "Gabriel Hogan",
+                        "order": 2,
+                        "role": "Detective Danny Sless",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283519.jpg"
+                    },
+                    {
+                        "name": "Tony Nardi",
+                        "order": 3,
+                        "role": "Police Chief Peter Graci",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283521.jpg"
+                    },
+                    {
+                        "name": "Rossif Sutherland",
+                        "order": 4,
+                        "role": "Martin Carr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295217.jpg"
+                    },
+                    {
+                        "name": "Karen Robinson",
+                        "order": 5,
+                        "role": "Ingrid Evans",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295216.jpg"
+                    },
+                    {
+                        "name": "Romina D’Ugo",
+                        "order": 6,
+                        "role": "Alessandra Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295215.jpg"
+                    },
+                    {
+                        "name": "Aaron Poole",
+                        "order": 7,
+                        "role": "Detective Jason Collier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283524.jpg"
+                    },
+                    {
+                        "name": "Zoe Doyle",
+                        "order": 8,
+                        "role": "Detective MK Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283523.jpg"
+                    },
+                    {
+                        "name": "Ari Cohen",
+                        "order": 18,
+                        "role": "Jim Lowell"
+                    },
+                    {
+                        "name": "Suzanne Coy",
+                        "order": 19,
+                        "role": "Officer Eleni Demaris"
+                    }
+                ],
+                "dateadded": "2012-11-15 21:19:14",
+                "director": [
+                    "Clark Johnson"
+                ],
+                "episode": 2,
+                "episodeid": 1947,
+                "fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                "file": "smb://Ext/Media/Serien/King/Season 1/King.S01E02.Scheintot.GERMAN.Dubbed.720p.HDTV.x264-idTV.mp4",
+                "firstaired": "2011-04-24",
+                "label": "1x02. T-Bone",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Homicide is trying to convict two major drug traffickers, the Barrata Brothers, of murder. But when the Drug Squad nails a wise guy named DeMarco for possession, they unwittingly take Homicide's only lead off the streets. Graci hands the mess to Jess, ordering her to solve the murders and bring peace to the cop shop. At the Don Jail, Jess identifies DeMarco's unlikely confidante, a biker named T-Bone, and promises him a break on his own assault sentence if he agrees to act as an undercover agent for the police. Jess puts her trust in her volatile informant, but when T-Bone goes AWOL, he jeopardizes the case and Jess’ reputation.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "King (2011)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/246281/4079789.jpg",
+                "title": "T-Bone",
+                "tvshowid": 99,
+                "uniqueid": {
+                    "unknown": "4079789"
+                },
+                "votes": "10",
+                "writer": [
+                    "David Barlow"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/246281/4080704.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/246281-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/246281-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Amy Price-Francis",
+                        "order": 0,
+                        "role": "Detective Sergeant Jessica King",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283518.jpg"
+                    },
+                    {
+                        "name": "Alan Van Sprang",
+                        "order": 1,
+                        "role": "Detective Sergeant Derek Spears",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283520.jpg"
+                    },
+                    {
+                        "name": "Gabriel Hogan",
+                        "order": 2,
+                        "role": "Detective Danny Sless",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283519.jpg"
+                    },
+                    {
+                        "name": "Tony Nardi",
+                        "order": 3,
+                        "role": "Police Chief Peter Graci",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283521.jpg"
+                    },
+                    {
+                        "name": "Rossif Sutherland",
+                        "order": 4,
+                        "role": "Martin Carr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295217.jpg"
+                    },
+                    {
+                        "name": "Karen Robinson",
+                        "order": 5,
+                        "role": "Ingrid Evans",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295216.jpg"
+                    },
+                    {
+                        "name": "Romina D’Ugo",
+                        "order": 6,
+                        "role": "Alessandra Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295215.jpg"
+                    },
+                    {
+                        "name": "Aaron Poole",
+                        "order": 7,
+                        "role": "Detective Jason Collier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283524.jpg"
+                    },
+                    {
+                        "name": "Zoe Doyle",
+                        "order": 8,
+                        "role": "Detective MK Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283523.jpg"
+                    },
+                    {
+                        "name": "Ari Cohen",
+                        "order": 18,
+                        "role": "Jim Lowell"
+                    },
+                    {
+                        "name": "Suzanne Coy",
+                        "order": 19,
+                        "role": "Officer Eleni Demaris"
+                    }
+                ],
+                "dateadded": "2012-11-21 18:49:32",
+                "director": [
+                    "Jerry Ciccoritti"
+                ],
+                "episode": 3,
+                "episodeid": 1948,
+                "fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                "file": "smb://Ext/Media/Serien/King/Season 1/King.S01E03.Pseudonym.GERMAN.Dubbed.720p.HDTV.x264-idTV.mp4",
+                "firstaired": "2011-05-01",
+                "label": "1x03. Amanda Jacobs",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Detective Jenny Hicks refutes Amanda Jacobs’ claim that she was brutally raped by the Riverdale Rapist, Amanda sues the Police Services.  Enter Jess King, ordered to investigate the Amanda Jacobs case while the Sex Crimes Unit continues to investigate the Riverdale Rapist. Jess believes Amanda and takes over both cases, to the ire of Hicks, who quits the Service.  And new evidence suggests Amanda's rapist is far more sinister and much closer to home.  The Major Crimes Task Force is pushed to its limits in bringing a serial predator to justice.",
+                "productioncode": "",
+                "rating": 7.599999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "King (2011)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/246281/4080704.jpg",
+                "title": "Amanda Jacobs",
+                "tvshowid": 99,
+                "uniqueid": {
+                    "unknown": "4080704"
+                },
+                "votes": "10",
+                "writer": [
+                    "Emily Andras",
+                    "Alex Levine"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/246281/4086936.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/246281-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/246281-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Amy Price-Francis",
+                        "order": 0,
+                        "role": "Detective Sergeant Jessica King",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283518.jpg"
+                    },
+                    {
+                        "name": "Alan Van Sprang",
+                        "order": 1,
+                        "role": "Detective Sergeant Derek Spears",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283520.jpg"
+                    },
+                    {
+                        "name": "Gabriel Hogan",
+                        "order": 2,
+                        "role": "Detective Danny Sless",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283519.jpg"
+                    },
+                    {
+                        "name": "Tony Nardi",
+                        "order": 3,
+                        "role": "Police Chief Peter Graci",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283521.jpg"
+                    },
+                    {
+                        "name": "Rossif Sutherland",
+                        "order": 4,
+                        "role": "Martin Carr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295217.jpg"
+                    },
+                    {
+                        "name": "Karen Robinson",
+                        "order": 5,
+                        "role": "Ingrid Evans",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295216.jpg"
+                    },
+                    {
+                        "name": "Romina D’Ugo",
+                        "order": 6,
+                        "role": "Alessandra Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295215.jpg"
+                    },
+                    {
+                        "name": "Aaron Poole",
+                        "order": 7,
+                        "role": "Detective Jason Collier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283524.jpg"
+                    },
+                    {
+                        "name": "Zoe Doyle",
+                        "order": 8,
+                        "role": "Detective MK Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283523.jpg"
+                    },
+                    {
+                        "name": "Ari Cohen",
+                        "order": 18,
+                        "role": "Jim Lowell"
+                    },
+                    {
+                        "name": "Suzanne Coy",
+                        "order": 19,
+                        "role": "Officer Eleni Demaris"
+                    }
+                ],
+                "dateadded": "2012-11-21 18:50:14",
+                "director": [
+                    "Holly Dale"
+                ],
+                "episode": 4,
+                "episodeid": 1949,
+                "fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                "file": "smb://Ext/Media/Serien/King/Season 1/King.S01E04.Koma.GERMAN.Dubbed.720p.HDTV.x264-idTV.mp4",
+                "firstaired": "2011-05-08",
+                "label": "1x04. Eleni Demaris",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When Detective Eleni Demaris interrupts a home invasion in progress, she’s beaten into a coma, and Jess will stop at nothing to avenge her friend.  But according to Graci, she’ll have to work with Detective Ray Arnold – a member of Toronto's notorious Robbery squad – to do it.  Robbery squad members are known for their violent tendencies and sloppy work ethic, and Ray is no exception.  Ray zeroes in on an ex-con with an eerily similar modus operandi, but Jess fears Ray’s tunnel vision is compromising the investigation. As victims pile up, Jess and Ray must find a way to work together to catch a ruthless criminal with nothing to lose.",
+                "productioncode": "",
+                "rating": 7.099999904632568,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "King (2011)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/246281/4086936.jpg",
+                "title": "Eleni Demaris",
+                "tvshowid": 99,
+                "uniqueid": {
+                    "unknown": "4086936"
+                },
+                "votes": "9",
+                "writer": [
+                    "Sara B. Cooper"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/246281/4096886.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/246281-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/246281-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Amy Price-Francis",
+                        "order": 0,
+                        "role": "Detective Sergeant Jessica King",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283518.jpg"
+                    },
+                    {
+                        "name": "Alan Van Sprang",
+                        "order": 1,
+                        "role": "Detective Sergeant Derek Spears",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283520.jpg"
+                    },
+                    {
+                        "name": "Gabriel Hogan",
+                        "order": 2,
+                        "role": "Detective Danny Sless",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283519.jpg"
+                    },
+                    {
+                        "name": "Tony Nardi",
+                        "order": 3,
+                        "role": "Police Chief Peter Graci",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283521.jpg"
+                    },
+                    {
+                        "name": "Rossif Sutherland",
+                        "order": 4,
+                        "role": "Martin Carr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295217.jpg"
+                    },
+                    {
+                        "name": "Karen Robinson",
+                        "order": 5,
+                        "role": "Ingrid Evans",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295216.jpg"
+                    },
+                    {
+                        "name": "Romina D’Ugo",
+                        "order": 6,
+                        "role": "Alessandra Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295215.jpg"
+                    },
+                    {
+                        "name": "Aaron Poole",
+                        "order": 7,
+                        "role": "Detective Jason Collier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283524.jpg"
+                    },
+                    {
+                        "name": "Zoe Doyle",
+                        "order": 8,
+                        "role": "Detective MK Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283523.jpg"
+                    },
+                    {
+                        "name": "Ari Cohen",
+                        "order": 18,
+                        "role": "Jim Lowell"
+                    },
+                    {
+                        "name": "Suzanne Coy",
+                        "order": 19,
+                        "role": "Officer Eleni Demaris"
+                    }
+                ],
+                "dateadded": "2012-11-21 18:50:46",
+                "director": [
+                    "T.W. Peacocke"
+                ],
+                "episode": 5,
+                "episodeid": 1950,
+                "fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                "file": "smb://Ext/Media/Serien/King/Season 1/King.S01E05.Im.Visier.GERMAN.Dubbed.720p.HDTV.x264-idTV.mp4",
+                "firstaired": "2011-05-15",
+                "label": "1x05. Farah Elliot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Jess King is aghast when she discovers her nemesis, Seymour Keegan, a vicious serial predator, is back in town and targeting a new victim. Jess knows Seymour killed a teen girl five years ago but she didn't have enough evidence to convict. Jess tries and fails to trap her Moby Dick in a sting, but when she turns up nothing but circumstantial evidence, Graci takes Jess off the case. Or so he thinks. Jess goes rogue and tracks Seymour on her own using her team and some questionable tactics. Seymour loves the attention, and that’s when Jess makes the connection - he's a clinical narcissist and he’s taunting her. When another girl goes missing, Jess must rein in her obsession in order to save her before it's too late.",
+                "productioncode": "",
+                "rating": 7.300000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "King (2011)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/246281/4096886.jpg",
+                "title": "Farah Elliot",
+                "tvshowid": 99,
+                "uniqueid": {
+                    "unknown": "4096886"
+                },
+                "votes": "7",
+                "writer": [
+                    "Emily Andras"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/246281/4096889.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/246281-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/246281-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Amy Price-Francis",
+                        "order": 0,
+                        "role": "Detective Sergeant Jessica King",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283518.jpg"
+                    },
+                    {
+                        "name": "Alan Van Sprang",
+                        "order": 1,
+                        "role": "Detective Sergeant Derek Spears",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283520.jpg"
+                    },
+                    {
+                        "name": "Gabriel Hogan",
+                        "order": 2,
+                        "role": "Detective Danny Sless",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283519.jpg"
+                    },
+                    {
+                        "name": "Tony Nardi",
+                        "order": 3,
+                        "role": "Police Chief Peter Graci",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283521.jpg"
+                    },
+                    {
+                        "name": "Rossif Sutherland",
+                        "order": 4,
+                        "role": "Martin Carr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295217.jpg"
+                    },
+                    {
+                        "name": "Karen Robinson",
+                        "order": 5,
+                        "role": "Ingrid Evans",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295216.jpg"
+                    },
+                    {
+                        "name": "Romina D’Ugo",
+                        "order": 6,
+                        "role": "Alessandra Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295215.jpg"
+                    },
+                    {
+                        "name": "Aaron Poole",
+                        "order": 7,
+                        "role": "Detective Jason Collier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283524.jpg"
+                    },
+                    {
+                        "name": "Zoe Doyle",
+                        "order": 8,
+                        "role": "Detective MK Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283523.jpg"
+                    },
+                    {
+                        "name": "Ari Cohen",
+                        "order": 18,
+                        "role": "Jim Lowell"
+                    },
+                    {
+                        "name": "Suzanne Coy",
+                        "order": 19,
+                        "role": "Officer Eleni Demaris"
+                    }
+                ],
+                "dateadded": "2012-11-30 17:22:43",
+                "director": [
+                    "Don McBrearty"
+                ],
+                "episode": 6,
+                "episodeid": 1951,
+                "fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                "file": "smb://Ext/Media/Serien/King/Season 1/King.S01E06.Kaltbluetig.GERMAN.Dubbed.720p.HDTV.x264-idTV.mp4",
+                "firstaired": "2011-05-22",
+                "label": "1x06. Ahmad Khan",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Ahmad, the bright star of the University’s Bio Chem department, was also an observant Muslim, and his violent murder has all the makings of a hate crime. But when Jess discovers Ahmad was secretly gay, the case becomes more complicated. To make matters worse, the murderer seems to delight in misleading the police, leaving Jess to wonder:  is this a hate crime at all, or an elaborate cover up?  Jess navigates the ambitious and cutthroat world of academia, squaring off with a brilliant sociopath who just might have committed the perfect murder.",
+                "productioncode": "",
+                "rating": 7.400000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "King (2011)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/246281/4096889.jpg",
+                "title": "Ahmad Khan",
+                "tvshowid": 99,
+                "uniqueid": {
+                    "unknown": "4096889"
+                },
+                "votes": "9",
+                "writer": [
+                    "Jennifer Kennedy",
+                    "David Barlow"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/246281/4104426.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/246281-g2.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/246281-1.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Amy Price-Francis",
+                        "order": 0,
+                        "role": "Detective Sergeant Jessica King",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283518.jpg"
+                    },
+                    {
+                        "name": "Alan Van Sprang",
+                        "order": 1,
+                        "role": "Detective Sergeant Derek Spears",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283520.jpg"
+                    },
+                    {
+                        "name": "Gabriel Hogan",
+                        "order": 2,
+                        "role": "Detective Danny Sless",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283519.jpg"
+                    },
+                    {
+                        "name": "Tony Nardi",
+                        "order": 3,
+                        "role": "Police Chief Peter Graci",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283521.jpg"
+                    },
+                    {
+                        "name": "Rossif Sutherland",
+                        "order": 4,
+                        "role": "Martin Carr",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295217.jpg"
+                    },
+                    {
+                        "name": "Karen Robinson",
+                        "order": 5,
+                        "role": "Ingrid Evans",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295216.jpg"
+                    },
+                    {
+                        "name": "Romina D’Ugo",
+                        "order": 6,
+                        "role": "Alessandra Taylor",
+                        "thumbnail": "http://thetvdb.com/banners/actors/295215.jpg"
+                    },
+                    {
+                        "name": "Aaron Poole",
+                        "order": 7,
+                        "role": "Detective Jason Collier",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283524.jpg"
+                    },
+                    {
+                        "name": "Zoe Doyle",
+                        "order": 8,
+                        "role": "Detective MK Gordon",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283523.jpg"
+                    },
+                    {
+                        "name": "Ari Cohen",
+                        "order": 18,
+                        "role": "Jim Lowell"
+                    },
+                    {
+                        "name": "Suzanne Coy",
+                        "order": 19,
+                        "role": "Officer Eleni Demaris"
+                    }
+                ],
+                "dateadded": "2012-11-30 17:23:08",
+                "director": [
+                    "Phil Earnshaw"
+                ],
+                "episode": 7,
+                "episodeid": 1952,
+                "fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                "file": "smb://Ext/Media/Serien/King/Season 1/King.S01E07.Im.Kreuzfeuer.GERMAN.Dubbed.720p.HDTV.x264-idTV.mp4",
+                "firstaired": "2011-05-29",
+                "label": "1x07. Cameron Bell",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When a video of Danny's partner, Jim Perry, beating his Confidential Informant is caught on tape and televised, Danny and Perry are suspended. Graci has Jess take over their ongoing investigation: the shooting of Scott Flanigan, an innocent bystander caught in gang crossfire at a skating rink. But when Jess discovers that Flanigan was actually the target of the shooting, the case blows open. Digging deeper to find a motive, Jess suspects the killer used the gang's notorious rivalry as a decoy for a crime of passion.",
+                "productioncode": "",
+                "rating": 7.199999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "King (2011)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/246281/4104426.jpg",
+                "title": "Cameron Bell",
+                "tvshowid": 99,
+                "uniqueid": {
+                    "unknown": "4104426"
+                },
+                "votes": "6",
+                "writer": [
+                    "Alex Levine"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/246281-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/246281-g2.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/246281-1.jpg"
+            },
+            "episode": 7,
+            "fanart": "http://thetvdb.com/banners/fanart/original/246281-6.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 534,
+            "showtitle": "King (2011)",
+            "thumbnail": "http://thetvdb.com/banners/seasons/246281-1.jpg",
+            "tvshowid": 99,
+            "watchedepisodes": 0
+        }
+    ]
+}

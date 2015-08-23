@@ -3,7 +3,7 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/79275-g.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/79275-1.jpg",
-            "poster": "http://thetvdb.com/banners/posters/79275-3.jpg"
+            "poster": "http://thetvdb.com/banners/posters/79275-5.jpg"
         },
         "cast": [
             {
@@ -56,7 +56,7 @@
                 "name": "Masako Nozawa",
                 "order": 9,
                 "role": "Son Goku",
-                "thumbnail": "http://thetvdb.com/banners/actors/136811.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/348254.jpg"
             },
             {
                 "name": "Phil Parsons",
@@ -93,7 +93,7 @@
                 "name": "Takeshi Kusao",
                 "order": 16,
                 "role": "Trunks",
-                "thumbnail": "http://thetvdb.com/banners/actors/327194.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/350770.jpg"
             },
             {
                 "name": "Yûko Minaguchi",
@@ -105,7 +105,7 @@
         "episode": 0,
         "episodeguide": "<episodeguide><url cache=\"79275-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/79275/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/79275-1.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Dragonball GT/",
+        "file": "smb://Ext/Media/Serien/Dragonball GT/",
         "genre": [
             "Action",
             "Adventure",
@@ -126,7 +126,7 @@
             "Fuji TV"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/79275-3.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/79275-5.jpg",
         "title": "Dragon Ball GT",
         "tvshowid": 24,
         "votes": "41",

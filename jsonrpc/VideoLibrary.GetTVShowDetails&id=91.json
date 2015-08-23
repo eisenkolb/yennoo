@@ -16,13 +16,13 @@
                 "name": "Mike Vogel",
                 "order": 1,
                 "role": "Dale \"Barbie\" Barbara",
-                "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
             },
             {
                 "name": "Rachelle Lefevre",
                 "order": 2,
                 "role": "Julia Shumway",
-                "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
             },
             {
                 "name": "Max Ehrich",
@@ -95,7 +95,7 @@
         "episode": 16,
         "episodeguide": "<episodeguide><url cache=\"264492-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/264492/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/",
+        "file": "smb://Ext/Media/Serien/Under the Dome/",
         "genre": [
             "Drama",
             "Horror",
@@ -143,13 +143,14 @@
                     {
                         "name": "Beth Broderick",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/zE41lOD0NxpzTPFsyku9s1T6lWc.jpg"
                     },
                     {
                         "name": "Jeff Fahey",
                         "order": 2,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/79778.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/6l44xDPdJE4dQAEDN9eShnJOSo8.jpg"
                     },
                     {
                         "name": "Dean Norris",
@@ -161,13 +162,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -243,7 +244,7 @@
                 "episode": 1,
                 "episodeid": 1824,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E01.Chesters.Mill.1.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E01.Chesters.Mill.1.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mkv",
                 "firstaired": "2013-06-24",
                 "label": "1x01. Pilot",
                 "lastplayed": "",
@@ -298,12 +299,14 @@
                     {
                         "name": "Beth Broderick",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/zE41lOD0NxpzTPFsyku9s1T6lWc.jpg"
                     },
                     {
                         "name": "Ned Bellamy",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/aPAsdVFewZK3ldhvrL1ea2VUkUK.jpg"
                     },
                     {
                         "name": "Dean Norris",
@@ -315,13 +318,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -391,7 +394,7 @@
                 "episode": 2,
                 "episodeid": 1825,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E02.Chesters.Mill.2.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E02.Chesters.Mill.2.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
                 "firstaired": "2013-07-01",
                 "label": "1x02. The Fire",
                 "lastplayed": "",
@@ -440,12 +443,14 @@
                     {
                         "name": "Beth Broderick",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/zE41lOD0NxpzTPFsyku9s1T6lWc.jpg"
                     },
                     {
                         "name": "Ned Bellamy",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/aPAsdVFewZK3ldhvrL1ea2VUkUK.jpg"
                     },
                     {
                         "name": "Leon Rippy",
@@ -463,13 +468,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -539,7 +544,7 @@
                 "episode": 3,
                 "episodeid": 1826,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E03.de.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E03.de.mkv",
                 "firstaired": "2013-07-08",
                 "label": "1x03. Manhunt",
                 "lastplayed": "",
@@ -594,7 +599,8 @@
                     {
                         "name": "Ned Bellamy",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/aPAsdVFewZK3ldhvrL1ea2VUkUK.jpg"
                     },
                     {
                         "name": "Leon Rippy",
@@ -628,13 +634,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -704,7 +710,7 @@
                 "episode": 4,
                 "episodeid": 1827,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E04.Ausbruch.1.GERMAN.DUBBED.WebHDRiP.x264.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E04.Ausbruch.1.GERMAN.DUBBED.WebHDRiP.x264.mkv",
                 "firstaired": "2013-07-15",
                 "label": "1x04. Outbreak",
                 "lastplayed": "",
@@ -759,12 +765,14 @@
                     {
                         "name": "Beth Broderick",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/zE41lOD0NxpzTPFsyku9s1T6lWc.jpg"
                     },
                     {
                         "name": "Ned Bellamy",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/aPAsdVFewZK3ldhvrL1ea2VUkUK.jpg"
                     },
                     {
                         "name": "Dale Raoul",
@@ -787,13 +795,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -863,7 +871,7 @@
                 "episode": 5,
                 "episodeid": 1828,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E05.Schmetterlinge.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E05.Schmetterlinge.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
                 "firstaired": "2013-07-22",
                 "label": "1x05. Blue on Blue",
                 "lastplayed": "",
@@ -918,7 +926,8 @@
                     {
                         "name": "Beth Broderick",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/zE41lOD0NxpzTPFsyku9s1T6lWc.jpg"
                     },
                     {
                         "name": "Dale Raoul",
@@ -947,13 +956,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -1023,7 +1032,7 @@
                 "episode": 6,
                 "episodeid": 1829,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E06.Der.grosse.Durst.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E06.Der.grosse.Durst.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
                 "firstaired": "2013-07-29",
                 "label": "1x06. The Endless Thirst",
                 "lastplayed": "",
@@ -1102,13 +1111,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -1178,7 +1187,7 @@
                 "episode": 7,
                 "episodeid": 1830,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E07.Jeder.gegen.Jeden.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E07.Jeder.gegen.Jeden.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
                 "firstaired": "2013-08-05",
                 "label": "1x07. Imperfect Circles",
                 "lastplayed": "",
@@ -1240,13 +1249,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -1316,7 +1325,7 @@
                 "episode": 8,
                 "episodeid": 1831,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E08.Dicker.als.Wasser.GERMAN.DUBBED.WebHDRiP.XviD.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E08.Dicker.als.Wasser.GERMAN.DUBBED.WebHDRiP.XviD.mkv",
                 "firstaired": "2013-08-12",
                 "label": "1x08. Thicker Than Water",
                 "lastplayed": "",
@@ -1384,13 +1393,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -1460,7 +1469,7 @@
                 "episode": 9,
                 "episodeid": 1832,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E09.Rosa.Sterne.GERMAN.DUBBED.WebHDRiP.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E09.Rosa.Sterne.GERMAN.DUBBED.WebHDRiP.mkv",
                 "firstaired": "2013-08-19",
                 "label": "1x09. The Fourth Hand",
                 "lastplayed": "",
@@ -1533,13 +1542,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -1609,7 +1618,7 @@
                 "episode": 10,
                 "episodeid": 1833,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E10.Moegen.die.Spiele.beginnen.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E10.Moegen.die.Spiele.beginnen.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
                 "firstaired": "2013-08-26",
                 "label": "1x10. Let the Games Begin",
                 "lastplayed": "",
@@ -1683,13 +1692,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -1759,7 +1768,7 @@
                 "episode": 11,
                 "episodeid": 1834,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E11.Speak.of.the.Devil.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E11.Speak.of.the.Devil.GERMAN.DUBBED.WebHDRiP.XviD-SOF.mkv",
                 "firstaired": "2013-09-02",
                 "label": "1x11. Speak of the Devil",
                 "lastplayed": "",
@@ -1851,13 +1860,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -1921,7 +1930,7 @@
                 "episode": 12,
                 "episodeid": 1835,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E12.Gefahr.im.Verzug.GERMAN.DUBBED.WebHDRi.avi",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E12.Gefahr.im.Verzug.GERMAN.DUBBED.WebHDRi.avi",
                 "firstaired": "2013-09-09",
                 "label": "1x12. Exigent Circumstances",
                 "lastplayed": "",
@@ -2011,13 +2020,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -2081,7 +2090,7 @@
                 "episode": 13,
                 "episodeid": 1836,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E13.Curtains.GERMAN.DUBBED.WebHDRiP.XviD-S.avi",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 1/Under.the.Dome.S01E13.Curtains.GERMAN.DUBBED.WebHDRiP.XviD-S.avi",
                 "firstaired": "2013-09-16",
                 "label": "1x13. Curtains",
                 "lastplayed": "",
@@ -2162,13 +2171,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -2226,7 +2235,7 @@
                 "episode": 1,
                 "episodeid": 1837,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 2/Under.the.Dome.S02E01.Die.Schlinge.um.den.Hals.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 2/Under.the.Dome.S02E01.Die.Schlinge.um.den.Hals.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2014-06-30",
                 "label": "2x01. Heads Will Roll",
                 "lastplayed": "",
@@ -2293,13 +2302,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -2369,7 +2378,7 @@
                 "episode": 2,
                 "episodeid": 1838,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 2/Under.the.Dome.S02E02.Das.Maedchen.aus.dem.Wald.GERMAN.DL.DUBBED.1080p.WebHD.x264-TVP.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 2/Under.the.Dome.S02E02.Das.Maedchen.aus.dem.Wald.GERMAN.DL.DUBBED.1080p.WebHD.x264-TVP.mkv",
                 "firstaired": "2014-07-07",
                 "label": "2x02. Infestation",
                 "lastplayed": "",
@@ -2424,7 +2433,8 @@
                     {
                         "name": "Dwight Yoakam",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/xvhz9OakUlut7wWwH2s8ag5a7up.jpg"
                     },
                     {
                         "name": "Dean Norris",
@@ -2436,13 +2446,13 @@
                         "name": "Mike Vogel",
                         "order": 1,
                         "role": "Dale \"Barbie\" Barbara",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312648.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wsVd0nJNVBSOLUXyndWOdlBTdf2.jpg"
                     },
                     {
                         "name": "Rachelle Lefevre",
                         "order": 2,
                         "role": "Julia Shumway",
-                        "thumbnail": "http://thetvdb.com/banners/actors/312650.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/g6enujzJqgF3prYKp2vfvbrqhZ7.jpg"
                     },
                     {
                         "name": "Max Ehrich",
@@ -2512,7 +2522,7 @@
                 "episode": 3,
                 "episodeid": 1839,
                 "fanart": "http://thetvdb.com/banners/fanart/original/264492-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Under the Dome/Season 2/Under.the.Dome.S02E03.Blutregen.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "file": "smb://Ext/Media/Serien/Under the Dome/Season 2/Under.the.Dome.S02E03.Blutregen.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2014-07-14",
                 "label": "2x03. Force Majeure",
                 "lastplayed": "",

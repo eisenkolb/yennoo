@@ -3,14 +3,14 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/79652-g.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/79652-1.jpg",
-            "poster": "http://thetvdb.com/banners/posters/79652-3.jpg"
+            "poster": "http://thetvdb.com/banners/posters/79652-2.jpg"
         },
         "cast": [],
         "dateadded": "2014-04-13 21:41:50",
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"79652-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/79652/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/79652-1.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Coyote Ragtime Show/",
+        "file": "smb://Ext/Media/Serien/Coyote Ragtime Show/",
         "genre": [
             "Animation"
         ],
@@ -27,7 +27,7 @@
         "sorttitle": "",
         "studio": [],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/79652-3.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/79652-2.jpg",
         "title": "Coyote Ragtime Show",
         "tvshowid": 17,
         "votes": "0",
@@ -41,7 +41,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/79652/389854.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/79652-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79652-1.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/79652-3.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/79652-2.jpg"
                 },
                 "cast": [],
                 "dateadded": "2014-04-13 21:41:50",
@@ -49,7 +49,7 @@
                 "episode": 1,
                 "episodeid": 269,
                 "fanart": "http://thetvdb.com/banners/fanart/original/79652-1.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Coyote Ragtime Show/Season 1/Coyote.Ragtime.Show.S01E01.Ausbruch.German.Dubbed.x264-NA.flv",
+                "file": "smb://Ext/Media/Serien/Coyote Ragtime Show/Season 1/Coyote.Ragtime.Show.S01E01.Ausbruch.German.Dubbed.x264-NA.flv",
                 "firstaired": "2006-07-04",
                 "label": "1x01. Jailbreak",
                 "lastplayed": "",
@@ -87,7 +87,7 @@
                 "poster": "http://thetvdb.com/banners/seasons/79652-1.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/79652-g.jpg",
                 "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/79652-1.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/79652-3.jpg"
+                "tvshow.poster": "http://thetvdb.com/banners/posters/79652-2.jpg"
             },
             "episode": 1,
             "fanart": "http://thetvdb.com/banners/fanart/original/79652-1.jpg",

@@ -47,7 +47,7 @@
         "episode": 3,
         "episodeguide": "<episodeguide><url cache=\"248757-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/248757/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Perception/",
+        "file": "smb://Ext/Media/Serien/Perception/",
         "genre": [
             "Crime",
             "Drama",
@@ -104,7 +104,8 @@
                     {
                         "name": "Colin Cunningham",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/3EW9uprWwgzJy2jIcN0QFzKbVFX.jpg"
                     },
                     {
                         "name": "Eric McCormack",
@@ -144,7 +145,7 @@
                 "episode": 1,
                 "episodeid": 1229,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Perception/Season 1/Perception.S01E01.Die.Realitaeten.des.Dr.Daniel.Pierce.German.Dubbed.DVDRip.XviD-ITG.avi",
+                "file": "smb://Ext/Media/Serien/Perception/Season 1/Perception.S01E01.Die.Realitaeten.des.Dr.Daniel.Pierce.German.Dubbed.DVDRip.XviD-ITG.avi",
                 "firstaired": "2012-07-09",
                 "label": "1x01. Pilot",
                 "lastplayed": "",
@@ -287,7 +288,7 @@
                 "episode": 2,
                 "episodeid": 1230,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Perception/Season 1/Perception.S01E02.Gesichter.German.Dubbed.DVDRip.XviD-ITG.avi",
+                "file": "smb://Ext/Media/Serien/Perception/Season 1/Perception.S01E02.Gesichter.German.Dubbed.DVDRip.XviD-ITG.avi",
                 "firstaired": "2012-07-16",
                 "label": "1x02. Faces",
                 "lastplayed": "",
@@ -427,7 +428,7 @@
                 "episode": 3,
                 "episodeid": 1231,
                 "fanart": "http://thetvdb.com/banners/fanart/original/248757-2.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Perception/Season 1/Perception.S01E03.Wir.schreiben.das.Jahr.1986.German.Dubbed.DVDRip.XviD-ITG.avi",
+                "file": "smb://Ext/Media/Serien/Perception/Season 1/Perception.S01E03.Wir.schreiben.das.Jahr.1986.German.Dubbed.DVDRip.XviD-ITG.avi",
                 "firstaired": "2012-07-23",
                 "label": "1x03. 86'd",
                 "lastplayed": "",

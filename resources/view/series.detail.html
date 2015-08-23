@@ -9,23 +9,25 @@
 <div id="media-detail" class="large-12 columns">
     <div id="media-description" class="small-12 large-offset-1 large-10 columns left">
         <div class="large-12 columns">
-            <div class="columns">
-                <div class="show-for-medium-up">
-                    <div id="cover-cointainer" class="poster cover" style="background-image: url('./assets/img/media.cover.edges.png');">
-                        <img class="animated slideInUp width-280" src="./assets/img/media.cover.edges.png" onready="relpaceimage" data-image="media.poster" ng-if="media" />
-                    </div>
+            <!-- Media cover / starts -->
+            <div class="show-for-medium-up columns">
+                <div id="cover-cointainer" class="poster cover" style="background-image: url('./assets/img/media.cover.edges.png');">
+                    <img class="animated slideInUp width-280" src="./assets/img/media.cover.edges.png" onready="relpaceimage" data-image="media.poster" ng-if="media" />
                 </div>
             </div>
+            <!-- Media cover /  ends  -->
 
+            <!-- Media title in header / starts -->
             <div class="large-title row show-for-large-up column">
                 <div class="original large-11" ng-if="media.originaltitle != media.title">
                     <div class="large-12 columns row">{{media.originaltitle}}</div>
                 </div>
                 <div class="title">
-                    <h1 class="left truncate truncate-85">{{media.title}}</h1>
+                    <h1 class="left truncate truncate-85 normal">{{media.title}}</h1>
                     <small ng-if="media.year" class="year left">({{media.year}})</small>
                 </div>
 
+                <!-- Media summary list / starts -->
                 <div class="summary row show-for-large-up">
                     <ul class="inline-list large-12 columns">
                         <li ng-if="media.premiered"><a ng-href="{{route.series}}/filter/year/{{(media.premiered).split('-')[0]}}">{{(media.premiered).split("-")[0]}}</a></li>
@@ -34,15 +36,18 @@
                         <li ng-if="media.genre" ng-repeat="genre in media.genre"><a ng-href="{{route.series}}/filter/genre/{{genre.toLowerCase()}}">{{genre}}</a></li>
                     </ul>
                 </div>
+                <!-- Media summary list /  ends  -->
             </div>
+            <!-- Media title in header /  ends  -->
 
+            <!-- Media detail description / starts -->
             <div class="panel large-12 media-description">
                 <div class="large-12 large-offset-0 media-plot">
                     <div class="fix-poster left show-for-medium-up"></div>
                     <div class="poster cover show-for-small">
                         <img class="animated slideInUp width-280" ng-if="media" data-image="media.poster" onready="relpaceimage" src="./assets/img/media.cover.edges.png" />
                     </div>
-                    <p class="plot">{{media.plot}}</p>
+                    <p class="plot normal">{{media.plot}}</p>
                 </div>
 
                 <div class="large-12 large-offset-0" id="tabs">
@@ -56,9 +61,12 @@
                     </ul>
                 </div>
             </div>
+            <!-- Media detail description /  ends  -->
 
+            <!-- Media tab content / starts -->
             <div class="panel large-12 media-description">
                 <div class="tabs-content" id="tabs-content">
+                    <!-- Media tab content: seasons / starts -->
                     <div id="tab-seasons" class="content active">
                         <h5>{{"TVSHOW.SEASONS" | translate}}</h5>
                         <ul class="large-block-grid-5 medium-block-grid-3 small-block-grid-2 poster cover" ng-if="media">
@@ -67,7 +75,7 @@
                                 <div class="season">
                                     <div class="action-area">
                                         <div class="actions small-12 text-center">
-                                            <div class="row name">{{"MOVIE.WATCH_ON" | translate:"{'name': 'Kodi'}"}}</div>
+                                            <div class="row name normal">{{"MOVIE.WATCH_ON" | translate:"{'name': 'Kodi'}"}}</div>
                                             <div class="row">&nbsp;</div>
                                             <div class="row">&nbsp;</div>
                                             <div class="row"><a class="fa fa-5x fa-play-circle play" ng-href="{{route.series}}/{{tvshowid}}/{{(season.showtitle).toLowerCase()}}/season/{{season.season}}" title="{{'GLOBAL.PLAY' | translate}}"></a></div>
@@ -94,90 +102,102 @@
 
                         </ul>
                     </div>
+                    <!-- Media tab content: seasons /  ends  -->
 
+                    <!-- Media tab content: overview / starts -->
                     <div id="tab-overview" class="content">
                         <h5>{{"TVSHOW.OVERVIEW" | translate}}</h5>
-                        <table class="panel small-12 large-6 left text-inherit" ng-if="media">
-                            <tr ng-if="media.time && media.time.premiered && media.time.premiered.toLocaleFormat">
-                                <td>{{"PROPERTY.PREMIERED" | translate}}</td>
-                                <td>
-                                    <a ng-href="{{route.series}}/filter/premiered/{{media.premiered}}" title="{{(media.time.premiered).toLocaleFormat().split(' 01:00:00')[0]}}">{{media.time.premiered.toLocaleDateString()}}</a>
-                                </td>
-                            </tr>
-                            <tr ng-if="media.episode">
-                                <td>{{"PROPERTY.EPISODE" | translate}}</td>
-                                <td>
-                                    {{media.episode}}
-                                </td>
-                            </tr>
-                            <tr ng-if="media.tag && media.tag.length">
-                                <td>{{"PROPERTY.TAG" | translate}}</td>
-                                <td>
-                                    {{media.tag}}
-                                </td>
-                            </tr>
-                            <tr ng-if="media.studio">
-                                <td>{{"PROPERTY.STUDIO" | translate}}</td>
-                                <td>
-                                    <span ng-repeat="studio in media.studio track by $index"><a ng-href="{{route.series}}/filter/studio/{{studio.toLowerCase()}}">{{studio}}</a>{{$last ? null : ", "}}</span>
-                                </td>
-                            </tr>
-                            <tr ng-if="media.premiered">
-                                <td>{{"PROPERTY.YEAR" | translate}}</td>
-                                <td>
-                                    <a href="{{route.series}}/filter/year/{{(media.premiered).split('-')[0]}}">{{(media.premiered).split("-")[0]}}</a>
-                                </td>
-                            </tr>
-                            <tr ng-if="media.ratings && media.ratings.score">
-                                <td>{{"PROPERTY.RATING" | translate}}</td>
-                                <td>
-                                    <a ng-href="{{route.series}}/filter/rating/{{media.ratings.score}}">{{(media.ratings.score).toLocaleString()}} / 10</a>
-                                    <div class="votes-in-rating" ng-if="media.votes">
-                                        <a ng-href="{{route.series}}/filter/votes/{{media.votes}}">( {{media.votes}} {{"PROPERTY.VOTES" | translate}} )</a>
-                                    </div>
-                                </td>
-                            </tr>
-                        </table>
+
+                        <!-- Media tab content: detail / starts -->
+                        <div class="small-12 medium-6 large-6 left">
+                            <table>
+                                <tr ng-if="media.time && media.time.premiered && media.time.premiered.toLocaleFormat">
+                                    <td>{{"PROPERTY.PREMIERED" | translate}}</td>
+                                    <td>
+                                        <a ng-href="{{route.series}}/filter/premiered/{{media.premiered}}" title="{{(media.time.premiered).toLocaleFormat().split(' 01:00:00')[0]}}">{{media.time.premiered.toLocaleDateString()}}</a>
+                                    </td>
+                                </tr>
+                                <tr ng-if="media.episode">
+                                    <td>{{"PROPERTY.EPISODE" | translate}}</td>
+                                    <td>
+                                        {{media.episode}}
+                                    </td>
+                                </tr>
+                                <tr ng-if="media.tag && media.tag.length">
+                                    <td>{{"PROPERTY.TAG" | translate}}</td>
+                                    <td>
+                                        {{media.tag}}
+                                    </td>
+                                </tr>
+                                <tr ng-if="media.studio">
+                                    <td>{{"PROPERTY.STUDIO" | translate}}</td>
+                                    <td>
+                                        <span ng-repeat="studio in media.studio track by $index"><a ng-href="{{route.series}}/filter/studio/{{studio.toLowerCase()}}">{{studio}}</a>{{$last ? null : ", "}}</span>
+                                    </td>
+                                </tr>
+                                <tr ng-if="media.premiered">
+                                    <td>{{"PROPERTY.YEAR" | translate}}</td>
+                                    <td>
+                                        <a href="{{route.series}}/filter/year/{{(media.premiered).split('-')[0]}}">{{(media.premiered).split("-")[0]}}</a>
+                                    </td>
+                                </tr>
+                                <tr ng-if="media.ratings && media.ratings.score">
+                                    <td>{{"PROPERTY.RATING" | translate}}</td>
+                                    <td>
+                                        <a ng-href="{{route.series}}/filter/rating/{{media.ratings.score}}">{{(media.ratings.score).toLocaleString()}} / 10</a>
+                                        <div class="votes-in-rating" ng-if="media.votes">
+                                            <a ng-href="{{route.series}}/filter/votes/{{media.votes}}">( {{media.votes}} {{"PROPERTY.VOTES" | translate}} )</a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
 
                         <hr class="show-for-small" />
 
-                        <table class="panel small-12 large-6 right text-inherit" ng-if="media">
-                            <tr ng-if="media.genre">
-                                <td>{{"PROPERTY.GERNE" | translate}}</td>
-                                <td>
-                                    <span ng-repeat="genre in media.genre track by $index"><a ng-href="{{route.series}}/filter/genre/{{genre.toLowerCase()}}">{{genre}}</a>{{$last ? null : ", "}}</span>
-                                </td>
-                            </tr>
-                            <tr ng-if="media.mpaa">
-                                <td>{{"PROPERTY.MPAA" | translate}}</td>
-                                <td>
-                                    <a class="mpaa tv {{(media.mpaa).toLowerCase()}}" ng-href="{{route.series}}/filter/mpaa/{{(media.mpaa).toLowerCase()}}">
-                                        <span class="left label">{{(media.mpaa).split("-")[0].toUpperCase()}}</span>
-                                        <span class="left rating">{{(media.mpaa).split("-")[1].toUpperCase()}}</span>
-                                    </a>
-                                </td>
-                            </tr>
-                            <tr ng-if="media.imdbnumber">
-                                <td>{{"PROPERTY.IMDB" | translate}}</td>
-                                <td class="imdb"><a target="_blank" ng-href="http://www.imdb.com/title/{{media.imdbnumber}}/?{{media.label}}"><span class="truncate truncate-80">{{media.label}} ({{(media.premiered).split("-")[0]}})</span>
-                                    <div class="label radius">{{"PROPERTY.IMDB" | translate}}</div></a>
-                                </td>
-                            </tr>
-                            <tr ng-if="media.time && media.time.dateadded && media.time.dateadded.toLocaleFormat">
-                                <td>{{"PROPERTY.DATEADDED" | translate}}</td>
-                                <td>
-                                    <a href="{{route.series}}/filter/dateadded/{{media.dateadded.split(' ')[0]}}">{{media.time.dateadded.toLocaleFormat()}}</a>
-                                </td>
-                            </tr>
-                            <tr ng-if="media.time && media.time.lastplayed && media.time.lastplayed.toLocaleFormat">
-                                <td>{{"PROPERTY.LASTPLAYED" | translate}}</td>
-                                <td>
-                                    <a href="{{route.series}}/filter/lastplayed/{{media.lastplayed.split(' ')[0]}}">{{media.time.lastplayed.toLocaleFormat()}}</a>
-                                </td>
-                            </tr>
-                        </table>
-                    </div>
+                        <div class="small-12 medium-6 large-6 left">
+                            <table>
+                                <tr ng-if="media.mpaa">
+                                    <td>{{"PROPERTY.MPAA" | translate}}</td>
+                                    <td>
+                                        <a class="mpaa tv {{(media.mpaa).toLowerCase()}}" ng-href="{{route.series}}/filter/mpaa/{{(media.mpaa).toLowerCase()}}">
+                                            <span class="left label">{{(media.mpaa).split("-")[0].toUpperCase()}}</span>
+                                            <span class="left rating">{{(media.mpaa).split("-")[1].toUpperCase()}}</span>
+                                        </a>
+                                    </td>
+                                </tr>
+                                <tr ng-if="media.imdbnumber">
+                                    <td>{{"PROPERTY.IMDB" | translate}}</td>
+                                    <td class="imdb"><a target="_blank" ng-href="http://www.imdb.com/title/{{media.imdbnumber}}/?{{media.label}}"><span class="truncate truncate-80">{{media.label}} ({{(media.premiered).split("-")[0]}})</span>
+                                        <div class="label radius">{{"PROPERTY.IMDB" | translate}}</div></a>
+                                    </td>
+                                </tr>
+                                <tr ng-if="media.time && media.time.dateadded && media.time.dateadded.toLocaleFormat">
+                                    <td>{{"PROPERTY.DATEADDED" | translate}}</td>
+                                    <td>
+                                        <a href="{{route.series}}/filter/dateadded/{{media.dateadded.split(' ')[0]}}">{{media.time.dateadded.toLocaleFormat()}}</a>
+                                    </td>
+                                </tr>
+                                <tr ng-if="media.time && media.time.lastplayed && media.time.lastplayed.toLocaleFormat">
+                                    <td>{{"PROPERTY.LASTPLAYED" | translate}}</td>
+                                    <td>
+                                        <a href="{{route.series}}/filter/lastplayed/{{media.lastplayed.split(' ')[0]}}">{{media.time.lastplayed.toLocaleFormat()}}</a>
+                                    </td>
+                                </tr>
+                                <tr ng-if="media.genre">
+                                    <td>{{"PROPERTY.GERNE" | translate}}</td>
+                                    <td>
+                                        <span ng-repeat="genre in media.genre track by $index"><a ng-href="{{route.series}}/filter/genre/{{genre.toLowerCase()}}">{{genre}}</a>{{$last ? null : ", "}}</span>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                        <!-- Media tab content: detail /  ends  -->
 
+                    </div>
+                    <!-- Media tab content: overview /  ends  -->
+
+                    <!-- Media tab content: cast / starts -->
                     <div id="tab-cast" class="content" ng-init="castSize = 5">
                         <h5>{{"MOVIE.CAST" | translate}}</h5>
 
@@ -206,7 +226,9 @@
                             </li>
                         </ul>
                     </div>
+                    <!-- Media tab content: cast /  ends  -->
 
+                    <!-- Media tab content: episodes / starts -->
                     <div id="tab-episodes" class="content">
                         <h5>{{"TVSHOW.ALL_EPISODES" | translate}}</h5>
 
@@ -243,7 +265,7 @@
                                                     </div>
 
                                                     <div class="smal-12 medium-8 columns">
-                                                        <p>{{episode.plot || "{empty}"}}</p>
+                                                        <p class="normal">{{episode.plot || "{empty}"}}</p>
                                                     </div>
 
                                                     <div class="small-12 left details">
@@ -292,8 +314,10 @@
                             </li>
                         </ul>
                     </div>
+                    <!-- Media tab content: episodes /  ends  -->
                 </div>
             </div>
+            <!-- Media tab content /  ends  -->
         </div>
     </div>
 </div>

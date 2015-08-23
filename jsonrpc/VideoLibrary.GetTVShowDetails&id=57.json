@@ -3,7 +3,7 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/275631-g.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/275631-9.jpg",
-            "poster": "http://thetvdb.com/banners/posters/275631-5.jpg"
+            "poster": "http://thetvdb.com/banners/posters/275631-4.jpg"
         },
         "cast": [
             {
@@ -27,7 +27,7 @@
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"275631-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/275631/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/275631-9.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nobunaga the Fool/",
+        "file": "smb://Ext/Media/Serien/Nobunaga the Fool/",
         "genre": [
             "Action",
             "Animation",
@@ -48,7 +48,7 @@
             "TV Tokyo"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/275631-5.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/275631-4.jpg",
         "title": "Nobunaga the Fool",
         "tvshowid": 57,
         "votes": "2",
@@ -62,7 +62,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/275631/4720340.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/275631-g.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/275631-9.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/275631-5.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/275631-4.jpg"
                 },
                 "cast": [
                     {
@@ -87,7 +87,7 @@
                 "episode": 1,
                 "episodeid": 1185,
                 "fanart": "http://thetvdb.com/banners/fanart/original/275631-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Nobunaga the Fool/Nobunaga.the.Fool.E001.Der Stern.UNCUT.SUBBED.WEBRip.x264.mp4",
+                "file": "smb://Ext/Media/Serien/Nobunaga the Fool/Nobunaga.the.Fool.E001.Der Stern.UNCUT.SUBBED.WEBRip.x264.mp4",
                 "firstaired": "2014-01-06",
                 "label": "1x01. The Star",
                 "lastplayed": "",
@@ -125,7 +125,7 @@
                 "poster": "http://thetvdb.com/banners/seasons/275631-1.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/275631-g.jpg",
                 "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/275631-9.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/275631-5.jpg"
+                "tvshow.poster": "http://thetvdb.com/banners/posters/275631-4.jpg"
             },
             "episode": 1,
             "fanart": "http://thetvdb.com/banners/fanart/original/275631-9.jpg",

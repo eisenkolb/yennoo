@@ -1,0 +1,2055 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+            "poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+        },
+        "cast": [
+            {
+                "name": "Kevin Spacey",
+                "order": 0,
+                "role": "Francis Underwood",
+                "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+            },
+            {
+                "name": "Robin Wright",
+                "order": 1,
+                "role": "Claire Underwood",
+                "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+            },
+            {
+                "name": "Michael Kelly",
+                "order": 2,
+                "role": "Doug Stamper",
+                "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+            },
+            {
+                "name": "Dan Ziskie",
+                "order": 3,
+                "role": "Jim Matthews",
+                "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+            },
+            {
+                "name": "Nathan Darrow",
+                "order": 4,
+                "role": "Edward Meechum",
+                "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+            },
+            {
+                "name": "Ben Daniels",
+                "order": 5,
+                "role": "Adam Galloway",
+                "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+            },
+            {
+                "name": "Sandrine Holt",
+                "order": 6,
+                "role": "Gillian Cole",
+                "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+            },
+            {
+                "name": "Mahershala Ali",
+                "order": 7,
+                "role": "Remy Danton",
+                "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+            },
+            {
+                "name": "Boris McGiver",
+                "order": 8,
+                "role": "Tom Hammerschmidt",
+                "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+            },
+            {
+                "name": "Michel Gill",
+                "order": 9,
+                "role": "President Garrett Walker",
+                "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+            },
+            {
+                "name": "Sebastian Arcelus",
+                "order": 10,
+                "role": "Lucas Goodwin",
+                "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+            },
+            {
+                "name": "Constance Zimmer",
+                "order": 11,
+                "role": "Janine Skorsky",
+                "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+            },
+            {
+                "name": "Kristen Connolly",
+                "order": 12,
+                "role": "Christina Gallagher",
+                "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+            },
+            {
+                "name": "Sakina Jaffrey",
+                "order": 13,
+                "role": "Linda Vasquez",
+                "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+            },
+            {
+                "name": "Corey Stoll",
+                "order": 14,
+                "role": "Peter Russo",
+                "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+            },
+            {
+                "name": "Kate Mara",
+                "order": 15,
+                "role": "Zoe Barnes",
+                "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+            }
+        ],
+        "dateadded": "2015-05-31 17:24:07",
+        "episode": 13,
+        "episodeguide": "<episodeguide><url cache=\"262980-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/262980/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+        "file": "smb://Ext/Media/Serien/House of Cards/",
+        "genre": [
+            "Drama"
+        ],
+        "imdbnumber": "262980",
+        "label": "House of Cards (US)",
+        "lastplayed": "",
+        "mpaa": "TV-MA",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Ruthless and cunning, Congressman Francis Underwood and his wife Claire stop at nothing to conquer everything. This wicked political drama penetrates the shadowy world of greed, sex and corruption in modern D.C.",
+        "premiered": "2013-02-01",
+        "rating": 8.899999618530273,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Netflix"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/262980-3.jpg",
+        "title": "House of Cards (US)",
+        "tvshowid": 97,
+        "votes": "122",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4411361.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Jayne Atkinson",
+                        "order": 0,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/82131.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 1,
+                        "role": "",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Elizabeth Norment",
+                        "order": 2,
+                        "role": ""
+                    },
+                    {
+                        "name": "Rachel Brosnahan",
+                        "order": 3,
+                        "role": ""
+                    },
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:30:43",
+                "director": [
+                    "David Fincher"
+                ],
+                "episode": 1,
+                "episodeid": 1932,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E01.Das.Spiel.beginnt.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x01. Chapter 1",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "When the newly elected President reneges on a promise, Francis and Claire decide to sever all allegiances and toss the rules out the window.",
+                "productioncode": "",
+                "rating": 8.100000381469727,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4411361.jpg",
+                "title": "Chapter 1",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4411361"
+                },
+                "votes": "116",
+                "writer": [
+                    "Beau Willimon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4481708.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 3,
+                        "role": "Jim Matthews",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:28:45",
+                "director": [
+                    "David Fincher"
+                ],
+                "episode": 2,
+                "episodeid": 1933,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E02.Der.Gesetzesentwurf.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x02. Chapter 2",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Francis and Doug plan to frame Secretary of State nominee, Michael Kern. Meanwhile, Zoe's popularity at the Washington Herald continues to grow.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4481708.jpg",
+                "title": "Chapter 2",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4481708"
+                },
+                "votes": "111",
+                "writer": [
+                    "Beau Willimon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4481709.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 3,
+                        "role": "Jim Matthews",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:40:52",
+                "director": [
+                    "James Foley"
+                ],
+                "episode": 3,
+                "episodeid": 1934,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E03.Der.Wasserturm.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x03. Chapter 3",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Francis heads for his hometown to deal with a crisis. Zoe negotiates the politics of being a journalist on the rise. Claire finds herself a new business partner.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4481709.jpg",
+                "title": "Chapter 3",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4481709"
+                },
+                "votes": "102",
+                "writer": [
+                    "Keith Huff",
+                    "Beau Willimon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4481710.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 3,
+                        "role": "Jim Matthews",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:31:34",
+                "director": [
+                    "James Foley"
+                ],
+                "episode": 4,
+                "episodeid": 1935,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E04.Die.Intrige.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x04. Chapter 4",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Francis shakes down the Congressional leadership. Zoe is offered the promotion of White House Correspondent and doesn't know if she should take it or not.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4481710.jpg",
+                "title": "Chapter 4",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4481710"
+                },
+                "votes": "108",
+                "writer": [
+                    "Rick Cleveland",
+                    "Beau Willimon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4481711.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 3,
+                        "role": "Jim Matthews",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:34:06",
+                "director": [
+                    "Joel Schumacher"
+                ],
+                "episode": 5,
+                "episodeid": 1936,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E05.Die.Spendengala.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x05. Chapter 5",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "A feud starts between Francis and Marty Spinella. Russo goes into depression about the job losses at the shipyards.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4481711.jpg",
+                "title": "Chapter 5",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4481711"
+                },
+                "votes": "104",
+                "writer": [
+                    "Sarah Treem"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4481712.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 3,
+                        "role": "Jim Matthews",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:36:25",
+                "director": [
+                    "Joel Schumacher"
+                ],
+                "episode": 6,
+                "episodeid": 1937,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E06.Der.Streik.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x06. Chapter 6",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The strike between Frank and Marty starts to get out of hand. Russo has decided to run for Governor of Pennsylvania.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4481712.jpg",
+                "title": "Chapter 6",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4481712"
+                },
+                "votes": "98",
+                "writer": [
+                    "Sam Forman"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4481713.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 3,
+                        "role": "Jim Matthews",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:38:56",
+                "director": [
+                    "Charles McDougall"
+                ],
+                "episode": 7,
+                "episodeid": 1938,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E07.Neustart.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x07. Chapter 7",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Frank helps Peter get ready for his governor race, but Peter is starting to have second thoughts. Doug tries to help a young hooker in trouble.",
+                "productioncode": "",
+                "rating": 7.900000095367432,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4481713.jpg",
+                "title": "Chapter 7",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4481713"
+                },
+                "votes": "100",
+                "writer": [
+                    "Kate Barnow",
+                    "Beau Willimon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4481714.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 3,
+                        "role": "Jim Matthews",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:35:10",
+                "director": [
+                    "Charles McDougall"
+                ],
+                "episode": 8,
+                "episodeid": 1939,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E08.Die.gute.alte.Zeit.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x08. Chapter 8",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Frank has a library named after him at his old military school. Peter tries to win back the support of his hometown.",
+                "productioncode": "",
+                "rating": 7.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4481714.jpg",
+                "title": "Chapter 8",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4481714"
+                },
+                "votes": "101",
+                "writer": [
+                    "Beau Willimon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4481715.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 3,
+                        "role": "Jim Matthews",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:37:07",
+                "director": [
+                    "James Foley"
+                ],
+                "episode": 9,
+                "episodeid": 1940,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E09.Gewissensentscheidung.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x09. Chapter 9",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Frank tries to do whatever it takes to get the new bill passed in Congress. Russo goes on a bus campaign with the Vice President, but the VP is not making it an easy trip for him. Zoe's relationship with Frank gets a little bumpy.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4481715.jpg",
+                "title": "Chapter 9",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4481715"
+                },
+                "votes": "87",
+                "writer": [
+                    "Rick Cleveland",
+                    "Beau Willimon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4481716.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 3,
+                        "role": "Jim Matthews",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2015-05-31 17:24:07",
+                "director": [
+                    "Carl Franklin"
+                ],
+                "episode": 10,
+                "episodeid": 1941,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E10.Im.freien.Fall.German.HDTV.XviD-ITG.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x10. Chapter 10",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Claire fuels an old flame. Peter wrestles with his demons. Francis crosses the point of no return.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4481716.jpg",
+                "title": "Chapter 10",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4481716"
+                },
+                "votes": "98",
+                "writer": [
+                    "Sarah Treem"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4481717.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 3,
+                        "role": "Jim Matthews",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:37:45",
+                "director": [
+                    "Carl Franklin"
+                ],
+                "episode": 11,
+                "episodeid": 1942,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E11.Erloesung.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x11. Chapter 11",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Zoe extends her time away from The Hill while Francis tracks down Russo and engages in damage control.",
+                "productioncode": "",
+                "rating": 7.800000190734863,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4481717.jpg",
+                "title": "Chapter 11",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4481717"
+                },
+                "votes": "92",
+                "writer": [
+                    "Keith Huff",
+                    "Kate Barnow",
+                    "Beau Willimon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4481718.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 3,
+                        "role": "Jim Matthews",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:39:48",
+                "director": [
+                    "Allen Coulter"
+                ],
+                "episode": 12,
+                "episodeid": 1943,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E12.Der.Wunschkandidat.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x12. Chapter 12",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "The President sends Frank to St. Louis to persuade Raymond Tusk into becoming the new Vice President. Zoe and Janine investigate Peter Russo's death.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4481718.jpg",
+                "title": "Chapter 12",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4481718"
+                },
+                "votes": "85",
+                "writer": [
+                    "Gina Gionfriddo",
+                    "Beau Willimon"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/262980/4481719.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Kevin Spacey",
+                        "order": 0,
+                        "role": "Francis Underwood",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cdowETe1PgXLjo72hDb7R7tyavf.jpg"
+                    },
+                    {
+                        "name": "Robin Wright",
+                        "order": 1,
+                        "role": "Claire Underwood",
+                        "thumbnail": "http://thetvdb.com/banners/actors/304157.jpg"
+                    },
+                    {
+                        "name": "Michael Kelly",
+                        "order": 2,
+                        "role": "Doug Stamper",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306045.jpg"
+                    },
+                    {
+                        "name": "Dan Ziskie",
+                        "order": 3,
+                        "role": "Jim Matthews",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347876.jpg"
+                    },
+                    {
+                        "name": "Nathan Darrow",
+                        "order": 4,
+                        "role": "Edward Meechum",
+                        "thumbnail": "http://thetvdb.com/banners/actors/347875.jpg"
+                    },
+                    {
+                        "name": "Ben Daniels",
+                        "order": 5,
+                        "role": "Adam Galloway",
+                        "thumbnail": "http://thetvdb.com/banners/actors/328100.jpg"
+                    },
+                    {
+                        "name": "Sandrine Holt",
+                        "order": 6,
+                        "role": "Gillian Cole",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/oWRKAr4vRmqX2LM4zy38q08HUcJ.jpg"
+                    },
+                    {
+                        "name": "Mahershala Ali",
+                        "order": 7,
+                        "role": "Remy Danton",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306053.jpg"
+                    },
+                    {
+                        "name": "Boris McGiver",
+                        "order": 8,
+                        "role": "Tom Hammerschmidt",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306051.jpg"
+                    },
+                    {
+                        "name": "Michel Gill",
+                        "order": 9,
+                        "role": "President Garrett Walker",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306050.jpg"
+                    },
+                    {
+                        "name": "Sebastian Arcelus",
+                        "order": 10,
+                        "role": "Lucas Goodwin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306049.jpg"
+                    },
+                    {
+                        "name": "Constance Zimmer",
+                        "order": 11,
+                        "role": "Janine Skorsky",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306048.jpg"
+                    },
+                    {
+                        "name": "Kristen Connolly",
+                        "order": 12,
+                        "role": "Christina Gallagher",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/lP7rReayiC5hDhJJjCwUy3IFfTC.jpg"
+                    },
+                    {
+                        "name": "Sakina Jaffrey",
+                        "order": 13,
+                        "role": "Linda Vasquez",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306046.jpg"
+                    },
+                    {
+                        "name": "Corey Stoll",
+                        "order": 14,
+                        "role": "Peter Russo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/306044.jpg"
+                    },
+                    {
+                        "name": "Kate Mara",
+                        "order": 15,
+                        "role": "Zoe Barnes",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/vK6eOzrFmQNoRyHIP8N5p5Ri4fp.jpg"
+                    }
+                ],
+                "dateadded": "2014-05-04 02:39:32",
+                "director": [
+                    "Allen Coulter"
+                ],
+                "episode": 13,
+                "episodeid": 1944,
+                "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "file": "smb://Ext/Media/Serien/House of Cards/Season 1/House.of.Cards.S01E13.Der.neue.Vizepraesident.German.BDRip.XviD-GZCrew.mp4",
+                "firstaired": "2013-02-01",
+                "label": "1x13. Chapter 13",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Frank scrambles to keep his plan on track. Gillian is planning to sue Claire. Zoe, Janine, and Lucas investigate Rachel Posner and her relationship with Peter Russo.",
+                "productioncode": "",
+                "rating": 8,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3300,
+                "season": 1,
+                "showtitle": "House of Cards (US)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/262980/4481719.jpg",
+                "title": "Chapter 13",
+                "tvshowid": 97,
+                "uniqueid": {
+                    "unknown": "4481719"
+                },
+                "votes": "88",
+                "writer": [
+                    "Beau Willimon"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/262980-1.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/262980-g7.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/262980-3.jpg"
+            },
+            "episode": 13,
+            "fanart": "http://thetvdb.com/banners/fanart/original/262980-5.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 525,
+            "showtitle": "House of Cards (US)",
+            "thumbnail": "http://thetvdb.com/banners/seasons/262980-1.jpg",
+            "tvshowid": 97,
+            "watchedepisodes": 0
+        }
+    ]
+}

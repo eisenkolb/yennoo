@@ -1,0 +1,618 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/295068-g5.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/295068-12.jpg",
+            "poster": "http://thetvdb.com/banners/posters/295068-2.jpg"
+        },
+        "cast": [
+            {
+                "name": "Masako Nozawa",
+                "order": 0,
+                "role": "Son Goku",
+                "thumbnail": "http://thetvdb.com/banners/actors/348254.jpg"
+            },
+            {
+                "name": "Mayumi Tanaka",
+                "order": 1,
+                "role": "Kulilin",
+                "thumbnail": "http://thetvdb.com/banners/actors/350767.jpg"
+            },
+            {
+                "name": "Hiromi Tsuru",
+                "order": 2,
+                "role": "Bulma",
+                "thumbnail": "http://thetvdb.com/banners/actors/350766.jpg"
+            },
+            {
+                "name": "Unshô Ishizuka",
+                "order": 3,
+                "role": "Mr.Satan",
+                "thumbnail": "http://thetvdb.com/banners/actors/350765.jpg"
+            },
+            {
+                "name": "Toshio Furukawa",
+                "order": 4,
+                "role": "Piccolo",
+                "thumbnail": "http://thetvdb.com/banners/actors/350764.jpg"
+            },
+            {
+                "name": "Ryou Horikawa",
+                "order": 5,
+                "role": "Vegeta",
+                "thumbnail": "http://thetvdb.com/banners/actors/350763.jpg"
+            },
+            {
+                "name": "Takeshi Kusao",
+                "order": 6,
+                "role": "Trunks",
+                "thumbnail": "http://thetvdb.com/banners/actors/350770.jpg"
+            },
+            {
+                "name": "Nozawa Masako",
+                "order": 7,
+                "role": "Son Gohan",
+                "thumbnail": "http://thetvdb.com/banners/actors/350769.jpg"
+            },
+            {
+                "name": "Naoko Watanabe",
+                "order": 8,
+                "role": "Chichi",
+                "thumbnail": "http://thetvdb.com/banners/actors/350768.jpg"
+            },
+            {
+                "name": "Ryoichi Tanaka",
+                "order": 9,
+                "role": "Old Kaio-Shin",
+                "thumbnail": "http://thetvdb.com/banners/actors/351929.jpg"
+            },
+            {
+                "name": "Yūji Mitsuya",
+                "order": 10,
+                "role": "Kibitoshin",
+                "thumbnail": "http://thetvdb.com/banners/actors/351636.jpg"
+            },
+            {
+                "name": "Masaharu Satou",
+                "order": 11,
+                "role": "Muten Roshi",
+                "thumbnail": "http://thetvdb.com/banners/actors/350806.jpg"
+            },
+            {
+                "name": "Kōichi Yamadera",
+                "order": 12,
+                "role": "Beerus",
+                "thumbnail": "http://thetvdb.com/banners/actors/350781.jpg"
+            },
+            {
+                "name": "Masakazu Morita",
+                "order": 13,
+                "role": "Whis",
+                "thumbnail": "http://thetvdb.com/banners/actors/350780.jpg"
+            },
+            {
+                "name": "Masako Tsukada",
+                "order": 14,
+                "role": "Son Goten",
+                "thumbnail": "http://thetvdb.com/banners/actors/350779.jpg"
+            },
+            {
+                "name": "Kōzō Shioya",
+                "order": 15,
+                "role": "Boo",
+                "thumbnail": "http://thetvdb.com/banners/actors/350778.jpg"
+            },
+            {
+                "name": "Shino Kakinuma",
+                "order": 16,
+                "role": "Videl",
+                "thumbnail": "http://thetvdb.com/banners/actors/350771.jpg"
+            }
+        ],
+        "dateadded": "2015-07-21 00:17:14",
+        "episode": 3,
+        "episodeguide": "<episodeguide><url cache=\"295068-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/295068/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/295068-12.jpg",
+        "file": "smb://Ext/Media/Serien/Dragonball Super/",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Animation"
+        ],
+        "imdbnumber": "295068",
+        "label": "Dragon Ball Super",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "This sequel to Dragon Ball Z is set 6 months after Son Goku defeated the dangerous Majin Buu. Peace has returned to Earth and all the Dragon Ball champions are settling into more normal lives, or are they?",
+        "premiered": "2015-07-05",
+        "rating": 9.300000190734863,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "Fuji TV"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/295068-2.jpg",
+        "title": "Dragon Ball Super",
+        "tvshowid": 104,
+        "votes": "9",
+        "watchedepisodes": 0,
+        "year": 2015
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/295068/5238715.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/295068-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/295068-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/295068-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Masako Nozawa",
+                        "order": 0,
+                        "role": "Son Goku",
+                        "thumbnail": "http://thetvdb.com/banners/actors/348254.jpg"
+                    },
+                    {
+                        "name": "Mayumi Tanaka",
+                        "order": 1,
+                        "role": "Kulilin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350767.jpg"
+                    },
+                    {
+                        "name": "Hiromi Tsuru",
+                        "order": 2,
+                        "role": "Bulma",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350766.jpg"
+                    },
+                    {
+                        "name": "Unshô Ishizuka",
+                        "order": 3,
+                        "role": "Mr.Satan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350765.jpg"
+                    },
+                    {
+                        "name": "Toshio Furukawa",
+                        "order": 4,
+                        "role": "Piccolo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350764.jpg"
+                    },
+                    {
+                        "name": "Ryou Horikawa",
+                        "order": 5,
+                        "role": "Vegeta",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350763.jpg"
+                    },
+                    {
+                        "name": "Takeshi Kusao",
+                        "order": 6,
+                        "role": "Trunks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350770.jpg"
+                    },
+                    {
+                        "name": "Nozawa Masako",
+                        "order": 7,
+                        "role": "Son Gohan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350769.jpg"
+                    },
+                    {
+                        "name": "Naoko Watanabe",
+                        "order": 8,
+                        "role": "Chichi",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350768.jpg"
+                    },
+                    {
+                        "name": "Ryoichi Tanaka",
+                        "order": 9,
+                        "role": "Old Kaio-Shin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/351929.jpg"
+                    },
+                    {
+                        "name": "Yūji Mitsuya",
+                        "order": 10,
+                        "role": "Kibitoshin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/351636.jpg"
+                    },
+                    {
+                        "name": "Masaharu Satou",
+                        "order": 11,
+                        "role": "Muten Roshi",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350806.jpg"
+                    },
+                    {
+                        "name": "Kōichi Yamadera",
+                        "order": 12,
+                        "role": "Beerus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350781.jpg"
+                    },
+                    {
+                        "name": "Masakazu Morita",
+                        "order": 13,
+                        "role": "Whis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350780.jpg"
+                    },
+                    {
+                        "name": "Masako Tsukada",
+                        "order": 14,
+                        "role": "Son Goten",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350779.jpg"
+                    },
+                    {
+                        "name": "Kōzō Shioya",
+                        "order": 15,
+                        "role": "Boo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350778.jpg"
+                    },
+                    {
+                        "name": "Shino Kakinuma",
+                        "order": 16,
+                        "role": "Videl",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350771.jpg"
+                    }
+                ],
+                "dateadded": "2015-07-09 19:42:53",
+                "director": [
+                    "Kimitoshi Chioka"
+                ],
+                "episode": 1,
+                "episodeid": 2019,
+                "fanart": "http://thetvdb.com/banners/fanart/original/295068-12.jpg",
+                "file": "smb://Ext/Media/Serien/Dragonball Super/Season 1/Dragon.Ball.Super.E001.Der.Weltfriedenspreis.Subbed.2015.ANiME.HDTV.iNTERNAL.x264-STARS.mp4",
+                "firstaired": "2015-07-05",
+                "label": "1x01. The Peace Prize. Who'll Get the 100 Million Zeny?!",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Six months after the defeat of Majin Buu, peace has returned to Earth once more. Chi-Chi wants Goku to get a job, so he starts working as a radish farmer, although he really wants to train. Meanwhile, Gohan has become engaged to Videl, and Goten wants to give them an engagement present. He asks Trunks for advice and they go off searching for a present.",
+                "productioncode": "",
+                "rating": 10,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Dragon Ball Super",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/295068/5238715.jpg",
+                "title": "The Peace Prize. Who'll Get the 100 Million Zeny?!",
+                "tvshowid": 104,
+                "uniqueid": {
+                    "unknown": "5238715"
+                },
+                "votes": "2",
+                "writer": [
+                    "Akira Toriyama"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/295068/5268569.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/295068-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/295068-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/295068-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Masako Nozawa",
+                        "order": 0,
+                        "role": "Son Goku",
+                        "thumbnail": "http://thetvdb.com/banners/actors/348254.jpg"
+                    },
+                    {
+                        "name": "Mayumi Tanaka",
+                        "order": 1,
+                        "role": "Kulilin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350767.jpg"
+                    },
+                    {
+                        "name": "Hiromi Tsuru",
+                        "order": 2,
+                        "role": "Bulma",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350766.jpg"
+                    },
+                    {
+                        "name": "Unshô Ishizuka",
+                        "order": 3,
+                        "role": "Mr.Satan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350765.jpg"
+                    },
+                    {
+                        "name": "Toshio Furukawa",
+                        "order": 4,
+                        "role": "Piccolo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350764.jpg"
+                    },
+                    {
+                        "name": "Ryou Horikawa",
+                        "order": 5,
+                        "role": "Vegeta",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350763.jpg"
+                    },
+                    {
+                        "name": "Takeshi Kusao",
+                        "order": 6,
+                        "role": "Trunks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350770.jpg"
+                    },
+                    {
+                        "name": "Nozawa Masako",
+                        "order": 7,
+                        "role": "Son Gohan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350769.jpg"
+                    },
+                    {
+                        "name": "Naoko Watanabe",
+                        "order": 8,
+                        "role": "Chichi",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350768.jpg"
+                    },
+                    {
+                        "name": "Ryoichi Tanaka",
+                        "order": 9,
+                        "role": "Old Kaio-Shin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/351929.jpg"
+                    },
+                    {
+                        "name": "Yūji Mitsuya",
+                        "order": 10,
+                        "role": "Kibitoshin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/351636.jpg"
+                    },
+                    {
+                        "name": "Masaharu Satou",
+                        "order": 11,
+                        "role": "Muten Roshi",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350806.jpg"
+                    },
+                    {
+                        "name": "Kōichi Yamadera",
+                        "order": 12,
+                        "role": "Beerus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350781.jpg"
+                    },
+                    {
+                        "name": "Masakazu Morita",
+                        "order": 13,
+                        "role": "Whis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350780.jpg"
+                    },
+                    {
+                        "name": "Masako Tsukada",
+                        "order": 14,
+                        "role": "Son Goten",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350779.jpg"
+                    },
+                    {
+                        "name": "Kōzō Shioya",
+                        "order": 15,
+                        "role": "Boo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350778.jpg"
+                    },
+                    {
+                        "name": "Shino Kakinuma",
+                        "order": 16,
+                        "role": "Videl",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350771.jpg"
+                    }
+                ],
+                "dateadded": "2015-07-21 00:16:23",
+                "director": [
+                    "Kimitoshi Chioka"
+                ],
+                "episode": 2,
+                "episodeid": 2020,
+                "fanart": "http://thetvdb.com/banners/fanart/original/295068-12.jpg",
+                "file": "smb://Ext/Media/Serien/Dragonball Super/Season 1/Dragon.Ball.Super.E002.Der.versprochene.Urlaub.Subbed.2015.ANiME.720p.HDTV.iNTERNAL.x264-STARS.mp4",
+                "firstaired": "2015-07-12",
+                "label": "1x02. To the Promised Resort! Vegeta's Family Vacation?!",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Vegeta goes out with Bulma and Trunks to a resort area! Bulma and Trunks are very happy with this unexpected family time together! But even as he's doing this, Vegeta is bothered that Goku is off training?",
+                "productioncode": "",
+                "rating": 9.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Dragon Ball Super",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/295068/5268569.jpg",
+                "title": "To the Promised Resort! Vegeta's Family Vacation?!",
+                "tvshowid": 104,
+                "uniqueid": {
+                    "unknown": "5268569"
+                },
+                "votes": "2",
+                "writer": [
+                    "Akira Toriyama"
+                ]
+            },
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/295068/5271551.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/295068-g5.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/295068-12.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/295068-2.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Masako Nozawa",
+                        "order": 0,
+                        "role": "Son Goku",
+                        "thumbnail": "http://thetvdb.com/banners/actors/348254.jpg"
+                    },
+                    {
+                        "name": "Mayumi Tanaka",
+                        "order": 1,
+                        "role": "Kulilin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350767.jpg"
+                    },
+                    {
+                        "name": "Hiromi Tsuru",
+                        "order": 2,
+                        "role": "Bulma",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350766.jpg"
+                    },
+                    {
+                        "name": "Unshô Ishizuka",
+                        "order": 3,
+                        "role": "Mr.Satan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350765.jpg"
+                    },
+                    {
+                        "name": "Toshio Furukawa",
+                        "order": 4,
+                        "role": "Piccolo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350764.jpg"
+                    },
+                    {
+                        "name": "Ryou Horikawa",
+                        "order": 5,
+                        "role": "Vegeta",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350763.jpg"
+                    },
+                    {
+                        "name": "Takeshi Kusao",
+                        "order": 6,
+                        "role": "Trunks",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350770.jpg"
+                    },
+                    {
+                        "name": "Nozawa Masako",
+                        "order": 7,
+                        "role": "Son Gohan",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350769.jpg"
+                    },
+                    {
+                        "name": "Naoko Watanabe",
+                        "order": 8,
+                        "role": "Chichi",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350768.jpg"
+                    },
+                    {
+                        "name": "Ryoichi Tanaka",
+                        "order": 9,
+                        "role": "Old Kaio-Shin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/351929.jpg"
+                    },
+                    {
+                        "name": "Yūji Mitsuya",
+                        "order": 10,
+                        "role": "Kibitoshin",
+                        "thumbnail": "http://thetvdb.com/banners/actors/351636.jpg"
+                    },
+                    {
+                        "name": "Masaharu Satou",
+                        "order": 11,
+                        "role": "Muten Roshi",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350806.jpg"
+                    },
+                    {
+                        "name": "Kōichi Yamadera",
+                        "order": 12,
+                        "role": "Beerus",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350781.jpg"
+                    },
+                    {
+                        "name": "Masakazu Morita",
+                        "order": 13,
+                        "role": "Whis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350780.jpg"
+                    },
+                    {
+                        "name": "Masako Tsukada",
+                        "order": 14,
+                        "role": "Son Goten",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350779.jpg"
+                    },
+                    {
+                        "name": "Kōzō Shioya",
+                        "order": 15,
+                        "role": "Boo",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350778.jpg"
+                    },
+                    {
+                        "name": "Shino Kakinuma",
+                        "order": 16,
+                        "role": "Videl",
+                        "thumbnail": "http://thetvdb.com/banners/actors/350771.jpg"
+                    }
+                ],
+                "dateadded": "2015-07-21 00:17:14",
+                "director": [
+                    "Kimitoshi Chioka"
+                ],
+                "episode": 3,
+                "episodeid": 2021,
+                "fanart": "http://thetvdb.com/banners/fanart/original/295068-12.jpg",
+                "file": "smb://Ext/Media/Serien/Dragonball Super/Season 1/Dragon.Ball.Super.E003.Wo.ist.die.Fortsetzung.des.Traums.Subbed.2015.ANiME.720p.HDTV.iNTERNAL.x264-STARS.mp4",
+                "firstaired": "2015-07-19",
+                "label": "1x03. Where's the Rest of My Dream?! Find the Super Saiyan God!",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "Fearing what might happen now that the God of Destruction is awake, the Kaiō-shin urge Kaiō-sama to ensure that Son Goku never finds out about Beerus. However, Goku overhears the conversation and becomes curious. Back in his temple, Beerus and Whis continue their search for the Super Saiyan God. They soon learn of Son Goku and his feats and decide to pay him and Kaiō-sama a visit. Meanwhile, back on Earth, Goku's friends and family members being gathering on the cruise ship for Bulma's birthday party, except for Vegeta who is still training to overpower Goku and everyone else in the Universe.",
+                "productioncode": "",
+                "rating": 8.5,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 1500,
+                "season": 1,
+                "showtitle": "Dragon Ball Super",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/295068/5271551.jpg",
+                "title": "Where's the Rest of My Dream?! Find the Super Saiyan God!",
+                "tvshowid": 104,
+                "uniqueid": {
+                    "unknown": "5271551"
+                },
+                "votes": "2",
+                "writer": [
+                    "Akira Toriyama"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/295068-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/295068-g5.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/295068-12.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/295068-2.jpg"
+            },
+            "episode": 3,
+            "fanart": "http://thetvdb.com/banners/fanart/original/295068-12.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 551,
+            "showtitle": "Dragon Ball Super",
+            "thumbnail": "http://thetvdb.com/banners/seasons/295068-1-2.jpg",
+            "tvshowid": 104,
+            "watchedepisodes": 0
+        }
+    ]
+}

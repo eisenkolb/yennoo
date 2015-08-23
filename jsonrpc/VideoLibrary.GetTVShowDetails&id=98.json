@@ -1,0 +1,265 @@
+{
+    "tvshowdetails": {
+        "art": {
+            "banner": "http://thetvdb.com/banners/graphical/269602-g.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/269602-2.jpg",
+            "poster": "http://thetvdb.com/banners/posters/269602-4.jpg"
+        },
+        "cast": [
+            {
+                "name": "Adelaide Kane",
+                "order": 0,
+                "role": "Mary Stuart",
+                "thumbnail": "http://thetvdb.com/banners/actors/314864.jpg"
+            },
+            {
+                "name": "Torrance Coombs",
+                "order": 1,
+                "role": "Sebastian (Bash)",
+                "thumbnail": "http://thetvdb.com/banners/actors/314862.jpg"
+            },
+            {
+                "name": "Toby Regbo",
+                "order": 2,
+                "role": "Prince Francis",
+                "thumbnail": "http://thetvdb.com/banners/actors/314863.jpg"
+            },
+            {
+                "name": "Sean Teale",
+                "order": 3,
+                "role": "Louis Condé",
+                "thumbnail": "http://thetvdb.com/banners/actors/338657.jpg"
+            },
+            {
+                "name": "Jenessa Grant",
+                "order": 4,
+                "role": "Aylee",
+                "thumbnail": "http://thetvdb.com/banners/actors/320283.jpg"
+            },
+            {
+                "name": "Anna Popplewell",
+                "order": 5,
+                "role": "Lola",
+                "thumbnail": "http://thetvdb.com/banners/actors/320282.jpg"
+            },
+            {
+                "name": "Caitlin Stasey",
+                "order": 6,
+                "role": "Kenna",
+                "thumbnail": "http://thetvdb.com/banners/actors/320281.jpg"
+            },
+            {
+                "name": "Celina Sinden",
+                "order": 7,
+                "role": "Greer",
+                "thumbnail": "http://thetvdb.com/banners/actors/320280.jpg"
+            },
+            {
+                "name": "Alan Van Sprang",
+                "order": 8,
+                "role": "King Henry",
+                "thumbnail": "http://thetvdb.com/banners/actors/283520.jpg"
+            },
+            {
+                "name": "Megan Follows",
+                "order": 9,
+                "role": "Catherine de' Medici",
+                "thumbnail": "http://thetvdb.com/banners/actors/320278.jpg"
+            },
+            {
+                "name": "Jonathan Keltz",
+                "order": 20,
+                "role": "Leith Bayard"
+            },
+            {
+                "name": "Rose Williams",
+                "order": 21,
+                "role": "Princess Claude"
+            },
+            {
+                "name": "Skyler Wexler",
+                "order": 22,
+                "role": "Princess Claude (young)",
+                "thumbnail": "http://thetvdb.com/banners/actors/333187.jpg"
+            }
+        ],
+        "dateadded": "2013-11-09 16:14:33",
+        "episode": 1,
+        "episodeguide": "<episodeguide><url cache=\"269602-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/269602/all/en.zip</url></episodeguide>",
+        "fanart": "http://thetvdb.com/banners/fanart/original/269602-2.jpg",
+        "file": "smb://Ext/Media/Serien/Reign/",
+        "genre": [
+            "Drama"
+        ],
+        "imdbnumber": "269602",
+        "label": "Reign (2013)",
+        "lastplayed": "",
+        "mpaa": "TV-14",
+        "originaltitle": "",
+        "playcount": 0,
+        "plot": "Chronicles the rise to power of Mary Queen of Scots when she arrives in France as a 15-year-old, betrothed to Prince Francis, and with her three best friends as ladies-in-waiting. It details the secret history of survival at French Court amidst fierce foes, dark forces, and a world of sexual intrigue.",
+        "premiered": "2013-10-17",
+        "rating": 8,
+        "season": 1,
+        "sorttitle": "",
+        "studio": [
+            "The CW"
+        ],
+        "tag": [],
+        "thumbnail": "http://thetvdb.com/banners/posters/269602-4.jpg",
+        "title": "Reign (2013)",
+        "tvshowid": 98,
+        "votes": "21",
+        "watchedepisodes": 0,
+        "year": 2013
+    },
+    "episodes": {
+        "1": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/269602/4570259.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/269602-g.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269602-2.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/269602-4.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Adelaide Kane",
+                        "order": 0,
+                        "role": "Mary Stuart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314864.jpg"
+                    },
+                    {
+                        "name": "Torrance Coombs",
+                        "order": 1,
+                        "role": "Sebastian (Bash)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314862.jpg"
+                    },
+                    {
+                        "name": "Toby Regbo",
+                        "order": 2,
+                        "role": "Prince Francis",
+                        "thumbnail": "http://thetvdb.com/banners/actors/314863.jpg"
+                    },
+                    {
+                        "name": "Sean Teale",
+                        "order": 3,
+                        "role": "Louis Condé",
+                        "thumbnail": "http://thetvdb.com/banners/actors/338657.jpg"
+                    },
+                    {
+                        "name": "Jenessa Grant",
+                        "order": 4,
+                        "role": "Aylee",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320283.jpg"
+                    },
+                    {
+                        "name": "Anna Popplewell",
+                        "order": 5,
+                        "role": "Lola",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320282.jpg"
+                    },
+                    {
+                        "name": "Caitlin Stasey",
+                        "order": 6,
+                        "role": "Kenna",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320281.jpg"
+                    },
+                    {
+                        "name": "Celina Sinden",
+                        "order": 7,
+                        "role": "Greer",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320280.jpg"
+                    },
+                    {
+                        "name": "Alan Van Sprang",
+                        "order": 8,
+                        "role": "King Henry",
+                        "thumbnail": "http://thetvdb.com/banners/actors/283520.jpg"
+                    },
+                    {
+                        "name": "Megan Follows",
+                        "order": 9,
+                        "role": "Catherine de' Medici",
+                        "thumbnail": "http://thetvdb.com/banners/actors/320278.jpg"
+                    },
+                    {
+                        "name": "Jonathan Keltz",
+                        "order": 20,
+                        "role": "Leith Bayard"
+                    },
+                    {
+                        "name": "Rose Williams",
+                        "order": 21,
+                        "role": "Princess Claude"
+                    },
+                    {
+                        "name": "Skyler Wexler",
+                        "order": 22,
+                        "role": "Princess Claude (young)",
+                        "thumbnail": "http://thetvdb.com/banners/actors/333187.jpg"
+                    }
+                ],
+                "dateadded": "2013-11-09 16:14:33",
+                "director": [
+                    "Brad Silberling"
+                ],
+                "episode": 1,
+                "episodeid": 1945,
+                "fanart": "http://thetvdb.com/banners/fanart/original/269602-2.jpg",
+                "file": "smb://Ext/Media/Serien/Reign/Season 1/Reign.S01E01.Pilot.720p.WEB-DL.DD5.1.H.264-BS.mp4",
+                "firstaired": "2013-10-17",
+                "label": "1x01. Pilot",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "After spending a childhood safely hidden away in a monastery, a teenage Mary Stuart arrives in France where she has been sent to secure Scotland’s strategic alliance by formalizing her arranged engagement to the French King’s dashing son, Prince Francis. Further complicating things is Bash, Francis’ handsome, roguish half-brother and Francis’ mother, Queen Catherine. When the strong-willed Queen learns of a prophecy that marriage to Mary will cost Francis his life, she is determined to save her son, no matter how many others have to pay with their lives.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 3600,
+                "season": 1,
+                "showtitle": "Reign (2013)",
+                "streamdetails": {
+                    "audio": [],
+                    "subtitle": [],
+                    "video": []
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/269602/4570259.jpg",
+                "title": "Pilot",
+                "tvshowid": 98,
+                "uniqueid": {
+                    "unknown": "4570259"
+                },
+                "votes": "10",
+                "writer": [
+                    "Laurie McCarthy",
+                    "Stephanie Sengupta"
+                ]
+            }
+        ]
+    },
+    "seasons": [
+        {
+            "art": {
+                "poster": "http://thetvdb.com/banners/seasons/269602-1-2.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/269602-g.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/269602-2.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/269602-4.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/269602-2.jpg",
+            "label": "Staffel 1",
+            "playcount": 0,
+            "season": 1,
+            "seasonid": 530,
+            "showtitle": "Reign (2013)",
+            "thumbnail": "http://thetvdb.com/banners/seasons/269602-1-2.jpg",
+            "tvshowid": 98,
+            "watchedepisodes": 0
+        }
+    ]
+}

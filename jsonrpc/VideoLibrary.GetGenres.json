@@ -1,0 +1,216 @@
+{
+    "tvshow": [
+        {
+            "genreid": 1,
+            "label": "Crime",
+            "thumbnail": "",
+            "title": "Crime"
+        },
+        {
+            "genreid": 2,
+            "label": "Action",
+            "thumbnail": "",
+            "title": "Action"
+        },
+        {
+            "genreid": 3,
+            "label": "Thriller",
+            "thumbnail": "",
+            "title": "Thriller"
+        },
+        {
+            "genreid": 4,
+            "label": "Comedy",
+            "thumbnail": "",
+            "title": "Comedy"
+        },
+        {
+            "genreid": 6,
+            "label": "Drama",
+            "thumbnail": "",
+            "title": "Drama"
+        },
+        {
+            "genreid": 9,
+            "label": "Horror",
+            "thumbnail": "",
+            "title": "Horror"
+        },
+        {
+            "genreid": 10,
+            "label": "Adventure",
+            "thumbnail": "",
+            "title": "Adventure"
+        },
+        {
+            "genreid": 11,
+            "label": "Fantasy",
+            "thumbnail": "",
+            "title": "Fantasy"
+        },
+        {
+            "genreid": 12,
+            "label": "Family",
+            "thumbnail": "",
+            "title": "Family"
+        },
+        {
+            "genreid": 14,
+            "label": "Mystery",
+            "thumbnail": "",
+            "title": "Mystery"
+        },
+        {
+            "genreid": 16,
+            "label": "Western",
+            "thumbnail": "",
+            "title": "Western"
+        },
+        {
+            "genreid": 18,
+            "label": "Animation",
+            "thumbnail": "",
+            "title": "Animation"
+        },
+        {
+            "genreid": 20,
+            "label": "Science-Fiction",
+            "thumbnail": "",
+            "title": "Science-Fiction"
+        },
+        {
+            "genreid": 21,
+            "label": "Suspense",
+            "thumbnail": "",
+            "title": "Suspense"
+        },
+        {
+            "genreid": 22,
+            "label": "Children",
+            "thumbnail": "",
+            "title": "Children"
+        },
+        {
+            "genreid": 23,
+            "label": "Mini-Series",
+            "thumbnail": "",
+            "title": "Mini-Series"
+        }
+    ],
+    "movie": [
+        {
+            "genreid": 1,
+            "label": "Crime",
+            "thumbnail": "",
+            "title": "Crime"
+        },
+        {
+            "genreid": 2,
+            "label": "Action",
+            "thumbnail": "",
+            "title": "Action"
+        },
+        {
+            "genreid": 3,
+            "label": "Thriller",
+            "thumbnail": "",
+            "title": "Thriller"
+        },
+        {
+            "genreid": 4,
+            "label": "Comedy",
+            "thumbnail": "",
+            "title": "Comedy"
+        },
+        {
+            "genreid": 5,
+            "label": "Music",
+            "thumbnail": "",
+            "title": "Music"
+        },
+        {
+            "genreid": 6,
+            "label": "Drama",
+            "thumbnail": "",
+            "title": "Drama"
+        },
+        {
+            "genreid": 7,
+            "label": "Foreign",
+            "thumbnail": "",
+            "title": "Foreign"
+        },
+        {
+            "genreid": 8,
+            "label": "Science Fiction",
+            "thumbnail": "",
+            "title": "Science Fiction"
+        },
+        {
+            "genreid": 9,
+            "label": "Horror",
+            "thumbnail": "",
+            "title": "Horror"
+        },
+        {
+            "genreid": 10,
+            "label": "Adventure",
+            "thumbnail": "",
+            "title": "Adventure"
+        },
+        {
+            "genreid": 11,
+            "label": "Fantasy",
+            "thumbnail": "",
+            "title": "Fantasy"
+        },
+        {
+            "genreid": 12,
+            "label": "Family",
+            "thumbnail": "",
+            "title": "Family"
+        },
+        {
+            "genreid": 13,
+            "label": "War",
+            "thumbnail": "",
+            "title": "War"
+        },
+        {
+            "genreid": 14,
+            "label": "Mystery",
+            "thumbnail": "",
+            "title": "Mystery"
+        },
+        {
+            "genreid": 15,
+            "label": "Romance",
+            "thumbnail": "",
+            "title": "Romance"
+        },
+        {
+            "genreid": 16,
+            "label": "Western",
+            "thumbnail": "",
+            "title": "Western"
+        },
+        {
+            "genreid": 17,
+            "label": "History",
+            "thumbnail": "",
+            "title": "History"
+        },
+        {
+            "genreid": 18,
+            "label": "Animation",
+            "thumbnail": "",
+            "title": "Animation"
+        },
+        {
+            "genreid": 19,
+            "label": "Documentary",
+            "thumbnail": "",
+            "title": "Documentary"
+        }
+    ]
+}

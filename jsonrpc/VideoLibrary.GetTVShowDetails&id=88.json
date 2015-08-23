@@ -10,7 +10,7 @@
                 "name": "Elisabeth Moss",
                 "order": 0,
                 "role": "Robin Griffin",
-                "thumbnail": "http://thetvdb.com/banners/actors/300560.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/nHrsIJFqHzMrYPlsqEhkMelSS4a.jpg"
             },
             {
                 "name": "Holly Hunter",
@@ -28,7 +28,7 @@
                 "name": "David Wenham",
                 "order": 3,
                 "role": "Al Parker",
-                "thumbnail": "http://thetvdb.com/banners/actors/309903.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/hOG5mAd5pzT30V6adkwkpe87HY7.jpg"
             },
             {
                 "name": "Peter Mullan",
@@ -41,7 +41,7 @@
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"260320-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/260320/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/260320-4.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Top of the Lake/",
+        "file": "smb://Ext/Media/Serien/Top of the Lake/",
         "genre": [
             "Crime",
             "Drama",
@@ -83,7 +83,7 @@
                         "name": "Elisabeth Moss",
                         "order": 0,
                         "role": "Robin Griffin",
-                        "thumbnail": "http://thetvdb.com/banners/actors/300560.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/nHrsIJFqHzMrYPlsqEhkMelSS4a.jpg"
                     },
                     {
                         "name": "Holly Hunter",
@@ -101,7 +101,7 @@
                         "name": "David Wenham",
                         "order": 3,
                         "role": "Al Parker",
-                        "thumbnail": "http://thetvdb.com/banners/actors/309903.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/hOG5mAd5pzT30V6adkwkpe87HY7.jpg"
                     },
                     {
                         "name": "Peter Mullan",
@@ -117,7 +117,7 @@
                 "episode": 1,
                 "episodeid": 1741,
                 "fanart": "http://thetvdb.com/banners/fanart/original/260320-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Top of the Lake/Season 1/Top.of.the.Lake.S01E01.German.BDRip.x264-iNTENTiON.mkv",
+                "file": "smb://Ext/Media/Serien/Top of the Lake/Season 1/Top.of.the.Lake.S01E01.German.BDRip.x264-iNTENTiON.mkv",
                 "firstaired": "2013-03-18",
                 "label": "1x01. Episode 1",
                 "lastplayed": "",

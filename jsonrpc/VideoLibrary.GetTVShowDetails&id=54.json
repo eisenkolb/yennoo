@@ -2,8 +2,8 @@
     "tvshowdetails": {
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
-            "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-            "poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+            "fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+            "poster": "http://thetvdb.com/banners/posters/259632-3.jpg"
         },
         "cast": [
             {
@@ -16,19 +16,19 @@
                 "name": "Milo Ventimiglia",
                 "order": 1,
                 "role": "Ned Stax",
-                "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
             },
             {
                 "name": "Jeffrey DeMunn",
                 "order": 2,
                 "role": "Hal Morrison",
-                "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/wMRlF3VRApPduQBAuNEVM4ncYcN.jpg"
             },
             {
                 "name": "Gregory Itzin",
                 "order": 3,
                 "role": "Mayor Fletcher Bowron",
-                "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/wx5Tvzw9jvSAenXDfv1qJbI9vWF.jpg"
             },
             {
                 "name": "Robert Knepper",
@@ -46,13 +46,13 @@
                 "name": "Alexa Davalos",
                 "order": 6,
                 "role": "Jasmine",
-                "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/onvfPN3sVPiNKrmUwpAV5XgjzsX.jpg"
             },
             {
                 "name": "Neal McDonough",
                 "order": 7,
                 "role": "Captain William Parker",
-                "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/8Vg7WKE4QEGz18at8mQHP9aqEbB.jpg"
             },
             {
                 "name": "Edward Burns",
@@ -64,8 +64,8 @@
         "dateadded": "2015-02-16 23:11:30",
         "episode": 6,
         "episodeguide": "<episodeguide><url cache=\"259632-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/259632/all/en.zip</url></episodeguide>",
-        "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/",
+        "fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+        "file": "smb://Ext/Media/Serien/Mob City/",
         "genre": [
             "Crime",
             "Drama"
@@ -85,7 +85,7 @@
             "TNT"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/259632-4.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/259632-3.jpg",
         "title": "Mob City",
         "tvshowid": 54,
         "votes": "13",
@@ -98,8 +98,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259632/4420323.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-3.jpg"
                 },
                 "cast": [
                     {
@@ -117,19 +117,19 @@
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Ned Stax",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Jeffrey DeMunn",
                         "order": 2,
                         "role": "Hal Morrison",
-                        "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wMRlF3VRApPduQBAuNEVM4ncYcN.jpg"
                     },
                     {
                         "name": "Gregory Itzin",
                         "order": 3,
                         "role": "Mayor Fletcher Bowron",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wx5Tvzw9jvSAenXDfv1qJbI9vWF.jpg"
                     },
                     {
                         "name": "Robert Knepper",
@@ -147,13 +147,13 @@
                         "name": "Alexa Davalos",
                         "order": 6,
                         "role": "Jasmine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/onvfPN3sVPiNKrmUwpAV5XgjzsX.jpg"
                     },
                     {
                         "name": "Neal McDonough",
                         "order": 7,
                         "role": "Captain William Parker",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8Vg7WKE4QEGz18at8mQHP9aqEbB.jpg"
                     },
                     {
                         "name": "Edward Burns",
@@ -168,8 +168,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 888,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/Season 1/Mob.City.S01E01.A.Guy.Walks.Into.a.Bar.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                "file": "smb://Ext/Media/Serien/Mob City/Season 1/Mob.City.S01E01.A.Guy.Walks.Into.a.Bar.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
                 "firstaired": "2013-12-04",
                 "label": "1x01. A Guy Walks Into A Bar",
                 "lastplayed": "",
@@ -205,8 +205,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259632/4707699.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-3.jpg"
                 },
                 "cast": [
                     {
@@ -225,19 +225,19 @@
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Ned Stax",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Jeffrey DeMunn",
                         "order": 2,
                         "role": "Hal Morrison",
-                        "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wMRlF3VRApPduQBAuNEVM4ncYcN.jpg"
                     },
                     {
                         "name": "Gregory Itzin",
                         "order": 3,
                         "role": "Mayor Fletcher Bowron",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wx5Tvzw9jvSAenXDfv1qJbI9vWF.jpg"
                     },
                     {
                         "name": "Robert Knepper",
@@ -255,13 +255,13 @@
                         "name": "Alexa Davalos",
                         "order": 6,
                         "role": "Jasmine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/onvfPN3sVPiNKrmUwpAV5XgjzsX.jpg"
                     },
                     {
                         "name": "Neal McDonough",
                         "order": 7,
                         "role": "Captain William Parker",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8Vg7WKE4QEGz18at8mQHP9aqEbB.jpg"
                     },
                     {
                         "name": "Edward Burns",
@@ -276,8 +276,8 @@
                 ],
                 "episode": 2,
                 "episodeid": 889,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/Season 1/Mob.City.S01E02.Reason.To.Kill.A.Man.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                "file": "smb://Ext/Media/Serien/Mob City/Season 1/Mob.City.S01E02.Reason.To.Kill.A.Man.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
                 "firstaired": "2013-12-04",
                 "label": "1x02. Reason to Kill a Man",
                 "lastplayed": "",
@@ -313,8 +313,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259632/4707700.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-3.jpg"
                 },
                 "cast": [
                     {
@@ -327,19 +327,19 @@
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Ned Stax",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Jeffrey DeMunn",
                         "order": 2,
                         "role": "Hal Morrison",
-                        "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wMRlF3VRApPduQBAuNEVM4ncYcN.jpg"
                     },
                     {
                         "name": "Gregory Itzin",
                         "order": 3,
                         "role": "Mayor Fletcher Bowron",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wx5Tvzw9jvSAenXDfv1qJbI9vWF.jpg"
                     },
                     {
                         "name": "Robert Knepper",
@@ -357,13 +357,13 @@
                         "name": "Alexa Davalos",
                         "order": 6,
                         "role": "Jasmine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/onvfPN3sVPiNKrmUwpAV5XgjzsX.jpg"
                     },
                     {
                         "name": "Neal McDonough",
                         "order": 7,
                         "role": "Captain William Parker",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8Vg7WKE4QEGz18at8mQHP9aqEbB.jpg"
                     },
                     {
                         "name": "Edward Burns",
@@ -378,8 +378,8 @@
                 ],
                 "episode": 3,
                 "episodeid": 890,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/Season 1/Mob.City.S01E03.Red.Light.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                "file": "smb://Ext/Media/Serien/Mob City/Season 1/Mob.City.S01E03.Red.Light.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
                 "firstaired": "2013-12-11",
                 "label": "1x03. Red Light",
                 "lastplayed": "",
@@ -415,8 +415,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259632/4707701.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-3.jpg"
                 },
                 "cast": [
                     {
@@ -429,19 +429,19 @@
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Ned Stax",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Jeffrey DeMunn",
                         "order": 2,
                         "role": "Hal Morrison",
-                        "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wMRlF3VRApPduQBAuNEVM4ncYcN.jpg"
                     },
                     {
                         "name": "Gregory Itzin",
                         "order": 3,
                         "role": "Mayor Fletcher Bowron",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wx5Tvzw9jvSAenXDfv1qJbI9vWF.jpg"
                     },
                     {
                         "name": "Robert Knepper",
@@ -459,13 +459,13 @@
                         "name": "Alexa Davalos",
                         "order": 6,
                         "role": "Jasmine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/onvfPN3sVPiNKrmUwpAV5XgjzsX.jpg"
                     },
                     {
                         "name": "Neal McDonough",
                         "order": 7,
                         "role": "Captain William Parker",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8Vg7WKE4QEGz18at8mQHP9aqEbB.jpg"
                     },
                     {
                         "name": "Edward Burns",
@@ -480,8 +480,8 @@
                 ],
                 "episode": 4,
                 "episodeid": 891,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/Season 1/Mob.City.S01E04.New.Tempting.Ways.To.Serve.Bananas.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                "file": "smb://Ext/Media/Serien/Mob City/Season 1/Mob.City.S01E04.New.Tempting.Ways.To.Serve.Bananas.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
                 "firstaired": "2013-12-11",
                 "label": "1x04. His Banana Majesty",
                 "lastplayed": "",
@@ -517,8 +517,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259632/4707702.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-3.jpg"
                 },
                 "cast": [
                     {
@@ -531,19 +531,19 @@
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Ned Stax",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Jeffrey DeMunn",
                         "order": 2,
                         "role": "Hal Morrison",
-                        "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wMRlF3VRApPduQBAuNEVM4ncYcN.jpg"
                     },
                     {
                         "name": "Gregory Itzin",
                         "order": 3,
                         "role": "Mayor Fletcher Bowron",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wx5Tvzw9jvSAenXDfv1qJbI9vWF.jpg"
                     },
                     {
                         "name": "Robert Knepper",
@@ -561,13 +561,13 @@
                         "name": "Alexa Davalos",
                         "order": 6,
                         "role": "Jasmine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/onvfPN3sVPiNKrmUwpAV5XgjzsX.jpg"
                     },
                     {
                         "name": "Neal McDonough",
                         "order": 7,
                         "role": "Captain William Parker",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8Vg7WKE4QEGz18at8mQHP9aqEbB.jpg"
                     },
                     {
                         "name": "Edward Burns",
@@ -582,8 +582,8 @@
                 ],
                 "episode": 5,
                 "episodeid": 892,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/Season 1/Mob.City.S01E05.Oxpecker.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                "file": "smb://Ext/Media/Serien/Mob City/Season 1/Mob.City.S01E05.Oxpecker.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
                 "firstaired": "2013-12-18",
                 "label": "1x05. Oxpecker",
                 "lastplayed": "",
@@ -619,8 +619,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/259632/4707703.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/259632-3.jpg"
                 },
                 "cast": [
                     {
@@ -633,19 +633,19 @@
                         "name": "Milo Ventimiglia",
                         "order": 1,
                         "role": "Ned Stax",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299592.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/maJeS6bA6ku21rSRceISQtwHL2h.jpg"
                     },
                     {
                         "name": "Jeffrey DeMunn",
                         "order": 2,
                         "role": "Hal Morrison",
-                        "thumbnail": "http://thetvdb.com/banners/actors/187981.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wMRlF3VRApPduQBAuNEVM4ncYcN.jpg"
                     },
                     {
                         "name": "Gregory Itzin",
                         "order": 3,
                         "role": "Mayor Fletcher Bowron",
-                        "thumbnail": "http://thetvdb.com/banners/actors/321608.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wx5Tvzw9jvSAenXDfv1qJbI9vWF.jpg"
                     },
                     {
                         "name": "Robert Knepper",
@@ -663,13 +663,13 @@
                         "name": "Alexa Davalos",
                         "order": 6,
                         "role": "Jasmine",
-                        "thumbnail": "http://thetvdb.com/banners/actors/304576.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/onvfPN3sVPiNKrmUwpAV5XgjzsX.jpg"
                     },
                     {
                         "name": "Neal McDonough",
                         "order": 7,
                         "role": "Captain William Parker",
-                        "thumbnail": "http://thetvdb.com/banners/actors/299594.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/8Vg7WKE4QEGz18at8mQHP9aqEbB.jpg"
                     },
                     {
                         "name": "Edward Burns",
@@ -684,8 +684,8 @@
                 ],
                 "episode": 6,
                 "episodeid": 893,
-                "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Mob City/Season 1/Mob.City.S01E06.Stay.Down.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                "file": "smb://Ext/Media/Serien/Mob City/Season 1/Mob.City.S01E06.Stay.Down.GERMAN.DUBBED.DL.720p.WebHD.x264-TVP.mkv",
                 "firstaired": "2013-12-18",
                 "label": "1x06. Stay Down",
                 "lastplayed": "",
@@ -725,11 +725,11 @@
             "art": {
                 "poster": "http://thetvdb.com/banners/seasons/259632-1-4.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/259632-g5.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/259632-4.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/259632-3.jpg"
             },
             "episode": 6,
-            "fanart": "http://thetvdb.com/banners/fanart/original/259632-3.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/259632-8.jpg",
             "label": "Staffel 1",
             "playcount": 0,
             "season": 1,

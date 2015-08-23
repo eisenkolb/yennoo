@@ -2,8 +2,8 @@
     "tvshowdetails": {
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-            "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-            "poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+            "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+            "poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
         },
         "cast": [
             {
@@ -64,7 +64,7 @@
                 "name": "F. Murray Abraham",
                 "order": 9,
                 "role": "Dar Adal",
-                "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
             },
             {
                 "name": "Nazanin Boniadi",
@@ -94,7 +94,7 @@
                 "name": "David Harewood",
                 "order": 14,
                 "role": "David Estes",
-                "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
             },
             {
                 "name": "Morena Baccarin",
@@ -109,11 +109,11 @@
                 "thumbnail": "http://thetvdb.com/banners/actors/289357.jpg"
             }
         ],
-        "dateadded": "2014-05-26 16:47:18",
-        "episode": 36,
+        "dateadded": "2015-08-23 03:39:36",
+        "episode": 37,
         "episodeguide": "<episodeguide><url cache=\"247897-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/247897/all/en.zip</url></episodeguide>",
-        "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/",
+        "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+        "file": "smb://Ext/Media/Serien/Homeland/",
         "genre": [
             "Crime",
             "Drama",
@@ -129,13 +129,13 @@
         "plot": "While in Iraq, Carrie Mathison, a Central Intelligence Agency operations officer, had been warned by an asset that an American prisoner of war had been turned by al-Qaeda. After conducting an unauthorized operation in Iraq, Carrie is put on probation and reassigned to the CIA's Counter-terrorism Center in Langley, Virginia.",
         "premiered": "2011-10-02",
         "rating": 8.300000190734863,
-        "season": 3,
+        "season": 4,
         "sorttitle": "",
         "studio": [
             "Showtime"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/247897-17.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/247897-15.jpg",
         "title": "Homeland",
         "tvshowid": 44,
         "votes": "248",
@@ -148,8 +148,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4079947.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -171,7 +171,8 @@
                     {
                         "name": "Maury Sterling",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Kj5xu4cREwmBxGOnWM0XoypFM4.jpg"
                     },
                     {
                         "name": "Nestor Serrano",
@@ -246,7 +247,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -276,7 +277,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -297,8 +298,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 750,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 1/Homeland.S01E01.Der.Verdacht.German.DL.720p.BluRay.x264-iNTENTiON.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 1/Homeland.S01E01.Der.Verdacht.German.DL.720p.BluRay.x264-iNTENTiON.mkv",
                 "firstaired": "2011-10-02",
                 "label": "1x01. Pilot",
                 "lastplayed": "",
@@ -336,8 +337,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4175251.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -354,7 +355,8 @@
                     {
                         "name": "Maury Sterling",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Kj5xu4cREwmBxGOnWM0XoypFM4.jpg"
                     },
                     {
                         "name": "Navid Negahban",
@@ -382,7 +384,7 @@
                         "name": "Brianna Brown",
                         "order": 7,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/302707.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/wtGWpYCDwOXifKSOZ1UiLjFC9Vv.jpg"
                     },
                     {
                         "name": "Claire Danes",
@@ -442,7 +444,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -472,7 +474,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -493,8 +495,8 @@
                 ],
                 "episode": 2,
                 "episodeid": 751,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 1/Homeland.S01E02.Die.Garage.GERMAN.DUBBED.DL.720p.BLURAY.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 1/Homeland.S01E02.Die.Garage.GERMAN.DUBBED.DL.720p.BLURAY.x264-euHD.mkv",
                 "firstaired": "2011-10-09",
                 "label": "1x02. Grace",
                 "lastplayed": "",
@@ -530,8 +532,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4175252.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -542,7 +544,8 @@
                     {
                         "name": "Maury Sterling",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Kj5xu4cREwmBxGOnWM0XoypFM4.jpg"
                     },
                     {
                         "name": "Navid Negahban",
@@ -629,7 +632,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -659,7 +662,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -680,8 +683,8 @@
                 ],
                 "episode": 3,
                 "episodeid": 752,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 1/Homeland.S01E03.Die.Halskette.GERMAN.DUBBED.DL.720p.BLURAY.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 1/Homeland.S01E03.Die.Halskette.GERMAN.DUBBED.DL.720p.BLURAY.x264-euHD.mkv",
                 "firstaired": "2011-10-16",
                 "label": "1x03. Clean Skin",
                 "lastplayed": "",
@@ -717,8 +720,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4175253.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -729,7 +732,8 @@
                     {
                         "name": "Maury Sterling",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Kj5xu4cREwmBxGOnWM0XoypFM4.jpg"
                     },
                     {
                         "name": "Navid Negahban",
@@ -815,7 +819,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -845,7 +849,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -866,8 +870,8 @@
                 ],
                 "episode": 4,
                 "episodeid": 753,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 1/Homeland.S01E04.Allein.im.Regen.GERMAN.DUBBED.DL.720p.BLURAY.REPACK.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 1/Homeland.S01E04.Allein.im.Regen.GERMAN.DUBBED.DL.720p.BLURAY.REPACK.x264-euHD.mkv",
                 "firstaired": "2011-10-23",
                 "label": "1x04. Semper I",
                 "lastplayed": "",
@@ -904,8 +908,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4175254.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -916,7 +920,8 @@
                     {
                         "name": "Maury Sterling",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/4Kj5xu4cREwmBxGOnWM0XoypFM4.jpg"
                     },
                     {
                         "name": "Navid Negahban",
@@ -1002,7 +1007,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -1032,7 +1037,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -1053,8 +1058,8 @@
                 ],
                 "episode": 5,
                 "episodeid": 754,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 1/Homeland.S01E05.Die.Klinge.GERMAN.DUBBED.DL.720p.BLURAY.x264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 1/Homeland.S01E05.Die.Klinge.GERMAN.DUBBED.DL.720p.BLURAY.x264-euHD.mkv",
                 "firstaired": "2011-10-30",
                 "label": "1x05. Blind Spot",
                 "lastplayed": "",
@@ -1090,8 +1095,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4175255.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -1182,7 +1187,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -1212,7 +1217,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -1233,8 +1238,8 @@
                 ],
                 "episode": 6,
                 "episodeid": 755,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 1/Homeland.S01E06.Luegen.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 1/Homeland.S01E06.Luegen.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
                 "firstaired": "2011-11-06",
                 "label": "1x06. The Good Soldier",
                 "lastplayed": "",
@@ -1270,8 +1275,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4175256.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -1367,7 +1372,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -1397,7 +1402,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -1418,8 +1423,8 @@
                 ],
                 "episode": 7,
                 "episodeid": 756,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 1/Homeland.S01E07.Die.Huette.am.See.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 1/Homeland.S01E07.Die.Huette.am.See.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
                 "firstaired": "2011-11-13",
                 "label": "1x07. The Weekend",
                 "lastplayed": "",
@@ -1455,8 +1460,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4182830.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -1548,7 +1553,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -1578,7 +1583,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -1599,8 +1604,8 @@
                 ],
                 "episode": 8,
                 "episodeid": 757,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 1/Homeland.S01E08.Kameraden.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 1/Homeland.S01E08.Kameraden.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
                 "firstaired": "2011-11-20",
                 "label": "1x08. Achilles Heel",
                 "lastplayed": "",
@@ -1636,8 +1641,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4198125.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -1735,7 +1740,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -1765,7 +1770,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -1786,8 +1791,8 @@
                 ],
                 "episode": 9,
                 "episodeid": 758,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 1/Homeland.S01E09.Issa.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 1/Homeland.S01E09.Issa.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
                 "firstaired": "2011-11-27",
                 "label": "1x09. Crossfire",
                 "lastplayed": "",
@@ -1823,8 +1828,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4198126.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -1915,7 +1920,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -1945,7 +1950,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -1966,8 +1971,8 @@
                 ],
                 "episode": 10,
                 "episodeid": 759,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 1/Homeland.S01E10.Der.Kandidat.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 1/Homeland.S01E10.Der.Kandidat.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
                 "firstaired": "2011-12-04",
                 "label": "1x10. Representative Brody",
                 "lastplayed": "",
@@ -2004,8 +2009,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4198127.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -2096,7 +2101,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -2126,7 +2131,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -2147,8 +2152,8 @@
                 ],
                 "episode": 11,
                 "episodeid": 760,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 1/Homeland.S01E11.Die.Weste.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 1/Homeland.S01E11.Die.Weste.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
                 "firstaired": "2011-12-11",
                 "label": "1x11. The Vest",
                 "lastplayed": "",
@@ -2185,8 +2190,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4198128.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -2283,7 +2288,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -2313,7 +2318,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -2334,8 +2339,8 @@
                 ],
                 "episode": 12,
                 "episodeid": 761,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 1/Homeland.S01E12.Marine.One.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 1/Homeland.S01E12.Marine.One.GERMAN.DUBBED.DL.720p.BluRay.h264-euHD.mkv",
                 "firstaired": "2011-12-18",
                 "label": "1x12. Marine One",
                 "lastplayed": "",
@@ -2374,8 +2379,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4303747.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -2436,7 +2441,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -2466,7 +2471,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -2487,8 +2492,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 762,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 2/Homeland.S02E01.German.DD51.DL.720p.BD.x264-4SJ.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 2/Homeland.S02E01.German.DD51.DL.720p.BD.x264-4SJ.mkv",
                 "firstaired": "2012-09-30",
                 "label": "2x01. The Smile",
                 "lastplayed": "",
@@ -2525,8 +2530,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4333794.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -2587,7 +2592,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -2617,7 +2622,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -2638,8 +2643,8 @@
                 ],
                 "episode": 2,
                 "episodeid": 763,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 2/Homeland.S02E02.German.DD51.DL.720p.BD.x264-4SJ.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 2/Homeland.S02E02.German.DD51.DL.720p.BD.x264-4SJ.mkv",
                 "firstaired": "2012-10-07",
                 "label": "2x02. Beirut is Back",
                 "lastplayed": "",
@@ -2675,8 +2680,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4333795.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -2737,7 +2742,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -2767,7 +2772,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -2788,8 +2793,8 @@
                 ],
                 "episode": 3,
                 "episodeid": 764,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 2/Homeland.S02E03.German.DD51.DL.720p.BD.x264-4SJ.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 2/Homeland.S02E03.German.DD51.DL.720p.BD.x264-4SJ.mkv",
                 "firstaired": "2012-10-14",
                 "label": "2x03. State of Independence",
                 "lastplayed": "",
@@ -2825,8 +2830,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4336562.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -2887,7 +2892,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -2917,7 +2922,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -2938,8 +2943,8 @@
                 ],
                 "episode": 4,
                 "episodeid": 765,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 2/Homeland.S02E04.German.DD51.DL.720p.BD.x264-4SJ.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 2/Homeland.S02E04.German.DD51.DL.720p.BD.x264-4SJ.mkv",
                 "firstaired": "2012-10-21",
                 "label": "2x04. New Car Smell",
                 "lastplayed": "",
@@ -2975,8 +2980,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4376938.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -3037,7 +3042,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -3067,7 +3072,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -3088,8 +3093,8 @@
                 ],
                 "episode": 5,
                 "episodeid": 766,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 2/Homeland.S02E05.German.DD51.DL.720p.BD.x264-4SJ.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 2/Homeland.S02E05.German.DD51.DL.720p.BD.x264-4SJ.mkv",
                 "firstaired": "2012-10-28",
                 "label": "2x05. Q&A",
                 "lastplayed": "",
@@ -3125,8 +3130,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4366700.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -3187,7 +3192,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -3217,7 +3222,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -3238,8 +3243,8 @@
                 ],
                 "episode": 6,
                 "episodeid": 767,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 2/Homeland.S02E06.German.DD51.DL.720p.BD.x264-4SJ.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 2/Homeland.S02E06.German.DD51.DL.720p.BD.x264-4SJ.mkv",
                 "firstaired": "2012-11-04",
                 "label": "2x06. A Gettysburg Address",
                 "lastplayed": "",
@@ -3275,8 +3280,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4366701.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -3337,7 +3342,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -3367,7 +3372,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -3388,8 +3393,8 @@
                 ],
                 "episode": 7,
                 "episodeid": 768,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 2/Homeland.S02E07.German.DD51.DL.720p.BD.x264-4SJ.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 2/Homeland.S02E07.German.DD51.DL.720p.BD.x264-4SJ.mkv",
                 "firstaired": "2012-11-11",
                 "label": "2x07. The Clearing",
                 "lastplayed": "",
@@ -3425,8 +3430,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4382125.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -3498,7 +3503,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -3528,7 +3533,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -3549,8 +3554,8 @@
                 ],
                 "episode": 8,
                 "episodeid": 769,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 2/Homeland.S02E08.German.DD51.DL.720p.BD.x264-4SJ.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 2/Homeland.S02E08.German.DD51.DL.720p.BD.x264-4SJ.mkv",
                 "firstaired": "2012-11-18",
                 "label": "2x08. I'll Fly Away",
                 "lastplayed": "",
@@ -3587,8 +3592,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4382126.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -3649,7 +3654,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -3679,7 +3684,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -3700,8 +3705,8 @@
                 ],
                 "episode": 9,
                 "episodeid": 770,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 2/Homeland.S02E09.German.DD51.DL.720p.BD.x264-4SJ.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 2/Homeland.S02E09.German.DD51.DL.720p.BD.x264-4SJ.mkv",
                 "firstaired": "2012-11-25",
                 "label": "2x09. Two Hats",
                 "lastplayed": "",
@@ -3737,8 +3742,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4402617.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -3776,7 +3781,7 @@
                         "name": "F. Murray Abraham",
                         "order": 6,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Claire Danes",
@@ -3860,7 +3865,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -3881,8 +3886,8 @@
                 ],
                 "episode": 10,
                 "episodeid": 771,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 2/Homeland.S02E10.German.DD51.DL.720p.BD.x264-4SJ.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 2/Homeland.S02E10.German.DD51.DL.720p.BD.x264-4SJ.mkv",
                 "firstaired": "2012-12-02",
                 "label": "2x10. Broken Hearts",
                 "lastplayed": "",
@@ -3918,8 +3923,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4402619.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -3991,7 +3996,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -4021,7 +4026,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -4042,8 +4047,8 @@
                 ],
                 "episode": 11,
                 "episodeid": 772,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 2/Homeland.S02E11.German.DD51.DL.720p.BD.x264-4SJ.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 2/Homeland.S02E11.German.DD51.DL.720p.BD.x264-4SJ.mkv",
                 "firstaired": "2012-12-09",
                 "label": "2x11. In Memoriam",
                 "lastplayed": "",
@@ -4079,8 +4084,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4402622.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -4097,7 +4102,8 @@
                     {
                         "name": "John Cariani",
                         "order": 2,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/bdE7RAXV8PjKuhAbvMTrIqHeoxh.jpg"
                     },
                     {
                         "name": "Gordon Dillard Jr.",
@@ -4172,7 +4178,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -4202,7 +4208,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -4223,8 +4229,8 @@
                 ],
                 "episode": 12,
                 "episodeid": 773,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 2/Homeland.S02E12.German.DD51.DL.720p.BD.x264-4SJ.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 2/Homeland.S02E12.German.DD51.DL.720p.BD.x264-4SJ.mkv",
                 "firstaired": "2012-12-16",
                 "label": "2x12. The Choice",
                 "lastplayed": "",
@@ -4263,8 +4269,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4508211.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -4325,7 +4331,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -4355,7 +4361,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -4376,8 +4382,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 774,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 3/Homeland.S03E01.Sechs.oder.keiner.German.DD51.Dubbed.DL.720p.iTunesHD.AVC-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 3/Homeland.S03E01.Sechs.oder.keiner.German.DD51.Dubbed.DL.720p.iTunesHD.AVC-TVS.mkv",
                 "firstaired": "2013-09-29",
                 "label": "3x01. Tin Man is Down",
                 "lastplayed": "",
@@ -4414,8 +4420,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4562419.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -4502,7 +4508,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Rupert Friend",
@@ -4526,7 +4532,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -4547,8 +4553,8 @@
                 ],
                 "episode": 2,
                 "episodeid": 775,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 3/Homeland.S03E02.Die.Spur.des.Geldes.German.DD51.Dubbed.DL.720p.iTunesHD.AVC-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 3/Homeland.S03E02.Die.Spur.des.Geldes.German.DD51.Dubbed.DL.720p.iTunesHD.AVC-TVS.mkv",
                 "firstaired": "2013-10-06",
                 "label": "3x02. Uh... Oh... Ah...",
                 "lastplayed": "",
@@ -4584,8 +4590,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4591566.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -4646,7 +4652,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -4676,7 +4682,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -4697,8 +4703,8 @@
                 ],
                 "episode": 3,
                 "episodeid": 776,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 3/Homeland.S03E03.Endstation.Caracas.German.DD51.Dubbed.DL.720p.iTunesHD.AVC-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 3/Homeland.S03E03.Endstation.Caracas.German.DD51.Dubbed.DL.720p.iTunesHD.AVC-TVS.mkv",
                 "firstaired": "2013-10-13",
                 "label": "3x03. Tower of David",
                 "lastplayed": "",
@@ -4735,8 +4741,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4591568.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -4797,7 +4803,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -4827,7 +4833,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -4848,8 +4854,8 @@
                 ],
                 "episode": 4,
                 "episodeid": 777,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 3/Homeland.S03E04.Das.Risiko.German.DD51.Dubbed.DL.720p.iTunesHD.AVC-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 3/Homeland.S03E04.Das.Risiko.German.DD51.Dubbed.DL.720p.iTunesHD.AVC-TVS.mkv",
                 "firstaired": "2013-10-20",
                 "label": "3x04. Game On",
                 "lastplayed": "",
@@ -4886,8 +4892,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4597331.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -4948,7 +4954,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -4978,7 +4984,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -4999,8 +5005,8 @@
                 ],
                 "episode": 5,
                 "episodeid": 778,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 3/Homeland.S03E05.Das.Yoga.Spiel.German.DD51.Dubbed.DL.720p.iTunesHD.AVC-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 3/Homeland.S03E05.Das.Yoga.Spiel.German.DD51.Dubbed.DL.720p.iTunesHD.AVC-TVS.mkv",
                 "firstaired": "2013-10-27",
                 "label": "3x05. The Yoga Play",
                 "lastplayed": "",
@@ -5036,8 +5042,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4611506.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -5098,7 +5104,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -5128,7 +5134,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -5149,8 +5155,8 @@
                 ],
                 "episode": 6,
                 "episodeid": 779,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 3/Homeland.S03E06.Machtwechsel.German.DD51.Dubbed.DL.720p.iTunesHD.AVC-TVS.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 3/Homeland.S03E06.Machtwechsel.German.DD51.Dubbed.DL.720p.iTunesHD.AVC-TVS.mkv",
                 "firstaired": "2013-11-03",
                 "label": "3x06. Still Positive",
                 "lastplayed": "",
@@ -5187,8 +5193,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4611507.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -5249,7 +5255,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -5279,7 +5285,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -5300,8 +5306,8 @@
                 ],
                 "episode": 7,
                 "episodeid": 780,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 3/Homeland.S03E07.Der.Fluch.alter.Maenner.GERMAN.DUBBED.DL.720p.WebHD.h26.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 3/Homeland.S03E07.Der.Fluch.alter.Maenner.GERMAN.DUBBED.DL.720p.WebHD.h26.mkv",
                 "firstaired": "2013-11-10",
                 "label": "3x07. Gerontion",
                 "lastplayed": "",
@@ -5337,8 +5343,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4663897.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -5399,7 +5405,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -5429,7 +5435,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -5450,8 +5456,8 @@
                 ],
                 "episode": 8,
                 "episodeid": 781,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 3/Homeland.S03E08.Phase.zwei.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 3/Homeland.S03E08.Phase.zwei.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-11-17",
                 "label": "3x08. A Red Wheelbarrow",
                 "lastplayed": "",
@@ -5488,8 +5494,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4663898.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -5550,7 +5556,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -5580,7 +5586,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -5601,8 +5607,8 @@
                 ],
                 "episode": 9,
                 "episodeid": 782,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 3/Homeland.S03E09.Jetzt.oder.nie.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 3/Homeland.S03E09.Jetzt.oder.nie.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-11-24",
                 "label": "3x09. One Last Thing",
                 "lastplayed": "",
@@ -5638,8 +5644,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4663899.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -5700,7 +5706,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -5730,7 +5736,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -5751,8 +5757,8 @@
                 ],
                 "episode": 10,
                 "episodeid": 783,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 3/Homeland.S03E10.Der.Passagier.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 3/Homeland.S03E10.Der.Passagier.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-12-01",
                 "label": "3x10. Good Night",
                 "lastplayed": "",
@@ -5789,8 +5795,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4675715.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -5851,7 +5857,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -5881,7 +5887,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -5902,8 +5908,8 @@
                 ],
                 "episode": 11,
                 "episodeid": 784,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 3/Homeland.S03E11.Unser.Mann.in.Teheran.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 3/Homeland.S03E11.Unser.Mann.in.Teheran.GERMAN.DUBBED.DL.720p.WebHD.h264-euHD.mkv",
                 "firstaired": "2013-12-08",
                 "label": "3x11. Big Man in Tehran",
                 "lastplayed": "",
@@ -5940,8 +5946,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/247897/4675716.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
                 },
                 "cast": [
                     {
@@ -6007,7 +6013,7 @@
                         "name": "F. Murray Abraham",
                         "order": 9,
                         "role": "Dar Adal",
-                        "thumbnail": "http://thetvdb.com/banners/actors/339718.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
                     },
                     {
                         "name": "Nazanin Boniadi",
@@ -6037,7 +6043,7 @@
                         "name": "David Harewood",
                         "order": 14,
                         "role": "David Estes",
-                        "thumbnail": "http://thetvdb.com/banners/actors/319705.jpg"
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
                     },
                     {
                         "name": "Morena Baccarin",
@@ -6058,8 +6064,8 @@
                 ],
                 "episode": 12,
                 "episodeid": 785,
-                "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Homeland/Season 3/Homeland.S03E12.Der.Stern.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 3/Homeland.S03E12.Der.Stern.GERMAN.DUBBED.WebHDRiP.x264-SOF.mkv",
                 "firstaired": "2013-12-15",
                 "label": "3x12. The Star",
                 "lastplayed": "",
@@ -6092,6 +6098,173 @@
                     "Meredith Stiehm"
                 ]
             }
+        ],
+        "4": [
+            {
+                "art": {
+                    "thumb": "http://thetvdb.com/banners/episodes/247897/4893639.jpg",
+                    "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
+                },
+                "cast": [
+                    {
+                        "name": "Claire Danes",
+                        "order": 0,
+                        "role": "Carrie Mathison",
+                        "thumbnail": "http://thetvdb.com/banners/actors/319703.jpg"
+                    },
+                    {
+                        "name": "Damian Lewis",
+                        "order": 1,
+                        "role": "Nicholas Brody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/319706.jpg"
+                    },
+                    {
+                        "name": "Mandy Patinkin",
+                        "order": 2,
+                        "role": "Saul Berenson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/319704.jpg"
+                    },
+                    {
+                        "name": "Numan Acar",
+                        "order": 3,
+                        "role": "Haissam Haqqani",
+                        "thumbnail": "http://thetvdb.com/banners/actors/341359.jpg"
+                    },
+                    {
+                        "name": "Nimrat Kaur",
+                        "order": 4,
+                        "role": "Tasneem Qureshi",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339723.jpg"
+                    },
+                    {
+                        "name": "Suraj Sharma",
+                        "order": 5,
+                        "role": "Aayan Ibrahim",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339722.jpg"
+                    },
+                    {
+                        "name": "Laila Robins",
+                        "order": 6,
+                        "role": "Martha Boyd",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339721.jpg"
+                    },
+                    {
+                        "name": "Sarita Choudhury",
+                        "order": 7,
+                        "role": "Mira Berenson",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339720.jpg"
+                    },
+                    {
+                        "name": "Tracy Letts",
+                        "order": 8,
+                        "role": "Senator Andrew Lockhart",
+                        "thumbnail": "http://thetvdb.com/banners/actors/339719.jpg"
+                    },
+                    {
+                        "name": "F. Murray Abraham",
+                        "order": 9,
+                        "role": "Dar Adal",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/luHava7pnJLEqGH05bqENXkOsKH.jpg"
+                    },
+                    {
+                        "name": "Nazanin Boniadi",
+                        "order": 10,
+                        "role": "Fara Sherazi",
+                        "thumbnail": "http://thetvdb.com/banners/actors/335557.jpg"
+                    },
+                    {
+                        "name": "Rupert Friend",
+                        "order": 11,
+                        "role": "Peter Quinn",
+                        "thumbnail": "http://thetvdb.com/banners/actors/319950.jpg"
+                    },
+                    {
+                        "name": "Jackson Pace",
+                        "order": 12,
+                        "role": "Chris Brody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/319949.jpg"
+                    },
+                    {
+                        "name": "Diego Klattenhoff",
+                        "order": 13,
+                        "role": "Mike Faber",
+                        "thumbnail": "http://thetvdb.com/banners/actors/319707.jpg"
+                    },
+                    {
+                        "name": "David Harewood",
+                        "order": 14,
+                        "role": "David Estes",
+                        "thumbnail": "http://thetvdb.com/banners/actors/352102.jpg"
+                    },
+                    {
+                        "name": "Morena Baccarin",
+                        "order": 15,
+                        "role": "Jessica Brody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/318686.jpg"
+                    },
+                    {
+                        "name": "Morgan Saylor",
+                        "order": 16,
+                        "role": "Dana Brody",
+                        "thumbnail": "http://thetvdb.com/banners/actors/289357.jpg"
+                    }
+                ],
+                "dateadded": "2015-08-23 03:39:36",
+                "director": [
+                    "Lesli Linka Glatter"
+                ],
+                "episode": 1,
+                "episodeid": 2018,
+                "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "file": "smb://Ext/Media/Serien/Homeland/Season 4/Homeland.S04E01.Bluthochzeit.GERMAN.DUBBED.BLURAYRiP.x264-SOF.mkv",
+                "firstaired": "2014-10-05",
+                "label": "4x01. The Drone Queen",
+                "lastplayed": "",
+                "originaltitle": "",
+                "playcount": 0,
+                "plot": "As CIA Chief of Station in Kabul, Carrie makes a critical decision when her counterpart in Islamabad delivers urgent intelligence on a high value target. Saul struggles to adjust to his new role in the private sector.",
+                "productioncode": "",
+                "rating": 7.699999809265137,
+                "resume": {
+                    "position": 0,
+                    "total": 0
+                },
+                "runtime": 2813,
+                "season": 4,
+                "showtitle": "Homeland",
+                "streamdetails": {
+                    "audio": [
+                        {
+                            "channels": 2,
+                            "codec": "ac3",
+                            "language": "ger"
+                        }
+                    ],
+                    "subtitle": [],
+                    "video": [
+                        {
+                            "aspect": 1.7821780443191528,
+                            "codec": "h264",
+                            "duration": 2813,
+                            "height": 404,
+                            "stereomode": "",
+                            "width": 720
+                        }
+                    ]
+                },
+                "thumbnail": "http://thetvdb.com/banners/episodes/247897/4893639.jpg",
+                "title": "The Drone Queen",
+                "tvshowid": 44,
+                "uniqueid": {
+                    "unknown": "4893639"
+                },
+                "votes": "58",
+                "writer": [
+                    "Alex Gansa"
+                ]
+            }
         ]
     },
     "seasons": [
@@ -6100,11 +6273,11 @@
                 "banner": "http://thetvdb.com/banners/seasonswide/247897-1.jpg",
                 "poster": "http://thetvdb.com/banners/seasons/247897-1-5.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
             },
             "episode": 12,
-            "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
             "label": "Staffel 1",
             "playcount": 0,
             "season": 1,
@@ -6119,11 +6292,11 @@
                 "banner": "http://thetvdb.com/banners/seasonswide/247897-2.jpg",
                 "poster": "http://thetvdb.com/banners/seasons/247897-2-2.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
             },
             "episode": 12,
-            "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
             "label": "Staffel 2",
             "playcount": 0,
             "season": 2,
@@ -6138,17 +6311,36 @@
                 "banner": "http://thetvdb.com/banners/seasonswide/247897-3.jpg",
                 "poster": "http://thetvdb.com/banners/seasons/247897-3.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/247897-17.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
             },
             "episode": 12,
-            "fanart": "http://thetvdb.com/banners/fanart/original/247897-27.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
             "label": "Staffel 3",
             "playcount": 0,
             "season": 3,
             "seasonid": 230,
             "showtitle": "Homeland",
             "thumbnail": "http://thetvdb.com/banners/seasons/247897-3.jpg",
+            "tvshowid": 44,
+            "watchedepisodes": 0
+        },
+        {
+            "art": {
+                "banner": "http://thetvdb.com/banners/seasonswide/247897-4.jpg",
+                "poster": "http://thetvdb.com/banners/seasons/247897-4.jpg",
+                "tvshow.banner": "http://thetvdb.com/banners/graphical/247897-g21.jpg",
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/247897-15.jpg"
+            },
+            "episode": 1,
+            "fanart": "http://thetvdb.com/banners/fanart/original/247897-19.jpg",
+            "label": "Staffel 4",
+            "playcount": 0,
+            "season": 4,
+            "seasonid": 231,
+            "showtitle": "Homeland",
+            "thumbnail": "http://thetvdb.com/banners/seasons/247897-4.jpg",
             "tvshowid": 44,
             "watchedepisodes": 0
         }

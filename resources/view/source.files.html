@@ -19,7 +19,7 @@
     <!-- Source entries of selected type /  starts  -->
     <ul class="list small-block-grid-1 medium-block-grid-2" ng-if="lists && lists.shift">
         <li ng-repeat="(label, source) in lists">
-            <a class="truncate" ng-href="#/sources/{{route.source}}/{{source.file}}">
+            <a class="truncate" ng-href="#/sources/{{route.source}}/{{source.path}}">
                 <img class="cover" src="./assets/img/media.text.png">
                 <span class="normal">{{source.label}}</span>
                 <span class="file" ng-if="source.file">{{source.file}}</span>
@@ -31,7 +31,7 @@
     <!-- Source directories of type with content /  starts  -->
     <ul class="list small-block-grid-1 medium-block-grid-2" ng-if="sources && sources.shift">
         <li ng-repeat="(index, source) in sources">
-            <a class="truncate" ng-href="{{source.filetype == 'directory' ? '#/sources/' +route.method+ '/' +source.file : ''}}">
+            <a class="truncate" ng-href="{{source.filetype == 'directory' ? '#/sources/' +route.method+ '/' +source.path : ''}}">
                 <div class="small-11 row left">
                     &nbsp;<span class="fa" ng-class="{'fa-folder-o': source.filetype == 'directory', 'fa-file-audio-o': source.type == 'audio', 'fa-file-video-o': source.type == 'video', 'fa-file-image-o': source.type == 'image', 'fa-file-o': source.filetype != 'directory'}"></span>
                     <span class="normal">{{source.label}}</span>

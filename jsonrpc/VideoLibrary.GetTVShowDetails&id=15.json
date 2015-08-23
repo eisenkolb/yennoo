@@ -3,7 +3,7 @@
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/262095-g2.jpg",
             "fanart": "http://thetvdb.com/banners/fanart/original/262095-9.jpg",
-            "poster": "http://thetvdb.com/banners/posters/262095-3.jpg"
+            "poster": "http://thetvdb.com/banners/posters/262095-2.jpg"
         },
         "cast": [
             {
@@ -38,7 +38,7 @@
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"262095-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/262095/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/262095-9.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Btooom!/",
+        "file": "smb://Ext/Media/Serien/Btooom!/",
         "genre": [
             "Action",
             "Animation",
@@ -59,7 +59,7 @@
             "Tokyo MX"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/262095-3.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/262095-2.jpg",
         "title": "Btooom!",
         "tvshowid": 15,
         "votes": "29",
@@ -73,7 +73,7 @@
                     "thumb": "http://thetvdb.com/banners/episodes/262095/4390799.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/262095-g2.jpg",
                     "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262095-9.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/262095-3.jpg"
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/262095-2.jpg"
                 },
                 "cast": [
                     {
@@ -109,7 +109,7 @@
                 "episode": 1,
                 "episodeid": 264,
                 "fanart": "http://thetvdb.com/banners/fanart/original/262095-9.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Btooom!/Season 1/BTOOOM.S01E01.Kein.Schmerz,kein.Spiel.German.Dubbed.x264-NA.flv",
+                "file": "smb://Ext/Media/Serien/Btooom!/Season 1/BTOOOM.S01E01.Kein.Schmerz,kein.Spiel.German.Dubbed.x264-NA.flv",
                 "firstaired": "2012-10-04",
                 "label": "1x01. Start",
                 "lastplayed": "",
@@ -147,7 +147,7 @@
                 "poster": "http://thetvdb.com/banners/seasons/262095-1-4.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/262095-g2.jpg",
                 "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/262095-9.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/262095-3.jpg"
+                "tvshow.poster": "http://thetvdb.com/banners/posters/262095-2.jpg"
             },
             "episode": 1,
             "fanart": "http://thetvdb.com/banners/fanart/original/262095-9.jpg",

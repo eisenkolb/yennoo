@@ -2,8 +2,8 @@
     "tvshowdetails": {
         "art": {
             "banner": "http://thetvdb.com/banners/graphical/276312-g4.jpg",
-            "fanart": "http://thetvdb.com/banners/fanart/original/276312-17.jpg",
-            "poster": "http://thetvdb.com/banners/posters/276312-5.jpg"
+            "fanart": "http://thetvdb.com/banners/fanart/original/276312-15.jpg",
+            "poster": "http://thetvdb.com/banners/posters/276312-1.jpg"
         },
         "cast": [
             {
@@ -22,7 +22,7 @@
                 "name": "Robert Patrick",
                 "order": 2,
                 "role": "Jacob Fuller",
-                "thumbnail": "http://thetvdb.com/banners/actors/327540.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/dpUIbzLpExv69faSRyww8A4ydxf.jpg"
             },
             {
                 "name": "Jake Busey",
@@ -46,7 +46,7 @@
                 "name": "Jesse Garcia",
                 "order": 6,
                 "role": "Ranger Freddie Gonzalez",
-                "thumbnail": "http://thetvdb.com/banners/actors/327548.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/9bxoEyjrGODKEyopYWtGgDeCauB.jpg"
             },
             {
                 "name": "Madison Davenport",
@@ -58,7 +58,7 @@
                 "name": "Brandon Soo Hoo",
                 "order": 8,
                 "role": "Scott Fuller",
-                "thumbnail": "http://thetvdb.com/banners/actors/327546.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/yZse73nxYlk9Ypr5r43PUkpuZGB.jpg"
             },
             {
                 "name": "Adrianne Palicki",
@@ -76,14 +76,14 @@
                 "name": "Don Johnson",
                 "order": 11,
                 "role": "Sheriff Earl McGraw",
-                "thumbnail": "http://thetvdb.com/banners/actors/327541.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/zPYtZrbhBTsoKMg9wg24OINHaXe.jpg"
             }
         ],
         "dateadded": "2014-04-19 19:06:02",
         "episode": 1,
         "episodeguide": "<episodeguide><url cache=\"276312-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/276312/all/en.zip</url></episodeguide>",
-        "fanart": "http://thetvdb.com/banners/fanart/original/276312-17.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/From Dusk Till Dawn/",
+        "fanart": "http://thetvdb.com/banners/fanart/original/276312-15.jpg",
+        "file": "smb://Ext/Media/Serien/From Dusk Till Dawn/",
         "genre": [
             "Drama",
             "Horror"
@@ -103,7 +103,7 @@
             "El Rey Network"
         ],
         "tag": [],
-        "thumbnail": "http://thetvdb.com/banners/posters/276312-5.jpg",
+        "thumbnail": "http://thetvdb.com/banners/posters/276312-1.jpg",
         "title": "From Dusk Till Dawn: The Series",
         "tvshowid": 33,
         "votes": "18",
@@ -116,8 +116,8 @@
                 "art": {
                     "thumb": "http://thetvdb.com/banners/episodes/276312/4739491.jpg",
                     "tvshow.banner": "http://thetvdb.com/banners/graphical/276312-g4.jpg",
-                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276312-17.jpg",
-                    "tvshow.poster": "http://thetvdb.com/banners/posters/276312-5.jpg"
+                    "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276312-15.jpg",
+                    "tvshow.poster": "http://thetvdb.com/banners/posters/276312-1.jpg"
                 },
                 "cast": [
                     {
@@ -142,7 +142,7 @@
                         "name": "Robert Patrick",
                         "order": 2,
                         "role": "Jacob Fuller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/327540.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/dpUIbzLpExv69faSRyww8A4ydxf.jpg"
                     },
                     {
                         "name": "Jake Busey",
@@ -160,7 +160,7 @@
                         "name": "Jesse Garcia",
                         "order": 6,
                         "role": "Ranger Freddie Gonzalez",
-                        "thumbnail": "http://thetvdb.com/banners/actors/327548.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/9bxoEyjrGODKEyopYWtGgDeCauB.jpg"
                     },
                     {
                         "name": "Madison Davenport",
@@ -172,7 +172,7 @@
                         "name": "Brandon Soo Hoo",
                         "order": 8,
                         "role": "Scott Fuller",
-                        "thumbnail": "http://thetvdb.com/banners/actors/327546.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/yZse73nxYlk9Ypr5r43PUkpuZGB.jpg"
                     },
                     {
                         "name": "Adrianne Palicki",
@@ -190,7 +190,7 @@
                         "name": "Don Johnson",
                         "order": 11,
                         "role": "Sheriff Earl McGraw",
-                        "thumbnail": "http://thetvdb.com/banners/actors/327541.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/zPYtZrbhBTsoKMg9wg24OINHaXe.jpg"
                     }
                 ],
                 "dateadded": "2014-04-19 19:06:02",
@@ -199,8 +199,8 @@
                 ],
                 "episode": 1,
                 "episodeid": 513,
-                "fanart": "http://thetvdb.com/banners/fanart/original/276312-17.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/From Dusk Till Dawn/Season 1/From.Dusk.Till.Dawn.The.Series.S01E01.Pilot.German.Subbed.HDTV.XviD.mp4",
+                "fanart": "http://thetvdb.com/banners/fanart/original/276312-15.jpg",
+                "file": "smb://Ext/Media/Serien/From Dusk Till Dawn/Season 1/From.Dusk.Till.Dawn.The.Series.S01E01.Pilot.German.Subbed.HDTV.XviD.mp4",
                 "firstaired": "2014-03-11",
                 "label": "1x01. Pilot",
                 "lastplayed": "",
@@ -239,11 +239,11 @@
             "art": {
                 "poster": "http://thetvdb.com/banners/seasons/276312-1-2.jpg",
                 "tvshow.banner": "http://thetvdb.com/banners/graphical/276312-g4.jpg",
-                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276312-17.jpg",
-                "tvshow.poster": "http://thetvdb.com/banners/posters/276312-5.jpg"
+                "tvshow.fanart": "http://thetvdb.com/banners/fanart/original/276312-15.jpg",
+                "tvshow.poster": "http://thetvdb.com/banners/posters/276312-1.jpg"
             },
             "episode": 1,
-            "fanart": "http://thetvdb.com/banners/fanart/original/276312-17.jpg",
+            "fanart": "http://thetvdb.com/banners/fanart/original/276312-15.jpg",
             "label": "Staffel 1",
             "playcount": 0,
             "season": 1,

@@ -40,7 +40,7 @@
                 "name": "Hakeem Kae-Kazim",
                 "order": 5,
                 "role": "Mr. Scott",
-                "thumbnail": "http://thetvdb.com/banners/actors/322867.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/cYHDYQbnvju1g8XIAnvwRr0bWSB.jpg"
             },
             {
                 "name": "Clara Paget",
@@ -70,7 +70,7 @@
                 "name": "Mark Ryan",
                 "order": 10,
                 "role": "Gates",
-                "thumbnail": "http://thetvdb.com/banners/actors/318941.jpg"
+                "thumbnail": "http://image.tmdb.org/t/p/original/mBvV09ssRRE63gNaG3ZkqaZidPh.jpg"
             },
             {
                 "name": "Jessica Parker Kennedy",
@@ -83,7 +83,7 @@
         "episode": 8,
         "episodeguide": "<episodeguide><url cache=\"262407-en.xml\">http://thetvdb.com/api/1D62F2F90030C444/series/262407/all/en.zip</url></episodeguide>",
         "fanart": "http://thetvdb.com/banners/fanart/original/262407-4.jpg",
-        "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Sails/",
+        "file": "smb://Ext/Media/Serien/Black Sails/",
         "genre": [
             "Action",
             "Adventure",
@@ -160,7 +160,7 @@
                         "name": "Hakeem Kae-Kazim",
                         "order": 5,
                         "role": "Mr. Scott",
-                        "thumbnail": "http://thetvdb.com/banners/actors/322867.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cYHDYQbnvju1g8XIAnvwRr0bWSB.jpg"
                     },
                     {
                         "name": "Clara Paget",
@@ -190,7 +190,7 @@
                         "name": "Mark Ryan",
                         "order": 10,
                         "role": "Gates",
-                        "thumbnail": "http://thetvdb.com/banners/actors/318941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mBvV09ssRRE63gNaG3ZkqaZidPh.jpg"
                     },
                     {
                         "name": "Jessica Parker Kennedy",
@@ -206,7 +206,7 @@
                 "episode": 1,
                 "episodeid": 149,
                 "fanart": "http://thetvdb.com/banners/fanart/original/262407-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Sails/Season 1/Black.Sails.S01E01.Urca.de.Lima.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
+                "file": "smb://Ext/Media/Serien/Black Sails/Season 1/Black.Sails.S01E01.Urca.de.Lima.GERMAN.DUBBED.720p.HDTV.x264-ZZGtv.mkv",
                 "firstaired": "2014-01-25",
                 "label": "1x01. I.",
                 "lastplayed": "",
@@ -286,7 +286,7 @@
                         "name": "Hakeem Kae-Kazim",
                         "order": 5,
                         "role": "Mr. Scott",
-                        "thumbnail": "http://thetvdb.com/banners/actors/322867.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cYHDYQbnvju1g8XIAnvwRr0bWSB.jpg"
                     },
                     {
                         "name": "Clara Paget",
@@ -316,7 +316,7 @@
                         "name": "Mark Ryan",
                         "order": 10,
                         "role": "Gates",
-                        "thumbnail": "http://thetvdb.com/banners/actors/318941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mBvV09ssRRE63gNaG3ZkqaZidPh.jpg"
                     },
                     {
                         "name": "Jessica Parker Kennedy",
@@ -332,7 +332,7 @@
                 "episode": 2,
                 "episodeid": 150,
                 "fanart": "http://thetvdb.com/banners/fanart/original/262407-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Sails/Season 1/Black.Sails.S01E02.Perlen.vor.die.Saeue.GERMAN.DUBBED.WS.HDTVRip.XviD.mp4",
+                "file": "smb://Ext/Media/Serien/Black Sails/Season 1/Black.Sails.S01E02.Perlen.vor.die.Saeue.GERMAN.DUBBED.WS.HDTVRip.XviD.mp4",
                 "firstaired": "2014-02-01",
                 "label": "1x02. II.",
                 "lastplayed": "",
@@ -377,12 +377,13 @@
                         "name": "Jeremy Crutchley",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/349209.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/17aHojCYOmUyoyuPgLd4di0fdvm.jpg"
                     },
                     {
                         "name": "Patrick Lyster",
                         "order": 1,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/175ns2a0dS1Q8Dg3S9xlZKSH7ge.jpg"
                     },
                     {
                         "name": "Lawrence Joffe",
@@ -397,7 +398,8 @@
                     {
                         "name": "Mark Elderkin",
                         "order": 4,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/in42emR0FgAEkA7EwtsedK8gxMg.jpg"
                     },
                     {
                         "name": "Neels Clasen",
@@ -443,7 +445,7 @@
                         "name": "Hakeem Kae-Kazim",
                         "order": 5,
                         "role": "Mr. Scott",
-                        "thumbnail": "http://thetvdb.com/banners/actors/322867.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cYHDYQbnvju1g8XIAnvwRr0bWSB.jpg"
                     },
                     {
                         "name": "Clara Paget",
@@ -473,7 +475,7 @@
                         "name": "Mark Ryan",
                         "order": 10,
                         "role": "Gates",
-                        "thumbnail": "http://thetvdb.com/banners/actors/318941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mBvV09ssRRE63gNaG3ZkqaZidPh.jpg"
                     },
                     {
                         "name": "Jessica Parker Kennedy",
@@ -489,7 +491,7 @@
                 "episode": 3,
                 "episodeid": 151,
                 "fanart": "http://thetvdb.com/banners/fanart/original/262407-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Sails/Season 1/Black.Sails.S01E03.Unheilige.Allianzen.German.Dubbed.HDTV.x264-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Black Sails/Season 1/Black.Sails.S01E03.Unheilige.Allianzen.German.Dubbed.HDTV.x264-ITG.mp4",
                 "firstaired": "2014-02-08",
                 "label": "1x03. III.",
                 "lastplayed": "",
@@ -534,7 +536,7 @@
                         "name": "Jeremy Crutchley",
                         "order": 0,
                         "role": "",
-                        "thumbnail": "http://thetvdb.com/banners/actors/349209.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/17aHojCYOmUyoyuPgLd4di0fdvm.jpg"
                     },
                     {
                         "name": "Lawrence Joffe",
@@ -555,12 +557,14 @@
                     {
                         "name": "Patrick Lyster",
                         "order": 4,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/175ns2a0dS1Q8Dg3S9xlZKSH7ge.jpg"
                     },
                     {
                         "name": "Mark Elderkin",
                         "order": 5,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/in42emR0FgAEkA7EwtsedK8gxMg.jpg"
                     },
                     {
                         "name": "Tony Caprari",
@@ -601,7 +605,7 @@
                         "name": "Hakeem Kae-Kazim",
                         "order": 5,
                         "role": "Mr. Scott",
-                        "thumbnail": "http://thetvdb.com/banners/actors/322867.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cYHDYQbnvju1g8XIAnvwRr0bWSB.jpg"
                     },
                     {
                         "name": "Clara Paget",
@@ -631,7 +635,7 @@
                         "name": "Mark Ryan",
                         "order": 10,
                         "role": "Gates",
-                        "thumbnail": "http://thetvdb.com/banners/actors/318941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mBvV09ssRRE63gNaG3ZkqaZidPh.jpg"
                     },
                     {
                         "name": "Jessica Parker Kennedy",
@@ -647,7 +651,7 @@
                 "episode": 4,
                 "episodeid": 152,
                 "fanart": "http://thetvdb.com/banners/fanart/original/262407-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Sails/Season 1/Black.Sails.S01E04.Mrs.Barlow.German.Dubbed.HDTV.x264-ITG.mp4",
+                "file": "smb://Ext/Media/Serien/Black Sails/Season 1/Black.Sails.S01E04.Mrs.Barlow.German.Dubbed.HDTV.x264-ITG.mp4",
                 "firstaired": "2014-02-15",
                 "label": "1x04. IV.",
                 "lastplayed": "",
@@ -706,7 +710,8 @@
                     {
                         "name": "Patrick Lyster",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/175ns2a0dS1Q8Dg3S9xlZKSH7ge.jpg"
                     },
                     {
                         "name": "Karl Thaning",
@@ -748,7 +753,7 @@
                         "name": "Hakeem Kae-Kazim",
                         "order": 5,
                         "role": "Mr. Scott",
-                        "thumbnail": "http://thetvdb.com/banners/actors/322867.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cYHDYQbnvju1g8XIAnvwRr0bWSB.jpg"
                     },
                     {
                         "name": "Clara Paget",
@@ -778,7 +783,7 @@
                         "name": "Mark Ryan",
                         "order": 10,
                         "role": "Gates",
-                        "thumbnail": "http://thetvdb.com/banners/actors/318941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mBvV09ssRRE63gNaG3ZkqaZidPh.jpg"
                     },
                     {
                         "name": "Jessica Parker Kennedy",
@@ -794,7 +799,7 @@
                 "episode": 5,
                 "episodeid": 153,
                 "fanart": "http://thetvdb.com/banners/fanart/original/262407-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Sails/Season 1/Black.Sails.S01E05.Klarmachen.zum.Entern.German.Dubbed.HDTV.x264-ITG.avi",
+                "file": "smb://Ext/Media/Serien/Black Sails/Season 1/Black.Sails.S01E05.Klarmachen.zum.Entern.German.Dubbed.HDTV.x264-ITG.avi",
                 "firstaired": "2014-02-22",
                 "label": "1x05. V.",
                 "lastplayed": "",
@@ -853,12 +858,14 @@
                     {
                         "name": "Patrick Lyster",
                         "order": 3,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/175ns2a0dS1Q8Dg3S9xlZKSH7ge.jpg"
                     },
                     {
                         "name": "Mark Elderkin",
                         "order": 4,
-                        "role": ""
+                        "role": "",
+                        "thumbnail": "http://image.tmdb.org/t/p/original/in42emR0FgAEkA7EwtsedK8gxMg.jpg"
                     },
                     {
                         "name": "Karl Thaning",
@@ -905,7 +912,7 @@
                         "name": "Hakeem Kae-Kazim",
                         "order": 5,
                         "role": "Mr. Scott",
-                        "thumbnail": "http://thetvdb.com/banners/actors/322867.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cYHDYQbnvju1g8XIAnvwRr0bWSB.jpg"
                     },
                     {
                         "name": "Clara Paget",
@@ -935,7 +942,7 @@
                         "name": "Mark Ryan",
                         "order": 10,
                         "role": "Gates",
-                        "thumbnail": "http://thetvdb.com/banners/actors/318941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mBvV09ssRRE63gNaG3ZkqaZidPh.jpg"
                     },
                     {
                         "name": "Jessica Parker Kennedy",
@@ -951,7 +958,7 @@
                 "episode": 6,
                 "episodeid": 154,
                 "fanart": "http://thetvdb.com/banners/fanart/original/262407-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Sails/Season 1/Black.Sails.S01E06.Die.Belagerung.German.Dubbed.HDTVRip.XviD.avi",
+                "file": "smb://Ext/Media/Serien/Black Sails/Season 1/Black.Sails.S01E06.Die.Belagerung.German.Dubbed.HDTVRip.XviD.avi",
                 "firstaired": "2014-03-01",
                 "label": "1x06. VI.",
                 "lastplayed": "",
@@ -1025,7 +1032,7 @@
                         "name": "Hakeem Kae-Kazim",
                         "order": 5,
                         "role": "Mr. Scott",
-                        "thumbnail": "http://thetvdb.com/banners/actors/322867.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cYHDYQbnvju1g8XIAnvwRr0bWSB.jpg"
                     },
                     {
                         "name": "Clara Paget",
@@ -1055,7 +1062,7 @@
                         "name": "Mark Ryan",
                         "order": 10,
                         "role": "Gates",
-                        "thumbnail": "http://thetvdb.com/banners/actors/318941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mBvV09ssRRE63gNaG3ZkqaZidPh.jpg"
                     },
                     {
                         "name": "Jessica Parker Kennedy",
@@ -1071,7 +1078,7 @@
                 "episode": 7,
                 "episodeid": 155,
                 "fanart": "http://thetvdb.com/banners/fanart/original/262407-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Sails/Season 1/Black.Sails.S01E07.Das.Konsortium.German.Dubbed.HDTVRip.XviD.mp4",
+                "file": "smb://Ext/Media/Serien/Black Sails/Season 1/Black.Sails.S01E07.Das.Konsortium.German.Dubbed.HDTVRip.XviD.mp4",
                 "firstaired": "2014-03-08",
                 "label": "1x07. VII.",
                 "lastplayed": "",
@@ -1145,7 +1152,7 @@
                         "name": "Hakeem Kae-Kazim",
                         "order": 5,
                         "role": "Mr. Scott",
-                        "thumbnail": "http://thetvdb.com/banners/actors/322867.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/cYHDYQbnvju1g8XIAnvwRr0bWSB.jpg"
                     },
                     {
                         "name": "Clara Paget",
@@ -1175,7 +1182,7 @@
                         "name": "Mark Ryan",
                         "order": 10,
                         "role": "Gates",
-                        "thumbnail": "http://thetvdb.com/banners/actors/318941.jpg"
+                        "thumbnail": "http://image.tmdb.org/t/p/original/mBvV09ssRRE63gNaG3ZkqaZidPh.jpg"
                     },
                     {
                         "name": "Jessica Parker Kennedy",
@@ -1191,7 +1198,7 @@
                 "episode": 8,
                 "episodeid": 156,
                 "fanart": "http://thetvdb.com/banners/fanart/original/262407-4.jpg",
-                "file": "smb://192.168.1.1/Intenso_External_USB_3.0_31/Media/Serien/Black Sails/Season 1/Black.Sails.S01E08.Die.Schatzinsel.German.Dubbed.HDTVRip.XviD.mp4",
+                "file": "smb://Ext/Media/Serien/Black Sails/Season 1/Black.Sails.S01E08.Die.Schatzinsel.German.Dubbed.HDTVRip.XviD.mp4",
                 "firstaired": "2014-03-15",
                 "label": "1x08. VIII.",
                 "lastplayed": "",
