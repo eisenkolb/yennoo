@@ -22,6 +22,10 @@ Yennoo.register.controller("source.FilesCtrl"
         $scope.route = $routeParams;
         MovieFactory.BuildRequest(function(data, $async)
         {
+            for (var index = 0; index < (data.sources || []).length; index++){
+                data.sources[index].path = encodeURIComponent(encodeURIComponent(data.sources[index].file));
+            }
+
             $scope.lists = data.sources || "empty";
             $scope.timer.stop();
             $async.apply($scope);
@@ -29,6 +33,7 @@ Yennoo.register.controller("source.FilesCtrl"
     }
     else if ($scope.sourceEnums.indexOf($routeParams.method) >= 0)
     {
+        $routeParams.source = decodeURIComponent(decodeURIComponent($routeParams.source));
         $scope.$root.breadcrumb.push({title: $routeParams.method.toUpperCase(), href: "#/sources/list/"+ $routeParams.method});
         $scope.$root.breadcrumb.push({title: $routeParams.source});
         $scope.timer = new Kodi.util.Timer(true);
@@ -40,6 +45,8 @@ Yennoo.register.controller("source.FilesCtrl"
             for (var index in data.files){
                 if (data.files[index] && data.files[index].mimetype)
                     data.files[index].type = data.files[index].mimetype.split(/\//)[0];
+                if (data.files[index] && data.files[index].file)
+                    data.files[index].path = encodeURIComponent(encodeURIComponent(data.files[index].file));
             }
 
             $scope.sources = data.files || "empty";
