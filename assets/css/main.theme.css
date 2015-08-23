@@ -594,9 +594,9 @@
 /*********************************************************************************/
 
 #media-description i.play-youtube.fa-youtube-play {
-    position: relative;
-    font-size: 17px;
-    top: 1px;
+    position: absolute;
+    font-size: 18px;
+    margin-top: -1px;
     color: #d51a1a;
 }
 
