@@ -22,7 +22,7 @@
             var opt = {
                 url   : "./jsonrpc/",
                 method: "GET",
-                cache : false
+                cache : true
             };
 
             if (api.dataurl == undefined || api.dataurl == null)
@@ -93,9 +93,38 @@
                     if (command.method == "AudioLibrary.GetSongs"){
                         command.dataurl = "AudioLibrary.GetSongs&id=%id%.json".replace(/%id%/g, command.params.filter.albumid);
                         command.process = function (data) {
-                            return ({songs: data});
+                            return({songs: data});
                         };
                     }
+                }
+
+                /**
+                 * Sources
+                 * --------------------------------------------------------------------------------
+                 */
+                if (command.method == "Files.GetDirectory"
+                || (command.method == "Files.GetSources")){
+                    command.dataurl = "Files.GetSources.json";
+                    command.process = function (data) {
+                        return({sources: data.sources[command.params.media]});
+                    };
+
+                    if (command.method == "Files.GetDirectory"){
+                        command.process = function(data){
+                            return({files: data.files[command.params.directory]});
+                        };
+                    }
+                }
+
+                /**
+                 * Genres
+                 * --------------------------------------------------------------------------------
+                 */
+                if (command.method == "VideoLibrary.GetGenres"){
+                    command.dataurl = "VideoLibrary.GetGenres.json";
+                    command.process = function(data) {
+                        return({genres: data[command.params.type]});
+                    };
                 }
 
                 /**
@@ -128,7 +157,7 @@
             request.fail(function(error){
                 callback.error.call(this, [error]);
                 APIservice.DispatchEvent("overlay:settings:open", {
-                    errors : ["Demo Error - Connection lost or not yet completed ("+ command.method +")"],
+                    errors : ["Demo Error - Not yet implemented (API::%command%)".replace("%command%", command.method)],
                     tabName: "prefs-transporter"
                 });
             });
