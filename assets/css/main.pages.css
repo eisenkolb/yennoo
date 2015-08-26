@@ -1445,3 +1445,131 @@
     z-index: 0;
     background-image: radial-gradient(circle at 51% 49%, transparent 0%, rgba(0, 0, 0, 0.73));
 }
+
+/*********************************************************************************/
+/*** Dashboard:                                                                ***/
+/*********************************************************************************/
+
+#dashboard {
+    margin-top: 81px;
+    background-image: linear-gradient(rgb(165, 159, 159), rgb(90, 43, 83) 62%);
+    position: absolute;
+    z-index: 1 ! important;
+}
+
+#dashboard .panel {
+    border-color: #ffffff;
+    padding: 0;
+}
+
+#dashboard .panel,
+#dashboard .highlight-border {
+    border: 1px solid #c6c6c6;
+}
+
+/*********************************************************************************/
+/*** Dashboard:Head || Episodes:                                               ***/
+/*********************************************************************************/
+
+#dashboard #header-episodes .items {
+    display: block;
+}
+
+#dashboard #header-episodes .entry {
+    padding: 0;
+}
+
+#dashboard #header-episodes .entry .panel {
+    margin: -3px 0 0
+}
+
+#dashboard #header-episodes .entry .watched {
+    color: #0BC00B;
+    margin-left: 4px;
+}
+
+#dashboard #header-episodes .entry .title,
+#dashboard #header-episodes .entry .episode {
+    position: relative;
+    background-color: #ffffff;
+    padding: 0 4px;
+    z-index: 1;
+}
+
+#dashboard #header-episodes .entry .episode {
+    display: block;
+    font-size: 0.7rem;
+    opacity: .8;
+    margin: 0 -1px;
+}
+
+#dashboard #header-episodes .entry .episode .icon {
+    margin-top: 3px;
+}
+
+#dashboard #header-episodes .entry .description {
+    color: #E1DFDF;
+    font-size: 0.8rem;
+    padding: 0 4px;
+}
+
+/*********************************************************************************/
+/*** Dashboard: || Orbit: || Centered:                                         ***/
+/*********************************************************************************/
+
+#dashboard #orbit-centered {
+    background-color: #C71585
+}
+
+#dashboard #orbit-centered .welcome .logo {
+    height: 88px;
+    margin: 10px 6px 0 0;
+}
+
+#dashboard #orbit-centered .welcome .message {
+    font-size: 4.25rem;
+    text-shadow: 1px 1px #8a8a8a;
+}
+
+#dashboard #orbit-centered #centered-episodes .entry .title {
+    margin: -8px 0 0;
+}
+
+#dashboard #orbit-centered #centered-episodes .entry .description {
+    background-color: rgba(252, 252, 252, 0.7);
+    padding: 4px;
+    border-radius: 3px
+}
+
+/*********************************************************************************/
+/*** Dashboard: || Orbit: || Bottom:                                           ***/
+/*********************************************************************************/
+
+#dashboard #orbit-bottom .orbit-container,
+#dashboard #orbit-bottom .entry{
+    background-color: rgba(233, 233, 233, 0.39)
+}
+
+#dashboard #orbit-bottom .entry .tagline {
+    font-style: italic;
+    padding: 0;
+}
+
+#dashboard #orbit-bottom .entry .tagline .icon {
+    opacity: 0.6;
+    position: relative;
+    top: -1px;
+}
+
+/*********************************************************************************/
+/*** Dashboard: || [:HOVER]                                                    ***/
+/*********************************************************************************/
+
+#dashboard .on-hover {
+    height: 181px;
+    width: 365px;
+}
+
+#dashboard .on-hover.ease-in-out img {
+    margin: -50px 0;
+}

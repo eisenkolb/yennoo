@@ -88,6 +88,7 @@ angular.module("Kodi.Factory", []).factory("MovieFactory", function($rootScope, 
                     entry.poster    = (entry.art && entry.art.poster) ? this.GetThumbnailPath(entry.art.poster) : null;
                     entry.fanart    = (entry.art && entry.art.fanart) ? this.GetThumbnailPath(entry.art.fanart) : null;
                     entry.banner    = (entry.art && entry.art.banner) ? this.GetThumbnailPath(entry.art.banner) : null;
+                    entry.banner    = (entry.art && entry.banner === null && entry.art["tvshow.banner"]) ? this.GetThumbnailPath(entry.art["tvshow.banner"]) : null;
 
                     if (Kodi.util.isType(entry.cast, "object") === true){
                         for(var name in entry.cast){
