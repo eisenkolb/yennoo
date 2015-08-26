@@ -1483,18 +1483,27 @@
     margin: -3px 0 0
 }
 
-#dashboard #header-episodes .entry .title {
+#dashboard #header-episodes .entry .watched {
+    color: #0BC00B;
+    margin-left: 4px;
+}
+
+#dashboard #header-episodes .entry .title,
+#dashboard #header-episodes .entry .episode {
+    position: relative;
+    background-color: #ffffff;
+    padding: 0 4px;
+    z-index: 1;
+}
+
+#dashboard #header-episodes .entry .episode {
     display: block;
     font-size: 0.7rem;
     opacity: .8;
-    z-index: 1;
-    position: relative;
-    background-color: #ffffff;
     margin: 0 -1px;
-    padding: 0 4px;
 }
 
-#dashboard #header-episodes .entry .title .icon {
+#dashboard #header-episodes .entry .episode .icon {
     margin-top: 3px;
 }
 

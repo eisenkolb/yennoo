@@ -79,12 +79,10 @@
                 <!-- Recently Block Item / starts -->
                 <ul class="large-4 small-6 columns entry highlight-border on-hover ease-in-out" ng-repeat="(index, entry) in recently.episodes track by $index" ng-if="$index < 4">
                     <li class="small-12 row">
-                        <div class="panel">
-                            <p class="without-margin">{{entry.showtitle}}<span ng-if="entry.playcount"><i class="fa fa-check-circle-o"></i></span></p>
-                            <small class="title" ng-if="entry.label">{{entry.label}}
-                                <a><i class="icon fa fa-plus-square right"></i></a>
-                            </small>
-                        </div>
+                        <p class="title without-margin">{{entry.showtitle}}<span ng-if="entry.playcount"><i class="fa fa-check watched"></i></span></p>
+                        <small class="episode" ng-if="entry.label">{{entry.label}}
+                            <a><i class="icon fa fa-plus-square right"></i></a>
+                        </small>
                         <div class="small-12 description without-margin">
                             {{(entry.plot || "{empty}").substr(0, 288)}}...
                         </div>
