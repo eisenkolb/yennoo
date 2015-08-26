@@ -139,6 +139,35 @@
                     };
                 }
 
+
+                /**
+                 * Movies
+                 * --------------------------------------------------------------------------------
+                 */
+                if (command.method == "VideoLibrary.GetRecentlyAddedEpisodes"
+                || (command.method == "VideoLibrary.GetRecentlyAddedMovies")
+                || (command.method == "VideoLibrary.GetRecentlyAddedMusicVideos")){
+                    command.dataurl = "%method%.json".replace(/%method%/g, command.method);
+
+                    if (command.method == "VideoLibrary.GetRecentlyAddedEpisodes"){
+                        command.process = function(data){
+                            return({episodes: data});
+                        };
+                    }
+
+                    if (command.method == "VideoLibrary.GetRecentlyAddedMovies"){
+                        command.process = function(data){
+                            return({movies: data});
+                        };
+                    }
+
+                    if (command.method == "VideoLibrary.GetRecentlyAddedMusicVideos"){
+                        command.process = function(data){
+                            return({musicvideos: data});
+                        };
+                    }
+                }
+
                 return(command);
             });
 
