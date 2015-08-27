@@ -118,6 +118,18 @@
         AudioLibrary: {
 
             /**
+             * Cleans the audio library from non-existent items
+             *
+             * @return {object}
+             */
+            Clean: function(){
+
+                return({
+                    method: "AudioLibrary.Clean"
+                });
+            },
+
+            /**
              * Retrieve all albums from specified artist or genre
              *
              * @param  {array}  [properties=~Audio.Fields.Album[0]] {@link Kodi.rpc.methods.Audio.Fields.Album}
@@ -154,6 +166,21 @@
                 return({
                     method: "AudioLibrary.GetSongs",
                     params: {properties: this.properties, sort: this.sort, limits: this.limits, filter: this.filter}
+                });
+            },
+
+            /**
+             * Scans the audio sources for new library items
+             *
+             * @param  {string} [directory=""]
+             * @return {object}
+             */
+            Scan: function(directory){
+                this.directory = Kodi.util.isString(directory) ? directory : "";
+
+                return({
+                    method: "AudioLibrary.Scan",
+                    params: {directory: this.directory}
                 });
             }
         },
