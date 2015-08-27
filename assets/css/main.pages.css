@@ -1496,6 +1496,13 @@
     z-index: 1;
 }
 
+#dashboard #header-episodes .entry .title:not(*:root) /** Hack: Chrome **/,
+#dashboard #header-episodes .entry .episode:not(*:root) {
+    top: -25px;
+    margin: 0;
+    border: 1px #767474 solid;
+}
+
 #dashboard #header-episodes .entry .episode {
     display: block;
     font-size: 0.7rem;
@@ -1511,6 +1518,11 @@
     color: #E1DFDF;
     font-size: 0.8rem;
     padding: 0 4px;
+}
+
+#dashboard #header-episodes .entry .description:not(*:root) /** Hack: Chrome **/ {
+    top: -22px;
+    position: relative;
 }
 
 /*********************************************************************************/
@@ -1546,8 +1558,9 @@
 /*********************************************************************************/
 
 #dashboard #orbit-bottom .orbit-container,
-#dashboard #orbit-bottom .entry{
-    background-color: rgba(233, 233, 233, 0.39)
+#dashboard #orbit-bottom .entry {
+    background-color: rgba(233, 233, 233, 0.39);
+    text-shadow: 1px 1px #BDBDBD;
 }
 
 #dashboard #orbit-bottom .entry .tagline {
@@ -1562,6 +1575,45 @@
 }
 
 /*********************************************************************************/
+/*** Dashboard: || Orbit: || Bottom:Movies                                     ***/
+/*********************************************************************************/
+
+#dashboard #media-listing .poster .entry {
+    padding: 0;
+    margin: 0;
+    width: auto;
+}
+
+#dashboard #media-listing .poster .entry .cover {
+    border-radius: 2px;
+}
+
+#dashboard #media-listing .poster .entry:hover,
+#dashboard #media-listing .poster .entry:hover > .title-movie span {
+    background: #410940;
+}
+
+#dashboard #media-listing .poster .entry:hover > .title-movie span {
+    box-shadow: none;
+    border-color: transparent;
+    z-index: 1;
+}
+
+#dashboard #media-listing .poster .entry .title-movie {
+    margin-top: 2px;
+}
+
+#dashboard #media-listing .poster .entry .title-movie span {
+    text-shadow: 1px 1px #373737;
+    color: #E2E2E2;
+}
+
+#dashboard #media-listing li.active .cover {
+    border-color: #00CFFF;
+    box-shadow: 0 0 21px -2px #FFFE98;
+}
+
+/*********************************************************************************/
 /*** Dashboard: || [:HOVER]                                                    ***/
 /*********************************************************************************/
 
@@ -1572,4 +1624,8 @@
 
 #dashboard .on-hover.ease-in-out img {
     margin: -50px 0;
+}
+
+#dashboard .on-hover.ease-in-out .trigger-area:hover {
+    bottom: -125%;
 }

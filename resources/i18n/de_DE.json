@@ -38,29 +38,35 @@
         "IMDB"         : "IMDb"
     },
     "SETTING": {
-        "HOST": "Host",
-        "PORT": "Port",
-        "CHANGE_SETTING": "Einstellung ändern",
+        "HOST"            : "Host",
+        "PORT"            : "Port",
+        "CHANGE_SETTING"  : "Einstellung ändern",
         "LANGUAGE_CHANGED": "Sprache auf {{language}} gewechselt"
     },
     "GLOBAL": {
-        "VALUE": "Wert",
-        "PLAY": "Abspielen",
-        "WATCHED": "Gesehen",
-        "NOT_WATCHED": "nicht gesehen",
-        "CANCEL": "Abbrechen",
-        "SAVE": "Speichern",
-        "LAST_PAGE": "Letzte Seite",
-        "FIRST_PAGE": "Erste Seite",
-        "SAVING_ERROR": "Fehler beim Speichern",
-        "CONTINUE": "Fortsetzen",
-        "AT": "bei"
+        "VALUE"               : "Wert",
+        "PLAY"                : "Abspielen",
+        "WATCHED"             : "Gesehen",
+        "NOT_WATCHED"         : "nicht gesehen",
+        "CANCEL"              : "Abbrechen",
+        "SAVE"                : "Speichern",
+        "LAST_PAGE"           : "Letzte Seite",
+        "FIRST_PAGE"          : "Erste Seite",
+        "SAVING_ERROR"        : "Fehler beim Speichern",
+        "CONTINUE"            : "Fortsetzen",
+        "AT"                  : "bei",
+        "SETTINGS"            : "Einstellungen",
+        "LIBRARY"             : "Bibliothek",
+        "UPDATE_VIDEO_LIBRARY": "Videobibliothek aktualisieren",
+        "UPDATE_MUSIC_LIBRARY": "Musikbibliothek aktualisieren",
+        "CLEAN_VIDEO_LIBRARY" : "Videodatenbank säubern",
+        "CLEAN_MUSIC_LIBRARY" : "Musikdatenbank säubern"
     },
     "TVSHOW": {
-        "SEASONS": "Staffeln",
-        "SEASON": "Staffel",
+        "SEASONS"     : "Staffeln",
+        "SEASON"      : "Staffel",
         "ALL_EPISODES": "Alle anzeigen",
-        "OVERVIEW": "Überblick"
+        "OVERVIEW"    : "Überblick"
     },
     "MOVIE": {
         "UNVIEWED"  : "Ungesehen",
@@ -73,6 +79,13 @@
         "CAST"      : "Besetzung",
         "STREAMS"   : "Streams",
         "DISPLAY"   : "Anzeigen"
+    },
+    "RECENTLY_ADDED": {
+        "RECENTLY_ADDED"         : "neu hinzugefügt",
+        "RECENTLY_ADDED_ALBUMS"  : "Zuletzt hinzugefügte Alben",
+        "RECENTLY_ADDED_EPISODES": "Kürzlich hinzugefügte TV-Episoden",
+        "RECENTLY_ADDED_MOVIES"  : "Kürzlich hinzugefügte Filme",
+        "RECENTLY_PLAYED"        : "Zuletzt gespielt"
     },
     "PEOPLE": {
         "FILMOGRAPHY": "Filmographie",
