@@ -1,9 +1,43 @@
-Yennoo.register.controller("index.DashboardCtrl"
-, ["$scope", "APIservice", "Locale", "$translate", "MovieFactory", "Transporter"
-, function($scope, APIservice, Locale, $translate, MovieFactory, Transporter){
-
-    $scope.route    = {movies: Yennoo.route.moviesIndex[0], series: Yennoo.route.seriesIndex[0]};
+Yennoo.register.controller("index.DashboardCtrl", ["$scope", "MovieFactory", function($scope, MovieFactory) {
     $scope.recently = {banners: {}, episodes: {}, movies: {}};
+    $scope.library  = {update: {}, clean: {}};
+    $scope.route    = {
+        movies: Yennoo.route.moviesIndex[0],
+        series: Yennoo.route.seriesIndex[0],
+        music : Yennoo.route.musicsIndex[0]
+    };
+
+    /**
+     * Scans the video sources for new library items
+     */
+    $scope.library.update.video = function()
+    {
+        MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.VideoLibrary.Scan());
+    };
+
+    /**
+     * Scans the audio sources for new library items
+     */
+    $scope.library.update.music = function()
+    {
+        MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.AudioLibrary.Scan());
+    };
+
+    /**
+     * Cleans the video library from non-existent items
+     */
+    $scope.library.clean.video = function()
+    {
+        MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.VideoLibrary.Clean());
+    };
+
+    /**
+     * Cleans the audio library from non-existent items
+     */
+    $scope.library.clean.music = function()
+    {
+        MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.AudioLibrary.Clean());
+    };
 
     /**
      * Fetch the recently added movies
