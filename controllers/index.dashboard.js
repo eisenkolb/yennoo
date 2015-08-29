@@ -1,4 +1,4 @@
-Yennoo.register.controller("index.DashboardCtrl", ["$scope", "MovieFactory", function($scope, MovieFactory) {
+Yennoo.register.controller("index.DashboardCtrl", ["$scope", "MovieFactory", "PlaybackService", function($scope, MovieFactory, PlaybackService) {
     $scope.recently = {banners: {}, episodes: {}, movies: {}};
     $scope.library  = {update: {}, clean: {}};
     $scope.route    = {
@@ -37,6 +37,14 @@ Yennoo.register.controller("index.DashboardCtrl", ["$scope", "MovieFactory", fun
     $scope.library.clean.music = function()
     {
         MovieFactory.BuildRequest(Kodi.util.noop, Kodi.rpc.methods.AudioLibrary.Clean());
+    };
+
+    /**
+     * Playback handler
+     */
+    $scope.action = {
+        download  : PlaybackService.downloadFile,
+        playback  : PlaybackService.openFile
     };
 
     /**

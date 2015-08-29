@@ -21,9 +21,9 @@
         <!-- Button (Action) Area / starts -->
         <div class="large-12 row">
             <div class="small-4 columns show-for-large-up">
-                <div class="small-12 button columns highlight-border">
+                <a class="small-12 button columns highlight-border" href="#/sets">
                     <i class="fa fa-bookmark-o"></i>&nbsp;{{"COLLECTION" | translate}}
-                </div>
+                </a>
             </div>
             <div class="small-4 columns show-for-large-up">
                 <a class="small-12 button columns highlight-border" href="#/sources/list/enums">
@@ -77,21 +77,29 @@
     <!-- Image slider (Orbit) /  ends  -->
 
     <!-- Recently Added Episodes / starts -->
-    <div class="large-6 columns" id="header-episodes" ng-if="recently.episodes">
+    <div class="large-6 columns" id="header-episodes">
 
-        <div class="small-12 columns">
+        <div class="small-12 columns" ng-if="recently.episodes">
             <!-- Block Grid for Recently items / starts -->
             <ul class="small-block-grid-3 items">
                 <!-- Recently Block Item / starts -->
                 <ul class="large-4 small-6 columns entry highlight-border on-hover ease-in-out" ng-repeat="(index, entry) in recently.episodes track by $index" ng-if="$index < 4">
                     <li class="small-12 row">
-                        <p class="title without-margin">{{entry.showtitle}}<span ng-if="entry.playcount"><i class="fa fa-check watched"></i></span></p>
-                        <small class="episode" ng-if="entry.label">{{entry.label}}
+                        <p class="title without-margin"><a class="text-inherit" ng-href="{{route.series}}/{{entry.tvshowid}}/{{entry.showtitle.toLowerCase()}}">{{entry.showtitle}}</a><span ng-if="entry.playcount"><i class="fa fa-check watched"></i></span></p>
+                        <small class="episode" ng-if="entry.label" data-dropdown="hover-{{$index}}" data-options="align:left">{{entry.label}}
                             <a><i class="icon fa fa-plus-square right"></i></a>
                         </small>
                         <div class="small-12 description without-margin">
                             {{(entry.plot || "{empty}").substr(0, 288)}}...
                         </div>
+
+                        <!-- Context menu /  starts  -->
+                        <ul id="hover-{{$index}}" class="tiny small medium f-dropdown" data-dropdown-content>
+                            <li ng-click="action.playback(entry.file);"><a><i class="fa fa-desktop"></i>&nbsp;{{"MOVIE.WATCH_ON" | translate:"{'name': 'Kodi'}"}}</a></li>
+                            <li ng-click="action.download(entry.file);"><a><i class="fa fa-download"></i>&nbsp;{{"MOVIE.DOWNLOAD" | translate}}: {{entry.label}}</a></li>
+                        </ul>
+                        <!-- Context menu /  ends  -->
+
                     </li>
                     <li><img class="trigger-area" ng-src="{{entry.thumbnail}}"/></li>
                 </ul>
@@ -219,7 +227,7 @@
                 <li class="entry" data-orbit-slide="movie-headline-{{entry.movieid}}" ng-repeat="(index, entry) in recently.movies track by $index" ng-if="$index < 8" data-fanart="{{entry.fanart}}">
                     <div class="columns">
                         <!-- Media Preview of Title, Slogan and Thumbnail / starts -->
-                        <h3>{{entry.title}}</h3>
+                        <h3><a class="text-inherit" ng-href="{{route.movies}}/{{entry.movieid}}/{{entry.label.toLowerCase()}}">{{entry.title}}&nbsp;<i class="icon fa fa-sign-out" style="display:none;"></i></a></h3>
                         <span ng-if="entry.tagline" class="tagline without-margin" ng-if="entry.tagline"><i class="icon fa fa-bell-o"></i>{{entry.tagline}}</span>
                         <p class="normal">{{entry.plot}}</p>
                         <img class="th" ng-src="{{entry.fanart}}">
@@ -228,13 +236,14 @@
 
                         <!-- Media Summary list / starts -->
                         <div class="large-12 row">
-                            <a class="radius secondary button small" ng-if="entry.country"><i class="fa fa-globe"></i>&nbsp;{{entry.country[0]}}</a>
-                            <a class="radius secondary button small" ng-if="entry.streamdetails && entry.streamdetails.video.length && entry.streamdetails.video[0].width"><i class="fa fa-film"></i>&nbsp;{{entry.streamdetails.video[0].width}}x{{entry.streamdetails.video[0].height}}px</a>
-                            <a class="radius secondary button small" ng-if="entry.minutes"><i class="fa fa-history"></i>&nbsp;{{entry.minutes}} {{"PROPERTY.MINUTES" | translate}}</a>
-                            <a class="radius secondary button small" ng-if="entry.ratings && entry.ratings.score"><i class="fa fa-star-o"></i>&nbsp;{{(entry.ratings.score).toLocaleString()}}</a>
-                            <a class="radius secondary button small" ng-if="entry.mpaa && entry.mpaa !==''"><i class="fa fa-trophy"></i>&nbsp;{{entry.mpaa}}</a>
-                            <a class="radius info button small" ng-href="{{route.movies}}/{{entry.movieid}}/{{entry.label.toLowerCase()}}">{{"TVSHOW.OVERVIEW" | translate}}&nbsp;<i class="icon fa fa-1x fa-sign-out">&nbsp;</i></a>
-                            <a class="radius success button small">{{"GLOBAL.PLAY" | translate}}&nbsp;<i class="icon fa fa-1x fa-desktop">&nbsp;</i></a>
+                            <a class="radius secondary button tiny" ng-if="entry.streamdetails && entry.streamdetails.video.length && entry.streamdetails.video[0].width"><i class="fa fa-film"></i>&nbsp;{{entry.streamdetails.video[0].width}}x{{entry.streamdetails.video[0].height}}px</a>
+                            <a class="radius secondary button tiny" ng-if="entry.streamdetails && entry.streamdetails.video.length && entry.streamdetails.video[0].codec"><i class="fa fa-camera-retro"></i>&nbsp;{{entry.streamdetails.video[0].codec}}</a>
+                            <a class="radius secondary button tiny" ng-if="entry.streamdetails && entry.streamdetails.audio.length && entry.streamdetails.audio[0].codec"><i class="fa fa-volume-up"></i>&nbsp;{{(entry.streamdetails.audio[0].codec).toUpperCase()}}</a>
+                            <a class="radius secondary button tiny" ng-if="entry.minutes"><i class="fa fa-history"></i>&nbsp;{{entry.minutes}} {{"PROPERTY.MINUTES" | translate}}</a>
+                            <a class="radius secondary button tiny" ng-if="entry.ratings && entry.ratings.score"><i class="fa fa-star-o"></i>&nbsp;{{(entry.ratings.score).toLocaleString()}}</a>
+                            <a class="radius secondary button tiny" ng-if="entry.playcount"><i class="fa fa-check"></i>&nbsp;{{"GLOBAL.WATCHED" | translate}}</a>
+                            <a class="radius secondary button tiny" ng-if="entry.mpaa && entry.mpaa !==''"><i class="fa fa-trophy"></i>&nbsp;{{entry.mpaa}}</a>
+                            <a class="radius secondary button tiny" ng-click="action.playback(entry.file);"><i class="icon fa fa-1x fa-desktop"></i>&nbsp;{{"GLOBAL.PLAY" | translate}}</a>
                         </div>
                         <!-- Media Summary list /  ends  -->
                     </div>

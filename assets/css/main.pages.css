@@ -1565,11 +1565,11 @@
 
 #dashboard #orbit-bottom .entry .tagline {
     font-style: italic;
-    padding: 0;
+    color: #7B7B7B;
+    text-shadow: none;
 }
 
 #dashboard #orbit-bottom .entry .tagline .icon {
-    opacity: 0.6;
     position: relative;
     top: -1px;
 }
@@ -1611,6 +1611,11 @@
 #dashboard #media-listing li.active .cover {
     border-color: #00CFFF;
     box-shadow: 0 0 21px -2px #FFFE98;
+}
+
+#dashboard #movie-orbit h3:hover .icon{
+    display: inline !important;
+    color: #999;
 }
 
 /*********************************************************************************/
