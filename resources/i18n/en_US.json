@@ -38,29 +38,35 @@
         "IMDB"         : "IMDb"
     },
     "SETTING": {
-        "HOST": "Host",
-        "PORT": "Port",
-        "CHANGE_SETTING": "change Setting",
+        "HOST"            : "Host",
+        "PORT"            : "Port",
+        "CHANGE_SETTING"  : "change Setting",
         "LANGUAGE_CHANGED": "Language changed to {{language}}"
     },
     "GLOBAL": {
-        "VALUE": "Value",
-        "PLAY": "Play",
-        "WATCHED": "Watched",
-        "NOT_WATCHED": "not watched",
-        "CANCEL": "Cancel",
-        "SAVE": "Save",
-        "LAST_PAGE": "Last Page",
-        "FIRST_PAGE": "First page",
-        "SAVING_ERROR": "Error occurred while saving",
-        "CONTINUE": "Continue",
-        "AT": "at"
+        "VALUE"               : "Value",
+        "PLAY"                : "Play",
+        "WATCHED"             : "Watched",
+        "NOT_WATCHED"         : "not watched",
+        "CANCEL"              : "Cancel",
+        "SAVE"                : "Save",
+        "LAST_PAGE"           : "Last Page",
+        "FIRST_PAGE"          : "First page",
+        "SAVING_ERROR"        : "Error occurred while saving",
+        "CONTINUE"            : "Continue",
+        "AT"                  : "at",
+        "SETTINGS"            : "Settings",
+        "LIBRARY"             : "Library",
+        "UPDATE_VIDEO_LIBRARY": "Update Video Library",
+        "UPDATE_MUSIC_LIBRARY": "Update Music Library",
+        "CLEAN_VIDEO_LIBRARY" : "Clean Video Library",
+        "CLEAN_MUSIC_LIBRARY" : "Clean Music Library"
     },
     "TVSHOW": {
-        "SEASONS": "Seasons",
-        "SEASON": "Season",
+        "SEASONS"     : "Seasons",
+        "SEASON"      : "Season",
         "ALL_EPISODES": "Alle anzeigen",
-        "OVERVIEW": "Overview"
+        "OVERVIEW"    : "Overview"
     },
     "MOVIE": {
         "UNVIEWED"  : "Unviewed",
@@ -74,12 +80,19 @@
         "STREAMS"   : "Streams",
         "DISPLAY"   : "Display"
     },
+    "RECENTLY_ADDED": {
+        "RECENTLY_ADDED"         : "Recently Added",
+        "RECENTLY_ADDED_ALBUMS"  : "Recently Added Albums",
+        "RECENTLY_ADDED_EPISODES": "Recently Added TV Episodes",
+        "RECENTLY_ADDED_MOVIES"  : "Recently Added Movies",
+        "RECENTLY_PLAYED"        : "Recently Played"
+    },
     "PEOPLE": {
         "FILMOGRAPHY": "Filmography",
         "KNOWN_FOR"  : "Known For"
     },
     "MESSAGE": {
-        "EMPTY_DIRECTORY" :  "Directory is empty or there is nothing to see",
+        "EMPTY_DIRECTORY" : "Directory is empty or there is nothing to see",
         "FOUND_RESULTS"   : "{{count}} Results (in {{seconds}} Seconds)",
         "PLAY_EVERYTHING" : "Everything Play",
         "NO_TRACK_LIST"   : "no songs available",

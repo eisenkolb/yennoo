@@ -1,0 +1,265 @@
+<div id="dashboard" class="page-margin">
+
+    <!-- Image slider (Orbit) / starts -->
+    <div class="large-6 columns">
+        <!-- Orbit Container / starts -->
+        <div class="large-12 columns" ng-show="recently.banners">
+            <div class="panel">
+                <div class="orbit-container">
+                    <ul id="banner-orbit" class="small-12" data-orbit="" data-options="timer_speed:2500;timer:true;circular:true;resume_on_mouseout:true;animation:fade;bullets:false;variable_height:true;">
+                        <li data-orbit-slide="banner-orbit-{{index}}" ng-repeat="(index, entry) in recently.banners track by $index">
+                            <a ng-href="{{route.series}}/{{index}}/{{entry.label.toLowerCase()}}">
+                                <img class="small-12" ng-src="{{entry.banner}}">
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!-- Orbit Container /  ends  -->
+
+        <!-- Button (Action) Area / starts -->
+        <div class="large-12 row">
+            <div class="small-4 columns show-for-large-up">
+                <a class="small-12 button columns highlight-border" href="#/sets">
+                    <i class="fa fa-bookmark-o"></i>&nbsp;{{"COLLECTION" | translate}}
+                </a>
+            </div>
+            <div class="small-4 columns show-for-large-up">
+                <a class="small-12 button columns highlight-border" href="#/sources/list/enums">
+                    <i class="fa fa-file-text"></i>&nbsp;{{"SOURCES" | translate}}
+                </a>
+            </div>
+            <div class="large-4 small-12 columns">
+                <div class="small-12 button columns highlight-border" data-dropdown="dropdown-update-library" aria-expanded="false">
+                    <i class="fa fa-repeat"></i>&nbsp;{{"GLOBAL.LIBRARY" | translate}}&nbsp;<i class="fa fa-caret-down"></i>
+                </div>
+                <ul id="dropdown-update-library" data-dropdown-content class="f-dropdown medium" aria-hidden="true">
+                    <li><a ng-click="library.update.video();">{{"GLOBAL.UPDATE_VIDEO_LIBRARY" | translate}}</a></li>
+                    <li><a ng-click="library.update.music();">{{"GLOBAL.UPDATE_MUSIC_LIBRARY" | translate}}</a></li>
+                    <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_VIDEO_LIBRARY" | translate}}</a></li>
+                    <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_MUSIC_LIBRARY" | translate}}</a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- Button (Action) Area /  ends  -->
+
+        <!-- Button (Action) Area / starts -->
+        <div class="large-12 row">
+            <div class="small-4 columns show-for-large-up">
+                <a class="small-12 button columns highlight-border" ng-click="$root.$broadcast('overlay:settings:toggle')">
+                    <i class="fa fa-cogs"></i>&nbsp;{{"GLOBAL.SETTINGS" | translate}}
+                </a>
+            </div>
+            <div class="small-4 columns">
+                <a class="small-12 button columns highlight-border" ng-href="{{route.music}}">
+                    <i class="fa fa-music"></i>&nbsp;{{"MUSIC" | translate}}
+                </a>
+            </div>
+            <div class="small-4 columns">
+                <div class="small-12 button columns highlight-border">
+                    <i class="fa fa-microphone"></i>&nbsp;{{"PROPERTY.ARTIST" | translate}}
+                </div>
+            </div>
+            <div class="small-4 columns">
+                <a class="small-12 button columns highlight-border" ng-href="{{route.movies}}">
+                    <i class="fa fa-film"></i>&nbsp;{{"MOVIES" | translate}}
+                </a>
+            </div>
+            <div class="small-12 large-8 columns">
+                <a class="small-12 button columns highlight-border" data-orbit-link="big-orbit-recently-shows">
+                    <i class="fa fa-clock-o"></i>&nbsp;{{"RECENTLY_ADDED.RECENTLY_ADDED_EPISODES" | translate}}
+                </a>
+            </div>
+        </div>
+        <!-- Button (Action) Area /  ends  -->
+    </div>
+    <!-- Image slider (Orbit) /  ends  -->
+
+    <!-- Recently Added Episodes / starts -->
+    <div class="large-6 columns" id="header-episodes">
+
+        <div class="small-12 columns" ng-if="recently.episodes">
+            <!-- Block Grid for Recently items / starts -->
+            <ul class="small-block-grid-3 items">
+                <!-- Recently Block Item / starts -->
+                <ul class="large-4 small-6 columns entry highlight-border on-hover ease-in-out" ng-repeat="(index, entry) in recently.episodes track by $index" ng-if="$index < 4">
+                    <li class="small-12 row">
+                        <p class="title without-margin"><a class="text-inherit" ng-href="{{route.series}}/{{entry.tvshowid}}/{{entry.showtitle.toLowerCase()}}">{{entry.showtitle}}</a><span ng-if="entry.playcount"><i class="fa fa-check watched"></i></span></p>
+                        <small class="episode" ng-if="entry.label" data-dropdown="hover-{{$index}}" data-options="align:left">{{entry.label}}
+                            <a><i class="icon fa fa-plus-square right"></i></a>
+                        </small>
+                        <div class="small-12 description without-margin">
+                            {{(entry.plot || "{empty}").substr(0, 288)}}...
+                        </div>
+
+                        <!-- Context menu /  starts  -->
+                        <ul id="hover-{{$index}}" class="tiny small medium f-dropdown" data-dropdown-content>
+                            <li ng-click="action.playback(entry.file);"><a><i class="fa fa-desktop"></i>&nbsp;{{"MOVIE.WATCH_ON" | translate:"{'name': 'Kodi'}"}}</a></li>
+                            <li ng-click="action.download(entry.file);"><a><i class="fa fa-download"></i>&nbsp;{{"MOVIE.DOWNLOAD" | translate}}: {{entry.label}}</a></li>
+                        </ul>
+                        <!-- Context menu /  ends  -->
+
+                    </li>
+                    <li><img class="trigger-area" ng-src="{{entry.thumbnail}}"/></li>
+                </ul>
+                <!-- Recently Block Item /  ends  -->
+            </ul>
+            <!-- Block Grid for Recently items /  ends  -->
+        </div>
+    </div>
+    <!-- Recently Added Episodes /  ends  -->
+
+    <hr style="margin-bottom:0;">
+
+    <!-- Centered Orbit / starts -->
+    <div class="columns" id="orbit-centered">
+        <!-- Orbit Container / starts -->
+        <div class="orbit-container">
+            <ul class="big-orbit" data-orbit="" data-options="variable_height:true;slide_number:false;navigation_arrows:false;bullets:false;timer:false;">
+                <!-- Big Welcome in Orbit / starts -->
+                <li class="welcome" data-orbit-slide="big-orbit-welcome">
+                    <div class="small-7 small-offset-3">
+                        <img class="left logo" src="./assets/icon/yennoo.png">
+                        <h1 class="message left">Welcome to Yennoo</h1>
+                    </div>
+                </li>
+                <!-- Big Welcome in Orbit /  ends  -->
+
+                <!-- Recently Added Shows / starts -->
+                <li id="centered-episodes" data-orbit-slide="big-orbit-recently-shows">
+                    <!-- Header for Recently Added / starts -->
+                    <h2><i class="fa fa-1x fa-arrow-left" data-orbit-link="big-orbit-welcome"></i>{{"RECENTLY_ADDED.RECENTLY_ADDED_EPISODES" | translate}}</h2>
+                    <!-- Header for Recently Added /  ends  -->
+
+                    <!-- Block Grid for Recently Added Shows / starts -->
+                    <ul class="small-block-grid-2">
+                        <li class="row entry" ng-repeat="(index, entry) in recently.episodes track by $index" ng-if="$index < 8">
+                            <!-- Media Preview picture on the left / starts -->
+                            <div class="small-12 medium-3 columns thumbnail">
+                                <img class="left highlight-border" ng-src="{{entry.thumbnail}}"/>
+                            </div>
+                            <!-- Media Preview picture on the left /  ends  -->
+
+                            <!-- Media Detail Container / starts -->
+                            <div class="small-12 medium-9 columns">
+                                <h4 class="title">{{entry.showtitle}}<span ng-if="entry.playcount"><i class="fa fa-check-circle-o"></i></span></h4>
+                                <p class="normal description">
+                                    <strong ng-if="entry.label">{{entry.label}}:&nbsp;</strong>{{(entry.plot || "{empty}").substr(0, 210)}}...
+                                </p>
+                            </div>
+                            <!-- Media Detail Container /  ends  -->
+
+                            <!-- Additional Media info / starts -->
+                            <div class="small-12 left details">
+                                <ul class="inline-list row show-for-medium-up">
+                                    <li ng-if="entry.director" class="label radius secondary">
+                                        <div>
+                                            {{"PROPERTY.DIRECTOR" | translate}}:
+                                            <span ng-repeat="director in entry.director track by $index">
+                                                <a ng-href="{{route.series}}/filter/director/{{director.toLowerCase()}}">{{director}}</a>{{$last ? null : ", "}}</a>
+                                            <span>
+                                        </div>
+                                    </li>
+                                    <li ng-if="entry.writer" class="radius secondary label">
+                                        <div>
+                                            {{"PROPERTY.WRITER" | translate}}:
+                                            <a ng-href="{{route.series}}/filter/writer/{{entry.writer[0].toLowerCase()}}">{{entry.writer[0]}}</a></a>
+                                        </div>
+                                    </li>
+                                    <li ng-if="entry.minutes" class="radius secondary label">
+                                        <span>
+                                            {{"PROPERTY.RUNTIME" | translate}}:
+                                            <a ng-href="{{route.series}}/filter/runtime/{{entry.minutes}}">{{entry.minutes}} {{"PROPERTY.MINUTES" | translate}}</a>
+                                        </span>
+                                    </li>
+                                    <li ng-if="entry.ratings && entry.ratings.score" class="radius secondary label">
+                                        <span>
+                                            {{"PROPERTY.RATING" | translate}}:
+                                            <a ng-href="{{route.series}}/filter/rating/{{(entry.ratings.score).toLocaleString()}}">{{(entry.ratings.score).toLocaleString()}} / 10</a>
+                                        </span>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- Additional Media info /  ends  -->
+                        </li>
+                    </ul>
+                    <!-- Block Grid for Recently Added Shows /  ends  -->
+                </li>
+                <!-- Recently Added Shows /  ends  -->
+            </ul>
+        </div>
+        <!-- Orbit Container /  ends  -->
+    </div>
+    <!-- Centered Orbit /  ends  -->
+
+    <hr/>
+
+    <!-- List of Recently Added Movies / starts -->
+    <div id="recently-movies" class="large-6 columns">
+        <div id="media-listing">
+            <!-- Block Grid container for new Movies /  ends  -->
+            <ul class="poster small-block-grid-4">
+                <li ng-repeat="(index, entry) in recently.movies track by $index" ng-if="entry.movieid && $index < 8" data-orbit-link="movie-headline-{{entry.movieid}}">
+                    <a class="entry transition">
+                        <img class="cover centered transition" src="./assets/img/media.cover.frame.png"
+                             media="poster" poster="entry.poster" imageonload="true">
+                        <div class="title-movie text-center">
+                            <span class="normal">{{entry.title}}</span>
+                        </div>
+                    </a>
+                </li>
+            </ul>
+            <!-- Block Grid container for new Movies /  ends  -->
+        </div>
+
+        <!-- Button for new Movies / starts -->
+        <a class="small small-12 button highlight-border">{{"RECENTLY_ADDED.RECENTLY_ADDED_MOVIES" | translate}}</a>
+        <!-- Button for new Movies /  ends  -->
+    </div>
+    <!-- List of Recently Added Movies /  ends  -->
+
+    <!-- Movie Detail container / starts -->
+    <div id="orbit-bottom" class="large-6 columns">
+        <!-- Orbit Container for details / starts -->
+        <div class="orbit-container highlight-border">
+            <ul id="movie-orbit" data-orbit="" data-options="timer_speed:3500;timer:true;circular:true;resume_on_mouseout:tue;variable_height:true;slide_number:false;">
+                <li class="entry" data-orbit-slide="movie-headline-{{entry.movieid}}" ng-repeat="(index, entry) in recently.movies track by $index" ng-if="$index < 8" data-fanart="{{entry.fanart}}">
+                    <div class="columns">
+                        <!-- Media Preview of Title, Slogan and Thumbnail / starts -->
+                        <h3><a class="text-inherit" ng-href="{{route.movies}}/{{entry.movieid}}/{{entry.label.toLowerCase()}}">{{entry.title}}&nbsp;<i class="icon fa fa-sign-out" style="display:none;"></i></a></h3>
+                        <span ng-if="entry.tagline" class="tagline without-margin" ng-if="entry.tagline"><i class="icon fa fa-bell-o"></i>{{entry.tagline}}</span>
+                        <p class="normal">{{entry.plot}}</p>
+                        <img class="th" ng-src="{{entry.fanart}}">
+                        <hr>
+                        <!-- Media Preview of Title, Slogan and Thumbnail /  ends  -->
+
+                        <!-- Media Summary list / starts -->
+                        <div class="large-12 row">
+                            <a class="radius secondary button tiny" ng-if="entry.streamdetails && entry.streamdetails.video.length && entry.streamdetails.video[0].width"><i class="fa fa-film"></i>&nbsp;{{entry.streamdetails.video[0].width}}x{{entry.streamdetails.video[0].height}}px</a>
+                            <a class="radius secondary button tiny" ng-if="entry.streamdetails && entry.streamdetails.video.length && entry.streamdetails.video[0].codec"><i class="fa fa-camera-retro"></i>&nbsp;{{entry.streamdetails.video[0].codec}}</a>
+                            <a class="radius secondary button tiny" ng-if="entry.streamdetails && entry.streamdetails.audio.length && entry.streamdetails.audio[0].codec"><i class="fa fa-volume-up"></i>&nbsp;{{(entry.streamdetails.audio[0].codec).toUpperCase()}}</a>
+                            <a class="radius secondary button tiny" ng-if="entry.minutes"><i class="fa fa-history"></i>&nbsp;{{entry.minutes}} {{"PROPERTY.MINUTES" | translate}}</a>
+                            <a class="radius secondary button tiny" ng-if="entry.ratings && entry.ratings.score"><i class="fa fa-star-o"></i>&nbsp;{{(entry.ratings.score).toLocaleString()}}</a>
+                            <a class="radius secondary button tiny" ng-if="entry.playcount"><i class="fa fa-check"></i>&nbsp;{{"GLOBAL.WATCHED" | translate}}</a>
+                            <a class="radius secondary button tiny" ng-if="entry.mpaa && entry.mpaa !==''"><i class="fa fa-trophy"></i>&nbsp;{{entry.mpaa}}</a>
+                            <a class="radius secondary button tiny" ng-click="action.playback(entry.file);"><i class="icon fa fa-1x fa-desktop"></i>&nbsp;{{"GLOBAL.PLAY" | translate}}</a>
+                        </div>
+                        <!-- Media Summary list /  ends  -->
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <!-- Orbit Container for details /  ends  -->
+    </div>
+    <!-- Movie Detail container /  ends  -->
+    <div class="large-12 columns margin-bottom"></div>
+</div>
+
+<div class="large-12 columns margin-bottom"></div>
+
+<div class="blur-fill-in transition" id="orbit-blur"></div>
+
+<script type="text/javascript">
+    $(document).foundation("orbit", "reflow");
+</script>
