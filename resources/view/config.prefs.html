@@ -2,11 +2,11 @@
 <div id="drop-settings" class="small-11 medium-9 large-5" style="display:none">
     <div class="tabs-content" ng-controller="config.PrefsCtrl">
         <div aria-hidden="false" class="content row" id="prefs-about" ng-class="{active: openTabName == 'prefs-about' || !openTabName}">
-            <h3><i class="fa fa-chain"></i>&nbsp;About</h3>
+            <h3><i class="fa fa-chain"></i>&nbsp;{{"SETTING.ABOUT" | translate}}</h3>
             <hr>
             <div class="row" ng-if="application.appname && application.version">
                 <div class="small-12 columns"><h4>{{application.appname}}</h4></div>
-                <div class="small-12 columns">Version {{application.version}}</div>
+                <div class="small-12 columns">{{"GLOBAL.VERSION" | translate}} {{application.version}}</div>
                 <div class="small-12 columns text-gray">Ajax based Webinterface for XBMC [JSON-RPC API v6]</div>
             </div>
             <hr>

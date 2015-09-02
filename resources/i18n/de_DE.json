@@ -8,7 +8,7 @@
         "SUBTITLE"     : "Untertitel",
         "DURATION"     : "Dauer",
         "DATEADDED"    : "Eingabedatum",
-        "LASTPLAYED"   : "Zuletzt gespielt am",
+        "LASTPLAYED"   : "Zuletzt abgespielt",
         "CAST"         : "Besetzung",
         "COUNTRY"      : "Land",
         "DIRECTOR"     : "Regisseur",
@@ -41,13 +41,14 @@
         "HOST"            : "Host",
         "PORT"            : "Port",
         "CHANGE_SETTING"  : "Einstellung ändern",
-        "LANGUAGE_CHANGED": "Sprache auf {{language}} gewechselt"
+        "LANGUAGE_CHANGED": "Sprache auf {{language}} gewechselt",
+        "ABOUT"           : "Über"
     },
     "GLOBAL": {
         "VALUE"               : "Wert",
         "PLAY"                : "Abspielen",
         "WATCHED"             : "Gesehen",
-        "NOT_WATCHED"         : "nicht gesehen",
+        "UNWATCHED"           : "nicht gesehen",
         "CANCEL"              : "Abbrechen",
         "SAVE"                : "Speichern",
         "LAST_PAGE"           : "Letzte Seite",
@@ -62,7 +63,17 @@
         "UPDATE_VIDEO_LIBRARY": "Videobibliothek aktualisieren",
         "UPDATE_MUSIC_LIBRARY": "Musikbibliothek aktualisieren",
         "CLEAN_VIDEO_LIBRARY" : "Videodatenbank säubern",
-        "CLEAN_MUSIC_LIBRARY" : "Musikdatenbank säubern"
+        "CLEAN_MUSIC_LIBRARY" : "Musikdatenbank säubern",
+        "VERSION"             : "Version",
+        "LICENSE"             : "Lizenz"
+    },
+    "SEARCH": {
+        "ASCENDING"    : "Aufsteigend",
+        "DESCENDING"   : "Absteigend",
+        "LIMIT_TO"     : "Limit auf",
+        "NO_LIMIT"     : "Kein Limit",
+        "SORT_BY"      : "Sortieren nach",
+        "ALL"          : "Alle"
     },
     "TVSHOW": {
         "SEASONS"     : "Staffeln",
@@ -71,8 +82,6 @@
         "OVERVIEW"    : "Überblick"
     },
     "MOVIE": {
-        "UNVIEWED"  : "Ungesehen",
-        "VIEWED"    : "Gesehen",
         "STARTED"   : "Begonnen",
         "QUEUED"    : "Warteschlange",
         "WATCH_ON"  : "Abspielen auf {{name}}",

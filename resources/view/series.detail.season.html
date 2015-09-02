@@ -45,7 +45,7 @@
                                 <a class="radius secondary button small" ng-if="media.season">{{"TVSHOW.SEASON" | translate}} {{media.season}}</a>
                                 <a class="radius secondary button small" ng-if="media.episode" ng-href="{{route.series}}/filter/episode/{{media.episode}}">{{media.episode}} {{"PROPERTY.EPISODE" | translate}}</a>
                                 <a class="radius secondary button small" ng-if="media.episode == media.watchedepisodes" ng-href="{{route.series}}/filter/watched/true">{{"GLOBAL.WATCHED" | translate}}</a>
-                                <a class="radius secondary button small" ng-if="media.episode - media.watchedepisodes" ng-href="{{route.series}}/filter/unwatched/true">{{media.episode - media.watchedepisodes}} {{"GLOBAL.NOT_WATCHED" | translate}}</a>
+                                <a class="radius secondary button small" ng-if="media.episode - media.watchedepisodes" ng-href="{{route.series}}/filter/unwatched/true">{{media.episode - media.watchedepisodes}} {{"GLOBAL.UNWATCHED" | translate}}</a>
                                 <a class="radius secondary button small" ng-if="media.watchedepisodes" ng-href="{{route.series}}/filter/watched/true">{{media.watchedepisodes}} {{"GLOBAL.WATCHED" | translate}}</a>
                             </div>
                         </div>

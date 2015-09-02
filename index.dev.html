@@ -78,12 +78,12 @@
                         <a data-dropdown="content-filter" class="left trigger">&nbsp;&nbsp;<i class="fa fa-sliders"></i></a>
                         <div id="content-filter" data-dropdown-content="" class="f-dropdown content large f-open-dropdown">
                             <ul class="title-area inline-list">
-                                <li title="{{$root.filter.reverse ? 'Ascending' : 'Descending'}}"><a ng-click="filter.reverse();"><span class="fa" ng-class="{'fa-angle-double-down': !!$root.filter.reverse, 'fa-angle-double-up': !$root.filter.reverse}"></span></a></li>
-                                <li ng-repeat="(key, name) in available"><a ng-class="{'active': key == $root.filter.property}" ng-click="filter.property(key);">{{"PROPERTY."+ name.toUpperCase() | translate}}</a></li>
+                                <li title="{{$root.filter.reverse ? 'SEARCH.ASCENDING' : 'SEARCH.DESCENDING' | translate}}"><a ng-click="filter.reverse();"><span class="fa" ng-class="{'fa-angle-double-down': !!$root.filter.reverse, 'fa-angle-double-up': !$root.filter.reverse}"></span></a></li>
+                                <li ng-repeat="(key, name) in available"><a ng-class="{'active': key == $root.filter.property}" ng-click="filter.property(key);" title="{{'SEARCH.SORT_BY' | translate}}: {{'PROPERTY.'+ name.toUpperCase() | translate}}">{{"PROPERTY."+ name.toUpperCase() | translate}}</a></li>
                             </ul>
                             <ul class="button-group left radius right">
-                                <li ng-repeat="limit in limits"><a class="button success minimal" ng-click="filter.limit(limit);" ng-class="{'active': limit == $root.filter.limit}">{{limit}}</a></li>
-                                <li><a class="button success minimal" ng-click="filter.limit(null);" ng-class="{'active': limit == $root.filter.limit}">Alle</a></li>
+                                <li ng-repeat="limit in limits"><a class="button success minimal" ng-click="filter.limit(limit);" ng-class="{'active': limit == $root.filter.limit}" title="{{'SEARCH.LIMIT_TO' | translate}}: {{limit}}">{{limit}}</a></li>
+                                <li><a class="button success minimal" ng-click="filter.limit(null);" ng-class="{'active': limit == $root.filter.limit}" title="{{'SEARCH.NO_LIMIT' | translate}}">{{"SEARCH.ALL" | translate}}</a></li>
                             </ul>
                         </div>
 
