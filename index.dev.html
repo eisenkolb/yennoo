@@ -29,6 +29,7 @@
     <script type="text/javascript" src="components/directives/subheaderDirective.js"></script>
     <script type="text/javascript" src="components/directives/onreadyDirective.js"></script>
     <script type="text/javascript" src="controllers/index.content.js"></script>
+    <script type="text/javascript" src="controllers/index.offcanvas.js"></script>
     <script type="text/javascript" src="controllers/index.navigation.js"></script>
     <link type="text/css" media="all" rel="stylesheet" href="assets/css/main.theme.css" />
     <link type="text/css" media="all" rel="stylesheet" href="assets/css/main.pages.css" />
@@ -61,9 +62,48 @@
         </div>
 
         <aside class="left-off-canvas-menu">
-            <ul class="off-canvas-list">
-                <li><label>{{"SOURCES" | translate}}</label></li>
-                <li><a href="#/sources/list/enums">{{"VIDEO" | translate}}</a></li>
+            <ul class="off-canvas-list" ng-controller="index.OffCanvasCtrl">
+                <li><label><i class="fa fa-database"></i>&nbsp;{{"GLOBAL.LIBRARY" | translate}}</label></li>
+                <li class="has-submenu"><a href="#">{{"VIDEO" | translate}}</a>
+                    <ul class="left-submenu">
+                        <li class="back"><a href="#">{{"GLOBAL.BACK" | translate}}</a></li>
+                        <li><label><i class="fa fa-film"></i>&nbsp;{{"VIDEO" | translate}}</label></li>
+                        <li><a ng-href="{{route.movies}}">{{"MOVIES" | translate}}</a></li>
+                        <li><a ng-href="{{route.series}}">{{"SERIES" | translate}}</a></li>
+                        <li><a ng-href="{{route.sets}}">{{"COLLECTION" | translate}}</a></li>
+                        <li><a ng-href="{{route.lately}}/musicvideos">{{"GLOBAL.MUSIC_VIDEOS" | translate}}</a></li>
+                        <li><label><i class="fa fa-cube"></i>&nbsp;{{"TOOLS" | translate}}</label></li>
+                        <li><a ng-click="library.update.video();">{{"GLOBAL.UPDATE_VIDEO_LIBRARY" | translate}}</a></li>
+                        <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_VIDEO_LIBRARY" | translate}}</a></li>
+                        <li><label><i class="fa fa-film"></i>&nbsp;{{"RECENTLY_ADDED.RECENTLY_ADDED" | translate}}</label></li>
+                        <li><a ng-href="{{(route.lately).replace(':media', 'movies')}}">{{"RECENTLY_ADDED.RECENTLY_ADDED_MOVIES" | translate}}</a></li>
+                        <li><a ng-href="{{(route.lately).replace(':media', 'episodes')}}">{{"RECENTLY_ADDED.RECENTLY_ADDED_EPISODES" | translate}}</a></li>
+                    </ul>
+                </li>
+                <li class="has-submenu"><a href="#">{{"AUDIO" | translate}}</a>
+                    <ul class="left-submenu">
+                        <li class="back"><a href="#">{{"GLOBAL.BACK" | translate}}</a></li>
+                        <li><label><i class="fa fa-headphones"></i>&nbsp;{{"AUDIO" | translate}}</label></li>
+                        <li><a ng-href="{{route.music}}">{{"MUSIC" | translate}}</a></li>
+                        <li><a ng-href="{{route.music}}/artist">{{"PROPERTY.ARTIST" | translate}}</a></li>
+                        <li><label><i class="fa fa-cube"></i>&nbsp;{{"TOOLS" | translate}}</label></li>
+                        <li><a ng-click="library.update.music();">{{"GLOBAL.UPDATE_MUSIC_LIBRARY" | translate}}</a></li>
+                        <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_MUSIC_LIBRARY" | translate}}</a></li>
+                        <li><label><i class="fa fa-film"></i>&nbsp;{{"RECENTLY_ADDED.RECENTLY_ADDED" | translate}}</label></li>
+                        <li><a ng-href="{{(route.lately).replace(':media', 'music')}}">{{"RECENTLY_ADDED.RECENTLY_ADDED_ALBUMS" | translate}}</a></li>
+                    </ul>
+                <li><a>{{"ADDONS" | translate}}</a></li>
+                <li><a>{{"PROGRAMS" | translate}}</a></li>
+
+                <li><label><i class="fa fa-file-text"></i>&nbsp;{{"FILES" | translate}}</label></li>
+                <li><a href="#/sources/list/enums">{{"SOURCES" | translate}}</a></li>
+                <li><a>{{"PICTURES" | translate}}</a></li>
+
+                <li><label><i class="fa fa-cube"></i>&nbsp;{{"TOOLS" | translate}}</label></li>
+                <li><a ng-click="library.update.video();">{{"GLOBAL.UPDATE_VIDEO_LIBRARY" | translate}}</a></li>
+                <li><a ng-click="library.update.music();">{{"GLOBAL.UPDATE_MUSIC_LIBRARY" | translate}}</a></li>
+                <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_VIDEO_LIBRARY" | translate}}</a></li>
+                <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_MUSIC_LIBRARY" | translate}}</a></li>
             </ul>
         </aside>
 
@@ -113,12 +153,15 @@
                                 </ul>
                             </li>
                             <li class="divider" ng-repeat-end="true"></li>
+                            <li class="left-off-canvas-toggle menu-icon">
+                                <a><i class="fa fa-bars"></i></a>
+                            </li>
                         </ul>
                     </section>
                 </nav>
 
                 <div class="top medium-12 columns">
-                    <div class="left-off-canvas-toggle menu-icon show-for-small fa fa-align-justify left" style="color: #F5F5F5; margin: 10px 0 0 -9px; cursor: pointer;">
+                    <div class="left-off-canvas-toggle menu-icon show-for-small fa fa-align-justify left">
                         &nbsp;Yennoo
                     </div>
                     <div class="group left"></div>
