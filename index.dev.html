@@ -142,13 +142,13 @@
                             <li class="divider"></li>
                             <li ng-repeat-start="(name, entry) in entries"
                                 ng-class="{'has-dropdown not-click': entry.subs}" id="head-{{name}}">
-                                <a ng-href="{{entry.href != false ? ('#/'+ name) : ''}}" class="ng-cloak" ng-click="switch(entry, name, $event);">{{entry.label.toUpperCase() || "{ empty }" | translate}}</a>
+                                <a ng-href="{{entry.href === false ? '' : !entry.href ? ('#/'+ name) : entry.href}}" class="ng-cloak" ng-click="switch(entry, name, $event);">{{entry.label.toUpperCase() || "{ empty }" | translate}}</a>
                                 <ul class="dropdown" ng-if="entry.subs">
                                     <li class="title back js-generated">
                                         <h5><a href="javascript:void(0);">Back</a></h5>
                                     </li>
                                     <li ng-repeat="(subname, submenu) in entry.subs" id="head-{{name}}-{{subname}}">
-                                        <a ng-href="#/{{name}}/{{subname}}" ng-click="switch(entry, name, $event);">{{submenu.label || "{ empty }"}}</a>
+                                        <a ng-href="{{submenu.href === false ? '' : !submenu.href ? ('#/'+ name +'/'+ subname) : submenu.href}}" ng-click="switch(entry, name, $event);">{{submenu.label || "{ empty }" | translate}}</a>
                                     </li>
                                 </ul>
                             </li>
@@ -259,14 +259,11 @@
         navigation: {
             movies: {label: "MOVIES"},
             series: {label: "SERIES"},
-            music : {label: "MUSIC"},
-            addons: {label: "ADDONS"},
-            tools : {
-                label: "TOOLS",
-                href : false,
+            music : {
+                label: "MUSIC",
+                href : "#/music",
                 subs : {
-                    video: {label: "Video Tools"},
-                    about: {label: "About"}
+                    video: {label: "PROPERTY.ARTIST", href : "#/music/artist"}
                 }
             }
         }
