@@ -13,7 +13,8 @@ Yennoo.register.controller("series.IndexCtrl"
     });
 
     /**
-     * Sets the breadcrumb trail for the current page
+     * Sets the breadcrumb trail for the current page and pager path
      */
     $scope.$root.breadcrumb = [{title: "SERIES", href: Yennoo.route.seriesIndex[0]}];
+    $scope.$root.pagerPath  = $scope.route.series;
 }]);
