@@ -10,7 +10,7 @@
             <a ng-href="{{pagination.path}}/page/{{page}}" style="background:#F1F1F1">{{page}}</a>
         </li>
 
-        <li ng-if="pagination.upper < pagination.total" class="arrow">
+        <li class="arrow">
             <a ng-href="{{pagination.path}}/page/{{ pagination.total}}" style="background:#F1F1F1">
                 {{"GLOBAL.LAST_PAGE" | translate}} <i class="fa fa-angle-double-right"></i>
             </a>
