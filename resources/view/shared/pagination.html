@@ -1,0 +1,19 @@
+<div class="large-12 column" ng-if="pagination.pages.length > 1">
+    <ul class="pagination row small-offset-3 large-7 large-offset-5" ng-if="pagination">
+        <li class="arrow unavailable">
+            <a ng-href="{{pagination.path}}/page/1" style="background:#F1F1F1">
+                <i class="fa fa-angle-double-left"></i> {{"GLOBAL.FIRST_PAGE" | translate}}
+            </a>
+        </li>
+
+        <li ng-repeat="page in pagination.pages" ng-class="{'current': pagination.current == page}" >
+            <a ng-href="{{pagination.path}}/page/{{page}}" style="background:#F1F1F1">{{page}}</a>
+        </li>
+
+        <li ng-if="pagination.upper < pagination.total" class="arrow">
+            <a ng-href="{{pagination.path}}/page/{{ pagination.total}}" style="background:#F1F1F1">
+                {{"GLOBAL.LAST_PAGE" | translate}} <i class="fa fa-angle-double-right"></i>
+            </a>
+        </li>
+    </ul>
+</div>
