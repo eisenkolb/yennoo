@@ -29,6 +29,7 @@
     <script type="text/javascript" src="components/directives/subheaderDirective.js"></script>
     <script type="text/javascript" src="components/directives/onreadyDirective.js"></script>
     <script type="text/javascript" src="controllers/index.content.js"></script>
+    <script type="text/javascript" src="controllers/index.offcanvas.js"></script>
     <script type="text/javascript" src="controllers/index.navigation.js"></script>
     <link type="text/css" media="all" rel="stylesheet" href="assets/css/main.theme.css" />
     <link type="text/css" media="all" rel="stylesheet" href="assets/css/main.pages.css" />
@@ -37,12 +38,7 @@
     <link type="image/vnd.microsoft.icon" rel="shortcut icon" href="assets/icon/favicon.ico" />
 </head>
 
-<div id="notifyTemplate" style="display:none;">
-    <div class="notify" style="display:none;">
-        <div class="title"></div>
-        <div class="body"></div>
-    </div>
-</div>
+<div ng-include="'./resources/view/shared/notify.template.html'" class="inline hide"></div>
 
 <body class="hide-extras off-canvas-wrap" id="ng-app">
 
@@ -61,9 +57,48 @@
         </div>
 
         <aside class="left-off-canvas-menu">
-            <ul class="off-canvas-list">
-                <li><label>{{"SOURCES" | translate}}</label></li>
-                <li><a href="#/sources/list/enums">{{"VIDEO" | translate}}</a></li>
+            <ul class="off-canvas-list" ng-controller="index.OffCanvasCtrl">
+                <li><label><i class="fa fa-database"></i>&nbsp;{{"GLOBAL.LIBRARY" | translate}}</label></li>
+                <li class="has-submenu"><a href="#">{{"VIDEO" | translate}}</a>
+                    <ul class="left-submenu">
+                        <li class="back"><a href="#">{{"GLOBAL.BACK" | translate}}</a></li>
+                        <li><label><i class="fa fa-film"></i>&nbsp;{{"VIDEO" | translate}}</label></li>
+                        <li><a ng-href="{{route.movies}}">{{"MOVIES" | translate}}</a></li>
+                        <li><a ng-href="{{route.series}}">{{"SERIES" | translate}}</a></li>
+                        <li><a ng-href="{{route.sets}}">{{"COLLECTION" | translate}}</a></li>
+                        <li><a ng-href="{{route.lately}}/musicvideos">{{"GLOBAL.MUSIC_VIDEOS" | translate}}</a></li>
+                        <li><label><i class="fa fa-cube"></i>&nbsp;{{"TOOLS" | translate}}</label></li>
+                        <li><a ng-click="library.update.video();">{{"GLOBAL.UPDATE_VIDEO_LIBRARY" | translate}}</a></li>
+                        <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_VIDEO_LIBRARY" | translate}}</a></li>
+                        <li><label><i class="fa fa-film"></i>&nbsp;{{"RECENTLY_ADDED.RECENTLY_ADDED" | translate}}</label></li>
+                        <li><a ng-href="{{(route.lately).replace(':media', 'movies')}}">{{"RECENTLY_ADDED.RECENTLY_ADDED_MOVIES" | translate}}</a></li>
+                        <li><a ng-href="{{(route.lately).replace(':media', 'episodes')}}">{{"RECENTLY_ADDED.RECENTLY_ADDED_EPISODES" | translate}}</a></li>
+                    </ul>
+                </li>
+                <li class="has-submenu"><a href="#">{{"AUDIO" | translate}}</a>
+                    <ul class="left-submenu">
+                        <li class="back"><a href="#">{{"GLOBAL.BACK" | translate}}</a></li>
+                        <li><label><i class="fa fa-headphones"></i>&nbsp;{{"AUDIO" | translate}}</label></li>
+                        <li><a ng-href="{{route.music}}">{{"MUSIC" | translate}}</a></li>
+                        <li><a ng-href="{{route.music}}/artist">{{"PROPERTY.ARTIST" | translate}}</a></li>
+                        <li><label><i class="fa fa-cube"></i>&nbsp;{{"TOOLS" | translate}}</label></li>
+                        <li><a ng-click="library.update.music();">{{"GLOBAL.UPDATE_MUSIC_LIBRARY" | translate}}</a></li>
+                        <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_MUSIC_LIBRARY" | translate}}</a></li>
+                        <li><label><i class="fa fa-film"></i>&nbsp;{{"RECENTLY_ADDED.RECENTLY_ADDED" | translate}}</label></li>
+                        <li><a ng-href="{{(route.lately).replace(':media', 'music')}}">{{"RECENTLY_ADDED.RECENTLY_ADDED_ALBUMS" | translate}}</a></li>
+                    </ul>
+                <li><a>{{"ADDONS" | translate}}</a></li>
+                <li><a>{{"PROGRAMS" | translate}}</a></li>
+
+                <li><label><i class="fa fa-file-text"></i>&nbsp;{{"FILES" | translate}}</label></li>
+                <li><a href="#/sources/list/enums">{{"SOURCES" | translate}}</a></li>
+                <li><a>{{"PICTURES" | translate}}</a></li>
+
+                <li><label><i class="fa fa-cube"></i>&nbsp;{{"TOOLS" | translate}}</label></li>
+                <li><a ng-click="library.update.video();">{{"GLOBAL.UPDATE_VIDEO_LIBRARY" | translate}}</a></li>
+                <li><a ng-click="library.update.music();">{{"GLOBAL.UPDATE_MUSIC_LIBRARY" | translate}}</a></li>
+                <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_VIDEO_LIBRARY" | translate}}</a></li>
+                <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_MUSIC_LIBRARY" | translate}}</a></li>
             </ul>
         </aside>
 
@@ -78,12 +113,12 @@
                         <a data-dropdown="content-filter" class="left trigger">&nbsp;&nbsp;<i class="fa fa-sliders"></i></a>
                         <div id="content-filter" data-dropdown-content="" class="f-dropdown content large f-open-dropdown">
                             <ul class="title-area inline-list">
-                                <li title="{{$root.filter.reverse ? 'Ascending' : 'Descending'}}"><a ng-click="filter.reverse();"><span class="fa" ng-class="{'fa-angle-double-down': !!$root.filter.reverse, 'fa-angle-double-up': !$root.filter.reverse}"></span></a></li>
-                                <li ng-repeat="(key, name) in available"><a ng-class="{'active': key == $root.filter.property}" ng-click="filter.property(key);">{{"PROPERTY."+ name.toUpperCase() | translate}}</a></li>
+                                <li title="{{$root.filter.reverse ? 'SEARCH.ASCENDING' : 'SEARCH.DESCENDING' | translate}}"><a ng-click="filter.reverse();"><span class="fa" ng-class="{'fa-angle-double-down': !!$root.filter.reverse, 'fa-angle-double-up': !$root.filter.reverse}"></span></a></li>
+                                <li ng-repeat="(key, name) in available"><a ng-class="{'active': key == $root.filter.property}" ng-click="filter.property(key);" title="{{'SEARCH.SORT_BY' | translate}}: {{'PROPERTY.'+ name.toUpperCase() | translate}}">{{"PROPERTY."+ name.toUpperCase() | translate}}</a></li>
                             </ul>
                             <ul class="button-group left radius right">
-                                <li ng-repeat="limit in limits"><a class="button success minimal" ng-click="filter.limit(limit);" ng-class="{'active': limit == $root.filter.limit}">{{limit}}</a></li>
-                                <li><a class="button success minimal" ng-click="filter.limit(null);" ng-class="{'active': limit == $root.filter.limit}">Alle</a></li>
+                                <li ng-repeat="limit in limits"><a class="button success minimal" ng-click="filter.limit(limit);" ng-class="{'active': limit == $root.filter.limit}" title="{{'SEARCH.LIMIT_TO' | translate}}: {{limit}}">{{limit}}</a></li>
+                                <li><a class="button success minimal" ng-click="filter.limit(null);" ng-class="{'active': limit == $root.filter.limit}" title="{{'SEARCH.NO_LIMIT' | translate}}">{{"SEARCH.ALL" | translate}}</a></li>
                             </ul>
                         </div>
 
@@ -102,23 +137,26 @@
                             <li class="divider"></li>
                             <li ng-repeat-start="(name, entry) in entries"
                                 ng-class="{'has-dropdown not-click': entry.subs}" id="head-{{name}}">
-                                <a ng-href="{{entry.href != false ? ('#/'+ name) : ''}}" class="ng-cloak" ng-click="switch(entry, name, $event);">{{entry.label.toUpperCase() || "{ empty }" | translate}}</a>
+                                <a ng-href="{{entry.href === false ? '' : !entry.href ? ('#/'+ name) : entry.href}}" class="ng-cloak" ng-click="switch(entry, name, $event);">{{entry.label.toUpperCase() || "{ empty }" | translate}}</a>
                                 <ul class="dropdown" ng-if="entry.subs">
                                     <li class="title back js-generated">
                                         <h5><a href="javascript:void(0);">Back</a></h5>
                                     </li>
                                     <li ng-repeat="(subname, submenu) in entry.subs" id="head-{{name}}-{{subname}}">
-                                        <a ng-href="#/{{name}}/{{subname}}" ng-click="switch(entry, name, $event);">{{submenu.label || "{ empty }"}}</a>
+                                        <a ng-href="{{submenu.href === false ? '' : !submenu.href ? ('#/'+ name +'/'+ subname) : submenu.href}}" ng-click="switch(entry, name, $event);">{{submenu.label || "{ empty }" | translate}}</a>
                                     </li>
                                 </ul>
                             </li>
                             <li class="divider" ng-repeat-end="true"></li>
+                            <li class="left-off-canvas-toggle menu-icon">
+                                <a><i class="fa fa-bars"></i></a>
+                            </li>
                         </ul>
                     </section>
                 </nav>
 
                 <div class="top medium-12 columns">
-                    <div class="left-off-canvas-toggle menu-icon show-for-small fa fa-align-justify left" style="color: #F5F5F5; margin: 10px 0 0 -9px; cursor: pointer;">
+                    <div class="left-off-canvas-toggle menu-icon show-for-small fa fa-align-justify left">
                         &nbsp;Yennoo
                     </div>
                     <div class="group left"></div>
@@ -183,7 +221,7 @@
         },
         route: {
             moviesIndex: ["#/movies", "movies.IndexCtrl", "resources/view/movies.index.html"],
-            moviesPages: ["#/movies/page/:page", "movies.PagesCtrl", "resources/view/movies.index.html"],
+            moviesPages: ["#/movies/page/:page", "movies.IndexCtrl", "resources/view/movies.index.html"],
             movieDetail: ["#/movies/:movieid/:title", "movies.DetailCtrl", "resources/view/movies.detail.html"],
             movieFilter: ["#/movies/filter/:filter/:value", "movies.FilterCtrl", "resources/view/movies.index.html"],
             collections: ["#/sets", "movies.CollectionCtrl", "resources/view/movies.index.html"],
@@ -192,12 +230,13 @@
             musicsPages: ["#/music/page/:page", "musics.IndexCtrl", "resources/view/musics.index.html"],
             artistIndex: ["#/music/artist", "musics.ArtistCtrl", "resources/view/musics.artist.html"],
             seriesIndex: ["#/series", "series.IndexCtrl", "resources/view/series.index.html"],
-            seriesPages: ["#/series/page/:page", "series.PagesCtrl", "resources/view/series.index.html"],
+            seriesPages: ["#/series/page/:page", "series.IndexCtrl", "resources/view/series.index.html"],
             serieDetail: ["#/series/:tvshowid/:label", "series.DetailCtrl", "resources/view/series.detail.html"],
             serieSeason: ["#/series/:tvshowid/:label/season/:seasonid", "series.detail.SeasonCtrl", "resources/view/series.detail.season.html"],
             serieFilter: ["#/series/filter/:filter/:value", "series.FilterCtrl", "resources/view/series.index.html"],
             coreSetting: ["#/config/prefs", "config.PrefsCtrl", "resources/view/config.prefs.html"],
             sourceIndex: ["#/sources/:method/:source", "source.FilesCtrl", "resources/view/source.files.html"],
+            latelyAdded: ["#/recently/:media", "recently.AddedCtrl", "resources/view/recently.added.html"],
             dashboard:   ["#/", "index.DashboardCtrl", "resources/view/index.dashboard.html"]
         },
         application: {
@@ -215,14 +254,11 @@
         navigation: {
             movies: {label: "MOVIES"},
             series: {label: "SERIES"},
-            music : {label: "MUSIC"},
-            addons: {label: "ADDONS"},
-            tools : {
-                label: "TOOLS",
-                href : false,
+            music : {
+                label: "MUSIC",
+                href : "#/music",
                 subs : {
-                    video: {label: "Video Tools"},
-                    about: {label: "About"}
+                    video: {label: "PROPERTY.ARTIST", href : "#/music/artist"}
                 }
             }
         }

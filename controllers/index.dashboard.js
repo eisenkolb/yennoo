@@ -1,4 +1,4 @@
-Yennoo.register.controller("index.DashboardCtrl", ["$scope", "MovieFactory", function($scope, MovieFactory) {
+Yennoo.register.controller("index.DashboardCtrl", ["$scope", "MovieFactory", "PlaybackService", function($scope, MovieFactory, PlaybackService) {
     $scope.recently = {banners: {}, episodes: {}, movies: {}};
     $scope.library  = {update: {}, clean: {}};
     $scope.route    = {
@@ -40,38 +40,12 @@ Yennoo.register.controller("index.DashboardCtrl", ["$scope", "MovieFactory", fun
     };
 
     /**
-     * Fetch the recently added movies
+     * Playback handler
      */
-    MovieFactory.BuildRequest(function(data, $async)
-    {
-        $scope.recently.movies = MovieFactory.helper.MapMediaResponse(data.movies || []);
-        $async.apply($scope);
-
-    }, Kodi.rpc.methods.VideoLibrary.GetRecentlyAddedMovies());
-
-    /**
-     * Fetch the recently added TV Episodes
-     */
-    MovieFactory.BuildRequest(function(data, $async)
-    {
-        $scope.recently.episodes = MovieFactory.helper.MapMediaResponse(data.episodes || []);
-
-        for(var index = 0; index < ($scope.recently.episodes || []).length; index++){
-            var tvshow = $scope.recently.episodes[index] && $scope.recently.episodes[index] || null;
-            if (tvshow && !$scope.recently.banners[tvshow.tvshowid]){
-                $scope.recently.banners[tvshow.tvshowid] = {
-                    banner: tvshow.banner,
-                    label : tvshow.showtitle
-                };
-            }
-        }
-
-        $async.apply($scope);
-
-    }, Kodi.rpc.methods.VideoLibrary.GetRecentlyAddedEpisodes());
-
-    $scope.route    = {movies: Yennoo.route.moviesIndex[0], series: Yennoo.route.seriesIndex[0]};
-    $scope.recently = {banners: {}, episodes: {}, movies: {}};
+    $scope.action = {
+        download  : PlaybackService.downloadFile,
+        playback  : PlaybackService.openFile
+    };
 
     /**
      * Fetch the recently added movies

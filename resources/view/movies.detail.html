@@ -76,7 +76,7 @@
                             </li>
                             <li class="entry watched transition large-4" ng-if="media.playcount >= 1 && media.resume.position === 0">
                                 <i class="icon fa fa-2x fa-check"></i>
-                                <span class="text">{{"MOVIE.VIEWED" | translate}}</span>
+                                <span class="text">{{"GLOBAL.WATCHED" | translate}}</span>
                             </li>
                             <li class="entry watched transition large-4" ng-if="media.resume.position >= 1">
                                 <i class="icon fa fa-2x fa-clock-o"></i>
@@ -84,7 +84,7 @@
                             </li>
                             <li class="entry watched transition large-4" ng-if="media.playcount === 0 && media.resume.position === 0">
                                 <i class="icon fa fa-2x fa-history"></i>
-                                <span class="text">{{"MOVIE.UNVIEWED" | translate}}</span>
+                                <span class="text">{{"GLOBAL.UNWATCHED" | translate}}</span>
                             </li>
                             <li class="entry download transition truncate truncate-80 large-4" ng-if="media.file">
                                 <a ng-click="action.download(media.file);">

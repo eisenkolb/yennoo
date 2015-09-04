@@ -2,7 +2,7 @@
  * @fileOverview XBMC/Kodi JSON-RPC API Methods
  *
  * @author  [Ronny Eisenkolb]{@link https://github.com/eisenkolb}
- * @version 1.1.2
+ * @version 1.1.3
  * @license Yennoo : Web Interface for XBMC/Kodi<br>
  *          Copyright (c) 2015, Ronny Eisenkolb (@eisenkolb)<br>
  *          License: [MIT License]{@link http://www.opensource.org/licenses/MIT}
@@ -106,12 +106,19 @@
                  */
                 Song: {
                     enums: ["title", "artist", "albumartist", "genre", "year", "rating", "album", "track", "duration", "comment", "lyrics", "musicbrainztrackid", "musicbrainzartistid", "musicbrainzalbumid", "musicbrainzalbumartistid", "playcount", "fanart", "thumbnail", "file", "albumid", "lastplayed", "disc", "genreid", "artistid", "displayartist", "albumartistid"]
+                },
+
+                /**
+                 * @type object
+                 */
+                Artist: {
+                    enums: ["instrument", "style", "mood", "born", "formed", "description", "genre", "died", "disbanded", "yearsactive", "musicbrainzartistid", "fanart", "thumbnail"]
                 }
             }
         },
 
         /**
-         * Methods AudioLibrary [not yet completed]
+         * Methods AudioLibrary
          *
          * @namespace
          */
@@ -130,9 +137,41 @@
             },
 
             /**
+             * Exports all items from the audio library
+             *
+             * @param  {object[]} options
+             * @param  {string} options[].path
+             * @return {object}
+             */
+            Export: function(options){
+
+                return({
+                    method: "AudioLibrary.Export",
+                    params: {options: options}
+                });
+            },
+
+            /**
+             * Retrieve details about a specific album
+             *
+             * @param  {number} albumid
+             * @param  {array}  [properties=~Audio.Fields.Album[]] {@link Kodi.rpc.methods.Audio.Fields.Album}
+             * @return {object}
+             */
+            GetAlbumDetails: function(albumid, properties){
+                this.albumid    = parseInt(albumid);
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Audio.Fields.Album.enums;
+
+                return({
+                    method: "AudioLibrary.GetAlbumDetails",
+                    params: {albumid: this.albumid, properties: this.properties}
+                });
+            },
+
+            /**
              * Retrieve all albums from specified artist or genre
              *
-             * @param  {array}  [properties=~Audio.Fields.Album[0]] {@link Kodi.rpc.methods.Audio.Fields.Album}
+             * @param  {array}  [properties=~Audio.Fields.Album[]] {@link Kodi.rpc.methods.Audio.Fields.Album}
              * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
              * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
              * @return {object}
@@ -145,6 +184,158 @@
                 return({
                     method: "AudioLibrary.GetAlbums",
                     params: {properties: this.properties, sort: this.sort, limits: this.limits}
+                });
+            },
+
+            /**
+             * Retrieve details about a specific artist
+             *
+             * @param  {number} artistid
+             * @param  {array}  [properties=~Audio.Fields.Artist[]] {@link Kodi.rpc.methods.Audio.Fields.Artist}
+             * @return {object}
+             */
+            GetArtistDetails: function(artistid, properties){
+                this.artistid   = Kodi.util.isNumber(artistid)  ? artistid   : parseInt(artistid);
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Audio.Fields.Artist.enums;
+
+                return({
+                    method: "AudioLibrary.GetArtistDetails",
+                    params: {artistid: this.artistid, properties: this.properties}
+                });
+            },
+
+            /**
+             * Retrieve all artists
+             *
+             * @param  {boolean} [albumartistsonly=false]
+             * @param  {array}   [properties=~Audio.Fields.Artist[0]] {@link Kodi.rpc.methods.Audio.Fields.Artist}
+             * @param  {object}  [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object}  [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
+             * @return {object}
+             */
+            GetArtists: function(albumartistsonly, properties, limits, sort){
+                this.artistsonly= albumartistsonly              ? albumartistsonly : false;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Audio.Fields.Artist.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
+
+                return({
+                    method: "AudioLibrary.GetArtists",
+                    params: {albumartistsonly: this.artistsonly, properties: this.properties, limits: this.limits, sort: this.sort}
+                });
+            },
+
+            /**
+             * Retrieve all genres
+             *
+             * @param  {array}   [properties=~Library.Fields.Genre[]] {@link Kodi.rpc.methods.Library.Fields.Genre}
+             * @param  {object}  [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object}  [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
+             * @return {object}
+             */
+            GetGenres: function(properties, limits, sort){
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Library.Fields.Genre.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
+
+                return({
+                    method: "AudioLibrary.GetGenres",
+                    params: {properties: this.properties, limits: this.limits, sort: this.sort}
+                });
+            },
+
+            /**
+             * Retrieve recently added albums
+             *
+             * @param  {array}  [properties=~Audio.Fields.Album[]] {@link Kodi.rpc.methods.Audio.Fields.Album}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
+             * @return {object}
+             */
+            GetRecentlyAddedAlbums: function(properties, limits, sort){
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Audio.Fields.Album.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
+
+                return({
+                    method: "AudioLibrary.GetRecentlyAddedAlbums",
+                    params: {properties: this.properties, sort: this.sort, limits: this.limits}
+                });
+            },
+
+            /**
+             * Retrieve recently added songs
+             *
+             * @param  {number} [albumlimit=0]
+             * @param  {array}  [properties=~Audio.Fields.Song[]] {@link Kodi.rpc.methods.Audio.Fields.Song}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
+             * @return {object}
+             */
+            GetRecentlyAddedSongs: function(albumlimit, properties, limits, sort){
+                this.albumlimit = Kodi.util.isNumber(albumlimit)? albumlimit : 0;
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Audio.Fields.Song.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
+
+                return({
+                    method: "AudioLibrary.GetRecentlyAddedSongs",
+                    params: {albumlimit: this.albumlimit, properties: this.properties, limits: this.limits, sort: this.sort}
+                });
+            },
+
+            /**
+             * Retrieve recently played albums
+             *
+             * @param  {array}  [properties=~Audio.Fields.Album[]] {@link Kodi.rpc.methods.Audio.Fields.Album}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
+             * @return {object}
+             */
+            GetRecentlyPlayedAlbums: function(albumlimit, properties, limits, sort){
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Audio.Fields.Album.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
+
+                return({
+                    method: "AudioLibrary.GetRecentlyPlayedAlbums",
+                    params: {properties: this.properties, limits: this.limits, sort: this.sort}
+                });
+            },
+
+            /**
+             * Retrieve recently played songs
+             *
+             * @param  {array}  [properties=~Audio.Fields.Song[]] {@link Kodi.rpc.methods.Audio.Fields.Song}
+             * @param  {object} [limits=~List.Limits] {@link Kodi.rpc.methods.List.Limits}
+             * @param  {object} [sort=~List.Sort] {@link Kodi.rpc.methods.List.Sort}
+             * @return {object}
+             */
+            GetRecentlyPlayedSongs: function(properties, limits, sort){
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Audio.Fields.Song.enums;
+                this.limits     = Kodi.util.isObject(limits)    ? limits     : Kodi.rpc.methods.List.Limits;
+                this.sort       = Kodi.util.isObject(sort)      ? sort       : Kodi.rpc.methods.List.Sort;
+
+                return({
+                    method: "AudioLibrary.GetRecentlyPlayedSongs",
+                    params: {properties: this.properties, limits: this.limits, sort: this.sort}
+                });
+            },
+
+            /**
+             * Retrieve details about a specific song
+             *
+             * @param  {number} songid
+             * @param  {array}  [properties=~Audio.Fields.Song[]] {@link Kodi.rpc.methods.Audio.Fields.Song}
+             * @return {object}
+             */
+            GetSongDetails: function(songid, properties){
+                this.songid     = Kodi.util.isNumber(songid)    ? songid     : parseInt(songid);
+                this.properties = Kodi.util.isArray(properties) ? properties : Kodi.rpc.methods.Audio.Fields.Song.enums;
+
+                return({
+                    method: "AudioLibrary.GetSongDetails",
+                    params: {songid: this.songid, properties: this.properties}
                 });
             },
 
@@ -181,6 +372,85 @@
                 return({
                     method: "AudioLibrary.Scan",
                     params: {directory: this.directory}
+                });
+            },
+
+            /**
+             * Update the given album with the given details
+             *
+             * @param  {number} albumid
+             * @param  {string} [title=null]
+             * @param  {array}  [artist=null]
+             * @param  {string} [description=null]
+             * @param  {array}  [genre=null]
+             * @param  {array}  [theme=null]
+             * @param  {array}  [mood=null]
+             * @param  {array}  [style=null]
+             * @param  {string} [type=null]
+             * @param  {string} [albumlabel=null]
+             * @param  {number} [rating=null]
+             * @param  {number} [year=null]
+             * @return {object}
+             */
+            SetAlbumDetails: function(albumid, title, artist, description, genre, theme, mood, style, type, albumlabel, rating, year){
+
+                return({
+                    method: "AudioLibrary.SetAlbumDetails",
+                    params: {albumid: parseInt(albumid), title: title, artist: artist, description: description, genre: genre, theme: theme, mood: mood, style: style, type: type, albumlabel: albumlabel, rating: rating, year: year}
+                });
+            },
+
+            /**
+             * Update the given artist with the given details
+             *
+             * @param  {number} artistid
+             * @param  {array}  [artist=null]
+             * @param  {array}  [instrument=null]
+             * @param  {array}  [style=null]
+             * @param  {array}  [mood=null]
+             * @param  {string} [born=null]
+             * @param  {string} [formed=null]
+             * @param  {string} [description=null]
+             * @param  {array}  [genre=null]
+             * @param  {string} [died=null]
+             * @param  {string} [disbanded=null]
+             * @param  {array}  [yearsactive=null]
+             * @return {object}
+             */
+            SetArtistDetails: function(artistid, artist, instrument, style, mood, born, formed, description, genre, died, disbanded, yearsactive){
+
+                return({
+                    method: "AudioLibrary.SetArtistDetails",
+                    params: {artistid: parseInt(artistid), artist: artist, instrument: instrument, style: style, mood: mood, born: born, formed: formed, description: description, genre: genre, died: died, disbanded: disbanded, yearsactive: yearsactive}
+                });
+            },
+
+            /**
+             * Update the given song with the given details
+             *
+             * @param  {number} songid
+             * @param  {string} [title=null]
+             * @param  {array}  [artist=null]
+             * @param  {array}  [albumartist=null]
+             * @param  {array}  [genre=null]
+             * @param  {number} [year=null]
+             * @param  {number} [rating=null]
+             * @param  {string} [album=null]
+             * @param  {number} [track=null]
+             * @param  {number} [disc=null]
+             * @param  {number} [duration=null]
+             * @param  {string} [comment=null]
+             * @param  {string} [musicbrainztrackid=null]
+             * @param  {string} [musicbrainzartistid=null]
+             * @param  {string} [musicbrainzalbumid=null]
+             * @param  {string} [musicbrainzalbumartistid=null]
+             * @return {object}
+             */
+            SetSongDetails: function(songid, title, artist, albumartist, genre, year, rating, album, track, disc, duration, comment, musicbrainztrackid, musicbrainzalbumid, musicbrainzalbumartistid){
+
+                return({
+                    method: "AudioLibrary.SetSongDetails",
+                    params: {songid: parseInt(songid), title: title, artist: artist, albumartist: albumartist, genre: genre, year: year, rating: rating, album: album, track: track, disc: disc, duration: duration, comment: comment, musicbrainztrackid: musicbrainztrackid, musicbrainzalbumid: musicbrainzalbumid, musicbrainzalbumartistid: musicbrainzalbumartistid}
                 });
             }
         },

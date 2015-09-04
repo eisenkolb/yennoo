@@ -1,0 +1,52 @@
+<div ng-include="recently.view" ng-if="recently.view"></div>
+
+<div id="media-listing" class="page-margin column" ng-if="recently.type">
+
+    <!-- Block Grid for Recently Added Shows / starts -->
+    <ul class="small-block-grid-2" ng-if="recently.type === 'episodes'">
+        <li class="row" ng-repeat="(index, entry) in episodes track by $index">
+            <!-- Media Preview picture on the left / starts -->
+            <div class="small-12 medium-3 columns hide-for-medium">
+                <img class="th" ng-src="{{entry.thumbnail}}" ng-click="action.playback(entry.file);">
+            </div>
+            <!-- Media Preview picture on the left /  ends  -->
+
+            <!-- Media Detail Container / starts -->
+            <div class="small-12 large-9 columns">
+                <h4 class="title"><a class="text-inherit" ng-href="{{route.series}}/{{entry.tvshowid}}/{{entry.showtitle.toLowerCase()}}">{{entry.showtitle}}<span ng-if="entry.playcount">&nbsp;<i class="fa fa-check"></i></span></a></h4>
+                <p class="normal description">
+                    <strong ng-if="entry.label">{{entry.label}}:&nbsp;</strong>{{(entry.plot || "{empty}").substr(0, 188)}}...
+                </p>
+            </div>
+            <!-- Media Detail Container /  ends  -->
+
+            <!-- Additional Media info / starts -->
+            <div class="small-12 left details">
+                <ul class="inline-list row">
+                    <li ng-if="entry.director" class="label radius info text-inherit">
+                        <a ng-click="action.playback(entry.file);"><i class="icon fa fa-play"></i>&nbsp;{{"GLOBAL.PLAY" | translate}}</a>
+                    </li>
+                    <li ng-if="entry.director" class="label radius secondary show-for-large-up">
+                        <div>
+                            {{"PROPERTY.DIRECTOR" | translate}}:
+                            <span ng-repeat="director in entry.director track by $index">
+                                <a ng-href="{{route.series}}/filter/director/{{director.toLowerCase()}}">{{director}}</a>{{$last ? null : ", "}}</a>
+                            <span>
+                        </div>
+                    </li>
+                    <li ng-if="entry.minutes" class="radius secondary label">
+                        <span class="hide-for-small left">{{"PROPERTY.RUNTIME" | translate}}:</span>
+                        <a class="left" ng-href="{{route.series}}/filter/runtime/{{entry.minutes}}">{{entry.minutes}} {{"PROPERTY.MINUTES" | translate}}</a>
+                    </li>
+                    <li ng-if="entry.ratings && entry.ratings.score" class="radius secondary label">
+                        <span class="hide-for-small left">{{"PROPERTY.RATING" | translate}}:</span>
+                        <a class="left" ng-href="{{route.series}}/filter/rating/{{(entry.ratings.score).toLocaleString()}}">{{(entry.ratings.score).toLocaleString()}}</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- Additional Media info /  ends  -->
+        </li>
+    </ul>
+    <!-- Block Grid for Recently Added Shows /  ends  -->
+
+</div>

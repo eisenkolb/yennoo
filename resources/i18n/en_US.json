@@ -41,13 +41,14 @@
         "HOST"            : "Host",
         "PORT"            : "Port",
         "CHANGE_SETTING"  : "change Setting",
-        "LANGUAGE_CHANGED": "Language changed to {{language}}"
+        "LANGUAGE_CHANGED": "Language changed to {{language}}",
+        "ABOUT"           : "About"
     },
     "GLOBAL": {
         "VALUE"               : "Value",
         "PLAY"                : "Play",
         "WATCHED"             : "Watched",
-        "NOT_WATCHED"         : "not watched",
+        "UNWATCHED"           : "not watched",
         "CANCEL"              : "Cancel",
         "SAVE"                : "Save",
         "LAST_PAGE"           : "Last Page",
@@ -55,12 +56,24 @@
         "SAVING_ERROR"        : "Error occurred while saving",
         "CONTINUE"            : "Continue",
         "AT"                  : "at",
+        "BACK"                : "Back",
         "SETTINGS"            : "Settings",
         "LIBRARY"             : "Library",
+        "MUSIC_VIDEOS"        : "Music Videos",
         "UPDATE_VIDEO_LIBRARY": "Update Video Library",
         "UPDATE_MUSIC_LIBRARY": "Update Music Library",
         "CLEAN_VIDEO_LIBRARY" : "Clean Video Library",
-        "CLEAN_MUSIC_LIBRARY" : "Clean Music Library"
+        "CLEAN_MUSIC_LIBRARY" : "Clean Music Library",
+        "VERSION"             : "Version",
+        "LICENSE"             : "License"
+    },
+    "SEARCH": {
+        "ASCENDING"    : "Ascending",
+        "DESCENDING"   : "Descending",
+        "LIMIT_TO"     : "Limit to",
+        "NO_LIMIT"     : "No limit",
+        "SORT_BY"      : "Sort by",
+        "ALL"          : "All"
     },
     "TVSHOW": {
         "SEASONS"     : "Seasons",
@@ -69,8 +82,6 @@
         "OVERVIEW"    : "Overview"
     },
     "MOVIE": {
-        "UNVIEWED"  : "Unviewed",
-        "VIEWED"    : "Viewed",
         "STARTED"   : "Started",
         "QUEUED"    : "in Queue",
         "WATCH_ON"  : "Watch on {{name}}",

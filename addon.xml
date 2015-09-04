@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<addon id="webinterface.yennoo"
+       version="0.1.0~alpha"
+       name="Yennoo"
+       provider-name="Ronny Eisenkolb (@eisenkolb)">
+    <requires>
+        <import addon="xbmc.json" version="6.0.0"/>
+    </requires>
+    <extension point="xbmc.webinterface"/>
+    <extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+        <summary lang="de">Yennoo : Web-Interface für XBMC/Kodi</summary>
+        <summary lang="en">Yennoo : Web Interface for XBMC/Kodi</summary>
+        <description lang="de">Yennoo ist ein Web-Interface für Kodi Media Center (früher XBMC). Diese Anwendung verwendet JSON-RPC API Version 6 für die Kommunikation.[CR][CR]* Für alle Geräte und Auflösungen geeignet</description>
+        <description lang="en">Yennoo is a web Interface for Kodi media center (formerly XBMC). This app uses JSON-RPC API Version 6 for the communication.[CR][CR]* Designed for devices of all resolutions</description>
+        <source>https://github.com/eisenkolb/yennoo</source>
+    </extension>
+</addon>

@@ -82,7 +82,7 @@
                                             <div class="row hide-for-small">&nbsp;</div>
                                             <div class="row watched-status truncate truncate-85 hide-for-small">
                                                 <div ng-if="season.episode == season.watchedepisodes" class="watched"><i class="fa fa-thumbs-o-up"></i> {{"GLOBAL.WATCHED" | translate}}</div>
-                                                <div ng-if="season.episode != season.watchedepisodes" class="unwatched"><i class="fa fa-eye"></i> {{season.episode - season.watchedepisodes}} {{"GLOBAL.NOT_WATCHED" | translate}}</div>
+                                                <div ng-if="season.episode != season.watchedepisodes" class="unwatched"><i class="fa fa-eye"></i> {{season.episode - season.watchedepisodes}} {{"GLOBAL.UNWATCHED" | translate}}</div>
                                             </div>
                                             <div class="row small-12 left">
                                                 <div class="small-8 column text-left hide-for-small episodes truncate truncate-85" ng-if="season.episode">

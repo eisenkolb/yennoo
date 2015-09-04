@@ -43,7 +43,7 @@ angular.module("Kodi.Directive").directive("pager", ["$filter", "$translate", fu
                 }
 
                 this.pager.path = scope.$root.pagerPath || null;
-                if (this.pager.path === null || this.pager.path && location.href.indexOf(this.pager.path) < 0){
+                if (this.pager.path === null){
                     this.pager.path = scope.$root.pagerPath = location.hash;
                 }
 
