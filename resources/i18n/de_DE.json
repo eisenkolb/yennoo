@@ -60,10 +60,8 @@
         "SETTINGS"            : "Einstellungen",
         "LIBRARY"             : "Bibliothek",
         "MUSIC_VIDEOS"        : "Musik Videos",
-        "UPDATE_VIDEO_LIBRARY": "Videobibliothek aktualisieren",
-        "UPDATE_MUSIC_LIBRARY": "Musikbibliothek aktualisieren",
-        "CLEAN_VIDEO_LIBRARY" : "Videodatenbank säubern",
-        "CLEAN_MUSIC_LIBRARY" : "Musikdatenbank säubern",
+        "UPDATE_LIBRARY"      : "Bibliothek aktualisieren",
+        "CLEAN_LIBRARY"       : "Bibliothek säubern",
         "VERSION"             : "Version",
         "LICENSE"             : "Lizenz"
     },

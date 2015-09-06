@@ -68,8 +68,8 @@
                         <li><a ng-href="{{route.sets}}">{{"COLLECTION" | translate}}</a></li>
                         <li><a ng-href="{{route.lately}}/musicvideos">{{"GLOBAL.MUSIC_VIDEOS" | translate}}</a></li>
                         <li><label><i class="fa fa-cube"></i>&nbsp;{{"TOOLS" | translate}}</label></li>
-                        <li><a ng-click="library.update.video();">{{"GLOBAL.UPDATE_VIDEO_LIBRARY" | translate}}</a></li>
-                        <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_VIDEO_LIBRARY" | translate}}</a></li>
+                        <li><a ng-click="library.update.video();">{{"GLOBAL.UPDATE_LIBRARY" | translate}}: {{"VIDEO" | translate}}</a></li>
+                        <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_LIBRARY" | translate}}: {{"VIDEO" | translate}}</a></li>
                         <li><label><i class="fa fa-film"></i>&nbsp;{{"RECENTLY_ADDED.RECENTLY_ADDED" | translate}}</label></li>
                         <li><a ng-href="{{(route.lately).replace(':media', 'movies')}}">{{"RECENTLY_ADDED.RECENTLY_ADDED_MOVIES" | translate}}</a></li>
                         <li><a ng-href="{{(route.lately).replace(':media', 'episodes')}}">{{"RECENTLY_ADDED.RECENTLY_ADDED_EPISODES" | translate}}</a></li>
@@ -82,8 +82,8 @@
                         <li><a ng-href="{{route.music}}">{{"MUSIC" | translate}}</a></li>
                         <li><a ng-href="{{route.music}}/artist">{{"PROPERTY.ARTIST" | translate}}</a></li>
                         <li><label><i class="fa fa-cube"></i>&nbsp;{{"TOOLS" | translate}}</label></li>
-                        <li><a ng-click="library.update.music();">{{"GLOBAL.UPDATE_MUSIC_LIBRARY" | translate}}</a></li>
-                        <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_MUSIC_LIBRARY" | translate}}</a></li>
+                        <li><a ng-click="library.update.music();">{{"GLOBAL.UPDATE_LIBRARY" | translate}}: {{"MUSIC" | translate}}</a></li>
+                        <li><a ng-click="library.clean.music();">{{"GLOBAL.CLEAN_LIBRARY" | translate}}: {{"MUSIC" | translate}}</a></li>
                         <li><label><i class="fa fa-film"></i>&nbsp;{{"RECENTLY_ADDED.RECENTLY_ADDED" | translate}}</label></li>
                         <li><a ng-href="{{(route.lately).replace(':media', 'music')}}">{{"RECENTLY_ADDED.RECENTLY_ADDED_ALBUMS" | translate}}</a></li>
                     </ul>
@@ -95,10 +95,10 @@
                 <li><a>{{"PICTURES" | translate}}</a></li>
 
                 <li><label><i class="fa fa-cube"></i>&nbsp;{{"TOOLS" | translate}}</label></li>
-                <li><a ng-click="library.update.video();">{{"GLOBAL.UPDATE_VIDEO_LIBRARY" | translate}}</a></li>
-                <li><a ng-click="library.update.music();">{{"GLOBAL.UPDATE_MUSIC_LIBRARY" | translate}}</a></li>
-                <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_VIDEO_LIBRARY" | translate}}</a></li>
-                <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_MUSIC_LIBRARY" | translate}}</a></li>
+                <li><a ng-click="library.update.video();">{{"GLOBAL.UPDATE_LIBRARY" | translate}}: {{"VIDEO" | translate}}</a></li>
+                <li><a ng-click="library.update.music();">{{"GLOBAL.UPDATE_LIBRARY" | translate}}: {{"MUSIC" | translate}}</a></li>
+                <li><a ng-click="library.clean.video();">{{"GLOBAL.CLEAN_LIBRARY" | translate}}: {{"VIDEO" | translate}}</a></li>
+                <li><a ng-click="library.clean.music();">{{"GLOBAL.CLEAN_LIBRARY" | translate}}: {{"MUSIC" | translate}}</a></li>
             </ul>
         </aside>
 

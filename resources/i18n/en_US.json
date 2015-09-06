@@ -60,10 +60,8 @@
         "SETTINGS"            : "Settings",
         "LIBRARY"             : "Library",
         "MUSIC_VIDEOS"        : "Music Videos",
-        "UPDATE_VIDEO_LIBRARY": "Update Video Library",
-        "UPDATE_MUSIC_LIBRARY": "Update Music Library",
-        "CLEAN_VIDEO_LIBRARY" : "Clean Video Library",
-        "CLEAN_MUSIC_LIBRARY" : "Clean Music Library",
+        "UPDATE_LIBRARY"      : "Update Library",
+        "CLEAN_LIBRARY"       : "Clean Library",
         "VERSION"             : "Version",
         "LICENSE"             : "License"
     },
