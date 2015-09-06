@@ -38,7 +38,7 @@
         "IMDB"         : "IMDb"
     },
     "SETTING": {
-        "HOST"            : "Host",
+        "IP_ADDRESS"      : "Host",
         "PORT"            : "Port",
         "CHANGE_SETTING"  : "Einstellung ändern",
         "LANGUAGE_CHANGED": "Sprache auf {{language}} gewechselt",
