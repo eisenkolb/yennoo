@@ -7,7 +7,7 @@
             <div class="row" ng-if="application.appname && application.version">
                 <div class="small-12 columns"><h4>{{application.appname}}</h4></div>
                 <div class="small-12 columns">{{"GLOBAL.VERSION" | translate}} {{application.version}}</div>
-                <div class="small-12 columns text-gray">Ajax based Webinterface for XBMC [JSON-RPC API v6]</div>
+                <div class="small-12 columns text-gray">Web Interface for Kodi media center [JSON-RPC API v6]</div>
             </div>
             <hr>
 
@@ -39,15 +39,101 @@
             </div>
             <div class="row section">
                 <div data-tab class="small-8 columns">
-                    <span><a onclick="return false;" href="#prefs-more" aria-controls="prefs-more">More&nbsp;<i class="fa fa-angle-double-right"></i></a></span>
+                    <span><a onclick="return false;" href="#prefs-license" aria-controls="prefs-license">{{"GLOBAL.LICENSE" | translate}}&nbsp;<i class="fa fa-angle-double-right"></i></a></span>
                 </div>
             </div>
         </div>
 
-        <div aria-hidden="true" class="content row" id="prefs-more" ng-class="{active: openTabName == 'prefs-more'}">
-            <h3><i class="fa fa-file-text-o"></i>&nbsp;More</h3>
+        <div aria-hidden="true" class="content row" id="prefs-license" ng-class="{active: openTabName == 'prefs-license'}">
+            <h3><i class="fa fa-file-text-o"></i>&nbsp;{{"GLOBAL.LICENSE" | translate}}</h3>
             <hr>
-            <p>.....</p>
+
+            <div class="small-12">
+                <h5>
+                    <b>Foundation</b> (MIT License)
+                    <small>(c) 2015 ZURB, inc.</small>
+                </h5>
+                <i style="opacity:.4;" class="icon fa fa-sign-out"></i>
+                <a href="http://foundation.zurb.com/" target="_blank">foundation.zurb.com</a>
+            </div>
+            <hr>
+
+            <div class="small-12">
+                <h5>
+                    <b>AngularJS</b> (MIT License)
+                    <small>(c) 2010-2015 Google, Inc.</small>
+                </h5>
+                <i style="opacity:.4;" class="icon fa fa-sign-out"></i>
+                <a href="http://angularjs.org" target="_blank">angularjs.org</a>
+            </div>
+            <hr>
+
+            <div class="small-12">
+                <h5>
+                    <b>Angular translate</b> (MIT License)
+                    <small>(c) 2015 by Pascal Precht</small>
+                </h5>
+                <i style="opacity:.4;" class="icon fa fa-sign-out"></i>
+                <a href="https://angular-translate.github.io/" target="_blank">angular-translate.github.io</a>
+            </div>
+            <hr>
+
+            <div class="small-12">
+                <h5>
+                    <b>Font Awesome</b> (MIT License, SIL OFL 1.1)
+                    <small>by Dave Gandy</small>
+                </h5>
+                <i style="opacity:.4;" class="icon fa fa-sign-out"></i>
+                <a href="http://fontawesome.io/" target="_blank">fontawesome.io</a>
+            </div>
+            <hr>
+
+            <div class="small-12">
+                <h5>
+                    <b>jQuery</b> (MIT License)
+                    <small>(c) 2005, 2013 jQuery Foundation, Inc.</small>
+                </h5>
+                <i style="opacity:.4;" class="icon fa fa-sign-out"></i>
+                <a href="http://jquery.com/" target="_blank">jquery.com</a>
+            </div>
+            <hr>
+
+            <div class="small-12">
+                <h5>
+                    <b>WebSocket </b> (New BSD License)
+                    <small>(c) by Hiroshi Ichikawa</small>
+                </h5>
+                <i style="opacity:.4;" class="icon fa fa-sign-out"></i>
+                <a href="http://gimite.net/en/" target="_blank">gimite.net</a>
+            </div>
+            <hr>
+
+            <div class="small-12">
+                <h5>
+                    <b>JSON in JavaScript</b>
+                    <small>(c) by Douglas Crockford</small>
+                </h5>
+                <i style="opacity:.4;" class="icon fa fa-sign-out"></i>
+                <a href="http://www.json.org/" target="_blank">json.org</a>
+            </div>
+            <hr>
+
+            <div class="small-12">
+                <h5>
+                    <b>Marmelad</b> (SIL OFL 1.1)
+                    <small>(c) 2011, Cyreal (www.cyreal.org)</small>
+                </h5>
+            </div>
+            <hr>
+
+            <div class="small-12">
+                <h5>
+                    <b>Sarala</b> (SIL OFL 1.1)
+                    <small>(c) 2015 by Andres Torresi</small>
+                </h5>
+            </div>
+            <hr>
+
             <div class="row section">
                 <div data-tab class="small-8 columns">
                     <span><a onclick="return false;" href="#prefs-about" aria-controls="prefs-about"><i class="fa fa-angle-double-left"></i>&nbsp;{{"GLOBAL.BACK" | translate}}</a></span>
@@ -64,7 +150,7 @@
                     <span><a onclick="return false;" href="#prefs-about" aria-controls="prefs-about"><i class="fa fa-angle-double-left"></i>&nbsp;{{"GLOBAL.BACK" | translate}}</a></span>
                 </div>
                 <div data-tab class="small-6 columns text-right">
-                    <a ng-click="overlaySettingsClose();">{{"GLOBAL.CANCEL" | translate}}</i></a>
+                    <a ng-click="overlaySettingsClose();">{{"GLOBAL.CANCEL" | translate}}</a>
                 </div>
             </div>
         </div>
