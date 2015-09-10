@@ -1,0 +1,27 @@
+language: node_js
+
+node_js:
+  - "0.12"
+
+before_script:
+  - npm init --force
+  - npm install glob closurecompiler uglifycss easy-zip
+
+script:
+  - node \.build/release.js
+
+env:
+  global:
+    - secure: "ARt/0Vp98iJzKJ2tLyWsK7cuyBflskIFwexbjQvTnxg0yH+WtxvGT4yz568U1cggUvG9swe2RV6d1wIi/wb7brq/oYBedGrvSwCaEFjdI3VjvEHL23mQUOzki/Yj0V9z+T6b5bSawe0NBbiuAj1+KRRW52jb60tcxojRvQ6EnuI74TBNG/y+oBOlzI3QyvxUbMnjEmWoJr02ibJNosZLECZR0n/bNpq8AiMIUW6sut0Qex105iqHxTxgONQbr/pcJriPe8iNwb9jea8DZatZf06/+JGL2Rk6+aR7MIJNwr6dLAPc7yPCF11yRCAOsnaVVrEdkj1LQ1AMQcqQCtkHwvlAywCg/AyFDIqsRTHYA7I2VUSzZaLqodDDnAPz1Y7cZa64dAnsMsiYz3MfcplxTjLLp7sqkJffYZB0qrhaCERucN8FVNoIBChbAtQKcMb83IkgRWu+slUdR90IaD28Hx15nQBhM2siM4aiC2T3lB+lWgK4KxEWcmmDga9b3cvywAaEpLLxpphYkSr6Ar3pO2nrSyx6Gi+EkOzeZtubiRMEURgpxFDVsx5+DByRLwA0SwIgpRAu8bEN8CVBytY5Ne+u4/EgeZUgbtOTCXOGxtTVUuoy9KGHeHVjbQ5bLCkdIg9zzQioKc2OrqNEN/0R/oOHfyWmj1/WLl957eWYM1U="
+    - secure: "MYLokWABDPAyuMtrlYlUoJ/RayI73BmHo3g3Rgi2Kk71dZZa1PNB8D0g1Er/BLW3D6B1qAaRwKX8itmnKQ9IzCXps4ugh/luXjH5YWIxISP79F4gziHFsYDhPLBJdYwl5y/u0WiopcVO5QAc41uf6wet4t7W1Dt6vIVjq3qPhr5L6zdZGXwoLQSSjf4Lzjt+Qep2wymleLVEpEa0WG/xtYxx9kwsJnhfVLx+W6QNtfseFeDXheooYysCuwe9spnKVnoPEN41DOUKOMlxQECQgqBCwuVv2Lgn2NivtuD0jZ/BzMC5BFvTkRhzl2Hwvgp7JE47M/fPg/vgjR0WFaIhAdzSw2U/96uJOJ8x4oWNExPRPuePGPfCFigJ27eRCL0qOXesIABuPvzSbh/7I4/pH4Dwgc0IcQ+zwPF6SnuloRVUnsjD3giT+DEsClPIIP4X2vBYvIVbcTeV1jlZbno+DtropSUpuhsYOUrvEi99RZwEtdzB3pCQZKZ5lNNNoFgTHQ7mUQ18evvv74CtpdJfbg8Vybj5fRUmgqdkI4zFlK1GE3/LP00+E8MAblXsiOH/Qg7BnZEX2WU2u9yOjK3cZuimm88dI8sWTdnomnZCq1+v52BBIKX9awBxffo8jL8qih2NLorMFa5ctg7rGnyKdl39AUqR85fQRpYFNsqkVbQ="
+    - secure: "FdDGQ90ijneybIk0rs26TX5/d2kyrIQz1nD9JDbQ6T5KyJZeVOC15b+AcX3Id/y+ROLtUqSGf5XBcMr+pquiEk/iMvkmk5XrCCK0Wx69waY41M4HlYZvW+BfOIJ9GVsHXubHQhGVLlTwUD4TcVEZDocQFgVL2gL84Fs96hj8qjJziBkm0JR2NWRf69FzoGjLl+w6IdtFf5ynZK6Yw5Km+VNICTs7/SMvm64dsc3YfT0BSvjtrdZf7uv13fOew4CCS35BgCBl+ZZJRIk+rux4u//G9YO1lrGavcfdWOgiLHoUOy5N7ZqqX9xX9dQrgbuqoHHlEpXiXycdr6Rnosi1CGppGOoXVGmn46du8wmNQvfKAmw+57qLyhCrNz1QSNwj3ps7P06fdHF+HOHWlrZvEG7JCv2jQtj0omez+DGIaNmOD+uf0Kst2ZfXvJZTLKOMXQMpioIyG0ra74n3iVLKk7VcYXLHF2XyRfNQh5F5LwaPB4QGpmS7l4EDud2vrp2kJhvdUat3ScnNcWIzN67dp2MObXtbd1oCO1CtyJEw5YcZWo6kIFCo9DEHxy1JO/zC/ydwm1xbbnZC7SPJAQnFnpwtbjXLXZJxAN9TEFuiz7YGC7K8DORpg6UdyeYrXAbiqSs0YaDPR0fks9kwg+tYd4PnI55Gio383PBbTHaj7lg="
+
+before_install:
+  - echo "Build = ${product}-${TRAVIS_TAG}"
+
+deploy:
+  provider: releases
+  file: "${product}-${TRAVIS_TAG}.zip"
+  skip_cleanup: true
+  on:
+    tags: true
