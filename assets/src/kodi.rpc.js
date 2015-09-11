@@ -1575,4 +1575,6 @@
         }
     };
 
+    window.Kodi = Kodi;
+
 })(window, (window.Kodi || {}));
