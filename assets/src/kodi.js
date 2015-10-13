@@ -71,11 +71,7 @@
         }
 
         var register = function(route, name, template){
-            var pattern    = "./controllers/%controller%.js";
-            var controller = pattern.replace("%controller%", name.replace("Ctrl", ""));
-
             $routeProvider.when(route.slice(1), {controller: name, templateUrl: template});
-            jQuery.getScript(controller.toLowerCase(), Kodi.util.noop);
         };
 
         for(var index in Yennoo.route){
