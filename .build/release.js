@@ -27,4 +27,7 @@ var step6 = function(){
     console.log("===> Complete");
 };
 
-steps.apply(null, []);
+if (process && process.env && process.env.TRAVIS_TAG){
+    console.log("Release Deployment");
+    steps.apply(null, []);
+}
