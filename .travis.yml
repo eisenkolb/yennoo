@@ -31,6 +31,3 @@ deploy:
   skip_cleanup: true
   on:
     tags: true
-    repo: eisenkolb/yennoo
-    condition: "! -z $TRAVIS_TAG -a ! -z $PRODUCT"
-    all_branches: true
