@@ -5,7 +5,7 @@ node_js:
 
 before_script:
   - npm init --force
-  - npm install glob closurecompiler uglifycss easy-zip
+  - npm install glob@^5.0.15 closurecompiler@^1.5.2 uglifycss@^0.0.18 easy-zip@^0.0.4
 
 script:
   - node \.build/release.js
